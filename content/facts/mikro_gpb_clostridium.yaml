@@ -1,0 +1,10 @@
+id: mikro_gpb_clostridium
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Clostridium sporu ve nörotoksinleri"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_clostridium]
+metin: "Clostridium türleri gram pozitif, spor yapan zorunlu anaerop basillerdir. Clostridium tetani sporu basilin ucunda yuvarlak biçimde bulunur; tetanospazmin toksini presinaptik olarak GABA ve glisin salınımını engelleyerek spastik paralizi yapar. Botulinum toksini ise nöromüsküler plakta asetilkolin salınımını bloke ederek flasid felç yaratır."

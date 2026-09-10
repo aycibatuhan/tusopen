@@ -1,0 +1,64 @@
+id: sifiliz
+version: 1
+status: draft
+author: ai-drafts/dermatoloji-2
+sources:
+- CDC Cinsel Yolla Bulaşan Hastalıklar Tedavi Rehberi
+- IUSTI Avrupa Sifiliz Rehberi
+ad: Sifiliz
+taksonomi:
+- - ktbt
+  - dermatoloji
+  - derm_cinsel_yolla_bulasan
+  - derm_cyb_sifiliz
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_cinsel_yolla
+  - enf_cy_sifiliz
+tipik_hasta: 'Cinsel açıdan aktif genç erişkin. Primer evre: riskli temastan 10-90 gün sonra ağrısız cinsel
+  organ ülseri. Sekonder evre: şankın kendiliğinden düzelmesinden 4-10 hafta sonra yaygın döküntü. Gebelikte
+  mutlaka hatırlanır (transplasental geçiş); tanınmayan latent evre yıllar sonra kalp ve sinir sistemi
+  hastalığı olarak geri döner'
+patofizyoloji: Treponema pallidum spiroketi; giriş yerinde çoğalıp bölgesel lenf düğümlerine ve kana yayılır
+  (spiroketemi), bu evrelerin zaman çizelgesini belirler. Primerde yerleşim yerinde endüre ülser; sekonderde
+  dolaşan spiroketin deri ve organlara yayılımı (bulaşıcı dönem); latentte belirtisiz ama serolojik pozitif;
+  tersiyerde obliteratif endarterit ve granülamatöz inflamasyonla kalp, sinir sistemi ve deri hasarı
+anahtar_bulgular:
+- 'Primer: ağrısız, sert (endüre), temiz tabanlı tek ülser (şank) artı bölgesel ağrısız lenfadenopati;
+  3-6 haftada iz bırakmadan düzelir'
+- 'Sekonder: avuç içi ve ayak tabanı dahil yaygın bakır renkli makülopapüler döküntü'
+- Genital ve perianal bölgede nemli, geniş, düz, bulaşıcı plaklar (kondiloma latum)
+- 'Sifilitik alopesi: güve yenmiş (moth-eaten) görünümü'
+- Genel lenfadenopati, ateş, boğaz ağrısı, halsizlik (grip benzeri bulgular); sifilitik iritis
+- 'Tersiyer: gumma (deri-kemik), aortit ve aort yetersizliği, nörosifiliz (tabes dorsalis, demans-psikoz
+  tablosu, Argyll Robertson püpil: ışıkta daralmayan, akomodasyonda daralan)'
+patognomonik: Ağrısız, sert kıvamlı, temiz tabanlı tek ülser (şank)
+ilk_tetkik: 'İki basamaklı seroloji: önce nontreponemal test (VDRL veya RPR) titre ile, pozitifse treponemal
+  doğrulama (FTA-ABS); erken şanktan karanlık alan mikroskobu veya PCR; nörosifiliz şüphesinde lomber
+  ponksiyon'
+kesin_tani: Nontreponemal pozitifliğin treponemal testle doğrulanması; VDRL/RPR titre evreyi ve tedavi
+  yanıtını izler (sekonder evrede en yüksek); FTA-ABS geçirilmiş enfeksiyonu ömür boyu işaretler; şank
+  veya kondiloma latum eksüdasyonundan PCR veya karanlık alan görüntülemesi kesinleştirir
+ilk_tedavi: 'Erken sifiliz (primer, sekonder, erken latent): tek doz intramusküler benzatin penisilin
+  G; geç latent, tersiyer ve süresi bilinmeyen olgularda haftada bir, toplam üç doz benzatin; nörosifiliz:
+  10-14 gün intravenöz kristalin penisilin G; penisilin alerjisinde erken evrede doksisiklin, gebelik
+  ve nörosifilizde önce desensitizasyon sonra penisilin; gebelikte tedavi benzatin penisilin ile; tedavi
+  sonrası Jarisch-Herxheimer reaksiyonu (ateş, titreme) hastaya önceden anlatılır'
+klasik_komplikasyon: Nörosifiliz (tabes dorsalis, general parezi), kardiyovasküler sifiliz (aort kökü
+  genişlemesi, aort yetersizliği), gummatöz organ hasarı; gebelikte transplasental geçişle konjenital
+  sifiliz (Hutchinson dişler, interstisyel keratit, kılıç kaval), fetal hidrops ve ölüm
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-37
+- tus-2013-sonbahar-ttbt-76
+- tus-2016-ilkbahar-ktbt-30
+- tus-2016-sonbahar-ktbt-3
+- tus-2017-ilkbahar-ttbt-84
+- tus-2018-ilkbahar-ttbt-81
+- tus-2020-ilkbahar-ktbt-30
+- tus-2021-ilkbahar-ttbt-58
+- tus-2023-sonbahar-ttbt-54
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

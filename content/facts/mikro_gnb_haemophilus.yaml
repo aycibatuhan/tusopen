@@ -1,0 +1,10 @@
+id: mikro_gnb_haemophilus
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Haemophilus influenzae faktör ihtiyacı"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_haemophilus]
+metin: "Haemophilus influenzae gram negatif kokobasildir; üremesi için X (hematin) ve V (NAD) faktörlerine gereksinim duyar. Kanlı agarda Staphylococcus aureus kolonileri çevresinde satelit olarak büyür; gerçek üreme ancak çikolatalı agarda olur. Kapsüllü b tipi suşlar menenjit ve epiglotit yapar."

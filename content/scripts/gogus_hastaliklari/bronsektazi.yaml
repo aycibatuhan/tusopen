@@ -1,0 +1,48 @@
+id: bronsektazi
+version: 1
+status: draft
+author: ai-drafts/gogus-3
+sources:
+- 'Klinik rehberler: British Thoracic Society bronşektazi kılavuzu; ERS bronşektazi yönetim rehberi —
+  referans olarak listelendi, metin projesi özgün yazımdır'
+ad: Bronşektazi
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_bronsektazi
+tipik_hasta: Çocuklukta ağır pnömoni, tüberküloz, kistik fibrozis veya immün yetmezlik geçmişi olan; aylardır
+  süren bol ve katmanlı balgamıyla, yılda birkaç kez antibiyotik gerektiren alevlenmelerle gelen orta
+  yaş hasta; sigara öyküsü olmayabilir — KOAH'tan farklı olarak balgam hacmi belirgin ve bakteriyel alevlenme
+  eşiği çok daha sıktır
+patofizyoloji: Geçirilmiş enfeksiyon, hava yolu obstrüksiyonu veya konjenital yapı bozukluğu bronş duvarının
+  kas ve elastik katmanlarını kalıcı olarak yıkar; genişleyen bronşlarda mukosiliyer temizlik bozulur,
+  sekresyon göllenir ve özellikle Pseudomonas aeruginosa kalıcı kolonizasyon kurarak iltihap ve daha çok
+  doku hasarını besleyen kendi kendini sürdüren bir döngü başlatır
+anahtar_bulgular:
+- Aylardır süren, bol ve katmanlı (üstte köpük, altta pür) balgam; alevlenmede miktar ve iltihap artışı
+- Auskültasyonda aynı yerde, yer değiştirmeyen çıtırtılar; ileri vakalarda parmak katlanması (klubbuk)
+- HRCT'de bronş çapının eşlik eden pulmoner arterden geniş görünmesi (mühür yüzüğü görünümü), bronş duvarının
+  kalınlaşması ve plevradan 1 cm içinde bronşların görülebilmesi
+- Balgam kültüründe Pseudomonas aeruginosa veya klebsiella gibi kalıcı kolonizasyon organizmaları — bronşektazi
+  ile en özgün bağıntı
+- Tekrarlayan aynı bölgede pnömoni veya sık antibiyotik gerektiren alevlenme öyküsü
+patognomonik: HRCT'de bronşun eşlik eden pulmoner arterden belirgin geniş ve duvarı kalın görünmesi (mühür
+  yüzüğü işareti)
+ilk_tetkik: İnce kesit toraks BT (HRCT); radyografi normal olabilir veya nonspecifik çizgili-koyu görünümler
+  gösterir, kesin değerlendirme HRCT ile yapılır
+kesin_tani: HRCT'de genişlemiş, duvarı kalınlaşmış bronşların görülmesi; kronik balgam ve tekrarlayan
+  enfeksiyon klinik tablosuyla birleşince tanı kesinleşir
+ilk_tedavi: Alevlenmede balgam kültürü rehberliğinde antibiyotik (Pseudomonas kolonizasyonu varsa antipseudomonal
+  ajan); havayolu temizliği (fizyoterapi, hipertonik salin), bronkodilatör; sık alevlenmede uzun süreli
+  inhaler antibiyotik ile kolonizasyon baskılanır
+klasik_komplikasyon: Tekrarlayan hemoptizi (bazen masif), sekonder amiloidoz, kor pulmonale; Aspergillus
+  (ABPA) veya Pseudomonas üst üste binmesi
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-22
+- tus-2023-ilkbahar-ktbt-55
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

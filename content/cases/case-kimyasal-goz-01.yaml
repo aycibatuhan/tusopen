@@ -1,0 +1,46 @@
+id: case-kimyasal-goz-01
+version: 1
+status: draft
+author: ai-drafts/cases-d
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: kimyasal_goz_yanigi
+baslik: "Asit/alkali sıçraması sonrası kızarmış göz"
+adimlar:
+  - tip: sunum
+    metin: "28 yaşında erkek, oto tamircisi. Radyatör temizliğinde sağ gözüne alkali esaslı temizleyici sıvı sıçradığını, hemen gözünü akan suyla çalkalayıp acile geldiğini anlatıyor. Sağ gözde yanma, kızarıklık, sulu akıntı, ışık hassasiyeti ve bulanık görme var. Muayenede sağ konjonktiva belirgin kızarık ve ödemli, kornea yüzeyi hafif mat; üst kapak iç yüzü ve alt forniks incelenmemiş, kapak açıldığında fornikste beyazımsı partikül kalıntı görülüyor."
+  - tip: secim
+    soru: "Kimyasal maddenin göze sıçradığı hastada acilde ilk yapılacak işlem hangisidir?"
+    secenekler:
+      - metin: "Bol serum fizyolojik ile en az 15-30 dakika göz yıkaması ve fornikslerin temizlenmesi"
+        dogru: true
+        geri_bildirim: "Kimyasal yanıkta ilk işlem yıkamadır; alkali doku içinde sabunlaşmaya yol açarak derinlere ilerlediğinden yıkama uzundur, kapak çevrilerek altındaki ve fornikslerdeki partiküller temizlenir"
+      - metin: "Göz kapatılıp pansumanla göz hastalığına sevk"
+        dogru: false
+        geri_bildirim: "Kapak altında kalan kimyasal hasarı sürdürür ve sevk süresi kaybedilir; bu gecikme görme kaybının başlıca nedenidir"
+      - metin: "Topikal antibiyotik damla başlatmak"
+        dogru: false
+        geri_bildirim: "Antibiyotik enfeksiyon profilaksisi içindir ama kimyasalı nötralize etmez; yıkamadan sonra düşünülür"
+      - metin: "Yanık kremini göze sürmek"
+        dogru: false
+        geri_bildirim: "Göz yüzeyi için üretilmemiş topikal ajanlar korneayı daha fazla zedeler; yalnızca göz için formüle edilmiş damlalar kullanılır"
+  - tip: sonuc
+    metin: "Yıkama sırasında forniks pH'ı tekrar tekrar ölçüldü; 7.4'te stabil kaldı. Kornea hafif opak, limbik damarlanma korunmuş; yanık derece II kabul edildi. Göz hekimi konsültasyonu istendi."
+  - tip: secim
+    soru: "Yıkama tamamlandı. Bundan sonraki yönetimde doğru yaklaşım hangisidir?"
+    secenekler:
+      - metin: "Forniks pH kontrolünün sürdürülmesi ve göz hekimiyle erken değerlendirme"
+        dogru: true
+        geri_bildirim: "Yıkama sonrası pH yeniden yükselirse yıkama tekrarlanır; ciddiyet kornea opaklığı ve limbik iskemiye göre derecelendirilir, göz hekimi günlük takip düzenler"
+      - metin: "Evde göz kapatılarak bir hafta sonra kontrol"
+        dogru: false
+        geri_bildirim: "Ağır kimyasal yanıkta günlük değerlendirme ve gerektiğinde tekrarlayan yıkama gerekir; kapama epitel iyileşmesini bozar ve enfeksiyon riskini artırır"
+      - metin: "Uzun süreli yüksek doz kortikosteroid damlası başlamak"
+        dogru: false
+        geri_bildirim: "Kortikosteroid iltihabı bastırır ama epitel iyileşmeden uzun süre kullanılırsa kornea stromasında erime riski artar; göz hekimi kontrolünde kısa süreli uygulanır"
+  - tip: ozet
+    metin: "Öğrenme noktaları: kimyasal göz yanığı acildir ve tedavi yıkamayla başlar (topikal anestezikle rahatlatılabilir); alkali membran lipitlerini sabunlaştırarak derinlere işler, asit proteinleri pıhtılaştırıp daha yüzeysel kalır, bu yüzden alkali yanık daha tehlikelidir; yıkama forniks pH'ı 7.4 civarına gelinceye kadar sürdürülür; ciddiyet kornea opaklığı ve limbik iskemiyle derecelendirilir; kapak iç yüzü ve forniks kalıntıları mutlaka temizlenir."
+sozlu_sorular:
+  - "Asit ve alkali yanıkta doku hasarı neden farklıdır?"
+  - "Yıkama işlemi ne zaman bitmiş sayılır?"
+  - "Kortikosteroid tedavisi hangi koşulda kornea erimesini kolaylaştırır?"

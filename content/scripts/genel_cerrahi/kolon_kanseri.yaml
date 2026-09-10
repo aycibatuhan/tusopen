@@ -1,0 +1,66 @@
+id: kolon_kanseri
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-2
+sources:
+- NCCN Colon Cancer Guideline
+- Sabiston Textbook of Surgery
+ad: Kolon Kanseri
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_kolon_rektum_anus
+  - gc_kol_kolon_kanseri
+- - ktbt
+  - dahiliye
+  - dah_gastroenteroloji
+  - dah_gis_polip_kolorektal
+tipik_hasta: Elli yaş üstü, düşük lifli ve işlenmiş et ağırlıklı beslenen, obez, sigara içen hasta; birinci
+  derece akrabada kolorektal kanser veya adenomatöz polip öyküsü, ailesel polipozis sendromları ve inflamatuar
+  bağırsak hastalığı riski belirgin artırır. Açıklanamayan demir eksikliği anemisiyle gelen erişkin ve
+  postmenopozal kadında kolonik tümör ilk sıralarda aranır
+patofizyoloji: 'Kanserleşmenin ana yolu adenom-karsinom dizisidir: adenomatöz polipte APC, ardından KRAS
+  ve p53 mutasyonlarının yıllar içinde birikmesi invaziv kansere götürür; bu uzun süreç taramanın değerini
+  açıklar, poliplerin kolonoskopi sırasında çıkarılması kanseri önler. Yerleşim tabloyu belirler: sağ
+  kolonda lümen geniş ve içerik sıvı olduğundan tümör sinsi büyür, eksik kanamayla demir eksikliği anemisi
+  yapar, tanısı geç konur; sol kolonda lümen dar ve gaita katı olduğundan erken dönemde daralma ve obstrüksiyon
+  belirtileri, alışkanlık değişikliği ve görünür kanama olur'
+anahtar_bulgular:
+- 'Sağ kolon kanseri: halsizlik, solukluk ve demir eksikliği anemisi, sağ karında palpabl kitle; bulgular
+  geç dönemde'
+- 'Sol kolon kanseri: gaita çapının incelmesi ve alışkanlık değişikliği, kanlı-mukuslu gaita, erken dönemde
+  obstrüksiyon belirtileri; baryumlu incelemede elma kabuğu daralması'
+- Gaitada gizli kan pozitifliği
+- Kolonoskopide ekzofitik veya sirküler daraltıcı tümör; biyopside adenokarsinom (en sık histolojik tip)
+- İleri evrede karaciğer metastazları ve karaciğer enzim yüksekliği
+patognomonik: null
+ilk_tetkik: 'Semptomu olan hastada tam kan sayımı, gaitada gizli kan ve kolonoskopi. Taramanın mantığı
+  adenom-karsinom dizisine dayanır: ortalama riskli kişide 45 yaşından itibaren yılda bir gaitada gizli
+  kan veya 10 yılda bir kolonoskopi; birinci derece akrabada kanser varsa tarama 40 yaşından ya da akrabanın
+  tanı yaşından 10 yıl önce başlar. CEA tanıda değil, tedavi sonrası nüks izleminde değerlidir'
+kesin_tani: Kolonoskopi sırasında tümörden alınan biyopsinin adenokarsinom göstermesi; aynı seansta eşzamanlı
+  lezyonlar aranır ve tümör yerleşimi işaretlenir. Evreleme batın BT ve akciğer görüntülemesiyle yapılır
+ilk_tedavi: 'Lokalize hastada cerrahi: tümörü ve drenaj lenf nodlarını içeren hemikolektomi, en az 12 lenf
+  nodu örneklemesiyle; lenf nodu pozitif hastaya adjuvan oksaliplatinli kemoterapi. Sınırlı sayıda karaciğer
+  metastazı varsa rezeksiyon seçeneği korunur; obstrüksiyon yapan tümörde stent veya acil rezeksiyon düşünülür'
+klasik_komplikasyon: İleri yaşta kalın bağırsak obstrüksiyonunun en sık nedeni olması; tümör çevresinde
+  perforasyon ve peritonit, kronik eksik kanamaya bağlı ileri demir eksikliği anemisi
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-88
+- tus-2013-sonbahar-ktbt-90
+- tus-2014-sonbahar-ktbt-96
+- tus-2014-sonbahar-ktbt-99
+- tus-2015-ilkbahar-ktbt-93
+- tus-2016-sonbahar-ktbt-91
+- tus-2017-ilkbahar-ttbt-90
+- tus-2018-ilkbahar-ktbt-21
+- tus-2018-ilkbahar-ttbt-114
+- tus-2018-ilkbahar-ttbt-95
+- tus-2018-sonbahar-ktbt-19
+- tus-2019-ilkbahar-ktbt-88
+- tus-2020-sonbahar-ktbt-13
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

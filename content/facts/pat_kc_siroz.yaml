@@ -1,0 +1,10 @@
+id: pat_kc_siroz
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Siroz ve Portal Hipertansiyon"
+taksonomi:
+  - [ttbt, patoloji, pat_karaciger_safra, pat_kc_siroz]
+metin: "Siroz, yaygın fibrozis ve rejeneratif nodüllerle karakterize geri dönüşsüz karaciğer hasarıdır; en sık nedenleri kronik viral hepatit ve alkol tüketimidir. Portal hipertansiyon tablosunda özofageal varis kanaması, splenomegali, asit, periumbilikal venöz kollateraller (kaput medusae) ve hepatik ensefalopati yer alır. Siroz hepatosellüler karsinom gelişimi için başlıca risk koşuludur."

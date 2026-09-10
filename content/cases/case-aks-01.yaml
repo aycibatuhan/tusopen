@@ -1,0 +1,51 @@
+id: case-aks-01
+version: 1
+status: draft
+author: ai-drafts/cases-a
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: akut_koroner_sendrom
+baslik: "Göğüs ağrısı ile gelen orta yaş hasta"
+adimlar:
+  - tip: sunum
+    metin: "54 yaşında erkek. İki saat önce merdiven çıkarken göğüs ortasında baskı biçiminde ağrı başlamış, sol omuza ve kola yayılmış, soğuk terleme eşlik etmiş. Ağrı istirahatte de sürüyor. Yaklaşık otuz paket yılı sigara öyküsü var. Muayenede tansiyon 148/92 mmHg, nabız dakikada 94 ve ritmik; kalp ve akciğer dinlemesi olağan. Elektrokardiyografide V4 ile V6 derivasyonlarında iki milimetreye ulaşan ST çökmesi ve T dalga negatifliği saptanıyor. Troponin I ilk ölçümde 0.9 ng/mL, üç saat sonra 3.4 ng/mL."
+  - tip: secim
+    soru: "Eforla başlayıp istirahatte süren tipik göğüs ağrısı, dinamik ST değişikliği ve yükselen troponin birlikte. İlk saatlerde doğru yaklaşım hangisidir?"
+    secenekler:
+      - metin: "Acil monitörizasyon, antiagregan ve antikoagülan tedavi ile göğüs ağrısı ünitesinde izlem ve risk sınıflaması"
+        dogru: true
+        geri_bildirim: "Troponin artışı miyokard nekrozunu, ST çökmesi iskemiyi gösterir; ST yükselmesi olmadan bu tablo non-ST yükselmeli akut koroner sendromdur ve hızlı müdahale gerektirir."
+      - metin: "Ağrı geçince analjezi ile taburcu edip polikliniğe yönlendirmek"
+        dogru: false
+        geri_bildirim: "Yükselen troponin ve riskli elektrokardiyografi taburculuk ölçütü değildir; ölümcül ritim bozukluğu riski devam eder."
+      - metin: "Önce D-dimer isteyip akciğer embolisi için araştırmak"
+        dogru: false
+        geri_bildirim: "Tipik göğüs ağrısı ve troponin yükselmesinde önce miyokard iskemisi düşünülür; bu klinikte D-dimer öncelikli tetkik değildir."
+      - metin: "Sadece asit baskılayıcı ve spazm çözücü ile gastrit tedavisi denemek"
+        dogru: false
+        geri_bildirim: "İskemi dışlanmadan mide ilaçlarıyla deneme tanıyı geciktirir; gecikme kalp kası kaybını büyütür."
+  - tip: sonuc
+    metin: "Hasta monitörize edilir; aspirin ve klopidogrel yüklemesi ile düşük molekül ağırlıklı heparin başlanır, beta bloker eklenir. Ağrı otuz dakikada geriler, ritim bozukluğu gelişmez."
+  - tip: sunum
+    metin: "Dört saat sonra yeniden değerlendirilir. Ağrı yok; tansiyon 138/86 mmHg, nabız dakikada 76. Troponin zirve değeri 6.1 ng/mL. Ekokardiyografide tepede hipokinezi saptanır. Risk sınıflaması orta-yüksek risk gösterir."
+  - tip: secim
+    soru: "Non-ST yükselmeli akut koroner sendrom doğrulandı. Sonraki adım hangisidir?"
+    secenekler:
+      - metin: "Erken invaziv strateji: yatışla koroner anjiyografi ve gerekirse damar açma girişimi"
+        dogru: true
+        geri_bildirim: "Troponin yükselmesi ve orta-yüksek risk, erken anjiyografiyi gerektirir; bu strateji ölüm ve tekrar infarkt riskini azaltır."
+      - metin: "Trombolitik tedavi başlatmak"
+        dogru: false
+        geri_bildirim: "Tromboliz ST yükselmeli infarktın tedavisidir; non-ST yükselmeli tabloda kullanılmaz, girişimsel strateji tercih edilir."
+      - metin: "İltihap karşıtı ağrı kesici eklemek"
+        dogru: false
+        geri_bildirim: "Siklooksigenaz yolunu inhibe eden ağrı kesiciler miyokard infarktüsünde kontrendike sayılır ve iskemiyi kötüleştirebilir."
+      - metin: "Tek başına kalsiyum kanal blokeri verip taburcu etmek"
+        dogru: false
+        geri_bildirim: "Taburculuk kararı risk sınıflamasına göre verilir; orta-yüksek riskli hastada anjiyografi yapılmadan taburculuk uygun değildir."
+  - tip: ozet
+    metin: "Öğrenme noktaları: orta yaşta tipik göğüs ağrısında ilk tetkik acil elektrokardiyografidir; troponin seri ölçülür ve yükselmesi nekroz işaretidir; ST çökmesi artı troponin yükselmesi non-ST yükselmeli sendrom tanısını verir; tedavi antiagregan ve antikoagülanla başlanır, orta-yüksek riskli hastada erken anjiyografi yapılır; tromboliz bu tabloda kullanılmaz."
+sozlu_sorular:
+  - "Stabil anjina ile non-ST yükselmeli sendrom nasıl ayrılır?"
+  - "Bu hastada trombolizin uygun olmamasının nedenini açıkla."
+  - "Yüksek risk belirten erken bulgular nelerdir?"

@@ -1,0 +1,10 @@
+id: anat_ks_okulomotor
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Göz hareket sinirleri (III, IV, VI)"
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_okulomotor]
+metin: "Okulomotor (III) sinir superior oblik ve lateral rektus dışındaki tüm göz kasları ile levator palpebra superiorisi innerve eder; lezyonunda göz aşağı-dışa kayar, pitoz ve pupil dilatasyonu olur. Pupiller parasempatik lifler sinirin yüzeyel kısmında seyrettiği için uncal herniasyonda önce basıya uğrar ve pupil genişler; diyabetik mikrovasküler palside ise pupil korunur. Troklear (IV) sinir lezyonu aşağı bakışta dikey diplopi yapar ve hasta başını lezyon tarafının tersine eğer."

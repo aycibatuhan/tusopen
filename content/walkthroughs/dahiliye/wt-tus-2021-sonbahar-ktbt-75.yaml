@@ -1,0 +1,26 @@
+id: wt-tus-2021-sonbahar-ktbt-75
+version: 1
+status: draft
+author: "ai-drafts/walkthroughs-1"
+sources:
+  - "Klinik rehberler: hiponatremi değerlendirmesi ve düzeltilmiş sodyum hesabı (Adrogué-Madiyas yaklaşımı) — referans olarak listelendi, metin özgün yazımdır"
+soru_ref: tus-2021-sonbahar-ktbt-75
+sinanan_bilgi: "Hiperglisemi, hücre dışına su çekerek serum sodyumunu dilüe eder; ölçülen sodyum, 100 mg/dL üzerindeki her 100 mg/dL glukoz artışı için yaklaşık 1.6 mEq/L eklenerek düzeltilebilir (ağır hiperglisemide katsayı 2.4e kadar çıkabilir)."
+ipucu_turleri:
+  - "Kan şekeri çok yüksekken ölçülen düşük sodyum: dilüsyonel hiponatremi ve düzeltilmiş değer hesabı sinyali"
+  - "Seçeneklerin tümü ölçülen değerin üzerinde: doğru cevabın yukarı yönde düzeltileceğini işaret eder"
+  - "Eşik mantığı: düzeltme yalnız 100 mg/dLyi aşan glukoz kısmı üzerinden yapılır, tüm glukoz üzerinden değil"
+gurultu_turleri:
+  - "Hiponatremi tedavi çerçevesi (sıvı kısıtlaması, salin, hipertonik tuz) akla gelir; soru tedavi planı değil, gerçek tonisiteyi yansıtan laboratuvar değeri istiyor"
+  - "Katsayı karışıklığı: ağır hiperglisemide önerilen 2.4 değeri başka bir seçenek olarak konmuştur; 300 mg/dL düzeyinde klasik hesap 1.6 ile yapılır"
+mantik: "Hiperglisemide glukoz hücre dışı sıvının ozlalitesini yükseltir, su hücre dışına kayar ve serum sodyumunu sulandırır; bu nedenle ölçülen 128 değeri gerçek toplam vücut sodyum su oranını yansıtmaz. Düzeltme kuralı: glukozun 100 mg/dLnin üzerindeki her 100 mg/dLsi için 1.6 mEq/L eklenir. Glukoz 300 olduğundan eşik üstü kısım 200dür; 200 üzerinden iki kademe 1.6, yani 3.2 mEq/L eklenir: 128 + 3.2 = 131.2. Bu soruda tedavi kararı verilmek istenmez; laboratuvar değeri gerçek değerine çekilir ve sodyum hafifçe düşük bir düzeye iner. Zincir: yüksek glukoz + ölçülen düşük sodyum + eşik üstü 200 üzerinden 1.6 katsayısı → düzeltilmiş sodyum 131.2."
+celdirici_kavramlar:
+  - kavram: "Ölçülen değeri olduğu gibi ya da daha da düşürerek raporlamak"
+    neden_yanlis: "Hiperglisemi sodyumu sulandırdığı için ölçülen değer sanal düşüklüktür; düzeltme yukarı yönde yapılır, ters yönde yapılan eklemeler (128den 1.6 ya da 3.2 eksiltmek) hesap yönünü tersine çevirir."
+    dogru_oldugu_durum: "Glukoz normal aralıkta olduğunda sodyum ek düzeltme olmaksızın doğrudan yorumlanır."
+  - kavram: "Tek kademe düzeltme yapmak (129.6)"
+    neden_yanlis: "Düzeltme, glukozun tamamı için değil yalnız 100 mg/dLyi aşan kısmı için yapılır; 300 mg/dLde eşik üstü 200dür ve bu iki kademe eder, tek kademe eksik kalır."
+    dogru_oldugu_durum: "Glukoz 200 mg/dL düzeyindeyken eşik üstü kısım tek 100lük dilimdir."
+  - kavram: "Genişletilmiş 2.4 katsayısını seçmek (132.8)"
+    neden_yanlis: "2.4 katsayısı çok ağır hiperglisemide (kılavuzlarda genellikle 400-500 mg/dL üstü) gerçek su kaymağını daha iyi yansıtmak için önerilir; 300 mg/dL düzeyinde standart hesap 1.6 ile yapılır ve sorunun beklediği sonuç bu klasik hesaptır."
+    dogru_oldugu_durum: "Çok yüksek glukozlu ağır hastada, klinik gözlemlerle standart katsayının yetersiz kaldığı durumlarda."

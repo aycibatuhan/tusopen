@@ -1,0 +1,10 @@
+id: fiz_kv_kalp_elektrofizyoloji
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kalp Otomatiliği ve İletim Hızları"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kalp_elektrofizyoloji]
+metin: "Sinüs düğümü normal ritmin ritim yapıcısı olup ateşleme (otomatik) hızı dakikada 60-100 arasında iken, atrioventriküler düğüm ve His-Purkinje sisteminin kendiliğinden ateş hızları sırasıyla 40-60 ve 20-40 arasındadır. Sinüs ve AV düğüm hücrelerinde depolarizasyon kalsiyum kanallarıyla, ventriküler miyokard ve hızlı iletici sistemde sodyum kanallarıyla olur; ritim yapıcı hücrelerin 4. fazındaki kademeli depolarizasyon otomatikliği belirler."

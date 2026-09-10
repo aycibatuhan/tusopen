@@ -1,0 +1,56 @@
+id: bruselloz
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon
+sources:
+- 'Klinik rehberler: WHO bruselloz tanı ve tedavi raporu, ESCMID bruselloz tedavi kılavuzu — referans
+  olarak listelendi, metin projesi özgün yazımdır'
+ad: Bruselloz
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_bruselloz
+tipik_hasta: Çiğ süt ya da ev yapımı taze peynir (özellikle keçi-koyun sütünden) tüketen; hayvancılık,
+  veterinerlik, hayvan doğumuna yardım ya da laboratuvarda etkenle uğraşan; haftalarca süren dalgalı ateş,
+  gece terlemesi, eklem-kas ağrıları ve bitkinlikle başvuran hasta
+patofizyoloji: 'Brucella türleri (insanda en sık B. melitensis; koyun-keçi rezervuarı) kapsülsüz, hareketsiz
+  gram negatif kokobasillerdir; kontamine süt-peynir ya da doğrudan hayvan temasıyla (doğum ürünleri özellikle
+  bulaşıcıdır) bulaşır. Organizma fagositle kolay kaldırılamaz: makrofaj içinde hayatta kalıp çoğalır,
+  lenf düğümlerine ve retiküloendotelyal sistem organlarına (karaciğer, dalak, kemik iliği) yayılır, granülomatöz
+  reaksiyon yapar. İntrasellüler yaşam tarzı tedaviyi uzun süreli kombinasyona zorlar; aksi halde relaps
+  görülür'
+anahtar_bulgular:
+- Haftalarca süren dalgalı (undulan) ateş, bitkinlik yapan gece terlemeleri, artralji, miyalji, iştahsızlık
+  ve kilo kaybı
+- Splenomegali ve hepatomegali; yer yer lenfadenopati
+- 'Osteoartiküler tutulum en sık odaktır: lomber ağırlıklı spondilit, genç erişkinde klasik sakroiliit,
+  periferik artrit'
+- 'Genitoüriner tutulum: epididimo-orşit; gebelikte düşük riski'
+- Nörobruselloz (menenjit, radikülopati) ve endokardit (en sık ölüm nedeni)
+- Tam kan sayımında pansitopeni eğilimi; Rose Bengal tarama testi pozitifliği
+patognomonik: null
+ilk_tetkik: Rose Bengal testiyle serolojik tarama ve ardından standart tüp aglutinasyonu (STA); tam kan
+  sayımı, karaciğer fonksiyon testleri, CRP ve eritrosit sedimantasyonu; odak şüphesinde omurga manyetik
+  rezonans görüntülemesi ve ekokardiyografi
+kesin_tani: 'Kan ya da doku kültüründe Brucella üremesi (altın standart; yavaş ürediği için kültür süresi
+  uzatılır) ya da yüksek serolojik titre: STA 1/160 ve üzeri ya da iki hafta arayla alınan örneklerde
+  4 katlık titre artışı'
+ilk_tedavi: 'Yetişkinde doksisiklin altı hafta artı rifampisin altı hafta; alternatif olarak doksisiklin
+  altı hafta ve ilk 2-3 hafta aminoglikozid (gentamisin ya da streptomisin) — aminoglikozidli kombinasyon
+  spondilitte tercih edilir. İntrasellüler yaşam nedeniyle tek ilaç ya da kısa tedavi relapsa yol açar;
+  osteoartiküler ve kardiyak tutulumda süre uzatılır. Çocuk ve gebelikte doksisiklin kontrendikedir: trimetoprim-sülfametoksazol
+  ve rifampisin kombinasyonu kullanılır'
+klasik_komplikasyon: Spondilit ve sakroiliit, epididimo-orşit, nörobruselloz, endokardit; tedavi yetersizliğinde
+  kronikleşme ve relaps
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-60
+- tus-2019-sonbahar-ktbt-3
+- tus-2020-ilkbahar-ttbt-76
+- tus-2020-sonbahar-ttbt-63
+- tus-2026-sonbahar-ktbt-1
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

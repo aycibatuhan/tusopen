@@ -1,0 +1,10 @@
+id: histo_deri_epidermis
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Epidermis Katmanları"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_deri, histo_deri_epidermis]
+metin: "Epidermis tabandan yüze doğru bazal, dikenli, granüler, parlak ve kornifiye katmanlardan oluşur. Kornifiye katman hücreleri çekirdeksiz ve keratinle doludur; parlak katman ise yalnızca avuç içi ve taban gibi kalın deride görülür."

@@ -1,0 +1,10 @@
+id: mikro_imm_t_hucre
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "T hücre alt tipleri ve MHC tanıması"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_t_hucre]
+metin: "T lenfositler timusta olgunlaşır; CD4 taşıyan yardımcı hücreler MHC sınıf II, CD8 taşıyan sitotoksik hücreler MHC sınıf I molekülleriyle sunulan peptidleri tanır. Sitotoksik T hücreleri perforin ve granzim salgılayarak hedef hücreyi öldürür; CD4 hücreleri Th1 ve Th2 alt tiplerine ayrılır."

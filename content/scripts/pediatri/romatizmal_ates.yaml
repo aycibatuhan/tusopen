@@ -1,0 +1,61 @@
+id: romatizmal_ates
+version: 1
+status: draft
+author: ai-drafts/pediatri-3
+sources:
+- 'AHA bilimsel bildirisi: Akut romatizmal ateş tanısında Jones kriterleri 2015 güncellemesi — referans
+  olarak listelendi, metin projesi özgün yazımdır'
+- Nelson Textbook of Pediatrics (romatizmal ateş bölümü)
+ad: Akut Romatizmal Ateş
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_romatizmal_ates
+- - ktbt
+  - kardiyoloji
+  - kard_kapak
+  - kard_kp_romatizmal_ates
+tipik_hasta: 5-15 yaş arasında; 2-3 hafta önce tedavi edilmemiş ya da fark edilmemiş boğaz ağrısı geçirmiş,
+  şimdi göçebeci eklem ağrıları, ateş, halsizlik ya da eforla nefes darlığı ve çarpıntıyla başvuran okul
+  çağı çocuğu; kalabalık ve yoksul yaşam koşullarında daha sık
+patofizyoloji: Grup A beta-hemolitik streptokokun (Streptococcus pyogenes) yeterli süre yürüyen boğaz
+  enfeksiyonunu izleyen 1-3 hafta içinde bakteriyel antijenlere karşı üretilen antikorların, kalp dokusu,
+  eklemler ve bazal ganglionlardaki yapılarla ortak epitop paylaşımı (moleküler mimikri) nedeniyle sağlıklı
+  dokuya saldırması; histolojik karşılığı Aschoff cisimciği ve vaskülit, klinik karşılığı başlıca mitral
+  kapakta kapakçık inflamasyonudur. Deri enfeksiyonları (piyodermi) ARA'ya yol açmaz — ne artrit ne kardit görülür; piyodermi
+  sonrası akut glomerülonefrit gelişir, ARA yalnızca GAS farenjiti sonrası ortaya çıkar
+anahtar_bulgular:
+- 'Göçebeci büyük eklem artriti: diz, ayak bileği, dirsek gibi büyük eklemleri sırayla, her eklemi 1-2
+  gün içinde bırakan ağrılı şişlik; aspirin gibi NSAID''lere hızlı yanıt verir ve iz bırakmaz'
+- 'Kardit: yeni mitral yetersizlik üfürümü, uzamış PR aralığı, perikardit; çocukta egzersiz kapasitesinin
+  düşmesi, ateşle açıklanamayacak derecede yüksek taşikardi'
+- 'Sydenham koresi: istemsiz, amaçsız, hızlı hareketler ve el yazısının bozulması; boğaz enfeksiyonundan
+  haftalar-aylar sonra başlayabilir, duygusal labilite eşlik eder'
+- 'Erythema marginatum: gövdede ortası temiz, kenarı serpantin biçimli, saatler içinde yer değiştiren
+  halka biçimli eritem; ateşle birlikte görülür'
+- 'Subkütan nodüller: ekstansör yüzeylerdeki kemik çıkıntıları üzerinde sağlam, ağrısız, deri altı küçük
+  kitleler; genellikle ağır karditle birlikte'
+- 'Streptokok kanıtı: ASO ve anti-DNaz B titresinde artış ya da boğaz kültüründe Streptococcus pyogenes;
+  ESR ve CRP belirgin yüksek'
+patognomonik: 'Histolojide Aschoff cisimciği; klinikte tanı Jones kriterleri mantığıyla konur: 2 major
+  ya da 1 major artı 2 minor bulgunun yakın streptokok enfeksiyonu kanıtıyla birlikte aranması'
+ilk_tetkik: ASO ve anti-DNaz B titresi (10-14 gün arayla çift örnek titre artışı), ESR ve CRP, boğaz kültürü;
+  EKG ile PR aralığı ölçümü ve ekokardiyografi (kapak yetersizliği, perikard efüzyonu)
+kesin_tani: 'Jones 2015 kriterleri: 2 major ya da 1 major artı 2 minor bulgu artı yakın streptokok enfeksiyonu
+  kanıtı; daha önce romatizmal ateş geçirmiş hastada nüks için daha esnek eşik kullanılır (kore ya da
+  indolent kardit tek başına yeterli sayılabilir)'
+ilk_tedavi: Kalan streptokokları temizlemek için tek doz kas içi benzatin penisilin ya da 10 gün oral
+  penisilin (penisilin allerjisinde eritromisin); artritte yüksek doz aspirin, kardit varsa oral prednizon;
+  koresinde karbamazepin ya da valproat; sekonder profilaksi 4 haftada bir benzatin penisilinle başlanır
+klasik_komplikasyon: Mitral kapakta kalıcı skar ve romatizmal kalp hastalığı (mitral yetersizlik ve geç
+  dönemde stenoz, sonra aort kapak tutulumu); tekrarlayan ataklar kapak hasarını kümülatif artırır, ileri
+  yaşta kapak cerrahisi gerekebilir
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-25
+- tus-2016-ilkbahar-ktbt-62
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

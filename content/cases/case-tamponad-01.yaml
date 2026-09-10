@@ -1,0 +1,49 @@
+id: case-tamponad-01
+version: 1
+status: draft
+author: "ai-drafts/cases-b"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: kardiyak_tamponad
+baslik: "Kanser öykülü hastada ilerleyici nefes darlığı, düşük basınç ve paradoksal nabız"
+adimlar:
+  - tip: sunum
+    metin: "54 yaşında kadın; iki yıl önce akciğer kanseri tanısı konmuştu. Son beş günde artan nefes darlığı, yatarken kötüleşme; bugün baş dönmesi ve soğuk terleme. Muayene: bilinç açık, eller soğuk ve soluk. Basınç 84/62 mmHg, nabız 116/dk; inspiryumda sistolik basınçta 16 mmHg düşüş ölçülüyor (paradoksal nabız). Jugüler venöz dolgunluk oturur pozisyonda bile belirgin; kalp sesleri uzaktan silik; akciğer auskültasyonu temiz."
+  - tip: secim
+    soru: "İlk yapılacak tetkik hangisidir?"
+    secenekler:
+      - metin: "Yatak başı ekokardiyografi"
+        dogru: true
+        geri_bildirim: "Hipotansiyon + boyun damar dolgunluğu + silik kalp sesleri + paradoksal nabız birlikteliği tamponadı çağırır; ekokardiyografi yatak başında hızlıdır ve tanıyı doğrudan gösterir"
+      - metin: "Toraks bilgisayarlı tomografi"
+        dogru: false
+        geri_bildirim: "Efüzyonu gösterebilir ama hemodinamik bozukluğu olan hastada karar için yavaş ve taşınması risklidir; yatak başı görüntüleme önceliklidir"
+      - metin: "D-dimer ve pulmoner anjiyografi"
+        dogru: false
+        geri_bildirim: "Pulmoner emboli ayırıcı tanıdır ama paradoksal nabız, boyun damar dolgunluğu ve silik sesler tamponada işaret eder; ilk hedef ekokardiyografidir"
+      - metin: "Troponin ölçüp koroner anjiyografi planlamak"
+        dogru: false
+        geri_bildirim: "İskemik tabloyu işaret eden göğüs ağrısı ve EKG değişikliği yok; sıkışma (tamponad) araştırılmalıdır"
+  - tip: sonuc
+    metin: "EKG'de düşük voltaj ve elektriksel alterans. Ekokardiyografide geniş perikardiyal efüzyon, diyastolde sağ ventrikül serbest duvarında çökme ve inferior vena kavada kollapsın kaybı görülüyor."
+  - tip: secim
+    soru: "Tamponad bulguları doğrulandı. Acil müdahale ne olmalıdır?"
+    secenekler:
+      - metin: "Perikardiyosentez"
+        dogru: true
+        geri_bildirim: "Tamponadın kesin ve hızlı tedavisi sıvının boşaltılmasıdır; hemodinamik düzelmenin tek güvenilir yolu budur"
+      - metin: "Damardan furosemid vermek"
+        dogru: false
+        geri_bildirim: "Tamponadda kalp odacıklarının dolmasına öndolum basıncı gereklidir; diüretik öndolumu düşürerek tabloyu kötüleştirir"
+      - metin: "Yalnızca geniş hacim IV sıvı verip ertesi güne planlamak"
+        dogru: false
+        geri_bildirim: "Sıvı kısa süreli köprü olarak düşünülebilir ama kesin tedavi değildir; tanı konmuş tamponadda erteleme ölümcül olur"
+      - metin: "Nitrogliserin infüzyonu başlatmak"
+        dogru: false
+        geri_bildirim: "Öndolumu azaltan ilaçlardır ve tamponadda kontraendikedir; dolma basıncını daha da düşürür"
+  - tip: ozet
+    metin: "Öğrenme noktaları: Beck üçlüsü (hipotansiyon, boyun damar dolgunluğu, silik kalp sesleri) + paradoksal nabız kardiyak tamponadı düşündürür; yatak başı ekokardiyografi tanıyı koyar (diyastolde sağ ventrikül çökmesi, inferior vena kava kollapsın yokluğu); EKG'de düşük voltaj ve elektriksel alterans görülür; tedavi perikardiyosentezdir; diüretikler ve öndolumu azaltan ilaçlardan kaçınılır; sıvı yalnızca köprü olarak düşünülebilir."
+sozlu_sorular:
+  - "Paradoksal nabız nasıl ölçülür ve mekanizması nedir?"
+  - "Ekokardiyografide tamponadın başlıca belirteçleri nelerdir?"
+  - "Maligniteye bağlı perikardiyal efüzyonun uzun vadeli yönetimi nasıl planlanır?"

@@ -1,0 +1,74 @@
+id: akut_koroner_sendrom
+version: 1
+status: draft
+author: ai-drafts/kardiyoloji
+sources:
+- ESC Akut Koroner Sendrom Rehberleri (STEMI ve NSTE-ACS yönetimi) — referans olarak listelendi, metin
+  projesi özgün yazımdır
+ad: Akut Koroner Sendrom
+taksonomi:
+- - ktbt
+  - kardiyoloji
+  - kard_koroner
+  - kard_ko_akut_koroner_yaklasim
+- - ktbt
+  - kardiyoloji
+  - kard_koroner
+  - kard_ko_stemi
+tipik_hasta: Orta yaş üstü, sigara içen; hipertansiyon, diabetes mellitus veya dislipidemi bilinen hasta;
+  istirahatte 20 dakikadan uzun süren sıkıştırıcı göğüs ağrısı, terleme, bulantı ve kola-çeneye yayılımla
+  başvurur. Kadın, yaşlı ve diyabetik hastada nefes darlığı, yorgunluk, senkop gibi atipik tablolar akılda
+  tutulmalıdır
+patofizyoloji: Aterosklerotik plağın fibröz örtüsünün yırtılmasıyla plağın trombojenik içeriği açığa çıkar;
+  trombosit yapışması ve agregasyonu ile koroner arterde trombüs oluşur. Trombüs damarı tam tıkarsa transmural
+  miyokard iskemisi ve ST yükselmesi gelişir (STEMI); damar kısmen açık kalırsa veya parietal trombüs
+  varsa subendokardiyal iskemiyle ST yükselmesiz sendrom (NSTE-AKS) tablosu oluşur. Ayırımda EKG biçimi
+  belirleyicidir; troponin ise miyokard nekrozunun varlığını gösterir
+anahtar_bulgular:
+- İstirahatte 20 dakikadan uzun süren sıkıştırıcı-baskı tarzı göğüs ağrısı; terleme, bulantı, nefes darlığı,
+  kola ve çeneye yayılım eşlik edebilir
+- EKG'de komşu derivasyonlarda ST segment yükselmesi (yeni sol dal bloğu tek başına STEMI eşdeğeri değildir — Sgarbossa konkordansı aranır)
+- NSTE tablosunda ST depresyonu, T negatifliği veya dinamik EKG değişikliği; posterior enfarktüste V1-V3'te
+  belirgin ST depresyonu görülür
+- 'Yüksek duyarlıklı troponin: 0. ve 1. saat ölçümünde (klasik testte 0. ve 3-6. saatte) yükselme; zirve
+  24-48 saatte, normalleşme 7-14 gün'
+- CK-MB ise 48-72 saatte normale döner; göğüs ağrısı tekrarında yeniden yükselir, reenfarkt ayrımında
+  kullanılır
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Troponin yükselmesinin iskemik EKG değişiklikleriyle birlikte saptanması; akut miyokard
+  enfarktüsünün kanıtıdır
+ilk_tetkik: Başvurunun ilk 10 dakikası içinde 12 derivasyonlu EKG; STEMI uyumlu EKG varsa biyobelirteç
+  beklenmeden reperfüzyon kararı verilir. Yüksek duyarlıklı troponin 0 ve 1. saatte ölçülür; NSTE şüphesinde
+  risk skorlaması (GRACE) invaziv stratejinin zamanını belirler
+kesin_tani: 'STEMI: komşu derivasyonlarda ST yükselmesi artı troponin yükselmesi; lokalizasyon V1-V4 ön
+  duvar (LAD), II-III-aVF inferior (genellikle sağ koroner), I-aVL-V5-V6 lateral. NSTEMI: iskemik semptom
+  ve troponin yükselmesi, kalıcı ST yükselmesi olmadan. Kararsız anjina: iskemik semptom var, troponin
+  normal; AKS spektrumunda sayılır ama enfarktüs değildir'
+ilk_tedavi: 'STEMI''de öncelik erken reperfüzyondur: birincil perkütan koroner girişim ilk tıbbi temastan
+  120 dakika içinde yapılabiliyorsa seçenek; yapılamıyorsa semptom başlangıcından 12 saat içinde fibrinoliz
+  (fayda ilk saatlerde en yüksek), lizis sonrası PCI merkezine nakil (farmakoinvaziv strateji). Tüm hastalarda
+  aspirin artı P2Y12 inhibitörü (çift antiagregan), antikoagülan, yüksek doz statin tüm hastalarda; oral beta bloker sınıf IIb (kalp yetmezliği/şok riskinde verilmez); semptomda
+  nitrat, gerektiğinde morfin. Son 24-48 saatte sildenafil-tadalafil kullanımı veya inferior enfarktüste
+  sağ ventrikül tutulumu varsa nitrat verilmez (ön yükü düşürür). NSTE-AKS''de fibrinoliz verilmez; yüksek
+  riskli hastada 24 saat içinde, düşük risklide 24-72 saat içinde invaziv strateji planlanır'
+klasik_komplikasyon: İlk saatlerde ventriküler fibrilasyon (en sık ani ölüm nedeni); 3-7. günlerde serbest
+  duvar ve septal rüptürü, papiller kas rüptürüyle akut mitral yetersizliği; kardiyojenik şok; ventriküler
+  anevrizma (kalıcı ST yükselmesi, parietal trombüs); Dressler sendromu (2-10 hafta)
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-9
+- tus-2014-sonbahar-ktbt-9
+- tus-2015-ilkbahar-ktbt-40
+- tus-2015-ilkbahar-ktbt-9
+- tus-2015-sonbahar-ktbt-8
+- tus-2015-sonbahar-ttbt-43
+- tus-2016-ilkbahar-ktbt-8
+- tus-2016-sonbahar-ktbt-10
+- tus-2017-sonbahar-ttbt-81
+- tus-2020-ilkbahar-ktbt-10
+- tus-2020-ilkbahar-ttbt-82
+- tus-2023-ilkbahar-ktbt-10
+- tus-2023-sonbahar-ktbt-6
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,50 @@
+id: invajinasyon
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-3
+sources:
+- Ashcraft Pediatrik Cerrahi
+ad: İnvajinasyon
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_pediatrik_cerrahi
+  - gc_pc_invajinasyon
+- - ktbt
+  - pediatri
+  - ped_gastroenteroloji
+  - ped_gis_kanama
+tipik_hasta: '6-18 ay arasındaki, önceden sağlıklı ve gelişimi normal bebek (çoğu erkek, erkek: kız oranı
+  2:1); birkaç dakika süren, bacaklarını karnına toplayarak bağıran ağrı atakları ve ataklar arasında
+  halsiz-durgun dönemlerle gelir; sıklıkla birkaç gün önce viral üst solunum yolu enfeksiyonu geçirmiştir'
+patofizyoloji: Proksimal bağırsak segmenti (intussusceptum) peristaltik dalgayla distal segmentin (intussuscipiens)
+  içine sürüklenir; birlikte çekilen mezenterin damarları sıkışınca önce venöz dönüş bozulur, duvar ödemlenir,
+  mukoza dökülür ve kan ile mukus karışarak kırmızı jöle görüntüsü doğar; arteriyel beslenme de bozulursa
+  nekroz ve perforasyon gelir. Çocukların çoğunda öncü lezyon yoktur (idiopatik; viral enfeksiyon sonrası
+  lenfoid hiperplazi öncü kabul edilir); Mekel divertikülü, polip veya Henoch-Schönlein hematomu öncü
+  nokta olabilir ve 2 yaşın üstündeki olguda organik öncü lezyon şüphesi artar
+anahtar_bulgular:
+- Kolik tarzı ağlama atakları (bebek bacaklarını karnına toplar, atak aralarında durgunlaşır)
+- Kırmızı jöle görünümünde kanlı ve mukuslu dışkı
+- Sağ üst kadranda sosis benzeri kitle; sağ alt kadranda boşluk (Dance işareti)
+- Ultrasonda enkesitte hedef (donut) görünümü, boydan sahte böbrek görünümü
+- İlerleyen evrede safralı kusma, soluk ve letarjik bebek
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kırmızı jöle görünümünde kanlı-mukuslu dışkı
+ilk_tetkik: Karın ultrasonografisi (hedef işareti); hem tanıyı koyar hem redüksiyon şansını ve perforasyon
+  riskini öngörür
+kesin_tani: Ultrasonda hedef (donut) işareti; gerekirse hava lavmanı sırasında invajinasyonun doğrudan
+  görülmesi (hava lavmanı tanıyı ve tedaviyi tek seansta birleştirir)
+ilk_tedavi: Intravenöz sıvı ve nazogastrik dekompresyonla hazırlık; hemodinamik olarak stabil, peritonit
+  ve perforasyon bulgusu olmayan hastada hava (pnömatik) lavmanla redüksiyon (cerrahiye göre başarı oranı
+  yüksek, iatrojenik travma az); nüks olursa lavman tekrarı; şok, peritonit, perforasyon veya lavman başarısızlığında
+  cerrahi redüksiyon, nekrotik segmentte rezeksiyon
+klasik_komplikasyon: Bağırsak nekrozu ve perforasyonla seyreden peritonit ve sepsis; tedavi sonrası ilk
+  24-48 saatte nüks (çoğu yine hava lavmanıyla çözülür)
+tus_gecmisi:
+- tus-2018-ilkbahar-ktbt-61
+- tus-2018-sonbahar-ktbt-64
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

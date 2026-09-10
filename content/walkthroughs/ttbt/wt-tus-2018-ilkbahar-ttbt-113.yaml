@@ -1,0 +1,30 @@
+id: wt-tus-2018-ilkbahar-ttbt-113
+version: 1
+status: draft
+author: "ai-drafts/walkthroughs-1"
+sources:
+  - "Katzung Temel Klinik Farmakoloji, antimetabolitler bölümü — referans olarak listelendi, metin özgün yazımdır"
+  - "Goodman and Gilman, pirimidin analogları bölümü — referans olarak listelendi, metin özgün yazımdır"
+soru_ref: tus-2018-ilkbahar-ttbt-113
+sinanan_bilgi: "Gemsitabin bir pirimidin (sitidin) analogu antimetabolittir; hücrede trifosfata fosforillenip DNA sentezine girer ve ribonükleotid reduktazı baskılayarak replikasyonu durdurur. Antimetabolit sınıfının ayırt edici özelliği, temel etkisini nükleotid biyosentez yolları üzerinde göstermesidir."
+ipucu_turleri:
+  - "Pirimidin biyosentez yolağı vurgusu: nükleotid yapım hattını hedefleyen tek sınıf antimetabolitlerdir"
+  - "Beş seçeneğin beş ayrı sınıftan gelmesi: soru ilaç değil, sınıf-mekanizma eşleştirmesi soruyor"
+  - "Analog adlandırma alışkanlığı: nükleozid analogu son ekleri (abin gibi) folat analogu adlarından (in gibi) ayrışır"
+gurultu_turleri:
+  - "Anti-kanser ilaç genel ifadesi tüm sınıfları tek potada toplar; sınıflar arası fark bilmeyen aday her seçeneği eşit çekici bulur"
+  - "Paklitaksel ve vinblastin gibi iki ayrı hücre iskeleti ajanının aynı anda sunulması, mikrotubül mekanizmalarını hatırlayanı pirimidin hattından uzaklaştırır"
+mantik: "Sorunun omurgası sınıflandırma mantığıdır: pirimidin biyosentezi, DNA yapısına girecek nükleotidlerin üretildiği hattır ve bu hatta doğrudan saldıran ilaçlar nükleozid analoglarıdır. Gemsitabin deoksisitidin analogudur; hücre içine alınıp kademeli olarak fosforlanır, trifosfat formu DNA polimeraza sahte yapı taşı olarak sunulur ve ayrıca ribonükleotid reduktazı engelleyerek doğal nükleotid havuzunu kurutur. Karşılaştırma yapmak için diğer seçeneklerin her birinin hangi hatta çalıştığını netleştirmek yeterlidir: birisi topoizomeraz enzimine, bir ikisi hücre iskeleti proteinlerine, biri de DNA yapısına doğrudan bağlanan alkilleyici sınıfa aittir. Bu üç hattın hiçbiri nükleotid yapımı değildir. Böylece seçim tek kademede netleşir: nükleotid biyosentez yolağı denilince düşülmesi gereken yer antimetabolit sınıfı, bu listede de tek pirimidin analogu gemsitabindir."
+celdirici_kavramlar:
+  - kavram: "Irinotekanı pirimidin hattına yerleştirmek"
+    neden_yanlis: "Irinotekan topoizomeraz I enzimini engelleyen doğal ürün türevidir; aktif metaboliti üzerinden kemoterapiye bağlı ishal ile bilinir, nükleotid yapımıyla ilgisi yoktur."
+    dogru_oldugu_durum: "Topoizomeraz I inhibisyonu sorulduğunda veya kolorektal kanser rejimlerinde anahtar ilaç arandığında."
+  - kavram: "Paklitakseli pirimidin analogu saymak"
+    neden_yanlis: "Paklitaksel mikrotubülleri parçalanmaya dirençli kılarak mitotik iğ üzerinde durdurur; hedefi protein yapısındaki tüp iskeletidir, nükleotid sentezi değildir."
+    dogru_oldugu_durum: "Taxan grubu mekanizması, periferal nöropati tablosu veya iğ uçlarını sabitleyen ajan sorulduğunda."
+  - kavram: "Vinblastini pirimidin hattına koymak"
+    neden_yanlis: "Vinblastin vinka alkaloidi olarak tüp proteinlerinin birleşmesini engeller ve mitozu metafazda bloke eder; paklitakselin tersine montajı değil sökümü engeller."
+    dogru_oldugu_durum: "Vinka alkaloidi toksisitesi (kemik iliği baskılanması, damar dışı sızıntıda doku zararı) veya metafaz bloğu sorulduğunda."
+  - kavram: "Busülfanı antimetabolit sanmak"
+    neden_yanlis: "Busülfan DNA yapısına doğrudan bağlanan alkilleyici gruptandır; nükleozid analogu değildir, uzun süreli kullanımda pulmoner fibrozis ile anımsanır."
+    dogru_oldugu_durum: "Kronik miyeloid lösemi tedavisinde eski ajan veya kemik iliği nakli öncesi kondisyon rejimlerinde alkilleyici arandığında."

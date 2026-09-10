@@ -1,0 +1,10 @@
+id: pat_akc_obstruktif
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Obstrüktif Akciğer Hastalıkları"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_obstruktif]
+metin: "Astımda bronş duvarında eozinofil infiltrasyonu, bazal membran kalınlaşması ve mukus bezlerinin hipertrofisi görülür; balgamda Curschmann spiralleri ve Charcot-Leyden kristalleri bulunabilir. Kronik bronşitte submukozal mukus bezlerinin kalınlaşmasına bağlı Reid indeksinin 0,4'ü aşması tanısal kabul edilir. Amfizemde alveolar septalarda yıkım ve genişleme hakimdir; alfa-1-antitripsin eksikliği panasiner tip ve alt lob ağırlıklı amfizeme yol açar."

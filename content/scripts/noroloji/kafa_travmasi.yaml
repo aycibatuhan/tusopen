@@ -1,0 +1,64 @@
+id: kafa_travmasi
+version: 1
+status: draft
+author: ai-drafts/noroloji-3
+sources:
+- Brain Trauma Foundation Kafa Travması Yönetim Kılavuzları
+- Canadian CT Head Rule (CCHR)
+ad: Kafa Travması
+taksonomi:
+- - ktbt
+  - noroloji
+  - noro_travma
+  - noro_tr_kafa_travmasi
+tipik_hasta: 'Trafik kazası, yüksekten düşme, spor sakatlığı veya saldırı sonrası acile gelen hasta; baş
+  ağrısı, kusma, bellek boşluğu veya bilinç bulanıklığı; şiddet derecelendirmesi Glasgow Koma Skalası
+  ile yapılır: 13-15 hafif, 9-12 orta, 8 ve altı ağır travma; alkol ve ilaç intoksikasyonu skoru düşürür
+  ve değerlendirmeyi karıştırır; yaşlı, antikoagülan kullanan ve küçük çocuk ayrı risk gruplarıdır'
+patofizyoloji: 'Hasar iki aşamadır: olay anında oluşan birincil mekanik hasar (beyin sarsıntısı, kontüzyon,
+  diffüz aksonal yaralanma, hematomlar) ve bunu izleyen saatler-günler süren ikincil hasar (ödem, intrakraniyal
+  basınç artışı, iskemi, eksitotoksisite). Tedavinin çekirdeği ikincil hasarı önlemektir: beyin sert kafatası
+  içinde hızlanır-yavaşlar; darbe yanı ve karşı tarafa çarpma kontüzyonları yaratır, aksonların gerilip
+  yırtılması diffüz aksonal yaralanmayı verir'
+anahtar_bulgular:
+- Glasgow Koma Skalası bileşenleri (göz, konuşma, motor yanıt) ayrı ayrı kaydedilir; 8 ve altı hava yolunun
+  korunamadığı ve erken entübasyon düşünülen eşiktir
+- 'Beyin sarsıntısı (concussion): olay anında kısa bilinç bozukluğu, sonrasında baş ağrısı, bulantı, denge
+  bozukluğu, ışık-ses duyarlılığı ve dikkat yavaşlaması; görüntüleme normaldir'
+- 'Posttravmatik amnezi: olay öncesi (retrograd) ve olay sonrası (anterograd) bellek boşlukları; süre
+  şiddetin dolaylı göstergesidir'
+- 'Kötüleşme işaretleri: tekrarlayan kusma, GCS düşüşü, pupilla asimetrisi, hemiparezi, posttravmatik
+  nöbet'
+- 'Bazal kafatası kırığı bulguları: panda gözü, kulak arkasında morluk (Battle işareti), kulaktan kan
+  veya beyin-omurilik sıvısı sızıntısı'
+- Yaşlı ve antikoagülan hastada hafif görünüşlü travma bile hematom riski taşır; belirtisiz olsa da yakın
+  izlem gerekir
+patognomonik: null
+ilk_tetkik: 'Havayolu-solunum-dolaşım ve tam GCS kaydı (entübasyon öncesi değer mutlaka not edilir), pupilla
+  muayenesi; ardından nonkontrast beyin BT: hematom, kontüzyon, ödem ve kafatası kırığı. CT endikasyonları
+  (hafif travmada): GCS 13-14 veya odak defisit, iki kez kusma, 65 yaş üstü, antikoagülan kullanımı, şüpheli
+  kafatası kırığı, 30 dakikadan uzun amnezi, tehlikeli mekanizma'
+kesin_tani: Klinik artı görüntüleme; beyin sarsıntısı klinik tanıdır (olay anı bilinç bozukluğu, sonraki
+  belirtiler, normal BT); orta-ağır travmada BT bulguları ve MRG (diffüz aksonal yaralanmada daha duyarlı)
+  tabloyu sınıflar; şiddet GCS, bilinç kaybı ve amnezi süresinin birlikte değerlendirilmesiyle belirtilir
+ilk_tedavi: 'Hafif travma (GCS 15, BT negatif): semptom yönetimi, 24 saat gözlem, taburculukta kötüleşme
+  işaretleri (kusma, uyuşukluk, nöbet) konusunda eğitim; sporcularda belirtiler tamamen silinmeden sahaya
+  dönüş yok, kademeli dönüş protokolü uygulanır. Orta-ağır travma: başı 30 derece yükseltme, normokapni
+  hedefi, osmotik tedavi (mannitol veya hipertonik tuzlu su), hipotansiyon-hipoksi önleme, hızlı cerrahi
+  (hematom boşaltma, dekompresif kranyektomi); ilk hafta posttravmatik epilepsi profilaksisi (levetirasetam
+  veya fenitoin), koagülopatinin düzeltilmesi; erken rehabilitasyon'
+klasik_komplikasyon: 'İkincil hasar: intrakraniyal basınç artışı ve herniasyon; postkonsüsyon sendromu
+  (baş ağrısı, uyku ve dikkat bozukluğu aylarca sürebilir); tekrarlayan sarsıntılarda kronik travmatik
+  ensefalopati; posttravmatik epilepsi ve hidrosefali'
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-40
+- tus-2014-sonbahar-ktbt-85
+- tus-2016-sonbahar-ktbt-79
+- tus-2018-sonbahar-ktbt-40
+- tus-2019-ilkbahar-ktbt-52
+- tus-2025-ilkbahar-ktbt-33
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

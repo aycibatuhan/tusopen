@@ -1,0 +1,10 @@
+id: fiz_bob_raas
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RAAS Kaskadı"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_raas]
+metin: "Jukstaglomerüler hücreler renal perfüzyonun düşmesi, makula densadaki sodyum klor yükünün azalması ve sempatik beta-1 uyarıyla renin salgılar. Renin karaciğerin anjiotensinojenini anjiotensin 1'e çevirir; akciğerdeki anjiotensin dönüşüm enzimi bunu anjiotensin 2'ye dönüştürerek vazokonstriksiyon, aldosteron salgısı, ADH uyarısı ve susama hissi oluşturur."

@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "case.schema.json",
+  "title": "TUS scripted case (branching, no LLM at runtime)",
+  "type": "object",
+  "required": [
+    "id", "version", "status", "sources", "hastalik", "baslik", "adimlar"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^case-[a-z0-9][a-z0-9_-]*$"
+    },
+    "version": { "type": "integer", "minimum": 1 },
+    "status": { "$ref": "#/definitions/status" },
+    "author": { "type": "string", "minLength": 1 },
+    "reviewed_by": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "last_reviewed": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "hastalik": { "$ref": "#/definitions/identifier" },
+    "baslik": { "type": "string", "minLength": 1 },
+    "adimlar": {
+      "type": "array",
+      "minItems": 2,
+      "items": { "$ref": "#/definitions/adim" }
+    },
+    "sozlu_sorular": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    }
+  },
+  "definitions": {
+    "status": { "enum": ["draft", "reviewed", "published", "deprecated"] },
+    "identifier": { "type": "string", "pattern": "^[a-z][a-z0-9_]*$" },
+    "adim": {
+      "type": "object",
+      "required": ["tip"],
+      "additionalProperties": false,
+      "properties": {
+        "tip": { "enum": ["sunum", "secim", "sonuc", "ozet"] },
+        "metin": { "type": "string", "minLength": 1 },
+        "soru": { "type": "string", "minLength": 1 },
+        "secenekler": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "required": ["metin", "dogru", "geri_bildirim"],
+            "additionalProperties": false,
+            "properties": {
+              "metin": { "type": "string", "minLength": 1 },
+              "dogru": { "type": "boolean" },
+              "geri_bildirim": { "type": "string", "minLength": 1 }
+            }
+          }
+        }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "tip": { "const": "secim" } } },
+          "then": { "required": ["soru", "secenekler"] }
+        },
+        {
+          "if": {
+            "properties": { "tip": { "enum": ["sunum", "sonuc", "ozet"] } }
+          },
+          "then": { "required": ["metin"] }
+        }
+      ]
+    }
+  }
+}

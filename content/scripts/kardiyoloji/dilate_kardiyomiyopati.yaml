@@ -1,0 +1,25 @@
+id: dilate_kardiyomiyopati
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-3"
+sources:
+  - "Klinik referans isimleri: ESC kalp yetersizliği kılavuzu ve ESC kardiyomiyopatiler tanı-tedavi dokümanı — yalnızca kaynak adı olarak listelenir, tüm metin projenin özgün yazımıdır"
+ad: Dilate Kardiyomiyopati
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kardiyomiyopati, kard_km_dilate]
+tipik_hasta: "Orta yaş üstü, önceden bilinen kalp hastalığı olmayan; egzersizle artan nefes darlığı, yatınca kötüleşen nefes darlığı, gece öksürüğü ve bacak şişliği ile gelen hasta; atım fraksiyonu düşüktür ama koroner damar tıkanıklığı yoktur (iskemik olmayan tip); öyküde geçmişte ateşli bir virüs enfeksiyonu, uzun süreli alkol kullanımı, doğum sonrası dönem ya da sürekli hızlı çarpıntı atakları sorgulanır"
+patofizyoloji: "Çeşitli zarar verici etkenler (virüslerin yol açtığı kalp kası iltihabı ve onun izleri, alkol toksisitesi, kalıtımsal kas protein mutasyonları, doğum sonrası dönem, sürekli hızlı ritim) kalp kasının kasılma gücünü yaygın biçimde zayıflatır. Sol ventrikül çapı genişler; kasılma azlığı tek bir damar bölgesine değil tüm boşluklara yaygındır; atım hacmi düşer, boşluklarda kan geriliği (konjesyon) gelişir. Geç dönemde boşluk genişlemesi kapak halkalarını zorlayıp mitral yetersizliği ekler"
+anahtar_bulgular:
+  - "Ekokardiyografide sol ventrikülün genişlemesi ve duvar hareketinde yaygın azalma; iskemik tipin aksine tek bölge değil tüm duvarlarda kasılma azlığı"
+  - "Dinlemede yumuşak üçüncü kalp sesi ve mitral yetersizliğe bağlı üfürüm"
+  - "Akciğerlerde ral, bacaklarda iki taraflı ödem, boyun venlerinde dolgunluk"
+  - "Telede kalp gölgesinin büyümesi ve akciğerde konjesyon"
+  - "Natriüretik peptid (BNP ya da NT proBNP) yüksekliği"
+  - "Elektrokardiyogramda sol dal bloğu gibi spesifik olmayan değişiklikler"
+patognomonik: null
+ilk_tetkik: "Ekokardiyografi; eşlik eden elektrokardiyogram, tele ve natriüretik peptid ölçümü"
+kesin_tani: "Ekokardiyografide genişlemiş sol ventrikül ve düşük atım fraksiyonunun gösterilmesi; koroner anjiyografi ile iskemik nedenin, öykü ve tetkiklerle alkol, ilaç ve hormon hastalıkları gibi ikincil nedenlerin dışlanması (iskemik olmayan olması) tanıyı kesinleştirir"
+ilk_tedavi: "Kronik evrede kalp yetersizliği ilaç dörtlüsünün mantığıyla başlanır: beta bloker, anjiyotensin blokajı (ACE inhibitörü ya da ARNI), mineralokortikoid reseptör antagonisti ve SGLT2 inhibitörü; alevlenmede öncelik damar yoluyla diüretik ve yük azaltma; geniş QRS ve ilerlemiş kalp yetersizliğinde resenkronizasyon cihazı gündeme gelir"
+klasik_komplikasyon: "Sol ventrikül içinde pıhtı oluşup sistemik embolizme gitmesi; ventriküler aritmilerle ani ölüm; dirençli ileri kalp yetersizliğinde nakil gerekebilir"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

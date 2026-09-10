@@ -1,0 +1,87 @@
+id: tuberkuloz
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon
+sources:
+- 'Klinik rehberler: T.C. Sağlık Bakanlığı Tüberküloz Tanı ve Tedavi Rehberi, ATS/IDSA/ERS tüberküloz
+  yönetim kılavuzu — referans olarak listelendi, metin projesi özgün yazımdır'
+ad: Tüberküloz
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_solunum
+  - enf_sol_tuberkuloz
+- - ktbt
+  - gogus_hastaliklari
+  - gog_enfeksiyon
+  - gog_enf_tuberkuloz_tani
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_tuberkuloz
+tipik_hasta: Yakın temas öyküsü olan, kalabalık ve havalandırması zayıf ortamlarda (hapishane, yurt, barınma
+  evi, göç) yaşayan; HIV enfeksiyonu, uzun süreli kortikosteroid veya TNF-alfa blokeri kullanımı, diyabet
+  ya da kronik böbrek yetmezliğiyle bağışıklığı baskılanmış hastada iki-üç haftadan uzun süren öksürük,
+  gece terlemesi, iştahsızlık ve kilo kaybıyla başvuran erişkin ya da çocuk; çocukta çoğu zaman yakın
+  bir erişkin vaka kaynağı vardır
+patofizyoloji: Mycobacterium tuberculosis damlacık çekirdekleriyle alveollere ulaşır, alveoler makrofaj
+  içinde çoğalır; CD4 T hücreleri öncülüğündeki hücresel yanıt granülom oluşturarak enfeksiyonu çoğu kişide
+  latent hale getirir. Yıllar sonra, çoğunlukla oksijenlenmenin iyi olduğu üst lob apikal ve posterior
+  segmentlerde reaktivasyon olur; bağışıklık baskılanmasında latent odak yerine doğrudan ilerleyici ya
+  da miliyer yaygın hastalık gelişir. Klinik tabloyu esas olarak bağışıklık yanıtının yarattığı doku hasarı
+  belirler
+anahtar_bulgular:
+- İki-üç haftadan uzun süren öksürük; ilerleyen dönemde kanlı balgam; ateş, gece terlemesi, iştahsızlık
+  ve kilo kaybı
+- Akciğer grafisinde üst lob apikal-posterior infiltrasyon ve kavern; çocukta ve ileri yayılımda intratorasik
+  lenfadenopati ya da miliyer görünüm
+- 'PPD (Mantoux) testi 48-72 saatte okunur ve eritem değil endürasyon ölçülür; enfeksiyon olasılığı arttıkça
+  pozitiflik eşiği düşer: yakın temaslı ve HIV''lide 5 mm, damar içi madde kullanımı-göç-kronik hastalık
+  gibi risk gruplarında 10 mm, riski olmayanlarda 15 mm pozitif sayılır'
+- IGRA kanda interferon-gamma salınımını ölçer; BCG aşısından etkilenmez ve PPD'nin ortak yanlış pozitifliğini
+  giderir, ancak latent enfeksiyonla aktif hastalığı ayırt edemez
+- Balgamda aside dirençli basil (EZB boyama) hızlı görüntü sağlar; kültür tanının altın standardıdır,
+  moleküler test aynı örnekte hızlı tanı ve rifampisin direnci bilgisini verir
+- 'Ekstrapulmoner formlar: plevral efüzyon, servikal lenfadenit, menenjit, omurgada Pott hastalığı, ürogenital
+  tüberküloz'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kazeifikasyon nekrozu ile giden granülom ve aside dirençli basilin gösterilmesi
+ilk_tetkik: Arka-ön akciğer grafisi ve en az iki balgam örneğinde aside dirençli basil boyaması; PPD veya
+  IGRA; aktif hastalık şüphesinde aynı örnekler moleküler teste gönderilir
+kesin_tani: Balgam veya doku örneğinin kültüründe M. tuberculosis üremesi (altın standart); moleküler
+  (PCR) testle hızlı doğrulama ve direnç saptanması; histopatolojide kazeifiye granülom güçlü destek sağlar
+ilk_tedavi: 'İki aylık başlangıç evresinde dört ilaç birlikte verilir: izoniazid, rifampisin, pirazinamid
+  ve etambutol; ardından dört ay izoniazid ve rifampisin sürdürülür. İlaç mantığı: izoniazid karaciğer
+  toksisitesi yapar ve piridoksin (B6 vitamini) desteğiyle önlenen periferik nöropatiye yol açar; rifampisin
+  ter-idrar-gözyaşını turuncuya boyar, karaciğer enzimlerini yükseltir ve çok sayıda ilacın (oral kontraseptifler
+  dahil) metabolizmasını hızlandırır; pirazinamid karaciğer toksik olmakla birlikte hiperürisemi ve gut
+  atakları yapar; etambutol retrobulber nöropatiye bağlı renk ayrımı bozukluğu (özellikle kırmızı-yeşil)
+  ve görme azalması yapar, tedavi boyunca görme kontrolü gerekir. Latent enfeksiyonda tek-iki ilaçlı koruyucu
+  tedavi (izoniazid 6-9 ay ya da rifampisin 4 ay) uygulanır'
+klasik_komplikasyon: Tedavisizde kavernöz lezyon, hemoptizi, plevral efüzyon, miliyer yayılım ve ölüm;
+  düzensiz veya eksik tedavide çok ilaca dirençli tüberküloz gelişir
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-29
+- tus-2014-sonbahar-ktbt-56
+- tus-2015-sonbahar-ktbt-30
+- tus-2015-sonbahar-ktbt-40
+- tus-2015-sonbahar-ktbt-56
+- tus-2015-sonbahar-ttbt-61
+- tus-2016-ilkbahar-ktbt-56
+- tus-2016-sonbahar-ktbt-56
+- tus-2016-sonbahar-ttbt-60
+- tus-2016-sonbahar-ttbt-74
+- tus-2017-sonbahar-ttbt-113
+- tus-2017-sonbahar-ttbt-59
+- tus-2017-sonbahar-ttbt-78
+- tus-2018-ilkbahar-ktbt-30
+- tus-2018-ilkbahar-ktbt-54
+- tus-2018-ilkbahar-ttbt-92
+- tus-2018-sonbahar-ktbt-5
+- tus-2019-ilkbahar-ktbt-13
+- tus-2020-ilkbahar-ktbt-4
+- tus-2020-sonbahar-ttbt-61
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

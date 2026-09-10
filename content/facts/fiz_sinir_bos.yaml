@@ -1,0 +1,10 @@
+id: fiz_sinir_bos
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BOS Üretimi ve Dolaşımı"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_bos]
+metin: "Beyin omurilik sıvısı çoğunlukla ventriküllerin koroid pleksuslarında üretilir; günlük üretim yaklaşık 500 mililitre iken toplam hacim 150 mililitre civarındadır. Sıvı araknoid villuslar yoluyla venöz sisteme geri emilir ve lomber ponksiyonda normal açılış basıncı yaklaşık 8-18 santimetre su kolonudur."

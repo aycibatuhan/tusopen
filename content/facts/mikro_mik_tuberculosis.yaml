@@ -1,0 +1,10 @@
+id: mikro_mik_tuberculosis
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "M. tuberculosis asit dirençli basil"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_tuberculosis]
+metin: "Mycobacterium tuberculosis hücre duvarındaki mikolik asitler nedeniyle gram boyamada boyanmaz; Ziehl-Neelsen boyasında asit-alkol dirençli kırmızı basiller görünür. Löwenstein-Jensen katı besiyerinde üremesi 2-8 hafta sürer ve kaba, gri renkli koloniler verir; hızlı tanı için nükleik asit testleri ve otomatik sıvı kültür sistemleri kullanılır."

@@ -1,0 +1,25 @@
+id: blount_hastaligi
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-3"
+sources:
+  - "Campbell's Operative Orthopaedics (tibia varusu ve Blount bölümü) — referans olarak listelendi, metin projesi özgün yazımdır"
+  - "Pediatrik ortopedi ders kitabı blount hastalığı konsensus özetleri (Tachdjian) — isim olarak listelendi"
+ad: Blount Hastalığı
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_genu_varum_valgum]
+tipik_hasta: "Erken yürümeye başlamış (9-12 aydan önce), obez ve tıknaz yapılı küçük çocukta iki taraflı, ağrısız diz altı bacak eğriliği (infantil tip; en sık ve en ilerleyici form); ya da 8-14 yaş arası ergenlerde tek taraflı, daha hafif seyreden varus (ergen tip). Aileyi 'bacaklar eğri, ayaklar içe dönük' izlenimi getirir"
+patofizyoloji: "Proksimal tibia fizi üzerindeki yük düzensiz dağılınca (obezite, erken yürüyüş, varus dizilim) medial tarafa binen aşırı basınç fizin o bölümünde büyümeyi yavaşlatır ve durdurur (Hueter-Volkmann ilkesi); lateral taraf büyümeye sürer, sonuçta varus kendi kendini büyütür. Medial fizyometapfizde histolojik bozukluk ve medial metafizde düzensiz kemik-kıkırdak karışımı görülür. Fizinin kalan bölümü sağlamsa erken cerrahiyle hizalama korunur; fiz erken kapanırsa deformite kalıcıdır"
+anahtar_bulgular:
+  - "Erken yürüyüş öyküsü ve obezite (infantil tipin tanıdık ikilisi)"
+  - "Diz altında, proksimal tibiadan başlayan belirgin varus; infantil tipte iki taraflı ve başlangıçta ağrısız, ergen tipte tek taraflı ve genellikle ağrılı"
+  - "Yürüyüşte lateral itme (lateral thrust) ve içe dönmüş ayak (intoing)"
+  - "Grafide proksimal tibia medial metafizinin kesik-dökülmüş görünümü (kuş gaga benzeri çıkıntı), medial plato çökmesi ve fizyal düzensizlik"
+  - "Metafizodiyafiz açısının (MDA) 11 dereceyi aşması: fizyolojik varusla karışan vakada progresyon lehine işaret"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Grafide proksimal tibia medial metafizinin kuş gaga benzeri dökülmüş görünümü ve medial platonun çökmesi"
+ilk_tetkik: "Ayakta, dizler öne dönük bacak AP grafisi: MDA ölçümü, fizyometapfiz değerlendirmesi ve Langenskiöld evrelemesi"
+kesin_tani: "Bacak grafisi üzerinde MDA ölçümü ve Langenskiöld evresi (bir ila altı arası) ile birlikte erken yürüyüş-obezite öyküsü; tanıyı fizyolojik varustan grafik bulgular ayırır"
+ilk_tedavi: "Küçük yaşta ve Langenskiöld bir-iki evrelerde (yaklaşık 4 yaşa kadar) orteziyle korreksiyon; 4 yaş üstünde ve ileri evrelerde proksimal tibial kama osteotomisi (aşırı düzeltilerek); iskelet yaşı ileri çocuklarda lateral fizye geçici hemiepifizyodez (bağ/plak); obezitenin kontrolü tedavinin ayrılmaz parçasıdır"
+klasik_komplikasyon: "Tedavi edilmediğinde kalıcı, ilerleyici varus deformite, medial plato çökmesi ve erken diz iç kompartman osteoartriti; ameliyat sonrası obezite sürerse yeniden eğrilme (rekürrens) ve fizye kapanmaya bağlı kalıcı bozukluk"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

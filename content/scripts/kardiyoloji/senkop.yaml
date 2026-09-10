@@ -1,0 +1,54 @@
+id: senkop
+version: 1
+status: draft
+author: ai-drafts/kardiyoloji-3
+sources:
+- 'Klinik referans isimleri: ESC senkop tanı-tedavi kılavuzu — yalnızca kaynak adı olarak listelenir,
+  tüm metin projenin özgün yazımıdır'
+ad: Senkop
+taksonomi:
+- - ktbt
+  - kardiyoloji
+  - kard_aritmiler
+  - kard_ar_senkop
+- - ktbt
+  - noroloji
+  - noro_uyku_bilinc
+  - noro_ub_senkop
+tipik_hasta: Kısa süren, hızla geri dönen bilinç kaybıyla gelen her yaşta hasta; genç ve orta yaş kadında
+  uzun süre ayakta kalma, sıcak ortam, kan görme, ağrı gibi tetikleyiciler öne çıkar; ileri yaşta aort
+  darlığı, ritim bozukluğu, kalp yetersizliği ve tansiyon düşüren ilaç kullanımı sorgulanır
+patofizyoloji: 'Beynin yaygın ve geçici dolum azlığı. Üç ana yol vardır: refleks (vazovagal) tipte ani
+  sempatik gerileme ve vagus artışı damarları gevşetip hızı yavaşlatır; ortostatik tipde ilaç etkisi,
+  kan kaybı ya da otonomik yetmezlik ayakta duran hastada tansiyonu düşürür; kardiyak tipde ritim bozuklukları
+  ya da yapısal engeller (aort darlığı, pulmoner hipertansiyon, kalp kası hastalıkları) debiyi aniden
+  keser'
+anahtar_bulgular:
+- 'Prodromlu başlangıç: bulanık görme, terleme, huzursuzluk ve mide bulantısı sonrası kısa bilinç kaybı,
+  hızla tam iyileşme'
+- 'Tetikleyici öykü: uzun süre ayakta durma, sıcak ortam, kan görme, ağrı ve korku vazovagal tipi destekler'
+- Efor sırasında başlayan senkop, göğüs ağrısı ya da çarpıntı eşliği ve yatarak olan ataklar kardiyak
+  nedeni düşündürür
+- Ayakta durunca ölçülen tansiyonun belirgin düşmesi (postüral fark) ortostatik tipi gösterir; tansiyon
+  düşüren ilaçlar (diüretik, antihipertansif, antipsikotik, alfa bloker) sorgulanır
+- Kısa kasılmalar (konvülsif senkop) görülebilir; ancak dil ısırması, idrar kaçırma, dakikalarca süren
+  bilinç kaybı ve uyanma sonrası uzun karışıklık epilepsiyi düşündürür
+patognomonik: null
+ilk_tetkik: Ayrıntılı öykü ve fizik muayene; yatar ve ayakta kan basıncı ölçümü; 12 derivasyonlu elektrokardiyogram
+kesin_tani: 'Klinik tanıdır; amacı nedeni yakalamaktır. Yüksek risk işaretleri (eforla senkop, yatarak
+  senkop, bilinen kalp yetersizliği ya da kalp kası hastalığı, elektrokardiyogramda blok ya da ritim bozukluğu,
+  ailede genç ani ölüm) varsa kardiyak yönelim gerekir: uzun süreli ritim kaydı, gerektiğinde elektrik
+  fizyolojisi çalışması; tanı belirsiz ve refleks tip şüphesi varsa tilt masa testi; genç hastada düşük
+  riskli vazovagal fenomen çoğunlukla öyküyle kesinleşir'
+ilk_tedavi: 'Nedenine göre: vazovagalde hasta eğitimi (prodromda hemen yatma, bacak çaprazlama), bol sıvı
+  ve tuz, sıkı çorap, gerektiğinde damar büzücü (midodrin) ya da fludrokortizon; ilaca bağlı ortostatik
+  tansiyon düşüşünde etken ilacı azaltıp kesmek; bradiaritmiye bağlı senkopta kalp pili, ventriküler taşiaritmi
+  riskinde ICD, aort darlığında kapak değişimi'
+klasik_komplikasyon: Kardiyak nedenli senkopta ani ölüm; düşme kaynaklı kafa travması ve kırıklar
+tus_gecmisi:
+- tus-2021-ilkbahar-ktbt-40
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

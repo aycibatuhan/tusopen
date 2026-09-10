@@ -1,0 +1,10 @@
+id: gc_tp_preoperatif
+version: 1
+status: draft
+author: "ai-drafts/cerrahi-facts"
+sources:
+  - "Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Preoperatif Değerlendirme ve Risk"
+taksonomi:
+  - [ktbt, genel_cerrahi, gc_temel_prensipler, gc_tp_preoperatif]
+metin: "ASA sınıflamasında sağlıklı hasta ASA 1, fonksiyon kısıtlılığı yapmayan hafif sistemik hastalık ASA 2, fonksiyon kısıtlılığı yapan ağır sistemik hastalık ASA 3, yaşamı tehdit eden hastalık ASA 4 ve ameliyatsız kurtulması beklenmeyen durum ASA 5'tir; acil girişimlerde sınıfa E harfi eklenir. Düzeltilmiş kardiyak risk indeksinin öngörücüleri yüksek riskli cerrahi, iskemik kalp hastalığı, kalp yetmezliği, serebrovasküler hastalık, insülin bağımlı diyabet ve 2 mg/dL üzeri kreatinindir. Katı gıdalar ameliyattan 6 saat, berrak sıvılar 2 saat önce kesilir; uzun süreli kortikosteroid kullanan hastaya adrenal yetmezliğe karşı perioperatif stres dozu steroid planlanır. Warfarin genellikle 5 gün önce, klopidogrel 5-7 gün önce kesilir; aspirin çoğu hastada kesilmeden sürdürülür. Ameliyat sonrası pulmoner komplikasyon riski üst karın ve toraks cerrahilerinde, KOAH'ta ve aktif sigara kullanımında belirgin artar; sigaranın bırakılması ideal olarak 4-8 hafta önceden yapılır."

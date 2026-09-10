@@ -1,0 +1,49 @@
+id: case-hipertiroidi-01
+version: 1
+status: draft
+author: "ai-drafts/cases-e"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: hipertiroidi
+baslik: "Kilo kaybı ve çarpıntı olan kadın"
+adimlar:
+  - tip: sunum
+    metin: "34 yaşında kadın. Üç aydır iştahı artmasına karşın dört kilo kaybetmiş, çarpıntı ve terleme var; havaların soğumasına rağmen ince giyiniyor, sıcaktan rahatsız, adet kanamaları seyrekleşmiş. Muayenede nabız 112/dk ve ritmik, deri sıcak ve nemli, ellerde ince titreme, her iki lobda da yaygın, düz ve duyarlı olmayan guatr, üzerinde üfürüm benzeri ses saptanıyor. Gözlerde öne çıkma ve bakışta parlaklık var. Laboratuvar: TSH ölçülmez düzeyde düşük, serbest T4 yüksek, gebelik testi negatif."
+  - tip: secim
+    soru: "Tiroid fonksiyon testleri primer hipertiroidizmle uyumlu. Etyolojiyi ayırt etmek için en uygun ilk tetkik hangisidir?"
+    secenekler:
+      - metin: "Tiroid reseptör antikoru (TRAb) ölçümü"
+        dogru: true
+        geri_bildirim: "Difüz guatr, oftalmopati ve hipertiroidi birlikteyken Graves en olası tanıdır; TRAb pozitifliği tanıyı invazif işlem yapmadan kesinleştirir"
+      - metin: "İnce iğne aspirasyon biyopsisi"
+        dogru: false
+        geri_bildirim: "Biyopsi tiroid nodülü değerlendirmesine yöneliktir; difüz guatrda etyoloji klinik ve antikorla açıklanır"
+      - metin: "Tiroid ultrasonografisi"
+        dogru: false
+        geri_bildirim: "Görüntüleme yapıyı gösterir ama Graves ile otonomi ayrımında ilk adım antikor ölçümüdür; gerekirse uptake incelemesi ikinci adımdır"
+      - metin: "Radyoaktif iyot uptake incelemesi"
+        dogru: false
+        geri_bildirim: "Yaygın ve yüksek uptake Graves'i destekler; ancak klasik klinik tabloda önce TRAb istenir, uptake antikor negatifse ya da tanı belirsizse kullanılır"
+  - tip: sonuc
+    metin: "TRAb belirgin pozitif geldi. Graves hastalığı tanısı kondu; göz tutulumu hafif, hastanın gebelik planı yok."
+  - tip: secim
+    soru: "Graves hastalığı doğrulandı. Tedavi seçimi nasıl olmalıdır?"
+    secenekler:
+      - metin: "Metimazol başlangıcı ve semptom kontrolü için beta bloker ekleme"
+        dogru: true
+        geri_bildirim: "Graves'te ilk basamak antitiroid ilaç metimazoldür; propanolol gibi beta blokerler çarpıntı ve tremoru hızla dindirir"
+      - metin: "Uzun süreli propiltiourasil kullanımı"
+        dogru: false
+        geri_bildirim: "Propiltiourasil karaciğer toksisitesi nedeniyle uzun süreli kullanımda tercih edilmez; gebeliğin ilk üç ayı ve tiroid fırtınası gibi özel durumlarda öne çıkar"
+      - metin: "Yalnızca beta blokerle izlem"
+        dogru: false
+        geri_bildirim: "Beta bloker semptomları bastırır ama hormon yapımını engellemez; tek başına yeterli değildir"
+      - metin: "Hemen total tiroidektomi"
+        dogru: false
+        geri_bildirim: "Cerrahi, ilaç intoleransı, büyük guatr ya da şüpheli nodül gibi özel durumlarda düşünülür; ilk basamak tedavi değildir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: kilo kaybı, çarpıntı, ısı intoleransı, difüz guatr ve göz bulguları Graves'i düşündürür; primer hipertiroidide TSH baskılanır ve serbest T4 yükselir; etyolojide ilk adım TRAb ölçümüdür; tedavide ilk basamak metimazol, beta bloker semptom kontrolü içindir; propiltiourasil gebeliğin ilk üç ayı ve tiroid fırtınasının ilacıdır."
+sozlu_sorular:
+  - "TSH baskılanmış ama serbest T4 normal olsaydı nasıl ilerlerdiniz?"
+  - "Antitiroid ilaç yan etkileri nelerdir ve hastayı nasıl uyarırsınız?"
+  - "Radyoaktif iyot tedavisi kimlerde birinci seçenek olabilir?"

@@ -1,0 +1,16 @@
+id: ped_toks_parasetamol
+version: 1
+status: draft
+author: ai-drafts/toksikoloji-antidot
+sources:
+- Amerikan Akademik Klinik Toksikoloji (AACT) parasetamol pozisyon bildirileri — referans olarak listelendi,
+  metin özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: Parasetamol Zehirlenmesi ve N-Asetilsistein
+taksonomi:
+- [ktbt, pediatri, ped_acil_yogun_bakim, ped_acil_zehirlenmeler]
+metin: "Parasetamol karaciğerde NAPQI metabolitine dönüşür; glutatyon depoları tükenince merkezi lobüler hepatik nekroz gelişir ve ilk 24 saat boyunca hasta çoğu kez iyidir. Alımdan 4 saat sonra ölçülen serum düzeyi Rumack-Matthew nomogramı üzerinde tedavi çizgisinin üstündeyse N-asetilsistein başlanır; istenen 4 saatlik düzey yoksa, alım zamanı belirsizse, tekrarlı ya da uzamış salımlı olsa tedavi çizgisi beklenmeden N-asetilsistein verilir. N-asetilsisteinin ideal başlama penceresi ilk 8 saattir ve bu pencerede başlanan hastada karaciğer yetmezliği pratikte görülmez; 24 saatten geç bile başlansa tedavi hâlâ yararlıdır. Klinik seyir fazlarla izlenir: ilk 24 saatte bulantı-kusma, 24-72 saatte sessiz laboratuvar gelişimiyle AST ve INR yükselmesi, ardından fulminan hepatik yetmezlik ya da sona doğru iyileşme dönemi. Toksisite riski artan hasta grubunda glutatyon depoları az olan kronik alkol kullananlar, açlıkta kalanlar ve enzim indükleyici ilaç kullananlar öne çıkar."
+tus_gecmisi:
+- tus-2015-ilkbahar-ttbt-101
+- tus-2020-ilkbahar-ktbt-53
+- tus-2020-ilkbahar-ktbt-54

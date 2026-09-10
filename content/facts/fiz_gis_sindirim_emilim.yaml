@@ -1,0 +1,10 @@
+id: fiz_gis_sindirim_emilim
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Emilim Yerleri"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_sindirim_emilim]
+metin: "Karbonhidrat, protein ve yağ sindirim ürünlerinin emiliminin büyük bölümü ince bağırsakta, villus ve mikrovillus yüzeyinde gerçekleşir; demir duodenumda ferrous biçimde emilirken, B12 ve safra asitleri terminal ileumda emilir. Fruktoz GLUT5 taşıyıcısıyla, glukoz ve galaktoz sodyumla birlikte SGLT1 taşıyıcısıyla hücreye girer."

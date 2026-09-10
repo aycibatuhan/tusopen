@@ -1,0 +1,59 @@
+id: juvenil_idiyopatik_artrit
+version: 1
+status: draft
+author: ai-drafts/pediatri-3
+sources:
+- ILAR/PRINTO JIA sınıflandırma kriterleri — referans olarak listelendi, metin projesi özgün yazımdır
+- ACR/CARRA JIA tedavi önerileri
+ad: Juvenil İdiyopatik Artrit
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_romatoloji
+  - ped_rom_jia
+tipik_hasta: 16 yaşın altındaki, en az 6 haftadan beri bir ya da birkaç eklemde şişlik, ağrılı hareket
+  kısıtlılığı ya da sabah tutukluğu olan çocuk; kızlarda oligoartiküler tip (ANA pozitif, kronik üveit
+  riski), erkeklerde entezitle ilişkili tip öne çıkar; sistemik tip ise kuyruklu ateş ve döküntüyle acile
+  başvurur
+patofizyoloji: Genetik yatkınlığın ve çevresel tetikleyicilerin (enfeksiyon, bağırsak mikrobiyotası) birlikte
+  çalıştığı inflamatuvar eklem hastalığı; sinovyada makrofaj ve T hücre ağırlıklı infiltrasyon, IL-6 ve
+  TNF alfa gibi sitokin bolluğu kıkırdak ve kemik hasarına yol açar. Sistemik tipte (eski adı Still hastalığı)
+  IL-1 ve IL-6 ağırlıklı otoinflamatuvar tablo ön plandadır; küçük çocuğun ağrıyı anlatamaması tanıyı
+  geciktirir
+anahtar_bulgular:
+- 'Tanı çekirdeği: 16 yaş altında artritin en az 6 haftadan uzun sürmesi ve artriti açıklayan başka bir
+  hastalığın bulunamaması'
+- 'Oligoartiküler tip: 4 eklemi geçmeyen, büyük eklemleri (diz, ayak bileği) tutan tutulum; ANA pozitif,
+  RF negatif; en önemli sakat bırakan risk kronik anteriyor üveittir (sessildir, yalnızca aralıklı oftalmoloji
+  muayenesinde yakalanır)'
+- 'Sistemik tip: günlük dalga biçimli, en az 2 haftadan uzun kuyruklu ateş; ateş dalgalarıyla birlikte
+  gelen soluk somon renkli, geçici döküntü; lenfadenopati, hepatosplenomegali, serozit; ANA ve RF negatif'
+- 'Poliartiküler tip: 5 eklem ve üzeri; RF negatif alt tip okul çağı kızlarında diz ve el bileklerini
+  tutar; RF pozitif alt tip erişkin romatoid artritini andırır (el bilekleri, erozif seyir)'
+- 'Entezite ilişkili tip: alt ekstremitede asimetrik artrit, topuk ve entezis ağrısı, HLA-B27 pozitifliği;
+  erkek çocuklarda öne çıkar, ergenlikte bel ağrısı (sakroiliit) gelişebilir'
+- Sabah sertliği, eklem kontraktürü, uzuv kullanımından kaçınma; kıkırdak büyüme bölgesinin tutulumuyla
+  uzuvlarda uzunluk farkı
+patognomonik: null
+ilk_tetkik: ESR ve CRP, tam kan sayımı (sistemik tipin anemi ve lökositozunu değerlendirmek için), RF
+  ve anti-CCP, ANA, HLA-B27; eklem ultrasonografisi ya da MR ile sinovit kanıtı; yeni tanılı her hastaya
+  slit-lamp ile üveit taraması
+kesin_tani: 'ILAR kriterleri: 16 yaş altında, etiyoloji belirsiz artritin 6 haftadan uzun sürmesi ve enfeksiyon,
+  malignite, başka romatolojik hastalıkların dışlanması; alt tip, ilk 6 aydaki eklem sayısına ve eşlik
+  eden bulgulara göre adlandırılır'
+ilk_tedavi: NSAID (ibuprofen, naproksen) semptom kontrolünde ilk adım; dirençli tek eklemde eklem içi
+  glukokortikoid; hastalık değiştirici olarak methotrexat (poliartiküler ve genişleyen oligoartiküler
+  olgularda); dirençli olgularda biyolojik ajanlar (TNF alfa blokajı); sistemik tipte IL-1 ve IL-6 hedefli
+  tedavi; kronik üveit için düzenli oftalmoloji kontrolü
+klasik_komplikasyon: Kronik anteriyor üveit (oligoartiküler tipin sessil görme kaybı nedeni); sistemik
+  tipte makrofaj aktivasyon sendromu; uzun süren inflamasyonda eklem kontraktürü, büyüme bozukluğu ve
+  erken kıkırdak yıpranması
+tus_gecmisi:
+- tus-2016-sonbahar-ktbt-68
+- tus-2017-sonbahar-ktbt-67
+- tus-2021-ilkbahar-ktbt-68
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,10 @@
+id: anat_sirt_spinal_sinir
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Spinal sinirler ve dermatomlar"
+taksonomi:
+  - [ttbt, anatomi, anat_sirt_omurga, anat_sirt_spinal_sinir]
+metin: "C1 kökü deri duyu taşımadığından dermatom haritada yoktur; 7 servikal vertebraya karşın 8 servikal sinir bulunur ve C8 adlı bir vertebra yoktur. Klasik dermatom noktaları şunlardır: T4 meme başı, T10 umblikus, L1 inguinal bölge, S1 lateral ayak kenarı. C1-C7 sinirleri aynı numaralı vertebranın üstünden, C8 ve altındaki sinirler ise altından çıkar."

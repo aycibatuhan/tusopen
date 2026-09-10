@@ -1,0 +1,10 @@
+id: histo_lenf_dalak
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dalak Pulpa Bölgeleri"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_lenfoid, histo_lenf_dalak]
+metin: "Beyaz pulpa, merkez arteriyolü çevreleyen T lenfositli periarteriyol kılıf ile B lenfositli foliküllerden oluşur. Kırmızı pulpa ise sinüzoidler ve splenik kordlardan meydana gelir; yaşlanmış eritrositler burada makrofajlarca ayıklanır."

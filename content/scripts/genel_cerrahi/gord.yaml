@@ -1,0 +1,55 @@
+id: gord
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-3
+sources:
+- ACG gastroözofageal reflü hastalığı kılavuzu
+- Schwartz Genel Cerrahinin İlkeleri
+ad: Gastroözofageal Reflü (GÖRH)
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ozofagus
+  - gc_oz_gord_hiatal
+- - ktbt
+  - dahiliye
+  - dah_gastroenteroloji
+  - dah_gis_gord
+tipik_hasta: Orta yaşlı, kilolu hasta; yemek sonrası ve yatarken artan göğüs kemiği arkasında yanma ile
+  ekşi gelme şikayetiyle başvurur; atipik tabloda gece öksürüğü, ses kısıklığı veya astım alevlenmesi
+  ön plandadır; hiatus hernisi ve sigara içme öyküsü sık eşlik eder
+patofizyoloji: Alt özofageal sfinkterin istirahat tonusunun düşmesi ve yemekler sırasında görülen geçici
+  sfinkter gevşemeleri, asitli mide içeriğinin yemek borusuna kaçmasına yol açar; hiatus hernisi bu savunma
+  mekanizmasını ek olarak bozar. Özofagus mukozası uzun süre aside maruz kalırsa önce erozyon ve ülser,
+  sonra yassı epitel yerine intestinal tip metaplazi (kadeh hücreleri) gelişir; bu duruma Barrett özofagusu
+  denir ve adenokarsinom için öncü lezyon sayılır
+anahtar_bulgular:
+- Göğüs kemiği arkasında yanma ve ekşi gelme; antasit ve proton pompa inhibitörüyle hızlı düzelme
+- Yatınca, eğilince ve yemek sonrası artan şikayetler
+- 'Atipik: gece öksürüğü, ses kısıklığı, astım alevlenmesi, diş minesinde asit aşınması'
+- 'Alarm bulguları: disfaji, odinofaji, kilo kaybı, kansızlık, kanama, 45 yaş üzerinde yeni başlayan tablo'
+- Endoskopide erozyon, ülser veya distal özofagusta salmon rengi metaplastik dil
+patognomonik: null
+ilk_tetkik: Tipik ve genç hastada önce ampirik proton pompa inhibitörü denemesi; alarm bulgusu olan veya
+  45 yaş üzerindeki hastada üst gastrointestinal endoskopi; Barrett şüphesinde endoskopik biyopsi
+kesin_tani: Tipik tablo artı proton pompa inhibitörü yanıtı çoğunlukla yeter; objektifleştirme gerektiğinde
+  24 saatlik özofageal pH izlemi ve manometri; Barrett tanısı endoskopik görünüm artı biyopside intestinal
+  metaplazi saptanmasıyla konur
+ilk_tedavi: Yaşam tarzı düzenlemesi (kilo verme, yatmadan önce yemek yememe, yatağın başını yükseltme)
+  ve 4-8 hafta proton pompa inhibitörü; dirençli veya ilaç bağımlı olguda laparoskopik Nissen fundoplikasyonu;
+  Barrett tanılı hastada displazi yoksa her 3-5 yılda bir endoskopik izlem, displazi derecesine göre aralık
+  sıklaştırılır
+klasik_komplikasyon: Barrett özofagusu ve bundan gelişen adenokarsinom; peptik darlık, gastrointestinal
+  kanama; larengeal reflüye bağlı ses kısıklığı ve kronik öksürük
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-85
+- tus-2015-ilkbahar-ktbt-90
+- tus-2016-ilkbahar-ktbt-90
+- tus-2017-sonbahar-ktbt-63
+- tus-2018-sonbahar-ktbt-13
+- tus-2020-sonbahar-ktbt-66
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,42 @@
+id: peritonsiller_abse
+version: 1
+status: draft
+author: ai-drafts/kbb-2
+sources:
+- 'Klinik rehberler: IDSA grup A streptokokal farenjit tanı ve tedavi rehberi — referans olarak listelendi,
+  metin projesi özgün yazımdır'
+ad: Peritonsiller Abse
+taksonomi:
+- - ktbt
+  - kbb
+  - kbb_oral_kavite_farinks
+  - kbb_of_peritonsiller_abse
+tipik_hasta: Genç yetişkinde birkaç gündür süren boğaz ağrısının tek tarafa yerleşip şiddetlenmesiyle
+  başvuran hasta; yutkunmayla katlanılmaz ağrı, ağız açamama (trismus), kapalı kalın ses (sıcak patates
+  sesi) ve tükürüğü yutamama ile gelir; ateş ve halsizlik ilerleyen saatlerde belirginleşir
+patofizyoloji: 'Bademcik iltihabının bademcik kapsülü ile farenksin üst konstriktör kası arasındaki peritonsiller
+  boşluğa geçip pü kolleksiyonu oluşturması; flora genellikle karmaştır: grup A streptokoklar ile Fusobacterium
+  ve Prevotella gibi anaeroblar birlikte bulunur; boşluk pterygoid kaslara ve parafaringeal alana komşudur,
+  bu yüzden trismus ve yayılım riski tabloyu belirler'
+anahtar_bulgular:
+- Tek taraflı, yutkunmayla şiddetlenen ağır boğaz ağrısı; ağrının bir tarafa yoğunlaşması tanının anahtarıdır
+- 'Trismus: pterygoid kasların abseyle tahrişi sonucu ağız açıklığının belirgin kısıtlanması'
+- Küçük dil (uvula) sağlam tarafa itilmiş görünümde; bademcik üst polünde belirgin şişlik
+- Kapalı, kalın ve boğuk ses (sıcak patates sesi); tükürüğün yutulamaması ve ağızda salya birikimi
+- Ateş, titreme, ağrılı servikal lenfadenopati ve başı abse tarafına eğme (tortikollis) refleksi
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Küçük dilin karşı tarafa itilmiş görünümü ve tek taraflı üst polde yoğun şişlik
+ilk_tetkik: Ağız içi muayene; abse derinliği veya parafaringeal yayılım belirsizse kontrastlı boyun BT
+kesin_tani: 'İğne aspirasyonu: çekilen pü ile kesin tanı konur; aynı işlem tedavinin ilk hamlesi olduğundan
+  tanı ve tedavi aynı anda başlar'
+ilk_tedavi: 'İnsizyon ve drenaj (veya iğne aspirasyonu) eşliğinde antibiyotik: penisilin grubu artı metronidazol
+  veya ampisilin-sulbaktam; tek doz deksametazon ağrıyı ve ateşi hafifletir; tekrarlayan atakta elektif
+  tonsillektomi'
+klasik_komplikasyon: Absenin kopmasıyla aspirasyon pnömonisi; parafaringeal alana yayılım, mediastinit
+  ve juguler ven septik trombozu (Lemierre sendromu); hava yolu baskılanması riski
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-55
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

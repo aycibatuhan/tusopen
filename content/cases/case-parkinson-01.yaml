@@ -1,0 +1,49 @@
+id: case-parkinson-01
+version: 1
+status: draft
+author: "ai-drafts/cases-g"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: parkinson
+baslik: "Eller dinlenirken titreyen yaşlı hasta"
+adimlar:
+  - tip: sunum
+    metin: "68 yaşında erkek. Bir yıldır sağ elinde dinlenirken beliren titreme var; elini kullandığında titremenin azaldığını söylüyor. Aynı dönemde yürümesi yavaşlamış, adımları küçülmüş, kalemiyle yazdığı yazı küçülmüş; ailesi yüz ifadesinin azaldığını belirtmiş. Muayenede sağ elde 4-6 Hz dinlenme tremoru, ekstremitelerde rijidite ve pasif hareket sırasında çark dişi hissi, hareket başlatmada belirgin yavaşlama saptanır. Postural refleksler korunmuş, bilişsel muayene normal. İlaç kullanımı yok."
+  - tip: secim
+    soru: "Dinlenme tremoru, rijidite ve bradikinezi birlikte. Tanısal yaklaşım hangisi olmalı?"
+    secenekler:
+      - metin: "Klinik bulgularla tanı konur; tipik tabloda tanıyı kesinleştirmek için ileri tetkik gerekmez"
+        dogru: true
+        geri_bildirim: "Parkinson tanısı klinik özelliklerle konur; dinlenme tremoru + rijidite + bradikinezi + asimetrik başlangıç tipik kombinasyondur, dopamin taşıyıcı sintigrafisi tanı belirsiz kaldığında düşünülür"
+      - metin: "Tanı için beyin MR şarttır"
+        dogru: false
+        geri_bildirim: "Tipik parkinson hastasında MR normaldir; görüntüleme atipik özellik, erken düşme, hızlı ilerleme veya alternatif tanı şüphesinde kullanılır"
+      - metin: "Dopamin taşıyıcı sintigrafisiyle tanı kesinleştirilir"
+        dogru: false
+        geri_bildirim: "Klinik tanı netse sintigrafiye gerek yok; esansiyel tremor, ilaç kaynaklı parkinsonizm gibi ayrımlarda yardımcıdır"
+      - metin: "EMG ile tremor karakterizasyonu yapılır"
+        dogru: false
+        geri_bildirim: "Tremorun frekans analizi tanıyı değiştirmez; dinlenme tremoru ile postural/kinetik tremor ayrımı klinikte yapılır"
+  - tip: sonuc
+    metin: "Hasta izlemde tutulur; iki yıl sonunda bulgular günlük yaşamı etkilemeye başlar: düğme iliklemede ve yazı yazmada güçlük belirginleşmiştir. Dopaminerjik tedavi başlanmasına karar verilir."
+  - tip: secim
+    soru: "68 yaşında, bilişsel olarak sağlam hastada günlük yaşamı bozan bulgular. İlk tedavi seçimi?"
+    secenekler:
+      - metin: "Levodopa + periferik dekarboksilaz inhibitörü ile başlanır"
+        dogru: true
+        geri_bildirim: "Yaşlı hastada ilk seçim levodopadır; etkinliği yüksektir ve bu yaş grubunda dopamin agonistlerine göre konfüzyon/halüsinasyon ve ortostatik hipotansiyon riski daha düşüktür"
+      - metin: "Dopamin agonisti ile tedaviye başlanır"
+        dogru: false
+        geri_bildirim: "Genç hastalarda motor komplikasyonları geciktirmek için erken dönemde tercih edilir; yaşlı hastada halüsinasyon, uyku hali ve hipotansiyon riski nedeniyle ilk seçim değildir"
+      - metin: "Antikolinerjik ajan (trihexifenidil) verilir"
+        dogru: false
+        geri_bildirim: "Tremorda etkilidir ancak yaşlı hastada bilişsel bozulma, üriner retansiyon ve ağız kuruluğu riski nedeniyle uygun değildir"
+      - metin: "Yalnızca fizik tedavi ve egzersiz önerilerek ilaç ertelenir"
+        dogru: false
+        geri_bildirim: "Egzersiz tedavinin parçasıdır; ancak günlük yaşamı bozan bulgularda dopaminerjik tedavi geciktirilmez"
+  - tip: ozet
+    metin: "Öğrenme noktaları: dinlenme tremoru (hareketle azalır) + rijidite + bradikinezi + asimetrik başlangıç = Parkinson; tanı klinik, MR ve sintigrafi rutin değil; yaşlı ve bilişsel sağlam hastada ilk seçim levodopa; dopamin agonistleri genç hastada önceliklidir; antikolinerjikler yaşlıda kognitif yan etki nedeniyle kaçınılır."
+sozlu_sorular:
+  - "Dinlenme tremoru ile postural/kinetik tremor nasıl ayrılır?"
+  - "Levodopanın uzun dönem komplikasyonları nelerdir?"
+  - "Atipik parkinsonizmi düşündüren bulgular nelerdir?"

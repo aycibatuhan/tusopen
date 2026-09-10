@@ -1,0 +1,49 @@
+id: case-inme-01
+version: 1
+status: draft
+author: ai-drafts/cases-a
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: iskemik_inme
+baslik: "Ani gelişen konuşma bozukluğu ve kol güçsüzlüğü"
+adimlar:
+  - tip: sunum
+    metin: "67 yaşında kadın. Bir buçuk saat önce sofra başında konuşmasının bozulduğu, sağ elinde kaşığı tutamadığı ve kolunu kaldıramadığı fark edilmiş. Hipertansiyon ve tip 2 diyabet için ilaç kullanıyor; daha önce benzer atak yok. Muayenede tansiyon 172/94 mmHg, nabız dakikada 82 ve düzensiz. Bilinç açık, yönelim tam; sağ yüzde ve sağ kolda 3/5 güçsüzlük, dizartri ve kelime bulma güçlüğü saptanır; pupiller doğal, boyun sertliği yok."
+  - tip: secim
+    soru: "Hasta belirtilerin başlangıcından üç saat içinde acile getirildi. Tromboliz kararı öncesinde ilk adım hangisidir?"
+    secenekler:
+      - metin: "Acil beyin bilgisayarlı tomografisi ile kanama dışlanması; kan şekeri ve koagülasyon değerlendirmesi"
+        dogru: true
+        geri_bildirim: "Tromboliz öncesi kanama dışlanmalı ve inme taklidi yapan hipoglisemi gibi durumlar elenmelidir; tomografi bu amaçla en hızlı görüntüleme yöntemidir."
+      - metin: "Manyetik rezonans görüntülemesinin beklenmesi"
+        dogru: false
+        geri_bildirim: "Manyetik rezonans zaman kaybettirir ve tedavi penceresi geçebilir; ilk görüntüleme tomografidir."
+      - metin: "Hemen aspirin verilip tromboliz planının iptal edilmesi"
+        dogru: false
+        geri_bildirim: "Pencere içinde etkin tedavi trombolizdir; antiagregan trombolizden yaklaşık bir gün sonra eklenir, hemen verilmesi doğru değildir."
+      - metin: "Karotis doppler ultrasonografi sırasının bekletilmesi"
+        dogru: false
+        geri_bildirim: "Etyoloji araştırması pencere sonrasında planlanır; pencere içinde öncelik kanamayı dışlamaktır."
+  - tip: sonuc
+    metin: "Tomografide kanama ve büyük erken iskemik değişim yok. Kan şekeri 116 mg/dL, koagülasyon değerleri normal; tansiyon tromboliz sınırının altında. Belirtilerin başlangıcından iki saat geçmiş."
+  - tip: secim
+    soru: "Kanama dışlandı ve pencere içindeyiz. Doğru tedavi kararı hangisidir?"
+    secenekler:
+      - metin: "Damar yolu trombolitik tedavinin başlatılması ve yakın nörolojik izlem"
+        dogru: true
+        geri_bildirim: "Belirtilerin başlangıcından itibaren dört buçuk saat içinde ve kanama dışlandığında sistemik tromboliz en etkili tedavidir."
+      - metin: "Trombolizden önce aspirin yüklemesinin yapılması"
+        dogru: false
+        geri_bildirim: "Tromboliz döneminde antiagregan geciktirilir; erken aspirin kanama riskini artırır."
+      - metin: "Yalnız damar yolu sıvısı ile gözlem"
+        dogru: false
+        geri_bildirim: "Sıvı desteği tek başına tıkalı damarı açmaz; pencere içinde etkin tedavi trombolizdir."
+      - metin: "Acil dönemde hemen antikoagülan başlamak"
+        dogru: false
+        geri_bildirim: "Akut dönemde rutin heparin kanama riskini büyütür; antikoagülasyon kararı etyoloji ve infarkt büyüklüğüne göre sonradan verilir."
+  - tip: ozet
+    metin: "Öğrenme noktaları: ani fokal nörolojik kayıpta süre penceridir; ilk tetkik kan şekeri ve koagülasyon değerlendirmesiyle kanamayı dışlayan beyin tomografisidir; pencere içinde ve kanama dışlandığında damar yolu trombolizi uygulanır; antiagregan trombolizden sonra eklenir, akut dönemde rutin heparin başlanmaz; ritim kaydı atriyal fibrilasyonu gösterirse uzun dönem koruma antikoagülasyondur."
+sozlu_sorular:
+  - "Tromboliz için hangi koşullar gereklidir?"
+  - "İnme taklidi yapan tablolar nelerdir?"
+  - "Atriyal fibrilasyon kaynaklı inmeye antikoagülasyon ne zaman başlanır?"

@@ -1,0 +1,27 @@
+id: prematur_retinopatisi
+version: 1
+status: draft
+author: "ai-drafts/goz-3"
+sources:
+  - "AAO/AAP/AAPOS prematüre retinopatisi tarama rehberleri — referans adı olarak listelendi, metin projesi özgün yazımdır"
+  - "Türk Neonatoloji Derneği prematüre retinopatisi izlem rehberi"
+ad: Prematüre Retinopatisi
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_prematur_retinopatisi]
+  - [ktbt, pediatri, ped_neonatoloji, ped_neo_rop]
+tipik_hasta: "32 gebelik haftasının altında doğmuş, doğum ağırlığı 1500 gramın altında olan; yenidoğan yoğun bakımında uzun süre oksijen desteği ve solunum desteği almış prematüre bebek"
+patofizyoloji: "Retinanın damarlanması gebeliğin son çeyreğinde tamamlanır; prematüre doğumla bu süreç yarıda kalır. Doğum sonrası yüksek oksijen ortamı damar gelişimini yöneten VEGF üretimini baskılar, oksijen azaltılınca relatif hipoksi gelişir ve avasküler retina ile damarlanmış retina sınırında patolojik neovaskülarizasyon başlar; bu fibrovasküler doku gerilmesi oluşturup retina dekolmanına kadar gidebilir"
+anahtar_bulgular:
+  - "Plus hastalığı: arka pol damarlarında belirgin genişleme ve kıvrımlanma; tedavi kararı verdirir"
+  - "Avasküler ve damarlı retina arasındaki sınırda kabarık sırt (ridge) ve üzerinden geçen yeni damarlar (evre 3)"
+  - "Tutulan periferik retinaya göre bölge 1-3 sınıflaması; bölge 1 (arka pola yakın) en yüksek riskli"
+  - "Tip 1 ROP: bölge 1'de herhangi bir evrede plus; bölge 1'de evre 3; bölge 2'de evre 2 veya 3 artı plus — hemen tedavi"
+  - "İlk tarama zamanı: postnatal 4 hafta veya 31 postmenstrual hafta, hangisi daha geçse; retinanın tam damarlanması sürünciye dek 1-2 haftada bir muayene"
+  - "İleri evrede retinal çekinti, preretinal kanama ve traksiyonel retina dekolmanı"
+patognomonik: "Plus hastalığı (arka pol damar dilatasyonu ve kıvrımlanması) prematüre bebeğin retinal muayenesinde"
+ilk_tetkik: "Midriyazis sonrası binoküler indirekt oftalmoskopi ile retinal periferin bölge, evre ve plus açısından değerlendirilmesi; retinal kamera görüntülemesi belgeleme ve takipte yardımcıdır"
+kesin_tani: "Uluslararası sınıflamaya göre bölge, evre ve plus durumunun oftalmoskopik muayenede belgelenmesi; prematürelik ve oksijen öyküsü tanı bağlamını kurar"
+ilk_tedavi: "Tip 1 ROP saptanınca avasküler periferal retinaya lazer fotokoagülasyon; bölge 1 tutulumunda ve bazı merkezlerde birincil tedavi olarak anti-VEGF enjeksiyonu; evre 4-5 retina dekolmanında vitreoretinal cerrahi"
+klasik_komplikasyon: "Traksiyonel retina dekolmanı ve körlük; çocuklukta yüksek miyopi, strabizmus ve ambliyopi"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

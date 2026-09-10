@@ -1,0 +1,55 @@
+id: obezite
+version: 1
+status: draft
+author: ai-drafts/dahiliye-5
+sources:
+- Türkiye Endokrinoloji ve Metabolizma Derneği obezite tanı ve tedavi kılavuzu
+- ADA/ASMBS metabolik ve bariyerik cerrahi önerileri
+ad: Obezite ve Metabolik Sendrom
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_endokrinoloji
+  - dah_end_obezite
+tipik_hasta: Kilo artışıyla birlikte hipertansiyon, insülin direnci, dislipidemi ya da obstrüktif uyku
+  apnesi gelişen orta yaş hasta; ense ve gövde kıvrımlarında akantozis nigrikans saptanan; ailesinde obezite
+  ve tip 2 diyabet yoğun olan; atipik antipsikotik, kortikosteroid ya da insülin kullanan hastada kilo
+  alımı
+patofizyoloji: 'Enerji alımı ile harcaması arasındaki dengesizlik; genetik yatkınlık, hareketsiz yaşam,
+  uyku yetersizliği ve psikososyal etmenler üzerine biner. Özellikle visseral yağ dokusu endokrin organ
+  gibi davranır: adiponektin azalır, TNF-alfa ve IL-6 artar; serbest yağ asidi fazlalığı ve kronik düşük
+  şiddetli inflamasyon insülin direncine yol açar. Metabolik sendrom bu tablonun klinik yansımasıdır:
+  abdominal obeziteye ek olarak trigliserid yüksekliği, HDL düşüklüğü, kan basıncı yükselmesi ve açlık
+  glukozu artışından ikisinin bulunması'
+anahtar_bulgular:
+- BKİ (boy ölçüsünün karesine bölünmüş kilo) 30 kg/m² ve üzeri obezite; 25-29,9 fazla kilo; 35-39,9 orta,
+  40 ve üzeri ciddi (morbid) obezite
+- Bel çevresi artışı (Türkiye ölçütlerinde erkekte 94 cm, kadında 80 cm üzeri abdominal obezite)
+- 'Metabolik sendrom bileşenleri: açlık glukozu 100 mg/dL üzeri, trigliserid 150 mg/dL üzeri, HDL düşüklüğü,
+  kan basıncı 130/85 mmHg üzeri'
+- Akantozis nigrikans (ense, koltuk altı; insülin direncinin cilt bulgusu)
+- 'Obstrüktif uyku apnesi belirtileri: horlama, gündüz aşırı uyku hâli'
+patognomonik: null
+ilk_tetkik: BKİ ve bel çevresi ölçümü; kan basıncı; açlık glukozu/HbA1c, lipit paneli, karaciğer enzimleri;
+  hipotiroidi ve Cushing gibi ikincil obezite nedenlerini dışlamak için TSH ve gerektiğinde kortizol değerlendirmesi
+kesin_tani: BKİ 30 kg/m² ve üzeri (obezite) ve bel çevresi ölçütüne göre abdominal obezite; metabolik
+  sendrom tanısı abdominal obeziteyle birlikte dört bileşenden ikisinin varlığıyla konur
+ilk_tedavi: 'Yoğun yaşam tarzı değişikliği en temel adımdır: kalori kısıtlaması, davranışsal destek, düzenli
+  egzersiz; hedef ilk 6 ayda vücut ağırlığının yüzde 5-10''u kadar kayıptır. BKİ 27 ve üzerinde komorbidite
+  varsa ilaç düşünülür: GLP-1 reseptör agonistleri (liraglutid, semaglutid) ve çift agonist tirzepatid
+  en etkilileri; orlistat ve naltrekson-bupropion diğer seçenekler. BKİ 40 ve üzeri ya da BKİ 35-39,9
+  ile kontrolsüz ciddi komorbiditede metabolik cerrahi (sleeve gastrektomi, gastrik bypass); seçilmiş
+  tip 2 diyabetli hastada BKİ 30 üzeri de kabul edilir'
+klasik_komplikasyon: Tip 2 diyabet, obstrüktif uyku apnesi, steatohepatit, hipertansiyon ve artmış kardiyovasküler
+  risk
+tus_gecmisi:
+- tus-2017-ilkbahar-ktbt-107
+- tus-2017-ilkbahar-ktbt-45
+- tus-2018-ilkbahar-ktbt-84
+- tus-2019-sonbahar-ktbt-86
+- tus-2022-ilkbahar-ttbt-94
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

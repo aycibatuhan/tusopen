@@ -1,0 +1,54 @@
+id: subaraknoid_kanama
+version: 1
+status: draft
+author: ai-drafts/noroloji-2
+sources:
+- 'AHA/ASA rehberi: Anevrizmal Subaraknoid Kanamanın Yönetimi — referans olarak listelendi, metin projesi
+  özgün yazımdır'
+- Adams and Victor's Principles of Neurology — referans olarak listelendi, metin projesi özgün yazımdır
+ad: Subaraknoid Kanama
+taksonomi:
+- - ktbt
+  - noroloji
+  - noro_serebrovaskuler
+  - noro_sv_sak
+tipik_hasta: 40-60 yaş arası, hipertansiyon, sigara kullanımı, ailede anevrizma öyküsü veya polikistik
+  böbrek hastalığı olan hasta; daha çok efor, ıkınma, cinsel birliktelik veya uyanma anında başlayan,
+  hiç yaşamadığı şiddette bir baş ağrısıyla gelen hasta; bazen günler önce aynı ağrının hafif bir versiyonu
+  (sentinel kanama) sinyal olur
+patofizyoloji: En sık neden serebral anevrizmanın (öncelikle konjenital berry tipi; Willis poligonu dallanma
+  noktalarında, ön ve posterior iletişim arterlerde) yırtılmasıdır; kan subaraknoid aralığa boşalır, meninks
+  iritasyonu menenjizme, intrakraniyal basınç artışı bilinç bozukluğuna, kanın ve yıkım ürünlerinin damar
+  duvarına teması ise vazospazma zemin hazırlar; az bir bölümde travma veya vasküler malformasyon söz
+  konusudur
+anahtar_bulgular:
+- Ani, saniyeler içinde zirveye ulaşan, hayatın en şiddetli başağrısı; hastalar 'hiç böyle bir ağrı yaşamadım'
+  der
+- Bulantı-kusma, ense sertliği (Kernig ve Brudzinski pozitif), fotofobi
+- Bilinç düzeyinde azalma veya senkop; huzursuzluk ve ajitasyon
+- Göz dibi muayenesinde papilla üzerinde kanama (subhialoid); Terson sendromu
+- 'İzole okulomotor sinir felci: pitoz ve genişlemiş pupillayla birlikte gözün içe bakamaması (göz aşağı-dışa
+  dönüktür); posterior iletişim arter anevrizmasının
+  ipucudur'
+patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Hayatın en kötü başağrısı: saniyeler içinde maksimuma ulaşan, hastanın hiç yaşamadığını
+  söylediği şiddette ani başlangıçlı ağrı (gök gürültüsü tarzı)'
+ilk_tetkik: 'Kontrastsız kranyal BT ilk tetkiktir: hızlı ve yatak başında yapılır, ilk 6 saatte duyarlılığı
+  çok yüksektir; BT negatif ama klinik şüphe güçlüyse kanama başlangıcından en az 12 saat sonra (bilirübin
+  ancak o zaman görülür) lumbar ponksiyon yapılır ve açılış basıncı yüksek, sarımsı renkte BOS (ksanatokromi)
+  aranır'
+kesin_tani: BT anjiyografi veya altın standart olan dijital substraksiyon anjiyografi (DSA) ile anevrizmanın
+  gösterilmesi; BT ve LP negatif olsa bile klinik şüphe sürerse hasta anjiyografiye alınır; klinik şiddet
+  Hunt-Hess, BT'de kanama miktarı Fisher skalasıyla derecelendirilir
+ilk_tedavi: 'Oral nimodipin (gecikmiş iskemiyi azaltır), kan basıncının dikkatli kontrolü ve efordan kaçınma;
+  anevrizmanın kapatılması: endovasküler koil (çoğu merkezde ilk seçenek) veya cerrahi klipleme; hidrosefali
+  gelişirse ventriküler drenaj'
+klasik_komplikasyon: Serebral vazospazm ve gecikmiş iskemik defisitler (4-14. günler arasında zirve),
+  yeniden kanama, akut hidrosefali, hiponatremi (SIADH veya serebral tuz kaybı)
+tus_gecmisi:
+- tus-2018-sonbahar-ttbt-11
+- tus-2019-sonbahar-ktbt-103
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

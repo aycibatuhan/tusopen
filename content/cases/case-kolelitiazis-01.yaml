@@ -1,0 +1,49 @@
+id: case-kolelitiazis-01
+version: 1
+status: draft
+author: "ai-drafts/cases-f"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: kolelitiazis
+baslik: "Yağlı yemek sonrası sağ üst kadranda ağrı"
+adimlar:
+  - tip: sunum
+    metin: "41 yaşında kadın, üç doğum yapmış, vücut kitle indeksi yüksek. Son altı aydır özellikle yağlı ve kızartma tarzı yemeklerden birkaç saat sonra sağ kaburga altında baskı tarzı ağrı nöbetleri oluyor; her nöbet birkaç saat sürüp kendiliğinden geçiyor. Ağrı sağ kürek kemiğine doğru vuruyor. Ateş, üşüme, gözde sararma veya idrarda koyulaşma tanımlamıyor. Muayenede sağ üst kadranda derin palpasyonda hafif hassasiyet var; Murphy bulgusu yok, kitle palpe edilmiyor. Bilirubin 0.8 mg/dL, karaciğer enzimleri üst sınırlar içinde, amilaz normal, beyaz küre 7.600."
+  - tip: secim
+    soru: "Postprandial sağ üst kadran ağrısı tanımlayan bu hastada istenecek ilk görüntüleme yöntemi hangisidir?"
+    secenekler:
+      - metin: "Karın ultrasonografisi"
+        dogru: true
+        geri_bildirim: "Kolelitiazis şüphesinde ilk ve en duyarlı yöntem karın ultrasonudur; taşlar, duvar kalınlığı ve safra yolu genişlemesi aynı oturuşta değerlendirilir"
+      - metin: "Bilgisayarlı batın tomografisi"
+        dogru: false
+        geri_bildirim: "Kolelitiaziste tomografi ilk seçenek değildir; bir bölümü radyoopak olmayan taşlar tomografide gözden kaçabilir"
+      - metin: "Manyetik rezonans kolanjiyografi"
+        dogru: false
+        geri_bildirim: "MRCP, ultrasonda ortak safra kanalı taşına ilişkin şüphe olduğunda istenir; ilk basamak ultrasondur"
+      - metin: "Oral kolesistografi"
+        dogru: false
+        geri_bildirim: "Tarihsel yöntemdir; ultrasonun yerini çoktan almıştır"
+  - tip: sonuc
+    metin: "Karın ultrasonunda safra kesesi içinde çoklu mobil taş görülür; kese duvarı kalınlığı 3 mm altında, çevre dokuda sıvı yok. Ortak safra kanalı 4 mm çapında ve içi temiz. Pankreas başı normal."
+  - tip: secim
+    soru: "Tekrarlayan biliyer kolik tanısı konan hastada tedavi planı nasıl kurulmalıdır?"
+    secenekler:
+      - metin: "Elektif laparoskopik kolesistektomi"
+        dogru: true
+        geri_bildirim: "Biliyer kolik geçiren hastada ilerleyen yıllarda kolesistit, pankreatit ve koledokolitiyazis riski belirgindir; semptomatik kolelitiazisin tedavisi elektif laparoskopik kolesistektomidir"
+      - metin: "Ursodeoksikolik asit ile taş eritme"
+        dogru: false
+        geri_bildirim: "Yalnızca küçük kolesterol taşlarında ve cerrahiye uygun olmayan hastalarda düşünülür; kesesi koruduğu için taş oluşumu sürer ve nüks sıktır"
+      - metin: "Yağsız diyet önerip cerrahi olmadan izlemek"
+        dogru: false
+        geri_bildirim: "Diyetle ağrı azaltılabilir ama ilk komplikasyonla hasta acile dönebilir; semptomatik taş konservatif izlem gerektirmez"
+      - metin: "Acil kolesistektomi"
+        dogru: false
+        geri_bildirim: "Bu tablo komplike olmayan koliktir; acil cerrahi kolesistit veya sepsis tablosunda gerekir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: yağlı yemek sonrası sağ üst kadran ağrısının sağ küreğe vurması = biliyer kolik; ateş varsa kolesistit, sarılık varsa koledokolitiyazis düşünülür; ilk tetkik karın ultrasonudur; semptomatik kolelitiazisin tedavisi elektif laparoskopik kolesistektomidir; sessiz taşlarda profilaktik cerrahi genel olarak önerilmez."
+sozlu_sorular:
+  - "Biliyer kolik ile akut kolesistit nasıl ayrılır?"
+  - "Murphy bulgusu hangi mekanizmayla oluşur?"
+  - "Hangi hastalarda sessiz safra kesesi taşında cerrahi düşünülür?"

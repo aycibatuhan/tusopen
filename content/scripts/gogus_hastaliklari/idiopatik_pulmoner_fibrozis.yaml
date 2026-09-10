@@ -1,0 +1,51 @@
+id: idiopatik_pulmoner_fibrozis
+version: 1
+status: draft
+author: ai-drafts/gogus
+sources:
+- ATS/ERS/JRS/ALAT idiopatik pulmoner fibrozis rehberi — referans adı olarak listelendi; metin projenin
+  özgün yazımıdır
+ad: İdiopatik Pulmoner Fibrozis
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_interstisyel
+  - gog_int_ipf
+tipik_hasta: Altmış yaş çevresinde ve erkek cinsiyette sık görülür; aylar-yıllar içinde ilerleyen nefes
+  darlığı ve inatçı kuru öksürükle gelen, çoğunlukla eski sigara içicisi olan hasta; dinleme sırasında
+  her iki akciğer bazalinde Velcro tipi (cırt cırtı andıran ince sesli) inspiratuvar krakman duyulur,
+  parmaklarda çomaklaşma saptanır
+patofizyoloji: Bilinmeyen bir tetikleyiciyle zarar gören alveoler epitelin anormal yara iyileşmesiyle
+  yanıtlaması; belirgin iltihap yerine fibroblastik odakların çoğalması, kolajen birikimi ve parankim
+  arşitektürünün kalıcı yıkımı öne geçer. İlerleyen fibrozis gaz alışverişi yüzeyini daraltır, difüzyon
+  kapasitesi düşer ve akciğer ileri aşamada bal peteği görünümüne dönüşür
+anahtar_bulgular:
+- Her iki akciğer bazalinde duyulan Velcro tipi ince inspiratuvar krakman ve parmaklarda çomaklaşma
+- Aylar içinde ilerleyen nefes darlığı ve inatçı kuru öksürük; egzersizde satürasyon düşüşü
+- Yüksek çözünürlüklü bilgisayarlı tomografide subplevral ve bazal ağırlıklı ağ örgüsü (retikülasyon),
+  çekme bronkiektazileri ve bal peteği (honeycomb) görünümü
+- 'Spirometride kısıtlayıcı patern: zorlu vital kapasitenin azalması; difüzyon kapasitesinin (DLCO) belirgin
+  düşmesi'
+- Günler içinde kötüleşen hipoksemiyle gelen akut alevlenme atakları
+patognomonik: null
+ilk_tetkik: Yüksek çözünürlüklü toraks bilgisayarlı tomografisi; spirometri ve difüzyon kapasitesi ile
+  egzersiz satürasyon ölçümü; romatoid artrit gibi bağ dokusu hastalıklarının dışlanması için klinik tarama
+kesin_tani: Uygun klinik tablodaki hastada yüksek çözünürlüklü tomografide UIP paterninin (subplevral
+  bazal ağırlıklı retikülasyon, çekme bronkiektazisi, bal peteği) görülmesi biyopsi gerektirmeden tanıyı
+  taşır; atipik görünümlerde multidisipliner değerlendirme ve gerekirse kriyobiyopsi devreye girer
+ilk_tedavi: Antifibrotik ilaçlar (pirfenidon ya da nintedanib) fonksiyon kaybının hızını yavaşlatır; pulmoner
+  rehabilitasyon, gerektiğinde oksijen, grip ve pnömokok aşıları, reflünün kontrolü ve erken dönemde transplantasyon
+  değerlendirmesi tablonun tamamlayıcılarıdır; hastalık iltihaba değil fibroza bağlı olduğundan rutin
+  steroid tedavisi beklenmez
+klasik_komplikasyon: Akut alevlenme (günler içinde derinleşen hipoksemi ve grafide yeni buzlu cam görüntüleri);
+  pulmoner hipertansiyon ve sağ kalp yetmezliği; akciğer kanseri riskinde artış
+tus_gecmisi:
+- tus-2019-ilkbahar-ktbt-5
+- tus-2020-sonbahar-ktbt-6
+- tus-2021-ilkbahar-ttbt-82
+- tus-2021-sonbahar-ktbt-6
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,74 @@
+id: hepatit_b
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon
+sources:
+- 'Klinik rehberler: EASL hepatit B yönetim kılavuzu, AASLD hepatit B pratik rehberi — referans olarak
+  listelendi, metin projesi özgün yazımdır'
+ad: Hepatit B Enfeksiyonu
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_viral_hepatit
+  - enf_vh_hepatit_b
+- - ktbt
+  - dahiliye
+  - dah_hepatoloji
+  - dah_hep_hepatit_b
+tipik_hasta: Kan ürünü veya iğne teması, damar içi madde kullanımı, korunmasız cinsel temas ya da HBsAg
+  pozitif anneden doğum öyküsü olan; sarılık, koyu idrar, sağ üst kadran ağrısı ve bitkinlikle akut başvuran;
+  ya da yıllardır sessiz seyredip rutin tetkikte enzim yüksekliği saptanan ve sonunda siroz ya da hepatosellüler
+  karsinom tablosuyla gelen hasta
+patofizyoloji: Hepadnaviridae ailesinden, kısmen çift zincirli DNA virüsü hepatositleri enfekte eder;
+  karaciğer hasarını doğrudan virüsün kendisi değil, özellikle sitotoksik T hücreleri aracılı bağışıklık
+  yanıtı yapar. Replikasyon şablonu olan kapalı dairesel DNA (ccDNA) hepatosit çekirdeğinden silinemediği
+  için enfeksiyon kökten kaldırılamaz, ancak antivirallerle baskılanır. Erişkinlerde akut enfeksiyonun
+  yaklaşık yüzde 95'i kendini sınırlarken doğumda anneden geçen enfeksiyonun yaklaşık yüzde 90'ı kronikleşir;
+  bulaş yaşının kronikleşme oranını belirlemesi temel noktadır
+anahtar_bulgular:
+- HBsAg enfeksiyonun varlığıdır; pozitifliği altı ayı aşarsa kronik enfeksiyon tanımı konur
+- HBeAg yüksek replikasyon ve bulaşıcılığın göstergesidir; anti-HBe'ye geçiş replikasyonun yatışmasını
+  işaret eder (ön-kor bölge mutantlarında yine de aktif hastalık görülebilir)
+- Anti-HBc IgM akut enfeksiyonu, anti-HBc IgG ise geçirilmiş ya da kronik enfeksiyonu gösterir ve ömür
+  boyu kalır; HBsAg temizlenip anti-HBs henüz pozitifleşmemiş pencere döneminde tek başına pozitif bulunan
+  işarettir
+- Anti-HBs koruyucu bağışıklıktır; aşıyla gelişen bağışıklıkta anti-HBc negatif, geçirilmiş enfeksiyonda
+  pozitiftir
+- Akut dönemde ALT ve AST belirgin yüksekliği (çoğunlukla binin üstünde), sarılık, koyu idrar, sağ üst
+  kadran ağrısı ve eklem ağrıları
+- 'Kronik enfeksiyonun dört evresi: bağışıklık toleransı (yüksek viral DNA, normal enzimler), immün aktif
+  (enzim yüksekliği ve inflamasyon), inaktif taşıyıcılık (HBeAg negatif, anti-HBe pozitif, normal enzimler)
+  ve HBeAg negatif kronik hepatit'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kronik HBV'de karaciğer biyopsisinde cam benzeri görünümlü hepatositler
+ilk_tetkik: HBsAg, anti-HBs, anti-HBc (IgM-IgG ayrımı), HBeAg ve anti-HBe serolojisi; karaciğer fonksiyon
+  testleri; HBV DNA miktarı; karaciğer ultrasonografisi
+kesin_tani: HBsAg pozitifliği ve HBV DNA saptanması; akut-kronik ayrımında anti-HBc IgM akut enfeksiyonu,
+  IgG kronik ya da geçirilmiş enfeksiyonu gösterir; HBsAg pozitifliğinin altı ayı aşması kronikleşmenin
+  tanımıdır
+ilk_tedavi: 'Akut enfeksiyonda destek tedavisi yeterlidir, antiviral gerekmez (fulminan seyir istisnadır).
+  Kronik enfeksiyonda tedavi endikasyonu mantığı: belirgin HBV DNA yüksekliğiyle birlikte karaciğer enzim
+  yüksekliği ya da biyopside inflamasyon-fibrozis; siroz varlığında enzim değerinden bağımsız olarak;
+  ailede hepatosellüler karsinom öyküsü; immünosupresif tedavi öncesi profilaksi; gebelikte dikey geçişi
+  önlemek için yüksek viral yük. Birincil ilaçlar tenofovir ve entekavirdir (nükleotid/nükleozid analogları);
+  pegile interferon alfa seçilmiş olgularda alternatiftir'
+klasik_komplikasyon: Siroz ve hepatosellüler karsinom (siroz gelişmeden bile), fulminan hepatit; hepatit
+  D virüsü koenfeksiyonu tabloyu ağırlaştırır; poliarteritis nodoza ve membranöz glomerülonefrit gibi
+  ekstrahepatik bulgular
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-13
+- tus-2014-sonbahar-ktbt-15
+- tus-2014-sonbahar-ttbt-66
+- tus-2015-ilkbahar-ttbt-65
+- tus-2016-sonbahar-ttbt-65
+- tus-2017-sonbahar-ktbt-15
+- tus-2017-sonbahar-ttbt-75
+- tus-2018-ilkbahar-ktbt-4
+- tus-2018-ilkbahar-ttbt-66
+- tus-2019-ilkbahar-ktbt-14
+- tus-2019-sonbahar-ktbt-15
+- tus-2022-ilkbahar-ktbt-14
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

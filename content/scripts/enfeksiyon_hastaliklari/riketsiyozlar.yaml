@@ -1,0 +1,52 @@
+id: riketsiyozlar
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-5
+sources:
+- 'Klinik rehberler: Riketsiyal hastalıklar ve Q ateşi tanı-tedavi rehberleri (CDC) — referans olarak
+  listelendi, metin projesi özgün yazımdır'
+ad: Riketsiyozlar ve Q Ateşi
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_riketsiyoz_lyme
+tipik_hasta: 'Kırsal veya ormanlık alanda kene ya da enfekte hayvan ekleminesine (bit, pire) temas eden;
+  ani başlayan yüksek ateş, şiddetli baş ağrısı, miyalji ve döküntüsüyle gelen hasta. Q ateşinde öykü
+  farklıdır: hayvancılık, hayvan doğum artıkları veya çiğ süt teması sonrası atipik pnömoni-karaciğer
+  tutulumu, ya da aylar-yıllar sonra kronik kapak hastalığı tablosu'
+patofizyoloji: 'Rikettsialar zorunlu hücre içi bakterilerdir; kene ısırığıyla deriye giren etken endotel
+  hücrelerini enfekte eder ve damar içi vaskülit meydana getirir, bu döküntü, ödem ve peteşiye yol açar
+  (OMSK ateşi, endemik tifus, kırlangıç tifusu gibi). Coxiella burnetii, yani Q ateşinin etkeni, bu düzenin
+  dışındadır: bulaş kene ısırığıyla değil, hayvan doğum artıklarının tozla solunmasıyla olur, döküntü
+  yapmaz; küçük bir hasta grubunda yıllar sonra kalp kapaklarında kronik endokardit gelişir'
+anahtar_bulgular:
+- Kene ısırığı veya vektör teması öyküsü; ani yüksek ateş, şiddetli baş ağrısı, miyalji, belirgin halsizlik
+- 'Makulopapüler başlayıp peteşiye dönüşen döküntü: bilek-ayak bileğinden başlar, gövdeye yayılır, avuç
+  içi ve tabanlara iner (OMSK ateşi)'
+- 'Doksisiklin ilk adımdır: seroloji ve PCR sonucu beklenmeden, şüphe anında başlanır; geç başlama mortaliteyi
+  belirgin artırır'
+- Q ateşinde döküntü yoktur; atipik pnömoni ve karaciğer enzim yüksekliği önde, bulaş hayvan doğum artıklarının
+  aerosolüyledir
+- 'Kronik Q ateşi: kültür negatif endokardit — kapakta vejetasyon, uzun süren ateş ve Coxiella faz 1 IgG
+  yüksekliği'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Bileklerden başlayıp avuç içi ve tabanlara inen peteşiyal döküntü (OMSK ateşi)
+ilk_tetkik: Klinik şüphede doksisiklinin hemen başlanması; destek için immünofloresan seroloji (akut ve
+  rekonvalesan çifti) veya PCR — erken dönemde seroloji henüz negatif olabilir
+kesin_tani: Epidemiyolojik öykü ve tipik klinikle başlangıç tanısı; IFA serolojisinde antikor titre artışı
+  veya PCR pozitifliği doğrulayıcıdır; kronik Q ateşinde faz 1 IgG yüksekliği (IFA'da ≥1:800) ve endokardit bulguları
+ilk_tedavi: Her şüpheli riketsiyozda ilk seçenek doksisiklin (kısa kür çocuklarda da kabul edilir); akut
+  Q ateşinde doksisiklin veya siprofloksasin; kronik Q ateşi endokarditinde doksisiklin artı hidroksiklorokin,
+  en az 18 ay
+klasik_komplikasyon: Geç tedavide OMSK ateşinin vaskülit kaynaklı çoklu organ yetmezliğine ilerlemesi;
+  Q ateşinde kronik kültür negatif endokardit
+tus_gecmisi:
+- tus-2015-sonbahar-ktbt-4
+- tus-2017-ilkbahar-ttbt-60
+- tus-2018-sonbahar-ttbt-65
+- tus-2019-ilkbahar-ttbt-60
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

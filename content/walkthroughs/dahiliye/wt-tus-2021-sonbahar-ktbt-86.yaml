@@ -1,0 +1,26 @@
+id: wt-tus-2021-sonbahar-ktbt-86
+version: 1
+status: draft
+author: "ai-drafts/walkthroughs-1"
+sources:
+  - "Klinik rehberler: üst gastrointestinal kanama yönetimi özetleri — referans olarak listelendi, metin özgün yazımdır"
+soru_ref: tus-2021-sonbahar-ktbt-86
+sinanan_bilgi: "Mallory-Weiss sendromu, aşırı kusma sonucu özofagogastrik bileşkede oluşan mukoza düzeyi yırtığa bağlı kanamadır; çoğu olguda kanama kendiliğinden durur ancak aktif ya da durmayan kanamada endoskopik tedavi (epinefrin enjeksiyonu, termal koagulasyon, klips) uygulanır, dirençli olgularda cerrahi ya da radyolojik girişim devreye girer."
+ipucu_turleri:
+  - "Aşırı kusma öyküsü + bileşke düzeyde kanama: longitudinal mukoza yırtığı sendromunun klasik mekanizması"
+  - "Üç ifadeli doğruluk sorusu: her ifade tek tek test edilir; kapsayıcı olumsuzluk içeren ifade (hiçbirinde gerek yok) özellikle şüpheyle okunur"
+  - "Endoskopi hem tanı hem tedavi aracıdır: aktif kanamada enjeksiyonel ve termal yöntemler standarttır"
+gurultu_turleri:
+  - "Varis kanaması çerçevesi: bileşke kanaması duyunca balon tamponadı ya da band ligasyonu gibi portal hipertansiyon tedavileri akla gelir; burada portal hipertansiyon yoktur, sorun mukoza yırtığıdır"
+  - "Çoğu olgunun kendiliğinden durması, girişim gerekmez gibi genelleme hatasına götürür; kendiliğinden durma eğilimi, aktif kanayan hastada endoskopik tedavi yapılmayacağı anlamına gelmez"
+mantik: "Üç ifadeyi ayrı ayrı değerlendiririz. Birinci ifade mekanizmayı anlatır: şiddetli kusmayla artan intraluminal basınç, özofagogastrik bileşkede mukoza ve submukozada longitudinal yırtık yapar; kanama da bu yırtıktandır. Bu tanımı doğru. İkinci ifade tedaviyi anlatır: endoskopi sırasında aktif damar kanaması ya da görünür damar saptandığında lokalize epinefrin enjeksiyonu ile vazokonstriksiyon sağlanır, çoğunlukla termal koagulasyonla kombine edilir; bu da güncel yaklaşımla uyumlu. Üçüncü ifade aşırı genelleme içerir: hastaların çoğu destekle düzelir ama endoskopik tedaviye yanıt vermeyen devam eden kanamada cerrahi pikiyaj ya da embolizasyon girişimi gerekir; hiçbirinde gerek yok ifadesi bu gerçekle çelişir. Zincir: mekanizma doğru + endoskopik enjeksiyon doğru + kapsayıcı olumsuz yanlış → I ve II doğrudur."
+celdirici_kavramlar:
+  - kavram: "Cerrahinin hiçbir hastada gerekmediği görüşü (yalnız III ya da II ve III seçeneklerine götürür)"
+    neden_yanlis: "Kanamanın çoğu kendiliğinden durur ama bu kural genellemeye çevrilemez; dirençli aktif kanamada cerrahi ya da anjiyografik embolizasyon gerekir."
+    dogru_oldugu_durum: "Endoskopik hemostaza yanıt vermeyen, transfüzyon ihtiyacı süren masif kanamada."
+  - kavram: "Boerhaave sendromu ile karıştırma"
+    neden_yanlis: "Boerhaave tam kat yırtıktır; mediastinit ve ciddi seyir acil cerrahi ister. Mallory-Weiss ise mukoza düzeyinde kalır ve kanama tablosuyla seyreder; ikisi aynı tetikleyiciyi (kusma) paylaşsa da düzey ve sonuç farklıdır."
+    dogru_oldugu_durum: "Kusma sonrası şiddetli göğüs ağrısı, subkütan amfizem ve mediastinal hava tablosunda tam kat yırtık düşünülür."
+  - kavram: "Varis kanaması yönetimini bu tabloya uygulamak"
+    neden_yanlis: "Portal hipertansiyon yokluğunda band ligasyonu, balon tamponadı ya da vasoaktif ilaç çerçevesi yırtık kanamasını tedavi etmez; bu tabloda standart girişim endoskopik hemostazdır."
+    dogru_oldugu_durum: "Sirozlu hastada endoskopide aktif kanayan özofagus varisi görüldüğünde."

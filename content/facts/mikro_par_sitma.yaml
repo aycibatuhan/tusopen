@@ -1,0 +1,10 @@
+id: mikro_par_sitma
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sıtma tanısında kan smearı"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_sitma]
+metin: "Plasmodium türleri Anopheles cinsi dişi sivrisinek ile bulaşır; tanı kalın ve ince damla yöntemleriyle Giemsa boyalı kan smearında konur. P. falciparum bir eritrositte birden çok halka formu görülmesiyle ayırt edilir; yüksek ateş nöbetleri düzensiz aralıklarla tekrarlar."

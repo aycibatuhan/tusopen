@@ -1,0 +1,47 @@
+id: alfa1_eksikligi
+version: 1
+status: draft
+author: ai-drafts/gogus-3
+sources:
+- 'Klinik rehberler: ATS/ERS alfa-1 antitripsin eksikliği tanı ve tedavi bildirisi — referans olarak listelendi,
+  metin projesi özgün yazımdır'
+ad: Alfa-1 Antitripsin Eksikliği
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_alfa1
+tipik_hasta: Otuzlu ve kırklı yaşlarda dispneyle gelen, hiç sigara içmese bile ağır amfizem gelişen hasta;
+  akciğer bulgularına karaciğer enzim yüksekliği veya erken siroz öyküsü de eşlik eder; ailesinde erken
+  amfizem ya da karaciğer hastalığı vardır
+patofizyoloji: 'SERPINA1 gen mutasyonu (en sık PI*ZZ homozigotluğu) karaciğerde üretilen alfa-1 antitripsini
+  hepatosit içinde tutar: dolaşıma çıkan enzim azalınca nötrofil elastaz akciğer dokusunu parçalar ve
+  amfizem gelişir; aynı zamanda karaciğerde protein birikimi hepatopati yapar. Sigara bu elastaz-antiproteaz
+  dengesinin yıkımını hızlandırır, bu yüzden sigaradan uzak durmak hastalığın doğal gidişini değiştiren
+  en kritik basamaktır'
+anahtar_bulgular:
+- Genç yaşta (40-50 yaş altı) başlayan amfizem; sigara içmeyenlerde bile
+- Amfizemin alt bölge (bazal) ağırlıklı dağılımı — sigaraya bağlı merkezlobüler amfizemin üst bölge ağırlıklı
+  dağılımından farklı
+- Serum alfa-1 antitripsin düzeyinin düşüklüğü (11 mikromol/liter altındaki eşik, koruyucu düzeyin eşiği
+  kabul edilir)
+- 'Aynı hastada karaciğer bulguları: enzim yüksekliği, yetişkinde siroz, yenidoğanda kolestatik sarılık'
+- Kronik balgam ve bronşektazi eşliğinin sık olması; aile öyküsünde erken amfizem veya karaciğer hastalığı
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Genç ve sigara içmeyen hastada alt bölge ağırlıklı amfizem ile birlikte karaciğer enzim
+  yükselmesi
+ilk_tetkik: Serum alfa-1 antitripsin düzeyi; düşükse fenotip/genotip (PI tipi) analizi ile doğrulama
+kesin_tani: Düşük serum alfa-1 antitripsin düzeyi ile birlikte PI*ZZ (veya diğer eksik fenotip) genotipinin
+  gösterilmesi
+ilk_tedavi: Sigaradan tamamen uzak durmak (hastalığın gidişini değiştiren tek basamak); standart KOAH
+  tedavisi (bronkodilatörler, gerektiğinde oksijen); seçilmiş ağır vakalarda damar içi alfa-1 antitripsin
+  (augmentasyon) tedavisi; ileri hastalıkta transplantasyon
+klasik_komplikasyon: Erken ilerleyen amfizem ve solunum yetmezliği; karaciğerde siroz ve hepatosellüler
+  karsinom riski; nadiren pannikülit
+tus_gecmisi:
+- tus-2014-sonbahar-ttbt-89
+- tus-2016-sonbahar-ttbt-81
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,47 @@
+id: preterm_eylem
+version: 1
+status: draft
+author: ai-drafts/kadin_dogum-3
+sources:
+- ACOG preterm doğum yönetimi rehberi — referans olarak listelendi, metin projesi özgün yazımdır
+- WHO preterm doğum önerileri
+ad: Preterm Eylem
+taksonomi:
+- - ktbt
+  - kadin_dogum
+  - kd_preterm_postterm
+  - kd_pp_preterm_eylem
+tipik_hasta: Önceki preterm doğum öyküsü olan, rahim yapı bozukluğu, çoğul gebelik, fazla amniyon sıvısı,
+  zarın erken açılması veya idrar yolu enfeksiyonu taşıyan; 37 haftadan önce düzenli ağrılı kasılmalarla
+  gelen gebe
+patofizyoloji: 'Eylemin erken başlaması dört ana yoldan tetiklenir: rahim ağzı zarar dokusundaki enfeksiyon
+  (tekil gebelikte en sık), zarların erken açılması, rahimin aşırı gerilmesi (çoğul gebelik, fazla sıvı)
+  ve plasental yetersizlik; hepsi prostaglandin-oksitosin yolağını erken devreye sokar. Rahim ağzı kısalığı
+  ve fetal fibronektin pozitifliği bu sürecin başladığının biyolojik işaretleridir'
+anahtar_bulgular:
+- 37 haftadan önce düzenli ve ağrılı rahim kasılmaları
+- Muayenede rahim ağzında ilerleyen incelme ve açılma
+- Transvajinal ultrasonda rahim ağzı uzunluğu 25 mm'nin altı; şüpheli olguda fetal fibronektin pozitifliği
+  riski artırır
+- Zar açılması şüphesinde doğum kanalından sıvı sızması; sıvı incelemesiyle doğrulanır
+- 'Subklinik enfeksiyon işaretleri: hafif ateş, lökositoz, fetal kalp hızında artış'
+patognomonik: null
+ilk_tetkik: Kardiotokografi ve kasılma izlemi; transvajinal ultrasonla rahim ağzı uzunluğu, şüphede fetal
+  fibronektin; zar açılması şüphesinde sıvı testleri; idrar ve enfeksiyon tetkikleri
+kesin_tani: 37 haftadan önce düzenli kasılmaların rahim ağzının incelmesi ve açılmasıyla birleşmesi; sadece
+  kasılma, rahim ağzı bozulması olmadan tanı için yeterli değildir
+ilk_tedavi: 24-34 haftalarda akciğer olgunlaşması için kortikosteroid (betametazol, iki doz) ve 32 haftadan
+  önce nöroproteksiyon için damaryolu magnezyum sülfat; tokoliz (nifedipin gibi kalsiyum kanal blokörleri,
+  beta-agonistler veya oksitosin reseptör antagonisti) 48 saatlik steroid penceresi kazanmak içindir ve
+  34. haftadan sonra, enfeksiyon, ablatio veya ağır fetal durumda yapılmaz
+klasik_komplikasyon: Yenidoğan solunum sıkıntısı sendromu, intraventriküler kanama, nekrotizan enterokolit
+  ve retinopati; uzun dönemde serebral palsi
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-109
+- tus-2014-sonbahar-ktbt-111
+- tus-2016-ilkbahar-ktbt-111
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

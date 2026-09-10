@@ -1,0 +1,74 @@
+id: okb
+version: 1
+status: draft
+author: ai-drafts/psikiyatri-2
+sources:
+- DSM-5-TR — Obsesif-Kompulsif ve İlişkili Bozukluklar tanı ölçütleri (referans olarak listelendi, metin
+  projesi özgün yazımdır)
+- 'Klinik rehberler: NICE obsesif-kompulsif bozukluk tedavi kılavuzu (referans olarak listelendi, metin
+  projesi özgün yazımdır)'
+ad: Obsesif-Kompulsif Bozukluk
+taksonomi:
+- - ktbt
+  - psikiyatri
+  - psik_okb_travma
+  - psik_ot_okb
+tipik_hasta: 'Başlangıç çoğunlukla ergenlik ve genç erişkinlik çağında; erkeklerde ortalama daha erken
+  (15-20 yaş), kadınlarda biraz sonra. Hastanın ''kafamdan çıkmayan, anlamsız olduğunu bildiğim ama engelleyemediğim
+  düşüncelerim var; ellerimi saatlerce yıkıyorum'' demesi tipiktir; utanç ve gizleme yüzünden tanı çoğu
+  hastada yıllarca gecikir. En sık içerikler: kirlenme-bulaşma korkusu ve yıkama, kuşku ve tekrar kontrol,
+  simetri-tamlama ihtiyacıyla sayma-dizme, sevdiklerine zarar verme ve dini-cinsel içerikli istenmeyen
+  imgeler. Çocukluk çağında tik bozukluğu öyküsü ve streptokok enfeksiyonu sonrası ani başlangıç (PANDAS)
+  sorgulanır'
+patofizyoloji: 'Kortiko-striato-talamo-kortikal devrenin (orbitofrontal korteks, ön singulat girus, kaudat
+  baş ve talamus arasındaki döngü) hiperaktivitesi nörogörüntüleme çalışmalarının ortak bulgusudur: ''hata
+  sinyali'' sürekli yanar, hastaya bir şey eksik ya da tamamlanmamış gibi gelir ve kompulsiyon bu hissi
+  geçici olarak söndürür. Serotonerjik sistem SSRI ve klomipraminin etkinliğiyle ilaç seçimini yönlendirir;
+  glutamaterjik katkı, SSRI''ya eklenen düşük doz antipsikotiğin mantığını açıklar. Kalıtsallık belirgindir
+  (birinci derece akrabada risk artmıştır); çocukluk olgularının bir bölümünde grup A beta-hemolitik streptokok
+  enfeksiyonu sonrası antikor aracılı bazal ganglion tutulumu (PANDAS) öne sürülür'
+anahtar_bulgular:
+- 'Obsesyonlar: istenç dışı, yinelenen düşünce, dürtü ya da imge — kirlenme, zarar verme, dini-cinsel
+  içerik, simetri ihtiyacı; egodistoniktir (kişiye yabancı ve sıkıntı verici), içgörü korunur: düşüncenin
+  kendi zihninden geldiğini bilir ama engelleyemez'
+- 'Kompulsiyonlar: obsesyon kaygısını azaltmak için yinelenen davranış ya da zihinsel eylem — yıkama,
+  kontrol, sayma, dizme, tekrar etme, zihinsel ritüeller (dua etme, yerine koyma); bırakması ''bir şey
+  olacak'' hissiyle zorunlu görünür'
+- 'Döngü: obsesyon kaygıyı yükseltir, kompulsiyon kısa rahatlama sağlar ve bu pekiştirme tabloyu büyütür;
+  ritüeller günde 1 saati aşar, iş-öğrenim-öz bakım bozulur'
+- İçgörü genelde iyi ya da değişkendir; psikotik bozuklukta ise inanç sanrısal katılığa dönüşür — OKB'de
+  düşüncelere yabancılık korunur
+- 'Eş tanılar: tik bozukluğu (özellikle çocuklarda), depresyon ve diğer anksiyete bozuklukları; birinci
+  derece akrabada OKB ve tik öyküsü sıktır'
+patognomonik: null
+ilk_tetkik: 'Klinik görüşme temel; Yale-Brown Obsesif Kompulsif Ölçek (Y-BOCS) şiddeti derecelendirir
+  ve tedavi izleminde kullanılır. Obsesyonlar hastanın utanması yüzünden açık söylenmez — doğrudan sorulmalıdır:
+  ''zihninizden sürekli geçen, size anlamsız gelen düşünceler var mı; eşyaları ya da ellerinizi tekrar
+  tekrar kontrol ediyor musunuz?'' Tik, depresyon, bipolar öyküsü (SSRI''ya mani yanıtı riski) ve madde
+  kullanımı değerlendirilir; organik nedenler (bazal ganglion lezyonları) nadirdir, rutin laboratuvar
+  tanı koymaz'
+kesin_tani: 'DSM-5-TR ölçütlerine göre: obsesyonlar ve/veya kompulsiyonların varlığı; bunların zaman alıcı
+  olması (günde 1 saatten fazla) ya da klinik olarak belirgin sıkıntı ya da işlev bozukluğu yol açması;
+  tablonun bir maddenin fizyolojik etkisiyle açıklanamaması ve başka bir ruhsal bozukluğun içeriğiyle
+  sınırlı olmaması (yalnızca kilo ve görünüm obsesyonu yeme bozukluğunda, yalnızca saç koparma trikotillomanide,
+  yalnızca gelecek ile ilgili endişe yaygın anksiyete bozukluğunda sayılır)'
+ilk_tedavi: 'İlk basamak: ekspozisyon ve yanıt önleme (EYO) bileşenli bilişsel davranışçı terapi ile SSRI
+  tedavisi. EYO''nun mantığı: obsesyonu tetikleyen uyana kademeli maruz bırakıp kompulsiyonu engelleyerek
+  kaygının kendi kendine söndüğünü hastaya yaşatmak — kaçınma ve ritüel döngüsü böyle kırılır. SSRI''nın
+  OKB''de kullanımı depresyondan farklıdır: dozlar daha yükseğe çıkılır (örneğin sertralinin 200 mg gibi
+  üst dozları) ve etki daha geç gelir — tam dozda 8-12 hafta beklenmelidir; bu ''yüksek doz, uzun süre''
+  kuralı klinikte sık karıştırılır. Yanıt yetersizse ikinci adım SSRI''ya düşük doz antipsikotik ekleme
+  (risperidon, aripiprazol; tik eşlik ediyorsa özellikle yerinde) ya da klomipramine geçiştir — klomipramin
+  en etkin ilaçtır ama antikolinerjik etkileri, ortostatik hipotansiyonu, konvülsiyon eşiğini düşürmesi
+  ve QT uzatması nedeniyle dikkat ister. Benzodiyazepinler OKB''de etkisizdir; EKT rutin seçenek değildir.
+  Tedaviye dirençli, çok ağır tablolarda derin beyin stimülasyonu ya da kapsülotomi son çaredir'
+klasik_komplikasyon: Depresyon eş tanısı ve intihar riski; ritüellerle günde saatlerce kaybedilen zamanla
+  işlev kaybı; tedavisiz kronik seyir
+tus_gecmisi:
+- tus-2015-ilkbahar-ktbt-36
+- tus-2019-sonbahar-ktbt-36
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,10 @@
+id: pat_bob_nefrotik
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nefrotik Sendrom"
+taksonomi:
+  - [ttbt, patoloji, pat_bobrek, pat_bob_nefrotik]
+metin: "Nefrotik sendrom tablosunda günde 3,5 gramın üzerinde proteinüri, hipoalbüminemi, ödem, hiperlipidemi ve lipüri bulunur. Minimal değişiklik hastalığı çocuklarda en sık nefrotik sendrom nedenidir; ışık mikroskopisi ve immünofloresan normal görünürken elektron mikroskopisinde podosit ayak süreçlerinin silinmesi saptanır ve steroidlere hızlı yanıt verir. Membranöz nefropati erişkinlerde en sık nefrotik sendrom nedenidir; subepitelyal granüler immünglobulin G ve kompleman 3 depozitleri tipiktir."

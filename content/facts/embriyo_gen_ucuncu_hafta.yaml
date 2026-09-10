@@ -1,0 +1,10 @@
+id: embriyo_gen_ucuncu_hafta
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gastrulasyon ve Primitif Çizgi"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, embriyo_genel, embriyo_gen_ucuncu_hafta]
+metin: "Üçüncü haftada epiblast hücreleri primitif çizgiden içeri göç ederek ektoderm, mezoderm ve endoderm yapraklarını oluşturur; bu olaya gastrulasyon denir. Aynı hafta notokord belirir ve nöral plaka nöral tüpe kapanmaya başladığı nörülasyon süreci başlar."

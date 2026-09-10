@@ -1,0 +1,75 @@
+id: koah
+version: 2
+status: draft
+author: ai-drafts/gogus
+sources:
+- GOLD 2024 raporu (Global Initiative for Chronic Obstructive Lung Disease) — referans adı olarak
+  listelendi; metin projenin özgün yazımıdır
+ad: KOAH
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_koah
+tipik_hasta: Yıllardır sigara içen orta ve ileri yaş hastası; kışları artan balgamlı öksürük ve yıllar
+  içinde sinsi ilerleyen nefes darlığıyla gelir; tekrarlayan alevlenme ve yatış öyküsü olur; muayenede
+  uzayan ekspiryum, hırıltı, ileri olguda fıçı göğüs ve sağ kalp yetmezliği bulguları saptanır
+patofizyoloji: Sigara dumanı ve zararlı gazlara karşı gelişen kronik iltihap; küçük havayollarında daralma
+  ve peribronkiyolar fibrozis (kronik bronşit bileşeni) ile alveol duvarı yıkımı ve elastik geri çekilmenin
+  kaybı (amfizem bileşeni) birlikte ilerler. Ekspiryumda havayolları çöker, hava hapsi gelişir; obstruksiyonun
+  büyük bölümü geri dönüşümsüzdür, bronkodilatörle yalnızca sınırlı düzelme görülür
+anahtar_bulgular:
+- Bronkodilatör sonrası bile bir saniyelik soluk hacmin zorlu vital kapasiteye oranının yüzde yetmişin
+  altında kalması (tanının eşiği)
+- Astımdan farklı olarak bronkodilatör yanıtın sınırlı ve geçici kalması; GOLD 2024 tek ölçümde geri
+  dönüşüm derecesinin ölçülmesini tedavi kararları ya da astım ayırımı için önermez
+- Yıllar içinde ilerleyen efor nefes darlığı, kronik balgam üretimi ve kış alevlenmeleri
+- İleri olguda fıçı göğüs, uzayan ekspiryum, büzülmüş dudakla nefes verme; kan gazında karbondioksit birikimi
+- 'Sağ kalp yetmezliği bulguları: boyun venlerinde dolgunluk, hepatomegali, bacak ödemi (kor pulmonale)'
+patognomonik: null
+ilk_tetkik: Bronkodilatör sonrası spirometri; toraks grafisi, oksijen satürasyonu ve gerekiyorsa arter
+  kan gazı
+kesin_tani: Bronkodilatör sonrası bir saniyelik soluk hacmin zorlu vital kapasiteye oranının yüzde yetmişin
+  altında olması, kronik nefes darlığı, öksürük ve balgam öyküsüyle birleşince tanı konur. Şiddet bir
+  saniyelik hacmin tahmin edilen değere yüzdesine göre derecelendirilir; semptom skoru (mMRC ya da CAT) ve
+  bir yıllık alevlenme öyküsü GOLD 2024 A, B, E gruplamasını belirler — yılda 2 ve üzeri orta alevlenme ya
+  da yatış gerektiren 1 alevlenme hastayı semptom düzeyinden bağımsız olarak E grubuna taşır
+ilk_tedavi: Sigaranın bıraktırılması en etkili tekil müdahaledir. GOLD 2024 başlangıç ilaç seçimi A, B, E
+  gruplamasına göre yapılır — A grubunda uzun etkili bronkodilatör; B ve E gruplarında başlangıçta uzun
+  etkili muskarin antagonisti ile uzun etkili beta-2 agonistin kombinasyonu; E grubunda kan eozinofilisi
+  mikrolitrede 300 ve üzerindeyse başlangıçta inhale kortikosteroid içeren üçlü tedavi düşünülür, izlemde
+  ise eozinofilisi 100 üzerinde olan ve LABA-LAMA tedavisine karşın alevlenmeye devam eden hastaya inhale
+  kortikosteroid eklenir. Alevlenmede kısa etkili bronkodilatör, sistemik steroid ve pürülan balgamda
+  antibiyotik; uzun dönemde pulmoner rehabilitasyon ve grip, pnömokok, COVID-19 aşıları
+klasik_komplikasyon: Tekrarlayan akut alevlenmeler ve tip iki solunum yetmezliği (karbondioksit retansiyonu);
+  uzun dönemde polisitemi, pulmoner hipertansiyon ve kor pulmonale
+ayirici:
+- hastalik: astim
+  ayirt_edici: Astımda çocuklukta başlayan değişken şikâyetler, atopi ve belirgin bronkodilatör yanıtı
+    öndedir ve inhale kortikosteroid temel tedavidir; iki hastalık aynı hastada bulunabilir. GOLD 2024
+    astım-KOAH örtüşmesi için ayrı bir tanı etiketi kullanmayı bırakmıştır; astım şüphesi varsa tedavi
+    astım kılavuzuna göre düzenlenir ve inhale kortikosteroid eksik edilmemelidir
+- hastalik: kalp_yetmezligi
+  ayirt_edici: Efor nefes darlığı ortaktır; kalp yetmezliğinde ortopne, paroksismal gece nefes darlığı,
+    hacim yüklenme bulguları ve BNP yüksekliği öndedir, ekokardiyografi ayırt edicidir ve bronkodilatör
+    sonrası FEV1/FVC oranı yüzde yetmişin altına inmez
+- hastalik: bronsektazi
+  ayirt_edici: Gün boyu bol pürülan balgam, parmak uçlarında clubbing ve yerleşik ıslak ronküsler öndedir;
+    toraks bilgisayarlı tomografide havayollarında kalıcı dilatasyon görülür, alevlenmeler pürülan
+    balgamla ayrışır
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-41
+- tus-2014-sonbahar-ktbt-5
+- tus-2015-sonbahar-ktbt-5
+- tus-2016-ilkbahar-ktbt-40
+- tus-2016-ilkbahar-ttbt-59
+- tus-2017-sonbahar-ktbt-6
+- tus-2017-sonbahar-ttbt-76
+- tus-2019-ilkbahar-ktbt-77
+- tus-2020-ilkbahar-ktbt-7
+- tus-2020-sonbahar-ttbt-102
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

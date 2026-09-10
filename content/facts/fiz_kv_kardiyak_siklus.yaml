@@ -1,0 +1,10 @@
+id: fiz_kv_kardiyak_siklus
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kalp Sesleri ve Kardiyak Çıkış"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kardiyak_siklus]
+metin: "Birinci kalp sesi mitral ve triküspid kapakların sistol başında kapanmasıyla, ikinci ses aort ve pulmoner kapakların diastol başında kapanmasıyla oluşur. Kardiyak çıkış dakikadaki atım sayısıyla atım hacminin çarpımıdır; ejeksiyon fraksiyonu atım hacminin diyastol sonu hacmine oranı olup sağlıklı kişide yüzde 55'in üzerindedir."

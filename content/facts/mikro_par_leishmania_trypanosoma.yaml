@@ -1,0 +1,10 @@
+id: mikro_par_leishmania_trypanosoma
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Leishmania ve T. cruzi vektörleri"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_leishmania_trypanosoma]
+metin: "Leishmania türleri kum sineği (Phlebotomus) ile bulaşır ve insan dokusunda makrofaj içinde amastigot formda bulunur. Trypanosoma cruzi triyatomid böceği ile bulaşır; Chagas hastalığında megaozofagus ve megakolon gelişir, tanı kan smearı ve serolojik testlerle konur."

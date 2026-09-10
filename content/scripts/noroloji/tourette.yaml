@@ -1,0 +1,55 @@
+id: tourette
+version: 1
+status: draft
+author: ai-drafts/noroloji-3
+sources:
+- DSM-5 (American Psychiatric Association)
+- American Academy of Neurology Tourette Sendromu Tedavi Rehberi
+ad: Tik Bozuklukları (Tourette)
+taksonomi:
+- - ktbt
+  - noroloji
+  - noro_hareket_bozukluklari
+  - noro_hb_tik_tourette
+tipik_hasta: 5-10 yaş arasında başlayan, erkeklerde üç-dört kat sık okul çağı çocuğu; göz kırpmak gibi
+  basit motor tiklerle başlar, aylar içinde boyun-omuz ve ses tikleri eklenir; şiddet 11-12 yaş civarı
+  zirve yapar, ergenlik sonunda çoğu hastada belirgin azalır; ailede tik, dikkat eksikliği (DEHB) veya
+  takıntı (OKB) öyküsü sık
+patofizyoloji: 'Kortiko-striato-talamo-kortikal devrelerde inhibitör kontrol eksikliği ve dopaminerjik
+  işaretlenme bozukluğu; genetik yatkınlık yüksektir (birinci derece akrabada tik bozukluğu sık). Tik
+  istemsizdir ama bastırılabilir: hastaların çoğunun tanımladığı premoniter dürtü (etkilenen bölgede gerginlik,
+  karıncalanma hissi) tikle geçici olarak rahatlar; kaygı, uyku yoksunluğu ve kafein şiddeti artırır,
+  yoğun odaklanma azaltır'
+anahtar_bulgular:
+- 'Motor tikler: ani, hızlı, tekrarlayıcı, amaçsız — göz kırpma, yüzü buruşturma, baş sallama, omuz silkme'
+- 'Vokal tikler: boğaz temizleme, öksürme, ses ve kelime çıkarma; ileri tabloda ekolali (başkasının sözünü
+  tekrarlama) ve koprolali (küfür)'
+- 'Premoniter dürtü: tik öncesi lokalize gerginlik hissi, tikle geçici rahatlama'
+- 'Bastırılabilirlik: kısa süre istemli baskı mümkündür, sonra patlar; bu özellik psikojenik ve obsesif
+  davranışlardan ayırır'
+- Eşlik eden DEHB ve OKB bulguları tiklerden daha çok işlev bozar; ergenlikte sosyal dışlanma ve depresyon
+  riski
+- 'Doğal seyir: başlangıç ilk on yıl içinde, şiddet zirve yıllarda, çoğu hastada yetişkinlikte belirgin
+  hafifleme'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Premoniter dürtü hissinin tikle geçici rahatlaması ve tiklerin kısa süre istemli bastırılabilmesi
+ilk_tetkik: Klinik tanıdır; özel tetkik gerektirmez. Değerlendirme DSM-5 kriterleriyle tik envanteri ve
+  eşlik eden DEHB-OKB-depresyon taramasıdır; nadiren kore veya miyokloni ayırımı için görüntüleme istenir
+kesin_tani: 'DSM-5: başlangıç 18 yaşından önce; birden çok motor tik artı en az bir vokal tik; tikler
+  başlangıçtan itibaren bir yıldan uzun süredir vardır (DSM-5); madde veya başka tıbbi durum
+  açıklamaz. Yalnız motor veya yalnız vokal tik bir yıl sürerse kronik tik bozukluğu, bir yıldan kısaysa
+  geçici (provizyonel) tik bozukluğu'
+ilk_tedavi: 'İşlev bozmayan hafif tiklerde psikoeğitim ve izlem — doğal azalma beklenir. İşlev bozucu
+  tiklerde birinci basamak davranışsal tedavi: alışkanlık ters çevirme eğitimi (HRT/CBIT). Orta-ileri
+  şiddette ilaç: alfa-2 agonistleri (klonidin, guanfasin — özellikle DEHB eşlik edince) veya düşük doz
+  antipsikotikler (aripiprazol, risperidon — metabolik izlemle). Eşlik eden DEHB için metilfenidat tikleri
+  belirgin artırmaz; tik varlığı stimülan kullanımına karşı kontrendikasyon değildir'
+klasik_komplikasyon: Akran dışlanması, okul başarısının düşmesi ve öz saygı hasarı; antipsikotik kullanımının
+  metabolik yan etkileri; şiddetli tabloda tikle kendine yaralanma (başını duvara çarpma)
+tus_gecmisi:
+- tus-2019-ilkbahar-ktbt-46
+- tus-2021-ilkbahar-ktbt-72
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

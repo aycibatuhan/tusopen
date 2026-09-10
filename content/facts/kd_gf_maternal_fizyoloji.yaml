@@ -1,0 +1,10 @@
+id: kd_gf_maternal_fizyoloji
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebelikte Maternal Fizyolojik Değişiklikler"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_maternal_fizyoloji]
+metin: "Gebelikte kan hacmi yaklaşık %40-50 artar; plazma artışı eritrosit artışından fazla olduğu için fizyolojik (dilüsyon) anemisi gelişir. Kardiyak output %30-50 artar, periferik vasküler direnç progesteron etkisiyle düştüğünden kan basıncı gebeliğin orta döneminde en düşük düzeyine iner; supin pozisyonda uterusun vena cava'yı kompresyonu supin hipotansiyon sendromuna yol açabilir. Progesteron solunum merkezini uyardığı için dakika ventilasyonu artar, pCO2 yaklaşık 30 mmHg'ye düşer ve tam kompanse fizyolojik solunumsal alkaloz oluşur. Renal plazma akımı ve GFR yaklaşık %50 arttığı için kreatinin ve üre düzeyleri düşer; fizyolojik glukozüri ve sağda belirgin gebelik hidronefrozu normaldir. hCG 8-10. haftalarda zirve yapar, plasentadan salgılanan hPL ve prolaktin gebelik boyunca yükselir; hPL'nin insülin antagonisti etkisi insülin direncinin temelidir."

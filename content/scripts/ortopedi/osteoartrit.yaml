@@ -1,0 +1,55 @@
+id: osteoartrit
+version: 1
+status: draft
+author: ai-drafts/ortopedi-2
+sources:
+- ACR/Arthritis Foundation Osteoartrit Tedavi Rehberi (2019)
+- Campbell's Operative Orthopaedics
+ad: Osteoartrit
+taksonomi:
+- - ktbt
+  - ortopedi
+  - orto_eklem_dejeneratif
+  - orto_ek_osteoartrit
+- - ktbt
+  - ftr
+  - ftr_romatizmal
+  - ftr_rm_osteoartrit
+tipik_hasta: 50 yaş üstü, fazla kilolu kadın; diz ve birinci karpometakarpal (el kökü) eklemleri en sık;
+  ağrı gün içinde kullanımla artar, akşama doğru belirginleşir, dinlenince kısa sürede rahatlar; sabah
+  tutukluğu varsa bile 30 dakikadan kısa sürer — bu tablo uzun süreli sabah tutukluğu yapan romatoid artritten
+  ayırır
+patofizyoloji: Kıkırdağın onarım kapasitesinin aşırı mekanik yük altında yetersiz kalması; kıkırdak su
+  ve proteoglikan içeriği azalır, yüzey çatallanır ve incelir; eklem kenarlarında osteofit, altındaki
+  kemikte skleroz ve subkondral kistler oluşur; düşük dereceli sinovyal inflamasyon eşlik eder; dizde
+  daralma asimetrik olduğundan (medial kompartman önde) bacak varusa düşer
+anahtar_bulgular:
+- Kullanımla artan, akşam belirginleşen eklem ağrısı; dinlenince kısa sürede geçer
+- Dinlenme sonrası 30 dakikadan kısa süren tutukluk (jel fenomeni); uzun sabah tutukluğu yok
+- Elde DIP eklemlerde Heberden nodülleri, PIP eklemlerde Bouchard nodülleri; birinci karpometakarpal tutulumla
+  elle tutulur kök metakarpal çıkıntı
+- Dizde varus deformite, medial (iç kompartman) ağrı, hareket sırasında crepitasyon
+- Ayakta diz radyografisinde eklem aralığı daralması, osteofit, subkondral skleroz ve kist
+- Sedimantasyon ve CRP normal; sistemik bulgu (halsizlik, ateş, kilo kaybı) yok
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Heberden ve Bouchard nodülleri (primer nodal el osteoartriti)
+ilk_tetkik: Ayakta alınan diz ön-arka radyografisi (ayakta grafide eklem aralığı daralması daha iyi görünür);
+  laboratuvar tetkiki tanı için gerekmez, CRP normaldir
+kesin_tani: 'Klinik tablo ve radyografi birlikte: kullanım tipi ağrı, kısa tutukluk, crepitasyon, osteofit
+  ve eklem aralığı daralması; inflamatuvar artrit dışlanır (sabah tutukluğu kısa, CRP normal)'
+ilk_tedavi: 'İlk basamak ilaçsız: kilo verme, kuadriseps güçlendirme egzersizleri, baston; ilk ilaç topikal
+  NSAID, yetersizse oral NSAID (gastroproteksiyonlu); alevlenme döneminde intraartiküler kortikosteroid
+  enjeksiyonu; konservatif tedaviye yanıt vermeyen ileri deformitede total eklem protezi'
+klasik_komplikasyon: Eklem hareket kaybı ve ileri deformite (varus/valgus diz, çekiç başparmak); günlük
+  yaşam aktivitelerinde kısıt ve protez gereksinimi
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-95
+- tus-2017-ilkbahar-ktbt-105
+- tus-2017-ilkbahar-ttbt-96
+- tus-2018-sonbahar-ktbt-37
+- tus-2020-sonbahar-ktbt-37
+- tus-2021-ilkbahar-ktbt-37
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

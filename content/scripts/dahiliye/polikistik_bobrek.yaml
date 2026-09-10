@@ -1,0 +1,44 @@
+id: polikistik_bobrek
+version: 1
+status: draft
+author: ai-drafts/dahiliye-2
+sources:
+- KDIGO Polikistik Böbrek Hastalığı Görüş Raporu — referans olarak listelendi, metin projesi özgün yazımdır
+ad: Polikistik Böbrek Hastalığı
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_nefroloji
+  - dah_nef_kistik
+tipik_hasta: Ailesinde böbrek yetmezliği ya da böbrek nakli olan, otuzlu yaşlarda yan ağrısı, tekrarlayan
+  böbrek taşları ve yeni saptanan hipertansiyonla gelen hasta; muayenede iki taraflı ele gelen büyük böbrekler;
+  her çocuğuna hastalığı geçirme olasılığı yüzde 50
+patofizyoloji: 'Otosomal dominant geçiş: mutasyonların yüzde 85''inde PKD1 (16. kromozom, polistisin-1;
+  daha erken ve ağır), yüzde 15''inde PKD2 (4. kromozom, polistisin-2; daha geç ve hafif). Bozulan polistisin
+  kompleksi tübüler hücrelerin çoğalmasını ve kist içine sıvı sekresyonunu tetikler; kistler büyüdükçe
+  sağlıklı parankim yerini kaybeder, renin salınımı ve azalmış konsantrasyon hipertansiyonu erken bulgudur'
+anahtar_bulgular:
+- Aile öyküsü (otosomal dominant) ve her çocukta yüzde 50 geçiş
+- Yan/lomber ağrı; muayenede iki taraflı palpe edilen büyük böbrekler
+- Erken bulgu olarak hipertansiyon; tekrarlayan hematuri (kist kanaması) ve böbrek taşları
+- En sık ekstrarenal bulgu karaciğer kistleri; mitral kapak prolapsusu, kolon divertikülü
+- İntrakraniyal berry anevrizması; ailede subaraknoid kanama öyküsü tarama gerektirir
+patognomonik: İki taraflı, sayıca çok böbrek kistlerinin ailede benzer tabloyla birlikte görülmesi
+ilk_tetkik: Böbrek ultrasonu (aile taraması dahil), serum kreatinin, tansiyon, idrar tetkiki; ilerleme
+  hızını ölçmek için MR ile toplam böbrek volümü
+kesin_tani: Aile öyküsü olan 15-39 yaş hastada ultrasonda iki böbrekte toplam 3 ve daha fazla kist (yaşa
+  göre kist sayım kriterleri); aile öyküsü yokluğunda PKD1/PKD2 genetik testi
+ilk_tedavi: Tansiyon kontrolü (RAAS blokajı, sıkı hedef), bol su tüketimi (vazopressin baskılanması),
+  hızlı ilerleyen hastalıkta vazopressin V2 reseptör antagonistü tolvaptan; ağrıya yol açan dev kistlerde
+  drenaj; taş ve kist enfeksiyonlarının spesifik tedavisi; NSAİİ'den kaçınma
+klasik_komplikasyon: Berry anevrizması patlamasıyla subaraknoid kanama; 60 yaşından önce terminal böbrek
+  yetmezliği; kist kanaması ve enfeksiyonu, taş ilişkili tıkanma
+tus_gecmisi:
+- tus-2016-sonbahar-ttbt-98
+- tus-2019-sonbahar-ktbt-28
+- tus-2021-ilkbahar-ktbt-26
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

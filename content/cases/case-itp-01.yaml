@@ -1,0 +1,49 @@
+id: case-itp-01
+version: 1
+status: draft
+author: "ai-drafts/cases-e"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: itp
+baslik: "Deride morarmalar ve diş eti kanaması"
+adimlar:
+  - tip: sunum
+    metin: "26 yaşında kadın. Son iki haftadır bacaklarında nokta nokta morluklar, diş eti kanaması ve aralıklı burun kanaması olmuş; son adet kanaması da uzun sürmüş. Daha önce hiç yakınması ve ilaç kullanımı yok. Muayenede alt ekstremitelerde peteşi ve birkaç ekimoz, ağız mukozasında kanama kabarcığı yok; dalak ele gelmiyor, lenf düğümleri yok. Hemogram: trombosit 14 bin, hemoglobin 12.9 g/dL, beyaz küre 6.800, eritrosit indeksleri normal. Pıhtılaşma testleri normal."
+  - tip: secim
+    soru: "İzole trombositopeni saptandı. İlk yapılacak işlem hangisidir?"
+    secenekler:
+      - metin: "Periferik yayma incelemesi"
+        dogru: true
+        geri_bildirim: "Yayma, tüp içinde kümelenmeye bağlı sahte düşüklüğü (psödötrombositopeni) dışlar; ayrıca lösemi, mikroanjiopatik hemoliz gibi ikinci bir hastalığın ipuçlarını verir, tanının ilk adımıdır"
+      - metin: "Hemen kemik iliği biyopsisi"
+        dogru: false
+        geri_bildirim: "Klasik immün trombositopenik purpura tablosunda ilik incelemesi zorunlu değildir; tedaviye yanıt yoksa, atipik bulgu varsa ya da ileri yaştaysa düşünülür"
+      - metin: "Trombosit süspansiyonu transfüzyonu"
+        dogru: false
+        geri_bildirim: "İmmün trombositopenide verilmiş trombositler hızla yıkılır; transfüzyon yalnızca yaşamı tehdit eden kanamada düşünülür"
+      - metin: "Splenektomi için cerrahi konsültasyon"
+        dogru: false
+        geri_bildirim: "Splenektomi ilaca dirençli hastalıkta ikinci basamak seçenektir; tanı aşamasında yeri yoktur"
+  - tip: sonuc
+    metin: "Periferik yaymada trombosit kümelenmesi yok, beyaz ve kırmızı diziler normal; psödötrombositopeni ve ikinci bir ilik hastalığı dışlandı. Kanama belirgin ama yaşamı tehdit etmiyor. Tanı primer immün trombositopenik purpura olarak kondu."
+  - tip: secim
+    soru: "Bu hastada tedavi seçimi nasıl olmalıdır?"
+    secenekler:
+      - metin: "Kortikosteroid (prednizon) başlangıcı"
+        dogru: true
+        geri_bildirim: "Kanaması olan ama acil müdahale gerektirmeyen hastada ilk basamak kortikosteroiddir; damar içi immünoglobulin daha hızlı etki eder ve yaşamı tehdit eden kanamada ya da acil işlem öncesinde tercih edilir"
+      - metin: "Splenektomi"
+        dogru: false
+        geri_bildirim: "İlaçlara dirençli ya da sık tekrarlayan hastalıkta ikinci basamaktır; ilk atakta ilk seçenek değildir"
+      - metin: "Ritüksimab monoterapisi"
+        dogru: false
+        geri_bildirim: "İkinci basamak seçeneklerindendir; ilk tanıda öncelikli tedavi değildir"
+      - metin: "Kemik iliği nakli planlaması"
+        dogru: false
+        geri_bildirim: "İmmün trombositopenik purpurada nakil tedavisi yeri yoktur; orantısız ve gereksiz bir seçenektir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: peteşi, ekimoz ve mukozal kanamayla gelen hastada izole trombositopeni immün trombositopenik purpurayı düşündürür; ilk adım periferik yaymadır, psödötrombositopeni dışlanır; dalak ele gelmez, pıhtılaşma testleri normaldir; ilk tedavi kortikosteroid, hızlı etki gerekirse damar içi immünoglobulin; splenektomi ve ritüksimab ikinci basamaktır."
+sozlu_sorular:
+  - "Damar içi immünoglobulin kortikosteroidden ne zaman önce tercih edilir?"
+  - "Tedaviye yanıt alınamazsa hangi incelemeleri ve adımları düşünürsünüz?"
+  - "Tromboz riski olan hastada tedavi nasıl şekillenir?"

@@ -1,0 +1,49 @@
+id: case-febril-notropeni-01
+version: 1
+status: draft
+author: "ai-drafts/cases-e"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: febril_notropeni
+baslik: "Kemoterapi sonrası ateş"
+adimlar:
+  - tip: sunum
+    metin: "58 yaşında kadın, meme kanseri nedeniyle adjuvan kemoterapi alan hastanın kemoterapinin yedinci günü evde titremeyle 38.9 derece ateşi çıkmış. Acil serviste odak saptanamıyor: öksürük, dizüri, ishal yok; kemoterapi portu üzerinde kızarıklık ve akıntı yok. Hemogram: mutlak nötrofil sayısı 180/mm küp, hemoglobin 9.6 g/dL, trombosit 62 bin. Kan basıncı 100/60 mmHg, nabız 104/dk, bilinç açık."
+  - tip: secim
+    soru: "İlk yaklaşım hangisidir?"
+    secenekler:
+      - metin: "Kan kültürleri alındıktan sonra gecikmeden damar içi geniş spektrumlu antipseodomonal beta-laktam başlamak"
+        dogru: true
+        geri_bildirim: "Febril nötropeni acildir; kültürler alındıktan sonra sonuç beklenmeden, başvurudan sonraki ilk saat içinde antipseodomonal beta-laktam başlanır; odak bulunamasa da tedavi geciktirilmez"
+      - metin: "Kültür sonucunu bekleyerek hedefe yönelik antibiyotik vermek"
+        dogru: false
+        geri_bildirim: "Kültür üremesi günler sürebilir; bekleme sepsis riskini artırır, önce ampirik geniş spektrumlu tedavi başlanır ve sonuç gelince daraltılır"
+      - metin: "Yalnızca parasetamol verilerek evde izlem"
+        dogru: false
+        geri_bildirim: "Nötropenik hastada ateş gizli sepsisin işareti olabilir; evde izlem güvenli değildir, hastane değerlendirmesi şarttır"
+      - metin: "Granülosit koloni uyarıcı faktör ile tedaviye başlamak"
+        dogru: false
+        geri_bildirim: "Koloni uyarıcı faktör ateşin tedavisi değildir; seçili riskli durumlarda proflaktik ya da destekleyici olarak kullanılır, ilk tedavi antibiyotiktir"
+  - tip: sonuc
+    metin: "Hastaneye yatırıldı; kan kültürleri alındı ve ilk saat içinde antipseodomonal beta-laktam başlandı. Dört gün boyunca ateş sürdü; kültürlerde üreme yok, hasta hemodinamik olarak stabil, nötropeni devam ediyor."
+  - tip: secim
+    soru: "Geniş spektrumlu antibiyotiğe rağmen dördüncü günde ateş sürüyor. Sonraki adım nedir?"
+    secenekler:
+      - metin: "Ampirik antifungal ekleme ve odak araştırması"
+        dogru: true
+        geri_bildirim: "Nötropenik hastada geniş spektrumlu antibiyotiğe yanıt vermeyen uzamış ateşte invaziv mantar enfeksiyonu düşünülür; ampirik antifungal eklenir ve toraks görüntülemesiyle odak aranır"
+      - metin: "Antibiyotiği kesip sadece gözlem yapmak"
+        dogru: false
+        geri_bildirim: "Antibiyotik, nötrofil sayısı düzelene ve ateş sönene dek sürdürülür; kesmek sepsis nüksüne yol açar"
+      - metin: "Aynı ilacı değiştirmeden yalnızca dozunu artırmak"
+        dogru: false
+        geri_bildirim: "Doz artışı uzamış ateşte mantar etkenini kapatmaz; doğru adım ampirik antifungal eklemektir"
+      - metin: "Kemik iliği biyopsisi ile ateşin nedenini araştırmak"
+        dogru: false
+        geri_bildirim: "Uzamış ateşin ilk açıklanacak nedeni nötropenide invaziv mantardır; kemik iliği biyopsisi bu aşamada ateş arama planında ilk sırada değildir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: kemoterapi sonrası tek kez 38.3 derece üzerinde ya da bir saat süreyle 38 derece ateş, mutlak nötrofil 500/mm küp altındayken febril nötropenidir ve acildir; kültür alınıp ilk saat içinde antipseodomonal beta-laktam başlanır; odak aranmasına rağmen ateş uzarsa ampirik antifungal eklenir; koloni uyarıcı faktör ateşin tedavisi değildir."
+sozlu_sorular:
+  - "Düşük riskli febril nötropenide oral tedaviyi kimlerde düşünürsünüz?"
+  - "Port kaynaklı enfeksiyonda hangi etkeni düşünür, nasıl tedavi edersiniz?"
+  - "Antibiyotiği ne zaman ve nasıl daraltıp kesersiniz?"

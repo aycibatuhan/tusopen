@@ -1,0 +1,46 @@
+id: case-alkol-01
+version: 1
+status: draft
+author: ai-drafts/cases-d
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: alkol_bagimliligi
+baslik: "İçmeyi kestikten sonra titremeye başlayan hasta"
+adimlar:
+  - tip: sunum
+    metin: "46 yaşında erkek. On beş yıldır her gün alkol kullanıyor; son ayda günde yarım şişe rakı ve bira. İki gün önce ailenin ısrarıyla içmeyi bıraktı. Bugün ellerinde kaba titreme, terleme, bulantı, huzursuzluk ve uykusuzluk gelişti. Muayenede ajite, tremor belirgin, nabız 110/dk, tansiyon 150/95 mmHg, ateş 37.4. Yönelim açık ama gergin. Laboratuvar: GGT 180 U/L, AST 95 U/L, MCV 103 fL, magnezyum 1.5 mg/dL (düşük), potasyum 3.2 mmol/L (düşük). Bilinç berrak, göz hareketleri normal, ataksi yok."
+  - tip: secim
+    soru: "İçmeyi kestikten yaklaşık 36-48 saat sonra gelişen bu tabloda en olası tanı nedir?"
+    secenekler:
+      - metin: "Alkol yoksunluk sendromu (titreklik ve hiperaktivite evresi)"
+        dogru: true
+        geri_bildirim: "Uzun süreli ağır içicide içmeyi bıraktıktan 6-48 saat içinde tremor, terleme, ajitasyon, bulantı ve hafif taşikardi klasik yoksunluk tablosudur; MCV ve GGT artışı kronik alkol kullanımını destekler"
+      - metin: "Wernicke ensefalopatisi"
+        dogru: false
+        geri_bildirim: "Wernicke'de bilinç bulanıklığı, göz hareket bozukluğu ve ataksi üçlüsü aranır; burada yalnızca ajitasyon ve tremor var, bilinç berrak"
+      - metin: "Panik bozukluğu/anksiyete atakları"
+        dogru: false
+        geri_bildirim: "Klinik benzeyebilir ama içmeyi kesme zamanlaması, terleme, taşikardi ve hipertansiyon birlikte yoksunluğa işaret eder"
+      - metin: "Hipertiroidizm"
+        dogru: false
+        geri_bildirim: "Taşikardi ve titreme benzeyebilir ama içmeyi kesme öyküsü, bulantı ve MCV/GGT bulguları tabloyu yoksunlukla açıklar"
+  - tip: sonuc
+    metin: "Alkol yoksunluk sendromu düşünüldü; yoksunluk şiddet skoru (CIWA-Ar) 14 bulundu, tedavi planlandı."
+  - tip: secim
+    soru: "Bu hastada ilk tedavi yaklaşımı hangisidir?"
+    secenekler:
+      - metin: "Titrasyonlu benzodiazepin + intravenöz tiyamin (glukozdan önce)"
+        dogru: true
+        geri_bildirim: "Yoksunlukta nöbet ve delirium tremens riski benzodiazepinle bastırılır; tiyamin glukozdan önce verilir çünkü glukoz metabolizması tiyamin depolarını tüketip Wernicke'yi tetikleyebilir; magnezyum ve potasyum düzeltilir"
+      - metin: "Haloperidol ile sedasyon"
+        dogru: false
+        geri_bildirim: "Haloperidol nöbet eşiğini düşürür ve yoksunluk seyrini ağırlaştırabilir; yoksunlukta ilk seçenek değildir"
+      - metin: "Sadece beta-bloker ile kalp hızı kontrolü"
+        dogru: false
+        geri_bildirim: "Beta-bloker bulguları maskeler ama nöbet ve delirium tremens gelişimini tek başına engellemez; ancak benzodiazepine ek destek olarak düşünülür"
+  - tip: ozet
+    metin: "Öğrenme noktaları: ağır içicide içmeyi bıraktıktan sonra 6-48 saatte tremor, terleme, ajitasyon; 12-48 saatte halüsinasyon ve nöbet; 48-96 saatte delirium tremens (bilinç değişikliği + otonom fırtına, en ağır evre) beklenir; tedavide titrasyonlu benzodiazepin, magnezyum ve potasyum düzeltmesi yapılır; tiyamin glukozdan önce verilir; nöbet eşiğini düşüren ilaçlardan (örn. haloperidol) kaçınılır; uzun dönemde bakım için naltrekson veya akamprozat düşünülür."
+sozlu_sorular:
+  - "Delirium tremens neden hayati risk taşır?"
+  - "Tiyamin neden glukozdan önce verilir?"
+  - "Yoksunluk döneminde hangi ilaç grubu nöbet riskini artırır?"

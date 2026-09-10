@@ -1,0 +1,65 @@
+id: wilson
+version: 1
+status: draft
+author: batuhanayci
+sources:
+- 'Klinik rehberler: Wilson hastalığı tanı ve tedavisi (ASLD/AASLD, EASL) — referans olarak listelendi,
+  metin projesi özgün yazımdır'
+ad: Wilson Hastalığı
+taksonomi:
+- - ttbt
+  - patoloji
+  - pat_karaciger_safra
+  - pat_kc_metabolik
+- - ktbt
+  - dahiliye
+  - dah_hepatoloji
+  - dah_hep_wilson_hemokromatoz
+- - ktbt
+  - pediatri
+  - ped_gastroenteroloji
+  - ped_gis_wilson_alfa1
+- - ktbt
+  - noroloji
+  - noro_hareket_bozukluklari
+  - noro_hb_wilson
+tipik_hasta: 10-40 yaş arasında başvuran; karaciğer tipi (kronik hepatit, siroz, fulminan tablo) veya
+  nöropsikiyatrik tip (tremor, disartri, davranış değişikliği) bulgularla gelen genç hasta; açıklanamayan
+  Coombs negatif hemoliz ile birlikte anımsanır
+patofizyoloji: ATP7B genindeki mutasyon; bakırın hepatositlerden safraya atılımını ve seruloplazmine bağlanmasını
+  bozar. Bakır önce karaciğerde birikir, kapasite aşılınca dolaşıma geçip kornea Descemet zarı, bazal
+  ganglionlar ve diğer dokularda depolanır
+anahtar_bulgular:
+- Kayser-Fleischer halkası (yarık lambada kornea kenarında)
+- Serum seruloplazmin düşük
+- 24 saatlik idrar bakır artışı
+- Karaciğer enzim yüksekliği ile birlikte Coombs negatif hemolitik anemi
+- Genç hastada Parkinsonizm benzeri tremor, disartri, yazı bozulması
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kayser-Fleischer halkası (nöropsikiyatrik tipin çoğunda var; saf karaciğer tutulumunda bulunmayabilir)
+ilk_tetkik: Serum seruloplazmin ve 24 saatlik idrar bakırı; yarık lambayla KF halkası araştırması
+kesin_tani: Karaciğer biyopsisinde kuru ağırlık başına bakır miktarının belirgin artışı; gerekirse ATP7B
+  genetik testi
+ilk_tedavi: Bakır kelasyonu (D-penisilamin veya trientin) ve düşük bakırlı diyet
+klasik_komplikasyon: Fulminan hepatit eşliğinde Coombs negatif hemolitik anemi; tedavisizde siroz ve kalıcı
+  nörolojik hasar
+ayirici:
+- hastalik: hemokromatoz
+  ayirt_edici: 'Depolanan metal demirdir: ferritin ve transferrin satürasyonu yüksek, seruloplazmin normal,
+    KF halkası yok; diyabete, artralji ve hipogonadizme neden olur'
+- hastalik: otoimmun_hepatit
+  ayirt_edici: IgG yüksekliği ile ANA/ASMA (tip 1) veya anti-LKM-1 (tip 2) pozitifliği önde; seruloplazmin
+    normal, KF halkası yok, nörolojik bulgu beklentisi yok
+tus_gecmisi:
+- tus-2015-sonbahar-ktbt-65
+- tus-2016-ilkbahar-ktbt-15
+- tus-2016-sonbahar-ktbt-70
+- tus-2016-sonbahar-ttbt-97
+- tus-2017-sonbahar-ktbt-64
+- tus-2018-sonbahar-ttbt-88
+- tus-2020-ilkbahar-ttbt-50
+- tus-2021-ilkbahar-ktbt-63
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: true
+  ayirici: true

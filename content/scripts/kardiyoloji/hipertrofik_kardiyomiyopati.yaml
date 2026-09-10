@@ -1,0 +1,46 @@
+id: hipertrofik_kardiyomiyopati
+version: 1
+status: draft
+author: ai-drafts/kardiyoloji-2
+sources:
+- AHA/ACC Hypertrophic Cardiomyopathy Guideline; ESC Cardiomyopathies Guideline — referans olarak listelendi,
+  metin projesi özgün yazımdır
+ad: Hipertrofik Kardiyomiyopati
+taksonomi:
+- - ktbt
+  - kardiyoloji
+  - kard_kardiyomiyopati
+  - kard_km_hipertrofik
+tipik_hasta: Genç ve sık sık sportif hasta; egzersiz sırasında senkop geçirmiş; ailesinde erken yaşta
+  ani ölüm öyküsü var; hipertansiyon veya aort darlığıyla açıklanamayan belirgin sol ventrikül duvar kalınlaşması
+  saptanıyor; genetik-sarkomer kökenli olduğu için yaşlı değil genç hasta düşünülmeli
+patofizyoloji: Sarkomer gen mutasyonları (en sık beta-miyozin ağır zincir ve miyozin bağlayıcı protein
+  C) kalınlaşmaya yol açar; interventriküler septum asimetrik hipertrofik olur. Sistolde mitral anterior
+  yaprak septuma doğru çekilir (sistolik anterior hareket) ve sol ventrikül çıkış yolunda dinamik obstrüksiyon
+  doğar; buna eşlik eden diyastolik disfonksiyon, mikroiskemi ve miyokardiyal fibrozis ventriküler aritmilerin
+  zeminini hazırlar
+anahtar_bulgular:
+- Egzersizle tetiklenen senkop (özellikle genç veya sporcu hastada)
+- Aile öyküsünde erken ani ölüm
+- 'Sol sternum kenarında sistolik ejeksiyon üfürümü: Valsalva ile şiddeti artar, çömelmeyle azalır'
+- Karotis nabzının hızla yükselip çift tepeli olması (bisferiens nabız)
+- Ekokardiyografide asimetrik septal hipertrofi, sistolik anterior hareket ve mitral yetersizlik
+- EKG'de sol ventrikül hipertrofisi, derin Q dalgaları
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Valsalva ile artan, çömelmeyle azalan sistolik üfürüm (dinamik çıkış obstrüksiyonunun imzası)
+ilk_tetkik: Ekokardiyografi (duvar kalınlığı, dinamik gradyan, sistolik anterior hareket); EKG ve 24 saatlik
+  ritim kaydı aritmi taraması için; aile taramasında sarkomer genetik testi
+kesin_tani: Ekokardiyografi (gerekirse kardiyak MR) ile hipertansiyon ve aort darlığı dışlanmış, açıklanamayan
+  asimetrik duvar kalınlaşmasının gösterilmesi; olguların yarısından çoğunda sarkomer gen mutasyonu
+ilk_tedavi: Obstrüktif formda ilk sıra negatif inotropik beta bloker (verapamil alternatif); sert efordan,
+  sıvı kaybından ve vazodilatörlerden kaçınılması; dirençli semptomda septal miyektomi veya alkol septal
+  ablasyon; ani ölüm risk faktörlerinden biri varsa (önceki kardiyak arrest, ailede HCM'ye bağlı ani ölüm,
+  açıklanamayan senkop, duvar kalınlığı 30 mm üstü, nonsürdürülebilir ventriküler taşikardi) implante
+  edilebilir kardiyoverter defibrilatör endikasyonu
+klasik_komplikasyon: Atriyal fibrilasyon ve ani kardiyak ölüm; ileri evrede kalp yetmezliği
+tus_gecmisi:
+- tus-2015-ilkbahar-ktbt-10
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,10 @@
+id: anes_ga_evreler
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Anesteziyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anestezi Evreleri ve Derinliği"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_genel_anestezi, anes_ga_evreler]
+metin: "Guedel evreleri (etere göre tanımlanmıştır) anestezinin dört evresini kapsar: I. evre analjezi dönemidir (bilinç kaybına kadar ağrı duyarlılığı azalır; göz küresi hareketleri korunur (nistagmus ikinci evrede — ekzasyon/deliryum evresi — görülür)); II. evre ekzasyon/deliryum dönemidir (bilinç kapalı fakat kaba refleksler korunur, kontrolsüz hareketler, pupil genişlemesi, salgı artışı ve aritmi riski olur — entübasyon ve cerrahi girişim bu evrede güvenli değildir); III. evre cerrahi anestezidir (düzenli solunum, sabit göz küresi, pupillerin normale dönmesi, faringeal ve larengeal reflekslerin kademeli baskılanması; cerrahi girişim ve entübasyon bu evrede yapılır); IV. evre medüller depresyondur (apne, ışığa yanıtsız geniş pupiller, derin hipotansiyon; derinlik azaltılmazsa ölümle sonuçlanır). Klinik derinlik belirteçleri göz kapağı tonusu, göz küresi hareketi, pupil çapı, gözyaşı salgısı, solunum ritmi ve hacmi, kas tonusu ve reflekslerdir; ancak opioidler, beta-blokerler ve antikolinerjikler bu işaretleri yanıltabilir. Modern pratikte hipnotik derinlik elektroensefalografi temelli indekslerle izlenir: bispektral indeks (BIS) 0-100 skalasında uyanık durumu 100'e, izoelektrik EEG 0'a karşılık gelir ve genel cerrahi için 40-60 aralığı hedeflenir. Derinlik yönetimiyle hem intraoperatif farkındalık (awareness) hem de aşırı derinliğe bağlı uzun dönem kognitif bozulma önlenmeye çalışılır; çocuklarda ve ketamin, N2O gibi EEG'yi baskılamayan ajanlarda BIS güvenilir değildir."

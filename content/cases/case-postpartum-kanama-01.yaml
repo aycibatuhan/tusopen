@@ -1,0 +1,46 @@
+id: case-postpartum-kanama-01
+version: 1
+status: draft
+author: "ai-drafts/cases-f"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: postpartum_kanama
+baslik: "Doğum sonrası aşırı kanama"
+adimlar:
+  - tip: sunum
+    metin: "27 yaşında kadın, miadında normal vajinal doğum yaptı. Plasenta ve zarlar tamam görünümlü çıkarıldı; ilk yarım saat içinde kanama 900 mL'yi geçti. Fundus palpasyonda yumuşak ve iyi kontrakte değil; perine ve servikste yırtık görünmüyor, mesane boş. Nabız 112, tansiyon 95/60 mmHg. Yenidoğan sağlıklı."
+  - tip: secim
+    soru: "Uterus atonisinden şüphelenilen bu postpartum kanamada ilk yapılacak müdahale hangisidir?"
+    secenekler:
+      - metin: "Uterus masajı ve intravenöz oksitosin başlanması"
+        dogru: true
+        geri_bildirim: "Postpartum kanamanın en sık nedeni uterin atonidir; ilk adım fundus masajı, mesanenin boş tutulması ve uterotonik ilaçla (oksitosin) kontraksiyonun sağlanmasıdır"
+      - metin: "Acil laparotomi ile internal iliyak arter ligasyonu"
+        dogru: false
+        geri_bildirim: "Cerrahi adımlar uterotonikler ve tamponad gibi ilk basamak girişimler yetersiz kaldığında uygulanır"
+      - metin: "Acil histerektomi"
+        dogru: false
+        geri_bildirim: "Histerektomi kanamayı durduramayan dirençli vakada son çaredir; önce medikal ve mekanik adımlar denenir"
+      - metin: "Kan sayımı isteyip doğumhanede gözlemlemek"
+        dogru: false
+        geri_bildirim: "Kanama aktif ve hemodinami sınırda; bekleme yerine hızlı atoni tedavisi başlanmalıdır"
+  - tip: sonuc
+    metin: "Fundus masajına ve oksitosin infüzyonuna karşın kanama sürüyor; ergometrin ve prostaglandin analogu eklenmesine rağmen uterus iyi kontrakte değil. Toplam kanama 1.600 mL'ye ulaştı, hematokrit düşüyor, hasta huzursuz. Doğum kanalı ve plasenta yeniden incelenmiş, yırtık veya retenzyon saptanmamış."
+  - tip: secim
+    soru: "Uterotonik tedaviye yanıt alınamayan bu hastada bir sonraki adım hangisidir?"
+    secenekler:
+      - metin: "Intrauterin balon tamponadı"
+        dogru: true
+        geri_bildirim: "Uterotonikler yetersiz kaldığında balon tamponad uterin kaviteyi doldurarak basınçla kanamayı durdurur; başarısız olursa cerrahi adımlara (damar ligasyonu, kompresyon sütürleri) geçilir"
+      - metin: "Hemen histerektomi"
+        dogru: false
+        geri_bildirim: "Damar ligasyonu ve balon tamponad gibi uterusu koruyan adımlar önce denenmelidir; histerektomi dirençli kanamada son seçenektir"
+      - metin: "Oksitosini kesip sadece kristaloid sıvıyı hızlandırmak"
+        dogru: false
+        geri_bildirim: "Uterotonikleri kesmek atoniyi artırır; sıvı resüsitasyon destek tedavisidir, kanamanın nedenini çözmez"
+  - tip: ozet
+    metin: "Öğrenme noktaları: postpartum kanamada en sık neden uterin atonidir (4T: tonus, doku, travma, trombin); tedavi basamakları sırayla: uterus masajı ve uterotonikler, doğumdan sonraki ilk 3 saat içinde traneksamik asit, sonra balon tamponad, sonra cerrahi (damar ligasyonu, kompresyon sütürü, histerektomi); her vakada plasenta retenzyonu ve doğum kanalı yırtıkları kontrol edilir."
+sozlu_sorular:
+  - "Postpartum kanamanın dört ana nedeni nedir?"
+  - "Kullanılan uterotonik ilaçlar hangileridir?"
+  - "Balon tamponadın kanamayı durdurma mekanizması nedir?"

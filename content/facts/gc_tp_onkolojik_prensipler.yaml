@@ -1,0 +1,10 @@
+id: gc_tp_onkolojik_prensipler
+version: 1
+status: draft
+author: "ai-drafts/cerrahi-facts"
+sources:
+  - "Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Cerrahi Onkoloji Prensipleri"
+taksonomi:
+  - [ktbt, genel_cerrahi, gc_temel_prensipler, gc_tp_onkolojik_prensipler]
+metin: "Evreleme TNM sistemine göre yapılır: T tümörün lokal yaygınlığını, N bölgesel lenf nodu tutulumunu, M uzak metastazı gösterir; histopatolojik derecelendirme iyi diferansiye G1'den anaplastik G4'e yapılır. Biyopsi izi, planlanacak geniş rezeksiyonun sınırları içinde kalacak biçimde seçilir ve ekstremitede insizyonel biyopsi kesişi uzun eksende açılır. R0 rezeksiyonda tüm sınırlar mikroskobik olarak temizdir, R1'de mikroskobik rezidü, R2'de makroskopik rezidü kalır; onkolojik cerrahide amaç tümörü çevre dokularıyla en blok çıkarmak ve cerrahi sahayı kontamine etmemektir. Sentinel lenf nodu, primer tümörün lenfatik drenajını ilk alan noddur; izotop ve mavi boya ile saptanır, biyopsisinin negatif olduğu olguda daha ileri lenfadenektomi gerekmez. Neoadjuvan tedavi lokal ileri rektum kanserinde ve büyük meme tümörlerinde organ koruma sağlar, adjuvan tedavi ameliyat sonrası rekürrens riskini azaltır; CEA kolorektal, CA 19-9 pankreas-biliyer, AFP hepatosellüler karsinom ve CA 125 over kanserinde izlem belirteci olarak kullanılır."

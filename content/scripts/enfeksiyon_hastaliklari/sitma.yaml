@@ -1,0 +1,60 @@
+id: sitma
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-2
+sources:
+- 'Klinik rehberler: WHO sıtma tanı ve tedavi kılavuzu, CDC Yellow Book sıtma bölümü — referans olarak
+  listelendi, metin projesi özgün yazımdır'
+ad: Sıtma
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_sitma
+tipik_hasta: Sıtmanın endemik olduğu bir bölgeye (Sahra altı Afrika, Güneydoğu Asya, Amazon Havzası) seyahat
+  edip korunmasız kalmış; dönüşünden haftalar sonra aralıklarla üşüme-titreme-ateş-terleme nöbetleri geçirerek
+  başvuran hasta. Aynı tablo, anofel sivrisineklerin yoğun olduğu ve yerel (otohton) bulaşın görüldüğü
+  salgınlarda da düşünülür; sıtma su yoluyla değil, yalnızca sivrisinek ısırığıyla bulaşır
+patofizyoloji: Plasmodium cinsi protozoonlar (P. vivax, P. falciparum, P. malariae, P. ovale) anofel sivrisinek
+  ısırığıyla karaciğere ulaştırır. Parazit önce karaciğer dokusunda eşeysiz çoğalır, sonra alyuvarlara
+  girip senkronize çoğalır; alyuvar patlamasıyla açığa çıkan atık maddeler makrofajlardan endotoksin benzeri
+  yanıt uyarır ve bu dalgaların periyodik niteliği ateş nöbetlerini oluşturur. P. vivax ve P. ovale karaciğerde
+  hipnozoit bırakır ve yıllar sonra nüks yaptırır. P. falciparum yüksek parazitemi yapar, alyuvarlarda
+  sitoadherans ile mikrokapiller tıkanıklık yaratır; beyin, böbrek ve akciğerin kapiller yataklarında
+  organ yetmezliklerine giden ağır tablo bundan doğar
+anahtar_bulgular:
+- 'Belirli aralıklarla yinelenen ateş nöbetleri: titreme ve üşümeyle açılan, yüksek ateş, ardından bol
+  terlemeyle sonlanan epizotlar; türün üreme periyoduna göre tertian (48 saat) veya quartan (72 saat)
+  ritim, P. falciparumda ise düzensiz tablo'
+- Splenomegali (uzun süren enfeksiyonda belirgin) ve hepatomegali
+- Hemolitik anemi, sarılık eğilimi ve trombositopeni
+- 'P. falciparumda ağır seyir: bilinç değişikliği ve konvülsiyon (serebral sıtma), hemoglobinüri ile koyu
+  idrar, akut böbrek yetmezliği, akciğer ödemi'
+- Endemik bölgeden dönüş sonrası ateşin her hastada önce sıtmadan ayıştırılması gereği (ateşli döner yolcu
+  ayırımı)
+patognomonik: null
+ilk_tetkik: Kalın kan damlası (tarama için en duyarlı) ve boyalı ince yayma; gerekirse hızlı tanı testleri
+  (antijen bazlı). Tam kan sayımı, LDH ve bilirubin ile hemolizin, trombositopeninin belgelenmesi
+kesin_tani: Boyalı ince periferik yaymada parazitin eritrosit içinde gösterilmesi ve türün morfolojik
+  tanımlanması; kalın damla taramayı, ince yayma tür tanısını verir. Duyarlılığı parazitemiyle orantılıdır,
+  şüpheli durumda yaymalar 12-24 saat arayla yinelenir
+ilk_tedavi: 'Türe ve dirence göre: duyarlı P. vivax ve P. malariae''de klorokin; P. falciparum için artemisininli
+  kombinasyon tedavisi. P. vivax ve P. ovale''de klorokin sonrası hipnozoitleri temizlemek için primakin
+  eklenir (radikal tedavi); primakin öncesi G6PD eksikliği araştırılır, yoksa ağır hemoliz riski doğar.
+  Serebral sıtma ve ağır tabloda damardan artemisinin türevi (artesünat) tercih edilir ve hastane koşullarında
+  izlem yapılır'
+klasik_komplikasyon: P. falciparumda serebral sıtma, siyah idrar ateşi (hemoglobinürik akut böbrek yetmezliği),
+  nonkardiyogenik akciğer ödemi, hipoglisemi; tedavi yetersizliğinde nüks ve hipnozoit kaynaklı relaps
+tus_gecmisi:
+- tus-2015-sonbahar-ktbt-2
+- tus-2017-ilkbahar-ktbt-4
+- tus-2017-ilkbahar-ttbt-72
+- tus-2018-ilkbahar-ktbt-3
+- tus-2018-ilkbahar-ttbt-56
+- tus-2019-ilkbahar-ktbt-2
+- tus-2020-ilkbahar-ktbt-2
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

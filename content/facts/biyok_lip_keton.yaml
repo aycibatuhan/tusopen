@@ -1,0 +1,10 @@
+id: biyok_lip_keton
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Keton Cisimlerinin Üretimi ve Kullanımı"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_keton]
+metin: "Keton cisimleri aseton, asetoasetat ve beta-hidroksibütirattır; açlıkta, kontrolsüz diyabette ve alkol kullanımında karaciğerde asetil-KoA birikimiyle üretilir. Karaciğer tiyoforaz enzimine sahip olmadığı için ürettiği ketonları kendisi kullanamaz; beyin uzun açlıkta enerjisinin büyük bölümünü ketonlardan karşılar. Alkolik ketoasidozda glukoz genellikle normal ya da hafif yüksek kalırken, diyabetik ketoasidozda belirgin yükselir."

@@ -1,0 +1,50 @@
+id: itp
+version: 1
+status: draft
+author: ai-drafts/dahiliye-5
+sources:
+- ASH İmmün Trombositopeni kılavuzu
+- Uluslararası ITP Çalışma Grubu raporları
+ad: İmmün Trombositopeni
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_hematoloji
+  - dah_hem_trombositopeni
+tipik_hasta: Önceden sağlıklı genç erişkin (klasik olarak kadın); deride peteşi, purpura, ekimoz ya da
+  burun-diş eti kanaması, adet kanaması artışıyla başvuran; muayenede dalak ve lenf nodu palpe edilmeyen;
+  çocuklarda virüs üst solunum yolu enfeksiyonu sonrası ortaya çıkıp çoğunlukla kendiliğinden düzelen
+  tablo
+patofizyoloji: Trombosit yüzey glikoproteinlerine (en sık GP IIb/IIIa) karşı üretilen IgG otoantikorlar
+  trombositleri kaplar; antikorlu trombositler dalağın retiküloendotelyal makrofajları tarafından Fc reseptörleri
+  üzerinden yıkıma uğrar. Megakaryositler genellikle korunur ya da artmıştır, ama antikorun baskısıyla
+  trombosit üretimi de kısmen bozulabilir. Erişkinlerde kronikleşme eğilimi vardır; HIV, HCV ve H. pylori
+  enfeksiyonları, sistemik lupus, lenfoma ve bazı ilaçlar sekonder form yapar
+anahtar_bulgular:
+- 'İzole trombositopeni: trombosit sayısı düşük; hemoglobin ve lökosit sayısı normal'
+- Periferik yaymada trombositopeni dışında anormalite yok; dev trombositler görülebilir
+- Peteşi, purpura, ekimoz; mukoza kanamaları (burun, diş eti, menoraji)
+- Dalak ve lenf nodu palpabl büyümesi yok (varsa ITP tanısı sorgulanır)
+- Kemik iliğinde megakaryosit sayısı normal ya da artmış; tanı için rutin biyopsi gerekmez
+patognomonik: null
+ilk_tetkik: 'Tam kan sayımı ve periferik yayma incelemesi; sekonder neden araştırması: HIV, HCV ve H.
+  pylori serolojisi, antinükleer antikorlar, gerektiğinde gebelik testi; ilaç öyküsü'
+kesin_tani: İzole trombositopeni + uyumlu klinik + yaymada başka bozukluk olmaması + sekonder neden saptanmaması;
+  atipik bulgu ya da tedavi öncesi (özellikle 60 yaş üstü) kemik iliği aspirasyonu düşünülür
+ilk_tedavi: Trombosit 30 binin üzerinde ve kanama yoksa gözlem yeterlidir. Tedavi gerektiğinde kortikosteroid
+  (prednizon) ilk seçimdir; hızlı yanıt gerekiyorsa IVIG eklenir — IVIG, dalağın Fc reseptörlerini kaplayarak
+  antikorlu trombositlerin yıkımını bloke eder, etkisi saatler içinde başlar ama geçicidir. Kronik ve
+  dirençli olgularda trombopoietin reseptör agonistleri (romiplostim, eltrombopag), rituksimab; dirençte
+  splenektomi
+klasik_komplikasyon: Trombosit 10 bin altına düştüğünde spontan kanama; en korkulanı intrakraniyel kanama
+tus_gecmisi:
+- tus-2016-sonbahar-ktbt-104
+- tus-2017-ilkbahar-ktbt-59
+- tus-2018-ilkbahar-ktbt-59
+- tus-2018-sonbahar-ktbt-51
+- tus-2020-sonbahar-ktbt-60
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

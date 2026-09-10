@@ -1,0 +1,52 @@
+id: bazal_hucreli_karsinom
+version: 1
+status: draft
+author: ai-drafts/dermatoloji-4
+sources:
+- Bolognia Dermatology (Bolognia, Schaffer, Cerroni)
+- NCCN nonmelanom deri kanserleri tedavi rehberi
+ad: Bazal Hücreli Karsinom
+taksonomi:
+- - ktbt
+  - dermatoloji
+  - derm_deri_tumorleri
+  - derm_tu_bazal_hucreli
+tipik_hasta: 65 yaş üstü açık tenli (Fitzpatrick I-II) erkek; yüz üzerinde (burun, alın, yanak, kulak)
+  aylar-yıllardır yavaş büyüyen, ara ara kanayıp kabuklanan değişiklik; gençlikte tarla-arazi işi veya
+  uzun güneş maruziyeti öyküsü. Arsenik ve radyasyon maruziyeti, çok sayıda leke öyküsü riski artırır;
+  kalıtsal Gorlin sendromunda (PTCH1) çok sayıda ve erken yaşta görülür
+patofizyoloji: Güneş UV hasarıyla (özellikle aralıklı şiddetli maruziyet) folliküler protez hücre ve basal
+  keratinositlerde p53 ve hedgehog (PTCH-Smo) yolu bozulur; tümör yavaş büyür, çevre dokuyu yıkayarak
+  (kıkırdak, kemik, göz kapağı) lokal invazyon yapar. Uzak metastaz son derece nadirdir; tehlike yerel
+  yıkımdır
+anahtar_bulgular:
+- 'Nodüler tip (en sık): incimsi parlak (inci gibi) yuvarlanmış kenar, kenarda ağ benzeri (arborizing)
+  telanjiektaziler, merkezde sarımsı-kanlı kabuk veya ülser — kemirici ülser görüntüsü'
+- Yavaş büyüme ve kanama-iyileşme-nüks döngüsü; ağrı genellikle yoktur
+- 'Süperfisyal tip: gövde üzerinde ince pullu pembe plak; kenarı iplik gibi ince yuvarlanmış — egzama
+  ile karışır'
+- 'Morfeaform-infiltratif tip: sert, sınırları belirsiz, sarımsı-beyaz plak ve deride çökme; tekrar ve
+  derin invazyon riski yüksek'
+- 'Lokal yıkım: burun kanadı, göz kapağı ve kulak kıkırdağında yıkım ve deformite'
+patognomonik: İncimsi (inci gibi) yuvarlanmış kenar üzerinde ağ benzeri telanjiektaziler — nodüler tablonun
+  klasik görüntüsü
+ilk_tetkik: Dermoskopi (yaprak benzeri alanlar, tekerlek jantı yapısı, ağ benzeri damarlar) + punch veya
+  shave biyopsi
+kesin_tani: 'Biyopsi: dermiste bazalloid hücre adaları; çevre hücrelerde palisade dizilim, peritümoral
+  mukinöz stroma ve stromada retraksiyon boşluğu (mikroskopik artefakt)'
+ilk_tedavi: Standart cerrahi eksizyon (yüzde dört mm güvenli kenar); yüksek riskli olguda MOHS mikrografik
+  cerrahi (yüz merkez, tekrar etmiş, morfeaform-infiltratif, büyük-derin lezyon); küçük süperfisyal-nodüler
+  lezyonda elektrodesikasyon-küretaj veya kriyoterapi; süperfisyal tipte topikal imikimod-5-florourasil
+  veya fotodinamik tedavi; cerrahiye uygun olmayan ileri olguda radyoterapi veya hedgehog inhibitörü (vismodegib,
+  sonidegib)
+klasik_komplikasyon: Yerel yıkıcı büyümeyle kıkırdak-kemik ve göz kapağı yıkımı, deformite; yetersiz eksizyonda
+  tekrar; uzak metastaz (kemik, akciğer) son derece nadir
+tus_gecmisi:
+- tus-2016-ilkbahar-ktbt-31
+- tus-2017-ilkbahar-ktbt-30
+- tus-2018-ilkbahar-ttbt-91
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

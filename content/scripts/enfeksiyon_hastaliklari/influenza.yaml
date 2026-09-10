@@ -1,0 +1,61 @@
+id: influenza
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-2
+sources:
+- 'Klinik rehberler: IDSA mevsimsel influenza tanı, tedavi ve kemoprofilaksi kılavuzu, WHO influenza rehberi
+  — referans olarak listelendi, metin projesi özgün yazımdır'
+ad: İnfluenza
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_solunum
+  - enf_sol_influenza
+tipik_hasta: Kış aylarında ve bölgede influenza salgını sürerken, birkaç saat içinde aniden ateş, baş
+  ağrısı, kas ağrıları ve kuru öksürükle yatağa düşen erişkin; gebeler, 65 yaş üstü bireyler, kronik akciğer-kalp
+  hastaları ve bağışıklık baskılanmış kişiler komplikasyon için en riskli grupları oluşturur
+patofizyoloji: Etken Orthomyxoviridae ailesinden, segmentli RNA genomlu zarflı influenza virüsleridir;
+  A tipi pandemi ve ağır salgınları, B tipi daha hafif mevsimsel salgınlar yapar. Virüsün hemaglutinini
+  üst solunum yolu epitel reseptörlerine tutunur, epitel hücresinde çoğalır ve hücreyi öldürür; epitelyal
+  hasar mukosilyer klirensi bozarak sekonder bakteriyel kolonizasyona zemin hazırlar. Virüsün salındığı
+  enzim olan nöraminidaz, yeni virüslerin hücreden ayrılmasını sağlar ve antiviral ilaç hedefidir. Genomun
+  segmentli olması, aynı hücreye giren farklı altipler arasında gen karışımına (antijenik şift) elverişlidir;
+  bu büyük değişimler pandemileri, küçük nokta mutasyonlar ise her sezon yinelenen antijenik drift salgınlarını
+  açıklar
+anahtar_bulgular:
+- Saatler içinde zirveye ulaşan yüksek ateş, üşüme ve belirgin halsizlik; soğuk algınlığından ayıran nokta
+  başlangıcın ani ve sistemik bulguların ön planda olması
+- Kas ve eklem ağrıları, baş ağrısı, göğüs kemiği arkasında yanma hissi
+- Kuru, inatçı öksürük ve boğaz ağrısı; burun akıntısı ve konjestiyon daha silik kalır
+- Ateşin 3-5 günde düzelmesi, öksürük ve halsizliğin 1-2 hafta sürebilmesi; bu gecikme sekonder bakteriyel
+  pnömoni şüphesiyle ayırt edilir (ateş düştükten sonra yeniden yükselmesi, pürülan balgam, göğüs ağrısı)
+- Çocuklarda otit ve gastrointestinal bulgular daha sık; yaşlılarda ateş az belirgin, zaten olan kronik
+  hastalıklarda kötüleşme ön planda
+patognomonik: null
+ilk_tetkik: Salgın döneminde ve toplumda influenza dolaşımda iken tanı klinik tabloyla konur; tedavi kararı
+  (özellikle riskli hasta ya da hastaneye yatırılacak hasta) ve ayırıcı gerektiğinde nazofarenks sürüntüsünden
+  hızlı antijen testi ya da moleküler test istenir. Ciddi tabloda hemogram (lökopeni eğilimi), CRP, toraks
+  grafisi ve arter kan gazı
+kesin_tani: Nazofarenks sürüntüsü ya da aspirat örneğinde viral RNA'nın moleküler testle (RT-PCR ya da
+  izotermik amplifikasyon) gösterilmesi en duyarlı ve en özgül yöntemdir; hızlı antijen testleri özgül
+  ama duyarlılığı düşüktür, negatifi tabloyu dışlatmaz. Mevsim ve salgın verileri klinik tanıyı destekler
+ilk_tedavi: Belirtilerin başlangıcından itibaren 48 saat içinde başlanan oral oseltamivir en fazla katkıyı
+  sağlar; bu ilaç penceresi riskli grupta (gebeler dahil), hastanede izlenen hastalarda ve ağır ilerleyen
+  tablolarda taşsa bile geç başlanması yine de düşünülür, ancak katkının en yüksek olduğu dönem ilk iki
+  gündür. Genç ve riski olmayan hasta için destekleyici tedavi yeterlidir. Çocuklara ve gençlerde asetilsalisilik
+  asit verilmez (Reye sendromu riski); sekonder bakteriyel pnömoni kanıtı olursa antibiyotik eklenir.
+  Önlemede her yıl güncellenen inaktif aşı en etkili araçtır; oseltamivir riskli grupta eksposür sonrası
+  kemoprofilakside de kullanılır
+klasik_komplikasyon: Primer viral pnömoni ve S. aureus (MRSA dahil), S. pneumoniae gibi bakterilerle sekonder
+  pnömoni; miyozit ve miyoglobinüri, miyokardit, ensefalit; çocuklarda Reye sendromu (aspirin kullanımıyla);
+  KOAH ve astım alevlenmesi, gebelerde erken doğum riski
+tus_gecmisi:
+- tus-2018-ilkbahar-ttbt-64
+- tus-2019-ilkbahar-ttbt-120
+- tus-2019-ilkbahar-ttbt-65
+- tus-2020-ilkbahar-ktbt-72
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

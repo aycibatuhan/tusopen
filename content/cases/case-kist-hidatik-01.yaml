@@ -1,0 +1,49 @@
+id: case-kist-hidatik-01
+version: 1
+status: draft
+author: "ai-drafts/cases-f"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: kist_hidatik
+baslik: "Köyde büyüyen hayvanlarla yaşamış hastada karın kitlesi"
+adimlar:
+  - tip: sunum
+    metin: "54 yaşında erkek, köyde yaşıyor, yıllardır koyun gütmekle uğraşıyor ve evinde çoban köpeği besliyor. Rutin muayenede saptanan sağ üst kadrandaki kitle dışında belirgin yakınması yok; kilo kaybı, ateş, sarılık tanımlamıyor. Muayenede sağ kaburga altında 12 cm kadarki, düzgün kenarlı, kistik kıvamda kitle. Karaciğer enzimleri hafif yüksek, bilirubin normal, beyaz küre normal sınırlarda, eozinofil oranı hafif artmış."
+  - tip: secim
+    soru: "Koyun ve köpek teması olan hastada saptanan kistik karaciğer kitlesi için ilk istenecek tetkikler hangileridir?"
+    secenekler:
+      - metin: "Karın ultrasonografisi ve kist hidatik serolojisi (indirekt hemaglutinasyon ya da ELISA)"
+        dogru: true
+        geri_bildirim: "Kist hidatik değerlendirmesinin ilk adımı ultrasondur; iç bölmeler, kız kistleri ve ayrık zar görüntüsü tanıyı ileriye taşır, seroloji tanıyı destekler"
+      - metin: "Kitlenin ince iğne aspirasyon biyopsisi"
+        dogru: false
+        geri_bildirim: "Kist içeriğinin sızması anafilaktik reaksiyon ve yayılmaya yol açabilir; hidatik şüphesinde kiste biyopsi yapılmaz"
+      - metin: "Sadece direkt batın grafisi"
+        dogru: false
+        geri_bildirim: "Periferik kalsifikasyon görülebilir ama tanıyı koymaya yetmez; ultrason ve seroloji esastır"
+      - metin: "Tanısal laparoskopi"
+        dogru: false
+        geri_bildirim: "Non-invaziv yöntemlerle tanı konabilirken direkt cerrahi girişim uygun değildir"
+  - tip: sonuc
+    metin: "Karın ultrasonunda 12 cm çapında kist; kist içinde ayrık zar görüntüsü ve çoklu kız kistleri saptanır, perikist kalsifiye değil. Seroloji pozitif. Akciğer grafisi normal, diğer organlarda kist saptanmıyor."
+  - tip: secim
+    soru: "Karaciğerde tek, büyük ve erişilebilir kist saptanan hastada tedavi yaklaşımı hangisidir?"
+    secenekler:
+      - metin: "Perioperatif albendazol ile birlikte kistektomi; kist içeriği sızdırılmadan çıkarılır"
+        dogru: true
+        geri_bildirim: "Tek ve erişilebilir kistlerde standart tedavi cerrahidir; albendazol preoperatif ve postoperatif verilerek nüks ve yayılım azaltılır"
+      - metin: "Kitlenin iğne ile derin aspirasyonu"
+        dogru: false
+        geri_bildirim: "Kist içeriğinin sızması anafilaksi ve peritoneal yayılma riski taşır; bu yaklaşım uygun değildir"
+      - metin: "Sadece albendazol ile uzun süreli takip"
+        dogru: false
+        geri_bildirim: "Tek, büyük ve erişilebilir kistlerde medikal tedavi tek başına yeterli değildir; cerrahi ve albendazol birlikte planlanır"
+      - metin: "Kitlenin gözlemlenmesi ve yıllık ultrason kontrolü"
+        dogru: false
+        geri_bildirim: "Büyük kist gözleme uygun değildir; büyüme, ikincil enfeksiyon ve rüptür riski vardır"
+  - tip: ozet
+    metin: "Öğrenme noktaları: koyun-köpek teması + kistik karaciğer kitlesi + hafif eozinofili = kist hidatik; ultrasonda iç bölmeler, kız kistleri ve ayrık zar aranır, seroloji tanıyı destekler; şüpheli kiste biyopsi ve aspirasyon yapılmaz; tedavi perioperatif albendazol ile birlikte cerrahidir; kist içeriğinin sızması anafilaksi riski taşır."
+sozlu_sorular:
+  - "Hidatik kiste neden biyopsi yapılmaz?"
+  - "Cerrahide skolisisit solüsyonların amacı nedir?"
+  - "PAIR prosedürü hangi hastalarda tercih edilir?"

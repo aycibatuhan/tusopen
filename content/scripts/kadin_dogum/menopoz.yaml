@@ -1,0 +1,46 @@
+id: menopoz
+version: 1
+status: draft
+author: ai-drafts/kadin_dogum-2
+sources:
+- NAMS/IMS menopoz hormon tedavisi pozisyon bildirisi — referans olarak listelendi, metin projesi özgün
+  yazımdır
+ad: Menopoz
+taksonomi:
+- - ktbt
+  - kadin_dogum
+  - kd_ureme_fizyolojisi
+  - kd_uf_menopoz
+tipik_hasta: 45-55 yaş kadını; sıcak basmaları ve gece terlemeleriyle uykusu bölünen, vajinal kuruluk
+  ve ilişkide ağrı tarif eden, adetleri seyrekleşip son 12 ayda hiç gelmemiş hasta; 40 yaşından önce bu
+  tabloyu yaşayan hasta prematür over yetmezliği olarak ayrı değerlendirilir
+patofizyoloji: 'Overdeki follikül rezervinin tükenmesi: östrojen ve inhibin B üretimi düşer, hipofize
+  giden negatif geri bildirim kalkar ve FSH belirgin yükselir. Östrojen kaybı kemik rezorpsiyonunu hızlandırır,
+  vazomotor ısının düzenini bozar ve urogenital dokularda atrofi yaratır'
+anahtar_bulgular:
+- Kesintisiz 12 ay amenore (tanı geriye dönük konur)
+- Sıcak basması ve gece terlemesi (vazomotor bulgular)
+- Vajinal kuruluk, dispareni, tekrarlayan idrar yolu enfeksiyonu (urogenital atrofi)
+- Uyku bozukluğu, duygudurum dalgalanması, odaklanma güçlüğü
+- Serum FSH yüksekliği ile birlikte düşük östradiol
+patognomonik: null
+ilk_tetkik: Tanı büyük ölçüde klinik; şüphede serum FSH ölçülür. Gebelik testi, TSH ve prolaktin ile diğer
+  amenore nedenleri dışlanır; erken menopozda kemik yoğunluğu (DEXA) değerlendirmesi eklenir
+kesin_tani: 12 ay kesintisiz amenore artı karakteristik klimakterik bulgular; yüksek FSH ile desteklenir.
+  40 yaş altında erken menopoz için iki ayrı ölçümde yüksek FSH beklenir ve östrojen tedavisi ortalama
+  menopoz yaşına kadar sürdürülür
+ilk_tedavi: 'Orta-şiddetli vazomotor ve urogenital bulgularda en etkili tedavi hormon replasmanı (HRT);
+  uterusu olan hastaya östrojene mutlaka progestojen eklenir (endometriyum koruması). Kontraindikasyon
+  mantığı: meme veya östrojene bağımlı kanser öyküsü, aktif venöz tromboemboli, karaciğer hastalığı, açıklanamayan
+  vajinal kanama; yalnız urogenital bulgularda sistemik risk almadan lokal (vajinal) östrojen yeterlidir'
+klasik_komplikasyon: Osteoporoz ve kırık riski; urogenital atrofiye bağlı tekrarlayan üriner enfeksiyon;
+  menopoz sonrası kardiyovasküler risk artışı
+tus_gecmisi:
+- tus-2015-ilkbahar-ktbt-118
+- tus-2016-sonbahar-ktbt-117
+- tus-2017-sonbahar-ktbt-120
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

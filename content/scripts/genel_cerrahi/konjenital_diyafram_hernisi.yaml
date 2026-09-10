@@ -1,0 +1,48 @@
+id: konjenital_diyafram_hernisi
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-3
+sources:
+- Ashcraft Pediatrik Cerrahi
+- AAP neonatal cerrahi bakım kılavuzu
+ad: Konjenital Diyafram Hernisi
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_pediatrik_cerrahi
+  - gc_pc_diyafram_hernisi
+tipik_hasta: 'Yenidoğan; çoğu olgu sol tarafta ve arka-yan yerleşimlidir (Bochdalek, en sık ve en ağır
+  tip): doğumdan ilk saatlerde artan solunum sıkıntısı ve oksijene dirençli siyanozla gelir. Morgagni
+  tipi (ön-orta yerleşim, daha çok sağ) sessiz seyreder, geç başvurur veya ileri yaşta tesadüfen bulunur;
+  gebelikte polihidramnios öyküsü sık'
+patofizyoloji: 'Embriyonik gelişimde pleuroperitoneal membranların diyaframı tamamlamasındaki bozukluk,
+  diyaframda kalıcı bir defekt bırakır; karın organları göğüs boşluğuna girer ve gelişmekte olan akciğeri
+  sıkıştırıp herni tarafında belirgin pulmoner hipoplazi yaratır. Doğumda akciğer damar direnci yeterince
+  düşmediğinden persistan pulmoner hipertansiyon gelişir: kan foramen ovale ve duktus arteriyozus düzeyinde
+  sağdan sola şantlar, siyanoz derinleşir; asıl ölüm riski buradan gelir'
+anahtar_bulgular:
+- Doğum sonrası ilk saatlerde ilerleyen solunum sıkıntısı ve oksijene dirençli siyanoz
+- Göğüs boşluğunda duyulan bağırsak sesleri; sol defektte kalp karşıya (sağa) kaymıştır, solunum sesleri
+  azalmıştır
+- Karının çökük (skafoid) olması (organların göğse taşınması)
+- 'Prenatal USG: toraksta barsak ansı görünümü ve polihidramnios'
+- 'Postnatal toraks grafisi: göğüs içinde barsak hava boşlukları ve mediasten kayması'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Toraks grafisinde göğüs boşluğu içinde bağırsak hava boşlukları ve mediastenin karşıya kayması
+ilk_tetkik: Prenatal dönemde USG ve gerekirse fetal MR ile önceden bilinir; doğum salonunda toraks grafisi
+  (nazogastrik tüpün göğüs boşluğuna girdiği görülür)
+kesin_tani: 'Toraks grafisi: göğüs boşluğunda sindirim kanalı görüntüleri ve nazogastrik tüp seyri; karışan
+  olgularda üst gastrointestinal kontrast çalışması'
+ilk_tedavi: 'Doğum cerrahi merkezde planlanır; önce stabilizasyon, sonra cerrahi: entübasyon ve nazogastrik
+  dekompresyon, nazik ventilasyon (yüksek frekanslı oksijenasyon), persistan pulmoner hipertansiyonda
+  solunum yoluyla nitrik oksit, yetersizlikte ECMO; hasta klinik olarak stabil olunca defekt onarılır
+  (primer dikiş veya yama); acil cerrahi değil, hazırlık önce'
+klasik_komplikasyon: Persistan pulmoner hipertansiyon ve pulmoner hipoplazi; eşlik eden konjenital kalp
+  hastalığı; ileri dönemde gastroözofageal reflü, beslenme güçlüğü ve skolyoz
+tus_gecmisi:
+- tus-2020-sonbahar-ktbt-51
+- tus-2021-sonbahar-ktbt-102
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

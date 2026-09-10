@@ -1,0 +1,10 @@
+id: fiz_kan_pihtilasma
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pıhtılaşma Yolları"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_pihtilasma]
+metin: "İç yol negatif yüklü yüzeylerde faktör 12 ile başlar ve aPTT ile ölçülürken, dış yol doku faktörüyle başlar ve PT ile izlenir; iki yol faktör 10'da birleşir. Trombin fibrinojeni fibrine çevirir ve faktör 13 fibrini çapraz bağlar; 2, 7, 9 ve 10. faktörler K vitaminine bağlı sentezlenir, fibrinolizi ise plazmin gerçekleştirir."

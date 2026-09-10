@@ -1,0 +1,51 @@
+id: rektum_kanseri
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-3
+sources:
+- NCCN Rectal Cancer Guideline
+- Sabiston Textbook of Surgery
+ad: Rektum Kanseri
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_kolon_rektum_anus
+  - gc_kol_rektum_kanseri
+tipik_hasta: 'Elli yaş üstü, makattan taze kanamayla gelen hastadır; kanama dışkıya karışmamıştır, tuvalet
+  kağıdında ve iç çamaşırında parlak kırmızı kan olarak anlatılır (tanga mantığı: kanama dışkıdan ayrı
+  ve dışa yakındır). Tenesmus, gaita çapının incelmesi, mukuslu gaita ve dijital muayenede ele gelen kitle
+  tabloyu tamamlar; alt GİS kanamasında asıl tehlikeli neden bu tümör olduğundan anal kanamada önce dışlanmalıdır'
+patofizyoloji: 'Adenom-karsinom dizisi kolon kanseriyle aynıdır (APC, KRAS ve p53 mutasyonlarının birikimi).
+  Rektumu ayrıcalıklı kılan anatomik yerleşimidir: dar pelvis içinde mesane, üreme organları ve sakrumla
+  bitişiktir; bu yüzden tümörün duvar dışına sirküferensiyel yayılımı ve mezorektal fasya ile ilişkisi
+  cerrahinin kaderini belirler. Lenfatik drenaj mezorektal düğümlere doğrudur; üst rektum portal dolaşımla
+  karaciğere, alt rektum sistemik dolaşımla önce akciğere metastaz yapabilir'
+anahtar_bulgular:
+- Gaita üzerine bulaşan taze kan, mukuslu gaita, tenesmus (boşaltılamama hissi), gaita çapının incelmesi
+- Dijital rektal muayenede ele gelen sert, ülserli kitle; parmağa kan bulaşması — muayene basit ama değerlidir
+- Pelvik MRG'de tümörün duvar içi derinliği (T evresi), mezorektal fasyaya uzaklığı (sirküferensiyel sınır)
+  ve düğüm durumu — evrelemenin temelidir
+- CEA tanıda değil, tedavi sonrası nüks izleminde değerlidir
+- İleri evrede obstrüksiyon belirtileri ve pelvik organ invazyonu (mesane, vajina) belirtileri
+patognomonik: null
+ilk_tetkik: 'Dijital rektal muayene, ardından tam kolonoskopi ve biyopsi; senkron kolon tümörünü dışlamak
+  için kolonun tamamı incelenir. Evreleme kolondan farklıdır: yerel evreleme pelvik MRG ile yapılır, uzak
+  hastalık için batın BT ve akciğer görüntülemesi istenir'
+kesin_tani: Kolonoskopik biyopside adenokarsinom; evreleme pelvik MRG ile yerel, BT ile uzak hastalık
+  yönünden tamamlanır
+ilk_tedavi: 'Rektum kanserinde tedavi kolondan farklıdır: lokal ileri (T3 ve üzeri, düğüm pozitif ya da
+  mezorektal fasya tehdidi) hastada önce neoadjuvan radyokemoterapi verilir, tümör küçültülür ve cerrahi
+  sınırlar güvene alınır; sonra total mezorektal eksizyon (TME) yapılır. Üst rektumda düşük anterior rezeksiyon,
+  anal kanala yakın tümörde abdominoperineal rezeksiyon (kalıcı kolostomi). Erken (T1) tümörde direkt
+  cerrahi ya da seçilmiş hastada lokal eksizyon yeterlidir; adjuvan kemoterapi evre 3''te verilir'
+klasik_komplikasyon: Pelvik organlara invazyon (mesane-vajina fistülü), obstrüksiyon ve perforasyon; kolona
+  göre daha sık lokal nüks
+tus_gecmisi:
+- tus-2018-ilkbahar-ktbt-88
+- tus-2018-sonbahar-ktbt-87
+- tus-2019-sonbahar-ktbt-83
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

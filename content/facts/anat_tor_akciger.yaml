@@ -1,0 +1,53 @@
+id: anat_tor_akciger
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akciğer lobları ve bronş ağacı
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_toraks
+  - anat_tor_akciger
+metin: Sağ akciğer üç lob (üst, orta, alt) ve iki fissuralı (oblik + yatay), sol akciğer iki lob (üst,
+  alt) ve tek oblik fissuralıdır; sol üst lobun altında kardiyak notch ve lingula yer alır. Sağ ana bronş
+  kısa, geniş ve daha dik seyirlidir; yabancı cisim aspirasyonu bu nedenle daha sık sağ ana bronşa düşer.
+  Ana bronşlar hilusta lobar, bunlar da segmental (üçüncül) bronşlara ayrılır; her bronkopulmoner segment
+  kendi bronşu ve pulmoner damar dalıyla bağımsız cerrahi birimdir.
+gorsel:
+  dosya: Bronchopulmonary_segments.png
+  kaynak: https://commons.wikimedia.org/wiki/File:Bronchopulmonary_segments.png
+  lisans: Public domain (PD, no machine-readable author; Arcadian assumed)
+  yazar: Arcadian
+  etiketler:
+  - ad: Sağ üst lob segmentleri
+    x: 24
+    y: 15
+    w: 10
+    h: 10
+  - ad: Sağ orta lob (lateral-medial)
+    x: 31
+    y: 48
+    w: 13
+    h: 10
+  - ad: Sağ alt lob (bazal segmentler)
+    x: 13
+    y: 60
+    w: 26
+    h: 15
+  - ad: Sol üst lob (apikoposterior)
+    x: 79
+    y: 16
+    w: 10
+    h: 10
+  - ad: Lingula
+    x: 58
+    y: 45
+    w: 10
+    h: 17
+  - ad: Sol alt lob (bazal segmentler)
+    x: 59
+    y: 62
+    w: 22
+    h: 10

@@ -1,0 +1,10 @@
+id: gc_tp_sivi_elektrolit
+version: 1
+status: draft
+author: "ai-drafts/cerrahi-facts"
+sources:
+  - "Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Cerrahi Hastada Sıvı-Elektrolit Yönetimi"
+taksonomi:
+  - [ktbt, genel_cerrahi, gc_temel_prensipler, gc_tp_sivi_elektrolit]
+metin: "Yetişkinde günlük bazal sıvı ihtiyacı yaklaşık 30-35 mL/kg, sodyum ve potasyum ihtiyacı yaklaşık 1-2 mEq/kg/gün'dür; idame sıvısı Holliday-Segar hesabıyla ilk 10 kg için saatte 4 mL, ikinci 10 kg için saatte 2 mL ve 20 kg üzerindeki her kilogram için saatte 1 mL olarak verilir. Cerrahi stres antidiüretik hormon ve aldosteron salgısını artırarak su-sodyum retansiyonuna yol açar; postoperatif dönemde hipotonik sıvılarla aşırı serbest su verilmesi dilüsyonel hiponatremiye neden olduğu için izotonik çözeltiler tercih edilir. Kanama, peritonit gibi üçüncü boşluk kayıpları ve insensible kayıplar (yaklaşık 10 mL/kg/gün, ateşin her 1 derece artışında yüzde 10 artar) eksiği hesaplarken mutlaka eklenmelidir. Potasyum periferik damaryolundan saatte 10 mEq'yu aşmayacak hızda ve yeterli idrar çıkışı sağlandıktan sonra verilir; hipokalemide ilk bulgular kas güçsüzlüğü ve ileus, ağır olguda aritmidir."

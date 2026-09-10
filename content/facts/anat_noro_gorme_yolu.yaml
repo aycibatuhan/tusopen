@@ -1,0 +1,10 @@
+id: anat_noro_gorme_yolu
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Görme yolu lezyonları"
+taksonomi:
+  - [ttbt, anatomi, anat_noroanatomi, anat_noro_gorme_yolu]
+metin: "Optik sinir lezyonu tek gözde körlük, kiasma lezyonu (örneğin hipofiz adenomu) bitemporal hemianopi yapar. Optik traktus veya radyasyon lezyonu karşı tarafta homonim hemianopi verir; temporal lobda Meyer löku lezyonu karşı üst kadran kaybı, parietal lob lezyonu ise karşı alt kadran kaybı yapar. Posterior serebral arter infarktında oksipital kutbun çift beslenmesi nedeniyle makula korunur (makula sparing)."

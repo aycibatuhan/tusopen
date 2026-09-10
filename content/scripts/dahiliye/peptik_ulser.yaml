@@ -1,0 +1,94 @@
+id: peptik_ulser
+version: 1
+status: draft
+author: ai-drafts/dahiliye-5
+sources:
+- ACG kılavuzu — Treatment of Helicobacter pylori Infection (Am J Gastroenterol 2024, Chey ve ark.)
+- ACG/CAG dispepsi kılavuzu ile AAFP 2023 peptik ülser derlemesi
+- Maastricht VI (Fortaza) H. pylori uzlaşısı 2022
+ad: Peptik Ülser Hastalığı
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_gastroenteroloji
+  - dah_gis_peptik_ulser
+tipik_hasta: Orta yaşta haftalardır süren, tekrarlayan epigastrik ağrıyla gelen erişkin; ağrı
+  açlıkta ve gecede artıp yemek ya da antasidle yatışan düzende duodenal ülser, yemekle
+  artan ağrı ve kilo kaybı ise gastrik ülser düşündürür; sigara içen, ailesinde ülser öyküsü
+  olan ve özellikle aspirin ya da NSAID kullanan hastalarda risk belirgin yükselir; melena,
+  hematemez ya da ani yaygın karın ağrısıyla komplikasyon tablosunda da başvurabilir
+patofizyoloji: Mukoza bütünlüğü saldırı (asit ve pepsin) ile savunma (mukus-bikarbonat
+  bariyeri, mukozal kan akımı, prostaglandinler, epitel onarımı) arasındaki dengeyle korunur;
+  Helicobacter pylori antrumda kolonize olur, ürez aktivitesiyle ürettiği amonyakla asitten
+  kaçar ve kronik aktif gastrit yapar; antral gastrit somatostatin salgılayan D hücrelerini
+  baskılayınca gastrin yükselir, asit sekresyonu artar ve bu asit yükü duodenal mukozada
+  gastrik metaplazi üzerinden duodenal ülser zemini hazırlar; korpus tutulumu ise atrofik
+  gastrit ve intestinal metaplaziye giderek gastrik ülser ve mide kanseri riskini yükseltir.
+  NSAIDler COX-1 inhibisyonuyla prostaglandin sentezini azaltır; mukus ve bikarbonat
+  üretimi, mukozal kan akımı ve epitel yenilenmesi bozulur, savunma çökünce asit-pepsin
+  mukozayı eritir; iki etkenin bir arada bulunması kanama riskini altı kattan fazla artırır
+anahtar_bulgular:
+- Epigastriyumda kazıyıcı ya da yakan nitelikte tekrarlayan ağrı; duodenal ülsere özgü
+  olarak açlıkta ve gecede artar, yemek ya da antasidle yatışır
+- Gastrik ülserde ağrı yemekle artar; iştahsızlık, erken doyma ve kilo kaybı eşlik edebilir
+- Aspirin ya da NSAID kullanımı, sigara içimi ve birinci derece akrabada ülser öyküsü
+  başlıca risk etmenleridir
+- Noninvaziv H. pylori testlerinde pozitiflik; üre nefes testi ve dışkı antijen testi
+  hem tanıda hem iyileşme değerlendirmesinde kullanılır, seroloji ise eski enfeksiyonla
+  aktif enfeksiyonu ayırt edemez
+- Üst endoskopide derinliği olan, keskin kenarlı, düz tabanlı yuvarlak mukoza defekti;
+  gastrik ülserde malignite dışlamak için kenar ve tabandan biyopsi alınır
+- Kronik kanama izleri olarak demir eksikliği anemisi ve pozitif gaita gizli kanı
+- Komplikasyon tabloları — melena ya da hematemez ile kanama, ani yaygın tahta gibi
+  sert karın ve diafragma altında serbest hava ile perforasyon, bol kusma ile gastrik
+  çıkış obstrüksiyonu
+patognomonik: Peptik ülsere özgü bir laboratuvar bulgusu yoktur; hastalığı tanımlayan bulgu
+  üst endoskopide derinliği olan, keskin kenarlı ülser defektinin doğrudan görülmesidir
+ilk_tetkik: Altmış yaş altında alarm bulgusu olmayan dispepside önce noninvaziv H. pylori
+  testi (üre nefes testi ya da dışkı antijeni) ile test ve tedavi stratejisi; tam kan sayımı
+  ile anemi taraması; alarm bulguları (ileri yaşta yeni başlayan dispepsi, kilo kaybı,
+  gastrointestinal kanama, disfagi, tekrarlayan kusma, demir eksikliği anemisi, palpe
+  edilebilir kitle) saptanırsa ya da NSAID kullanımı söz konusuysa doğrudan üst endoskopi
+kesin_tani: Üst endoskopide ülserin görülmesi ve H. pylori varlığının üre nefes testi,
+  dışkı antijen testi ya da biyopsi hızlı ürez yöntemiyle gösterilmesi; gastrik ülserde
+  malignite dışlanması için biyopsi zorunludur. İşlevsel dispepsi ve gastroözofageal reflü
+  benzer sunum yapar; ileri yaş, alarm bulgusu yokluğu ve endoskopik ülserin gösterilmesi
+  ayırımı sağlar
+ilk_tedavi: H. pylori pozitif hastada 14 gün süreyle eradikasyon; ilk seçenek optimize
+  bizmut dörtlü tedavidir (günde iki kez PPI, günde dört kez bizmut ile tetrasiklin
+  ve 3-4 doza bölünmüş toplam 1.5-2 g metronidazol) ve penisilin allerjisinde de yeğlenir;
+  Penisilin allerjisi olmayan seçkin hastada 14 gün rifabutin üçlü tedavi ya da potasyum
+  kompetitif asit blokerli çift tedavi ampirik alternatiftir; klaritromisin direnci
+  yüzde 20-30 düzeyine çıktığından PPI-klaritromisinli üçlü tedavi ampirik ilk basamakta
+  önerilmez, klaritromisin ya da levofloksasin içeren kurtarma rejimleri ancak duyarlılık
+  doğrulanırsa kullanılır. H. pylori negatif ülserde NSAID kesilir ve PPI başlanır (duodenal
+  ülsere 4-8 hafta, gastrik ülsere 8 hafta); NSAID bırakılamıyorsa COX-2 seçici ajan ile
+  PPI birlikteliği tercih edilir. Tüm tedavi alanlarda iyileşme doğrulanır — tedavi bitiminden
+  en az 4 hafta sonra üre nefes testi ya da dışkı antijen testi (PPI 2 hafta, bizmut ve
+  antibiyotikler 4 hafta önce kesilir); gastrik ülserde 8-12 hafta sonra kontrol endoskopisi
+  ile biyopsi tekrarlanır
+klasik_komplikasyon: Üst gastrointestinal kanama (en sık; melena ve hematemez), özellikle
+  duodenal ülser ön duvardan perforasyon (ani yaygın peritonit, diafragma altında serbest
+  hava), piylorik bölge ödemi ya da skarı ile gastrik çıkış obstrüksiyonu (bol kusma,
+  dalga dalga peristaltizm, kusma sonrası rahatlama) ve pankreasa penetrasyon
+ayirici:
+- hastalik: gord
+  ayirt_edici: Önde göğüste yükselen yanma, ekşite gelen regürjitasyon ve özofagus kaynaklı
+    şikayetler vardır; açlıkta artıp yemekle yatışan epigastrik ağrı düzeni peptik ülserin
+    aksine beklenmez, endoskopide ülser defekti yerine distal özofagusta erosif özofajit
+    ya da normal görünüm saptanır
+- hastalik: mide_kanseri
+  ayirt_edici: Alarm bulguları önde gider — kilo kaybı, yutma güçlüğü, erken doyma,
+    tekrarlayan kusma, demir eksikliği anemisi ve ileri yaş; endoskopide ülser kenarları
+    kalın, düzensiz ve çökük tabanlıdır, biyopsi adenokarsinomu gösterir; benign peptik
+    ülser keskin kenarlı ve düz tabanlıdır
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-89
+- tus-2017-sonbahar-ktbt-87
+- tus-2019-ilkbahar-ktbt-12
+- tus-2021-ilkbahar-ktbt-85
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: true
+  ayirici: true

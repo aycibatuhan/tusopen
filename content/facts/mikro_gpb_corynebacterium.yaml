@@ -1,0 +1,10 @@
+id: mikro_gpb_corynebacterium
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Corynebacterium diphtheriae tanı yöntemleri"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_corynebacterium]
+metin: "Corynebacterium diphtheriae gram pozitif çomaktır; Löffler serum besiyerinde metakromatik granüller gösterir (Albert/Neisser boyasıyla) ve telurit besiyerinde siyah koloniler verir. Toksin geni bakteriyofaj tarafından taşınır; toksin üretimi Elek testiyle, tox geni ise PCR ile saptanır."

@@ -1,0 +1,10 @@
+id: biyok_aam_ure_dongusu
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Üre Döngüsünün Düzenlenmesi"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_ure_dongusu]
+metin: "Üre döngüsünün hız kısıtlayıcı adımı, karbamoyl fosfat sentetaz 1'in amonyak ve karbondioksiti karbamoyl fosfata çevirdiği mitokondriyal reaksiyondur; N-asetilglutamat bu enzimin zorunlu aktivatörüdür. Döngüdeki herhangi bir enzimin eksikliği kan amonyağında yükselme ve hızla ilerleyen nörolojik bozulmayla seyreder. Arginin döngüye yeniden girdiği için bazı eksikliklerde arginin desteği amonyağın uzaklaştırılmasına yardımcı olur."

@@ -1,0 +1,30 @@
+id: wt-tus-2014-sonbahar-ttbt-116
+version: 1
+status: draft
+author: "ai-drafts/walkthroughs-1"
+sources:
+  - "Katzung Temel Klinik Farmakoloji, immünosüpresif ve hedefe yönelik ajanlar bölümü — referans olarak listelendi, metin özgün yazımdır"
+  - "NCCN meme kanseri kılavuzu, HER-2 hedefli tedavi bölümü — referans olarak listelendi, metin özgün yazımdır"
+soru_ref: tus-2014-sonbahar-ttbt-116
+sinanan_bilgi: "HER-2/neu reseptörünü aşırı ifade eden meme kanserlerinde hedefe yönelik tedavi, reseptörün hücre dışı bölgesine bağlanan insanize monoklonal antikor trastuzumab ile yapılır. İlaç adlandırma kalıbı da yol göstericidir: monoklonal antikorlar mab ekiyle, küçük moleküllü tirozin kinaz inhibitörleri tinib ekiyle biter."
+ipucu_turleri:
+  - "HER-2/nöu pozitif meme kanseri ifadesi: bu reseptörün antikorla hedeflenmesi tek ilaçla özdeşleşmiştir"
+  - "Monoklonal antikor denmesi: protein reseptöre karşı büyük molekül arandığını belli eder"
+  - "Seçeneklerde -mab ve -tinib eklerinin birlikte olması: sınıf ayrımını isim ekinden çözmek mümkündür"
+gurultu_turleri:
+  - "Bevasizumab da meme kanserinde kullanılan bir monoklonal antikordur; antikor sınıfına bakıp kalan seçeneği elemek, hedef reseptörü kontrol etmeyenleri eler"
+  - "Tümör tedavisi çerçevesi seçenekleri genel onkoloji havuzundan toplar; her seçenek kendi alanında ünlüdür ve yanlış ilişkilendirme kolaydır"
+mantik: "Bulmacanın çözümü iki katmanlıdır. Birinci katman hedef bilgisidir: meme kanserinde HER-2 reseptörünün aşırı ifadesi kötü gidişat işaretidir ve bu reseptörün hücre dışı kısmına bağlanan antikor, sinyali hem keser hem bağışıklık sistemini tümör hücresine çeker; bu işi yapan ajan trastuzumabtır. İkinci katman adlandırma disiplinidir: antikorlar mab ile biterken, hücre içi kinazları engelleyen küçük moleküller tinib ile biter; rituksimab ve bevasizumab da antikor olduğundan ek yöntemi tek başına yetmez, bu yüzden hedef bilgisinin devreye girmesi şarttır. Her seçeneğin kendi hedefini yazmak tabloyu tamamlar: damar beslenmesini hedefleyen antikor, lösemi hücresi yüzey işaretçisine bağlanan antikor, proteazomu kıran ve küçük molekül kinaz inhibitörü ayrı sınıflardır. Hedef ve molekül tipi çakıştırıldığında yalnız bir seçenek hem antikor hem HER-2 kriterlerini aynı anda karşılar."
+celdirici_kavramlar:
+  - kavram: "Bevasizumabı HER-2 antikoru sanmak"
+    neden_yanlis: "Bevasizumab damar içi endotel büyüme faktörüne bağlanarak tümör damarlanmasını baskılar; hedefi HER-2 değildir ve meme kanseri dışında kolorektal tümörlerde de kullanılır."
+    dogru_oldugu_durum: "Kanser damarlanmasının antiyojenez yöntemiyle baskılanması sorulduğunda."
+  - kavram: "İmatinibi monoklonal antikor sanmak"
+    neden_yanlis: "İmatinib hücre içi BCR-ABL füzyon kinazını engelleyen küçük moleküllü bir tirozin kinaz inhibitörüdür; antikor değildir ve bağışıklık yoluyla hücre öldürmez."
+    dogru_oldugu_durum: "Kronik miyeloid lösemi veya gastrointestinal stromal tümörde hedefli kinaz inhibisyonu sorulduğunda."
+  - kavram: "Rituksimabı meme kanseri tedavisine bağlamak"
+    neden_yanlis: "Rituksimab B lenfosit yüzeyindeki CD20 işaretçisine bağlanır; kullanım alanı lenfoma ve bazı otoimmün hastalıklardır, meme kanseri hedefi değildir."
+    dogru_oldugu_durum: "CD20 pozitif B hücre lenfomalasında antikora dayalı tedavi arandığında."
+  - kavram: "Bortezomibi reseptör antikoru sanmak"
+    neden_yanlis: "Bortezomib proteazom yıkım makinesini engelleyen küçük moleküllü ajanlardandır; reseptöre bağlanmaz, monoklonal antikor da değildir."
+    dogru_oldugu_durum: "Multipl miyelomda proteazom inhibisyonu sorulduğunda."

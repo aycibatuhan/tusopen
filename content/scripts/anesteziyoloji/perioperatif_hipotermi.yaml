@@ -1,0 +1,25 @@
+id: perioperatif_hipotermi
+version: 1
+status: draft
+author: "ai-drafts/anestezi-2"
+sources:
+  - "NICE CG65: perioperatif hipotermi önleme ve yönetim kılavuzu — referans olarak listelendi, metin projesi özgün yazımdır"
+  - "AAGBI perioperatif ısı yönetimi standardları — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Perioperatif Hipotermi
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_hipotermi]
+tipik_hasta: "Uzun süren genel anestezi altındaki hasta; açık karın veya göğüs kavitesi olan ameliyat, düşük ameliyathane ısısı, soğuk infüzyon ve kan ürünü verilen, yaşlı ya da düşük vücut kütlesi, yanık, sepsis ya da hipotiroidizmi olan hasta; rejyonel anestezide termoregülasyon baskılandığı için spinal-epidural anestezide de risk artar"
+patofizyoloji: "Genel anestezi soğuk savunma eşiklerini (periferik vazokonstriksiyon ve titreme eşikleri) aşağı kaydırır; periferik vazodilatasyonla çekirdek ısısı perifere yeniden dağılır ve ilk saatte çekirdek ısısı 1-1.5 derece düşer. Sonrasında açık kavite ve hazırlanan deriden buharlaşma, soğuk serum ve kan ürünü, düşük oda ısısı ısı kaybını sürdürür. Vücut eşikler baskılandığı için normotermiye savunma üretemez; ısı dengesi tamamen dışarıdan yönetilir"
+anahtar_bulgular:
+  - "Özefagus veya mesane probuyla ölçülen çekirdek vücut ısısının 36 derecenin altına inmesi"
+  - "Uyanma döneminde titreme (postanestezik shivering); titreme oksijen tüketimini ve CO2 üretimini belirgin artırır"
+  - "Cerrahın kanama artışı fark etmesi, transfüzyon ihtiyacının artması: hipotermiye bağlı koagülopati"
+  - "Anestezi ve kas gevşetici etkisinin beklenmedik biçimde uzaması, gecikmiş uyanma"
+  - "PACU'da uzamış gözlem süresi ve konfor kaybı"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Anestezi altındaki hastada özefageal/mesane probuyla ölçülen çekirdek ısının 36 derecenin altına inmesi"
+ilk_tetkik: "Anestezi başlangıcından itibaren çekirdek ısı izlemi (özefagus veya mesane; aksiller ve deri ölçümü yeterli değildir)"
+kesin_tani: "Anestezi bağlamında çekirdek vücut ısısının 36 derecenin altına inmesi; hafif derece kabul edilir, derin düşüşte kardiyak aritmi ve bilinç değişikliği eklenir"
+ilk_tedavi: "Isı dengesini dışarıdan düzeltme: ısı kaybını kesmek (pasif örtüleme yalnızca yeterli değildir) ve ısı eklemek için zorunlu hava ısıtma sistemi; verilen infüzyon ve kan ürünlerinin ısıtıcıdan geçirilmesi; mümkünse ameliyathane ısısını artırmak ve hastayı önceden ısıtmak (prewarming). Kurulan titremede küçük doz meperidin veya klonidin düşünülebilir"
+klasik_komplikasyon: "Hipotermiye bağlı koagülopati (trombosit fonksiyon bozukluğu ve pıhtılaşma kaskadının yavaşlaması) ile kanama ve transfüzyon artışı; cerrahi alan enfeksiyonunda artış; miyokard iskemisi riskinde artış; uzamış ilaç etkisi ve gecikmiş uyanma"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

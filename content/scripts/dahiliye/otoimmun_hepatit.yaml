@@ -1,0 +1,37 @@
+id: otoimmun_hepatit
+version: 1
+status: draft
+author: batuhanayci
+sources:
+- 'Klinik rehberler: otoimmün hepatit (AASLD, EASL, IAIHG) — referans olarak listelendi, metin projesi
+  özgün yazımdır'
+ad: Otoimmün Hepatit
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_hepatoloji
+  - dah_hep_otoimmun
+tipik_hasta: Orta yaş kadında kronik transaminaz yüksekliği; daha nadir hızlı ilerleyen veya fulminan
+  tabloda da gelebilir; diğer otoimmün hastalıklarla birlikte (overlap) görülür
+patofizyoloji: Genetik yatkınlıkta bir tetikleyici antijene karşı düzenlenemeyen hücresel ve humoral otoimmün
+  yanıt; tip 1'de ANA/ASMA, tip 2'de anti-LKM-1 belirleyici
+anahtar_bulgular:
+- Serum IgG yüksekliği
+- ANA veya ASMA pozitifliği (tip 1); anti-LKM-1 (tip 2)
+- Histolojide arayüzepitel (interface) hepatit ve plazma hücreleri
+- Viral serolojiler negatif
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Arayüzepitel hepatiti histolojisi + IgG yüksekliği birlikte
+ilk_tetkik: İmmünglobulin profili (IgG), otoantikor paneli ve viral hepatit serolojilerinin dışlanması
+kesin_tani: IAIHG skorlama sistemiyle klinik-biyokimya-seroloji-histoloji bütünleşmesi; karaciğer biyopsisi
+ilk_tedavi: Prednizon(ol), yanıt alınca azatioprin eklenerek steroid tasarrufu
+klasik_komplikasyon: Siroza ilerleme; kronik veya ağırlaşan transaminaz yüksekliğinde öz yıkım ve transplantasyon
+  ihtiyacı
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-64
+- tus-2018-ilkbahar-ktbt-14
+- tus-2019-sonbahar-ktbt-14
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: true
+  ayirici: false

@@ -1,0 +1,10 @@
+id: anat_ue_kol_sinirleri
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Üst ekstremite sinir lezyonları"
+taksonomi:
+  - [ttbt, anatomi, anat_ust_ekstremite, anat_ue_kol_sinirleri]
+metin: "Humerus gövde kırığında radial sinir zarar görürse el bileği düşer (wrist drop); motor kusur baskındır, el sırtı duyu kaybı küçük bir alandadır. Ulnar sinir lezyonunda interosseus ve hipotenar kaslar etkilenir, 4. ve 5. parmaklarda pençe el ve pozitif Froment işareti görülür. Aksiller sinir lezyonu deltoid paralizisi ve lateral omuz duyu kaybı yapar."

@@ -1,0 +1,60 @@
+id: sosyal_anksiyete
+version: 1
+status: draft
+author: ai-drafts/psikiyatri-4
+sources:
+- DSM-5-TR — Sosyal Anksiyete Bozukluğu (sosyal fobi) tanı ölçütleri (referans olarak listelendi, metin
+  projesi özgün yazımdır)
+- 'Klinik rehberler: NICE Sosyal Anksiyete Bozukluğu Kılavuzu (referans olarak listelendi, metin projesi
+  özgün yazımdır)'
+ad: Sosyal Anksiyete Bozukluğu
+taksonomi:
+- - ktbt
+  - psikiyatri
+  - psik_anksiyete
+  - psik_an_sosyal_fobi
+tipik_hasta: Genellikle ergenlik döneminde ya da erken erişkinlikte başlayan, sınıfta söz almaktan, sunum
+  yapmaktan, yabancılarla konuşmaktan, ortak alanda yemek yemekten veya kamera önüne çıkmaktan kaçınan
+  hasta; kızarmaktan, titremekten, saçma görünmekten korkar. 'Utangaçlık' damgasıyla yıllarca geçiştirilmiş
+  olabilir, okul ya da meslek seçimleri kaçınmaya göre şekillenmiştir; alkolle 'kendi kendini tedavi'
+  öyküsü güçlü ipucudur
+patofizyoloji: 'Sosyal değerlendirme içeren durumlarda amigdala aktivasyonu abartılıdır, prefrontal denetim
+  yetersiz kalır; serotonerjik işlev bozukluğu ve davranışsal inhibisyon (erken çocukluktan seçilebilen,
+  kalıtsal yatkınlığı olan utangaç mizaç) zemini hazırlar. Kaçınma davranışı korkuyu kısa vadede söndürdüğü
+  için döngüyü pekiştirir: kaçınan hastanın korktuğu ''küçük düşme'' senaryosu hiç test edilemediği için
+  bilişsel inançlar sağlam kalır ve korku genelleşir'
+anahtar_bulgular:
+- Yargılanma ya da küçük düşme olasılığı olan sosyal durumlarda belirgin kaygı ve kaçınma; belirtiler
+  6 aydan uzun sürer
+- 'Korkulan belirtiler başkalarınca fark edilecek niteliktedir: yüz kızarması, el ve ses titremesi, çarpıntı,
+  terleme'
+- 'Performans tipi: korku yalnızca konuşma, sunum ya da sahne performansı gibi durumlarla sınırlıdır;
+  diğer günlük sosyal alışverişlerde hasta rahattır, bu yüzden kariyer kısıtlanır ama günlük yaşam bozulmaz'
+- 'Genelleşmiş tip: çoğu sosyal temasta kaygı, arkadaşlık kurulamaması ve belirgin işlev kaybı'
+- Belirtiler durumdan çıkınca ya da alkol alınınca azalır; panik atak benzeri sıkıntı olabilir ama tablo
+  her zaman durum-bağlantılıdır
+patognomonik: null
+ilk_tetkik: Klinik görüşme temeldir; mini-SPIN ya da Liebowitz ölçeğiyle taranır ve derecelendirilir.
+  Depresyon, panik bozukluk ve madde kullanımı sorgulanır; kaçınmanın otizm spektrum bozukluğu ya da kültürel
+  normlarla açıklanamadığı doğrulanır; intihar riski değerlendirilir
+kesin_tani: DSM-5-TR ölçütlerine göre başkalarının inceleyebileceği bir ya da birden fazla sosyal durumda
+  belirgin korku-kaygı; belirtilerin başkaları tarafından fark edilecek nitelikte olması, durumdan kaçınma
+  ya da yoğun sıkıntıyla katılma, kaygının gerçek tehditle orantısız olması, 6 aydan uzun sürmesi ve belirgin
+  sıkıntı ya da işlev kaybı yaratması; tablonun madde, tıbbi durum ya da başka psikiyatrik bozuklukla
+  açıklanamaması; korku yalnızca performans durumlarıyla sınırlıysa 'yalnız performans' belirteci yazılır
+ilk_tedavi: 'Genelleşmiş tabloda SSRI (sertralin, paroksetin, eskitalopram) ilk seçenektir; etkisi haftalarca
+  gecikir ve kademeli maruziyet içeren bilişsel davranışçı terapiyle birlikte verilir. Yalnız performans
+  tipinde mantık farklıdır: sorun durum-sınırlıdır, etkinlik öncesi tek doz beta bloker (propranolol)
+  titreme, çarpıntı ve kızarma gibi periferik belirtileri bastırıp konuşmayı kurtarır; burada günlük antidepresan
+  çoğu zaman gereksizdir. Benzodiazepin etkinlik öncesi tek doz alternatifidir ama bağımlılık riski nedeniyle
+  ilk seçenek değildir'
+klasik_komplikasyon: Erken başlayıp kronikleşme, eğitim ve meslekte kayıp, alkolle kendi kendini tedavi
+  ve madde kullanım bozukluğu, depresyon eklenmesi
+tus_gecmisi:
+- tus-2015-sonbahar-ktbt-35
+- tus-2019-sonbahar-ttbt-102
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

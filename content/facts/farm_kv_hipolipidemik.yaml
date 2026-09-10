@@ -1,0 +1,10 @@
+id: farm_kv_hipolipidemik
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Statin Etki ve Yan Etkileri"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_hipolipidemik]
+metin: "Statinler HMG-CoA redüktazı inhibe ederek karaciğerde kolesterol sentezini azaltır; karaciğer buna yanıt olarak LDL reseptör sayısını artırır ve kandaki LDL belirgin düşer. Kas ağrısından rabdomiyolize uzanan miyopati ve karaciğer enzim yükselmesi tanınan yan etkilerdir."

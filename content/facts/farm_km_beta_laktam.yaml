@@ -1,0 +1,10 @@
+id: farm_km_beta_laktam
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Beta-laktam Etki ve Direnç"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kemoterapotik, farm_km_beta_laktam]
+metin: "Beta-laktamlar bakteri hücre duvarındaki transpeptidaz enzimlerini bloke ederek peptidoglikan sentezini durdurur; etki bakterisiddir. Bakterilerin ürettiği beta-laktamaz enzimleri direnç sağlar; klavulanik asit gibi inhibitörler bu enzimi etkisizleştirerek amoksisilinin etki alanını genişletir. Penisilin ve sefalosporinler arasında alerjik çapraz reaksiyon olasılığı vardır."

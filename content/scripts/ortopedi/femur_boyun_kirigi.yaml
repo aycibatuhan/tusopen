@@ -1,0 +1,25 @@
+id: femur_boyun_kirigi
+version: 1
+status: draft
+author: "ai-drafts/ortopedi"
+sources:
+  - "Rockwood and Green's Fractures in Adults"
+  - "Campbell's Operative Orthopaedics"
+ad: Femur Boyun Kırığı
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_femur_boynu]
+tipik_hasta: "İki uçlu hasta grubu: yerden yükselmeden düşme gibi düşük enerjili travma sonrası gelen yaşlı osteoporotik kadın; trafik kazası veya yüksekten düşme gibi yüksek enerjili travma ile gelen genç erişkin; ayrıca yük vermeyle artan kasık ağrısı olan koşucu ya da yeni askerde stres kırığı olasılığı düşünülmeli"
+patofizyoloji: "Femur başının kanlanması esas olarak derin femoral arterden çıkan medial sirkumfleks femoral arterin retinaküler dallarıyla, boyun boyunca retrograd seyreden damarlarla sağlanır; yuvarlak bağdaki damar erişkinde önemsizdir. Kırık kapsül içinde (intrakapsüler) yerleştiği için bu damarlar kopabilir ya da eklem içi hematom damarları bası ile tıkayabilir; bu nedenle yer değiştirmiş kırıklarda baş beslenmesi ciddi risk altındadır. Sınıflamada Garden yer değiştirmenin derecesini, Pauwels ise kırık çizgisinin düşeyliğini (kesme kuvvetinin ağırlığı) tarif eder; kırık çizgisi düşe yaklaştıkça kayma ve kaynamama riski artar"
+anahtar_bulgular:
+  - "Travma sonrası kasıkta (inguen) ağrı; hasta uzuv üzerine yük veremez, ayağa kalkamaz"
+  - "Yer değiştirmiş kırıkta bacak kısalır ve dışa (eksternal) döner; her hareket denemesi ağrılıdır"
+  - "Aksiyel basınçta ve bacağı içe-dışa döndürmede (log roll) kalçada ağrı"
+  - "Garden tip 1-2 (valgus impakte veya yer değiştirmemiş) kırıklarda hasta yürüyebildiği için tanı atlanabilir; şüphede grafi yenilenmeli"
+  - "Genç hastada güçlü travma öyküsü; stres kırığında istirahatte geçen, yük vermeyle artan kasık ağrısı"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Yer değiştirmiş kırıkta kısalık ve eksternal rotasyonla gelen ağrılı, kullanılamayan uzuv tablosu"
+ilk_tetkik: "Pelvis ön-arka ve etkilenen kalçanın lateral grafileri; klinik şüphe güçlü olup grafi normal ise MRG en duyarlı tetkiktir, yapılamıyorsa BT"
+kesin_tani: "Direk grafi; gizli (okült) kırıklarda MRG"
+ilk_tedavi: "Erken cerrahi (ideal olarak ilk 24-48 saat): yaşlı hastada yer değiştirmiş kırıkta eklem protezi (hemiartroplasti veya total kalça), yer değiştirmemiş kırıkta kannüle vidalarla fiksasyon; genç hastada başı korumak için acil kapalı redüksiyon ve kannüle vida osteosentezi, düşey kırıklarda (Pauwels tip 3) açı plak gibi ek fiksasyon seçenekleri"
+klasik_komplikasyon: "Femur başı avasküler nekrozu ve kaynamama (nonunion) — yer değiştirmiş kırıklarda risk belirgin yüksek; ayrıca derin ven trombozu ve uzun dönemde protez sorunları"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

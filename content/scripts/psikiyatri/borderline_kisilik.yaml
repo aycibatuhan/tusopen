@@ -1,0 +1,26 @@
+id: borderline_kisilik
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-3"
+sources:
+  - "DSM-5-TR — Kişilik Bozuklukları (Borderline Kişilik Bozukluğu) tanı ölçütleri (referans olarak listelendi, metin projesi özgün yazımdır)"
+  - "Klinik rehberler: NICE borderline kişilik bozukluğu kılavuzu ve APA kişilik bozuklukları önerileri (referans olarak listelendi, metin projesi özgün yazımdır)"
+ad: Borderline Kişilik Bozukluğu (B kümesi)
+taksonomi:
+  - [ktbt, psikiyatri, psik_kisilik, psik_kb_b_kumesi]
+tipik_hasta: "Ergenlik sonu-erken erişkinlikte göze batan, genç kadın klasik imge olmakla birlikte her iki cinsiyette de görülen hasta; klinik örüntü ilişkilerdeki fırtınadır: hızla başlayan yoğun yakınlık, küçük bir kopuklukta değer düşüşü ve öfke patlaması. Kendine zarar verme (bilek kesme, yanma) ve yinelenen, ölümcül olmayan 'yardım çığlığı' nitelikli intihar girişimleriyle acile sık uğrar; boşluk duygusu 'içim boş' gibi tanımlanır. Öyküde çoğu kez erken dönem duygusal ihmal ya da taciz, duyguların geçersiz kılındığı (invalidating) büyüme ortamı ve ailede duygudurum bozukluğu bulunur"
+patofizyoloji: "Kabul görmüş açıklama biyososyal modeldir: kalıtsal biyolojik yatkınlık (duygusal düzenleme eşiğinin düşüklüğü; amigdala hiperaktivitesi ile prefrontal baskılayıcılığın zayıflaması) ile duyguların sürekli geçersiz sayıldığı büyüme ortamının birleşmesi. Serotonin düzeni bozukluğu dürtüsellik-agresyonla, dopamin düzeni ödül hassasiyeti ile ilişkilendirilir; birinci derece akrabalarda risk yaklaşık 5 kat artmıştır. Ağrıya endojen opioid yanıtı değişmiştir; bu, kendine zarar vermenin 'rahatlatıcı' hissini açıklamaya çalışır"
+anahtar_bulgular:
+  - "Terk edilme korkusu: gerçek ya da hayali terk edilmekten çıldıracak kadar korkma; küçük ayrılıklar yoğun tepkiyi tetikler"
+  - "Kararsız-yoğun ilişkiler: idealizasyon ile değer düşüşü arasında hızlı sıçrayan örüntü (bölünme); insanlar ya iyi ya da kötü olarak görünür"
+  - "Kimlik bozukluğu: kendini algılama hızla değişir, değerler-hedefler-arkadaş seçiminde süreklilik yok; kronik boşluk duygusu önde"
+  - "Dürtüsellik: en az iki alanda kendine zarar verecek ölçüde (harcama, cinsellik, madde, pervasız araba kullanma, tıkınırcasına yeme); yinelenen kendine zarar verme davranışı, intihar gösterileri ve girişimleri (çoğu ölümcül olmayan ama gerçek ölüm riski önemli)"
+  - "Duygudurum instabilitesi: birkaç saatten uzun süren ama günden güne değişen yoğun disfori-öfke-kaygı atakları; uygunsuz yoğun öfke, öfke kontrolünde güçlük"
+  - "Stres altında geçici paranoid düşünce ya da ağır disosiyatif belirtiler (gerçek dışı olma, kendinden kopuk hissetme); kriz geçince düzelir"
+patognomonik: null
+ilk_tetkik: "Tanı ayrıntılı psikiyatrik değerlendirme ve yapılandırılmış görüşme araçlarıyla (SCID-5-PD) konur; kişilik örüntüsünün erken erişkinlikten beri en az iki bağlamda (iş, ilişkiler) sürmesi vurgulanır. Ayırıcı değerlendirme: bipolar bozukluk (epizodik-atımlı tablo ile kronik boşluk-instabilite ayrımı), major depresyon, madde kullanım bozukluğu, travma öyküsü (TSSB eş tanısı sık); intihar ve kendine zarar riski ile akut krizdeki paranoid-disosiyatif durumlar ayrıntılı sorgulanır"
+kesin_tani: "DSM-5-TR ölçütleri: erken erişkinlikte başlayıp çeşitli bağlamlarda süren, instabilite örüntüsü; 9 ölçütten en az 5'inin bulunması: terk edilmekten çıldıracak korku çabaları, kararsız-yoğun ilişkiler (idealizasyon-değer düşüşü), kimlik bozukluğu, en az iki alanda dürtüsel-kendine zarar verici davranış, yinelenen intihar girişimi-gösterisi-kendine zarar verme, reaktif ve saatler süren duygudurum instabilitesi, kronik boşluk duygusu, uygunsuz yoğun öfke, stresle ilgili geçici paranoid düşünce ya da ağır disosiyatif belirtiler; örüntü başka bir ruhsal durum ya da maddeyle açıklanamaz"
+ilk_tedavi: "Temel tedavi uzun vadeli psikoterapidir; en iyi kanıtlanmış model diyalektik davranışçı terapidir (DBT): bilişsel davranışçı köklerden gelişen, bireysel terapi artı grup beceri eğitimi (duygusal düzenleme, sıkıntıya tolerans, kişilerarası etkinlik, farkındalık) artı telefon desteği artı terapist danışma ekibinden oluşur; mentalizasyon temelli terapi ve şema terapisi de kanıtlı seçeneklerdir. Kriz yönetimi: güvenlik planı, kendine zarar davranışında sınırların tutarlı ve şefkatli çizilmesi, sık hastaneye yatışlardan kaçınma (davranışı pekiştirebilir). Kendine özgü ilaç onayı yoktur; ilaçlar yalnızca eşlik tablolar ve geçici belirtiler içindir: SSRI'lar depresif belirtilerde, düşük doz antipsikotikler stres kaynaklı paranoid düşünce-öfke patlamalarında düşünülür"
+klasik_komplikasyon: "İntihar (hastaların yaklaşık yüzde 10'u ölümle sonuçlanır) ve yinelenen kendine zarar verme; madde kullanım bozukluğu ve yeme bozuklukları eşlik eder; terapötik ilişkinin kopması ve iatrojenik krizler; iş-işlevsellikte dalgalanma, tablonun kronikleşmesi"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

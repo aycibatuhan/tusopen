@@ -1,0 +1,44 @@
+id: akne_vulgaris
+version: 1
+status: draft
+author: ai-drafts/dermatoloji-2
+sources:
+- Amerikan Dermatoloji Akademisi (AAD) Akne Tedavi Rehberi
+- Habif Klinik Dermatoloji
+ad: Akne Vulgaris
+taksonomi:
+- - ktbt
+  - dermatoloji
+  - derm_akne_sebase
+  - derm_ak_akne_vulgaris
+tipik_hasta: Puberte çağındaki ve 20'li yaşlardaki genç; sebum üretiminin yüksek olduğu yüz, sırt, omuz
+  ve göğüs derisi; kadında adet düzensizliği, hirsutismus veya beklenmedik derecede ağır/dirençli tablo
+  varsa hiperandrojenizm (polikistik over sendromu dahil) mutlaka düşündürülür
+patofizyoloji: 'Dört bileşenli mekanizma: androjen etkisiyle sebum artışı, foliküler kanalın anormal keratinizasyonu
+  (mikrokomedon oluşumu), kanaldaki Cutibacterium acnes çoğalması ve bunun tetiklediği inflamatuar kaskad;
+  zamanla komedon papül, püstül, nodül ve skar spektrumuna ilerler'
+anahtar_bulgular:
+- Kapalı komedon (beyaz nokta) ve açık komedon (siyah nokta)
+- İnflamatuar papül ve püstüller
+- Derin, ağrılı nodül ve kistler (nodülokistik tip)
+- Sebase bölgelerde yağlı cilt
+- İyileşen lezyon yerinde postinflamatuar hiperpigmentasyon, atrofik iz veya keleoid
+- 'Şiddet sınıflaması: komedonal (hafif), papül püstüllü (orta), nodül kistli (ağır)'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Açık ve kapalı komedonların birlikte görülmesi
+ilk_tetkik: Klinik inceleme yeterli; kadında virilizasyon veya adet düzensizliği varsa total ve serbest
+  testosteron, DHEA-S ve polikistik over değerlendirmesi
+kesin_tani: 'Klinik: sebase dağılımlı komedon ve inflamatuar lezyonların varlığı; biyopsi gerekmez'
+ilk_tedavi: Hafif komedonal tabloda topikal retinoid (adapalen veya tretinoin); hafif-orta inflamatuar
+  tabloda topikal retinoid artı topikal antibiyotik, benzoil peroksit ile kombine edilerek direnç gelişimi
+  önlenir; orta-ağır tabloda oral doksisiklin artı topikal retinoid; nodülokistik, skar bırakan veya dirençli
+  olgularda oral izotretinoin; kadında hormonal bileşen saptanırsa kombine oral kontraseptif veya spironolakton
+klasik_komplikasyon: 'Kalıcı atrofik skar ve keleoid, postinflamatuar pigmentasyon, psikososyal etki;
+  izotretinoin teratojeniktir: gebelikten tam korunma zorunlu (tedavi başlangıcından en az bir ay önce
+  ve sonrasında etkili kontrasepsiyon) ve lipid ile karaciğer enzimleri izlenir'
+tus_gecmisi:
+- tus-2021-ilkbahar-ttbt-120
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

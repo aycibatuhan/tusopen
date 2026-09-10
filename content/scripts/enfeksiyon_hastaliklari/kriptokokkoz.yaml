@@ -1,0 +1,58 @@
+id: kriptokokkoz
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-3
+sources:
+- 'Klinik rehberler: WHO kriptokokkal menenjit kılavuzu, IDSA kriptokokkozis tedavi kılavuzu — referans
+  olarak listelendi, metin projesi özgün yazımdır'
+ad: Kriptokokkoz
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_mantar
+  - enf_mn_kriptokokkoz
+tipik_hasta: CD4 hücre sayısı yüzün altına düşen HIV enfeksiyonlu hasta, organ nakli alıcısı ya da uzun
+  süreli kortikosteroid kullanan; güvercin dışkısıyla (gübre) temasta olan; haftalarca ilerleyen subakut
+  baş ağrısı, ateş ve bilinç-karakter değişikliğiyle başvuran baskılanmış bağışıklıklı hasta; HIV'li olguda
+  meningeal irritasyon bulgularının hafif seyretmesi ve ateşsiz dönemlerin bulunması tanıyı geciktirir
+patofizyoloji: Cryptococcus neoformans; polisakkarit kapsülle (glukuronoksilomannan) çevrili bir mayadır
+  ve doğada güvercin dışkısında bol bulunur. Kuru dışkıdan havayla alınan etken akciğerde çoğunlukla belirtisiz
+  bir odak kurar; hücresel bağışıklık yetersizse kan yoluyla beyin-omurilik zarlarına ve beyin dokusuna
+  yayılır. Kapsül fagositozu bastırır ve dolaşımda antijen olarak ölçülür — antijen testinin (CrAg) temeli
+  budur. Menenjit kronik seyreder; omurilik sıvısının etkin absorpsiyonunu bozarak belirgin intrakraniyal
+  basınç artışı yapar, beyin parankiminde jelatinimsi sahte kistler (kriptokokoma) oluşturur
+anahtar_bulgular:
+- İleri HIV (CD4 yüzün altında) hastasında haftalarca süren subakut baş ağrısı ve ateş; ense sertliği
+  hafif ya da yok
+- Beyin omurilik sıvısında lenfosit ağırlıklı hücre artışı, düşük glukoz, hafif yüksek protein; özellikle
+  açılış basıncının belirgin yükselmesi
+- Mürekkep (Hindistan mürekkebi) negatif boyamasında kapsül halesi — siyah zemin içinde çevresi parlak
+  haleli maya hücreleri
+- Serum ve beyin omurilik sıvısında kriptokok antijeninin (CrAg, lateks aglutinasyon) yüksek duyarlılıkla
+  pozitifliği
+- 'Merkezi sinir sistemi dışı tutulum: akciğer nodülü-konsolidasyon, ciltte damarlık benzeri (molluskum
+  benzeri) papüller, kemik odakları'
+patognomonik: Mürekkep negatif boyamasında kapsül halesiyle kapsüllü maya hücresinin beyin omurilik sıvısında
+  gösterilmesi
+ilk_tetkik: Lomber ponksiyon (açılış basıncı, hücre sayımı, glukoz, protein, mürekkep boyası, antijen)
+  ve serum CrAg; HIV'li hastada CD4 sayımı; yer tutucu lezyon ve basınç yönünden kontrastlı beyin manyetik
+  rezonans görüntülemesi
+kesin_tani: Beyin omurilik sıvısı ya da dokuda Cryptococcus türlerinin kültürde ya da histolojik olarak
+  gösterilmesi; beyin omurilik sıvısı antijen pozitifliği yüksek duyarlılığıyla tanıyı tek başına taşıyabilir
+ilk_tedavi: 'İndüksiyon (ilk iki hafta): amfoterisin B artı flusitozin kombinasyonu; konsolidasyon (sekiz
+  hafta): yüksek doz flukonazol; bakım tedavisi: flukonazol, CD4 hücre sayısı yüzü aşıp kalıcı hale gelene
+  dek en az bir yıl. Belirgin intrakraniyal basınç artışında tekrarlanan lomber ponksiyonla sıvı boşaltılır.
+  Antiretroviral tedavi genellikle indüksiyon tamamlandıktan sonra başlanır ve bağışıklık rekonstitüsyon
+  iltihabi sendromu yönünden izlem yapılır'
+klasik_komplikasyon: 'Kronik basınç artışının sonuçları: görüş siniri atrofisiyle kalıcı görme kaybı ve
+  hidrosefalus; tedavinin kesilmesi ya da basınç yönetiminin eksikliğiyle relaps; tedavi başlangıcında
+  bağışıklık rekonstitüsyon iltihabi sendromu'
+tus_gecmisi:
+- tus-2016-sonbahar-ttbt-69
+- tus-2017-sonbahar-ttbt-70
+- tus-2020-sonbahar-ttbt-69
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

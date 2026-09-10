@@ -1,0 +1,10 @@
+id: pat_gis_ibh
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnflamatuar Bağırsak Hastalıkları"
+taksonomi:
+  - [ttbt, patoloji, pat_gis, pat_gis_ibh]
+metin: "Ülseratif kolit rektumdan proksimale uzanan kesintisiz, mukozayla sınırlı yüzeyel inflamasyonla gider; kript apseleri, goblet hücre kaybı ve pseudopolipler tipik olup uzun sürede toksik megakolon ve kolorektal karsinom riski artar. Krohn hastalığında ağızdan anüse her segment tutulabilir; sağlıklı alanlarla serpiştirilmiş transmural inflamasyon, kazeöz olmayan granülomlar, fistüller ve terminal ileum tutulumuna bağlı B12 eksikliği görülür. Ülseratif kolitte p-ANCA, krohn hastalığında ise anti-Saccharomyces cerevisiae antikorları daha sık pozitiftir."

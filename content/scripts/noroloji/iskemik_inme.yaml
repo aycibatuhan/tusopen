@@ -1,0 +1,59 @@
+id: iskemik_inme
+version: 1
+status: draft
+author: ai-drafts/noroloji
+sources:
+- AHA/ASA Akut İskemik İnme Yönetimi Rehberi (2019)
+- Adams and Victor's Principles of Neurology
+ad: İskemik İnme
+taksonomi:
+- - ktbt
+  - noroloji
+  - noro_serebrovaskuler
+  - noro_sv_iskemik_inme
+tipik_hasta: 'Orta-ileri yaşta, hipertansiyon, diyabet, atriyal fibrilasyon, dislipidemi veya sigara öyküsü
+  olan hasta; dakikalar içinde doruğa ulaşan, bir damar bölgesine uyan negatif (fonksiyon kaybı) belirtilerle
+  gelir: yüz-kol ağırlıklı parezi, dilsizlik, görsel alan kaybı, yan bakma tercihleri'
+patofizyoloji: 'Beyin dokusunun arteriyel perfüzyon kaybı. Etyoloji TOAST sınıflamasıyla düzenlenir: büyük
+  damar aterosklerozu, kardiyak kaynaklı emboli (özellikle atriyal fibrilasyon), küçük damar hastalığı
+  (lakan), diğer belirlenmiş nedenler (disseksiyon, trombofili) ve belirlenemeyen. İskemi çekirdeği (geri
+  döndürülemez) ile penumbra (kurtarılabilir doku) ayrımı reperfüzyon tedavilerinin mantığını kurar'
+anahtar_bulgular:
+- 'Ani başlayan, damar bölgesine uyan deficit: hemiparezi, dilsizlik, hemianopsi, yüz-kol tutulumu'
+- 'NIHSS özeti: bilinç ve yönelim, göz hareketleri ve konjuge bakma deviasyonu, görme alanları, yüz parezisi,
+  her ekstremitede 0-4 üzerinden motor güç, ataksi, duyu kaybı, ihmal (inattansiyon), dilsizlik ve disartri
+  puanlanır; toplam 0-42'
+- 'Kardiyak kaynak şüphesi: düzensiz nabız (atriyal fibrilasyon), birden fazla vasküler bölgede infarkt
+  izleri'
+- 'Lakan sendromları: salt motor (kapsüla/beyin sapı), salt duyu (talamus), dilsizlik-parezi el tutulumu
+  kombinasyonları'
+- 'Hiperakut kontrastsız CT''de hafif bulgular: insülar ribbon belirginliğinin kaybı, gri-beyaz madde
+  ayrımının bulanıklaşması'
+patognomonik: Tek başına patognomonik bulgu yok; ani başlangıç ve damar bölgesine uyan negatif belirtiler
+  örüntüyü tanımlar
+ilk_tetkik: Kanamayı dışlamak için acil kontrastsız kraniyal bilgisayarlı tomografi; eş zamanlı kan şekeri,
+  elektrolitler, trombosit sayısı, INR ve 12 derivasyonlu EKG. CT anjiyografiyle büyük damar tıkanıklığı
+  araştırılır
+kesin_tani: Kontrastsız CT kanamayı dışlar; MR'da difüzyon kısıtlanması (DWI-ADC uyumsuzluğu) iskemiyi
+  kesinleştirir. Etyoloji için boyun damar Doppler ultrasonu, ekokardiyografi ve en az 24-72 saatlik ritim
+  izlemi ile TOAST sınıflamasına göre neden saptanır
+ilk_tedavi: 'Zaman penceresi mantığı: son iyi bilinen andan itibaren 4,5 saat içinde ve kanama dışlanmışsa
+  damar içi tromboliz (alteplaz veya tenekteplaz); büyük damar tıkanıklığında çekirdek-penumbra uyumsuzluğu
+  gösterilirse trombektomi 24 saate kadar uzar. Tromboliz öncesi tansiyon 185/110 altına çekilmelidir;
+  tromboliz yapılmıyorsa asetilsalisilik asit ilk 24-48 saatte, yapıldıysa 24 saat beklenerek başlanır.
+  Tromboliz uygulanan hastada sonrasında hedef 180/105 mmHg altıdır; permissive hipertansiyon yalnızca reperfüzyon yapılmayan (trombolize aday olmayan) hastada, genellikle 220/120 altında kabul edilebilir, glukoz ve vücut ısısı kontrol edilir, inme ünitesine
+  yatış sağlanır. Sekonder korunma: antiagregan, yüksek doz statin, atriyal fibrilasyonda oral antikoagülan;
+  semptomatik karotis darlığında yüzde 70 üzerindeki darlıkta endarterektomi'
+klasik_komplikasyon: Malign orta serebral arter ödemi ve herniasyon (genç ve geniş infarktlı hastada),
+  kanamalı dönüşüm, aspirasyon pnömonisi, derin ven trombozu, post-inme depresyon
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-34
+- tus-2015-sonbahar-ktbt-32
+- tus-2018-sonbahar-ktbt-32
+- tus-2019-ilkbahar-ktbt-39
+- tus-2020-ilkbahar-ktbt-32
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

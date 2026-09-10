@@ -1,0 +1,10 @@
+id: biyok_aa_hemoglobinopati
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Orak Hücre Anemisinin Moleküler Temeli"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_hemoglobinopati]
+metin: "Beta globin zincirinin 6. pozisyonundaki glutamik asit, nokta mutasyonla valinle değişmiştir; bu tek değişiklik deoksijenize hemoglobinin polimerize olup eritrositi oraklaştırmasına yol açar. Elektroforezde HbS, HbA'dan daha yavaş göç eder ve heterozigotlarda her iki bant birlikte görülür. Heterozigotluk sıtmaya karşı koruyucu olduğu için mutasyonun bazı bölgelerde sık kalması dengeleyici polimorfizme örnektir."

@@ -1,0 +1,56 @@
+id: mezenter_iskemisi
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-3
+sources:
+- WSES Guidelines on Acute Mesenteric Ischemia
+- Sabiston Textbook of Surgery
+ad: Akut Mezenter İskemisi
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ince_barsak
+  - gc_ib_mezenter_iskemi
+tipik_hasta: 'Ağrısı muayene bulgularından çok daha güçlü gelen hastadır: karın ağrısı şiddetli ve aniden
+  başlamıştır ama karın muayenesi ilk saatlerde neredeyse sakin bulunur — bu uyumsuzluk hastalığın imzasıdır.
+  Arkaplan tipiktir: atrial fibrilasyon, yakın miyokard infarktı, düşük debi (şok, diyaliz) durumu ya
+  da aterosklerotik damar hastalığı olan yaşlı hasta'
+patofizyoloji: 'En sık mekanizma üst mezenterik artere (SMA) embolidir: kalpten kopan pıhtı (fibrilasyon,
+  infarkt, kapak hastalığı) arterin köke yakın kısmına, orta kolik dalın distaline oturur; ilk jejunal
+  ve orta kolik dalların korunması tıkanma sınırının emboliyi düşündürdüğünü gösterir. Tromboz aterosklerotik
+  plak üstünde gelişir, arteri kökten tıkar ve bu hastada yemek sonrası ağrı-kilo kaybıyla seyreden kronik
+  mezenter iskemisi öyküsü olur. Düşük debi durumlarında damar açıkken de beslenme bozulur (nonoklüzif
+  mezenter iskemisi). Tıkanmayla bağırsak önce spazmlanır, sonra mukoza hasarı ve kanamalı nekroz ilerler;
+  laktat yükselmesi nekrozu işaret eder ve geçtir — tanı gecikirse bağırsak yıkımı kaçınılmazdır'
+anahtar_bulgular:
+- Ani başlayan şiddetli karın ağrısı; başlangıçta karın muayenesi neredeyse normal (ağrı ile muayene bulgularının
+  uyumsuzluğu)
+- Laktat yükselmesi, lökositoz, metabolik asidoz; başlangıçta laktat normal olabilir, normal değer hastalığı
+  dışlamaz
+- BT anjiyografide üst mezenterik arterin oklüzyonu; bağırsak duvarında incelme, pneumatozis ve portal
+  ven gazı ileri evre bulgusudur
+- Atrial fibrilasyon, yakın miyokard infarktı ya da düşük debi durumu; kronik mezenter iskemisi öyküsü
+  (yemek sonrası ağrı, kilo kaybı) trombozu düşündürür
+- Kusma ve boş defekasyon başlangıç belirtileri olabilir; peritonit bulguları geç dönemde, bağırsak infarktının
+  işaretidir
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Ağrının şiddeti ile muayene bulgularının uyumsuzluğu (ağrı çok, karın sakin)
+ilk_tetkik: Şüphe duyulduğunda BT anjiyografi — vakit kaybetmeden istenir; laboratuvarda laktat, tam kan,
+  kan gazı, amilaz ve LDH. Laktatın normal olması hastalığı dışlamaz, yükselmesi ilerlemeyi gösterir
+kesin_tani: BT anjiyografide oklüzyonun gösterilmesi; peritonit gelişen ya da görüntüleme belirsiz kalan
+  hastada tanısal laparoskopi-laparotomi — tanıyı geciktirmemek esastır
+ilk_tedavi: 'Acil revaskülarizasyon: embolektomi ya da baypas; seçilmiş hastada endovasküler tromboliz.
+  Heparin ve geniş spektrumlu antibiyotik verilir. Laparotomide canlı bağırsak korunur, canlılığı belirsiz
+  segmentler için 24-48 saat içinde ikinci bakış (second look) laparotomi planlanır; nekrotik segment
+  rezeksiyon edilir'
+klasik_komplikasyon: Bağırsak infarktı ve perforasyon, peritonit, septik şok; geniş rezeksiyon sonrası
+  kısa bağırsak sendromu
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-103
+- tus-2015-ilkbahar-ktbt-98
+- tus-2019-sonbahar-ktbt-88
+- tus-2020-sonbahar-ktbt-91
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

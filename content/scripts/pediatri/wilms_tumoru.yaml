@@ -1,0 +1,53 @@
+id: wilms_tumoru
+version: 1
+status: draft
+author: ai-drafts/pediatri-3
+sources:
+- Nelson Textbook of Pediatrics (böbrek tümörleri bölümü) — referans olarak listelendi, metin projesi
+  özgün yazımdır
+- Children's Oncology Group böbrek tümörleri rehberi (National Wilms Tumor Study mirası)
+ad: Wilms Tümörü
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_onkoloji
+  - ped_onk_wilms
+tipik_hasta: Üç-dört yaş civarındaki, başka yönlerden sağlıklı görünen çocuk; banyo ya da rutin muayene
+  sırasında fark edilen karın kitlesiyle gelen; tansiyon yüksekliği ya da idrarda kan da tanıyı düşündürür;
+  aniri, ürogenital anomaliler, makroglosi-omfalosel ya da vücut yarım asimetrisi (hemihipertrofi) gibi
+  sendrom özellikleri taşıyan olgular öncelikle izlenir
+patofizyoloji: Embriyonik böbrek dokusundan (metanefrik blastema) kaynaklanan nefroblastom; WT1 tümör
+  baskılayıcı genindeki kayıplar sendromlu olguların temelini oluşturur. Böbreği yerinden iten, kapsülle
+  çevrili, hızla büyüyen tek odaklı kitle; kapsül bütünlüğü bozulursa hastalık evresi yükselir — bu yüzden
+  cerrahi öncesi biyopsi yapılmaz. Tümörün renin üretimi ve böbrek parankim basısı hipertansiyon yapar;
+  renal ven ve alt toplardamar içine uzanan tümör pıhtısı görülebilir
+anahtar_bulgular:
+- Ağrısız, sert, düzgün yüzeyli karın kitlesi; böbreğin yerinde kalması nedeniyle orta hattı genellikle
+  geçmez
+- Hipertansiyon (renin aracılı) — çocuklarda rutin tansiyon ölçümü tanıyı düşündürür
+- Mikro ya da makroskopik hematüri; karın ağrısı ve ateş
+- 'Sendromlu olgularda: aniri (irisin yokluğu ya da eksikliği), ürogenital anomaliler ve gelişme geriliği
+  (Denys-Drash ve WAGR birliktelikleri), makroglosi-omfalosel-viseromegali (Beckwith-Wiedemann)'
+- 'Metastaz (en sık akciğer): öksürük, nefes darlığı; alt toplardamara uzanan pıhtıda damar tıkanıklığı
+  bulguları'
+patognomonik: Tipik bulgu (patognomonik değildir) — Ağrısız, sert, düzgün yüzeyli ve orta hattı geçmeyen karın kitlesi
+ilk_tetkik: Karın ultrasonografisi (kitlenin böbrekten kaynaklandığını ve renal ven-alt toplardamar ilişkisini
+  gösterir); ardından kontrastlı bilgisayarlı tomografi ya da MRG; akciğer metastazı için akciğer grafisi
+kesin_tani: Radikal nefrektomi materyalinin histopatolojik incelemesi; cerrahi öncesi biyopsi yapılmaz
+  (kapsül ihlali evreyi kötüleştirir). Örneklemede anaplasinin varlığı prognozu belirler
+ilk_tedavi: Radikal nefrektomi ve lenf düğümü örneklemesi; evreye göre adjuvan kemoterapi (aktinomisin
+  D ve vinkristin temelli rejimler); yüksek evrelerde radyoterapi; iki taraflı tümörde böbrek koruyucu
+  cerrahi önceliklidir
+klasik_komplikasyon: Kapsül ya da tümör rüptürüyle evre atlaması (preoperatif biyopsi ve aşırı palpasyon
+  sakıncalı); akciğer ve karaciğer metastazı; renal ven-alt toplardamar tümör pıhtısı; iki taraflı ya
+  da sendromlu olgularda kronik böbrek yetmezliği riski
+tus_gecmisi:
+- tus-2016-ilkbahar-ktbt-108
+- tus-2019-sonbahar-ttbt-98
+- tus-2021-sonbahar-ktbt-66
+- tus-2021-sonbahar-ttbt-80
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

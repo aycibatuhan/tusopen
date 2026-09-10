@@ -1,0 +1,10 @@
+id: fiz_ureme_gebelik
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plasenta Hormonları"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_ureme, fiz_ureme_gebelik]
+metin: "Gebeliğin ilk yaklaşık 8-10 haftasında hCG korpus luteumu sürdürerek progesteron üretimini korur; bu süre sonunda plasenta progesteron ve östrojen üretimini devralır. Östrojen, aromataz etkisiyle fetal adrenal bezin salgıladığı DHEA sülfattan yapılırken, insan plasental laktogeni annede insülin direnci ve meme gelişimiyle ilişkilidir."

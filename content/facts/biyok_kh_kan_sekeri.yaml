@@ -1,0 +1,10 @@
+id: biyok_kh_kan_sekeri
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Diyabet Tanısında Laboratuvar Eşikleri"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_kan_sekeri]
+metin: "Açlık plazma glukozunun 126 mg/dl üstü, oral glukoz yükleme testinin ikinci saatinde 200 mg/dl üstü ya da HbA1c değerinin yüzde 6.5 üstü diyabet tanısı için yeterlidir. HbA1c son üç aylık ortalama glukozu yansıtır; eritrosit yaşam süresi kısaldığında yanlış düşük okunabilir. İnsülin ve glukagonun karşıt etkileri, karaciğerdeki glikojen ve glukoneojenik yolların karşılıklı düzenlenmesini belirler."

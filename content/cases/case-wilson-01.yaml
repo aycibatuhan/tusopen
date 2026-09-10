@@ -1,0 +1,46 @@
+id: case-wilson-01
+version: 1
+status: draft
+author: batuhanayci
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: wilson
+baslik: "Tremor ve karaciğer enzim yüksekliği olan genç erkek"
+adimlar:
+  - tip: sunum
+    metin: "22 yaşında erkek. Üç aydır ellerinde ince salınım, konuşmasında yavaşlama ve dikkat dağınıklığına benzer kişilik değişimi tanımlıyor. Son altı hafta halsizlik ve hafif gözde sararma. Muayenede ikter, hafif hepatomegali. Karaciğer değerleri: AST 180 U/L, ALT 150 U/L, ALP üst sınıra yakın, bilirubin 3.2 mg/dL. Hemogram: Hb 9.8 g/dL, MCV normal, retikülosit belirgin yüksek, haptoglobin düşük, doğrudan Coombs negatif."
+  - tip: secim
+    soru: "Genç hastada karaciğer hücre hasarı, Coombs negatif hemoliz ve ekstrapiramidal bulgular birlikte. İlk istenecek tetkik hangisidir?"
+    secenekler:
+      - metin: "Serum seruloplazmin ve 24 saatlik idrar bakırı"
+        dogru: true
+        geri_bildirim: "Genç yaşta karaciğer tutulumu + hemoliz + nöropsikiyatrik bulgular üçlüsü Wilson'ı başta düşündürür; tanısal araştırmanın ilk adımı non-invazif bakır metabolizma testleridir"
+      - metin: "Karaciğer biyopsisi"
+        dogru: false
+        geri_bildirim: "Kesin tanıda bakır miktarı için gerekir ama kanamaya eğilimli hastada ilk basamak değildir; önce tarama tetkikleri"
+      - metin: "Bilgisayarlı beyin tomografisi"
+        dogru: false
+        geri_bildirim: "Bu klinikte ilk neden motor kontrol bozukluğudur; beyaz cevher/bazal ganglion kaynaklıdır; BT hemoliz araştırmasına katkı sağlamaz"
+      - metin: "Serum ferritin ve transferrin satürasyonu"
+        dogru: false
+        geri_bildirim: "Demir metabolizma araştırmasıdır; bu tabloda normal beklenir, hemolizin nedenini açıklamaz"
+  - tip: sonuc
+    metin: "Seruloplazmin 6 mg/dL (düşük). 24 saatlik idrar bakırı belirgin artmış. Yarık lambayla kornea kenarında gri-yeşil halka (KF halkası) görülür."
+  - tip: secim
+    soru: "Bakır birikimi doğrulandı. Tanıyı kesinleştirmek ve tedaviyi başlatmak için doğru yaklaşım?"
+    secenekler:
+      - metin: "Karaciğer biyopsisinde bakır miktarı ve bakır kelasyon tedavisinin başlatılması"
+        dogru: true
+        geri_bildirim: "Biyopside kuru ağırlık başına bakır artışı kesin tanıyı sağlar; kelasyon (D-penisilamin/trientin) + düşük bakırlı diyet ilk tedavidir"
+      - metin: "Önce sintigrafi ile karaciğer kitlesi dışlanması"
+        dogru: false
+        geri_bildirim: "Bu tablo kitle hastalığı değildir; sintigrafi tanısal katkı sağlamaz"
+      - metin: "D-penisilamini dikkatli olmak için bekleterek sadece diyet düzenlemesi"
+        dogru: false
+        geri_bildirim: "Tanı kesinleştiğinde kelasyon geciktirilmez; geç başlanan tabloda kalıcı nörolojik hasar ve fulminan karaciğer yetmezliği riski artar"
+  - tip: ozet
+    metin: "Öğrenme noktaları: genç hasta + karaciğer tablosu + Coombs negatif hemoliz + ekstrapiramidal bulgular = Wilson akılda tutulmalı; ilk tetkik seruloplazmin ve idrar bakırı; KF halkası yarık lambada araştırılır; kesin tanı biyopside bakır miktarı/genetik; ilk tedavi kelasyon."
+sozlu_sorular:
+  - "Neden önce seruloplazmin istenir, biyopsi değil?"
+  - "Seruloplazmin normal gelirse tanıyı dışlar mısın?"
+  - "D-penisilaminin yan etkileri nelerdir?"

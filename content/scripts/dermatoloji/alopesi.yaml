@@ -1,0 +1,48 @@
+id: alopesi
+version: 1
+status: draft
+author: ai-drafts/dermatoloji-2
+sources:
+- AAD Alopesi Areata ve Androjenik Alopesi Tedavi Rehberleri
+- Habif Klinik Dermatoloji
+ad: Alopesi (Androjenik ve Areata)
+taksonomi:
+- - ktbt
+  - dermatoloji
+  - derm_kil_tirnak_ter
+  - derm_ktt_alopesi
+tipik_hasta: 'İki ayrı senaryo. Androjenik alopesi: aile öyküsü olan genç-orta yaş; erkekte alnın iki
+  yanından çekilme ve tepe seyrelmesi, kadında saç çizgisi korunurken tepede seyrelme (çoğu menopoz çevresinde
+  belirginleşir). Areata: çocuk ve genç yetişkin, ağrısız, ani bir sabah yuvarlak kel yamayla; kendisinde
+  veya ailesinde otoimmün hastalık öyküsü olabilir'
+patofizyoloji: 'Androjenik alopesi: foliküllerin dihidrotestosterona genetik duyarlılığı; anagen faz kısalır,
+  foliküller küçülür (miniyatürizasyon) ve terminal kıl vellus kıla döner. Areata: kıl bulbusunu hedef
+  alan T hücre aracılı otoimmün saldırı; peribulbar lenfositer infiltrat anagen folikülleri telogene iter;
+  tırnak çukurları eşlik edebilir'
+anahtar_bulgular:
+- 'Androjenik alopesi erkek: temporopariyal çekilme artı tepe seyrelmesi (Norwood evreleri)'
+- 'Androjenik alopesi kadın: tepe seyrelmesi, saç çizgisi korunur (Ludwig evreleri)'
+- 'Areata: keskin kenarlı, ağrısız, pullanmasız yuvarlak yamalar'
+- Yama kenarında dip tarafı incelmiş ünlem işareti kılları
+- Areata eşlik eden tırnak çukurları
+- Trichoskopide kıl çapı varyansı ve miniyatür kıllar (androjenik alopesi)
+patognomonik: Areata'da yama kenarındaki ünlem işareti (exclamation mark) kılları
+ilk_tetkik: Klinik ve trichoskopi çoğu olguyu tanır; karışık veya yaygın tabloda kafa derisi biyopsisi;
+  areata'da otoimmün eşlik için TSH ve anti-tiroit antikorları; kadında hızlı/bol dökülmede ferritin,
+  tiroid fonksiyonları ve androjen değerlendirmesi
+kesin_tani: Androjenik alopesi klinik ve trichoskopik tanı; areata klinik tanı, biyopside peribulbar lenfositer
+  infiltrat ve telogen folikül artışı görülür
+ilk_tedavi: 'Androjenik alopesi erkek: topikal minoksidil ve/veya oral finasterid (5-alfa redüktaz inhibitörü);
+  kadın: topikal minoksidil, menopoz sonrası veya polikistik over sendromunda spironolakton. Areata: sınırlı
+  yamada intralesiyonel triamsinolon asetonid veya potent topikal steroid; hızlı yaygın ve aktif hastalıkta
+  kısa kuşak sistemik steroid; yaygın dirençli tabloda topikal immünoterapi (difenilsiklopropenon)'
+klasik_komplikasyon: Areata'da alopesi totalis (kafa derisinin tamamı) ve universalis (tüm vücut kılları)
+  yayılımı; Hashimoto tiroiditi ve vitiligo gibi otoimmün eşlikler; androjenik alopeside esas sorun psikososyal
+  etki; finasterid teratojeniktir, gebe kadına verilmez
+tus_gecmisi:
+- tus-2018-ilkbahar-ktbt-31
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

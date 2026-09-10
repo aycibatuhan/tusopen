@@ -1,0 +1,10 @@
+id: fiz_sol_surfaktan
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sürfaktan ve Yüzey Gerilimi"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_surfaktan]
+metin: "Sürfaktan, alveollerin tip II hücrelerinde üretilen ve en önemli bileşeni dipalmitoilfosfatidilkolin (DPPC) olan bir lipoproteindir; alveol yüzey gerilimini düşürerek küçük alveollerin çökmesini önler ve kompliyansı artırır. Küçük alveollerde sürfaktan daha yoğun olduğu için etkinliği artar; prematüre bebekte sürfaktan eksikliği solunum distres sendromuna yol açar."

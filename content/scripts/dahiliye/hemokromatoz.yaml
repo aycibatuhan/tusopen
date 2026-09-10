@@ -1,0 +1,41 @@
+id: hemokromatoz
+version: 1
+status: draft
+author: batuhanayci
+sources:
+- 'Klinik rehberler: kalıtsal hemokromatoz (AASLD, EASL) — referans olarak listelendi, metin projesi özgün
+  yazımdır'
+ad: Kalıtsal Hemokromatoz
+taksonomi:
+- - ttbt
+  - patoloji
+  - pat_karaciger_safra
+  - pat_kc_metabolik
+- - ktbt
+  - dahiliye
+  - dah_metabolik_beslenme
+  - dah_met_hemokromatoz_wilson
+tipik_hasta: Orta yaşta (çoğunlukla erkek) diyabet, artralji, cilt koyulaşması, impotans/hipogonadizm
+  veya kardiyomiyopati ile gelen erişkin; ailede HFE mutasyonu taşıyıcılığı
+patofizyoloji: HFE gen mutasyonu (en sık C282Y homozigotluğu) hepcidin üretimini azaltır; bağırsaktan
+  demir emilimi düzenlenemez hale gelir ve demir hepatosit, pankreas adacıkları, eklem kıkırdağı, miyokard
+  ve hipofizde birikir
+anahtar_bulgular:
+- Serum ferritin ve transferrin satürasyonu yüksek
+- Diabetes mellitus + artralji + cilt koyulaşması
+- Dilate kardiyomiyopati, aritmiler
+- Hipogonadotropik hipogonadizm
+patognomonik: HFE C282Y homozigotluğu ile yüksek transferrin satürasyonu
+ilk_tetkik: Serum ferritin ve transferrin satürasyonu
+kesin_tani: HFE genetik testi; karaciğer biyopsisinde Perls boyası ile demir birikimi ve miktar ölçümü
+ilk_tedavi: Düzenli terapötik flebotomi (ferritin hedefe inene kadar)
+klasik_komplikasyon: Siroz geliştikçe hepatosellüler karsinom riskinde kalıcı artış
+tus_gecmisi:
+- tus-2018-ilkbahar-ktbt-15
+- tus-2021-sonbahar-ktbt-14
+- tus-2025-ilkbahar-ktbt-9
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: true
+  ayirici: false

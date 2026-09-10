@@ -1,0 +1,62 @@
+id: tip1_diyabet
+version: 1
+status: draft
+author: ai-drafts/pediatri-4
+sources:
+- ISPAD (Uluslararası Çocuk ve Ergen Diyabet Derneği) klinik uygulama kılavuzları — referans olarak listelendi,
+  metin özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: Tip 1 Diabetes Mellitus (Çocuk)
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_endokrinoloji
+  - ped_end_diyabet
+- - ktbt
+  - dahiliye
+  - dah_endokrinoloji
+  - dah_end_diyabet_siniflama
+tipik_hasta: Okul çağındaki veya ergenlikteki çocuğun birkaç haftadır artan su içme ve idrar yapma şikâyetiyle,
+  çoğu kez kilo kaybıyla başvurması; tuvalet eğitimini tamamlamış çocukta gece alt ıslatmasının geri dönmesi
+  tipik ipucudur. Bir bölümü ise kusma, karın ağrısı ve hızlı derin solunumla diyabetik ketoasidoz tablosunda
+  acile getirilir; ailede tip 1 diyabet veya başka otoimmün hastalık öyküsü riski artırır
+patofizyoloji: Genetik yatkınlığı olan (HLA-DR3/DR4, DQ2/DQ8) kişide tetikleyici bir olay (çoğu kez viral
+  enfeksiyon) sonrası T hücre aracılı otoimmün süreç pankreas beta hücrelerini yıkar ve mutlak insülin
+  yetersizliği ortaya çıkar. İnsülin yokluğunda glukagon baskılanamayınca karaciğerin glukoz çıkışı ve
+  lipoliz hızlanır; serbest yağ asitleri karaciğerde keton cisimciklerine dönüşür. Kandaki glukoz hücrelere
+  giremediği ve idrarla ozmotik diyüreze yol açtığı için kilo kaybı ile poliüri-polidipsi birlikte görülür;
+  keton üretimi ile aralıklarda ketoasidoz gelişir
+anahtar_bulgular:
+- 'Klasik üçlü: poliüri (gece alt ıslatmasının geri dönmesi dahil), polidipsi ve açıklanamayan kilo kaybı'
+- İdrarda glükoz ve keton pozitifliği; kan şekerinin belirgin yüksekliği
+- 'Ketoasidoz tablosu: kusma, karın ağrısı, Kussmaul tipi hızlı derin solunum, aseton kokulu nefes, bilinç
+  bulanıklığı'
+- 'İsletel otoantikorların pozitifliği: GAD65, IA-2, insülin ve ZnT8'
+- Serum C-peptid düzeyinin düşüklüğü (endojen insülin üretiminin azaldığını gösterir)
+- HbA1c'nin belirgin yüksekliği; rastgele kan şekeri çoğu kez 300 mg/dL üzeri
+patognomonik: null
+ilk_tetkik: Kan şekeri ile kanda veya idrarda keton ölçümü; ketoasidoz şüphesinde kan gazı, elektrolitler,
+  böbrek fonksiyonları ve serum ozmolalitesi; HbA1c. Potasyum düzeyine insülin başlamadan bakılır
+kesin_tani: 'Klasik semptomlarla birlikte rastgele plazma glukozunun 200 mg/dL üzerinde olması tipik olarak
+  tanıyı kurar; semptomsuz bulguda tanı açlık glukozunun 126 mg/dL üzerinde olması veya oral glukoz tolerans
+  testiyle desteklenir. Tip 1''i tip 2''den ayıran bulgular: genç yaş, kilo kaybı, isletel otoantikor
+  pozitifliği, düşük C-peptid; tip 2 lehine olan bulgular obezite, boyun bölgesinde akantozis nigrikans
+  ve ailede tip 2 diyabet öyküsüdür'
+ilk_tedavi: 'Ketoasidozla gelen hastada sıra şöyledir: önce damar yolundan izotonik sıvı bolusu, potasyum
+  kontrol edildikten sonra düşük doz damardan insülin infüzyonu (0.05-0.1 ünite/kg/saat); kan şekerinin
+  saatte 50-75 mg/dL gibi kademeli hızla düşürülmesi hedeflenir. Serebral ödem riskine karşı hızlı
+  sıvı yüklemesi ve ani osmolalite değişiminden kaçınılır; hasta 5 dakikalık aralıklarla nörolojik olarak
+  izlenir. Bikarbonat yalnızca hayati tehdit eden çok ağır asidozda düşünülür. Tanıdan sonraki ilk 24
+  saat bu açıdan kritik penceredir: ketoasidozun çözülmesi, potasyum dengesinin korunması ve hipoglisemiden
+  kaçınma aynı anda yönetilir. Uzun dönemde bazal-bolus insülin rejimi veya insülin pompası, karbonhidrat
+  sayımı, sürekli glukoz izleme ve aile eğitimi temeldir'
+klasik_komplikasyon: Tanı anında diyabetik ketoasidoz ve en korkulanı serebral ödem; takipte hipoglisemi
+  atakları. Uzun dönemde retinopati, nefropati (mikroalbuminüriyle başlar), periferik nöropati ve kardiyovasküler
+  hastalık riski
+tus_gecmisi:
+- tus-2014-sonbahar-ttbt-77
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

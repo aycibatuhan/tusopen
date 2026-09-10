@@ -1,0 +1,10 @@
+id: histo_bag_lifler_matriks
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kolajen Tiplerinin Doku Dağılımı"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_bag_dokusu, histo_bag_lifler_matriks]
+metin: "Tip I kolajen gerilme dayanımı yüksek tendon, deri ve kemikte en bol lif tipidir. Tip II kolajen hialin ve elastik kıkırdakta, tip III retiküler lifler lenf organları ve damar duvarlarında, tip IV kolajen ise bazal laminada yer alır."

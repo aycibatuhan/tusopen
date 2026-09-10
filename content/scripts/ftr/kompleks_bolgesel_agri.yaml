@@ -1,0 +1,51 @@
+id: kompleks_bolgesel_agri
+version: 1
+status: draft
+author: ai-drafts/ftr
+sources:
+- IASP Kompleks Bölgesel Ağrı Sendromu Budapeşte tanı kriterleri — referans olarak listelendi, metin projesi
+  özgün yazımdır
+ad: Kompleks Bölgesel Ağrı Sendromu
+taksonomi:
+- - ktbt
+  - ftr
+  - ftr_kas_iskelet_rehabilitasyon
+  - ftr_kr_krps
+tipik_hasta: Kol veya bacakta burkulma, kırık, küçük bir cerrahi ya da damar içi enjeksiyon gibi hafif
+  bir olay geçirdikten haftalar sonra, yaralanmanın boyutuyla hiç orantısız biçimde yanıcı ağrı, şişlik
+  ve renk-sıcaklık değişikliği gelişen hasta; belirgin bir sinir lezyonu saptanırsa tip 2 (eski adıyla
+  kozalji), saptanmazsa tip 1 diye adlandırılır
+patofizyoloji: 'Çok bileşenli bir bozukluktur: periferik ve santral sensitizasyon ağrıyı sürekli kılar;
+  otonom sinir sistemi disfonksiyonu renk, sıcaklık ve terleme değişikliklerini, nörojenik enflamasyon
+  ödemi besler. Sempatik efekt lifleri ile doku reseptörleri arasındaki anormal bağlantılar sempatik bağımlı
+  ağrıyı açıklar. En büyük hatalı davranış immobilizasyondur: uzuv sakin tutuldukça sensitizasyon derinleşir,
+  bu yüzden erken mobilizasyon tedavinin esas mantığıdır'
+anahtar_bulgular:
+- Yaralanmayla orantısız, yanıcı nitelikte ağrı; hafif dokunuşla ağrı (allodini) ve aşırı duyarlılık (hiperaljezi)
+- 'Vazomotor bulgular: karşı ekstremiteye göre renkte (kızarıklık veya solukluk) ve sıcaklıkta asimetri'
+- 'Sudomotor bulgu ve ödem: terleme artışı veya azalması, yaygın şişlik'
+- 'Hareket fonksiyonunda azalma: eklem açıklık kaybı, kas kuvveti düşüşü, tremor veya distoni'
+- 'Trofik değişiklikler: deri ve tırnakta parlama/atrofi; ileri dönemde radyografide bölgesel kemik yoğunluk
+  kaybı (Sudeck atrofisi)'
+patognomonik: null
+ilk_tetkik: 'Tanı klinikte konur; tetkikler tanıyı desteklemek ve taklit eden durumları elemek içindir:
+  radyografi (geç dönemde kemik erimesi), üç fazlı kemik sintigrafisi ve otonom testler (termografi, terleme
+  testleri) destekleyici olabilir'
+kesin_tani: 'Budapeşte kriterleri: yaralanmayla orantısız, bölgesel ağrı zorunludur; duyu, vazomotor,
+  sudomotor-ödem ve motor-trofik olmak üzere dört kategoriden üçünde semptom bildirilmesi ve bunların
+  en az ikisinde muayenede bulguların doğrulanması gerekir; tek bir sinir dağılımına uymaması ve başka
+  bir tanının dışlanması şarttır'
+ilk_tedavi: 'Ağrı, ilaçlar ve bloklarla kontrol altına alınarak uzuv hemen mobilize edilmelidir: gradüel
+  eklem açıklığı çalışmaları, ayna terapisi ve desensitizasyon erken dönemin temelidir; immobilizasyondan
+  kaçınılır. İlaçta gabapentinoidler ve trisiklik antidepresanlar önde gelir; erken enflamatuvar dönemde
+  kısa süreli kortikosteroid eklenebilir. Dirençli vakada seri sempatik blok, inatçı ağrıda spinal kord
+  uyarıcısı düşünülür'
+klasik_komplikasyon: İleri evrede eklem kontraktürü, kas atrofisi ve uzvun fonksiyon kaybı; tedavi geciktiğinde
+  ağrı ve kısıtlılık inatçı hale gelir
+tus_gecmisi:
+- tus-2016-ilkbahar-ktbt-37
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

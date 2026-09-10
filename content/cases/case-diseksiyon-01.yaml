@@ -1,0 +1,49 @@
+id: case-diseksiyon-01
+version: 1
+status: draft
+author: "ai-drafts/cases-c"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: aort_diseksiyonu
+baslik: "Yırtılır tarzda sırt ağrısı"
+adimlar:
+  - tip: sunum
+    metin: "58 yaşında erkek, 15 yıllık hipertansiyon, ilaçlarını düzensiz kullanıyor. Sabah ağır bir eşya taşırken sırt ortasında, kürek kemikleri arasında ani, hiç olmadığı kadar şiddetli, yırtılır tarzda ağrı başlamış; ağrı göğse doğru da yayılıyor. Gelirken bir kez bayılmış. Girişte sol kol tansiyonu 180/100 mmHg, sağ kol 135/80 mmHg; sağ kol nabzı zayıf hissediliyor. Nörolojik defisit yok, aort kapak bölgesinde yeni diyastolik üfürüm var."
+  - tip: secim
+    soru: "Ani yırtılır sırt ağrısı ve kollar arası tansiyon farkı olan hastada ilk tanısal adım hangisidir?"
+    secenekler:
+      - metin: "Kontrastlı BT anjiyografi ile aort değerlendirmesi (EKG değişikliği ve kardiyak markerlar eşlik etmiyor)"
+        dogru: true
+        geri_bildirim: "Kürek kemikleri arasına yerleşen yırtılır tarzda ağrı ve kollar arası nabız-tansiyon farkı aort diseksiyonunun klasiğidir; ilk görüntüleme kontrastlı BT anjiyografidir"
+      - metin: "D-dimer beklenip negatifse taburculuk"
+        dogru: false
+        geri_bildirim: "Yüksek şüpheli tabloda D-dimer dışlama amacıyla güvenli değildir; görüntüleme geciktirilmez"
+      - metin: "Yatak başı ekokardiyografi sonrası taburculuk"
+        dogru: false
+        geri_bildirim: "Transtorasik ekokardiyografi yükselen aortu tam göstermez; taburculuk kararı görüntüleme olmadan verilmez"
+      - metin: "Invaziv koroner anjiyografi"
+        dogru: false
+        geri_bildirim: "Diseksiyon şüphesinde invaziv koroner değerlendirme geciktirir ve risklidir; miyokard enfarktüsü dışlaması EKG ve markerlarla yapılır"
+  - tip: sonuc
+    metin: "BT anjiyografide yükselen aortta intimal flep görülüyor; diseksiyon yükselen aorttan başlayıp sol subklavian arter proksimalini ve inen aortayı tutuyor (Stanford tip A). Mediasten geniş, kalp zarında hafif sıvı var."
+  - tip: secim
+    soru: "Stanford tip A diseksiyonu doğrulandı. Yönetim hangisidir?"
+    secenekler:
+      - metin: "Acil cerrahi; cerrahiye giderken intravenöz beta bloker ile önce kalp hızı, sonra tansiyon kontrolü"
+        dogru: true
+        geri_bildirim: "Yükselen aortu tutan tip A diseksiyon acil cerrahi göstergesidir; ilaç sırasında önce beta bloker başlanır, beta blokersiz genişleyici ajan refleks takikardiyle duvar gerilimini artırır"
+      - metin: "Sadece kan basıncı kontrolü ile medikal takip"
+        dogru: false
+        geri_bildirim: "Sadece medikal yaklaşım komplikasyonsuz inen aort (tip B) diseksiyonunda düşünülür; tip A cerrahi gerektirir"
+      - metin: "Sistemik tromboliz ile damarın açılması"
+        dogru: false
+        geri_bildirim: "Tromboliz aort diseksiyonunda kontrendikedir; tıkanıklık trombüs değil intimal fleptir, kanama riskini artırır"
+      - metin: "Güçlü ağrı kesici ile ayaktan takip"
+        dogru: false
+        geri_bildirim: "Tip A diseksiyon saatler içinde ölümcül komplikasyon (ruptür, tamponad) riski taşır; ayaktan takip kabul edilemez"
+  - tip: ozet
+    metin: "Öğrenme noktaları: ani yırtılır tarzda sırt/göğüs ağrısı + kollar arası nabız-tansiyon farkı + yeni aort yetmezlik üfürümü aort diseksiyonunu düşündürür; ilk görüntüleme kontrastlı BT anjiyografidir; yükselen aort (Stanford tip A) acil cerrahi, komplikasyonsuz inen aort (tip B) medikal tedavidir; ilaç sırasında önce beta bloker başlanır."
+sozlu_sorular:
+  - "Stanford ve DeBakey sınıflamaları nasıl yapılır?"
+  - "Neden beta bloker diğer antihipertansiflerden önce başlanır?"
+  - "Tip B diseksiyonda cerrahi göstergeleri nelerdir?"

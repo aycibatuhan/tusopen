@@ -1,0 +1,51 @@
+id: ankilozan_spondilit
+version: 1
+status: draft
+author: ai-drafts/dahiliye-3
+sources:
+- 'Klinik rehberler: ASAS/EULAR aksiyel spondiloartrit tanı ve yönetim önerileri — referans olarak listelendi,
+  metin projesi özgün yazımdır'
+ad: Ankilozan Spondilit
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_romatoloji
+  - dah_rom_ankilozan_spondilit
+tipik_hasta: Yirmili yaşlardaki erkek; aylardır süren bel ağrısıyla gelir. Ağrı gece uykudan uyandırır,
+  sabahları belde yarım saatten uzun sertlik olur, hareket etmek iyileştirirken dinlenmek kötüleştirir;
+  ağrı kesicilerle şaşırtıcı biçimde rahatladığını söyler
+patofizyoloji: 'HLA-B27 ile güçlü bağlantılı spondiloartrit ailesinin öncüsüdür; genetik yatkınlık ve
+  muhtemelen bağırsak florası ile immün yanıtın etkileşimi, sakroiliak eklemler ve omurga entezislerinde
+  kronik inflamasyon başlatır. Süregelen iltihap kemik oluşturan onarımı tetikler: eklemler arasında kemik
+  köprüleri (sindesmofit) gelişir, omurga blokları birleşir ve hareket kısıtlılığı kalıcılaşır. Dış eklemler
+  ve göz (ön üveit) de tutulabilir'
+anahtar_bulgular:
+- 'İnflamatuvar bel ağrısı: sabah sertliği 30 dakikadan uzun, hareketle azalır, dinlenmeyle artar'
+- Radyografide sakroiliak eklemlerde erozyon ve skleroz (sakroiliit)
+- Göğüs kafesinin genişleme kapasitesinde azalma; belde öne eğilmenin kısıtlanması
+- Akut ön üveit atakları (genellikle tek göz, tekrarlayıcı)
+- 'Entezit: topuk ağrısı (Aşil, plantar fasiya); asimetrik periferik artrit'
+- HLA-B27 pozitifliği
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — İleri evrede radyografide bambu omurga görünümü (ileri psoriyatik artrit ve DISH taklit edebilir; sindesmofitlerle omurga füzyonu)
+ilk_tetkik: Pelvis grafisinde sakroiliak eklemlerin değerlendirilmesi; erken dönemde MRG ile sakroiliak
+  kemik ödeminin aranması; CRP ve sedimantasyon; HLA-B27 doku grubu
+kesin_tani: Radyografik sakroiliit ile birlikte inflamatuvar bel ağrısı klasik tanıyı kurar; grafi temiz
+  ama MRG'de aktif inflamasyon varsa ASAS sınıflandırma mantığı (klinik bulgular ve HLA-B27 ile birlikte)
+  erken tanıyı verir
+ilk_tedavi: Steroid olmayan iltihap önleyici ilaçlar birinci basamaktadır (ağrıyı bastırmanın ötesinde
+  tabloyu döndürmede de etkilidir) ve düzenli egzersiz-fizik tedaviyle birlikte verilir; NSAİİlere yetersiz
+  yanıtta TNF alfa inhibitörü veya İL-17 inhibitörü gibi biyolojik ajanlara geçilir
+klasik_komplikasyon: Füzyonlu, katılaşmış omurgada küçük travmayla spinal kırık riski (özellikle boyun
+  bölgesinde); ilerleyici postüral bozukluk ve göğüs ekspansiyon kısıtlılığı
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-27
+- tus-2014-sonbahar-ktbt-24
+- tus-2017-ilkbahar-ktbt-25
+- tus-2017-sonbahar-ktbt-25
+- tus-2019-ilkbahar-ktbt-25
+- tus-2020-sonbahar-ktbt-24
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

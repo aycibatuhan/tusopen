@@ -1,0 +1,58 @@
+id: multipl_sleroz
+version: 1
+status: draft
+author: ai-drafts/noroloji
+sources:
+- ECTRIMS/EAN Multipl Skleroz Klinik Uygulama Rehberi
+- McDonald Tanı Kriterleri (2017 revizyonu)
+ad: Multipl Skleroz
+taksonomi:
+- - ktbt
+  - noroloji
+  - noro_demiyelinizan
+  - noro_dy_ms
+tipik_hasta: 20-40 yaş arası kadın hasta; ağrılı tek göz görme kaybı (optik nörit), uyuşma, çift görme
+  veya denge bozukluğu gibi ataklar hâlinde, ayrı zamanlarda ve ayrı sinir sistemi bölgelerinde ortaya
+  çıkan şikâyetlerle başvurur; ataklar arasında tam ya da kısmi düzelme (relapsing-remitting) en yaygın
+  başlangıç tipidir
+patofizyoloji: Merkezi sinir sistemi beyaz maddesine yönelik otoimmün inflamasyon ve demiyelinizasyon;
+  periventriküler, juktakortikal, infratentoryal ve omurilik lezyonları klasiktir, çevresel sinirler korunur.
+  Tekrarlayan ataklarda miyelin kaybına aksonal hasar ve glioz eklenir; ilerleyici formlarda inflamasyon
+  azalsa da nörodejenerasyon sürer
+anahtar_bulgular:
+- 'Optik nörit: ağrılı monoküler görme kaybı, kırmızı rengin soluk görülmesi, afferan pupiller defekt'
+- 'Lhermitte belirtisi: boyun öne eğilirken omurga boyunca geçen elektrik çarpması hissi'
+- 'İnternükleer oftalmopleji: yan bakışta addüksiyon yavaşlığı ve abdükse gözde nistagmus; genç hastada
+  güçlü ipucu'
+- 'Uhthoff fenomeni: sıcak duş veya egzersizle belirtilerin geçici alevlenmesi'
+- 'Omurilik tutulumu: belli bir düzeyin altında duyu kaybı, spastisite, mesane bozukluğu'
+- MR'da periventriküler ve kallozal arayüzde oval, ventriküllere dik dizilen lezyonlar (Dawson parmakları)
+patognomonik: Tek bir bulgu patognomonik değildir; tanının özü ayrı zamanlarda (zaman dispersiyonu) ve
+  ayrı merkezi bölgelerde (mekân dispersiyonu) kanıtlanmış lezyonlardır
+ilk_tetkik: Gadolinyumlu kraniyal ve omurilik MR; lomber ponksiyonda oligoklonal bantlar; görsel uyarılmış
+  potansiyeller. Taklitlerden korunmak için B12, NMO (AQP4 antikor), sarkoidoz, sistemik lupus ve vaskülit
+  taraması düşünülmeli
+kesin_tani: 'McDonald kriterleri: klinik tablo ve MR''da zaman ve mekân dispersiyonunun birlikte kanıtı;
+  tipik klinik sendromla MR bulguları uyumluysa tanı konur. BOS oligoklonal bantları mekân dispersiyonu
+  kanıtı sayılabilir'
+ilk_tedavi: 'Atak tedavisi: yüksek doz intravenöz metilprednizolon (günde 1 g, 3-5 gün); steroid dirençli
+  ağır atakta plazmaferez. Atak önleyici hastalık modifiye edici tedavi aktiviteye göre seçilir: hafif-orta
+  aktivitede interferon beta, glatiramer asetat veya oral ajanlar (fingolimod, dimetil fümarat, teriflunomid);
+  yüksek aktivitede natalizumab (JC virüsü ve PML riski nedeniyle seroloji izlemi), orelizumab veya rituksimab.
+  Semptomatik ek: spastisite için baklofen ve tizanidin, yorgunluk için amantadin, nöropatik ağrı ve mesane
+  yönetimi'
+klasik_komplikasyon: 'Yıllar içinde birikimli engellilik: spastik parapleji, mesane-barsak bozukluğu,
+  nöropatik ağrı, yorgunluk, bilişsel bozulma ve depresyon; tekerlekli sandalye bağımlılığı ilerleyici
+  formlarda öne çıkar'
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-32
+- tus-2017-sonbahar-ttbt-89
+- tus-2019-ilkbahar-ktbt-34
+- tus-2021-ilkbahar-ttbt-90
+- tus-2021-sonbahar-ttbt-90
+- tus-2026-ilkbahar-ktbt-25
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

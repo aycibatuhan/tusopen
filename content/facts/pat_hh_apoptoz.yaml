@@ -1,0 +1,10 @@
+id: pat_hh_apoptoz
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Apoptoz"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_apoptoz]
+metin: "Apoptoz enerjiye bağlı programlı hücre ölümüdür; hücre büzülür, kromatin perifere yoğunlaşır, hücre zarla çevrili apoptotik cisimlere bölünür ve komşu hücreler ile makrofajlarca fagosite edilir, inflamasyon oluşmaz. Yıkımı kaspaz enzimleri yürütür; iç yolakta mitokondriyal sitokrom c salınımı, dış yolakta FAS ve TNF reseptör sinyalleri etkilidir. Embriyonik gelişim, hormon etkisiyle yaşanan atrofi ve DNA hasarı taşıyan hücrelerin ayıklanması fizyolojik apoptoz örnekleridir."

@@ -1,0 +1,10 @@
+id: farm_end_insulin
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnsülin Preparat Zamanlaması"
+taksonomi:
+  - [ttbt, farmakoloji, farm_endokrin, farm_end_insulin]
+metin: "Düzenli insülin kısa etkili olduğundan diyabetik ketoasidozda damar içi yol ile kullanılabilir; hızlı etkili analoglar öğünlerden hemen önce uygulanır. Glarjin (U100) pik yapmadan yaklaşık 24 saat etki eder; degludek ise 42 saati aşan etki sağlar. Hipoglisemi insülin tedavisinin en sık ve en tehlikeli komplikasyonudur."

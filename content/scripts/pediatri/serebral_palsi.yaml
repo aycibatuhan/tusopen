@@ -1,0 +1,59 @@
+id: serebral_palsi
+version: 1
+status: draft
+author: ai-drafts/pediatri-3
+sources:
+- Surveillance of Cerebral Palsy in Europe (SCPE) sınıflandırma raporu — referans olarak listelendi, metin
+  projesi özgün yazımdır
+- Nelson Textbook of Pediatrics (serebral palsi bölümü)
+ad: Serebral Palsi
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_noroloji
+  - ped_nor_serebral_palsi
+- - ktbt
+  - ftr
+  - ftr_pediatrik_rehabilitasyon
+  - ftr_pr_serebral_palsi
+tipik_hasta: Prematürite, düşük doğum ağırlığı, doğum sırasında oksijensizlik, kernikterus ya da erken
+  dönem menenjiti gibi yüksek riskli doğum öyküsü olan çocuk; annenin baş dik tutamama, dönme ve oturmadaki
+  gecikmeyi, çocukta aşırı sertlik ya da aşırı gevşeklik, hareketlerin asimetrikliğini tarif ederek getirdiği;
+  tek elini ısrarla kullanmaya başlamış (erken lateralite) bebek de şüphe uyandırır
+patofizyoloji: Gelişmekte olan beyinde doğum çevresinde ya da erken yaşamda ortaya çıkan, ilerlemeyen
+  ama kalıcı olan hareket ve postür bozukluğu; prematürelerde periventriküler beyaz cevher zarar görmesi
+  (periventriküler lökomalasi) bacakların önde tutulumunu (spastik dipleji) açıklar; tam doğum ağırlığındaki
+  çocukta perinatal asfiksi daha çok dört uzvu tutan spastik ve diskinetik tablo yapar; kernikterus bazal
+  ganglionları tutarak koreoatetoz üretir. Hasar sabittir ama ikincil kas kısalıkları, deformiteler ve
+  ortopedik sorunlar zamanla ilerler
+anahtar_bulgular:
+- 'Motor gelişim basamaklarında gecikme: baş kontrolü, dönme, oturma ve emeklemenin yaşına uygun gelmemesi'
+- 'Anormal tonus: uzuvlarda dirençli katılık (spastisite), tendon reflekslerinde artış, patolojik refleksler
+  ya da istemsiz hareketler (diskinezi)'
+- 'İlkel reflekslerin kalıcı olması: Moro ve tonik boyun reflekslerinin normalde kaybolması gereken aylarda
+  sürmesi'
+- 'Tiplerin görünümü: prematürede bacak önde tutulumla makas gibi yürüyüş (spastik dipleji); tek taraflı
+  zayıflıkta elin hiç kullanılmaması ve erken el tercihi (hemipleji); dört uzuv tutulumu (kuadripleji);
+  kernikterus öyküsüyle istemsiz hareketler (diskinetik)'
+- Yemleme ve yutma güçlüğü, aşırı salya, konuşma gecikmesi; epilepsi ve görme sorunlarının sık eşlik etmesi
+patognomonik: null
+ilk_tetkik: Detaylı doğum öyküsü, gelişimsel tarama ve nörolojik-motor muayene; beyin MRG tanıyı destekler
+  — prematürelerde periventriküler lökomalasi, asfiksik tabloda piramidal yol ve bazal ganglion değişiklikleri
+kesin_tani: 'Klinik tanı: doğum çevresinde gelişen, ilerlemeyen, kalıcı hareket ve postür bozukluğunun
+  gelişim öyküsü ve muayeneyle belgelenmesi; MRG görüntüleme eşlik eder, metabolik-genetik araştırma beklenmeyen
+  tablo ya da aile öyküsünde eksi nedeni dışlamak için yapılır'
+ilk_tedavi: 'Erken dönemden itibaren multidisipliner rehabilitasyon: fizik tedavi ve ergoterapi, ortez
+  kullanımı; spastisite yönetiminde botulinum toksin enjeksiyonları, oral baklofen, dirençli olgularda
+  intratekal baklofen pompası ve seçici dorsal rizotomi; kontraktür, kalça çıkığı ve skolyoz için ortopedik
+  müdahaleler; beslenme ve konuşma terapisi; eşlik eden epilepsinin tedavisi'
+klasik_komplikasyon: Kalça çıkığı ve skolyoz gibi ortopedik deformiteler; kas kısalıkları (kontraktürler);
+  yemleme güçlüğüne bağlı beslenme bozukluğu ve aspirasyon riski; epilepsi; ağız ve çene kontrolü sorunlarına
+  bağlı diş sorunları; sosyal ve eğitim zorlukları
+tus_gecmisi:
+- tus-2019-ilkbahar-ktbt-70
+- tus-2019-sonbahar-ktbt-69
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

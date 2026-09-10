@@ -1,0 +1,25 @@
+id: genu_varum_valgum
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-3"
+sources:
+  - "Campbell's Operative Orthopaedics (pediatrik diz hizalama bozuklukları bölümü) — referans olarak listelendi, metin projesi özgün yazımdır"
+  - "AAOS çocuk ortopedisi hizalama bozuklukları rehberi — isim olarak listelendi"
+ad: Genu Varum ve Genu Valgum
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_genu_varum_valgum]
+tipik_hasta: "Yeni yürümeye başlamış bebek (fizyolojik genu varum), 3-4 yaşını doldurmuş çocuk (fizyolojik genu valgum) veya eğriliğin bu yaş kalıbına uymadığı, tek taraflı ya da ilerleyici olduğu için endişelenip başvuran aile. En sık tablo tamamen iyi huylu fizyolojik dizilimdir; klinisyenin görevi patolojik olanı ayırmaktır"
+patofizyoloji: "Bacak dizilimi yaşla tanınabilir bir çizgi izler: bebeklikte hafif varus (en belirgin 6-12 ayda), 18-24 ayda düz, 3-4 yaşta en belirgin valgus, sonra yetişkin düzenine (hafif valgus) iner. Fizyolojik eğrilik simetrik, ağrısızdır ve fizin kendini düzenlemesiyle düzelir. Patolojik eğrilikte fizin bir bölümündeki büyüme asimetridir: basınç artan tarafta büyüme yavaşlar (Hueter-Volkmann ilkesi), bu da eğriliği kendi kendine büyütür. Kalıcı varusun klasik nedenleri Blount hastalığı, rikitse, kemik displazileri ve fizye hasarıdır; kalıcı valgus ise genellikle lateral distal femur fizi sorunları ve romatizmal-iskelet hastalıklarıyla gider"
+anahtar_bulgular:
+  - "Yaş-dizilim kalıbı: en belirgin varus 6-12 ayda, düz dizilim 18-24 ayda, en belirgin valgus 3-4 yaşta, yetişkin (hafif valgus) düzeni 7 yaşa doğru"
+  - "Fizyolojik eğrilik: iki taraflı ve simetrik, ağrı ve fonksiyon kaybı yok, yürüyüş olumsuz etkilenmez"
+  - "Varusta dizler arası mesafenin (interkondiler) genişliği, valgusta ayak bilekleri arası mesafenin (intermalleoler) genişliği ölçülerek izlenir"
+  - "Patolojik şüphe işaretleri: tek taraflılık, ilerleme, ağrı, açının yaş kalıbına uymaması, boy kısalığı veya iskelet sisteminde genel bozukluk"
+  - "Ayakta, dizler öne bakar konumda çekilen bacak grafiğinde tibiofemoral açı ölçümü ve fizye-metafiz değerlendirmesi"
+patognomonik: null
+ilk_tetkik: "Özenli muayene (simetri, ağrı, boy oranları, yürüyüş) ve izlem; yaş kalıbına uymayan tabloda ayakta bacak AP grafisi"
+kesin_tani: "Klinik tablo ile yaş-fizyolojik çizginin birleşimi ve ayakta bacak grafiğinde tibiofemoral açı ölçümü; fizyolojik eğriliğin kabul ölçütleri simetri, yaşa uygun açı ve ilerlememe"
+ilk_tedavi: "Fizyolojik eğrilikte tedavi yoktur: aile bilgilendirilir ve gözlem yapılır (ayakkabı içi destek, egzersiz gereksizdir); patolojik tabloda önce neden tedavi edilir (rikitse: D vitamini, Blount: ortezi-osteotomi), kalıcı eğriliğe yönelik düzeltme seçenekleri geçici hemiepifizyodez (fizin büyümesini engelleyen tarafa bağ/plak) veya düzeltici osteotomidir"
+klasik_komplikasyon: "Tedavi edilmeyen kalıcı varusta diz iç kompartmanında erken osteoartrit; kalıcı belirgin valgusta patellofemoral yük artışı, patella çıkma eğilimi ve yürüyüş dengesizliği"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

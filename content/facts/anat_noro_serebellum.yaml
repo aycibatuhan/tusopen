@@ -1,0 +1,52 @@
+id: anat_noro_serebellum
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Serebellum bölümleri ve lezyonları
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_noroanatomi
+  - anat_noro_serebellum
+metin: Anterior lob ve vermis (spinoserebellum) postür ve yürüyüşü düzenler; posterior lob (neoserebellum)
+  istemli hareketin planlamasını denetler ve lezyonunda dismetri ile disdiadokokinezi görülür. Flokkülonodüler
+  lob (vestibüloserebellum) denge ve göz hareketlerinden sorumludur. Serebellum lezyonlarının bulguları
+  ipsilateral taraftadır çünkü serebellar yollar iki kez çapraz yapar.
+gorsel:
+  dosya: Cerebellar_Circuit.svg
+  kaynak: https://commons.wikimedia.org/wiki/File:Cerebellar_Circuit.svg
+  lisans: CC BY-SA 3.0
+  yazar: Tom282f3 (English translation); original diagram by Marcel Wiesweg
+  etiketler:
+  - ad: Tırmanan lifler (climbing)
+    x: 4
+    y: 88
+    w: 19
+    h: 6
+  - ad: Sıçrayan lifler (mossy)
+    x: 68
+    y: 88
+    w: 17
+    h: 6
+  - ad: Granül hücreler
+    x: 55
+    y: 56
+    w: 13
+    h: 10
+  - ad: Paralel lifler
+    x: 59
+    y: 20
+    w: 17
+    h: 6
+  - ad: Purkinje hücresi
+    x: 30
+    y: 46
+    w: 12
+    h: 9
+  - ad: Derin serebellar çekirdekler
+    x: 33
+    y: 80
+    w: 25
+    h: 8

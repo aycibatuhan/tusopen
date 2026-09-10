@@ -1,0 +1,49 @@
+id: case-pnomoni-01
+version: 1
+status: draft
+author: "ai-drafts/cases-c"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: toplum_pnomoni
+baslik: "Ateş, öksürük ve tek taraflı batma ağrısı"
+adimlar:
+  - tip: sunum
+    metin: "66 yaşında erkek, 40 paket-yıl sigara öyküsü. Üç gündür ateş, sarı balgamlı öksürük ve sağ tarafta derin nefeste artan batma ağrısı var. Konfüzyon yok. Üre 34 mg/dL, nabız 108/dk, solunum sayısı 32/dk, tansiyon 105/65 mmHg, oksijen satürasyonu oda havasında %91. Muayenede sağ alt zonlarda perküsyonda matluk, nefes seslerinde azalma ve egofoni saptanıyor."
+  - tip: secim
+    soru: "Ateş, üretken öksürük ve tek taraflı batma ağrısı olan hastada tanı için ilk istenecek tetkik hangisidir?"
+    secenekler:
+      - metin: "PA akciğer radyografisi"
+        dogru: true
+        geri_bildirim: "Toplum kökenli pnomoni şüphesinde ilk görüntüleme PA akciğer grafisidir; konsolidasyon görülmeden pnomoni tanısı kesinleştirilemez"
+      - metin: "Bronkoskopi"
+        dogru: false
+        geri_bildirim: "Bronkoskopi ilk basamak değildir; tedaviye dirençli tablo, bağışıklık baskılanması veya şüpheli kitlesel lezyon varsa düşünülür"
+      - metin: "Spirometri"
+        dogru: false
+        geri_bildirim: "Spirometri fonksiyon testidir; akut pnomonide tanısal değeri yoktur ve akut dönemde önerilmez"
+      - metin: "Toraks manyetik rezonans görüntüleme"
+        dogru: false
+        geri_bildirim: "İleri görüntüleme ikinci basamaktır; akut başvuruda ilk tetkik direkt grafidir"
+  - tip: sonuc
+    metin: "PA akciğer grafisinde sağ alt lobda konflüans alveoler (lobar) opasite ve küçük parapnömonik efüzyon görülüyor. CRP 210 mg/L, beyaz küre 16.500/mm3."
+  - tip: secim
+    soru: "CURB-65 hesaplandı: konfüzyon yok, üre 34 mg/dL, solunum sayısı 32/dk, tansiyon 105/65 mmHg, yaş 66. Yönetim planı hangisidir?"
+    secenekler:
+      - metin: "İki puan nedeniyle hastaneye yatış ve ampirik beta laktam + makrolid kombinasyonu"
+        dogru: true
+        geri_bildirim: "CURB-65'te solunum sayısı 30/dk üzeri ve yaş 65 üzeri puanlanır; bu hastada iki puan var, hastane yatışı ve ampirik antibiyotik (beta laktam + makrolid veya solunum florokinolon) uygundur"
+      - metin: "Oral amoksisilin yazılıp evde takip önerilmesi"
+        dogru: false
+        geri_bildirim: "İki puanlı hasta ayaktan takip için risklidir; yatış, oksijen desteği ve damar yolu antibiyotiği gerekir"
+      - metin: "Sadece semptomatik tedavi ve akılcı bekleme"
+        dogru: false
+        geri_bildirim: "Bakteriyel pnomonide bekleme mortaliteyi artırır; ampirik antibiyotik hemen başlanır"
+      - metin: "Tek başına yüksek doz sistemik steroid"
+        dogru: false
+        geri_bildirim: "Steroid pnomonide rutin tedavi değildir; temel tedavi etkeni kapsayan antibiyotiktir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: ateş + üretken öksürük + tek taraflı batma ağrısı ve muayenede matluk/egofoni pnomoniyi düşündürür; ilk tetkik PA akciğer grafisidir; CURB-65 (konfüzyon, üre, solunum sayısı, tansiyon, yaş) yatış kararını verir; yatan hastada ampirik tedavi beta laktam + makrolid veya solunum florokinolondur."
+sozlu_sorular:
+  - "CURB-65 bileşenleri ve puanlara göre yönetim basamakları nelerdir?"
+  - "Parapnömonik efüzyon ne zaman drenaj gerektirir?"
+  - "Ampirik tedavi hangi etkenleri kapsamalıdır?"

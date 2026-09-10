@@ -1,0 +1,29 @@
+id: wt-tus-2021-sonbahar-ktbt-16
+version: 1
+status: draft
+author: "ai-drafts/walkthroughs-1"
+sources:
+  - "ADA Standartları (diyabet tanı ve sınıflama bölümü) — referans olarak listelendi, metin özgün yazımdır"
+soru_ref: tus-2021-sonbahar-ktbt-16
+sinanan_bilgi: "75 g OGTT sınıflaması eşiklerle yapılır: 2. saat glukoz 140 mg/dL ve altı normal, 140-199 mg/dL arası bozulmuş glukoz toleransı, 200 mg/dL ve üstü diyabet; açlık glukozu için normal 100 altı, bozulmuş açlık glukozu 100-125, diyabet 126 ve üstüdür."
+ipucu_turleri:
+  - "0. saat glukozun 100 eşiğinin altında kalması: açlık tarafında sınıflama bozukluğu yok"
+  - "2. saat glukozun 140-199 bandında seyretmesi: glukoz toleransı bozuk ama diyabet eşiği aşılı değil"
+  - "Kiloluluk, ailede tip 2 diyabet ve yemek sonrası çökme hissi: insülin direnci çerçevesi, prediyabet olasılığını destekler"
+gurultu_turleri:
+  - "Aile öyküsü, kilolu vücut yapısı ve hâlsizlik şikayeti hastayı diyabet tanısına ikna etmeye çalışır; sınıflama yalnızca laboratuvar eşikleriyle konur"
+  - "Sınırda yüksek tansiyon metabolik sendrom çağrışımı yapar ve dikkati glukoz tablosundan uzaklaştırır; kan basıncı OGTT sınıflamasına girmez"
+mantik: "Sorunun bütün yükü iki sayının eşiklerle karşılaştırılmasındadır. İlk ölçüm açlık düzeyidir ve 100 eşiğinin hemen altındadır; yani açlık glukozu normal, bozulmuş açlık glukozu tanımı burada oluşmaz. İkinci ölçüm glukoz yükleminin iki saatindeki değerdir ve 140 ile 199 arasında seyretmektedir: bu bant tam olarak bozulmuş glukoz toleransı tanımına karşılık gelir. Yüklenen glukoz kandaki düzeyi yükseltmiş, ancak iki saat içinde diyabet eşiği olan 200 mg/dL ye ulaşamadan yavaş inen bir eğri bırakmıştır. Prediyabet diyalektiği kiloluluk ve aile öyküsüyle uyumludur ama tanıyı klinik özellikler değil laboratuvar bandı belirler. Böylece zincir: açlık normal artı ikinci saat 140-199 → bozulmuş glukoz toleransı."
+celdirici_kavramlar:
+  - kavram: "Bozulmuş açlık glukozu"
+    neden_yanlis: "Bu sınıflama açlık ölçümünün 100-125 mg/dL bandına girmesini gerektirir; hastanın açlık değeri 100 eşiğinin altındadır, açlık tarafında hiçbir bozukluk yoktur."
+    dogru_oldugu_durum: "Açlık glukozu 100-125 mg/dL arasında iken OGTT ikinci saat değerinin 140 mg/dL altında kaldığı tablolarda."
+  - kavram: "Diabetes mellitus eşiği"
+    neden_yanlis: "Diyabet için açlıkta 126 mg/dL ya da OGTT ikinci saatinde 200 mg/dL üstü değer gerekir; hastanın hiçbir ölçümü bu eşiklere ulaşmamıştır. Klinik tablo tanıyı kendi başına yükseltmez."
+    dogru_oldugu_durum: "Açlık glukozunun 126 mg/dL ve üstü olduğu ya da ikinci saat değerin 200 mg/dL ye ulaştığı, tipik semptomların da eşlik edebildiği olgularda."
+  - kavram: "Normal OGTT"
+    neden_yanlis: "Normal kabul edilebilmesi için ikinci saat değerinin 140 mg/dL altında kalması gerekir; buradaki 160 mg/dL değeri bu bandın üzerine çıkmıştır."
+    dogru_oldugu_durum: "Hem açlık değerinin 100 mg/dL altında hem de ikinci saat değerinin 140 mg/dL altında kaldığı glukoz profillerinde."
+  - kavram: "Bozulmuş açlık glukozu ve tolerans birlikteliği"
+    neden_yanlis: "Bu birleşik sınıflama ancak her iki ölçümün kendi eşiğini ayrı ayrı aşmasıyla konur; hastada yalnızca ikinci saat değeri yükselmiştir, açlık ölçümü normaldir."
+    dogru_oldugu_durum: "Açlık glukozu 100-125 mg/dL bandındayken aynı hastada OGTT ikinci saat değerinin de 140-199 mg/dL arasına düştüğü tablolarda."

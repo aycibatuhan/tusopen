@@ -1,0 +1,63 @@
+id: sigara_bagimliligi
+version: 1
+status: draft
+author: ai-drafts/aile-ftr
+sources:
+- 'Rehberler: Treating Tobacco Use and Dependence (ABD Halk Sağlığı Servisi) — referans olarak listelendi,
+  metin projesi özgün yazımdır'
+- 'Rehberler: WHO Tütün Kontrolü Çerçeve Sözleşmesi (MPOWER yaklaşımı) — referans olarak listelendi, metin
+  projesi özgün yazımdır'
+ad: Sigara Kullanım Bozukluğu (Nikotin Bağımlılığı)
+taksonomi:
+- - ktbt
+  - aile_hekimligi
+  - ah_saglik_egitimi_koruyucu
+  - ah_se_sigara_birakma
+- - ktbt
+  - gogus_hastaliklari
+  - gog_klinik_sorunlar
+  - gog_dk_sigara_birakma
+tipik_hasta: Her yaşta görülür ama genellikle genç erişkinde başlar; kronik hastalık kontrolü veya rutin
+  muayeneye gelen, günde bir paket civarı içen, sabah uyanır uyanmaz ilk sigarasını içen ve daha önce
+  defalarca kendi kendine bırakmayı deneyip başaramamış hasta; bu yüzden her başvuran hastaya sigara sorulması
+  gerekir
+patofizyoloji: 'Nikotin alfa 4 beta 2 nikotinik asetilkolin reseptörlerine bağlanarak ödül yollarında
+  dopamin salınımını artırır; bu kısa ödüllü döngü içme davranışını güçlü biçimde pekiştirir. Sürekli
+  maruziyet reseptörleri uyarır ve yeniden düzenler; nikotin düzeyi düştüğünde yoksunluk belirtileri başlar
+  ve içme isteği büyür. Fiziksel bağımlılığın üzerine koşullanma eklenir: kahve, stres, belirli arkadaş
+  ortamı gibi tetikleyicilerle eşleşmiş içme alışkanlığı ilaç kesildiğinde bile davranışı sürdürür'
+anahtar_bulgular:
+- Uyandıktan sonra ilk 5 dakika içinde ilk sigarayı içme (bağımlılığın en güçlü göstergesi)
+- Günde 21 veya daha fazla sigara (FTND eşik değeri); en sevdiği sigarayı bırakmakta olağanüstü zorlanma
+- Yasak alanlarda içme isteğini bastıramama ya da yasağa karşın içmeyi sürdürme
+- Hastalık bilinci olmasa da, bırakma niyetine karşın kullanımın sürmesi
+- 'Bırakınca saatler içinde beliren yoksunluk: güçlü istek, sinirlilik, huzursuzluk, konsantrasyon bozukluğu,
+  iştah artışı, uykusuzluk'
+patognomonik: null
+ilk_tetkik: 'Tetkik değil sorgulama: her başvuruda içip içmediği, günlük miktarı ve bırakma isteği sorulur;
+  bağımlılık düzeyini ölçmek için altı maddeli Fagerström anketi uygulanır. En ağırlıklı iki sorusu uyanınca
+  ilk sigaraya kadar geçen süre ve günlük sigara sayısıdır; 10 üzerinden 6 ve üzeri puan yüksek bağımlılığı
+  gösterir. Karbonmonoksit ölçümü tüketimi doğrulayan objektif destektir'
+kesin_tani: 'Klinik tanıdır: bilinen zararlarına karşın kullanımı bırakamama ve baskın istekle karakterli
+  kullanım bozukluğu ölçütleriyle konur; nicel bağımlılık göstergesi olarak Fagerström puanı kullanılır.
+  Tetkikle doğrulama gerektirmez, karbonmonoksit düzeyi yalnız destekleyicidir'
+ilk_tedavi: 'Birinci basamakta sorgulama, net bırakma önerisi, hazır olma değerlendirmesi, bırakma yönteminde
+  yardımcı olma ve izlem basamakları izlenir; davranışsal danışmanlık her hastada temel tedavidir. İlaç
+  seçimi bağımlılık derecesine göre yapılır: hafif bağımlılıkta tek forma nikotin replasmanı (transdermal
+  bant veya sakız) yeterliyken, ileri bağımlılıkta ya da tek formun başarısızlığında kısa etkili formun
+  bantla kombine edilmesi veya vareniklin tercih edilir. Vareniklin nikotinik reseptörün kısmi agonistidir;
+  hem istek hem ödül hissini zayıflatan birinci basamak ilaçtır. Norepinefrin ve dopamin geri alım inhibitörü
+  bupropion alternatifidir ama epilepsi veya yeme bozukluğu öyküsünde uygun değildir. Gebelikte önce davranışsal
+  tedavi planlanır, ilaç gerekiyorsa nikotin replasmanı öbür ilaçlara üstünlük gösterir; bırakma günü
+  belirlenip çevresel düzenleme ve geri dönüş planıyla izlem yapılır'
+klasik_komplikasyon: KOAH ve akciğer kanseri önde olmak üzere gırtlak, yutak, mesane ve pankreas kanserleri;
+  aterosklerotik kalp hastalığı ve periferik damar hastalığı; gebelikte düşük doğum ağırlığı
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-18
+- tus-2016-sonbahar-ktbt-38
+- tus-2018-sonbahar-ttbt-102
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,46 @@
+id: case-ablatio-01
+version: 1
+status: draft
+author: ai-drafts/cases-d
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: ablatio_plasenta
+baslik: "Gebe kanamada ağrılı ve sert karın"
+adimlar:
+  - tip: sunum
+    metin: "31 yaşında gebe, gebelik haftası 34, önceki gebelik normal doğum, sigara içiyor. Bugün ani başlayan koyu renkte vajinal kanama ve karında sürekli, kasılma tarzında olmayan ağrı var. Muayenede uterus tahta gibi sert ve belirgin hassas, gevşeme saptanmıyor. Fetal kalp hızı 96/dk ve tekrarlayan geç yavaşlamalar var. Tansiyon 100/60 mmHg, nabız 118/dk. Laboratuvar: trombosit 90 bin, fibrinojen 180 mg/dL (düşük), D-dimer yüksek, INR 1.6. İntravenöz kanül çevresinde sızlama ve bacakta peteşi var."
+  - tip: secim
+    soru: "Üçüncü trimesterde ağrılı kanama, sert uterus ve fetal sıkıntı ile düşünülen tanı nedir?"
+    secenekler:
+      - metin: "Ablatio plasenta (erken plasenta ayrışması)"
+        dogru: true
+        geri_bildirim: "Ağrıyla gelen kanama, tahta gibi sert ve hassas uterus ve fetal sıkıntı ablatio'nun klasik tablosudur; plasenta bölgesinden tromboplastin salınımı yaygın damar içi pıhtılaşmaya yol açabilir"
+      - metin: "Plasenta previa"
+        dogru: false
+        geri_bildirim: "Previa'da kanama ağrısız, parlak kırmızıdır ve uterus yumuşak kalır; klinikle uyumsuz"
+      - metin: "Uterus rüptürü"
+        dogru: false
+        geri_bildirim: "Rüptür genellikle doğum eylemi sırasında ve önceki sezaryen skarı olan gebede görülür; kontraksiyonlar kaybolur ve fetal parça karın duvarından palpe edilebilir"
+      - metin: "Vasa previa"
+        dogru: false
+        geri_bildirim: "Kanama fetal kaynaklıdır ve genellikle membran rüptürüyle birlikte olur; uterus sertliği ve sürekli ağrı beklenmez"
+  - tip: sonuc
+    metin: "Klinik tablo ablatio plasenta ile uyumlu; USG'de ayrışma görünmedi, ancak bu tabloda tanı çoğunlukla klinikle konur. Fetal kalp hızı 90/dk'ya düştü, tekrarlayan yavaşlamalar sürüyor; trombosit 85 bin, fibrinojen 150 mg/dL."
+  - tip: secim
+    soru: "34 haftalık gebelikte fetal sıkıntı ve maternal pıhtılaşma bozukluğu var. Yönetim hangisidir?"
+    secenekler:
+      - metin: "Acil sezaryen ile doğurtma + kan ve pıhtılaşma bileşenleri (fibrinojen/kriyopresipitat) hazırlığı"
+        dogru: true
+        geri_bildirim: "Fetal sıkıntı varken doğum yolu sezaryendir; ablatio'da kanama büyüyebilir, pıhtılaşma ürünleri önceden hazırlanır, uterus atonisine karşı uterotonikler ve gerekirse histerektomi planı hazır tutulur"
+      - metin: "Tokolitik ilaç başlanıp gebeliğin 37 haftaya kadar sürdürülmesi"
+        dogru: false
+        geri_bildirim: "Fetal sıkıntı varken tokolizi kontrendikedir; gecikme fetus ve anne için ölümcüldür"
+      - metin: "Vajinal doğum eylemini bekleyip izlem"
+        dogru: false
+        geri_bildirim: "Sıkıntı yok ve doğum eylemi hızla ilerliyorsa vajinal doğum düşünülebilir; burada fetal sıkıntı ve pıhtılaşma bozukluğu varken bekleme doğru değildir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: üçüncü trimesterde ağrılı vajinal kanama + tahta gibi sert ve hassas uterus = ablatio plasenta; tanı çoğunlukla klinikle konur, USG'de ayrışma görülmeyebilir; fetusun sıkıntıda olduğu durumda acil sezaryen yapılır; tromboplastin salınımıyla DIC gelişebilir (fibrinojen ve trombosit düşer); plasenta previa ağrısızdır ve uterus yumuşaktır; risk faktörleri arasında hipertansiyon/preeklampsi, karın travması, sigara ve kokain kullanımı sayılır."
+sozlu_sorular:
+  - "Ablatio plasenta neden DIC'ye yol açar?"
+  - "Previa ile ablatio ayırıcı tanısında hangi bulgular öne çıkar?"
+  - "USG normal görülse tanıyı dışlar mı?"

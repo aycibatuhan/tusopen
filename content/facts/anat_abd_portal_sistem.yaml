@@ -1,0 +1,10 @@
+id: anat_abd_portal_sistem
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Portokaval anastomozlar"
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_portal_sistem]
+metin: "Portal ven, superior mezenterik ve dalak venlerinin pankreas boynunun arkasında birleşmesiyle oluşur. Portokaval anastomozlar özofagus (sol gastrik ve özofageal venler), rektum (üst rektal ile orta-alt rektal venler), paraumbilikal alan, retroperitoneal duvar ve karaciğer çıplak alanıdır. Portal hipertansiyonda bu anastomozlarda varis gelişir; en kanamaya eğilimli olanı özofageal varislerdir."

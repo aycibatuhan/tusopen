@@ -1,0 +1,55 @@
+id: su_cicegi
+version: 1
+status: draft
+author: ai-drafts/pediatri-3
+sources:
+- AAP Red Book (Varicella-Zoster Virus bölümü) — referans olarak listelendi, metin projesi özgün yazımdır
+- CDC varisella klinik yönetim rehberi
+ad: Suçiçeği
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_enfeksiyon
+  - ped_enf_su_cicegi
+tipik_hasta: Aşısı eksik ya da hiç olmamış çocuk; kuluçka süresi 10-21 gün (en sık 14-16); prodromal hafif
+  ateş ve halsizlikten sonra gövde ve yüzde başlayan kaşıntılı döküntüyle gelen; yetişkinlerde, gebelerde
+  ve bağışıklık yetersizliğinde tablo çok daha ağır seyreder
+patofizyoloji: Herpesvirüs ailesinden varisella zoster virüsü; solunum damlacıkları ve vezikül sıvısıyla
+  doğrudan temasla bulaşır. Mukozadan lenfoid dokuya, ardından viremiyle deriye yayılır; döküntü virüsün
+  deri damarları ve epitelinde yaptığı lezyonlardır. Enfeksiyon sonrasında virüs arka kök ganglionlarında
+  ömür boyu latent kalır, bağışıklık zayıfladığında zona olarak yeniden su yüzüne çıkar
+anahtar_bulgular:
+- 'Döküntü damla damla (crop) çıkar: aynı vücut bölgesinde aynı anda başlı papül, berrak sıvılı vezikül,
+  püstül ve kabuk evrelerinin bir arada görülmesi; döküntünün dalga dalga ilerlemesi bu görüntüyü yaratır'
+- Gül yaprağı üzerinde çiy damlası görünümünde, tepecikli (başlı), berrak sıvılı veziküller; kaşıntı belirgin
+- Yüz ve gövdeden başlayıp saçlı deriye ve uzuvlara yayılan döküntü; ağız mukozasında ülserli lezyonlar,
+  saçlı deride sık tutulum
+- Çocukta prodrom kısa ve hafif; döküntü ilk 24-48 saat içinde çok sayıda lezyonla hızla ilerler
+- 'Yetişkinde, gebelerde ve bağışıklık yetersizliğinde ağır tablo: varisella pnömonisi, birleşen ve kanayan
+  (hemorajik) lezyonlar, viseral yayılım'
+- 'Aşılanmış olguda hafif geçiş: az sayıda (aşılı kırılma formlarında 50 sayısının altında lezyon) kabuklanmamış lezyonla kızarıklık yönü belirgin
+  olmayan tablo'
+patognomonik: Aynı bölgede aynı anda farklı evrelerde (papül, vezikül, püstül, kabuk) lezyonların bir
+  arada bulunması
+ilk_tetkik: Klinik görünümle tanı konur; kesinleştirme gerekiyorsa vezikül tabanından alınan sıvıda ya
+  da tükürükte VZV PCR; IgM serolojisi alternatif onay yolu
+kesin_tani: Tipik klinik tablo (aynı bölgede aynı anda farklı evrelerin görüldüğü damla damla döküntü)
+  artı gerekirse laboratuvar onayı (vezikül sıvısında PCR ya da IgM pozitifliği)
+ilk_tedavi: 'Destekleyici bakım: kaşıntıya antihistaminik, tırnakların kısaltılması, cilt temizliği, ateş
+  kontrolünde parasetamol (aspirin verilmez). Riskli hastada döküntünün ilk 24-48 saatinde oral asiklovir;
+  ağır viseral tablo, yenidoğan ve bağışıklık yetersizliğinde damardan asiklovir; riskli temasta varisella
+  zoster immünglobulin (VZIG)'
+klasik_komplikasyon: İkincil bakteriyel cilt enfeksiyonu (stafilokok, streptokok) en sık; serebellar ataksi
+  ve ensefalit; yetişkin ve gebelerde varisella pnömonisi; aspirin kullanımıyla Reye sendromu; bağışıklık
+  yetersizliğinde yaygın viseral hastalık; gebeliğin ilk iki üç aylık döneminde konjenital varisella sendromu
+  (uzuv hipoplazisi, cilt skarları), doğum yakınında anne enfeksiyonunda ağır neonatal tablo; yıllar sonra
+  zona
+tus_gecmisi:
+- tus-2018-ilkbahar-ktbt-44
+- tus-2018-sonbahar-ktbt-53
+- tus-2020-sonbahar-ktbt-4
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

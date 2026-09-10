@@ -1,0 +1,10 @@
+id: biyok_enz_kinetik
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Michaelis-Menten Kinetiğinin Temelleri"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_kinetik]
+metin: "Km, reaksiyon hızının maksimum hızın yarısına ulaştığı substrat derişimidir; düşük Km, enzimin substratına yüksek afinite gösterdiğini belirtir. Reaksiyon hızı düşük substrat derişimlerinde birinci dereceden kinetiğe, doygunlukta sıfırıncı dereceden kinetiğe uyar. Lineweaver-Burk grafiğinde Km ve maksimum hız, doğrunun eksenleri kestiği noktalardan okunur."

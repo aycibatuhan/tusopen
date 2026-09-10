@@ -1,0 +1,10 @@
+id: mikro_par_nematod_barsak
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Enterobius ve Ascaris tanı yöntemleri"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_nematod_barsak]
+metin: "Enterobius vermicularis yumurtalarını perianal bölgeye bırakır; tanı sabah şeffaf bantla yapıştırılmış örnek üzerinde mikroskopik incelemeyle konur. Ascaris lumbricoides dışkıda kalın, mamelone benzer yüzeyli yumurtalar bırakır; erişkin solucanlar bağırsak tıkanıklığı yapabilir."

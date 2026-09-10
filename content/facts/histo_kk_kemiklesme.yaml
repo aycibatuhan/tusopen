@@ -1,0 +1,10 @@
+id: histo_kk_kemiklesme
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Endokondral ve Intramembranöz Kemikleşme"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_kikirdak_kemik, histo_kk_kemiklesme]
+metin: "Intramembranöz kemikleşmede mezenkimal doku doğrudan kemik hücrelerine dönüşür ve kafatasının yassı kemikleri bu yolla oluşur. Endokondral kemikleşmede kıkırdak bir öncül üzerinde kemik gelişir; uzun kemiklerin boyca büyümesi epifiz plak kıkırdaklarının proliferasyonu ve kalsifikasyonuyla sağlanır."

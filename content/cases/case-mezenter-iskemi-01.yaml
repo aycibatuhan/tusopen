@@ -1,0 +1,49 @@
+id: case-mezenter-iskemi-01
+version: 1
+status: draft
+author: "ai-drafts/cases-c"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: mezenter_iskemisi
+baslik: "Ağrısız görünen ama ağrısı şiddetli olan yaşlı hasta"
+adimlar:
+  - tip: sunum
+    metin: "74 yaşında kadın. Geçmişinde atriyal fibrilasyon tanısı var; antikoagülanı son haftalarda düzensiz kullanıyor. Bugün ani başlayan, göbek çevresinde en yoğun, dayanılmaz karın ağrısıyla geldi; bulantı ve bir kez kusma eşlik ediyor. Muayenede karın yumuşak, defans ve rebound belirgin değil; ağrının şiddeti ile muayene bulguları birbirini tutmuyor. Dışkıda kan yok. Başvurudan iki saat içinde hasta huzursuzlaşmış: nabız 112/dk ve düzensiz, tansiyon 105/65 mmHg."
+  - tip: secim
+    soru: "Yaşlı hastada şiddetli ağrı ile yumuşak karın muayenesinin uyumsuzluğu dikkat çekiyor. Tanısal değerlendirme için ilk adım hangisidir?"
+    secenekler:
+      - metin: "Serum laktat ve kan gazı ile birlikte acil kontrastlı bilgisayarlı tomografi anjiyografi"
+        dogru: true
+        geri_bildirim: "Atriyal fibrilasyonlu yaşlı hastada muayeneyi aşan şiddette ani karın ağrısı akut mezenterik iskemiyi düşündürür; laktat artışı ve metabolik asidoz şüpheyi pekiştirir, kesin görüntüleme kontrastlı BT anjiyografidir"
+      - metin: "Kan kültürü ve geniş spektrumlu antibiyotik ile altı saatlik gözlem"
+        dogru: false
+        geri_bildirim: "Gözlem bu tabloda bağırsak nekrozu gecikmesi demektir; tanı ve cerrahi kararı geciktirilmez"
+      - metin: "Batın ultrasonografisi ve taburculuk"
+        dogru: false
+        geri_bildirim: "Ultrasonografi mezenterik damar oklüzyonunu göstermede yetersizdir; iskemik bağırsakla taburcu etmek hayatı tehdit eden bir gecikmedir"
+      - metin: "Gastrik lavaj ve analjezi ile semptomatik tedavi"
+        dogru: false
+        geri_bildirim: "Bulgular fonksiyonel bir rahatsızlığa değil damar kökenli acil tabloya işaret eder; semptomatik yaklaşım mortaliteyi artırır"
+  - tip: sonuc
+    metin: "Serum laktat 4.6 mmol/L (artmış), beyaz küre 15.800/mm3, kan gazında metabolik asidoz. BT anjiyografide superior mezenterik arterin proksimal segmentinde tam oklüzyon; ince bağırsakta genişleme ve duvar kontrastlanmasında azalma görülüyor."
+  - tip: secim
+    soru: "Superior mezenterik arter oklüzyonu doğrulandı. Hastaya yönelik doğru yaklaşım hangisidir?"
+    secenekler:
+      - metin: "Acil cerrahi: nekrotik bağırsak segmentinin rezeksiyonu ve superior mezenterik arter revaskülarizasyonu, geniş spektrumlu antibiyotik desteği"
+        dogru: true
+        geri_bildirim: "Oklüzyonlu ve peritonik tabloya yönelen hastada tedavi acil revaskülarizasyon ile nekrotik segmentin rezeksiyonudur; medikal tedavi tek başına yeterli değildir"
+      - metin: "Geniş spektrumlu antibiyotik ve antikoagülan ile medikal tedavi, cerrahi kararın bekletilmesi"
+        dogru: false
+        geri_bildirim: "Nekroz gelişen bağırsakta tek başına medikal yaklaşım mortaliteyi artırır; cerrahideki her saat gecikme ölümcüldür"
+      - metin: "Sadece nazogastrik dekompresyon ve bağırsak dinlendirmesi"
+        dogru: false
+        geri_bildirim: "Tıkanan damar açılmadan bağırsak nekrozu ilerler; dekompresyon tek başına çözüm değildir"
+      - metin: "Ağrı kontrolü sonrası ayaktan ileri değerlendirme planlanması"
+        dogru: false
+        geri_bildirim: "Laktat artışı ve muayene bulgularının ağrıyla uyumsuzluğu acil müdahale gerektirir; ayaktan plan ölümcül gecikme yapar"
+  - tip: ozet
+    metin: "Öğrenme noktaları: atriyal fibrilasyonlu yaşlı hastada muayeneyi aşan ani şiddetli karın ağrısı akut mezenterik iskemiyi düşündürür; laktat artışı ve metabolik asidoz destekler; kesin görüntüleme kontrastlı BT anjiyografidir; tedavi acil revaskülarizasyon ve nekrotik bağırsak rezeksiyonudur; gecikme mortalitenin en önemli belirleyicisidir."
+sozlu_sorular:
+  - "Ağrı ile muayene bulgularının uyumsuzluğu neden bu hastalıkta tipiktir?"
+  - "Laktat bu tabloda neyi gösterir, normal olması iskemiyi dışlar mı?"
+  - "Mezenterik iskemide erken cerrahinin amaçları nelerdir?"

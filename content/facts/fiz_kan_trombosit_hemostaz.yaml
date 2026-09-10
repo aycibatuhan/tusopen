@@ -1,0 +1,10 @@
+id: fiz_kan_trombosit_hemostaz
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Primer Hemostaz"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_trombosit_hemostaz]
+metin: "Damar yaralanmasında önce vazospazm, ardından trombosit tıkacı gelişir; trombositler von Willebrand faktörü aracılığıyla açığa çıkan kollajene yapışır. ADP ve tromboksan A2 salgılanarak agregasyon sürer; aspirin tromboksan A2 yapımını engelleyerek bu agregasyonu zayıflatır."

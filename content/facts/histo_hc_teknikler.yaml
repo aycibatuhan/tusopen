@@ -1,0 +1,10 @@
+id: histo_hc_teknikler
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hematoksilen-Eozin Boyasının Temel Kuralları"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_hucre, histo_hc_teknikler]
+metin: "Hematoksilen bazik bir boyadır ve DNA gibi asit özellikli yapılara bağlanarak çekirdeği mavi-mor renge boyar; bu görünüm bazofilik boyanma olarak adlandırılır. Eozin asidik bir boyadır ve protein açısından zengin sitoplazmik yapıları pembe renge boyar; bu görünüm asidofilik ya da eozinofilik boyanma olarak adlandırılır."

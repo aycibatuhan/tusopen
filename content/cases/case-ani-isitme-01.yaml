@@ -1,0 +1,46 @@
+id: case-ani-isitme-01
+version: 1
+status: draft
+author: ai-drafts/cases-d
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: ani_isitme_kaybi
+baslik: "Bir kulakta bir anda gelişen işitme kaybı"
+adimlar:
+  - tip: sunum
+    metin: "43 yaşında kadın. Sabah uyandığında sol kulağının duymadığını fark etti; ağrı ve akıntı yok, sol kulakta çınlama ve tıkanma hissi, hafif baş döner gibi oluyor ama devrilme yok. Muayenede kulak zarı iki tarafta da sağlam ve parlak; Weber testinde ses sağ kulağa kayıyor, Rinne'de her iki kulakta hava iletimi kemik iletiminden iyi. Sol kulakta saf ses odyometrisi 55 dB sensörinöral tip kayıp gösteriyor."
+  - tip: secim
+    soru: "Kulak zarı sağlam, Weber sağa kaymış ve odyometri sensörinöral tip. Bu tabloda doğru değerlendirme hangisidir?"
+    secenekler:
+      - metin: "Ani sensörinöral işitme kaybı; acil değerlendirme ve tedavi gerekir"
+        dogru: true
+        geri_bildirim: "İç kulak (koklea veya koklear sinir) kaynaklı kayıpta Weber sağlam kulağa kayar ve Rinne hava iletimi lehine kalır; ani tek kulak kaybı acil kabul edilir"
+      - metin: "Orta kulak iltihabı"
+        dogru: false
+        geri_bildirim: "Orta kulak tutulumunda kulak zarı mat veya kabarık olur, ağrı ve akıntı vardır; kayıp iletim tipidir ve Weber etkilenen kulağa kayar"
+      - metin: "Meniere hastalığı"
+        dogru: false
+        geri_bildirim: "Meniere tekrarlayan ataklarla, dalgalı işitme kaybı, basınç hissi, çınlama ve dönme vertigosuyla seyreder; ani ve kalıcı tek atak beklenmez"
+      - metin: "Otoskleroz"
+        dogru: false
+        geri_bildirim: "Otoskleroz yavaş ilerleyen iletim tipi kayıptır; Weber'de ses etkilenen kulağa kayar, odyometri iletim tipi çıkar"
+  - tip: sonuc
+    metin: "Saf ses odyometrisi sol kulakta 55 dB sensörinöral kaybı doğruladı; en az üç ardışık frekansta 30 dB'yi aşan kayıp saptandı. Tanı: idiyopatik ani sensörinöral işitme kaybı. Retrokoklear patoloji dışlamak için MR planlandı."
+  - tip: secim
+    soru: "İdiopatik ani sensörinöral işitme kaybı tanılandı; başvuru ilk 48 saat içinde. Tedavi hangisidir?"
+    secenekler:
+      - metin: "Yüksek doz sistemik kortikosteroid (prednizon 1 mg/kg/gün, 10-14 gün)"
+        dogru: true
+        geri_bildirim: "Erken başlanan yüksek doz kortikosteroid iyileşme şansını belirgin artırır; en etkin tedavi penceresi ilk 2 haftadır, gecikme sonucu kötüleştirir"
+      - metin: "Antibiyotik tedavisi"
+        dogru: false
+        geri_bildirim: "Enfeksiyon bulgusu yok, kulak zarı sağlam; antibiyotiğin bu tabloda yeri yoktur"
+      - metin: "6 ay izleyip iyileşmezse işitme cihazı"
+        dogru: false
+        geri_bildirim: "Bekleme penceresi kaybedilirse iyileşme şansı belirgin düşer; ani kayıp acil tedavi gereken tablodur, işitme cihazı ancak kalıcı kayıpta sonradan önerilir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: ani tek kulak işitme kaybı acildir; Weber etkilenen kulaktan sağlam kulağa kayıyorsa kayıp sensörinöraldir, etkilenen kulağa kayıyorsa iletim tipidir; kulak zarı sağlamken iletim tipi kayıp orta kulak kaynaklı düşünülür; idiyopatik ani sensörinöral işitme kaybında ilk 2 hafta içinde yüksek doz kortikosteroid en etkili tedavidir, inatçı vakalarda timpanik membran içine steroid enjeksiyonu düşünülür; retrokoklear patoloji dışlamak için MR istenir."
+sozlu_sorular:
+  - "Weber ve Rinne testleri bu hastada nasıl yorumlanır?"
+  - "Kortikosteroid tedavisi neden gecikmeden başlanır?"
+  - "Hangi durumda intratimpanik steroid düşünülür?"

@@ -1,0 +1,10 @@
+id: pat_imm_otoimmun
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Otoimmün Hastalıklar"
+taksonomi:
+  - [ttbt, patoloji, pat_immun, pat_imm_otoimmun]
+metin: "Sistemik lupus eritematozda antinükleer antikorlar ve immün kompleks birikimi temel patolojidir; tanı için en spesifik antikorlar anti-dsDNA ve anti-Sm'dir. Tabloda malar döküntü, eklem ağrıları, serozit ve böbrek tutulumu (en ağır şekli difüz proliferatif glomerulonefrit) görülür. Hashimoto tiroiditinde anti-tiroid peroksidaz antikorları, Graves hastalığında ise TSH reseptörüne karşı uyarıcı antikorlar en sık saptanan serolojik bulgulardır."

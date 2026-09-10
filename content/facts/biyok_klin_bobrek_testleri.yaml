@@ -1,0 +1,10 @@
+id: biyok_klin_bobrek_testleri
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Böbrek Fonksiyonunun Değerlendirilmesi"
+taksonomi:
+  - [ttbt, biyokimya, biyok_klinik, biyok_klin_bobrek_testleri]
+metin: "Glomerüler filtrasyon hızı böbrek işlevinin en iyi göstergesidir; kreatinin ve üre azot bunun dolaylı yansımalarıdır. Kreatinin kas kütlesinden etkilendiği için yaşlılarda kreatinin normal görünse de filtrasyon düşük olabilir. BUN ve kreatinin oranının yükselmesi prerenal azotemiyi, idrarda Bence Jones proteininin saptanması ise multipl miyelomu düşündürür."

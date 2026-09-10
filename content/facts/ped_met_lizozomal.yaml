@@ -1,0 +1,10 @@
+id: ped_met_lizozomal
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lizozomal Depo Hastalıkları"
+taksonomi:
+  - [ktbt, pediatri, ped_metabolik, ped_met_lizozomal]
+metin: "Lizozomal depo hastalıklarının çoğu otosomal resesif geçişlidir; Hunter sendromu (iduronat-2-sülfataz eksikliği) X-kromozoma bağlı geçişin klasik örneğidir. Hurler sendromu (MPS I, alfa-L-iduronidaz eksikliği) kornea opasitesi, kaba yüz görünümü, hepatosplenomegali, gelişme geriliği ve disostozis multipleks yapar; Hunter sendromunda kornea opasitesi bulunmaz. Gaucher hastalığında (beta-glukoserebrozidaz eksikliği) buruşuk kâğıt görünümlü Gaucher hücreleri hepatosplenomegali ve kemik krizlerine yol açar ve enzim replasman tedavisi mevcuttur. Niemann-Pick (sfigomiyelinaz) ve Tay-Sachs (heksosaminidaz A) retinada kiraz kırmızı benek yapar; Tay-Sachs'ta hepatosplenomegali yoktur, Krabbe hastalığında (galaktoserebrozidaz) sinir dokusunda globoid hücreler görülür. Pompe hastalığında (asidik maltaz/alfa-glukosidaz eksikliği) lizozomal glikojen birikimi hipotonik bebekte hipertrofik kardiyomiyopatiye neden olur."

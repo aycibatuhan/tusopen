@@ -1,0 +1,109 @@
+id: kalp_yetmezligi
+version: 2
+status: draft
+author: ai-drafts/kardiyoloji
+sources:
+- ESC 2021 Kalp Yetmezliği Rehberi + 2023 Odaklanmış Güncelleme (McDonagh ve ark., Eur Heart J) — referans
+  olarak listelendi, metin projesi özgün yazımdır
+- AHA/ACC/HFSA 2022 Kalp Yetmezliği Rehberi (Circulation, Heidenreich ve ark.) — referans olarak listelendi
+- PARADIGM-HF (NEJM 2014), DAPA-HF (NEJM 2019), EMPEROR-Reduced (NEJM 2020), EMPEROR-Preserved (NEJM 2021),
+  DELIVER (NEJM 2022) çalışmaları — referans olarak listelendi
+ad: Kalp Yetmezliği
+taksonomi:
+- - ktbt
+  - kardiyoloji
+  - kard_kalp_yetmezligi
+  - kard_ky_patofizyoloji
+- - ktbt
+  - dahiliye
+  - dah_kardiyovaskuler
+  - dah_kv_kalp_yetmezligi
+tipik_hasta: Klasik HFrEF hastası 65 yaş üstü, hipertansiyon ve iskemik kalp hastalığı veya önceki miyokard
+  enfarktüsü öykülü erkektir; eforla nefes darlığı, gece yastıktan kalkmayı gerektiren nefes darlığı, uykuda
+  boğulma atağı, ayak bileği şişmesi ve çabuk yorulma ile başvurur. HFpEF tablosunda ise yaşlı, hipertansiyonlu,
+  diyabetik, obez ve kadın hasta, aynı konjesyon yakınmalarını korunmuş kasılma oranıyla yaşar
+patofizyoloji: 'Ana ekseni nörohümoral aktivasyondur: pompa gücü düşen kalbe karşı vücut renin-anjiyotensin-aldosteron
+  sistemini ve sempatik sinir sistemini devreye sokar; vazokonstriksiyon, hacim yüklenmesi ve artan kalp hızı
+  kısa vadede debiyi korur ama kronik evrede miyokard remodellingine, apoptoz ve fibroza, giderek dilate ve
+  işlevsiz ventriküle yol açar; kısır döngü tedavinin mantığını da kurar, çünkü dört sütunlu temel tedavi bu
+  sistemleri bloke eder. HFrEF tipinde EF yüzde 40 ve altıdır ve sistolik fonksiyon bozuktur; HFpEF tipinde
+  EF yüzde 50 ve üstü kalır ama gevşeme-doluş bozukluğu nedeniyle doluş basınçları yükselir ve konjesyon olur;
+  aradaki yüzde 41-49 bandı HFmrEF olarak ayrı sınıftır'
+anahtar_bulgular:
+- Efor dispnesi, ortopne ve paroksismal noktürnal dispne; ileri olguda istirahat dispnesi
+- Juguler venöz dolgunluk, hepatoyuguler reflü, periferik pit ödem, hepatomegali, asit (sağ kalp yetmezliği)
+- Bazalde ince kreptan raller, S3 gallop ritmi, çabuk yorulma ve egzersiz kapasitesinde düşme
+- 'Telegrafide kardiyomegali (kardiyotorasik oran artışı), Kerley B çizgileri, plevral efüzyon, pulmoner
+  venöz konjesyon'
+- BNP veya NT-proBNP yükselmesi; şikayet şiddeti NYHA fonksiyonel sınıflaması ile belirtilir (I-IV)
+- 'Ekokardiyografide EF sınıflaması: HFrEF yüzde 40 ve altı, HFmrEF yüzde 41-49, HFpEF yüzde 50 ve üstü;
+  HFmrEF ve HFpEF tablolarında doluş basınç artışı bulguları (sol atriyal genişleme, E/e yüksekliği, LV
+  hipertrofisi)'
+- 'Altta yatan nedenin izleri: önceki infarkt bölgesinde akinezi (iskemik), kapak hastalığı, LV hipertrofisi'
+- 'Dekompanzasyonda hızlı kilo artışı, ödem artışı ve solunum sıkıntısı; akut tabloda siyanoz, soğuk
+  ekstremite, hipotansiyon'
+patognomonik: Ortopne ve paroksismal noktürnal dispne + telegrafide kardiyomegali + yükselmiş BNP/NT-proBNP
+  üçlüsü; ekokardiyografide düşük EF bu üçlüyü tamamlayarak tanıyı kesinleştirir
+ilk_tetkik: Ekokardiyografi ilk ve en önemli tetkiktir; EF ölçer, nedeni (iskemi, kapak, hipertansiyon) işaret
+  eder. BNP/NT-proBNP de istenir; EKG, tele kardiyotorasik oran ve konjesyon bulguları, kreatinin-elektrolitler,
+  hemogram, karaciğer fonksiyon testleri, açlık glukozu ve lipid profili tamamlar. İskemi şüphesinde koroner
+  anjiyografi planlanır
+kesin_tani: 'Semptom ve belirtiler (dispne, konjesyon, çabuk yorulma) artı natriüretik peptit yükselmesi artı
+  ekokardiyografik işlev bozukluğu bir arada bulunur; EF sınıflaması tanıyı tamamlar: HFrEF EF yüzde 40 ve
+  altı, HFmrEF yüzde 41-49, HFpEF yüzde 50 ve üstü. HFmrEF ve HFpEF tablolarında doluş basınç artışının
+  dolay bulguları
+  (sol atriyal genişleme, LV hipertrofisi, E/e yüksekliği) aranır. Akut tabloda sıcak-soğuk-ıslak-kuru profili
+  bedside sınıflama sağlar'
+ilk_tedavi: 'Kronik HFrEF temelinde dört sütun birlikte kurulur, her biri mortaliteyi azalttığı için sırada
+  bekletilmez ve düşük dozda başlanıp hedefe titrenir: (1) ARNI (sakubitril-valsartan) veya ACE inhibitörü-ARB,
+  (2) kanıtlı beta bloker (bisoprolol, karvedilol, metoprolol süksinat, nebivolol), (3) MRA (spironolakton,
+  eplerenon), (4) SGLT2 inhibitörü (dapagliflozin veya empagliflozin). Konjesyon varsa loop diüretik (fürosemid)
+  eklenir; diüretik konjesyonu çözer ama mortaliteyi değiştirmez. 2022 ACC/AHA ve 2023 ESC güncellemesi SGLT2
+  inhibitörünü dört sütuna yükseltti; dört sütun uyumlu hastada EF yüzde 35 ve altı, sinüs ritmi ve beta blokere
+  rağmen nabız 70 üstü sürerse ivabradin (Sınıf IIa), hâlâ belirtili sinüs ritmi hastada digoksin yatış azaltımı
+  için (Sınıf IIb) düşünülür. Akut dekompanzasyonda oturarak pozisyon, oksijen, intravenöz loop diüretik;
+   tansiyon uygunsa vasodilatör, hipotansiyon ve şokta inotrop-vazopresör. HFmrEF ve HFpEF gruplarında SGLT2
+   inhibitörü temel öneridir (HFmrEF Sınıf I); beta bloker ve ACE inhibitörünün HFpEF grubunda mortalite
+   faydası gösterilememiştir, konjesyonda diüretik kullanılır'
+klasik_komplikasyon: Ventriküler aritmiler ve ani kardiyak ölüm (ICD endikasyonu), kardiyorenal sendrom ve
+  ilerleyici böbrek yetmezliği, kardiyak kaşeksi; akut pulmoner ödem ve tekrarlayan hastaneye yatışlar
+ayirici:
+- hastalik: koah
+  ayirt_edici: KOAH dispnesi öksürük-balgam öyküsü ve uzayan ekspiryumla, havayolu obstruksiyonu (spirografi
+    FEV1/FVC azalması) ile gider; konjesyon bulguları (juguler dolgunluk, pit ödem, S3) beklenmez, NT-proBNP
+    normal seyreder. Kalp yetmezliğinde spirografi normaldir ama telegrafide kardiyomegali ve BNP yükselir;
+    ileri KOAH tablosunda kor pulmonale eklendiğinde sağ kalp yetmezliği bulguları da görülebilir
+- hastalik: akut_koroner_sendrom
+  ayirt_edici: Akut koroner sendromda göğüs ağrısı ön plandadır, EKG bulguları (sürekli iskemi değişiklikleri)
+    ve troponin yükselmesi vardır; kalp yetmezliğinde ağrı yoktur, bulgular konjesyon odaklıdır. Bununla birlikte
+    infarkt sonrası ventrikül disfonksiyonu kalp yetmezliğinin en sık nedenlerinden biridir, iki tablo birlikte
+    bulunabilir
+- hastalik: pulmoner_hipertansiyon
+  ayirt_edici: Pulmoner hipertansiyonda efor dispnesi ve sağ kalp yetmezliği bulguları (juguler dolgunluk,
+    periferik ödem, asit) öne çıkar ama sol ventrikül işlevi korunur; ekokardiyografide pulmoner arter basıncı
+    yükselmiştir, sol taraflı konjesyon ve düşük EF yoktur. Kalp yetmezliğinde ise baskın bulgu sol ventrikül
+    işlev bozukluğu ve iki taraflı konjesyondur
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-10
+- tus-2015-ilkbahar-ktbt-8
+- tus-2015-ilkbahar-ttbt-108
+- tus-2015-sonbahar-ktbt-10
+- tus-2015-sonbahar-ktbt-11
+- tus-2015-sonbahar-ktbt-9
+- tus-2015-sonbahar-ttbt-119
+- tus-2017-ilkbahar-ttbt-108
+- tus-2017-sonbahar-ktbt-29
+- tus-2018-ilkbahar-ktbt-5
+- tus-2019-ilkbahar-ktbt-11
+- tus-2019-sonbahar-ktbt-11
+- tus-2019-sonbahar-ttbt-107
+- tus-2020-sonbahar-ktbt-11
+- tus-2020-sonbahar-ttbt-110
+- tus-2020-sonbahar-ttbt-79
+- tus-2021-sonbahar-ktbt-10
+- tus-2021-sonbahar-ktbt-9
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

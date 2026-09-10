@@ -1,0 +1,10 @@
+id: mikro_rna_hepatit_a_e
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hepatit A ve E bulaşma ve kroniklik"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_hepatit_a_e]
+metin: "Hepatit A ve E virüsleri zarfsız, tek iplikçikli pozitif polariteli RNA'lı virüslerdir ve fekal-oral yolla bulaşır. Hepatit A kronikleşmez; HEV 3. genotip immünsüprese hastada kronik karaciğer hastalığı yapabilir; hepatit E özellikle gebelerde fulminan karaciğer yetmezliği riski taşır. Tanı serumda IgM antikorları ile konur."

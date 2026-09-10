@@ -1,0 +1,25 @@
+id: femur_basi_epifiz_kaymasi
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-2"
+sources:
+  - "AAOS Femur Başı Epifiz Kayması Kılavuzu (2022)"
+  - "Campbell's Operative Orthopaedics"
+ad: Femur Başı Epifiz Kayması
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_sfke]
+tipik_hasta: "10-16 yaş obez ergen, erkeklerde daha sık; haftalarca süren kalça veya diz ağrısı ve aksayan yürüyüş ile geliyor; sporda performans düşer, topalayarak yürür; ağrı uyluğun iç ön yüzüne ve dize vurur; hipotiroidi, büyüme hormonu bozuklukları gibi endokrin hastalıklarda risk artar ve çift taraflı kayma olasılığı yükselir"
+patofizyoloji: "Puberte hızlı büyüme döneminde femur başı büyüme plağı (fizez) kartilajı en zayıf hâlindedir; obezitenin yarattığı makaslama yükü ve endokrin hastalıkların plağı zayıflatmasıyla epifiz, femur boyun üzerinde geriye-içe (posterior-medial) doğru kayar; kayma genellikle haftalarca süren sessiz bir ön dönemden sonra belirlenir (kronik form); ani ağrı alevlenmesi kararsız (akut) kaymayı gösterir ve beslenme damarı riski en yüksek formdur"
+anahtar_bulgular:
+  - "10-16 yaş obez ergen; kalça/diz ağrısı, aksayan yürüyüş, spor performansında düşme"
+  - "Yürüme ve ayakta durmada bacak dışa dönük (eksternal rotasyon); kalça fleksiyonunda bacak zorlanarak dışa açılır (Drehmann işareti)"
+  - "İç rotasyon ve abdüksiyon kısıt; ağrı uyluğun iç ön yüzüne ve dize vurur (obturatör sinir yolu)"
+  - "Kurbağa lateral radyografide kayma en iyi görünür; ön-arka grafide Klein çizgisi (Trethowan işareti) femur başını kesmez"
+  - "Diğer kalça riskli: çift taraflı kayma oranı yüksek (%20-40); genç obez veya endokrin hastalığı olan hastada karşı taraf izlenmeli"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Trethowan işareti (Klein çizgisinin femur başını kesmemesi)"
+ilk_tetkik: "Her iki kalçanın ön-arka ve kurbağa (frog-lateral) radyografileri; ağır yer değiştirmiş kararsız kaymada kurbağa pozisyonu kaymayı artırabileceğinden gerçek lateral görüntü tercih edilir; şüphede MRG erken kaymayı gösterir"
+kesin_tani: "Radyografide epifizin femur boyun üzerinde posterior-medial kayması; kayma derecesi, epifizin boyun genişliğinin yüzde kaçına karşılık geldiği ile tarif edilir (hafif yüzde 25 altı, orta yüzde 25-50, ileri yüzde 50 üstü); tablo stabil (yürüyebilen) veya kararsız (yük veremeyen) olarak sınıflanır"
+ilk_tedavi: "Kaymayı yerinde durdurmak: redüksiyon denenmeden epifize geçen tek kanülü vida ile in-situ tespit (agresif redüksiyon avasküler nekroz riskini artırır); kararsız ve ileri kaymada nazik kapalı redüksiyon eklenebilir; endokrin hastalık şüphesinde tiroid ve büyüme hormonu değerlendirmesi; riskli grupta karşı kalçanın profilaktik fiksasyonu tartışılır"
+klasik_komplikasyon: "Femur başı avasküler nekrozu (kararsız kaymada ve agresif redüksiyonda), kıkırdak erimesi (kondroliz), fizez erken kapanması ve kalça eklemi yıkımı; karşı tarafta kayma"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

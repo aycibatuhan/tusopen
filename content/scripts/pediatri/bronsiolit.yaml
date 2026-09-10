@@ -1,0 +1,50 @@
+id: bronsiolit
+version: 1
+status: draft
+author: ai-drafts/pediatri-2
+sources:
+- Amerikan Pediatri Akademisi (AAP) bronşiolit tanı ve tedavi kılavuzu — referans olarak listelendi, metin
+  özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: Bronşiolit
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_bronsiolit
+tipik_hasta: 2 yaşından küçük, çoğunlukla 2-6 aylık bebek; kış aylarında evdeki büyük kardeşten veya kreşten
+  kapılan nezleyi izleyen öksürük, hırıltı ve beslenme güçlüğüyle getirilir. Prematüritelik, bronkopulmoner
+  displazi, hemodinamik anlamlı kalp hastalığı ve immün yetmezlik ağır gidiş için risk faktörleridir;
+  evde sigara dumanı ve kalabalık hane de riski artırır
+patofizyoloji: 'Etiyolojinin en sık etkeni RSV''dir (respiratuvar sinsitiyal virüs); rinovirüs, insan
+  metapnömovirüsü ve parainfluenza da benzer tablo yapar. Virüs bronşiyol epitelinde nekroz ve ödem, peribronşiyal
+  lenfositer infiltrasyon ve mukus tıkaçlarına yol açar; küçük havayolları daralınca hava tutulumu, atelektazi
+  ve ventilasyon-perfüzyon uyumsuzluğu gelişir. Önemli nokta: temel mekanizma bronkospazm değil, ödem
+  ve sekresyondur — bu yüzden klasik bronkodilatörler beklenen faydayı vermez'
+anahtar_bulgular:
+- Önce nezle; ardından 3-5 gün içinde artan öksürük, hırıltı ve solunum sayısının yükselmesi
+- Muayenede her iki hemitoraksta difüz ekspiratuar hırıltı ve ince (kırılabilir) raller
+- Subkostal ve interkostal çekilmeler, burun kanadı solunumu; emzirirken yorulma
+- Ateş düşük düzeyde veya yok; genel durum çoğu kez iyi
+- 2 aylıktan küçük bebekte açıklanamayan apne atakları — hastane takibi gerektiren alarm
+patognomonik: null
+ilk_tetkik: Tanı klinik konur; rutin graf, kan tetkiki veya viral PCR önerilmez. Pulse oksimetri esastır;
+  ağır görünüm, atipik gidiş veya komplikasyon şüphesinde göğüs grafisi ve gerekirse ek tetkikler alınır
+kesin_tani: 'Klinik tanı: 2 yaş altında, üst solunum yolu semptomlarını izleyen ilk hırıltı atağı; muayenede
+  difüz hırıltı ve ince raller. Ailede astım öyküsü veya tekrarlayan ataklar astımı düşündürür; yüksek
+  ateş, toksik görünüm veya lokalize bulgular bakteriyel pnömoni olasılığını araştırır'
+ilk_tedavi: 'Destek tedavi esastır: hipoksemide oksijen (SpO2 hedefi yüzde 90''ın üzeri), beslenemeyen
+  bebekte nazogastrik veya damar yoluyla hidrasyon, nazal sekresyonların aspirasyonu. Rutin bronkodilatör,
+  sistemik steroid ve antibiyotik kanıtlanmamıştır; ağır solunum güçlüğünde yüksek akımlı oksijen veya
+  CPAP gerekir. Yatış kararı oksijen ihtiyacına, beslenme durumuna ve ailenin bakım kapasitesine göre
+  verilir; yüksek riskli bebeklerde RSV sezonu öncesi palivizumab proflaksisi düşünülür'
+klasik_komplikasyon: Küçük bebeklerde apne; sekonder bakteriyel pnömoni (nadir); iyileşen bebeklerde virüsle
+  ilişkili tekrarlayan hırıltı dönemi
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-59
+- tus-2020-sonbahar-ttbt-65
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

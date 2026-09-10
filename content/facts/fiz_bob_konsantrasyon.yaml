@@ -1,0 +1,10 @@
+id: fiz_bob_konsantrasyon
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İdrar Konsantrasyonu Mekanizması"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_konsantrasyon]
+metin: "Henle kulpu karşı akım çarpanı mekanizmasıyla medullada hipertonik gradyan kurar; çıkan kol sodyum, potasyum ve kloru aktif geri alırken inen kol suya geçirgendir. ADH toplayıcı kanal hücrelerinde V2 reseptörü üzerinden akuaporin-2 kanallarını hücre yüzeyine yerleştirir ve idrar ozmolalitesinin 1200 miliosmola kadar yükselmesine izin verir; ADH yokluğunda idrar 50 miliosmolun altına iner."

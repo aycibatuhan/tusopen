@@ -1,0 +1,10 @@
+id: histo_hc_organeller
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Granüllü ve Granülsüz Endoplazmik Retikulum"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_hucre, histo_hc_organeller]
+metin: "Ribozomlarla kaplı granüllü endoplazmik retikulum dışarıya salgılanacak proteinleri sentezler; plazma hücreleri ve ekzokrin pankreas asiner hücrelerinde belirgindir. Granülsüz endoplazmik retikulum ribozom taşımaz ve steroid hormon üretimi, kalsiyum deposu olma ve ilaç detoksifikasyonu görevlerini üstlenir."

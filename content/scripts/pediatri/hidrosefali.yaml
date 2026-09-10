@@ -1,0 +1,49 @@
+id: hidrosefali
+version: 1
+status: draft
+author: ai-drafts/pediatri-3
+sources:
+- Nelson Textbook of Pediatrics (hidrosefali bölümü) — referans olarak listelendi, metin projesi özgün
+  yazımdır
+- 'Çocuk nöroşirurji dernek kılavuzları: ventriküloperitoneal şant yönetimi'
+ad: Hidrosefali (Çocuk)
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_noroloji
+  - ped_nor_hidrosefali_ntd
+tipik_hasta: Baş çevresi hızla büyüyen, ön fontaneli geniş ve gergin, aşağı bakışta gözleri aşağı kaymış
+  (güneş batması görünümü) bebek; myelomeningosel onarılmış bebek ve prematüre intraventriküler kanama
+  geçiren bebek yüksek riskli; büyük çocukta sabahları ağırlaşan baş ağrısı, kusma ve görme bozukluğuyla
+  gelen okul çağı çocuğu
+patofizyoloji: 'BOS üretimi ile emilimi arasındaki dengenin bozulması ve ventriküllerin genişlemesi. Obstrüktif
+  (iletişimsiz) tip: akvedükt stenoz, posterior fossa tümörü gibi akış yolu tıkanıklıkları; iletişimsel
+  tip: araknoid villuslardaki emilim bozukluğu (menenjit sonrası, prematüre intraventriküler kanama sonrası).
+  Myelomeningosele Chiari tip II malformasyonu eşlik eder ve akvedükt stenoz klasik olarak eşlik eder; genişleyen
+  ventriküller korteksi inceltir, beyin dokusu hasar görür'
+anahtar_bulgular:
+- 'Makrosefali: baş çevresinin yaş dilim persentillerinin üstünde olması ya da persentil çizgisini hızla
+  tırmanması; suturların ayrılması'
+- 'Güneş batması bulgusu: aşağı yönlü bakışta gözlerin aşağı kayması, üst göz kapağı ile iris arasındaki
+  skleranın beyaz görünmesi'
+- Geniş, gergin ve dolgun ön fontanel; kafa derisinde damarların belirginleşmesi; perküsyonda çatlak saksı
+  sesi (Macewen bulgusu)
+- Gelişimsel ve motor gecikme; büyük çocukta sabahları ağırlaşan baş ağrısı, kusma, papilödem, 6. sinir
+  felcine bağlı içe bakış ve çift görme
+- Prematüre olguda intraventriküler kanama sonrası hızla artan baş çevresi ve artan kafa içi basınç bulguları
+patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Güneş batması bulgusu: bebekte kronik artmış kafa içi basıncının klasik göz görünümü'
+ilk_tetkik: Kranial ultrasonografi (ön fontanel açıkken ilk seçim); hızlı bozulma (bilinç bulanıklığı,
+  papilödem, vital bozulma) varsa acil beyin MR
+kesin_tani: 'Görüntüleme: ventriküllerin orantısız büyümesi (özellikle obstrüktif tipte üçüncü ve lateral
+  ventrikül genişliği), periventriküler transüdasyon (BOS sızması) ve etiyolojiyi gösteren bulgular'
+ilk_tedavi: 'BOS sapması: ventriküloperitoneal şant (en sık yöntem); akvedükt stenoz gibi bazı obstrüktif
+  olgularda endoskopik üçüncü ventrikülostomi; akut dekompansasyonda eksternal drenaj'
+klasik_komplikasyon: Tedavisizde ilerleyici beyin hasarı, gelişimsel gerilik ve görme kaybı; şantlu hastada
+  şant enfeksiyonu, şant tıkanması ve tekrar revizyon gereksinimi
+tus_gecmisi:
+- tus-2020-sonbahar-ttbt-62
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

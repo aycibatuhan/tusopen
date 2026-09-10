@@ -1,0 +1,10 @@
+id: fiz_kv_kalp_debisi
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Frank-Starling Mekanizması"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kalp_debisi]
+metin: "Frank-Starling mekanizmasına göre diyastolde ventriküle dönen kan arttıkça miyokard lifleri daha çok uzar ve atım hacmi fizyolojik aralıkta artar; böylece kalp, venöz dönüşteki artışa çıkışını yükselterek yanıt verir. Kontraktilite arttığında aynı ön yükte daha büyük atım hacmi üretilir."

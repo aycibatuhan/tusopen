@@ -1,0 +1,10 @@
+id: kd_gf_plasenta
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plasenta, Amniyon ve Umbilikal Kord"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_plasenta]
+metin: "Plasenta gaz, besin ve atık alışverişini sağlar; hormonlarını sitotrofoblast değil sinksiyotrofoblast üretir ve hCG korpus luteumu 8-10 hafta boyunca koruyarak progesteron üretimi plasentaya devredilene dek sürdürülür. hPL (human plasental laktogen) insülin antagonistidir; salınımı gebelik süresiyle orantılı artar ve gestasyonel diyabet zeminini hazırlayan insülin direncine katkıda bulunur. Umbilikal kord normalde iki arter ve bir ven içerir; tek umbilikal arter doğumsal anomalilerle ilişkili bir bulgudur. Amniyon sıvısı erken gebelikte maternal-fetal su geçişine, 2. trimesterden itibaren esas olarak fetal idrar ve akciğer sıvısına bağlı oluşur; volüm yaklaşık 34. haftada 800 mL civarında zirve yapar. Plasental bariyerden IgG geçerken IgM geçmez; bu IgG geçişi yenidoğana pasif immünite sağlar."

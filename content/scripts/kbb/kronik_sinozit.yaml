@@ -1,0 +1,24 @@
+id: kronik_sinozit
+version: 1
+status: draft
+author: "ai-drafts/kbb"
+sources:
+  - "EPOS (Avrupa Rinosinüzit ve Nazal Polipozis) dokümanı; AAO-HNS kronik rinosinüzit kılavuzu — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Kronik Rinosinüzit
+taksonomi:
+  - [ktbt, kbb, kbb_paranazal_sinusler, kbb_ps_kronik_sinuzit]
+tipik_hasta: "En az 12 haftadır süren burun tıkanıklığı ve akıntıdan yakınan, burun içinde et benzeri kitle (polip) saptanan yetişkin; alerjik rinit ve astım öyküsü sıktır"
+patofizyoloji: "Paranazal sinus ve burun mukozasında 12 haftayı aşan süregelen inflamasyon; ostiyomeatal kompleksin tıkanması ve mukosiliyer klirensin bozulması sinüslerde havalandırma-drenaj yetersizliği yaratır. Polipli tipte tip 2 (eozinofilik) inflamasyon öndedir"
+anahtar_bulgular:
+  - "12 hafta ve üzerinde burun tıkanıklığı; anterior ya da genize akan (posterior) purülan akıntı"
+  - "Yüzde ağrı ve basınç hissi; koku almada azalma ya da kayıp (polipli hastada öne çıkar)"
+  - "Endoskopide orta meatusta polip, purülan akıntı ya da mukozal ödem"
+  - "Paranazal sinus BT'sinde mukozal kalınlaşma ve sinüs opaklaşması (Lund-Mackay ile skorlama)"
+  - "Sık eksaserbasyonlar ve medikal tedaviye direnç; astım birlikteliği"
+patognomonik: null
+ilk_tetkik: "Nazal endoskopi; tanı kesinleşmemişse ya da cerrahi düşünülüyorsa paranazal sinus BT'si, eşlik eden alerji ve astım değerlendirmesi"
+kesin_tani: "En az 12 hafta süren, biri burun tıkanıklığı ya da akıntı olmak üzere iki ya da daha fazla semptomla birlikte endoskopide (polip, purülan akıntı, mukozal ödem) ya da BT'de objektif inflamasyon kanıtının birlikteliği"
+ilk_tedavi: "Birinci basamak intranazal kortikosteroid spreyi ve tuzlu su irrigasyonu; alerji kontrolü, polipli tabloda kısa süreli oral steroid. Bakteriyel eksaserbasyonda amoksisilin-klavulanat gibi geniş spektrumlu antibiyotik daha uzun kürle; dirençli ya da anatomik engelli olguda endoskopik sinüs cerrahisi (FESS)"
+klasik_komplikasyon: "Eksaserbasyonlarda orbital sellülit-abse ve intrakraniyal yayılım; polipli tipte astım ve aspirin duyarlılığı birlikteliği (Samter triadı, aspirinle alevlenen solunum yolu hastalığı)"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

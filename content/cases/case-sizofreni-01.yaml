@@ -1,0 +1,49 @@
+id: case-sizofreni-01
+version: 1
+status: draft
+author: "ai-drafts/cases-g"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: sizofreni
+baslik: "Kendine konuşan ve insanlardan korkan genç"
+adimlar:
+  - tip: sunum
+    metin: "21 yaşında erkek, ailesi tarafından getiriliyor. Sekiz aydır sosyal geri çekilme, okula gitmeme ve kişisel bakımda bozulma var. Son iki ayda kimse yokken sesler duyduğunu; seslerin komşularının kendisiyle konuştuğunu, onu izlediğini ve zarar vereceğini söylediğini tarif ediyor. Kendine konuşuyor, gece uyumuyor, komşulardan ve dışarı çıkmaktan korkuyor. İşlevselliği belirgin biçimde bozulmuş. Madde kullanımını ve tıbbi hastalık öyküsünü reddediyor."
+  - tip: secim
+    soru: "Halüsinasyon, persekütor sanrılar ve belirgin işlevsellik kaybı olan genç hasta. İlk yaklaşım hangisi olmalı?"
+    secenekler:
+      - metin: "Ayrıntılı psikiyatrik değerlendirme ve organik/madde kaynaklı nedenlerin dışlanması (madde taraması ve temel laboratuvar dahil)"
+        dogru: true
+        geri_bildirim: "Psikoz tablosunda madde kullanımı, tıbbi hastalıklar ve diğer psikotik bozukluklar önce ayrılır; tanısal değerlendirme tedavi seçiminden önce gelir"
+      - metin: "Aile öyküsü olmadan psikiyatrik tanı konulamaz"
+        dogru: false
+        geri_bildirim: "Aile öyküsü riski artırır ama tanı kriteri değildir; tanı belirti, süre ve işlevsellik değerlendirmesiyle konur"
+      - metin: "Değerlendirme yapılmadan doğrudan yüksek doz antipsikotik başlanır"
+        dogru: false
+        geri_bildirim: "Tanısal değerlendirme ve risk analizi önceliklidir; ilaç seçimi ve dozu değerlendirme sonrasına ait bir karardır"
+      - metin: "Belirtilerin gençlik döneminin geçici bir özelliği olduğu düşünülerek yalnızca gözlem planlanır"
+        dogru: false
+        geri_bildirim: "Belirtiler ve işlevsellik kaybı belirgin; erken tanı ve tedavi sonucu iyileştirir, gecikme kötü seyir riskini artırır"
+  - tip: sonuc
+    metin: "Madde taraması ve temel laboratuvar normal gelir. Belirtiler bir aydan uzun süredir aktif, bozulma tablosu altı aydan uzun sürmektedir; halüsinasyonlar ve persekütor sanrılar sürmektedir."
+  - tip: secim
+    soru: "Süre ve işlevsellik kriterleri karşılanıyor, organik neden dışlandı. Tedavi planı?"
+    secenekler:
+      - metin: "Atipik antipsikotik başlanır ve psikososyal destek (aile psikoeğitimi, uyum programı) planlanır"
+        dogru: true
+        geri_bildirim: "İlk epizot psikozda antipsikotik temel tedavidir; atipik ajanlar pozitif ve negatif belirtilerde etkilidir, psikososyal yaklaşımlar işlevselliği artırır ve nüksü azaltır"
+      - metin: "Yalnızca benzodiazepinle semptomlar baskılanır"
+        dogru: false
+        geri_bildirim: "Benzodiazepinler anksiyete ve uykusuzlukta yardımcı olabilir ama sanrı ve halüsinasyonları tedavi etmez; uzun kullanımda bağımlılık riski vardır"
+      - metin: "Antidepresan monoterapisi başlanır"
+        dogru: false
+        geri_bildirim: "Depresif belirtilerde katkısı olabilir ama psikozun temel tedavisi değildir; antipsikotik gereklidir"
+      - metin: "İlk basamakta elektrokonvulsif tedavi uygulanır"
+        dogru: false
+        geri_bildirim: "Antipsikotiğe direnç, katatoni veya ciddi kendine/başkalarına zarar riski gibi durumlarda düşünülür; ilk seçim değildir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: sanrı + halüsinasyon + işlevsellik kaybı + altı aydan uzun bozulma = sizofreni klinik tablosu; tanı öncesi madde kullanımı ve organik nedenler dışlanır; tedavide atipik antipsikotik + psikososyal yaklaşım temeldir; benzodiazepin ve antidepresan tek başına psikozu tedavi etmez."
+sozlu_sorular:
+  - "Pozitif ve negatif belirtiler nasıl ayrılır?"
+  - "Atipik antipsikotiklerin metabolik yan etkileri nelerdir?"
+  - "İlk epizot psikozda erken müdahalenin önemi nedir?"

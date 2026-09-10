@@ -1,0 +1,46 @@
+id: case-hidrosefali-01
+version: 1
+status: draft
+author: "ai-drafts/cases-f"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: hidrosefali
+baslik: "Kafası hızla büyüyen bebek"
+adimlar:
+  - tip: sunum
+    metin: "4 aylık erkek bebek, doğumda sorun yokmuş. Son iki ayda baş çevresi hızla artmış: doğumda 34 cm iken bugün 48 cm ve büyüme eğrisinde persentil çizgisini yukarı kesmiş. Büyük fontanel gergin ve bombeli, kafa derisinde venler belirgin; gözler aşağı bakıyor (gün batımı görünümü). Huzursuz, emmesi zayıflamış. İki hafta önce tedavi edilmiş menenjit öyküsü var."
+  - tip: secim
+    soru: "Hızlı baş çevresi artışı ve bombeli fontaneli olan bu bebekte istenecek ilk görüntüleme hangisidir?"
+    secenekler:
+      - metin: "Transfontanel kraniyal ultrasonografi"
+        dogru: true
+        geri_bildirim: "Fontanelin açık olduğu bebekte ilk tetkik transfontanel ultrasondur; ventrikül dilatasyonunu ışınım vermeden gösterir ve yatağın başında uygulanabilir"
+      - metin: "Bilgisayarlı beyin tomografisi"
+        dogru: false
+        geri_bildirim: "Ventrikül dilatasyonunu gösterir ama bebekte ışınım yükü getirir; açık fontanelde ilk seçenek ultrasondur"
+      - metin: "Lomber ponksiyon"
+        dogru: false
+        geri_bildirim: "Belirgin ventriküler dilatasyonda lomber ponksiyon riskli olabilir ve tanıyı koymaz; tanı görüntüleme ile konur"
+      - metin: "Elektroensefalografi"
+        dogru: false
+        geri_bildirim: "Epilepsi değerlendirmesi içindir; hidrosefali tanısında yeri yoktur"
+  - tip: sonuc
+    metin: "Transfontanel ultrasonda lateral ve üçüncü ventriküller belirgin genişlemiş, kortikal tabaka incelmiş; menenjit sonrası iletişimli hidrosefali ile uyumlu görünüm saptanır. Beyaz küre ve C-reaktif protein normal; aktif enfeksiyon bulgusu yok."
+  - tip: secim
+    soru: "Menenjit sonrası iletişimli hidrosefali tanısı konan bu bebekte kalıcı tedavi yaklaşımı hangisidir?"
+    secenekler:
+      - metin: "Ventriküloperitoneal şant"
+        dogru: true
+        geri_bildirim: "İletişimli hidrosefalide kalıcı tedavi ventriküloperitoneal şanttır; beyin omurilik sıvısı karın boşluğuna yönlendirilerek basınç düşürülür"
+      - metin: "Uzun süreli asetazolamid tedavisi"
+        dogru: false
+        geri_bildirim: "Sıvı üretimini azaltarak geçici fayda sağlayabilir ama kalıcı çözüm değildir; belirgin dilatasyonda beklemek kortikal hasarı artırır"
+      - metin: "Tekrarlayan lomber ponksiyonlarla sıvı boşaltmak"
+        dogru: false
+        geri_bildirim: "Kalıcı çözüm değildir; enfeksiyon ve travma riski taşır, şantla sürekli drenaj gereklidir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: baş çevresinin persentilini hızla yukarı kesmesi + bombeli fontanel + gün batımı görünümü = hidrosefali; açık fontanelde ilk tetkik transfontanel ultrasondur; iletişimli hidrosefalide kalıcı tedavi ventriküloperitoneal şanttır; şantlı hastada ateş ve huzursuzluk öncelikle şant enfeksiyonunu düşündürür."
+sozlu_sorular:
+  - "İletişimli ve iletişimsiz hidrosefali nasıl ayrılır?"
+  - "Ventriküloperitoneal şantın sık komplikasyonları nelerdir?"
+  - "Gün batımı görünümünün mekanizması nedir?"

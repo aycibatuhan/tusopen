@@ -1,0 +1,49 @@
+id: case-sle-01
+version: 1
+status: draft
+author: "ai-drafts/cases-e"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: sle
+baslik: "Eklem ağrısı, döküntü ve ağızda yaralar"
+adimlar:
+  - tip: sunum
+    metin: "27 yaşında kadın. Üç aydır iki elin küçük eklemlerinde ve bileklerde, sabahları yarım saatten uzun süren sertliğin eşlik ettiği ağrı var; güneşe çıktıktan sonra yanaklarda ve burun köprüsünde kızarıklık oluyor, nazolabial kıvrımlar temiz kalıyor; ağrısız ağız yaraları ve saç dökülmesi tanımlıyor. Muayenede metakarpofalangeal eklemlerde hassasiyet, belirgin şişlik minimal; yanaklarda simetrik kızarıklık, ağız mukozasında aftlar. Hemogram: beyaz küre 3.100, hemoglobin 10.6 g/dL, trombosit 148 bin; idrar incelemesinde belirgin protein kaybı yok."
+  - tip: secim
+    soru: "Tanısal yol nasıl kurulmalıdır?"
+    secenekler:
+      - metin: "ANA taraması ile başlamak; pozitifse dsDNA ve kompleman (C3, C4) ile ilerlemek"
+        dogru: true
+        geri_bildirim: "ANA hassas ama geniş bir tarama testidir; pozitifliğinde dsDNA spesifiklik ve hastalık aktivitesi, kompleman düşüklüğü aktif hastalığı destekler"
+      - metin: "Romatoid faktör ve anti-CCP ile başlamak"
+        dogru: false
+        geri_bildirim: "Bu testler romatoid artrit araştırmasına yöneliktir; malar döküntü, ağız yaraları ve sitopeni birlikteyken sistemik lupus eritematozus öne çıkar ve tarama ANA'dır"
+      - metin: "Deri biyopsisi ile başlamak"
+        dogru: false
+        geri_bildirim: "Deri biyopsisi destekleyici bilgi verebilir ama klinik şüphede ilk adım serolojik taramadır"
+      - metin: "El radyografisi ile başlamak"
+        dogru: false
+        geri_bildirim: "Sistemik lupus eritematozus artritinde erozyon gelişmez; radyografi ayırt edici bilgi vermez"
+  - tip: sonuc
+    metin: "ANA yoğun pozitif; dsDNA pozitif, C3 ve C4 düşük geldi. Klinik ve laboratuvar bulgularıyla sistemik lupus eritematozus tanısı kondu; idrar sedimenti ve protein kaybı belirgin olmadığından böbrek biyopsisi gerekmedi."
+  - tip: secim
+    soru: "Eklem ve deri tutulumu ön planda, ağır organ tutulumu yok. Tedavi nasıl kurulmalıdır?"
+    secenekler:
+      - metin: "Tüm hastalara temel olarak hidroksiklorokin; eklem yakınması için gerektiğinde NSAİİ"
+        dogru: true
+        geri_bildirim: "Hidroksiklorokin alevlenme ve ölüm riskini azaltır, sistemik lupus eritematozusda tanıyla birlikte tüm hastalara başlanır; hafif eklem ve deri tutulumunda NSAİİ ve düşük doz steroid gerektiğinde eklenir"
+      - metin: "Yüksek doz damar içi steroid ve siklofosfamid"
+        dogru: false
+        geri_bildirim: "Bu kombinasyon ağır organ tutulumunda, özellikle böbrek ve santral sinir sistemi hastalığında kullanılır; hafif tabloda gereksiz toksisite getirir"
+      - metin: "Yalnızca güneş koruyucu önerilerek izlem"
+        dogru: false
+        geri_bildirim: "Fotoproteksiyon gereklidir ama tek başına yeterli değildir; sistemik hastalık saptandığında tedavi başlanır"
+      - metin: "Uzun süreli yüksek doz oral prednizon tek başına"
+        dogru: false
+        geri_bildirim: "Steroid düşük dozda ve köprü tedavi olarak kullanılır; tek başına uzun süreli yüksek doz, osteoporoz, enfeksiyon ve metabolik yan etkiler nedeniyle uygun değildir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: genç kadında simetrik küçük eklem artriti, nazolabial kıvrımlardan sakınan malar döküntü, ağrısız ağız yaraları, fotoduyarlılık ve sitopeni birlikteyken sistemik lupus eritematozus düşünülür; tarama testi ANA, spesifiklik ve aktivite göstergesi dsDNA ve düşük komplemandır; hidroksiklorokin tüm hastalara başlanan temel ilaçtır; yüksek doz steroid ve siklofosfamid ağır organ tutulumuna saklanır."
+sozlu_sorular:
+  - "Hangi klinik bulguda böbrek biyopsisi düşünürdünüz?"
+  - "Hidroksiklorokin kullanımında hangi izlem yapılır?"
+  - "İlaç kaynaklı lupus benzeri tabloyu nasıl ayırt edersiniz?"

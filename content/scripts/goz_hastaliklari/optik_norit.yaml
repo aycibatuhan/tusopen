@@ -1,0 +1,61 @@
+id: optik_norit
+version: 1
+status: draft
+author: ai-drafts/goz-2
+sources:
+- Kanski's Clinical Ophthalmology
+- Optic Neuritis Treatment Trial (ONTT) sonuç raporları — referans olarak listelendi, metin projesi özgün
+  yazımdır
+ad: Optik Nörit
+taksonomi:
+- - ktbt
+  - goz_hastaliklari
+  - goz_norooftalmoloji
+  - goz_no_optik_norit
+- - ktbt
+  - noroloji
+  - noro_demiyelinizan
+  - noro_dy_ms
+tipik_hasta: Yirmi-otuzlu yaşlarında, kadınlarda daha sık; saatler-günler içinde gelişen tek göz görme
+  kaybıyla başvuran genç hasta; gözün derininde, arkasında yerleşen ve bakış hareketiyle artan ağrıdan
+  yakınır; renklerin soluk görüldüğünü ve görmenin merkezde sisli olduğunu tarif eder; günler-haftalar
+  içinde kısmen kendiliğinden düzelme eğilimi tabloyu özgün kılar
+patofizyoloji: 'Optik sinirin iltihabi-demiyelinizan hasarı: miyelin kılıf bozulunca ileti yavaşlar ve
+  kısmen bloke olur; bu yüzden keskinlik kadar hatta ondan önce kontrast duyarlılık ve renk algısı çöker.
+  Erişkinlerde en sık neden multipl sklerozla ilişkili demiyelinizasyondur; sinirin göz küresi arkasında
+  kalan bölümü tutulunca (retrobulbar nörit) fundus hiçbir şey göstermez, sinirin gözdeki başlangıcı (papilla)
+  tutulunca (papillit) disk şişer. Ağrı, sinir kılıfının göz hareketiyle mekanik olarak gerilmesindendir'
+anahtar_bulgular:
+- Gözün arkasında/derininde, bakış hareketleriyle artan ağrı; ağrı sıklıkla görme kaybından bir-iki gün
+  önce başlar
+- Kontrast duyarlılıkta belirgin düşüş ve kırmızı renklerin soluk, yıkanmış görünmesi (kırmızı desatürasyon)
+- 'Afferent pupiller defekt: ışık sağlam gözden hasta göze kaydırıldığında gözbebeğinin büzülmek yerine
+  genişlemesi'
+- Retrobulbar tipte optik disk normal görünümdedir; papillitte disk ödemli ve kenarları bulanıktır; retina
+  ve medya sağlamdır
+- Görme alanında merkezde (santral) skotom; görsel uyarılmış potansiyelde iletim latansının uzaması
+- Isınma, egzersiz, sıcak duşla geçici görme bozulması (Uhthoff fenomeni)
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Bakış hareketiyle artan ağrının eşlik ettiği tek göz görme kaybında, fundusun normal göründüğü
+  tabloda afferent pupiller defekt ve renk solması birlikteliği
+ilk_tetkik: 'Klinik muayene: keskinlik, renk görme, kontrast duyarlılık, pupil yanıtları ve fundus. Tipik
+  tabloda tanıyı laboratuvar şart kılmaz; ancak multipl skleroz riskini belirlemek için kraniyal ve orbital
+  manyetik rezonans ilk tetkik olarak istenir — beyaz cevherde sessiz lezyonların görülmesi izleyen yıllarda
+  klinik MS çıkma olasılığını öngörür'
+kesin_tani: Tipik klinik üçlüyle (subakut tek göz görme kaybı, bakışla artan ağrı, afferent pupiller defekt)
+  konur. Atipik özellikler varsa — iki gözün aynı anda tutulumu, ağrısızlık, haftalar içinde ilerleyici
+  seyir, kırk yaş üstü başlangıç, sistemik bulgular — MRG, beyin-omurilik sıvısı incelemesi ve ek tetkiklerle
+  optik sinirin iltihabi, iskemik ve basısal diğer nedenleri ayrılmadan tanı kapanmaz
+ilk_tedavi: 'Tipik optik nörit kendiliğinden düzelir; tedavinin amacı iyileşmeyi hızlandırmaktır: intravenöz
+  yüksek doz metilprednizolon ilk haftalarda görmenin toparlanmasını çabuklaştırır. Tek başına oral steroid
+  verilmez; hem etkisizdir hem atak tekrarını artırır (ONTT deneyimi). Steroid MS''nin çıkmasını önlemez.
+  MS tanısı konmuş ya da yüksek riskli hastada hastalığı düzenleyen (immünomodülatör) tedavi nörolojiyle
+  birlikte planlanır'
+klasik_komplikasyon: İzleyen yıllarda multipl skleroz tanısının belirmesi; atak sonrası kalıcı renk solması
+  ve kontrast duyarlılık azlığı, nadiren kalıcı görme kaybı
+tus_gecmisi:
+- tus-2019-sonbahar-ktbt-108
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

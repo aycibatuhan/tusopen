@@ -1,0 +1,45 @@
+id: invasive_kandidiyaz
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-4
+sources:
+- IDSA (Infectious Diseases Society of America) Kandidiyaz Tanı ve Tedavi Rehberi
+- ESCMID Mantar Enfeksiyonları Tedavi Rehberi
+ad: İnvaziv Kandidiyaz
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_mantar
+  - enf_mn_kandidiyaz
+tipik_hasta: Ateşi geniş spektrumlu antibiyotiğe rağmen süren yoğun bakım hastası (uzun süreli santral
+  kateter, parenteral beslenme, geniş batın cerrahisi öyküsü) veya nötropenik kemoterapi ve kök hücre
+  nakli hastası
+patofizyoloji: Candida türleri ağız-sindirim yolu ve derinin sakin florasında yaşar; mukoza bariyeri bozulduğunda
+  (kemoterapiye bağlı mukozit) veya kateter yoluyla kan dolaşımına geçer ve organ düzeyinde yayılır. Göz,
+  kalp kapakçıkları, karaciğer-dalak ve böbreklerde mikroapseler oluşturur; nötropenik hastada karaciğer-dalak
+  tutulumuyla karakterli kronik dissemine tablo görülür
+anahtar_bulgular:
+- Geniş spektrumlu antibiyotiğe rağmen süren ateş (nötropenik ateşin altında gizlenir)
+- Birden fazla set kan kültüründe Candida üremesi
+- Serum beta-D-glukanın pozitifliği (mantar hücre zar bileşeni; kandın erken habercisi)
+- Göz dibi muayenesinde kandida endoftalmi (sarı-beyaz lezyonlar)
+- 'Nötropenik hastada karaciğer-dalak tutulumu: sağ üst kadran ağrısı, alkali fosfataz yükselmesi'
+patognomonik: null
+ilk_tetkik: Birden fazla set kan kültürü; serum beta-D-glukan; göz dibi muayenesi (endoftalmi taraması);
+  santral kateterin değerlendirilmesi ve uç kültürü
+kesin_tani: Kan kültüründe Candida üremesi ve tür tanımlaması (C. albicans, C. glabrata, C. parapsilosis
+  ayrımı tedaviyi yönlendirir); beta-D-glukan, kan kültürünün negatif kaldığı bağışıklık baskılanmış hastada
+  tanıyı destekler
+ilk_tedavi: Ekinkandin (kaspofungin, mikafungin veya anidulafungin) gecikmeden başlanır; santral kateter
+  çıkarılır; kültür sonuçlarına göre flukonazole adım aşırma yapılır ve ilk negatif kan kültüründen sonra
+  iki hafta devam edilir
+klasik_komplikasyon: Kandida endoftalmi ve görme kaybı; kandida endokardit; nötropenik hastada kronik
+  dissemine (karaciğer-dalak) kandidiyaz
+tus_gecmisi:
+- tus-2016-sonbahar-ttbt-70
+- tus-2017-ilkbahar-ttbt-68
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

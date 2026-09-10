@@ -1,0 +1,29 @@
+id: wt-tus-2021-sonbahar-ktbt-18
+version: 1
+status: draft
+author: "ai-drafts/walkthroughs-1"
+sources:
+  - "Klinik endokrinoloji ders kaynakları ve UpToDate Nelson sendromu özeti — referans olarak listelendi, metin özgün yazımdır"
+soru_ref: tus-2021-sonbahar-ktbt-18
+sinanan_bilgi: "Endojen hiperkortizolizm nedeniyle bilateral adrenalektomi uygulanan hastada kortizol kaynaklı negatif geri bildirim kalkar; kalan kortikotrop hücreler büyüyerek ACTH salgılayan hipofiz adenomu oluşturur. Bu tablo Nelson sendromudur."
+ipucu_turleri:
+  - "Her iki adrenal bez de cerrahıyla alınmış: hipofiz kaynaklı ACTH fazlalığının kaynağı ortadan kalkmış ama beyinde kalan kötüyapı hâlâ uyarı almadan büyüyebiliyor"
+  - "Ameliyatla bezler alındıktan sonraki dönemde beyinde ACTH üreten kötü yapının ortaya çıkması: negatif geri bildirimin kaybolduğu klasik zaman aralığı"
+  - "Sorunun komplikasyon diye sorulması: tanı değil, tedavinin kendine özgü geç dönemi aranıyor"
+gurultu_turleri:
+  - "Cushing sendromu ibaresi dikkati adrenal bez patolojilerine çeker; oysa patoloji tedavi sonrası hipofizdedir"
+  - "Beş sendrom adının bir arada verilmesi ezberci çözüme iter; ayırt edici anahtar cerrahi sonrası durumdur, sendrom adı listesi değil"
+mantik: "Zinciri kurmak için önce cerrahiyi anlamak gerekir. Bilateral adrenalektomi, endojen hiperkortizolizmde kortizol üretimini kökten duratan son basamak bir tedavidir. Kortizol ortadan kalkınca hipofizdeki kortikotrop hücreler üzerindeki negatif geri bildirim de kalkar; sürekli uyarılan kortikotroflar hipereplazi yapar ve zamanla ACTH salgılayan bir makroadenoma dönüşebilir. Tedavi öncesi zaten aşırı ACTH uyarısıyla çalışmış kortikotrop hücrelerin, artık freni kalkmış halde büyümesi tam da bu hastada beklenir. Adrenalektomi artı ACTH adenomu ikilisi tek bir tanıya işaret eder: Nelson sendromu. Diğer adaylar hiçbirini bu iki özelliği birlikte açıklamaz; çoğu kendi bağlamında anlamlı olan ama burada tetikleyici cerrahiyle ilgisi bulunmayan adlardır."
+celdirici_kavramlar:
+  - kavram: "Conn sendromu"
+    neden_yanlis: "Primer hiperaldosteronizm tanımıdır; adrenal bezden aldosteron fazla salgılanır. Soruda adrenal bezler alınmış, adenom hipofizdedir ve salgılanan hormon ACTH'tir."
+    dogru_oldugu_durum: "Sistemik hipertansiyon, hipokalemi, metabolik alkaloz ve baskılanmış plazma renin aktivitesi birlikteliğinde."
+  - kavram: "POEMS sendromu"
+    neden_yanlis: "Plazma hücre diskrazisine bağlı, polinöropati, organomegali, endokrinopati, M proteini ve deri değişikliklerinden oluşan bir para-neoplastik tablodur; bilateral adrenalektomi öyküsüyle ilişkisi yoktur."
+    dogru_oldugu_durum: "Osteosklerotik miyelom ya da plazma hücre neoplazisi olan hastada polinöropati ve deri bulgularının eşlik ettiği multisistem tabloda."
+  - kavram: "Turner sendromu"
+    neden_yanlis: "Kromozomal bir gonadal disgenezidir; bir cerrahi işlemin komplikasyonu değildir ve hipofiz adenomuyla ilgisi bulunmaz."
+    dogru_oldugu_durum: "Primer amenore, boy kısalığı, geniş göğüs ve boyun zarları ile giden, karyotipinde tek X kromozomu saptanan hastada."
+  - kavram: "Schmidt sendromu"
+    neden_yanlis: "Otoimmün poliglandüler sendrom tip 2 çerçevesindedir; primer adrenal yetmezlik ile otoimmün tiroid hastalığının birlikteliğidir. Cerrahi kaynaklı kortizol kaybıyla karıştırılmamalıdır; burada adrenal yetmezlik cerrahi sonucudur, otoimmün süreç yoktur."
+    dogru_oldugu_durum: "Primer adrenal yetersizlik ve otoimmün tiroiditin aynı hastada, zamanla tip 1 diyabetin de eklenme eğilimi gösterdiği otoimmün tablolarda."

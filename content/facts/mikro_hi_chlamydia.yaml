@@ -1,0 +1,10 @@
+id: mikro_hi_chlamydia
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Chlamydia yaşam döngüsü cisimcikleri"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_chlamydia]
+metin: "Chlamydia türleri peptidoglikansız hücre duvarına sahip zorunlu hücre içi bakterilerdir; bulaşıcı elementer cisimcik hücreye girer, içinde çoğalan retikülat cisimciğe dönüşür. C. trachomatis serviks ve idrar örneklerinde nükleik asit amplifikasyon testleriyle araştırılır; izolasyonu hücre kültürü gerektirir."

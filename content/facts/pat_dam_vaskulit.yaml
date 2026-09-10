@@ -1,0 +1,10 @@
+id: pat_dam_vaskulit
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vaskülitler"
+taksonomi:
+  - [ttbt, patoloji, pat_kan_damarlari, pat_dam_vaskulit]
+metin: "Dev hücreli (temporal) arterit 50 yaş üstünde baş ağrısı, çene klemp, yüksek sedimentasyon hızı ve görme kaybı riskiyle gider; biyopside granülomatöz vaskülit ve elastik laminanın parçalanması görülür. Granülomatozis ile polianjit (Wegener granülomatozu) c-ANCA pozitiftir ve üst solunum yolu, akciğer ile böbrek damarlarını etkiler. Poliarteritis nodozada ANCA genellikle negatiftir, hepatit B ilişkisi ve dalak-böbrek arterlerinde mikroanevrizmalar tipiktir; Kawasaki hastalığı çocuklarda koroner anevrizma riski taşır."

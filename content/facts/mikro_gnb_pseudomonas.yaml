@@ -1,0 +1,10 @@
+id: mikro_gnb_pseudomonas
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pseudomonas aeruginosa pigmentleri"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_pseudomonas]
+metin: "Pseudomonas aeruginosa oksidaz pozitif, şeker fermentasyonu yapmayan gram negatif basildir; musluk suyu ve dezenfektan gibi nemli ortamlarda canlı kalabildiğinden hastane enfeksiyonlarında sıklıkla karşımıza çıkar. Piocyanin pigmenti kolonilere yeşilimsi-mavi renk verir; egzotoksin A ve elastaz gibi virülans faktörleri kistik fibrozis ve yanık enfeksiyonlarında rol oynar."

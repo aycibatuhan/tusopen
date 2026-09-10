@@ -1,0 +1,51 @@
+id: karpal_tunel
+version: 1
+status: draft
+author: ai-drafts/ortopedi-2
+sources:
+- AAOS Karpal Tünel Sendromu Kılavuzu
+- Campbell's Operative Orthopaedics
+ad: Karpal Tünel Sendromu
+taksonomi:
+- - ktbt
+  - ortopedi
+  - orto_el_cerrahisi
+  - orto_el_karpal_tunel
+tipik_hasta: 40-60 yaş, kadın; gece elinde uyanan uyuşma ve ağrı ile geliyor; eli sallayarak rahatlama
+  ihtiyacı; hamilelik, menopoz, hipotiroidi, diyabet, romatoid artrit, amiloidoz ve hemodiyaliz hastaları
+  riskli; uzun süre klavye veya tekrarlayan bilek fleksiyonu gerektiren işler tetikleyicidir
+patofizyoloji: Median sinir, bileğin ön yüzünde fleksör retinakülüm (transvers karpal bağ) altındaki sıkı
+  tünelden geçerken ilk üç parmağın duyusunu ve tenar kasların motorunu taşır; tünel içinde tenosinovit,
+  sıvı retansiyonu (gebelik, hipotiroidi, diyaliz) veya tekrarlayan kullanıma bağlı iç basınç artışı siniri
+  sıkıştırır; basınç önce miyelin kılıfını bozar, uzun sürede akson kaybı ve kas atrofisi gelişir
+anahtar_bulgular:
+- 'Gece uyuşma ve ağrı: başparmak, işaret ve orta parmak (median sinir dağılımı); hasta elini sallayarak
+  rahatlar (flick işareti)'
+- Bilek 90 derece fleksiyonda uyuşmanın dakikalar içinde artması (Phalen testi); retinakülüm üzerinde
+  tıkamada parmaklarda çarpıntı hissi (Tinel testi)
+- İlerlemiş tabloda tenar kas atrofisi ve başparmak abdüksiyonu/opozisyon güçsüzlüğü (median sinirin motor
+  dalı)
+- İki nokta ayırt etme mesafesi etkilenen parmaklarda artar (duyusal kaybın objektif göstergesi)
+- Boyun kökü sıkışmasından farklı olarak boyun-omuz ağrısı ve boyun hareketiyle uyuşma yok; serçe parmak
+  asla uyuşmaz
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Gece uyuşması ve hastanın elini sallayarak rahatlama davranışı (flick işareti)
+ilk_tetkik: Fizik muayenede Phalen ve Tinel testleri; kesin tanı ve şiddeti belirlemek için sinir iletim
+  çalışması (EMG); nedeni sorgulamak için TSH, kan şekeri ve romatoid taraması
+kesin_tani: Sinir iletim çalışmasında median sinirin bilek segmentinde distal motor latensi uzamış ve
+  duyusal ileti yavaşlamış; ileri tabloda tenar motor amplitüd düşer ve iğne EMG'de tenar kaslarda denervasyon
+  görülür
+ilk_tedavi: Hafif tabloda gece bileği nötr (sıfır derece) pozisyonda splint ve mevcut nedeni düzeltmek
+  (tiroid, gebelikte doğumla düzelme); alevlenmede karpal tünel içine kortikosteroid enjeksiyonu; tenar
+  atrofi, sürekli uyuşma veya konservatif tedaviye yanıt yoksa fleksör retinakülümün kesilmesi (açık veya
+  endoskopik serbestleştirme)
+klasik_komplikasyon: Kalıcı tenar atrofi ve duyu kaybı (tedavi gecikirse iyileşme tam olmaz); cerrahi
+  sonrasında nadiren nüks ve avuç içinde hafif güç kaybı
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-41
+- tus-2021-ilkbahar-ktbt-33
+- tus-2021-ilkbahar-ttbt-8
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

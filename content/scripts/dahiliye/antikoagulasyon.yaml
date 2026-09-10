@@ -1,0 +1,61 @@
+id: antikoagulasyon
+version: 1
+status: draft
+author: ai-drafts/dahiliye-antikoagulasyon
+sources:
+- ACC/AHA/ACCP/HRS 2023 Atriyal Fibrilasyon Tanı ve Yönetim Rehberi (Joglar ve ark., Circulation) — referans olarak listelendi, metin projesi özgün yazımdır
+- CHEST 2016 Antitrombotik Tedavi ve VTE Rehberi (Bates ve ark., Chest) — referans olarak listelendi
+- ASH 2018 Heparine Bağlı Trombositopeni Rehberi (Cuker ve ark., Blood Advances) — referans olarak listelendi
+- 2022 CHEST Perioperatif Antikoagülan Yönetimi Rehberi (Douketis ve ark., Chest) ve BRIDGE çalışması (NEJM 2015) — referans olarak listelendi
+- 2020 ACC Kanama Yönetimi Uzman Görüşü Yolu (Tomaselli ve ark., JACC); RE-VERSE AD ve ANNEXA-4 çalışmaları — referans olarak listelendi
+- 2020 ACC/AHA Kapak Hastalıkları Rehberi (Otto ve ark., Circulation) — referans olarak listelendi
+ad: Antikoagülan Tedavi ve Kanama Yönetimi
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_hematoloji
+  - dah_hem_antikoagulan_tedavi
+- - ttbt
+  - farmakoloji
+  - farm_kan
+  - farm_kan_antikoagulan
+tipik_hasta: 'Üç başlıkta karşılaşılır. Birincisi tromboz profilaksisi kararı gereken hasta: atriyal fibrilasyonlu, venöz tromboemboli geçirmiş, mekanik kapaklı ya da tekrarlayan gebelik kayıplı kadın. İkincisi antikoagülan kullanırken kanamayla gelen hasta ya da girişim öncesi ilacın nasıl yönetileceği sorulan hasta. Üçüncüsü heparin maruziyeti sonrası trombosit sayısı düşen hastane hastası'
+patofizyoloji: 'Pıhtılaşma kaskadı farklı noktalardan frenlenir. Warfarin vitamin K epoksit redüktazını bloke ederek karaciğerde II, VII, IX ve X faktörlerinin yanı sıra protein C ve S fonksiyonel eksikliği yaratır; etkisi yavaş başlar, protein C hızla düştüğü için başlangıçta geçici prokoagülan bir dönem olur. Doğrudan etkili oral antikoagülanlar tek hedefli iş görür: dabigatran trombini, apiksaban, rivaroksaban ve edoksaban faktör Xayı inhibe eder; hızlı etkinlik gösterir ve rutin izlem gerektirmez. Heparinler antitrombin üzerinden etki eder; fraksiyone olmamış heparin faktör IIa ve Xayı, düşük molekül ağırlıklı heparin ağırlıklı olarak Xayı frenler; fondaparinux seçici Xa inhibitörüdür. DOAC eliminasyonu renal klerense bağlıdır ve dabigatranın yaklaşık yüzde sekseni böbrekten atılır'
+anahtar_bulgular:
+- 'İlaç seçimi: nonvalvüler atriyal fibrilasyon ve venöz tromboembolide ilk sıra DOAC (apiksaban, rivaroksaban, dabigatran, edoksaban); warfarin yalnızca mekanik kapak, orta-ileri romatizmal mitral stenoz ve antifosfolipid sendrom gibi özel durumlarda zorunludur (2023 ACC/AHA AF rehberi, CHEST 2016)'
+- 'Endikasyon eşiği: atriyal fibrilasyonda CHA2DS2-VASc erkekte 2, kadında 3 puan ve üzeri antikoagülasyon gerektirir; sıfır puanda gerekmez ve aspirin tek başına alternatif değildir'
+- 'İzlem: warfarin INR ile izlenir, hedef 2-3; mekanik mitral kapakta ve ek risk faktörlü mekanik kapakta hedef 2,5-3,5 ve düşük doz aspirin eklenir; DOAC grubunda rutin pıhtılaşma izlemi gerekmez'
+- 'Renal klerens doz belirleyicidir: dabigatran ve edoksaban ileri böbrek yetmezliğinde kullanılmaz, apiksaban ve rivaroksaban doz ayarıyla daha geniş kullanılır'
+- 'Kanama en sık zarardır: DOAC grubunda warfarine göre intrakraniyal kanama belirgin azdır; dabigatran 150 mg, rivaroksaban ve edoksaban yüksek dozda gastrointestinal kanama riski artar, apiksabanda artmaz'
+- 'Heparine bağlı trombositopeni: heparin başlangıcından 5-10 gün sonra trombosit sayısında yüzde elli ve üzeri düşüş, yeni tromboz veya heparin enjeksiyon yerinde deri nekrozu; 4Ts skoru düşükse ASH rehberi laboratuvar testi ve ampirik tedaviyi önermez'
+- 'Reversiyel eşleşmesi özgüldür: warfarinde 4 faktörlü protrombin kompleks konsantresi artı K vitamini, dabigatranda idarucizumab, Xa inhibitörlerinde andeksanet alfa; ulaşılamazsa protrombin kompleks konsantresi'
+- 'Periprocedural: warfarin girişimden 5 gün önce kesilir; DOAC düşük kanama riskli girişimde 1 gün, yüksek riskli girişimde 2 gün kesilir; BRIDGE çalışması ve 2022 CHEST rehberi çoğu hastada köprülemeyi gereksiz ve kanamayı artırıcı bulur; kalp pili ve ICD girişiminde warfarin kesilmez'
+patognomonik: 'İlaç ile izlem ve antidot eşleşmesi: warfarin INR izlemlidir ve K vitaminiyle geri alınır; DOAC izlemsizdir ve özgül antidotları vardır (dabigatran-idarucizumab, Xa inhibitörü-andeksanet alfa); HIT tanısında trombosit düşüşünün heparin başlangıcından 5-10 gün sonra görülmesi'
+ilk_tetkik: 'Endikasyon önce sınıflanır: atriyal fibrilasyonda CHA2DS2-VASc, trombozda atak öyküsü ve geçicilik durumu. Başlamadan önce kan sayımı, kreatinin ve Cockcroft-Gault kreatinin klerensi, karaciğer testleri ve ağırlık ölçülür; warfarin başlanacaksa INR izlem şarttır, başlangıç dozunda CYP2C9 ve VKORC1 polimorfizm tablosu yol gösterir. DOAC etkinliği gerektiğinde dabigatran için seyreltik trombin zamanı, Xa inhibitörleri için kalibre edilmiş anti-Xa testiyle ölçülür; rutin pıhtılaşma testleri doz rehberi değildir'
+kesin_tani: 'Bu başlıkta kesin tanı endikasyon ve durum sınıflamasıdır. Atriyal fibrilasyonda antikoagülasyon kararı CHA2DS2-VASc ile verilir: erkekte 2 ve üzeri, kadında 3 ve üzeri güçlü endikasyon, 1 puanda ek risk faktörleriyle tartışılır. Venöz tromboembolide en az 3 ay tedavi her hastada; provoke edilmemiş atakta süresiz uzatma ayrı karardır. Mekanik kapak ve orta-ileri romatizmal mitral stenozda warfarin zorunludur; RE-ALIGN çalışmasından sonra dabigatran mekanik kapakta kullanılmaz. Heparine bağlı trombositopeni şüphesinde 4Ts skoru hesaplanır: düşük skor tanıyı dışlar, orta ve yüksek skorda heparin kesilir, PF4-ELISA ve gerektiğinde serotonin salım testiyle doğrulanır. HAS-BLED kanama riskini uyarır ama tek başına antikoagülasyon engelleyicisi değildir'
+ilk_tedavi: 'Nonvalvüler atriyal fibrilasyon ve venöz tromboembolide DOAC birinci sıradır. Mekanik kapak, orta-ileri romatizmal mitral stenoz ve antifosfolipid sendromda warfarin kullanılır; hedef INR atriyal fibrilasyon ve venöz tromboembolide 2-3, mekanik mitral kapakta 2,5-3,5 olup düşük doz aspirin eklenir. Heparine bağlı trombositopeni tanısında tüm heparin formları (kateter flushing solüsyonları dahil) kesilir ve argatroban (böbrek yetmezliğinde tercih), bivalirudin veya fondaparinux başlanır; trombosit sayısı toparlanmadan warfarin başlanmaz çünkü protein C düşüşü venöz ekstremite gangrenine yol açabilir. Elektif girişim öncesi warfarin 5 gün önce kesilir, kanama riskine göre köprüleme çok seçkin yüksek riskli hastada tartışılır; DOAC kesme aralığı 1-2 gündür ve köprüleme gerekmez. Gebelikte düşük molekül ağırlıklı heparin tek seçenektir; doğum yaklaşırsa damar yoluyla fraksiyone olmamış heparine geçilir'
+klasik_komplikasyon: Kanama, en ölümcül biçimi intrakraniyal kanama; heparine bağlı trombositopenide yaşamı tehdit eden arteriyel ve venöz trombozlar; warfarin başlangıcında protein C eksikliğine bağlı deri nekrozu ve venöz ekstremite gangreni; gebelikte warfarin maruziyetine bağlı fetal warfarin sendromu (nazal hipoplazi, nokta kemikli epifizler)
+ayirici:
+- hastalik: atriyal_fibrilasyon
+  ayirt_edici: AF scripti ritim ve hız yönetimini anlatır; antikoagülan seçimi, INR hedefleri, reversiyel ve periprocedural kararlar bu scriptin konusudur
+- hastalik: trombofili
+  ayirt_edici: Trombofilide trombozun nedeni araştırılır ve panel zamanlaması öne çıkar; burada tedavinin hangi ilaçla, ne kadar süreyle ve nasıl izleneceği ele alınır
+- hastalik: pulmoner_emboli
+  ayirt_edici: Akut pulmoner emboli tanısal yaklaşımla (risk sınıflaması, tromboliz) ilgilidir; antikoagülan seçimi ve tedavi süresi kararı bu scripte taşınır
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-110
+- tus-2014-sonbahar-ttbt-108
+- tus-2015-ilkbahar-ttbt-110
+- tus-2016-ilkbahar-ktbt-5
+- tus-2017-ilkbahar-ttbt-109
+- tus-2018-ilkbahar-ktbt-6
+- tus-2018-sonbahar-ttbt-115
+- tus-2020-sonbahar-ttbt-108
+- tus-2021-ilkbahar-ttbt-111
+- tus-2021-sonbahar-ktbt-109
+- tus-2021-sonbahar-ttbt-111
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: true
+  ayirici: false

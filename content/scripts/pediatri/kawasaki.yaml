@@ -1,0 +1,54 @@
+id: kawasaki
+version: 1
+status: draft
+author: ai-drafts/pediatri-3
+sources:
+- 'AHA bilimsel bildirisi: Kawasaki hastalığı tanı, tedavi ve uzun dönem yönetimi (2017) — referans olarak
+  listelendi, metin projesi özgün yazımdır'
+- Nelson Textbook of Pediatrics (Kawasaki hastalığı bölümü)
+ad: Kawasaki Hastalığı
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_kawasaki
+tipik_hasta: Beş yaşın altındaki, en az 5 günden beri düşmeyen ateş dışında açıklanabilir bir enfeksiyon
+  odağı olmayan küçük çocuk; Asya ve Akdeniz kökenli toplumlarda daha sık, erkek cinsiyette hafif artış
+patofizyoloji: 'Genetik yatkınlıklı çocuğun muhtemelen bulaşıcı bir tetikleyiciye karşı aşırı inflamatuvar
+  yanıtı: başlıca küçük ve orta çaplı damarları, özellikle koroner arterleri tutan nekrotizan vaskülit.
+  Akut dönemde damar duvarında nötrofil ağırlıklı inflamasyon, ilerleyen günlerde lenfosit ve plazma hücreleri;
+  duvar zayıflaması anevrizmaya, iç yüzün hasarı trombüse zemin hazırlar. 10. günden önce başlanan IVIG
+  tedavisi koroner anevrizma oranını belirgin düşürür'
+anahtar_bulgular:
+- Beş günden uzun, antibiyotiğe yanıt vermeyen yüksek ateş (tanının zorunlu ilk kriteri)
+- 'Pürülansız (akıntısız) bilateral konjunktival kızarıklık: limbus çevresi ve iris korunmuş, eksüda
+  yok'
+- Dudaklarda kuruma ve çatlama, kızarıklık; çilek dil; orofarinkste diffüz kırmızılık (eksüda yok)
+- 'Polimorf döküntü: başlıca gövde ve ekstremitelerde makulopapüler ya da morbiliform; perianal bölgede
+  erken kızarıklık ve çatlama'
+- El-ayaklarda akut dönemde sert ödem (endurasyon) ve avuç-taban kızarıklığı; 2-3. haftada tırnak çevresinden
+  başlayan zar gibi soyulma (deskuamasyon)
+- Boyun lenf nodlarında tek ya da iki taraflı, en az 1,5 cm çapında, pürülan olmayan lenfadenopati (kriterler
+  içinde en az görüleni)
+patognomonik: Tek patognomonik bulgu yok; 5 günden uzun ateşe beş ana kriterden en az dördünün eşlik ettiği
+  tablo tam tanıdır; ateşe yalnızca 2-3 kriter eşlik ediyorsa eksik (incomplete) Kawasaki düşünülür ve koroner
+  tutulum ekokardiyografiyle aranır
+ilk_tetkik: 'Akut faz tepkisi: ESR ve CRP yüksekliği, trombosit sayısı artışı, hipoalbuminemi, karaciğer
+  enzim yükselmesi, steril piyüri; tanı şüphesinde ekokardiyografi (koroner arter çapı ve kardiyak fonksiyon)'
+kesin_tani: 5 günden uzun ateş ve beş ana kriterden en az dördü tam tanıyı koyar; ateşe 2-3 kriter eşlik
+  eden eksik Kawasaki şüphesinde klinik bulgular, ESR ve CRP yüksekliğiyle birlikte değerlendirilir; koroner
+  arter bulgusu saptanan olgularda ekokardiyografi tanıyı destekler
+ilk_tedavi: İlk 10 gün içinde tek doz IVIG (2 g/kg) artı yüksek doz aspirin; ateş 36 saat içinde düşmezse
+  IVIG direnci kabul edilip ikinci IVIG dozu ya da infliksimab ve steroid; akut dönemden sonra düşük doz
+  aspirinle koroner tromboz profilaksisi
+klasik_komplikasyon: Koroner arter anevrizması ve buna bağlı tromboz, miyokard enfarktüsü (ölüm nedeni);
+  tedavinin gecikmesi riski belirgin artırır; uzun dönem ekokardiyografik izlem zorunludur
+tus_gecmisi:
+- tus-2015-ilkbahar-ktbt-54
+- tus-2016-ilkbahar-ktbt-54
+- tus-2020-sonbahar-ktbt-56
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,10 @@
+id: fiz_hucre_sinyal
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "G Protein Bağlantılı Reseptörler"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_sinyal]
+metin: "G protein bağlantılı reseptörler etkilerini ikinci habercilerle gösterir; Gs proteini adenilat siklazı uyararak cAMP üretirken, Gq proteini fosfolipaz C aracılığıyla IP3 ve diasilgliserol üretir. IP3, endoplazmik retikulumdan kalsiyumun sitoplazmaya salınmasını tetikler."

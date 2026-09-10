@@ -1,0 +1,56 @@
+id: yenidogan_sariligi
+version: 1
+status: draft
+author: ai-drafts/pediatri-2
+sources:
+- Amerikan Pediatri Akademisi (AAP) yenidoğan hiperbilirubinemi kılavuzu — referans olarak listelendi,
+  metin özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: Yenidoğan Sarılığı
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_sarilik
+tipik_hasta: İlk haftalardaki yenidoğan; sklera ve deride sararma ailenin başvuru nedenidir. Sarılık prematüritelik,
+  erken taburculuk, yalnız anne sütüyle beslenme, doğum travması (kranial hematom, ekimoz) ve anne-bebek
+  kan grubu uyuşmazlığında daha erken ve şiddetli olur; ilk 24 saatte sarılmaya başlayan bebek ise gestasyon
+  yaşı ne olursa olsun patolojik kabul edilir
+patofizyoloji: Yenidoğanda eritrosit kitlesi büyük ama ömrü kısadır, bilirubin üretimi artmıştır; buna
+  karşılık karaciğerdeki UDP-glukuroniltransferaz (UGT1A1) henüz olgunlaşmadığından bilirubin konjuge
+  edilemez ve indirekt (konjuge olmayan) formda dolaşır. Bilirubin albümine bağlanır; üretim fazlaysa
+  veya bağlanma zayıfsa (prematüritelik, asidoz, hipoalbüminemi) serbest fraksiyon kan-beyin bariyerini
+  geçip bazal ganglion ve beyin sapı çekirdeklerine yerleşir — akut bilirubin ensefalopatisi ve kalıcı
+  kernikterusun mekanizması budur
+anahtar_bulgular:
+- Sarılığın ilk 24 saat içinde başlaması (patolojik kabul kuralı)
+- Kranial hematom, ekimoz veya polisitemi gibi ek bilirubin yükü
+- Anne-bebek kan grubu uyuşmazlığı, retikülositoz ve pozitif direk Coombs (immün hemoliz)
+- Koyu idrar ve soluk dışkı — konjuge hiperbilirubinemi alarmı
+- 'İleri düzeyde: letarji, beslenememe, hipertoni, opistotonus ve tiz ağlama (akut bilirubin ensefalopatisi)'
+patognomonik: null
+ilk_tetkik: Transkütanöz bilirubin ölçümü eşik sınırına yakınsa veya yüksekse serum total ve direkt bilirubin;
+  patolojik şüphede (hasta bebek, hızlı yükseliş, ilk 24 saat) hemogram-retikülosit, anne ve bebek kan
+  grubu ile direk Coombs, G6PD ve periferik yayma eklenir
+kesin_tani: 'Serum bilirubin düzeyinin bebek yaşı (saat), gestasyon haftası ve risk faktörlerine göre
+  çizilmiş eşik eğrileriyle yorumlanması: değer fototerapi eşiğinin üzerindeyse tedavi, tehlike eşiğine
+  yaklaşıyorsa değişim transfüzyonu gündeme gelir. Fizyolojik sarılık 3-5. günde zirve yapıp iki haftada
+  düzelir; iki haftayı aşan veya direkt bilirubin ağırlıklı tablo ayrıca araştırılır (anne sütü sarılığı
+  en sık benign uzama nedenidir)'
+ilk_tedavi: 'Eşik üzerindeki indirekt hiperbilirubinemide yoğun fototerapi: bebek maksimum deri ekspozisyonuyla
+  ışık altına alınır, hidrasyon sağlanır ve bilirubin seri ölçülür (fototerapi bilirubini suya çözünür
+  izomerlere çevirip safrayla atılımını kolaylaştırır). Fototerapiye yanıt yoksa, değer tehlike eşiğini
+  aşarsa veya ensefalopati bulguları varsa çift volüm değişim transfüzyonu; altta yatan hemoliz veya enfeksiyon
+  da tedavi edilir'
+klasik_komplikasyon: 'Kernikterus: diskinetik serebral palsi, sensörinöral işitme kaybı, bakış paralizisi
+  ve diş minesi displazisi'
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-49
+- tus-2015-ilkbahar-ktbt-51
+- tus-2015-sonbahar-ktbt-50
+- tus-2019-ilkbahar-ktbt-70
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

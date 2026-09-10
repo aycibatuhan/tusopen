@@ -1,0 +1,10 @@
+id: embriyo_sis_faringeal
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İlk İki Faringeal Arktan Doğan Türevler"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, embriyo_sistem, embriyo_sis_faringeal]
+metin: "İlk faringeal arkus çiğneme kaslarını, çekiç ve örs kemiklerini ve trigeminal sinirin mandibular dalını verir. İkinci arkus ise yüz mimik kaslarını, stapes kemikçiğini ve fasiyal siniri sağlar."

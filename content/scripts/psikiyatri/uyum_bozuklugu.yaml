@@ -1,0 +1,24 @@
+id: uyum_bozuklugu
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-4"
+sources:
+  - "DSM-5-TR — Uyum Bozuklukları tanı ölçütleri (referans olarak listelendi, metin projesi özgün yazımdır)"
+ad: Uyum Bozukluğu
+taksonomi:
+  - [ktbt, psikiyatri, psik_okb_travma, psik_ot_akut_stres_uyum]
+tipik_hasta: "Her yaşta görülür; tanımlanabilir bir stresörden sonra — taşınma, iş kaybı, emeklilik, boşanma, aile bireyinin hastalığı ya da kendi tıbbi tanısı — duygudurum, uyku, iştah ya da davranışta değişen hasta; yakınma stresörle zaman ilişkisi belirgin, anlatılan hikâye 'olay ve tepki' biçimindedir. Gençlerde davranış değişikliği (kurallara uymama, risk alma), yetişkinlerde çökkünlük-kaygı, yaşlılarda uyku ve iştah değişimi ön plandadır"
+patofizyoloji: "Stresörün yükü ile bireyin baş etme kaynakları arasındaki denge bozulur: kronik stres HPA aksını devrede tutar, uyku ve iştah düzeni bozulur; bireyin inanç kalıpları, sosyal desteği ve önceki kriz deneyimleri tablonun şiddetini belirler. Tanı klinik bir eşik tanımıdır: tepki, aynı kültürde beklenen normal tepkiden daha ağır ya da işlev bozucu ölçüde olmalı, ancak başka bir ruhsal bozukluğun ölçütlerini doldurmamalıdır — bu, tabloyu stresöre bağlı ve geçici tutan tanı penceresidir"
+anahtar_bulgular:
+  - "Tanımlanabilir stresörden sonraki 3 ay içinde başlayan çökkün duygudurum, kaygı, huzursuzluk ya da davranış değişikliği"
+  - "Belirtiler aynı yaş ve kültürde beklenen normal tepkiden belirgin daha ağır ya da iş/işlev bozucu düzeydedir"
+  - "Stresör sona erdikten sonra belirtiler 6 ay içinde düzelir; stresör kalıcıysa (örneğin kronik hastalık) tablo stresörle birlikte uzayabilir"
+  - "Alt türler: çökkün duygudurum, kaygı, ikisinin karışımı, duygulanım ve davranış bozukluğu ile giden"
+  - "Çocuklukta davranışsal belirtiler, ergenlikte riskli davranışlar ön plandadır; normal yas tepkisi tek başına tanı verdirmez"
+patognomonik: null
+ilk_tetkik: "Klinik görüşme: stresörün doğası, başlangıç zamanlaması, belirtilerin içeriği ve işlev kaybı ayrıntılı sorgulanır; majör depresyon, posttravmatik stres bozukluğu ve madde kullanımı eklenip dışlanır; akut kriz dönemlerinde ve ergenlerde intihar riski özenle değerlendirilir; depresyon-anksiyete tarama ölçekleri yardımcıdır"
+kesin_tani: "DSM-5-TR ölçütlerine göre duygusal ya da davranışsal belirtilerin tanımlanabilir bir stresöre yanıt olarak, stresörden sonraki 3 ay içinde ortaya çıkması; belirtilerin klinik olarak orantısız olması ya da işlevsel olarak önemli kayıp yaratması; belirtilerin başka bir bozukluğun ölçütlerini karşılamaması ve yas gibi kültürel olarak beklenen tepkilerle açıklanamaması; stresör ve sonuçları sona erdikten sonra belirtilerin 6 aydan uzun sürmemesi — kalıcı stresörlerde bu üst sınır geçerli değildir"
+ilk_tedavi: "İlk adım her zaman psikososyal: destekleyici görüşme, kriz müdahalesi, bilişsel davranışçı tekniklerle problem çözme ve baş etme eğitimi, aile ve sosyal desteğin örgütlenmesi. Farmakoterapi rutin değildir; belirgin uykusuzluk ya da kaygıda kısa süreli semptomatik ilaç düşünülür. Tablo beklenenden uzun sürerse, derinleşirse ya da başka bir bozukluğun ölçütlerini doldurmaya başlarsa tanı yeniden değerlendirilir ve tedavi o tanıya göre kurulur"
+klasik_komplikasyon: "Belirtilerin majör depresif bozukluk ya da anksiyete bozukluğuna dönüşmesi; ergenlerde madde kullanımı ve riskli davranışlar; akut kriz dönemlerinde intihar girişimi"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

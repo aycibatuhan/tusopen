@@ -1,0 +1,10 @@
+id: pat_gen_atipik_kalitim
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Atipik Kalıtım"
+taksonomi:
+  - [ttbt, patoloji, pat_genetik, pat_gen_atipik_kalitim]
+metin: "Mitokondriyal DNA mutasyonları yalnızca anneden çocuklara geçer ve yüksek enerjili dokuları etkiler; MELAS ve MERRF örnekleridir. 15q11 bölgesinde paternal delesyon Prader-Willi sendromunu (hipotoni, obezite, hipogonadizm), maternal delesyon ise Angelman sendromunu (gülme atakları, ataksi) yapar; bu fark genomik baskılamadan kaynaklanır. Üçlü nükleotid tekrar hastalıklarında (Huntington, Fragile X) tekrar sayısı kuşaktan kuşağa artar ve tablo ağırlaşır; bu duruma antipasyon denir."

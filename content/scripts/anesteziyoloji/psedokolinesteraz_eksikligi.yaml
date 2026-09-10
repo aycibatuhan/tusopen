@@ -1,0 +1,25 @@
+id: psedokolinesteraz_eksikligi
+version: 1
+status: draft
+author: "ai-drafts/anestezi-2"
+sources:
+  - "AAGBI nöromusküler blokaj ve anestezi ilaç güvenliği rehberleri — referans olarak listelendi, metin projesi özgün yazımdır"
+  - "Butirilkolinesteraz fenotipleme klasik sınıflaması (dibukain sayısı, Whittaker) — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Psödokolinesteraz Eksikliği
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_psodokolinesteraz]
+tipik_hasta: "süksinilkolin sonrası beklenen birkaç dakika yerine saatlerce süren felç ve apne gelişen hasta; kalıtsal tip otozomal resesif geçer ve ilk anestezide yakalanır; kazanılmış eksiklik gebelik, karaciğer hastalığı, malnütrisyon, böbrek hastalığı ve organofosfat/antikolinesteraz ilaç kullananlarda düşünülür"
+patofizyoloji: "süksinilkolin normalde plazmadaki butirilkolinesteraz (psödokolinesteraz) tarafından dakikalar içinde hidrolize edilir. BCHE genindeki otozomal resesif mutasyonlar enzimin yalnız miktarını değil kalitesini de bozabilir: enzim yavaş çalıştığında ilaç etki süresi saatlere uzar. Neostigmin asetilkolinesterazı hedefler ve succinil kolin bloğunu çözemeyeceği gibi, antikolinesteraz etkisiyle durumu ağırlaştırır; tek çıkış, enzimin ilacı kendi hızında işlemesini beklemektir"
+anahtar_bulgular:
+  - "süksinilkolin sonrası saatler süren uzamış apne ve felç (beklenen 5-10 dakikanın çok ötesinde)"
+  - "Neostigmine yanıt vermeyen uzamış blok; periferik sinir stimülasyonunda bloğun sürekli olması"
+  - "Sedasyon yapılmazsa felç halinde uyanık hasta (bilinç açık, kaslar bloke)"
+  - "Aile öyküsünde benzer uzamış felç epizodları (otozomal resesif geçiş)"
+  - "Dibukain sayısında düşüş: normal enzimde 80 dolayında; heterozigotlarda 60 dolayında (40-60 arası); homozigot atipikte 20 dolayında (30'un altında)"
+patognomonik: "süksinilkolin sonrası neostigmine yanıt vermeyen saatler süren uzamış apne"
+ilk_tetkik: "Bilinç korunarak mekanik ventilasyon ve sedasyon sürdürülür, periferik sinir stimülasyonuyla blok izlenir; plazma butirilkolinesteraz aktivitesi ve dibukain sayısı istenir"
+kesin_tani: "Düşük plazma butirilkolinesteraz aktivitesi ve dibukain sayısının düşük olması; şüpheli ailelerde BCHE gen analiziyle mutasyon doğrulanır. Dibukain sayısının mantığı şudur: dibukain normal enzimi baskılar, atipik enzimi çok daha az; enzim aktivitesinin dibukain varlığında ne kadar korunduğu ölçülerek enzimin kalitesi (fenotipi) hakkında bilgi alınır; aktivite sayısı ise miktarı yansıtır"
+ilk_tedavi: "Destekleyici: sedasyon altında mekanik ventilasyon ve twitch izlemiyle spontan iyileşme beklenir; nadiren, ağır tablolarda taze donmuş plazma enzim kaynağı olarak verilir. Hasta ve ailesi bilgilendirilir, akrabalara anestezi öncesi öneri verilmek ve tıbbi uyarı kartı düzenlenmek üzere yönlendirilir"
+klasik_komplikasyon: "Sedasyon ihmal edilirse felç halinde bilinçli olma travması ve anı; uzamış entübasyon ve yoğun bakım ihtiyacı; kas gevşetici olarak verilmiş neostigminin tabloyu daha da uzatması"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

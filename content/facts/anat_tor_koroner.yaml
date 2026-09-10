@@ -1,0 +1,54 @@
+id: anat_tor_koroner
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Koroner arterler
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_toraks
+  - anat_tor_koroner
+metin: Sol koroner arter kısa sol ana (main) gövdeyle başlar ve ön inen arter (LAD, anterior interventriküler)
+  ile sirkumfleks dallarına ayrılır; LAD ön interventriküler olukta apekse iner, septum ve sol ventrikül
+  ön duvarını besler. Sirkumfleks koroner olukta sol tarafa dönerek sol marjinal dal verir. Sağ koroner
+  arter sağ koroner olukta ilerleyerek sinüs ve AV düğüm dallarını verir; posterior inen arterin büyük
+  çoğunlukla (%80) RCA'dan çıkması sağ dominant dolaşımı oluşturur.
+gorsel:
+  dosya: Coronary_arteries.svg
+  kaynak: https://commons.wikimedia.org/wiki/File:Coronary_arteries.svg
+  lisans: CC BY-SA 3.0
+  yazar: Patrick J. Lynch, medical illustrator (original); Fred the Oyster (vector); Mikael Häggström,
+    M.D. (adaptation and labeling)
+  etiketler:
+  - ad: Aort kökü
+    x: 14
+    y: 17
+    w: 9
+    h: 6
+  - ad: Sağ koroner arter (RCA)
+    x: 4
+    y: 41
+    w: 19
+    h: 9
+  - ad: Ön inen arter (LAD)
+    x: 71
+    y: 37
+    w: 22
+    h: 12
+  - ad: Sol sirkumfleks arter
+    x: 71
+    y: 56
+    w: 18
+    h: 9
+  - ad: Sol marjinal arter
+    x: 71
+    y: 65
+    w: 22
+    h: 9
+  - ad: Sağ marjinal arter
+    x: 4
+    y: 72
+    w: 19
+    h: 8

@@ -1,0 +1,64 @@
+id: puberte_prekoks
+version: 1
+status: draft
+author: ai-drafts/pediatri-4
+sources:
+- Nelson Pediatri Ders Kitabı
+- Pediatric Endocrine Society (PES) puberte gelişimi kılavuz ilkeleri — referans olarak listelendi, metin
+  özgün yazımdır
+ad: Puberte Prekoks
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_endokrinoloji
+  - ped_end_puberte_prekoks
+tipik_hasta: Kızda 8 yaşından önce, erkekte 9 yaşından önce ikincil cinsiyet karakterleri gelişmeye başlayan
+  çocuk. Kızlarda en sık ilk bulgu meme tomurcuğudur ve olguların büyük bölümü iyi huylu, merkezî-idiyopatik
+  pubertedir; erkeklerde ise patolojik neden oranı belirgin olarak yüksektir ve testis büyümesi ilk bulgu
+  olur. Ayrıca hızlı artan boy, kemik yaşının takvim yaşından ilerlemiş olması ve kızda beklenmeyen vajinal
+  kanama dikkat çeker
+patofizyoloji: 'İki temel yol vardır. Merkezî (GnRH bağımlı) tip: hipotalamo-hipofizer aks normal puberte
+  düzeninde ama erken uyanır; GnRH pulsatil salınımı artar, LH-FSH sekresyonu ve buna bağlı gonadal steroid
+  üretimi başlar. Kızlarda çoğu idiyopatiktir; erkeklerde ve çok küçük yaşta başlayan kızlarda hipotalamik
+  hamartom, hidrosefali, beyin cerrahi veya radyasyon öyküsü gibi santral patoloji aranmalıdır. Periferik
+  (GnRH bağımsız) tip: hormon kaynağı gonadların, böbreküstünün veya dışarıdan alınan hormonların kendisidir;
+  McCune-Albright sendromu (sütlü kahve renginde (café-au-lait) cilt lekesi, fibröz kemik displazisi ve fonksiyonel ovarian
+  kist üçlüsü), ovarian kist veya tümör, testiküler tümör ile testotoksikoz (LH reseptörünü aktive eden
+  mutasyon), konjenital adrenal hiperplazi ve ekzojen hormon kaynakları bu gruptadır'
+anahtar_bulgular:
+- Kızda 8 yaş öncesi meme gelişimi veya pubik kıllanma; erkekte 9 yaş öncesi testis hacminin 4 mL'ye ulaşması
+  veya uzun çapının 2.5 cm'yi aşması
+- Büyüme hızının akranlardan belirgin fazla olması ve kemik yaşının ilerlemiş olması
+- Kızda meme gelişiminden bağımsız veya erken vajinal kanama — periferik kaynak şüphesi uyarır
+- Erkekte dış görünüş pubertik ama testisler küçük kalıyorsa kaynak testis dışıdır (böbreküstü veya ekzojen
+  androjen)
+- Kahve-renkli (café-au-lait) leke, kemik ağrısı veya ekstremite asimetrisi — McCune-Albright sendromu
+- Erkekte hızlı boy uzaması ve kas kütlesi artışı, pubik kıllanmanın erken başlaması
+patognomonik: null
+ilk_tetkik: Sol el bilek grafisiyle kemik yaşı (ilk ve en basit adım; kemik yaşının ilerlemiş olması aktif
+  puberte lehinedir); kan LH, FSH, kızda östradiol, erkekte testosteron ve TSH; boy ve büyüme hızının
+  persantil ölçümü
+kesin_tani: 'GnRH stimülasyon testi ayrımın anahtarıdır: GnRH analogu sonrası LH yanıtının belirgin yükselmesi
+  (LH baskın yanıt) merkezî puberteyi gösterir; LH yanıtı baskın değilse periferik tip düşünülür. Merkezî
+  tanı konursa erkekte mutlaka, kızlarda altı yaş altında veya hızlı ilerleyen tablolarda beyin MRG alınır.
+  Periferik tipte kaynak araştırılır: pelvik ultrasonda ovarian kist veya tümör, testis ultrasonu, böbreküstü
+  görüntülemesi; konjenital adrenal hiperplazi için 17-hidroksiprogesteron; testotoksikozda LH-FSH''nin
+  baskılanmış ama testosteronun yüksek olduğu tablo'
+ilk_tedavi: 'Merkezî (GnRH bağımlı) pubertede uzun etkili GnRH analogu (leuprorelin asetat, üç aylık depo
+  dahil) standart tedavidir; hedef puberte bulgularının gerilemesi, büyüme hızının ve kemik yaşının yavaşlaması
+  yani büyüme potansiyelinin korunmasıdır. Periferik tipte tedavi nedene yöneliktir: tümörlerin cerrahi
+  çıkarılması, testotoksikozda aromataz inhibitörleri, konjenital adrenal hiperplazide glukokortikoid
+  tedavisi. Kemik yaşı büyük ölçüde kapandıysa boyda kazanç sınırlıdır; tedavi kararı büyüme potansiyeliyle
+  birlikte verilir'
+klasik_komplikasyon: Erken kapanan kemik yaşıyla erişkin boy kaybı (tedavisiz merkezî pubertede en önemli
+  sonuç); psikososyal zorlanma ve akran ilişkilerinde güçlük; McCune-Albright sendromunda ek endokrin
+  hiperfonksiyonlar (hipertiroidizm, Cushing sendromu) ve patolojik kemik kırıkları
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-57
+- tus-2015-sonbahar-ktbt-117
+- tus-2017-ilkbahar-ttbt-119
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

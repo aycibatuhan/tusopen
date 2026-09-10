@@ -1,0 +1,69 @@
+id: hipertansiyon
+version: 1
+status: draft
+author: ai-drafts/kardiyoloji
+sources:
+- ESC ve ESH Arteriyel Hipertansiyon Rehberi — referans olarak listelendi, metin projesi özgün yazımdır
+ad: Hipertansiyon
+taksonomi:
+- - ktbt
+  - kardiyoloji
+  - kard_hipertansiyon
+  - kard_ht_tani_siniflama
+- - ktbt
+  - dahiliye
+  - dah_kardiyovaskuler
+  - dah_kv_hipertansiyon_yonetimi
+tipik_hasta: Orta yaş üstü, fazla kilolu, tuz alımı yüksek, aile öyküsü olan hasta; çoğunlukla asemptomatik
+  olduğu için rutin ölçümde saptanır. 30 yaş altı başlangıç, üç ilaca rağmen kontrolsüz seyir (dirençli
+  hipertansiyon) veya ani başlangıç varsa sekonder neden araştırılmalıdır
+patofizyoloji: 'Olguların büyük bölümü esansiyel (primer) tip: genetik yatkınlık, artmış tuz alımı, obezite,
+  yaşlanma ve artmış sempatik tonusun bileşimidir. Sekonder tipte tek bir neden vardır: renal arter stenozunda
+  renin-aldosteron aracılı hacim ve vazokonstriksiyon artışı; primer aldosteronizmada (adenom veya bilateral
+  hiperplazi) hipokalemiyle giden aldosteron fazlalığı; feokromositomada katekolamin salgısı; obstrüktif
+  uyku apnesinde gece boyu sempatik aktivasyon; kronik böbrek hastalığında hacim yüklenmesi. Hedef organ
+  hasarı (kalp, beyin, böbrek, göz, damar) morbiditeyi belirler'
+anahtar_bulgular:
+- Ayrı günlerde en az iki-üç ölçümde ofis tansiyonu 140/90 mmHg üstü; ev ölçümünde 135/85 üstü, 24 saatlik
+  ölçümde 130/80 üstü tanı eşiği
+- 'Hedef organ hasarı: retinopati, sol ventrikül hipertrofisi, mikroalbuminüri, kreatinin artışı, damar
+  sertliği'
+- 'Sekonder neden ipuçları: genç yaş, dirençli tansiyon, hipokalemi, karında sistolik brüit, paroksismal
+  terleme ve baş ağrısı, horlama-gündüz uyku hali'
+- 'Hipertansif kriz: 180/120 mmHg üstü tansiyon; akut hedef organ hasarı varsa hipertansif acil durum (damar yoluyla kontrollü hızlı düşürme),
+  yoksa hipertansif ürjans (ağızdan ilaçlarla 24-48 saatte kademeli düşürme)'
+- 'Eşlik eden kardiyovasküler risk faktörleri: obezite, dislipidemi, hiperglisemi, sigara'
+patognomonik: null
+ilk_tetkik: Doğru ölçüm tekniği (uygun manşet, iki kolda karşılaştırma, oturarak dinlenme sonrası) ve
+  tekrar ölçümler; kreatinin, elektrolitler (özellikle potasyum), açlık glukozu, lipid profili, idrar
+  albumin-kreatinin oranı, EKG (sol ventrikül hipertrofisi) ve fundus muayenesi. Değerler sınırda veya
+  ofis ölçümü güvenilmezse 24 saatlik ambulatuar tansiyon izlemesi
+kesin_tani: 'Ofis ölçümlerinde ayrı günlerde 140/90 mmHg üstü değerler veya ev-ambulatuar eşiklerin aşılması
+  tanıdır; tanıyla birlikte hedef organ hasarı ve kardiyovasküler risk sınıflaması yapılır. Sekonder şüphede:
+  plazma aldosteron-renin oranı (primer aldosteronizma taraması), renal arter görüntülemesi (stenoz),
+  plazma veya 24 saatlik idrar metanefrin ölçümü (feokromositoma), polisomnografi (obstrüktif uyku apnesi),
+  kreatinin ve idrar tetkiki (renal parankim hastalığı)'
+ilk_tedavi: 'Her hastada hayat tarzı: günlük tuz 5 g altı, kilo kaybı, düzenli aerobik egzersiz, DASH
+  tipi beslenme, alkol azaltımı, sigara bırakma. İlaçta üç ana seçenek: ACE inhibitörü veya ARB (diyabetik
+  ve proteinüride özellikle tercih), kalsiyum kanal blokeri (amlodipin) veya tiyazid-tiyazid benzeri diüretik;
+  çoğu hastada iki ilaç kombinasyonuyla başlanır, kontrol sağlanmazsa üçlüye çıkılır. ACE inhibitörü ve
+  ARB birlikte asla kullanılmaz. Özel durumlar: primer aldosteronizmada spironolakton; feokromositomada
+  önce alfa bloker (fenoksibenzamin), sonra beta bloker; gebelikte labetalol, metildopa veya nifedipin
+  (ACE inhibitörü ve ARB gebelikte kontrendikedir). Hipertansif acil durumda intravenöz labetalol, nikardipin
+  veya nitroprussid; ortalama arter basıncı ilk saatte %25''i aşmayacak biçimde kontrollü düşürülür (aort
+  disseke anevrizma ve eklampsi istisnadır)'
+klasik_komplikasyon: İnme (iskemik ve hemorajik), koroner arter hastalığı ve kalp yetmezliği, kronik böbrek
+  yetmezliği, hipertansif retinopati, aort diseke anevrizma
+tus_gecmisi:
+- tus-2016-sonbahar-ktbt-26
+- tus-2017-ilkbahar-ktbt-7
+- tus-2018-ilkbahar-ttbt-106
+- tus-2018-sonbahar-ktbt-112
+- tus-2019-sonbahar-ttbt-108
+- tus-2021-ilkbahar-ktbt-11
+- tus-2021-ilkbahar-ktbt-9
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

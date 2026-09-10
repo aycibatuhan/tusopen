@@ -1,0 +1,10 @@
+id: fiz_sol_regulasyon
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Solunumun Kemoreseptör Kontrolü"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_regulasyon]
+metin: "Santral kemoreseptörler medüllada bulunur ve beyin omurilik sıvısının pH'ını izler; karbondioksit arttığında sıvı asitleşir ve ventilasyon hızla artar, bu yanıt kronik yüksek karbondioksitte bikarbonat tutulumuyla azalır. Periferik kemoreseptörler karotid ve aortik cisimlerde olup arteryal oksijen basıncı yaklaşık 60 milimetre cıva altına düştüğünde ve pH düştüğünde uyarılırlar."

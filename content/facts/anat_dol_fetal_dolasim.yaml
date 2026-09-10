@@ -1,0 +1,10 @@
+id: anat_dol_fetal_dolasim
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fetal dolaşım kalıntıları"
+taksonomi:
+  - [ttbt, anatomi, anat_dolasim, anat_dol_fetal_dolasim]
+metin: "Fetusta göbek veni kanı ductus venosustan geçerek alt vena kavaya boşaltır; alt vena kavadan gelen kanın büyük bölümü foramen ovaleden doğrudan sol atriuma geçer. Pulmoner arterdeki kan ductus arteriosustan aortaya yönelir. Doğum sonrası kalıntılar şunlardır: göbek veni ligamentum teres, ductus venosus ligamentum venosum, foramen ovale fossa ovalis, ductus arteriosus ligamentum arteriosum."

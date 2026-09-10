@@ -1,0 +1,24 @@
+id: sezaryen
+version: 1
+status: draft
+author: "ai-drafts/kadin_dogum-4"
+sources:
+  - "Rehberler: ACOG sezaryen ve önceki sezaryen sonrası vajinal doğum (TOLAC) kılavuzu, T.C. Sağlık Bakanlığı doğum yönetimi rehberi — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Sezaryen
+taksonomi:
+  - [ktbt, kadin_dogum, kd_dogum, kd_dog_sezaryen]
+tipik_hasta: "Bir hastalık değil, doğumu tamamlayan bir girişim; tipik aday: önceki sezaryen öyküsü olan ileri dönem gebelik, plasenta previa, transvers lie, aktif doğum döneminde ilerleme durması veya fetal sıkıntı saptanan anne adayı"
+patofizyoloji: "Endikasyon mantığı dört eksenle kurulur: anneden kaynaklı (pelvis ile fetus arasındaki uyumsuzluk, ikinci dönemde ilerleme yokluğu, aktif genital herpes), fetüsten kaynaklı (makat, transvers pozisyon, fetal sıkıntı), maternal-fetal (plasenta previa, plasenta dekolmanı, önceki klasik uterine insizyon) ve tıbbi gereklilikle birleşen doğum planı. Gerçek mutlak endikasyonlar azdır; kararların çoğu görecelidir ve anne-bebek güvenlik dengesiyle verilir"
+anahtar_bulgular:
+  - "Mutlak-nadir endikasyonlar: yaşanabilir gebelikte ileri derece plasenta previa, klasik uterine insizyon öyküsü, transvers lie"
+  - "Doğum ilerlemesizliği: aktif fazda belirgin süre boyunca dilatasyon ilerlemesinin olmaması, ikinci dönemde başın aşağı inmemesi"
+  - "Fetal sıkıntı: CTG'de uzamış bradikardi, tekrarlayan geç dekelerasyonlar, kafa derisi kan gazında asidoz"
+  - "TOLAC (önceki sezaryen sonrası vajinal doğum) için uygun aday: tek alt segment insizyon öyküsü, baş prezentasyon, klinik olarak pelvis-fetus uyumunun uygunluğu, acil sezaryen kapasitesi olan merkezde doğum"
+  - "Elektif tekrar sezaryen 39. haftadan önce planlanmaz; ileri derece previa veya rüptür riski gibi özel durumlarda daha erken alınır"
+patognomonik: null
+ilk_tetkik: "Preoperatif değerlendirme: ultrasonla prezentasyon, plasenta lokalizasyonu, amniyotik sıvı ve tahmini fetal ağırlık; CTG ile fetal durum; tam kan sayımı, grup ve Rh, çapraz match; bilgilendirilmiş onam. TOLAC adayında önceki ameliyat raporunun incelenmesi"
+kesin_tani: "Tanı yerine karar belgelenmesi: endikasyonun dosyaya yazılması; TOLAC uygunluğunun önceki operasyon notundaki uterine insizyon tipiyle teyidi (alt segment transvers insizyon uygun kabul edilir)"
+ilk_tedavi: "Standart doğum yolu alt segment transvers uterine insizyondur; elektif olguda 39. haftada planlama, insizyondan önce tek doz antibiyotik profilaksisi, yenidoğan ekibinin hazır olması. TOLAC'ta sürekli fetal izlem altında doğum yürütülür ve uterine rüptür işaretleri (ani fetal bradikardi, kontraksiyonlar arasında sürekli yoğun ağrı, vajinal kanamaya bağlı hemodinamik bozulma) anında sezaryene götürür"
+klasik_komplikasyon: "Endometrit ve yara yeri enfeksiyonu, kanama ve transfüzyon, mesane-bağırsak yaralanması; ilerideki gebeliklerde plasenta akreta spektrumu ve uterine rüptür risk artışı"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

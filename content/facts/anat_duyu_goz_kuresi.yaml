@@ -1,0 +1,10 @@
+id: anat_duyu_goz_kuresi
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Göz küresi katmanları ve aköz sıvı"
+taksonomi:
+  - [ttbt, anatomi, anat_duyu_organlari, anat_duyu_goz_kuresi]
+metin: "Göz küresinin dış tabakası sklera ve korneadan, orta tabakası (uvea) koroid, siliyer gövde ve iristen, iç tabakası retinadan oluşur. Siliyer cisimden salgılanan aköz hümör posterior kameradan pupil ve ön kameraya geçer, trabeküler ağ ve Schlemm kanalıyla drene olur; bu akışın engellenmesi göz içi basınç artışı (glokom) yol açar. Retina ile pigment epiteli arasındaki ayrışma retinal dekolmana karşılık gelir."

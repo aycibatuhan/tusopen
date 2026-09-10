@@ -1,0 +1,10 @@
+id: farm_kv_kalsiyum_kanal
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dihidropiridin ve Verapamil Farkı"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_kalsiyum_kanal]
+metin: "Dihidropiridin grubu damar düz kasını öncelikle gevşetir; güçlü vazodilatasyon refleks taşikardiyi tetikleyebilir. Verapamil kalp kası ve ileti sistemindeki kalsiyum kanallarını daha çok etkiler, bu yüzden kalp hızını düşürür ve kalp yetmezliğinde dikkatle kullanılmalıdır."

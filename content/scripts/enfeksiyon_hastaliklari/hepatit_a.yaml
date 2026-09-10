@@ -1,0 +1,48 @@
+id: hepatit_a
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-5
+sources:
+- 'Klinik rehberler: Viral hepatit tanı ve tedavi rehberleri (AASLD/IDSA, DSÖ viral hepatit özeti) — referans
+  olarak listelendi, metin projesi özgün yazımdır'
+ad: Hepatit A ve Hepatit E
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_viral_hepatit
+  - enf_vh_hepatit_a_e
+tipik_hasta: Hijyenin zayıf olduğu bölgelere seyahat eden, kontamine su veya çiğ deniz ürünü tüketen,
+  kalabalık ortamda (kreş, askeriye) yaşayan; koyu idrar, açık renkli dışkı, bulantı ve halsizlik sonrasında
+  sarılıkla başvuran erişkin. Çocuklarda enfeksiyon çoğunlukla hafif seyreder, sarılık da çoğu kez görülmez;
+  gebelik, hepatit E için ayrı bir risk grubudur
+patofizyoloji: 'İkisi de RNA virüsüdür: hepatit A pikornavirüs, hepatit E hepevirus ailesindendir. Etken
+  fekal-oral yolla alınır; bağırsaktan kan yoluyla karaciğere ulaşır ve hepatosit hasarı büyük ölçüde
+  bağışıklık yanıtının yol açtığı iltihapla oluşur. Tablo kendini sınırlar, kronikleşme ve taşıyıcılık
+  karakteristik değildir (immünsüprese konakta hepatit E istisnadır); virüsün dışkıyla atılımı, sarılık
+  başlamadan önceki dönemde ve hastalığın erken haftasında bulaşın ana yoludur'
+anahtar_bulgular:
+- 'Fekal-oral bulaş: kirli su, az pişmiş kabuklu deniz ürünleri, kalabalık ve kötü hijyen ortamları; inkübasyon
+  2-6 hafta'
+- Anti-HAV IgM akut hepatit A'nın kesin belirtecidir; anti-HAV IgG tek başına geçmiş enfeksiyonu veya
+  aşıyı gösterir
+- ALT'ta bini aşan belirgin yükseklik; ikter, koyu idrar, sağ üst kadranda hassasiyet
+- Gebelikte hepatit E fulminan karaciğer yetmezliği riskini belirgin artırır, özellikle 2-3. trimesterde
+- Kronikleşme yok; çoğu hasta destekleyici bakımla tam iyileşir, taşıyıcılık ve siroz beklentisi yoktur
+patognomonik: null
+ilk_tetkik: 'Karaciğer fonksiyon testleri ve akut viral hepatit paneli: anti-HAV IgM, anti-HEV IgM ile
+  birlikte HBsAg ve anti-HCV''nin diğer etkenleri elemek için bakılması'
+kesin_tani: Uygun klinik tabloda anti-HAV IgM veya anti-HEV IgM pozitifliği; hepatit E'de gerekirse PCR
+  ile doğrulama
+ilk_tedavi: 'Spesifik antiviral tedavi yok; destekleyici bakım esastır. Temaslı koruması: temaslılara
+  HAV aşısı, riskli sürede pasif immünglobulin; fulminan gelişimde karaciğer nakli değerlendirmesi'
+klasik_komplikasyon: Gebelikte hepatit E'nin fulminan karaciğer yetmezliğine ilerlemesi; nadiren hepatit
+  E'de uzun seyirli kolestatik tablo
+tus_gecmisi:
+- tus-2018-sonbahar-ktbt-44
+- tus-2020-sonbahar-ktbt-1
+- tus-2020-sonbahar-ttbt-98
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

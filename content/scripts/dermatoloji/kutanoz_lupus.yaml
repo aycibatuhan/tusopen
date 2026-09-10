@@ -1,0 +1,56 @@
+id: kutanoz_lupus
+version: 1
+status: draft
+author: ai-drafts/dermatoloji-3
+sources:
+- Fitzpatrick'in Renkli Atlası ve Özet Klinik Dermatoloji
+- Kutanöz lupus eritematozus yönetim rehberi (EADV)
+ad: Kutanöz Lupus Eritematozus
+taksonomi:
+- - ktbt
+  - dermatoloji
+  - derm_bag_dokusu_vaskulit
+  - derm_bdv_lupus
+tipik_hasta: 'Yüz, kulak kepçesi, saçlı deri ve göğüs V bölgesi gibi güneşe maruz alanlarda kızarıklık-pullanma
+  ya da skar bırakan plaklarla başvuran hasta; lezyonlar güneşlenmeyle alevlenir (fotosensivite). Üç temel
+  tablo ayrışır: diskoid tip orta yaşta, keskin sınırı ve skarı olan plaklarla; subakut kutanöz tip (SCLE)
+  anüler ya da pullu geniş dağılımlı lezyonlarla ve güçlü anti-Ro/SSA ilişkisiyle; akut tip kelebek biçimli
+  döküntüyle ve SLE bulgularıyla gelir'
+patofizyoloji: Ultraviyole ışık keratinositlerde apoptozu artırıp başta Ro/SSA olmak üzere otoantijenleri
+  yüzeye taşır; otoantikorlar ve hücresel yanıt bazal keratinositlerde arayüz hasarına yol açar, dermoepidermal
+  bileşkede granüler immun kompleks birikimi (lupus bandı) oluşur. SCLE'de anti-Ro/SSA çok güçlüdür ve
+  tetikleyici ilaçlar (tiazid diüretikler, TNF inhibitörleri) ile alakalıdır; anti-Ro pozitif annenin
+  yenidoğanında neonatal lupus (döküntü artı kalıcı doğumsal kalp bloğu) görülür. Diskoid tip büyük ölçüde
+  deriyle sınırlı kalır, küçük bir kısmı zamanla sistemik lupon gelişir
+anahtar_bulgular:
+- 'Diskoid: yüz, kulak ve saçlı deride keskin sınırı kırmızı-pullu plak; folliküler tıkaçlar, merkezi
+  atrofi, pigment değişikliği ve skar bırakan saç dökülmesi'
+- 'Subakut kutanöz: güneşe açık alanlarda anüler-polisiklik ya da psoriasiform pullu döküntü; iz bırakmadan
+  düzelir; anti-Ro/SSA yüksek'
+- 'Akut: burun köprüsü ve yanaklarda kelebek biçimli döküntü; nazolabial kıvrımlardan sakınır; SLE bulgularıyla
+  birlikte'
+- 'Fotosensivite: güneşlenme sonrası alevlenme; yerleşim güneşe maruz bölgelerle uyumlu'
+- Doğrudan immunofloresanda dermoepidermal bileşke boyunca granüler IgG, IgM ve C3 birikimi (lupus band
+  testi)
+patognomonik: DIF'te dermoepidermal bileşkede granüler IgG/IgM/C3 bandı (lupus band testi); diskoid lezyonda
+  folliküler tıkaç ve skar
+ilk_tetkik: ANA taraması (SCLE'de anti-Ro/SSA, sistemik tutulum şüphesinde anti-dsDNA); lezyonlu deriden
+  DIF için biyopsi; tam kan sayımı, idrar tetkiki ve böbrek-karaciğer fonksiyonlarıyla sistemik tutulum
+  taraması
+kesin_tani: 'Klinik morfoloji artı biyopsi: bazal katman vakuoler dejenerasyonu, kalınlaşan dermoepidermal
+  bileşke ve dermiste perifolliküler-perivasküler lenfosit infiltrasyonu; DIF pozitifliği tanıyı destekler'
+ilk_tedavi: 'Güneş koruması temel: geniş spektrumlu yüksek faktörlü koruyucu, gölgede kalma ve tetikleyici
+  ilaçların (tiazidler, TNF inhibitörleri) SCLE''de kesilmesi. Lokalize lezyonda topikal kortikosteroid
+  veya kalsinörin inhibitörü; sistemik tedavide ilk sıra hidroksiklorokindir (retinal toksisite için düzenli
+  göz kontrolü şart); dirençli tabloda sistemik retinoid, metotreksat veya talidomid; organ tutulumu ortaya
+  çıkarsa SLE protokolleriyle yönetilir'
+klasik_komplikasyon: Diskoid lezyonlarda kalıcı skar ve saç dökülmesi; diskoid tipin küçük bir bölümünde
+  (%5-10) zamanla sistemik lupon gelişimi; SCLE ile bağlantılı yenidoğan lupusunun doğumsal kalp bloğu
+  riski
+tus_gecmisi:
+- tus-2024-ilkbahar-ktbt-25
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

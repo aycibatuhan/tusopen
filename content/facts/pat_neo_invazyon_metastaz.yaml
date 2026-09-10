@@ -1,0 +1,10 @@
+id: pat_neo_invazyon_metastaz
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnvazyon ve Metastaz"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_invazyon_metastaz]
+metin: "Karsinomlarda en sık yayılım şekli lenfojen yoldur ve bölgesel lenf düğümleri ilk durağıdır; sarkomlarda ise ağırlıkla hematovenöz yayılım görülür. Hematojen metastazın en sık yerleşim yerleri karaciğer ve akciğerdir. Nadir bir şekil olan transkoelomik yayılımla mide karsinomu overlerde Krukenberg tümörü yapabilir."

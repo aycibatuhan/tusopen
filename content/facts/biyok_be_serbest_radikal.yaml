@@ -1,0 +1,10 @@
+id: biyok_be_serbest_radikal
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Reaktif Oksijen Türleri ve Antioksidan Savunma"
+taksonomi:
+  - [ttbt, biyokimya, biyok_biyoenerjetik, biyok_be_serbest_radikal]
+metin: "Süperoksit radikali, hidrojen peroksit ve hidroksil radikali başlıca reaktif oksijen türleridir; bunlar arasında en yıkıcı olanı hidroksil radikalidir. Süperoksit dismutaz, katalaz ve glutatyon peroksidaz bu türleri bertaraf eden temel enzimlerdir. Reperfüzyon hasarı ve prematüre retinopatisi oksijen toksisitesinin klinik örnekleridir; glutatyon peroksidaz selenyum içerir."

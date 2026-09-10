@@ -1,0 +1,50 @@
+id: uzun_qt
+version: 1
+status: draft
+author: ai-drafts/kardiyoloji-3
+sources:
+- 'Klinik referans isimleri: ESC kalıtsal aritmi ve ani ölüm önleme dokümanları — yalnızca kaynak adı
+  olarak listelenir, tüm metin projenin özgün yazımıdır'
+ad: Uzun QT Sendromu
+taksonomi:
+- - ktbt
+  - kardiyoloji
+  - kard_aritmiler
+  - kard_ar_uzun_qt
+tipik_hasta: Açıklanamayan senkop geçirmiş ya da ailesinde genç yaşta ani ölüm öyküsü olan genç hasta;
+  QT uzatan ilaç (makrolid antibiyotik, antipsikotik, antiemetik, antiaritmik) başlandıktan sonra çarpıntı
+  ya da bilinç kaybı yaşayan hasta; potasyum düşüklüğü ya da yavaş ritim eklenmiş olgular (edinsel tip)
+patofizyoloji: Kalp kasında repolarizasyon evresi uzar; bu uzama kalıtsal iyon kanalı bozukluklarından
+  (çoğunlukla potasyum kanalı genleri; sağırla birlikte giden kalıtsal tip de vardır) ya da edinsel etkenlerden
+  (QT uzatan ilaçlar, potasyum ve magnezyum düşüklüğü, yavaş ritim) gelir. Uzayan evre, erken son depolarizasyonları
+  kolaylaştırır; bunlar polimorfik, bükülmüş görünümde ventriküler taşiaritmiyi (torsad) başlatır ve ventriküler
+  fibrilasyona ilerleyebilir
+anahtar_bulgular:
+- Elektrokardiyogramda düzeltilmiş QT süresinin eşiği aşması (kadında 460 milisaniyeyi, erkekte 450 milisaniyeyi
+  geçmesi)
+- Ailede senkop, sara tanısı almış ataklar ya da genç yaşta ani ölüm öyküsü
+- Efor, yüzmek ya da ani sesle uyanma ile tetiklenen senkop (kalıtsal tipte tipik)
+- QT uzatan ilaç başlangıcından sonraki günlerde baş dönmesi ve bilinç kaybı
+- Elektrokardiyogramda belirgin U dalgası ve T dalgası biçim bozuklukları
+patognomonik: null
+ilk_tetkik: 12 derivasyonlu elektrokardiyogramda düzeltilmiş QT (QTc) ölçümü; birinci derece aile üyelerinin
+  elektrokardiyogramı
+kesin_tani: Klinik öykü, aile öyküsü ve elektrokardiyografik QTc ölçümünün birlikte değerlendirilmesi
+  (Schwartz puanı); edinsel tipde tetikleyici ilacın ya da elektrolit bozukluğunun belgelenmesi; tanıdan
+  sonraki asıl soru kalıtsal mı edinsel mi ayrımıdır
+ilk_tedavi: Edinsel tipte tetikleyici ilacın derhal kesilmesi, potasyum ve magnezyumun damar yoluyla düzeltilmesi
+  (öncelik magnezyum), sürdürülen ritim bozukluğunda elektrikle ritim dönüşü; kalıtsal tipte uzun etkili
+  beta bloker (nadolol ya da propranolol) ile başlamak, yüksek risklilere (senkoplu, torsad yaşamış, agresif
+  aile öykülü) ICD
+klasik_komplikasyon: Polimorfik ventriküler taşiaritmi (torsade de pointes); ventriküler fibrilasyona dönüşerek
+  ani ölüm
+tus_gecmisi:
+- tus-2014-ilkbahar-ttbt-113
+- tus-2015-ilkbahar-ktbt-62
+- tus-2016-ilkbahar-ktbt-63
+- tus-2017-sonbahar-ttbt-24
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

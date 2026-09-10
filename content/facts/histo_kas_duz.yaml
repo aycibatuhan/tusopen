@@ -1,0 +1,10 @@
+id: histo_kas_duz
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Düz Kasın Yapısal Düzeni"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_kas, histo_kas_duz]
+metin: "Düz kas hücreleri iğ şeklinde, tek çekirdekli ve çizgisizdir; sarkomer bulunmaz, ince ve kalın filamentler hücre zarındaki dense plakalara ve sitoplazmadaki dense cisimciklere bağlanır. Çalışması otonom sinir sistemi ve hormonal sinyallerle düzenlenir."

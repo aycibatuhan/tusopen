@@ -1,0 +1,49 @@
+id: case-gut-01
+version: 1
+status: draft
+author: "ai-drafts/cases-e"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: gut
+baslik: "Gece uyanan büyük parmak ağrısı"
+adimlar:
+  - tip: sunum
+    metin: "52 yaşında erkek. Gece yarısı sağ büyük parmağının kök ekleminde başlayan ağrıyla uyandı; yorganın ağırlığına dahi tahammül edemediğini, ayakkabı giyemediğini anlatıyor. Geçen yıl benzer ama kısa süren bir atak kendiliğinden geçmiş. Hipertansiyon için diüretik kullanıyor, kilolu ve alkolü sık. Muayenede eklem kızarık, sıcak, şiş ve dokunmaya aşırı hassas; öteki eklemler normal. Laboratuvar: ürik asit 8.4 mg/dL, beyaz küre 12.400, CRP yüksek, kreatinin 1.0 mg/dL."
+  - tip: secim
+    soru: "Kesin tanı için en güvenilir yöntem hangisidir?"
+    secenekler:
+      - metin: "Eklem sıvısının kutuplanmış ışık mikroskopisinde iğne biçimli, negatif çift kırılan kristallerin gösterilmesi"
+        dogru: true
+        geri_bildirim: "Altın standart budur; monosodyum ürat kristalleri kutuplanmış ışıkta iğne biçimli ve negatif çift kırılan görünüm verir, tanıyı kesinleştirir"
+      - metin: "Serum ürik asit düzeyi"
+        dogru: false
+        geri_bildirim: "Atak sırasında ürik asit düşebilir ya da normal olabilir; yüksekliği tek başına tanı yapmaz çünkü sağlıklı kişilerde de yükselebilir"
+      - metin: "Eklem radyografisi"
+        dogru: false
+        geri_bildirim: "Erken atakta radyografi normaldir; kesikli erozyonlar ancak kronik ve tofoslu hastalıkta görülür"
+      - metin: "Eklemden alınan sıvıda bakteri kültürü"
+        dogru: false
+        geri_bildirim: "Kültür septik artrit ayırıcısı olarak değerlidir ama klasik podagra tablosunda kesin tanıyı kristal incelemesi verir; kültür sonucu tanıyı geciktirir"
+  - tip: sonuc
+    metin: "Eklem aspirasyonu yapıldı: kutuplanmış ışıkta iğne biçimli, negatif çift kırılan kristaller gözlendi, kültür sterildi. Tanı gut atağı olarak kesinleşti."
+  - tip: secim
+    soru: "Akut atak için doğru yaklaşım hangisidir?"
+    secenekler:
+      - metin: "NSAİİ ile atak tedavisi; allopurinolü atak sakinleşene kadar erteleme"
+        dogru: true
+        geri_bildirim: "Akut gutta NSAİİ, kolşisin ya da kısa süreli kortikosteroid kullanılır; ürik asit düşürücü ilaca atak içinde başlamak atak uzatarak ağrıyı alevlendirir, yeni başlama sakin döneme bırakılır"
+      - metin: "Hemen allopurinol başlanması"
+        dogru: false
+        geri_bildirim: "Atak sırasında allopurinole başlanmaz; kullanımda olan ilaç kesilmez ama yeni başlangıç atak sakinleşene dek ertelenir"
+      - metin: "Yalnızca buz uygulaması ve dinlenme"
+        dogru: false
+        geri_bildirim: "Destekleyici önlemler faydalı olabilir ama tek başına ağrıyı kontrol etmez; ilaçlı tedavi gereklidir"
+      - metin: "Damar içi geniş spektrumlu antibiyotik"
+        dogru: false
+        geri_bildirim: "Septik artrit şüphesi yoksa antibiyotiğin yeri yoktur; kristal atağında gereksizdir ve tanıyı bulanıklaştırır"
+  - tip: ozet
+    metin: "Öğrenme noktaları: gece başlayan, büyük parmak kök eklemini tutan, kırmızı, sıcak ve dokunmayla aşırı hassas tek eklem artriti klasik podagradır; kesin tanı eklem sıvısında kutuplanmış ışıkta iğne biçimli negatif çift kırılan kristallerle konur; atak sırasında ürik asit normal olabilir; akut atakta NSAİİ, kolşisin ya da kortikosteroid kullanılır, allopurinole sakin dönemde başlanır."
+sozlu_sorular:
+  - "Allopurinole başlarken hangi önlem alınır ve hangi ilaçla birlikte başlanabilir?"
+  - "Septik artritle gut atağını nasıl ayırt edersiniz?"
+  - "Gutta yaşam biçimi ve ilaç profilaksisi hangi eşiklerde düşünülür?"

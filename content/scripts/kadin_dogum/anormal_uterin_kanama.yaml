@@ -1,0 +1,52 @@
+id: anormal_uterin_kanama
+version: 1
+status: draft
+author: ai-drafts/kadin_dogum-2
+sources:
+- FIGO PALM-COEIN anormal uterin kanama sınıflandırması — referans olarak listelendi, metin projesi özgün
+  yazımdır
+ad: Anormal Uterin Kanama
+taksonomi:
+- - ktbt
+  - kadin_dogum
+  - kd_amenore_bozukluklar
+  - kd_am_anormal_uterin_kanama
+tipik_hasta: 'İki uç öne çıkar: menarhtan hemen sonra düzensiz ve anovulatuar kanamalarla başvuran adölesan
+  ile perimenopozal dönemde sık/ağır kanamayla gelen 45 yaş üstü kadın; 7 günden uzun süren, hacim olarak
+  yaşam kalitesini bozan veya adet dışı zamanda başlayan her kanama bu çerçeveye girer'
+patofizyoloji: 'FIGO PALM-COEIN mantığı: PALM yapısal (organik) nedenler — Polip, Adenomiyozis, Leiomyom,
+  Malinite; COEIN fonksiyonel nedenler — Koagülopati (en sık adölesanda von Willebrand), Ovülatuar disfonksiyon
+  (PCOS, tiroid hastalığı, hiperprolaktinemi), Endometrial bozukluklar (döşeme onarım mekanizmalarının
+  bozulması), İatrojenik (kontraseptifler, antikoagülanlar), Nohod (sınıflanamayan). Ovülatuar tipte progesteron
+  koruması olmadan östrojenle sürekli şişen endometriyum dengesiz ve parça parça dökülür'
+anahtar_bulgular:
+- 7 günden uzun süren veya hacmi yaşam kalitesini bozan adet kanamaları (ağır menstrüel kanama)
+- Adet dışı zamanlarda başlayan kanama (intermenstrüel)
+- Demir eksikliği anemisi
+- Ultrasonda polip, miyom, adenomiyozis veya endometriyum kalınlık artışı
+- 'Adölesanda anovulatuar patern: seyrek ardından uzun ve bol kanamalar'
+patognomonik: null
+ilk_tetkik: İlk adım gebelik testi (βhCG); ardından hemogram, TSH ve prolaktin; adölesan veya kanama öyküsüyle
+  gelen hastada koagülasyon paneli ve von Willebrand taraması; transvajinal ultrason; 45 yaş üstü veya
+  obezite/PCOS/tamoksifen gibi endometrial kanser riski taşıyanda endometrial biyopsi
+kesin_tani: 'Tanı nedenin sınıflanmasıyla konur: PALM bileşenleri ultrason ve histopatoloji ile gösterilir;
+  ovülatuar disfonksiyon PCOS, tiroid veya hiperprolaktinemi kanıtına bağlanır; koagülopati tipinde ağır
+  kanama öyküsü ve vW testi; endometrial biyopsi maligniteyi dışlar'
+ilk_tedavi: 'Akut ağır kanamada önce stabilizasyon: IV konjuge östrojen veya yüksek doz oral progestojen/kombine
+  kontraseptif, eşlik eden traneksamik asit, gerektiğinde demir replasmanı; kronik kanamada ilk seçenek
+  levonorgestrel salgılayan IUS; yapısal neden saptanan hastada neden odaklı tedavi (polipektomi, miyomektomi,
+  adenomiyozis yönetimi)'
+klasik_komplikasyon: Demir eksikliği anemisi; perimenopozal dönemde gözden kaçan endometrial hiperplazi/kanser;
+  koagülopatisi olan adölesanda gereksiz tanı gecikmesi
+tus_gecmisi:
+- tus-2015-ilkbahar-ktbt-114
+- tus-2016-ilkbahar-ktbt-115
+- tus-2016-sonbahar-ktbt-47
+- tus-2017-sonbahar-ktbt-114
+- tus-2018-sonbahar-ktbt-119
+- tus-2021-sonbahar-ktbt-115
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

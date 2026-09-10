@@ -1,0 +1,49 @@
+id: case-hiponatremi-01
+version: 1
+status: draft
+author: "ai-drafts/cases-b"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: hiponatremi
+baslik: "Sertralin kullanan yaşlı hastada konuşma yavaşlaması ve sodyum düşüklüğü"
+adimlar:
+  - tip: sunum
+    metin: "67 yaşında kadın. Üç haftadır depresif belirtiler için sertralin kullanıyor. İki hafta önce başlayan yorgunluk ve bulantı; son günlerde konuşmasının yavaşladığı, dün banyoda dengesini kaybettiği ama düşmediği anlatılıyor. Muayene: bilinç açık, koopere, yönergeleri geç cevaplıyor. Cilt ve mukozalar normal nemli; ödem yok, jugüler dolgunluk yok, ortostatik düşüş yok. Laboratuvar: Na 119 mEq/L, K 4.1 mEq/L, kreatinin 0.8 mg/dL, kan glukozu 96 mg/dL."
+  - tip: secim
+    soru: "Hiponatremi araştırmasının ilk adımı ne olmalıdır?"
+    secenekler:
+      - metin: "Serum ozmolalitesi ölçmek"
+        dogru: true
+        geri_bildirim: "Önce hipotonik olup olmadığı ayrılmalıdır; sahte hiponatremi ve glukoz ya da mannitol gibi etkenlerle gelişen hipertonik tablolar elenmeden etiyoloji çalışması yanıltıcı olur"
+      - metin: "Hemen yüzde 3 salin bolusu uygulamak"
+        dogru: false
+        geri_bildirim: "Etiyoloji bilinmeden hızlı düzeltme osmotik demiyelinizasyon riski taşır; bu hastada semptomlar orta düzeyde ve önce sınıflandırma gerekir"
+      - metin: "İdrar sodyumu tek başına tanıyı belirlemek için yeterlidir"
+        dogru: false
+        geri_bildirim: "İdrar sodyumu volüm durumunu yansıtır ama önce ozmolaliteyle hipotoniklik doğrulanmalı, sonra idrar bulguları yorumlanmalıdır"
+      - metin: "Sodyum hafif düştüğünden iki hafta sonra kontrol yeterlidir"
+        dogru: false
+        geri_bildirim: "119 mEq/L belirgin düşük ve nörolojik semptomlar var; beklemek yerine hastane yatışı ve araştırma gerekir"
+  - tip: sonuc
+    metin: "Serum ozmolalitesi 246 mOsm/kg (hipotonik). İdrar ozmolalitesi 520, idrar sodyumu 58 mEq/L. Tiroit fonksiyonları ve sabah kortizolü normal; diüretik kullanmıyor. Klinik değerlendirmede övolemik görünümdedir."
+  - tip: secim
+    soru: "Bulgular hipotonik övolemik hiponatremiyi gösteriyor. Yönetim nasıl planlanmalıdır?"
+    secenekler:
+      - metin: "Günlük su alımını kısıtlamak ve sodyumu ilk 24 saatte en fazla 8-10 mEq/L yükseltmek"
+        dogru: true
+        geri_bildirim: "SSRI kaynaklı uygunsuz ADH salgılanması bekleniyor; ilk tedavi su kısıtlamasıdır ve düzeltme sınırı osmotik demiyelinizasyondan korunmak için şarttır"
+      - metin: "Yüzde 3 salinle 24 saat içinde 130 mEq/L üzerine çıkarılmak"
+        dogru: false
+        geri_bildirim: "Hızlı düzeltme santral pons miyelinolizisini de içeren osmotik demiyelinizasyon sendromu riski taşır; hipertonik salin ağır semptomlarda ilk seçenek, orta düzey semptomlarda (konfüzyon, bulantı) da bolusla düşünülür"
+      - metin: "Geniş hacim izotonik salin infüzyonu başlatmak"
+        dogru: false
+        geri_bildirim: "İdrar ozmolalitesi serumdan yüksek olduğundan bu tabloda izotonik salin serbest su tutulumunu artırabilir; hipovolemik hastaya özgü seçenektir"
+      - metin: "Sertralini kesip hastaneye yatmadan evde izlemek"
+        dogru: false
+        geri_bildirim: "Belirgin düşük ve semptomatik sodyumda yatış ve yakından izlem gerekir; ilaç kesme tek başına hızlı düzelme garantisi değildir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: hiponatremide sıra serum ozmolalitesi, sonra volüm durumu, sonra idrar ozmolalitesi ve idrar sodyumudur; SIADH tanısı için hipotiroidi, adrenal yetersizlik ve diüretik kullanımı dışlanmalıdır; SSRI'lar övolemik hiponatreminin sık ilaç nedenidir; ilk tedavi su kısıtlamasıdır; düzeltme hızı ilk 24 saatte 8-10 mEq/L'yi geçmemelidir, aksi halde osmotik demiyelinizasyon gelişebilir."
+sozlu_sorular:
+  - "Osmotik demiyelinizasyon sendromu hangi koşullarda ve neden gelişir?"
+  - "Hipertonik salin ne zaman, hangi koşullarda kullanılır?"
+  - "SIADH tanısı koymadan önce hangi durumlar dışlanmalıdır?"

@@ -1,0 +1,48 @@
+id: over_kanseri
+version: 1
+status: draft
+author: ai-drafts/kadin_dogum-2
+sources:
+- NCCN jinekolojik onkoloji rehberi ve FIGO evreleme sistemi — referans olarak listelendi, metin projesi
+  özgün yazımdır
+ad: Epitelyal Over Kanserleri
+taksonomi:
+- - ktbt
+  - kadin_dogum
+  - kd_jinekolojik_onkoloji
+  - kd_jo_epitelyal_over
+tipik_hasta: 50-70 yaş, postmenopozal kadın; karın şişkinliği, erken doyma, pelvik ağrı ve idrar sıkışması
+  gibi silik gastrointestinal şikâyetlerle gelir; birçoğu bu yüzden tanıyı geç evrede alır; BRCA 1/2 taşıyıcılarında
+  ömür boyu risk belirgin yükselir
+patofizyoloji: 'En sık epitelyal kökenli; postmenopozal olguların çoğunluğu yüksek dereceli seröz histotip
+  ve TP53 mutasyonu taşır. Yüksek dereceli seröz tipin kaynağı büyük ölçüde fallop tüpü fimbrial ucundaki
+  seröz intraepitelyal karsinom (STIC) kabul edilir. Yayılımın ana yolu peritoneal ekim: dökülen tümör
+  hücreleri karın boşluğunda peritoneal yüzeylere, omentuma yerleşir ve asit üretir; kan ve lenf yolu
+  tutulumu da ileri evrede eklenir'
+anahtar_bulgular:
+- Transvajinal ultrasonda solid-kompleks adneksiyal kitle, asit ve omental kütle
+- 'Silik gastrointestinal yakınmalar: şişkinlik, erken doyma, kilo kaybı'
+- Postmenopozal dönemde CA-125 yüksekliği
+- Postmenopozal kadında adneksiyel kitle eşliğinde pelvik ağrı
+- BRCA 1/2 taşıyıcılığı veya güçlü aile öyküsü
+patognomonik: null
+ilk_tetkik: 'Transvajinal ultrason (morfoloji ve Doppler) artı CA-125 ölçümü. CA-125''in rolü ve sınırlaması:
+  benign koşullarda da yükselir (endometriozis, PID, miyom, gebelik, menstruasyon, karın içi iltihap)
+  ve tek başına tarama testi değildir; değeri postmenopozal bir kadındaki adneksiyal kitlenin malign riskini
+  ölçmede ve tedavi yanıtını izlemede daha güvenilirdir'
+kesin_tani: 'Histopatoloji (cerrahi materyalden); evreleme cerrahidir — FIGO sistemi: adneksal dışına
+  yayılım, peritoneal ekim odağı sayısı ve büyüklüğü, pelvik/paraaortik lenf nodu ve uzak metastaz (M
+  evresi); omentektomi, peritoneal biyopsiler ve lenf nodu örneklemesi evrelemenin bileşenleridir'
+ilk_tedavi: Cerrahi sitoreduksiyon (amaç makroskopik rezidü bırakmamak) artı platin-pakitaksel kemoterapi;
+  ameliyatla tam rezeksiyon başlangıçta mümkün görünmeyen hastada önce neoadjuvan kemoterapi; BRCA mutasyonu
+  saptanan hastada remisyonda PARP inhibitörü ile idame tedavi
+klasik_komplikasyon: Peritoneal karsinomatoz ve bağırsak tıkanıklığı; geç evrede tanı; asit ve plevral
+  efüzyon
+tus_gecmisi:
+- tus-2015-ilkbahar-ttbt-91
+- tus-2019-ilkbahar-ttbt-84
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

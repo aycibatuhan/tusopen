@@ -1,0 +1,10 @@
+id: pat_inf_granulomatoz
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Granülomatöz İnflamasyon"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_granulomatoz]
+metin: "Granülom, epitelyoid makrofajların dev hücrelere dönüşüp lenfositlerle çevrelendiği fokal iltihap agregatıdır. Langhans dev hücresinde çekirdekler hücre kenarında at nalı düzeninde dizilir; yabancı cisim dev hücresinde çekirdekler düzensiz ve dağınıktır. Kazeöz nekrozlu granülomlar tüberküloz ve histoplazmoz için tipik iken, sarkoidoz ve Crohn hastalığında kazeöz nekrozsuz granülomlar görülür."

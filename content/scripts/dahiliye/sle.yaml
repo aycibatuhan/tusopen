@@ -1,0 +1,52 @@
+id: sle
+version: 1
+status: draft
+author: ai-drafts/dahiliye-3
+sources:
+- 'Klinik rehberler: EULAR/ACR sistemik lupus eritematozus sınıflandırma ve yönetim önerileri — referans
+  olarak listelendi, metin projesi özgün yazımdır'
+ad: Sistemik Lupus Eritematozus
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_romatoloji
+  - dah_rom_sle
+tipik_hasta: Doğurganlık çağındaki kadın; eklem ağrısı, ışıkla artan yanak döküntüsü, ateş ve yorgunluk
+  gibi çoklu organ yakınmaları ile başvurur; başlangıçta tek organ gibi görünse de poliklinik takibinde
+  birden fazla sistemin tutulduğunun anlaşılması lupusu çağrıştırır
+patofizyoloji: Apoptotik hücre artıklarının temizlenmesindeki bozukluk, nükleer antijenlere karşı otoantikor
+  üretimine yol açar; antikor-antijen immün kompleksleri damarlarda ve dokularda birikir, komplementi
+  aktive edip tip üç aşırı duyarlılık mekanizmasıyla organ hasarı yaratır. Östrojenin immün yanıtı güçlendirmesi
+  hastalığın kadınlarda baskın olmasını açıklar; ilaç kaynaklı lupus benzeri tablolarda (hidralazin, prokainamid,
+  izoniazid) ilacın kesilmesiyle düzelme beklentisi vardır
+anahtar_bulgular:
+- Işığa duyarlı, kelebek biçimli (malar) eritem
+- Simetrik küçük eklem artraljisi/artriti, genelde erozyonsuz
+- Plevral veya perikardiyal serozit; perikard effüzyonu
+- 'Lupus nefriti: proteinüri, idrar sedimentinde eritrosit silindirleri'
+- 'Sitopeni: lökopeni, trombositopeni veya otoimmün hemolitik anemi'
+- 'Nöropsikiyatrik tutulum: nöbet, psikoz, kognitif bozukluk'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Anti-dsDNA veya anti-Sm antikor pozitifliği (hastalığa özgü antikorlar)
+ilk_tetkik: Antinükleer antikor (ANA) taraması; tam kan sayımı, idrar tetkiki (proteinüri ve sediment),
+  CRP ve sedimantasyon; şüpheli organ tutulumunda komplement C3/C4
+kesin_tani: En az bir klinik bulgu ile birlikte ANA pozitifliği temel eşiği; EULAR/ACR puanlama mantığına
+  göre kas-iskelet, cilt, serozit, böbrek, nörolojik, hematolojik ve immunolojik kriterlerin toplamı eşiği
+  aşarsa sınıflandırma konur. Böbrek tutulumu düşünülen hastada biyopsi nefritin sınıfını ve tedavi yoğunluğunu
+  belirler
+ilk_tedavi: Her hastada hidroksiklorokin taban tedavidir (alevlenme sıklığını ve ölümü azalttığı gösterilmiştir);
+  alevlenmelerde glukokortikoid, ağır organ tutulumunda (sınıf üç-dört nefrit, nöropsikiyatrik tutulum)
+  siklofosfamid veya mikofenolat gibi immünsupresifler eklenir; ışıktan korunma önerilir
+klasik_komplikasyon: Diffüz proliferatif lupus nefritinin ilerleyici böbrek yetmezliğine gitmesi; antifosfolipid
+  antikorlara bağlı damar tıkanmaları (tromboz, gebelik kayıpları)
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-30
+- tus-2015-ilkbahar-ktbt-67
+- tus-2018-ilkbahar-ktbt-68
+- tus-2018-sonbahar-ktbt-25
+- tus-2020-ilkbahar-ktbt-25
+- tus-2020-sonbahar-ttbt-106
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

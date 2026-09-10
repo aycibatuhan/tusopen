@@ -1,0 +1,56 @@
+id: myastenia_gravis
+version: 1
+status: draft
+author: ai-drafts/noroloji-2
+sources:
+- 'AAN rehberi: Miyastenia Gravis tanı ve tedavisi — referans olarak listelendi, metin projesi özgün yazımdır'
+- Myasthenia Gravis Foundation of America (MGFA) klinik sınıflaması ve konsensus kılavuzu — referans olarak
+  listelendi, metin projesi özgün yazımdır
+ad: Miyastenia Gravis
+taksonomi:
+- - ktbt
+  - noroloji
+  - noro_noromuskuler
+  - noro_nm_miyastenia
+tipik_hasta: Genç kadın veya 50 yaş üstü erkek; çift görmeye veya göz kapağı düşmesine eşlik eden, çiğneme-yutma
+  güçlüğü ve gün içinde artan yorgunlukla gelen hasta; sabah ilk saatlerde iyi olan, gün ilerledikçe ve
+  aktiviteyle kötüleşen güçsüzlük tanıya yakın ipucudur
+patofizyoloji: 'Nöromusküler kavşağın postsinaptik tarafına karşı gelişen otoimmün hastalıktır: asetilkolin
+  reseptörüne karşı IgG antikorlar reseptörü bloke eder, içselleştirip yıkar ve komplement aracılı zar
+  hasarına yol açar; böylece sinir uyarısıyla açığa çıkan asetilkolin, küçülmüş kavşak plakasında yeterli
+  reseptör bulamaz ve kas yeterince kasılamaz; genç hastalarda timik hiperplazi, 50 yaş üstünde ise timom
+  sık bulunur'
+anahtar_bulgular:
+- 'Yorulabilen ve dalgalanan (fluktuantan) kas güçsüzlüğü: sabah iyi, akşam kötü'
+- 'Oftalmoparezi ve pitoz: çoğu hastada ilk bulgu; göz küresinin hareket kısıtlılığı çift görme yaratır'
+- 'Bulbar tutulum: çiğneme, yutma ve konuşma güçlüğü; mimik kaslarının zayıflığı'
+- Anti-asetilkolin reseptör antikor (anti-AChR) pozitifliği; antikor negatifse anti-MuSK araştırılır
+- Toraks BT'de timoma veya timik hiperplazi
+patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Edrofoniyum (kısa etkili antikolinesteraz) testindeki geçici belirgin düzelme: ilaç asetilkolinesterazı
+  baskılayarak kavşaktaki asetilkolini artırır ve yorulmuş kas anında gücünü kazanır; benzer mantıkla
+  soğuk paket testi pitozda geçici düzelme sağlar'
+ilk_tetkik: Serum anti-AChR antikoru ve negatifse anti-MuSK; toraks BT (timom araştırması); tiroid fonksiyon
+  testleri (eşlik eden otoimmün hastalık sıklığı); muayenede yorulma provokasyonu (uzun süre yukarı bakış)
+  ve soğuk paket testi
+kesin_tani: 'Elektrodiagnostik doğrulama: sinire tekrarlı düşük frekanslı uyarıda bileşik kas aksiyon
+  potansiyeli amplitüdünde azalma (dekrement); en duyarlı yöntem tek lif EMG''de jitter artışıdır; klinik
+  yorulabilen güçsüzlük + antikor veya dekrement kanıtı tanıyı tamamlar'
+ilk_tedavi: Piridostigmin (asetilkolinesteraz inhibitörü) semptomatik başlangıçtır; kronik kontrol için
+  prednizon ve steroidten bağımsız ajanlar (azatioprin, mikofenolat) eklenir; timom saptanırsa timektomi;
+  miyastenik krizde solunum desteği ve hızlı immünoterapi (plazmaferez veya IVIg)
+klasik_komplikasyon: 'Miyastenik kriz: solunum kaslarının tutulumuyla gelen solunum yetmezliği, yoğun
+  bakım gerektirir; kolinerjik kriz: aşırı antikolinesteraz dozunun kendisinin yarattığı güçsüzlük, muskarinik
+  bulgular (salivasyon, diyare, miosis) ile miyastenik krizden ayrılır'
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-109
+- tus-2014-ilkbahar-ktbt-31
+- tus-2014-sonbahar-ttbt-98
+- tus-2015-ilkbahar-ktbt-32
+- tus-2017-sonbahar-ktbt-32
+- tus-2021-ilkbahar-ttbt-24
+- tus-2024-ilkbahar-ttbt-69
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

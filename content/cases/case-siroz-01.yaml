@@ -1,0 +1,49 @@
+id: case-siroz-01
+version: 1
+status: draft
+author: "ai-drafts/cases-e"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: siroz
+baslik: "Karında şişlik ve uyku düzeni bozukluğu olan hasta"
+adimlar:
+  - tip: sunum
+    metin: "58 yaşında erkek. Yirmi yıldır her akşam düzenli alkol kullanıyor. Son üç ayda karında gerginlik giderek artmış, ayak bilekleri şişmiş; eşi gece gözünden en az iki kez kalktığını, gece uykusunun sık sık bölündüğünü ve gündüz uyku halinin başladığını anlatıyor. Muayenede karın gergin ve batında sıvı dalgalanması alınıyor, göbek çevresinde belirgin damar görünümü, skrotumda ödem var. Laboratuvar: bilirubin 2.4 mg/dL, albümin 2.1 g/dL, INR 1.8, trombosit 84 bin, AST 95 U/L, ALT 58 U/L, kreatinin 0.9 mg/dL."
+  - tip: secim
+    soru: "Fizik muayenede doğrulanan yeni başlangıçlı asitli hastada yapılacak ilk işlem hangisidir?"
+    secenekler:
+      - metin: "Tanısal parasentez ve asit sıvısında serum asit albümin gradyanı ölçümü"
+        dogru: true
+        geri_bildirim: "Sirozda yeni görülen asit önce örneklenir; gradyanın 1.1 g/dL üzerinde çıkması portal hipertansiyona bağlı olduğunu gösterir ve aynı örnekle spontan bakteriyel peritonit de taranır"
+      - metin: "Önce diüretik başlayıp yanıt alınamazsa parasentez yapmak"
+        dogru: false
+        geri_bildirim: "Diüretik denemesi tanıyı geciktirir; asidin nedeni bilinmeden tedavi başlanmaz, ayrıca sıvı örneklemeden enfeksiyon dışlanamaz"
+      - metin: "Karın bilgisayarlı tomografisi ile asidi doğrulamak"
+        dogru: false
+        geri_bildirim: "Fizik muayene ile doğrulanmış asitte kitle ya da komplikasyon şüphesi yoksa tomografi tanısal katkı sağlamaz"
+      - metin: "Üst gastrointestinal sistem endoskopisi ile varis taraması"
+        dogru: false
+        geri_bildirim: "Varis taraması sirozlu hastada önemli olsa da asidin nedenini cevaplamaz; sıralamada asit örnekleme önce gelir"
+  - tip: sonuc
+    metin: "Parasentez yapılır: asit albümini 0.3 g/dL, eş zamanlı serum albümini 2.1 g/dL; gradyan 1.1 g/dL sınırının belirgin üzerinde. Asit sıvısında polimorfonükleer (PMN) lökosit sayısı 250/mm küpün altında, spontan bakteriyel peritonit dışlanır. Hekim, gece uyanmaları ve gündüz uyku halini ensefalopatinin erken bulguları olarak yorumlayıp laktüloz başlattı."
+  - tip: secim
+    soru: "Gradyan portal hipertansiyonu doğruladı ve enfeksiyon dışlandı. Asit tedavisinin temeli hangisidir?"
+    secenekler:
+      - metin: "Tuz kısıtlaması ve spironolakton başlangıcı"
+        dogru: true
+        geri_bildirim: "Siroz asidinde ilk basamak sodyum kısıtlamasıyla birlikte spironolaktondur; yanıt yetersiz kalırsa furosemid eklenir, hedef kilo kaybı ödemsiz hastada günde yarı kilo civarıdır"
+      - metin: "Tek başına yüksek hacimli parasentez"
+        dogru: false
+        geri_bildirim: "Büyük hacimli parasentez hızlı rahatlama sağlar ama diüretik olmadan sıvı hızla yeniden birikir; ileri seçenek olarak düşünülür, temel tedavi değildir"
+      - metin: "Spironolakton yerine önce furosemid tek başına"
+        dogru: false
+        geri_bildirim: "Sirozda ikincil aldosteron artışı nedeniyle tek başına furosemid etkisizdir ve böbrek fonksiyonunu bozabilir; ilk seçim spironolaktundur"
+      - metin: "Transjugüler intrahepatik portosistemik şant (TIPS) açılması"
+        dogru: false
+        geri_bildirim: "Şant, dirençli asit ya da tekrarlayan kanama gibi seçili durumlarda düşünülür; ensefalopati riskini artırır ve ilk basamak değildir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: yeni başlayan asitte ilk işlem tanısal parasentezdir; serum asit albümin gradyanının 1.1 g/dL üzerinde olması portal hipertansiyonu işaret eder; uyku düzeninin bozulması ve gündüz uyku hali ensefalopatinin erken ipuçlarıdır; asit tedavisinin temeli tuz kısıtlaması ve spironolakton; furosemid eklenir, büyük hacimli parasentez ve şant ileri seçeneklerdir."
+sozlu_sorular:
+  - "Serum asit albümin gradyanı düşük çıkarsa ayırıcı tanı nasıl değişir?"
+  - "Spontan bakteriyel peritonit tanısı ve tedavisi nasıl yapılır?"
+  - "Büyük hacimli parasentezde albümin desteği ne zaman gerekir?"

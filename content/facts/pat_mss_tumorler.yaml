@@ -1,0 +1,10 @@
+id: pat_mss_tumorler
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MSS Tümörleri"
+taksonomi:
+  - [ttbt, patoloji, pat_mss, pat_mss_tumorler]
+metin: "Glioblastom yetişkinlerde en sık görülen primer malign MSS tümörüdür; mikroskopide mikrodamar proliferasyonu ve tümör hücrelerinin nekrozu palisadla çevrelediği alanlar (pseudopalisading nekroz) karakteristiktir. Medulloblastom çocuklarda serebellumda yerleşen küçük mavi yuvarlak hücreli tümördür, Homer Wright rozetleri tipikdir ve beyin omurilik sıvısı yoluyla yayılır. Meningiom yetişkin kadınlarda daha sık görülen, iyi huylu, kalsifiye (psammom cisimcikli) lezyondur."

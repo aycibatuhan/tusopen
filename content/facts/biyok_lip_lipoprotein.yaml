@@ -1,0 +1,10 @@
+id: biyok_lip_lipoprotein
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lipoprotein Sınıflarının Görevleri"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_lipoprotein]
+metin: "Kilomikronlar bağırsaktan alınan dış kaynaklı trigliseridi taşır ve apo B-48 içerir; VLDL karaciğerin ürettiği iç kaynaklı yağı apo B-100 ile dağıtır. LDL kolesterolü periferik dokuya götürüp ateroskleroz riskini artırırken, HDL apo A-1 ve LCAT aracılığıyla kolesterolü karaciğere geri taşır. Lipoprotein lipaz eksikliği kilomikronemili tip I hiperlipoproteinemiye yol açar ve pankreatit riskini yükseltir."

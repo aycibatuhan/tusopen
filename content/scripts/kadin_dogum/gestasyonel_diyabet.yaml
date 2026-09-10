@@ -1,0 +1,48 @@
+id: gestasyonel_diyabet
+version: 1
+status: draft
+author: ai-drafts/kadin_dogum
+sources:
+- Türkiye Endokrinoloji ve Metabolizma Derneği gebelikte diyabet kılavuzu (referans olarak listelendi,
+  metin projesi özgün yazımdır)
+- Williams Obstetrik
+ad: Gestasyonel Diyabet
+taksonomi:
+- - ktbt
+  - kadin_dogum
+  - kd_gebelik_hastaliklari
+  - kd_gh_gestasyonel_diyabet
+tipik_hasta: 24 ile 28. hafta arasında taramaya gelen gebelik; riski artıran özellikler obezite, 25 yaş
+  ve üzeri anne yaşı, birinci derece akrabada diyabet, önceki gebelikte makrosomik bebek veya gestasyonel
+  diyabet öyküsü, polihidramnios ve tekrarlayan düşüklerdir; çoğu hastada belirgin şikayet yoktur, fazla
+  kilolu ve fetus büyümüş olabilir
+patofizyoloji: Plasental hormonlar (insan plasental laktojeni, progesteron, kortizol, prolaktin) gebelik
+  ilerledikçe insülin direncini artırır; pankreasın beta hücre rezervi bu artışı karşılayamazsa hiperglisemi
+  gelişir. Anneden geçen fazla glukoz fetal hiperinsülinizme yol açar ve makrosomi, viseral yağlanma ile
+  postpartum hipogliseminin temelini oluşturur
+anahtar_bulgular:
+- 24 ile 28. hafta arasındaki 50 gram glukoz tarama testinde 1 saatlik değerin 140 mg/dL ve üzerinde çıkması
+  (bazı merkezlerde 130 mg/dL eşiği)
+- '75 gram OGTT ile tanı: açlık 92 mg/dL, 1. saat 180 mg/dL, 2. saat 153 mg/dL eşiklerinde tek değerin
+  üstünde olması'
+- USG'de makrosomi (abdominal çevre artışı) ve polihidramnios
+- Riskli gebelikte erken dönemde saptanan açlık glukoz yükselmesi
+patognomonik: null
+ilk_tetkik: 24 ile 28. hafta arasında 50 gram glukoz yükleme sonrası 1 saatlik plazma glukoz taraması;
+  önceki gebelikte diyabet öyküsü veya obezite gibi yüksek risk varsa ilk trimesterde açlık glukozu ve
+  HbA1c
+kesin_tani: Tarama pozitif hastada 75 gram OGTT'de (veya 100 gram 3 saatlik OGTT'de) tanı eşiklerinden
+  birinin ya da birkaçının üstünde değer alınması
+ilk_tedavi: Beslenme düzenlemesi (kontrollü karbonhidrat dağılımı) ve fiziksel aktivite; 1 ile 2 hafta
+  içinde hedef glukoz değerlerine (açlıkta 95 mg/dL altı, yemek sonrası 1. saatte 140 mg/dL altı) ulaşmayan
+  hastada insülin başlanır, metformin alternatif olarak kullanılabilir; insülin ihtiyacı artıyorsa fetal
+  iyilik ve biyometri izlemi sıklaştırılır
+klasik_komplikasyon: Fetüste makrosomi ve omuz distosis, doğum travması, neonatal hipoglisemi, polisitemi
+  ve hiperbilüribinülinemi; annede preeklampsi riski artışı ve ilerleyen yıllarda tip 2 diyabet gelişimi
+tus_gecmisi:
+- tus-2019-sonbahar-ktbt-113
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

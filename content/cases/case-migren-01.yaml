@@ -1,0 +1,49 @@
+id: case-migren-01
+version: 1
+status: draft
+author: "ai-drafts/cases-g"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: migren
+baslik: "Yanıp sönen ışıklar ve tek taraflı baş ağrısı"
+adimlar:
+  - tip: sunum
+    metin: "28 yaşında kadın. Yıllardır tekrarlayan baş ağrısı atakları var; son aylarda haftada bir kez. Atak, göz önünde yanıp sönen zigzag çizgiler şeklinde görme bozukluğuyla başlıyor, yarım saat içinde kendiliğinden kayboluyor, ardından sağ yarım başı kaplayan zonklayıcı ağrı geliyor. Ağrıya bulantı, ışık ve sese hassasiyet eşlik ediyor; hasta karanlık odada yatmayı tercih ediyor. Ataklar birkaç saat ile bir gün arasında sürüyor. Annesinde benzer ağrılar tanımlanıyor. Nörolojik muayene atak dışında tamamen normal."
+  - tip: secim
+    soru: "Tekrarlayan ataklar, tipik görme aurası, tek taraflı zonklayıcı ağrı ve normal muayene. Tanısal yaklaşım hangisi olmalı?"
+    secenekler:
+      - metin: "Klinik öykü ve muayeneyle tanı konulur; sık olmayan ataklarda ve alarm bulgusu yokken görüntüleme gerekmez"
+        dogru: true
+        geri_bildirim: "Tipik aura, tek taraflı zonklayıcı ağrı, bulantı ve fotofobi migreni karakterize eder; tanı klinik kriterlerle konur, alarm bulgusu yokken BT/MR rutin değildir"
+      - metin: "Her hastada beyin MR ile tanı kesinleştirilir"
+        dogru: false
+        geri_bildirim: "Görüntüleme alarm bulgularında (50 yaş üstünde ilk atak, ilerleyici tablo, nöbet, ateş, gece uykusundan uyandıran ağrı) düşünülür; bu hastada yoktur"
+      - metin: "Beyin omurilik sıvısı incelemesi yapılır"
+        dogru: false
+        geri_bildirim: "Lomber ponksiyon santral sinir sistemi enfeksiyonu veya kanama şüphesinde endikasyonlu; bu klinikte endikasyon yok"
+      - metin: "Elektroensefalografi çekilir"
+        dogru: false
+        geri_bildirim: "EEG epilepsi değerlendirmesidir; görme aurası ile epilepsi ayırıcı düşünülse de nöbet öyküsü yokken EEG tanıyı değiştirmez"
+  - tip: sonuc
+    metin: "Alarm bulgusu saptanmaz, migren tanısıyla atak tedavisi planlanır. Dokuz ay sonra kontrolde ataklar haftada üçe çıkmıştır; hastanın ağrı kesici kullanımı günün çoğuna yayılmıştır ve NSAID'lere yanıt azalmıştır."
+  - tip: secim
+    soru: "Atak sıklığı artmış, analjeziye yanıt azalmış ve ağrı kesici kullanımı aşırı. Doğru yaklaşım?"
+    secenekler:
+      - metin: "Profilaktik tedavi başlanır (beta bloker, amitriptilin veya topiramat gibi) ve analjezi kullanımı sınırlandırılır"
+        dogru: true
+        geri_bildirim: "Ayda dört veya daha fazla atak ve işlevselliği bozan ataklar profilaksi endikasyonudur; aşırı analjezi ilaç aşırı kullanımı baş ağrısına yol açar, bu nedenle kullanım sınırı konur"
+      - metin: "Atak anında opioid verilmeye başlanır"
+        dogru: false
+        geri_bildirim: "Opioidler migren tedavisinde önerilmez; ilaç aşırı kullanımı baş ağrısı ve bağımlılık riski taşır"
+      - metin: "Ergotamin her gün profilaksi amaçlı verilir"
+        dogru: false
+        geri_bildirim: "Ergotamin atak kesicidir, profilaktik değil; günlük kullanımı ilaç aşırı kullanımı baş ağrısı ve vazospazm riski oluşturur"
+      - metin: "Sadece tetikleyicilerden kaçınma önerilir, ilaç gerekmez"
+        dogru: false
+        geri_bildirim: "Tetikleyici yönetimi yararlıdır ama sıklaşan ve işlev bozucu ataklarda tek başına yeterli değildir; profilaktik tedavi gerekir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: aura + tek taraflı zonklayıcı ağrı + bulantı/fotofobi + atağın dışında normal muayene = migren; tanı klinik, alarm bulgusu yoksa görüntüleme gerekmez; ayda dört ve üzerinde atak profilaksi endikasyonudur; atak kesicilerin sık kullanımı ilaç aşırı kullanımı baş ağrısı yapar; opioidler migrende önerilmez."
+sozlu_sorular:
+  - "Migren aurasındaki görme kaybı ile TIA nasıl ayrılır?"
+  - "İlaç aşırı kullanımı baş ağrısı nedir ve nasıl önlenir?"
+  - "Migrende profilaktik tedavi endikasyonları nelerdir?"

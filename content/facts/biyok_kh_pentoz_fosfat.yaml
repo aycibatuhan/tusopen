@@ -1,0 +1,10 @@
+id: biyok_kh_pentoz_fosfat
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pentoz Fosfat Yolu ve G6PD Eksikliği"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_pentoz_fosfat]
+metin: "Pentoz fosfat yolunun hız kısıtlayıcı enzimi glukoz-6-fosfat dehidrogenazdır; bu yol hücreye NADPH ile riboz-5-fosfat sağlar. NADPH, glutatyonu redükte halde tutarak hemoglobini oksidatif hasardan korur; G6PD eksikliğinde bakla, sulfa ilaçlar ve bazı antimalaryaller akut hemolizi tetikler. Eritrosit yaymasında Heinz cisimcikleri görülür ve enzim aktivitesi normalin belirgin altında ölçülür."

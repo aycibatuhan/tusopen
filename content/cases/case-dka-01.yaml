@@ -1,0 +1,53 @@
+id: case-dka-01
+version: 1
+status: draft
+author: ai-drafts/cases-a
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: diyabetik_ketoasidoz
+baslik: "Susuzluk ve hızlı kilo kaybı olan genç hasta"
+adimlar:
+  - tip: sunum
+    metin: "23 yaşında kadın. Üç haftadır artan susuzluk, sık idrara çıkma ve iştahsızlık var; altı kilogram kilo kaybı tanımlıyor. Son iki günde bulantı, göbek çevresinde ağrı ve derin hızlı nefes alma gelişmiş. Muayenede dil kuru, tansiyon 98/60 mmHg, nabız dakikada 112, kapiller dolum yavaş; nefesinde aseton kokusu algılanıyor, bilinç açık ama bitkin. Laboratuvar: kan şekeri 540 mg/dL, venöz pH 7.10, bikarbonat 9 mmol/L, idrarda keton güçlü pozitif; sodyum 131 mmol/L, potasyum 5.4 mmol/L, kreatinin 1.1 mg/dL."
+  - tip: secim
+    soru: "Hiperglisemi, ketoasidoz ve belirgin sıvı eksikliği olan genç hasta. İlk tedavi adımı hangisidir?"
+    secenekler:
+      - metin: "İzotonik sodyum klorür ile damar yolu sıvı replasmanı"
+        dogru: true
+        geri_bildirim: "Önce damar içi hacim düzeltilir; sıvı perfüzyonu, insülin duyarlılığını ve böbrek kan akımını onarır ve laboratuvar değerlerini gerçek yerine getirir."
+      - metin: "Hemen bolus insülin enjeksiyonu"
+        dogru: false
+        geri_bildirim: "İnsülin zorunlu tedavidir ama sıvı önceliklidir; sıvı düzelmeden verilen insülin işe yaramaz ve elektrolit dalgalanması riski taşır."
+      - metin: "Rutin bikarbonat infüzyonu"
+        dogru: false
+        geri_bildirim: "Bikarbonat rutin verilmez; asit düzelmesi insülin ve sıvıyla sağlanır, alkali yalnızca pH değeri çok düşükken düşünülür."
+      - metin: "Hipotonik solüsyonla başlamak"
+        dogru: false
+        geri_bildirim: "Hipotonik solüsyon hacim tamamlandıktan ve sodyum değerlendirildikten sonra düşünülür; başlangıçta izotonik verilir."
+  - tip: sonuc
+    metin: "İlk saatte bir litre izotonik verilir; idrar çıkışı düzelir, tansiyon 108/66 mmHg'ye yükselir. Düşük doz damar yolu insülin infüzyonu başlanır, potasyum sık ölçülür."
+  - tip: sunum
+    metin: "Dört saat sonra kan şekeri 240 mg/dL'ye inmiş, pH 7.24, bikarbonat 15 mmol/L. Potasyum 3.1 mmol/L'ye düşmüş. Hasta hâlâ ketonik, sıvı infüzyonu devam ediyor."
+  - tip: secim
+    soru: "Bu aşamada doğru düzenleme hangisidir?"
+    secenekler:
+      - metin: "İnfüzyona dekstroz eklemek ve potasyum replasmanına başlamak; potasyum 3,3 mmol/L'ye çıkana kadar insülin infüzyonu bekletilir (ADA)"
+        dogru: true
+        geri_bildirim: "Ketozis çözülmeden insülin kesilmez; kan şekeri düştüğünde dekstroz eklenir. İnsülin potasyumu hücreye çeker, 3.1 mmol/L düşüklüğü hemen replasman ister."
+      - metin: "İnsülin infüzyonunu tamamen kesmek"
+        dogru: false
+        geri_bildirim: "İnsülinin kesilmesi ketozisi geri getirir; doğru çözüm dekstroz eklemektir."
+      - metin: "Potasyum vermeden insülin dozunu artırmak"
+        dogru: false
+        geri_bildirim: "Ek insülin ciddi hipokalemi ve ritim bozukluğu yapar; önce potasyum düzeltilir."
+      - metin: "Sıvıyı kesip hastayı oral beslenmeye geçirmek"
+        dogru: false
+        geri_bildirim: "Ketozis çözülmeden sıvı ve insülin düzeni kademeli sonlandırılır; ani geçiş nüks riski taşır."
+  - tip: sonuc
+    metin: "Dekstroz ve potasyum replasmanı eklenir. On ikinci saatte pH 7.38, bikarbonat 23 mmol/L, ketonlar azalmıştır. Hasta yemeye başlar; infüzyon kesilmeden önce cilt altı insülin düzenine başlanır, sonra infüzyon sonlandırılır."
+  - tip: ozet
+    metin: "Öğrenme noktaları: genç hastada susuzluk, kilo kaybı, derin hızlı nefes ve aseton kokusu ketozis kuşkusu verir; tanı hiperglisemi, keton pozitifliği ve asidoz üçlüsüyle konur; ilk tedavi izotonik sıvıdır; insülin düşük doz damar yolu infüzyonuyla verilir; kan şekeri düştüğünde dekstroz eklenir; potasyum sık ölçülür, düşükse replasman önceliklidir; bikarbonat rutin verilmez; infüzyon kesilmeden cilt altı insüline geçilir."
+sozlu_sorular:
+  - "Bikarbonat neden rutin verilmez?"
+  - "İnsülin başlanırken potasyum neden kritiktir?"
+  - "İnfüzyon insülininden cilt altı insüline geçiş nasıl planlanır?"

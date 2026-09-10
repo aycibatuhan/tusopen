@@ -1,0 +1,49 @@
+id: case-ibo-01
+version: 1
+status: draft
+author: "ai-drafts/cases-f"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: ince_barsak_obstruksiyonu
+baslik: "Kusma, gaz-gaita çıkaramama ve kolik ağrı"
+adimlar:
+  - tip: sunum
+    metin: "63 yaşında kadın. İki yıl önce abdominal histerektomi öyküsü var. Son 18 saattir göbek çevresinde dalgalar halinde gelen kramp tarzı ağrı tanımlıyor; her ağrı dalgasında huzursuzlanıp kıvrılıyor. Tekrarlayan kusması var; kusmuk önce mide içeriğiyken şimdi yeşilimsi (safra renkli). Dün gece bu yana gaz ve gaita çıkaramıyor. Muayenede abdominal distansiyon, periumbrikal bölgede çınlama tarzı (borborygmus) sesler; peritoneal iritasyon yok, fıtık palpe edilmiyor. Ateş 37.8 derece, nabız 96."
+  - tip: secim
+    soru: "Önceki ameliyat öyküsü olan hastada kolik ağrı, kusma, distansiyon ve gaz-gaita kesilmesi birlikte. En uygun ilk görüntüleme yaklaşımı hangisidir?"
+    secenekler:
+      - metin: "Ayakta direkt batın grafisi ve ardından bilgisayarlı batın tomografisi"
+        dogru: true
+        geri_bildirim: "Klinik tablo mekanik ince barsak obstruksiyonu ile uyumludur; düz grafide çoklu hava-sıvı seviyeleri ve dilate ince bağırsak ansları aranır, tanıyı netleştirmek ve strangülasyonu değerlendirmek için bilgisayarlı tomografi eklenir"
+      - metin: "Kontrastlı üst gastrointestinal endoskopi"
+        dogru: false
+        geri_bildirim: "Endoskopi obstrüksiyon düzeyini göstermek için ilk basamak değildir; akut tabloda önce radyolojik değerlendirme yapılır"
+      - metin: "Gaita mikroskopisi ile parazit araştırması"
+        dogru: false
+        geri_bildirim: "Bulgular mekanik obstrüksiyona işaret eder; parazit araştırması bu klinikte öncelikli tetkik değildir"
+      - metin: "Analjezi ile 48 saat ayakta gözlem"
+        dogru: false
+        geri_bildirim: "Gaz-gaita kesilmesi tam obstrüksiyona uyumludur; gözlem tek başına yeterli değildir, hastaneye yatış ve dekompresyon gerekir"
+  - tip: sonuc
+    metin: "Ayakta direkt grafide merkezî yerleşimli çoklu hava-sıvı seviyeleri ve genişlemiş ince barsak ansları görülür; kolonda gaz azdır. Bilgisayarlı tomografide ince barsak çapı belirgin artmış, distal segment kollabe; geçiş noktasında yapışıklık bandına uyumlu darlık saptanır. Barsak duvarında hedef (target) bulgusu tarzı tabakalanma, duvar içinde hava veya portal ven gazı yok."
+  - tip: secim
+    soru: "Strangülasyon bulgusu saptanmayan bu hastada başlangıç tedavi yaklaşımı hangisidir?"
+    secenekler:
+      - metin: "İntravenöz sıvı, nazogastrik dekompresyon, ağızdan beslenmenin kesilmesi ve hastaneye yatış"
+        dogru: true
+        geri_bildirim: "Yapışıklığa bağlı obstrüksiyonda strangülasyon yoksa ilk yaklaşım konservatiftir; sıvı-elektrolit düzeltmesi ve nazogastrik dekompresyonla önemli bölümü hastaların düzelir"
+      - metin: "Acil laparotomi ile yapışıklıkların giderilmesi"
+        dogru: false
+        geri_bildirim: "Cerrahi, strangülasyon şüphesi, peritoneal bulgular, kapalı loop veya konservatif tedaviye yanıt yokluğunda gereklidir; bu hastada önce dekompresyon denenir"
+      - metin: "Barsak hareketlerini artırmak için yüksek doz antikolinerjik ilaç"
+        dogru: false
+        geri_bildirim: "Antikolinerjikler mekanik obstrüksiyonda tedavi değildir; ağrıyı maskeleyerek tanıyı geciktirebilir"
+      - metin: "Tanıyı netleştirmek için acil kolonoskopi"
+        dogru: false
+        geri_bildirim: "Kolonoskopi akut ince barsak obstrüksiyonunda ilk adım değildir; tanı zaten radyolojik olarak netleşmiştir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: önceki ameliyat öyküsü + kolik ağrı + kusma + gaz-gaita kesilmesi = yapışıklığa bağlı mekanik ince barsak obstruksiyonu; düz grafide merkezî çoklu hava-sıvı seviyeleri aranır, bilgisayarlı tomografi geçiş noktasını ve strangülasyonu gösterir; strangülasyon yoksa ilk tedavi sıvı + nazogastrik dekompresyon; peritoneal bulgular, ateş, taşikardi veya kapalı loop cerrahi endikasyonudur."
+sozlu_sorular:
+  - "İnce barsak ve kalın barsak obstrüksiyonunu ayırt eden bulgular nelerdir?"
+  - "Strangülasyon şüphesini gösteren klinik ve radyolojik bulgular nelerdir?"
+  - "Paralitik ileus ile mekanik obstrüksiyon klinikte nasıl ayrılır?"

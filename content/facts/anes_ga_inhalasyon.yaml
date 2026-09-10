@@ -1,0 +1,10 @@
+id: anes_ga_inhalasyon
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Anesteziyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnhalasyon Anestezikleri ve MAC"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_genel_anestezi, anes_ga_inhalasyon]
+metin: "MAC (minimum alveolar konsantrasyon), keskin cerrahi uyaran uygulanan hastaların %50'sinin hareket etmediği alveoler anestezik konsantrasyondur ve anestezik potensin ölçüsüdür; MAC sırası (güç tersine azalır) yaklaşık şöyledir: halotan < izofluran < sevofluran < desfluran < N2O (N2O'nun MAC'ı ~%105'tir, tek başına anestezi yapamaz). Kan/gaz çözünürlük katsayısı indüksiyon ve derlenme hızını belirler: katsayı düşükse (N2O 0,47; desfluran 0,42; sevofluran 0,65) alveoler konsantrasyon hızla yükselir ve indüksiyon-derlenme hızlıdır; katsayı yüksekse (izofluran 1,4; halotan 2,4) indüksiyon yavaştır, yağ/gaz katsayısı yüksekliği ise güçlü etkiyi yansıtır. Desfluranın kaynama noktası 23,5°C'dir (sıcaklığı sıkı kontrol edilen özel buharlaştırıcı gerekir); sevofluran karbondioksit absorbe edici granülle reaksiyona girerek nefrotoksik compound A oluşturabilir; izofluran koroner yetmezlik (koroner steal) riski taşır; halotan epinefrinle birlikte ventriküler aritmiyi kolaylaştırır ve nadiren hepatotoksisiteye yol açar. N2O'nun özgün özellikleri: ikinci gaz etkisi ve konsantrasyon etkisiyle indüksiyonu hızlandırması, gazla dolu boşluklarda diffüzyonla genişlemeye yol açması (pnömotoraks, bağırsak obstrüksiyonu, orta kulak), derlenmede diffüzyon hipoksisi (uyanma sonrası saf oksijen verilir) ve uzun kullanımda vitamin B12 inaktivasyonuna bağlı megaloblastik anemidir; bu nedenle pnömotoraks, bağırsak obstrüksiyonu ve orta kulak cerrahisinde kontrendikedir. Günümüzde en çok sevofluran (pürüzsüz ve hızlı indüksiyon, çocuklarda tercih, bronkodilatasyon) ve desfluran (en hızlı derlenme; hava yolu iritasyonu, taşikardi ve hipertansiyon yapabilir) kullanılır."

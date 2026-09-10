@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+__pycache__/
+*.egg-info/
+build/
+dist/
+site/
+local/
+*.apkg
+.pytest_cache/
+.ruff_cache/
+.env
+.env.*
+*secret*

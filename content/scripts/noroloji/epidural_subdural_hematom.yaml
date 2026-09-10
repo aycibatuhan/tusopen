@@ -1,0 +1,58 @@
+id: epidural_subdural_hematom
+version: 1
+status: draft
+author: ai-drafts/noroloji-3
+sources:
+- Brain Trauma Foundation Cerrahi Yönetim Kılavuzları
+- Adams and Victor's Principles of Neurology
+ad: Epidural ve Subdural Hematom
+taksonomi:
+- - ktbt
+  - noroloji
+  - noro_travma
+  - noro_tr_epidural_subdural
+tipik_hasta: 'Epidural: genç erişkin, trafik kazası veya düşme sonrası; travma anında kısa bilinç bozukluğu,
+  ardından tam uyanık ''berrak aralık'' (lucid interval), sonra saatler içinde hızlı kötüleşme anlatısı.
+  Akut subdural: ağır travmalı, antikoagülanlı yaşlı hasta. Kronik subdural: yaşlı veya alkol bağımlısı
+  hastada unutulmuş hafif travma sonrası haftalar içinde artan uyuşukluk, unutkanlık ve yürüyüş bozukluğu'
+patofizyoloji: Epidural hematom kafatası iç yüzü ile dura arasına kanar; en sık neden orta meningeal arterin
+  yırtılmasıdır (pterion bölgesi, eşlik eden kafatası kırığı sık). Arter basıncıyla hızla genişler; dura
+  sütür çizgilerine sıkı yapışık olduğundan kanamayı sütürlerde durdurur — kan iki taraftan büzülen bikonveks
+  (lens) şekli verir. Subdural hematom köprü venlerin yırtılmasıyla duralın altına, beyin yüzeyine kanar;
+  venöz kan serbestçe yayılır ve hilal (crescent) şekli çizer; yaşlı beyindeki atrofi köprü venleri gerer,
+  hafif travma bile yeter
+anahtar_bulgular:
+- 'Epidural klasik üç evre: travma anı bilinç bozukluğu, berrak aralık, sonra hızlı bilinç bulanması ve
+  pupilla asimetrisi — ancak bu örüntü tüm hastalarda tam değildir'
+- 'Epidural BT: bikonveks (lens) şekilli hiperdans kan; sıklıkla eşlik eden kafatası kırığı; orta hat
+  kayması hızla gelişir'
+- 'Akut subdural: GCS düşüşü, karşı taraf hemiparezisi, pupilla asimetrisi; BT''de hilal şekilli hiperdans
+  kan, sütürleri aşarak yayılır, kafatası kırığı olmayabilir'
+- 'Kronik subdural: yaşlıda haftalar-aylar içinde unutkanlık, yürüyüş bozukluğu, idrar kaçırma ve baş
+  ağrısı; BT''de hilal şekilli hipodens toplanma; tablo normal basınçlı hidrosefalini taklit eder'
+- 'Herniasyon işaretleri: anizokori, Cushing üçlüsü (tansiyon yükselmesi, bradikardi, düzensiz solunum),
+  koma'
+- Antikoagülan veya antiplatelet kullanan her kafa travmalı hasta yüksek risk grubudur; bilateral kronik
+  subdural yaşlıda sessiz ilerleyebilir
+patognomonik: 'BT''de kanın şekli (kural olarak, nadir istisnalarla): bikonveks (lens) şekilli kan epidural, hilal (crescent) şekilli kan
+  subdural'
+ilk_tetkik: 'Nonkontrast kafa BT: hematomun şekli (bikonveks mi hilal mi), en kalın yerindeki kalınlık,
+  orta hat kayması, ventrikül sıkışması; kafatası BT ile kırık aranır; GCS ve pupilla durumu dakikalarla
+  tekrar kaydedilir; antikoagülan hastada koagülasyon paneli hemen alınır'
+kesin_tani: 'BT bulgusu artı mekanizma öyküsü ayrımı kesinleştirir: epiduralde kırık ve arteriyel kaynak,
+  subduralde köprü venler ve hafif travma; üç haftadan uzun ve hipodens toplanma kronik subduralı gösterir'
+ilk_tedavi: 'Cerrahi endikasyonları: epiduralde 30 ml üzeri hacim, GCS 8 ve altı veya pupilla asimetrisi;
+  subduralde kalınlık 10 mm ve üzeri, orta hat kayması 5 mm ve üzeri veya GCS kötüleşmesi — kranyotomiyle
+  boşaltma. Küçük hematom, GCS 15 ve orta hat kayması yoksa hastane gözlemi, erken tekrar BT ve antikoagülanın
+  tersine çevrilmesi; intrakraniyal basınç artışında baş 30 derece ve osmotik tedavi cerrahiye köprü olur;
+  semptomatik kronik subduralda burr hole ile drenaj'
+klasik_komplikasyon: Serebral herniasyon ve ölüm (özellikle epiduralde saatler içinde); posttravmatik
+  epilepsi; kronik subduralda nüks (membranlar nedeniyle yüzde 10-20); kalıcı hemiparezi
+tus_gecmisi:
+- tus-2015-ilkbahar-ktbt-81
+- tus-2022-ilkbahar-ktbt-42
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

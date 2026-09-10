@@ -1,0 +1,25 @@
+id: perthes
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-2"
+sources:
+  - "POSNA (Kuzey Amerika Çocuk Ortopedisi Derneği) eğitim kaynakları"
+  - "Campbell's Operative Orthopaedics"
+ad: Legg-Calve-Perthes Hastalığı
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_perthes]
+tipik_hasta: "4-10 yaş arası çocuk, erkeklerde daha sık; haftalarca süren, yavaş başlayan kalça ağrısı ve aksayan yürüyüş ile geliyor; çocuk oyun oynamayı azaltır, uzun mesafe yürüyemiyor; ağrı bazen dizin iç yüzünde hissedilir; geçici sinovit (kısa süreli, ateşsiz) ile karışabilir ama tablo Perthes'te haftalarca kalıcıdır"
+patofizyoloji: "Femur başını besleyen medial sirkumfleks femoral arterin posterosuperior retinaküler dallarında geçici kanlanma bozulması; femur başında avasküler nekroz gelişir, ardından yeniden damarlanma sırasında kemiğin biyolojik olarak zayıf olduğu dönemde yük altında baş yıkılır ve düzleşir; yeniden şekillenme sırasında asetabulum içinde küresel biçim korunabilirse eklem uzun dönemde sağlam kalır; başın dış (lateral) yarısının tutulumu (Herring lateral pillar) prognozu belirler"
+anahtar_bulgular:
+  - "4-10 yaş, erkek, ağrılı ve aksayan (antaljik) yürüyüş; yük verince ağrı artar"
+  - "Ağrı kasıkta hissedilir ama dize vurur (obturatör sinir yoluyla uyluğun iç yüzü)"
+  - "Kalça hareketlerinde kısıtlılık: özellikle iç rotasyon ve abdüksiyon kısıt; ileri tabloda dış rotasyon-abdüksiyon kontraktürü"
+  - "Radyografide femur başında skleroz, fragmantasyon ve subkondral fraktür (hilal) hattı; hastanın kemik yaşı gerçek yaştan geride"
+  - "Erken dönemde grafi normal olabilir; şüphede MRG veya kemik sintigrafisi avasküler nekrozu gösterir"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Femur başında subkondral fraktür (hilal) hattı — erken radyografik bulgu"
+ilk_tetkik: "Her iki kalçanın ön-arka ve Lauenstein (kurbağa) yan radyografileri; grafi normal olup klinik şüphe sürerse MRG"
+kesin_tani: "Klinik tablo ve görüntüleme birlikte: femur başında avasküler nekroz bulguları (skleroz, fragmantasyon, kollaps); görüntülemede tutulumun genişliğini Herring lateral pillar sınıflaması, çıkışı Stulberg sınıflaması tarif eder"
+ilk_tedavi: "Ağrı kontrolü ve ağrı ile sinovit dinene kadar kısa süreli ağırlık azaltma; asıl amaç femur başını asetabulum içinde tam kapatan (kontinansı sağlayan) konumda tutmak: abdüksiyon-eksternal rotasyon pozisyonunda ortez veya Petrie alçısı, ileri seçenek olarak femur varus/kısaltma osteotomisi veya asetabulum yön değiştirme (Salter) osteotomisi"
+klasik_komplikasyon: "Femur başı kollapsı, düzleşme ve büyüklük artışı (coxa plana/magna), boyun kısalığı-genişliği; uzun dönemde erken dejeneratif kalça artriti; lateral pillar tutulumu arttıkça prognoz kötüleşir"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

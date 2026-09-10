@@ -1,0 +1,59 @@
+id: noroblastom
+version: 1
+status: draft
+author: ai-drafts/pediatri-3
+sources:
+- Nelson Textbook of Pediatrics (nöroblastom bölümü) — referans olarak listelendi, metin projesi özgün
+  yazımdır
+- Children's Oncology Group nöroblastom risk tabanlı tedavi protokolleri
+ad: Nöroblastom
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_onkoloji
+  - ped_onk_noroblastom
+tipik_hasta: İki yaşından küçük (tepe bir-iki yaş) bebek ve çocuk; annenin banyo ya da giydirme sırasında
+  fark ettiği karın kitlesi, iştahsızlık ve kilo kaybıyla gelen; göz çevresinde morluklar, tek taraflı
+  göz küresi çıkması ya da göz kapağı düşüklüğü, istemsiz göz ve uzuv hareketleri, açıklanamayan ishal
+  (bazı tümörlerde hormon salgısı) de başvuru biçimidir
+patofizyoloji: Sempatik sinir sisteminin nöroblastlarından (nöral krest kaynaklı) gelişen embriyonel tümör;
+  en sık böbreküstü bezinde, onun ardından paravertebral sempatik zincir boyunca yerleşir. Tümör katekolamin
+  üretir ve metabolitleri (vanililmandelik asit, homovanilik asit) idrara çıkar; kemik, kemik iliği, karaciğer,
+  lenf düğümü ve cilde geniş çaplı metastaz eğilimi vardır. MYCN amplifikasyonu ve kromozom 1p kaybı yüksek
+  risk işaretleridir; bebeklerde uzak metastaz olsa bile kendiliğinden gerileyebilen özel örüntü (evre
+  4S) tanımlanmıştır
+anahtar_bulgular:
+- Karnın ortasında ya da yanında sert, düzensiz, orta hattı aşabilen kitle; sıklıkla karaciğer büyümesi
+  eşlik eder
+- İdrarda katekolamin metabolitlerinin (vanililmandelik asit ve homovanilik asit) artışı; kanda laktat
+  dehidrojenaz ve nöron özgül enolaz yüksekliği
+- 'Orbita metastazı: iki göz çevresinde morluklar (rakun göz görünümü) ve göz küresinin öne çıkması'
+- 'Boyun ve üst göğüs tutulumunda Horner sendromu: göz kapağı düşüklüğü, göz bebeği küçüklüğü, yüzde terlemesizlik'
+- 'Paraneoplastik opsoklonus-miyoklonus-ataksi: gözlerin ve uzuvların istemsiz, hızlı, ritimsiz hareketleri;
+  çocuk dengesini yitirir'
+- Bebeklerde ciltte mavi-mor nodüller (metastaz); bazı tümörlerde vazoaktif bağırsak peptidi salgısına
+  bağlı uzun süren ishal
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — İdrarda katekolamin metabolitlerinin (vanililmandelik asit, homovanilik asit) artışı
+ilk_tetkik: İdrarda vanililmandelik asit ve homovanilik asit ölçümü; karın ultrasonografisi ve bilgisayarlı
+  tomografide dokulu, içinde kalsifikasyon görülen tümör; metastaz araştırmasında MIBG sintigrafi ve kemik
+  iliği aspirasyonu
+kesin_tani: Tümör dokusunun biyopsisi (histopatoloji, MYCN amplifikasyonu ve kromozom incelemeleri dahil);
+  klinik görüntüyle birlikte idrar katekolamin metabolitlerinin yüksekliği tümörün sempatik nöral kaynaklı
+  olduğunu gösterir
+ilk_tedavi: 'Risk grubuna göre belirlenir: düşük riskli ve evre 4S bebeklerde gözlem ve bekleyiş (kendiliğinden
+  gerileme beklentisi); yüksek riskte önce kemoterapi, sonra cerrahi rezeksiyon, ardından yüksek doz kemoterapi
+  ve kök hücre desteği, radyoterapi ve diferansiasyon tedavisi (retinoik asit)'
+klasik_komplikasyon: 'Uzak metastazlarla ilerleyen tablo: kemik iliği yetmezliği, karaciğerin hızla büyümesi,
+  kemik ağrıları; paraneoplastik sendromlar (opsoklonus-miyoklonus, kronik ishal); yüksek risk olgularda
+  relaps; yoğun tedavinin uzun dönem toksisitesi'
+tus_gecmisi:
+- tus-2015-ilkbahar-ktbt-61
+- tus-2017-ilkbahar-ktbt-60
+- tus-2017-sonbahar-ktbt-59
+- tus-2019-ilkbahar-ttbt-90
+- tus-2020-sonbahar-ktbt-63
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

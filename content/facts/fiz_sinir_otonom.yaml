@@ -1,0 +1,10 @@
+id: fiz_sinir_otonom
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sempatik ve Parasempatik Farklar"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_otonom]
+metin: "Sempatik sistemin çıkışı torakolombar bölgededir, pregangliyonik lifleri kısadır ve postgangliyonik nöronları çoğunlukla noradrenalin salgılar; buna karşılık ter bezlerinin postgangliyonik kolları kolinerjiktir. Parasempatik sistem kraniosakral çıkışlıdır, uzun pregangliyonik ve kısa postgangliyonik liflere sahiptir ve efektör organlarda asetilkolin kullanır."

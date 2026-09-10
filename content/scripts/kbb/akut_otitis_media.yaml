@@ -1,0 +1,50 @@
+id: akut_otitis_media
+version: 1
+status: draft
+author: ai-drafts/kbb
+sources:
+- AAP/AAFP Akut Otitis Media tanı ve yönetim kılavuzu — referans olarak listelendi, metin projesi özgün
+  yazımdır
+ad: Akut Otitis Media
+taksonomi:
+- - ktbt
+  - kbb
+  - kbb_orta_kulak
+  - kbb_ok_akut_otitis_media
+- - ktbt
+  - kbb
+  - kbb_orta_kulak
+  - kbb_ok_otit_komplikasyonlari
+tipik_hasta: 6-24 aylık dönemde zirve yapan; kreşe giden, sigara dumanına maruz kalan ve son günlerde
+  üst solunum yolu enfeksiyonu geçirmiş süt çocuğu ya da okul öncesi çocuk; ailesine kulak çekiştirme,
+  huzursuzluk ve ateş öyküsüyle gelir
+patofizyoloji: Viral üst solunum yolu enfeksiyonu östatik borusu mukozasını ödemli hale getirip açılıp kapanma
+  fonksiyonunu bozar; orta kulakta negatif basınç oluşur ve nazofarinks salgılarındaki bakteriler kulağa
+  emilir. En sık etkenler Streptococcus pneumoniae, Moraxella catarrhalis ve Haemophilus influenzae'dir
+anahtar_bulgular:
+- Akut başlangıçlı otalji; küçük çocukta kulak çekiştirme, huzursuzluk ve ateş
+- Otoskopide hiperemik, opak, dışa bombeleşmiş timpan zarı; ışık refleksinin kaybı ve işaretlemelerin
+  belirsizleşmesi
+- Pnömatik otoskopide zar hareketliliğinin azalması ya da kaybı; hava-sıvı seviyesi görülebilir
+- Perforasyon gelişirse kulak akıntısı (otorre) ve ağrının hafiflemesi
+- Postauriküler bölgede kızarıklık, şişlik ve kulağın dışa açılması (mastoiditin alarm işareti)
+patognomonik: Bombeleşmiş, opak ve mobilitesi azalmış zar arkasında püy görünümü — orta kulakta iltihabi
+  sıvının otoskopik kanıtı
+ilk_tetkik: Otoskopi ve pnömatik otoskopi; tanı klinik olarak konur, rutin görüntüleme ya da laboratuvar
+  testi gerekmez
+kesin_tani: Akut başlangıçlı semptomlar ile birlikte otoskopide orta kulak effüzyonu kanıtı (bombeleşme,
+  opaklık, hava-sıvı seviyesi) ve inflamasyon bulgusunun birlikteliği
+ilk_tedavi: Ağrı ve ateş kontrolü (parasetamol, ibuprofen) temeldir; 2 yaş üstü, hafif tek taraflı ve
+  izlenebilen çocukta 48-72 saat gözlem makul. Antibiyotik gerektiğinde ilk seçenek yüksek doz amoksisilin
+  (80-90 mg/kg/gün); 2 yaş altı, bilateral tablo, şiddetli semptomlar ve izlenebilirlik sorunu olan vakada
+  derhal başlanır, dirençte amoksisilin-klavulanat
+klasik_komplikasyon: Akut mastoidit (postauriküler şişlik, kulağın dışa itilmesi); daha nadir yüz felci,
+  labirentit ve menenjit
+tus_gecmisi:
+- tus-2017-sonbahar-ktbt-106
+- tus-2021-sonbahar-ktbt-107
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

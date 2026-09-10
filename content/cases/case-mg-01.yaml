@@ -1,0 +1,53 @@
+id: case-mg-01
+version: 1
+status: draft
+author: ai-drafts/cases-a
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: myastenia_gravis
+baslik: "Gün içinde kötüleşen göz kapağı düşmesi"
+adimlar:
+  - tip: sunum
+    metin: "44 yaşında kadın. İki aydır akşamları göz kapaklarının düştüğünü, sabah daha iyi olduğunu anlatıyor; uzun okuma sonrası çift görme olur, dinlenince düzelir. Yutma ve konuşma yakınması yok. Muayenede iki taraflı asimetrik kapak düşmesi; bir dakika yukarı bakış sonrası düşmede belirgin artış; dış göz hareketleri gün sonunda kısıtlanıyor; kol ve bacak güç testleri normal, refleksler ve duyu normal."
+  - tip: secim
+    soru: "Gün içinde kötüleşen, dinlenmeyle düzelen kapak düşmesi ve çift görme. En uygun tanısal yol hangisidir?"
+    secenekler:
+      - metin: "Asetilkolin reseptör antikor testi ve tekrarlı sinir uyarım elektrofizyolojisi"
+        dogru: true
+        geri_bildirim: "Oküler miastenide tanı antikor testi ve tekrarlı uyarımda dekrement cevapla konur; postsinaptik iletim bozukluğu gün içinde dalgalanma yapar."
+      - metin: "Kreatin kinaz ölçümü ve kas biyopsisi"
+        dogru: false
+        geri_bildirim: "Miyopatide güç kaybı gün içinde dalgalanmaz; bu klinikte kreatin kinaz normal beklenir ve biyopsi gerektirmez."
+      - metin: "Beyin görüntülemesinin öncelikli istenmesi"
+        dogru: false
+        geri_bildirim: "İntrakranial lezyon sabit bulgu yapar, gün içinde değişmez; klinik tipikken ilk adım değildir."
+      - metin: "Lomber ponksiyon incelemesi"
+        dogru: false
+        geri_bildirim: "Omurilik sıvısı incelemesi nöroinflamatuvar hastalıklarda düşünülür; oküler miasteni tanısına katkısı yoktur."
+  - tip: sonuc
+    metin: "Asetilkolin reseptör antikorları yüksek titrede pozitif; tekrarlı uyarımda belirgin dekrement cevap saptanır. Tiroit testleri normal; toraks bilgisayarlı tomografisinde timom saptanmaz."
+  - tip: sunum
+    metin: "Piridostigmin başlanır, belirgin düzelme olur. Üç hafta sonra ateşli üst solunum yolu enfeksiyonu sonrası yutma güçlüğü, konuşmada incelme ve nefes darlığı gelişir; solunum sayısı dakikada 24, ölçülen vital kapasite yaşa göre düşük."
+  - tip: secim
+    soru: "Nefes ve yutma tutulumu ilerliyor. Doğru yaklaşım hangisidir?"
+    secenekler:
+      - metin: "Hastane yatışı, solunum fonksiyonlarının izlemi ve damar yolu immünoglobulin veya plazmaferez"
+        dogru: true
+        geri_bildirim: "Miyastenik kriz acil durumdur; önce hava yolu ve solunum korunur, hızlı etki için immünoglobulin veya plazmaferez seçilir, tetikleyici enfeksiyon tedavi edilir."
+      - metin: "Evde piridostigmin dozunu iki katına çıkarmak"
+        dogru: false
+        geri_bildirim: "Krizde kolinerjik ilaç tek başına yetmez; aşırı doz sekresyon artışı ve kolinerjik tablo yapabilir."
+      - metin: "Yüksek doz steroid yüklemesinin aynı gün tek başına başlanması"
+        dogru: false
+        geri_bildirim: "Kortikosteroidin etkisi haftalar sonra görülür ve başlangıçta kötüleşme yapabilir; krizde hızlı etki eden tedavi önceliklidir."
+      - metin: "Balgam söktürücü şurup ve öksürük koruyucu ile evde izlem"
+        dogru: false
+        geri_bildirim: "Nefes ve yutma tutulumu geciktirilemez; ev izlemi solunum yetmezliği riskini büyütür."
+  - tip: sonuc
+    metin: "Hasta yoğun bakımda izlenir; gerekirse solunum desteği verilir, damar yolu immünoglobulin başlanır ve enfeksiyon antibiyotikle kontrol edilir. On gün sonra güç belirgin düzelir, piridostigmin düzenine döner; uzun dönem immünoterapi ve timus değerlendirmesi poliklinikte planlanır."
+  - tip: ozet
+    metin: "Öğrenme noktaları: gün içinde kötüleşen ve dinlenmeyle düzelen kapak düşmesi ve çift görme miastenia gravisi düşündürür; tanı reseptör antikorları ve tekrarlı uyarım dekrementiyle konur; ilk tedavi antikolinesteraz, uzun dönemde immünoterapi ve timus araştırmasıdır; enfeksiyon gibi tetikleyiciler krize yol açar; krizde solunum desteği artı damar yolu immünoglobulin ya da plazmaferez esastır; aminoglikozid gibi bazı ilaçlar miasteniyi kötüleştirebilir."
+sozlu_sorular:
+  - "Bulguların gün içinde neden kötüleştiğini açıkla."
+  - "Miyastenik kriz ile kolinerjik kriz nasıl ayırt edilir?"
+  - "Hangi ilaçlar miasteniyi kötüleştirebilir?"

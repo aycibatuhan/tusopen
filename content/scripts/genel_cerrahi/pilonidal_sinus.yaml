@@ -1,0 +1,25 @@
+id: pilonidal_sinus
+version: 1
+status: draft
+author: "ai-drafts/genel_cerrahi-4"
+sources:
+  - "WSES Guidelines on Pilonidal Sinus Disease"
+  - "Schwartz Principles of Surgery"
+ad: Pilonidal Sinüs
+taksonomi:
+  - [ktbt, genel_cerrahi, gc_kolon_rektum_anus, gc_kol_pilonidal]
+tipik_hasta: "Yirmili-otuzlu yaşlarda erkek; kuyruksokumu bölgesinde yoğun kıllanma ve fazla oturma öyküsü (şoför, masa başı çalışanı); kuyruksokumu üstünde ağrılı şişlik ve akıntıyla gelir: akut tablo ağrılı apse, kronik tablo aralıklı akıntı yapan küçük açıklıklar"
+patofizyoloji: "Hareket ve sürtünmeyle kuyruksokumu hizasındaki deri oluğuna giren kıllar yabancı cisim reaksiyonu ve kronik inflamasyon yaratır; orta hat üzerinde bir veya birkaç sinüs açıklığı, altında tüy yuvası içeren trakt oluşur. Traktın tıkanması ve enfeksiyonu akut apseye götürür; tekrar eden apseler kronik sinüs tablosunu pekiştirir"
+anahtar_bulgular:
+  - "Kuyruksokumu üstünde orta hat hizasında bir veya birkaç küçük deri açıklığı"
+  - "Açıklıklardan seröz-iltihabi akıntı; bazen sinüs ağzından kılların çıkması"
+  - "Akut apse: gergin, ağrılı, kızarık şişlik ve ateş"
+  - "Uzun süre oturmayla şikayetlerin artması ve iyileşip tekrar etmesi"
+  - "Yerleşim anüsten belirgin uzak ve orta hatta; perianal fistülle karıştırılmamalı"
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — "Sinüs ağzından kılların çıkması; kuyruksokumu orta hattındaki açıklıklar"
+ilk_tetkik: "Fizik muayene yeterlidir; derin apse şüphesinde ultrasonografi veya BT kullanılır"
+kesin_tani: "Klinik görünüm: kuyruksokumu orta hattında sinüs açıklıkları, altlarında tüy içeren trakt; akut olguda apse tablosu"
+ilk_tedavi: "Akut apsede yeterli insizyon-drenaj ve tüy temizliği, iltihap gerilediğinde kesin cerrahi; kronik sinüste geniş eksizyon sonrası açık bırakma veya primer kapama, nüks riski yüksek olguda flap yöntemleri (Karydakis, Limberg); tüylerin düzenli alınması nüks önlemi"
+klasik_komplikasyon: "Tekrarlayan apseler ve nüks; uzun sürede çok sayıda sinüs açıklığı; nadiren apsenin geniş yayılımı"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

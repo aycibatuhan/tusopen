@@ -1,0 +1,26 @@
+id: gonore
+version: 1
+status: draft
+author: "ai-drafts/enfeksiyon-4"
+sources:
+  - "CDC Cinsel Yolla Bulaşan Enfeksiyonlar Tedavi Rehberi (2021)"
+  - "T.C. Sağlık Bakanlığı Cinsel Yolla Bulaşan Enfeksiyonlar Rehberi"
+ad: Gonore
+taksonomi:
+  - [ktbt, enfeksiyon_hastaliklari, enf_cinsel_yolla, enf_cy_uretrit_servisit]
+  - [ktbt, dermatoloji, derm_cinsel_yolla_bulasan, derm_cyb_gonore_uretrit]
+tipik_hasta: "Cinsel temas öyküsü olan genç erişkin; erkekte birkaç günden bir haftaya varan kısa bir kuluçka süresi sonrasında akıntı ve dizüriyle başvurur, kadın ise çoğunlukla sessizdir ve doğurganlık çağında üst çanak iltihabı (PID) riskiyle düşünülür"
+patofizyoloji: "Neisseria gonorrhoeae, pili ve dış zar proteinleriyle üretra ile endoserviksin kolumnar epiteline yapışır; yerel inflamasyon pürülan akıntıya yol açar. Kadında serviksten endometriyuma ve adnekslere yukarı yayılır (PID); kan dolaşımına geçerse tenosinovit, septik artrit ve püstüler deri lezyonlarıyla dissemine tablo yapar"
+anahtar_bulgular:
+  - "Erkekte bol, pürülan, sarı-yeşil üretral akıntı ve dizüri"
+  - "Kadında çoğunlukla asemptomatik seyir ya da hafif servikal akıntı ve ara kanama"
+  - "PID tablosu: alt karın ağrısı, adneksiyal hassasiyet, ağrılı cinsel ilişki"
+  - "Dissemine hastalık: gövde ve uzuvlarda püstüler lezyonlar, tenosinovit, septik artrit"
+  - "Anal temasta proktit, oral temasta farenjit; doğum kanalıyla bulaşta neonatal oftalmi"
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — "Semptomatik erkeğin üretral sürüntüsünde hücre içinde Gram negatif diplokokların görülmesi"
+ilk_tetkik: "Nükleik asit amplifikasyon (NAA) testi; sürüntü örneği veya ilk geçen idrar kullanılır; eşlik eden klamidya ve HIV taraması eklenir"
+kesin_tani: "NAA testinin pozitifliği; tedavi yetersizliği şüphesinde ve direnç izlemi için kültür"
+ilk_tedavi: "Seftriakson yüksek doz tek doz kas içine verilir; eşlik eden klamidya saptanırsa doksisiklin; partnerlerin değerlendirilmesi ve tedavisi, tedaviden sonra üç ayda yeniden test"
+klasik_komplikasyon: "Kadında PID sonucu tubal infertilite ve ektopik gebelik riski; dissemine gonokokal enfeksiyon; yeni doğanda oftalmi"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

@@ -1,0 +1,54 @@
+id: plevral_efuzyon
+version: 1
+status: draft
+author: ai-drafts/gogus-2
+sources:
+- BTS (İngiliz Toraks Derneği) Plevral Hastalık Rehberi — referans adı olarak listelendi, metin projesi
+  özgün yazımdır
+- ATS/ERS/STS Plevral Efüzyon Mutabakat Bildirisi — referans adı olarak listelendi
+ad: Plevral Efüzyon
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_plevra
+  - gog_pl_efuzyon
+tipik_hasta: 'İki büyük uç tanıtılmıştır: dekompanse kalp yetmezliği hastasında bilateral küçük efüzyonlar;
+  malignite (akciğer, meme, lenfoma) veya tüberküloz hastasında tek taraflı büyük efüzyon. Eforla artan
+  dispne ve PA grafide kostofrenik açının silinmesi ile başvuran hasta her hekimin kapısından geçer'
+patofizyoloji: 'Plevral boşluktaki sıvının üretimi ve geri emilimi arasındaki dengenin bozulmasıdır. İki
+  ana mekanizma ayrılır: hidrostatik/onkotik basınç dengesinin bozulması (kalp yetmezliği, siroz, nefrotik
+  sendrom, hipotiroidi) transüdâya; üremik plörit ise eksüdadır; plevral yüzeyin inflamasyonu veya hasarı (pnömoni, malignite,
+  tüberküloz, pankreatit, embolide infarkt) eksüdâya yol açar. Light kriterleri bu ayrımı sıvı ve serum
+  örneklerinin karşılaştırmasıyla yapar'
+anahtar_bulgular:
+- Eforla artan dispne ve plevral ağrı; fizik muayenede solunum seslerinin azalması, perküsyonda matlık,
+  sıvı üst sınırında egofoni
+- PA grafide kostofrenik açı körlüğü; lateral dekübit grafi serbest sıvıyı gösterir; USG sıvı miktarını
+  ve septasyonu izleyen en duyarlı yöntemdir
+- Bilateral küçük efüzyonlar kalp yetmezliğini düşündürür; mediastenin karşı tarafa itildiği tek taraflı
+  dev efüzyon malignite işaretçisidir
+- 'Light kriterleri (eksüdâ için tek şart yeterli): efüzyon proteininin plazma proteinine oranı 0,5''i
+  aşması; efüzyon LDH''sinin serum LDH''sine oranı 0,6''yı aşması; efüzyon LDH''sinin serum LDH üst sınırının
+  üçte ikisini aşması'
+- Kalp yetmezliği efüzyonunda NT-proBNP yüksekliği; tanı koymayan eksüdâda adenosin deaminaz (tüberküloz),
+  amilaz (pankreatit) ve sitoloji istenir
+patognomonik: null
+ilk_tetkik: PA ve lateral akciğer grafi ile plevral USG (sıvı miktarı, septasyon, torasentez rehberliği);
+  bilinen kalp yetmezliği dışındaki yeni efüzyonlarda tanısal torasentez yapılır
+kesin_tani: 'Torasentez sıvı analizi: protein, LDH, hücre sayımı ve farklısalı, gram boyama, kültür, sitoloji;
+  gerekirse adenosin deaminaz ve amilaz. Nedeni açıklanamayan eksüdâda BT veya torakoskopik plevral biyopsi
+  ile ilerlenir'
+ilk_tedavi: 'Neden yönelimli yaklaşım: kalp yetmezliği efüzyonu diürezle geriler, rutin drenaj gerekmez;
+  semptomatik büyük efüzyonda torasentez; tekrarlayan malign efüzyonda plevral kateter veya plevrodez;
+  pankreatit efüzyonu destek tedaviyle geriler'
+klasik_komplikasyon: Malign efüzyonun hızlı tekrarı ve sekonder ampiyeme dönüşü; dev efüzyonun çok hızlı
+  boşaltılmasında reekspansiyon pulmoner ödemi
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-6
+- tus-2014-sonbahar-ktbt-7
+- tus-2018-ilkbahar-ttbt-84
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,49 @@
+id: case-anklozan-glokom-01
+version: 1
+status: draft
+author: "ai-drafts/cases-g"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: akut_anklozan_glokom
+baslik: "Kızarmış ağrılı göz ve bulanık görüş"
+adimlar:
+  - tip: sunum
+    metin: "62 yaşında kadın. Akşam, karartılmış odada televizyon izlerken ani sağ gözde derin ağrı, kızarıklık ve bulanık görüş başlamış; ışık kaynaklarının çevresinde renkli halkalar görmüş, birkaç saat içinde bulantı ve kusma eklenmiş. Öyküsünde akşamları ara sıra hafif ve geçici benzer ataklar tanımlanıyor. Göz muayenesi: sağ göz sert ve derinden ağrılı, konjonktival damarlar belirgin, kornea bulanık, pupil orta dilatasyonda ve ışığa yanıt vermiyor, ön kamara sığ. Uzak görüş belirgin azalmış. Refraksiyon öyküsünde yüksek hipermetropi var."
+  - tip: secim
+    soru: "Ağrılı kızarmış göz, bulanık görüş, midriatik pupil ve bulantı-kusma. Tanı?"
+    secenekler:
+      - metin: "Akut açı kapanması glokomu; tonometri ve ön segment değerlendirmesi acil yapılır"
+        dogru: true
+        geri_bildirim: "Sığ ön kamaralı hipermetrop hastada karanlıkta midriyazis açıyı kapatır; ani göz içi basınç artışı ağrı, kızarıklık, bulanık görüş ve vagal bulantı-kusma yapar"
+      - metin: "Akut konjonktivit"
+        dogru: false
+        geri_bildirim: "Konjonktivitte akıntı olur, görüş genellikle korunur; derin ağrı, midriyazis, kornea bulanıklığı ve bulantı-kusma beklenmez"
+      - metin: "Akut anterior üveit"
+        dogru: false
+        geri_bildirim: "Üveitte siliyer flushing ve fotofobi vardır ama pupil genellikle daralmıştır; göz içi basıncı normal ya da hafif değişkendir"
+      - metin: "Migren atakları"
+        dogru: false
+        geri_bildirim: "Migrende baş ağrısı ve aura olabilir ama objektif göz bulguları (sert göz, kornea ödemi, midriyazis, sığ ön kamara) yoktur"
+  - tip: sonuc
+    metin: "Sağ göz içi basıncı 58 mmHg ölçülür. Kornea ödemi, ön kamara çok sığ, açı değerlendirmesinde açı kapalı saptanır. Acil medikal tedavi başlanır."
+  - tip: secim
+    soru: "Göz içi basıncı belirgin yüksek. İlk tedavi yaklaşımı?"
+    secenekler:
+      - metin: "Acil medikal basınç düşürme: IV asetazolamid ve topikal antiglokomatöz ajanlar; basınç düştükten sonra pilokarpin"
+        dogru: true
+        geri_bildirim: "Çok yüksek basınçta sfinkter iskemiktir, pilokarpin ilk anda etkisizdir; basınç düştükten sonra uygulanır. Kesin tedavi lazer iridotomidir"
+      - metin: "Atropin damlası verilir"
+        dogru: false
+        geri_bildirim: "Atropin midriyazisi artırarak açı kapanmasını kötüleştirir; bu tabloda kontrendikedir"
+      - metin: "Yalnızca analjezi ve antiemetik verilip sabaha kadar beklenir"
+        dogru: false
+        geri_bildirim: "Görüş kaybı dakikalar-saatler içinde kalıcı hasara yol açabilir; bekleme retinal ve optik sinir hasarı riski taşır"
+      - metin: "Yalnızca topikal kortikosteroid damlası başlanır"
+        dogru: false
+        geri_bildirim: "Kızarıklığı baskılayabilir ama göz içi basıncını düşürmez; tabloyu maskeleyerek tedaviyi geciktirir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: hipermetrop + karanlık ortam + ağrılı kızarmış göz + bulanık görüş + renkli halkalar + midriyazis + bulantı-kusma = akut açı kapanması glokomu; tanıda tonometri ve ön segment değerlendirmesi acildir; ilk tedavi medikal basınç düşürme, pilokarpin basınç düştükten sonra; atropin kontrendike; kesin tedavi lazer iridotomi."
+sozlu_sorular:
+  - "Pilokarpin çok yüksek basınçta neden ilk anda etkisizdir?"
+  - "Kesin tedavi neden her iki göze uygulanır?"
+  - "Akut atak tetikleyicileri nelerdir?"

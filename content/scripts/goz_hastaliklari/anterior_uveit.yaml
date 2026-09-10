@@ -1,0 +1,26 @@
+id: anterior_uveit
+version: 1
+status: draft
+author: "ai-drafts/goz-3"
+sources:
+  - "AAO Basic and Clinical Science Course (BCSC), Intraocular Inflammation and Uveitis cildi — referans adı olarak listelendi, metin projesi özgün yazımdır"
+  - "Türk Oftalmoloji Derneği klinik pratik rehberleri"
+ad: Anterior Üveit
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_uvea, goz_uv_anterior_uveit]
+tipik_hasta: "Tek gözde ağrı, kızarıklık, fotofobi ve bulanık görmeyle acile veya polikliniğe başvuran genç-orta yaşlı erişkin; nüks veya çift taraflı olgularda HLA-B27 ile bağlantılı hastalıklar (ankilozan spondilit, reaktif artrit, inflamatuar bağırsak hastalığı, psoriatik artrit), sarkoidoz, Behçet hastalığı ve juvenil idiyopatik artrit akılda tutulur — JIA'lı çocukta göz kızarmadan sessiz tutulum ve bant korneopati unutulmamalı"
+patofizyoloji: "İris ve ön siliyer cismin iltihabıdır; kan-aköz bariyeri bozulunca protein sızması (flare) ve iltihabi hücrelerin ön odaya geçişi (hücre) olur. İltihap iris dokusunun lens ön kapsülüne yapışmasıyla posterior sineki yapabilir; trabeküler ağ iltihapla dolup boşalınca göz içi basınçta önce düşüş, sekel tabloda yükselme görülür"
+anahtar_bulgular:
+  - "Siliyer kızarıklık: kornea kenarı çevresinde derin, morumsu-kızıl enjeksiyon; konjunktival enjeksiyon ve akıntı yoktur"
+  - "Derin, keskin ağrı ve fotofobi; soğuk kompres ve antibiyotik damlayla düzelmez (konjonktivit ayırıcısı)"
+  - "Yarık lambada keratik presipitasyonlar: kornea endotelinde beyaz-kepekli iltihabi hücre kümeleri"
+  - "Ön odada hücre ve flare (Tyndall pozitifliği); ağır olguda hipopyon"
+  - "Dilatasyonda düzensiz pupilla ve posterior sineki (iris-lens yapışığı)"
+  - "Göz içi basınç değişkenliği: akut atağda düşük, uzun süren iltihapta yükselme"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Yarık lambada ön odada hücre ve flare ile keratik presipitasyonlar birlikteliği"
+ilk_tetkik: "Yarık lamba biomikroskopisi ile ön oda hücre-flare ve keratik presipitasyon değerlendirmesi; göz içi basınç ölçümü; ilk tek göz atakta laboratuvar testi gerekmez, sık nüks veya çift taraflılıkta HLA-B27, ACE, sedimentasyon, tüberküloz ve sifiliz taraması istenir"
+kesin_tani: "Klinik bir tanıdır: yarık lambada ön odada iltihabi hücrelerin (Tyndall pozitifliği) saptanması anterior üveiti kesinleştirir"
+ilk_tedavi: "Yoğun topikal kortikosteroid damla (başlangıçta saatte bir, yanıta göre seyreltilir) ve sikloplejik-midriyatik damla (homatropin veya siklopentolat) ile ağrı kontrolü ve sineki önleme; göz içi basınç yükselirse antiglokomatoz ilavesi; saptanan sistemik hastalığın (spondiloartropati, sarkoidoz vb.) tedavisi"
+klasik_komplikasyon: "Posterior sinekiler ve sekel pupilla, sekonder glokom, komplike katarakt, kistoid makula ödemi; juvenil idiyopatik artritte bant korneopati"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

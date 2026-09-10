@@ -1,0 +1,70 @@
+id: ocuk_zehirlenmeleri
+version: 1
+status: draft
+author: ai-drafts/pediatri-4
+sources:
+- Amerikan Zehir Kontrol Merkezleri (AAPCC) ve klinik toksikoloji topluluklarının yönetim ilkeleri — referans
+  olarak listelendi, metin özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: Çocukluk Çağı Zehirlenmeleri
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_zehirlenmeler
+tipik_hasta: Bir-dört yaş arasındaki (ağızla keşif dönemi) çocuğun evdeki ilaç, temizlik maddesi veya
+  bitkiye ulaşarak farkında olmadan yutması — çoğu tek madde, izlenerek iyi giden olgudur; ergenlerde
+  ise bilinçli alım (intihar girişimi) öne çıkar ve parasetamol en sık ciddi etkendir. Bilinç bozukluğuyla
+  açıklanamayan biçimde gelen her çocukta zehirlenme hipotezidir; anamnezde miktar çoğu kez güvenilmezdir
+patofizyoloji: Çocuk zehirlenmelerinin büyük bölümü ağız yoluyladır; toksik tablo etkenin absorbsiyon
+  hızını ve hedef organını izler ve bilinmeyen maddede toksidrom yaklaşımı tanıyı yönlendirir. Parasetamol
+  karaciğerde NAPQI metabolitine dönüşür; glutatyon depoları tükenince merkezi lobüler hepatik nekroz
+  gelişir ve ilk 24 saatte hasta iyi göründüğü için toksisite gecikmeli ortaya çıkar — bu gecikme antidot
+  penceresini kritik yapar. Salisilat solunum merkezini doğrudan uyararak hiperpne ve solunumsal alkaloz
+  yapar, ardından mitokondriyal etkilerle metabolik asidoz eklenir. Korozif maddeler yutuldukları düzeyde
+  özofagusta yanık yapar; hidrokarbonların asıl tehlikesi akciğere kaçmasıdır
+anahtar_bulgular:
+- 'Bilinmeyen maddede toksidrom: antikolinerjik (kuru cilt ve mukozalar, midriyazis, taşikardi, hipertermi),
+  kolinerjik (miyozis, salya, bronkore, karın krampları — organofosfatlar), sempatomimetik (midriyazis,
+  taşikardi, terleme), opioid (miyozis, solunum baskılanması, sedasyon), sedatif-hipnotik (sedasyon, reflekslerin
+  korunması)'
+- 'Parasetamol: ilk 24 saatte belirti yok denecek kadar az; 24. saatte karaciğer enzimleri ve PT/INR yükselmesi,
+  sağ üst kadran ağrısı, bulantı-kusma'
+- 'Salisilat: derin hızlı solunum (hiperpne), çınlama (tinnitus), kusma, solunumsal alkaloz ve metabolik
+  asidozun bir arada görüldüğü karışık asit-baz bozukluğu'
+- 'Anamnez güvenilmezdir: boş ambalaj, çocuk ağzında madde, kusmuş içerik araştırılır; miktar ''bilinmiyor''
+  kabul edilir'
+- Hikâyeyle uyuşmayan bilinç bozukluğu veya nöbet; trisiklik antidepresanda EKG'de QRS genişlemesi ve
+  aVR'de terminal R yüksekliği
+patognomonik: null
+ilk_tetkik: ABC değerlendirmesi ve kan şekeri; parasetamol ve salisilat düzeyi — parasetamol alımdan 4
+  saat sonra ölçülür ve Rumack-Matthew nomogramıyla yorumlanır; asit-baz ve elektrolitler; kardiyak toksik
+  etken şüphesinde EKG. Ciddi olguda olası ölümcül etken dışlanıncaya kadar parasetamol düzeyi rutin istenir
+kesin_tani: 'Klinik tablo ve toksikolojiyle konur: parasetamolde nomogramın tedavi çizgisini aşan düzey,
+  salisilatta semptomatik düzeyler (ağır olguda 50 mg/dL üstü) tedavi kararı verir; bilinmeyen maddede
+  toksidrom ve geniş toksikolojik tarama yönlendirir. Kesin etken tanısı ne zaman olanaksıza yakınsa tedavi
+  toksidroma ve antidotlarla verilir'
+ilk_tedavi: 'Önce ABC ve glukoz. Dekontaminasyon mantığı: aktif kömür alımdan sonraki ilk 1 saat içinde
+  en etkilidir, uzun emilimli veya enterik kaplı ilaçlarda daha geç de yararlıdır; kontrendikasyonları
+  korozif maddeler, hidrokarbonlar ve hava yolunun korunamadığı bilinç bozukluklarıdır, gastrik lavaj
+  bugün çok sınırlı kalmıştır. Spesifik antidotlar: parasetamol için N-asetilsistein (ilk 8 saatte başlamak
+  idealdir; ilk 24 saat içinde başlanan tedavi hâlâ yararlıdır — bu pencere mantığı sınav ve pratikte
+  esastır), opioid için nalokson, demir için defiroksamin, organofosfat için atropin ve pralidoksim, trisiklik
+  antidepresan için sodyum bikarbonat (QRS''yi daraltır), metanol ve etilen glikol için fomepizol, izoniazid
+  için piridoksin. Ergen bilinçli alımlarda stabilizasyon sonrası mutlaka psikiyatrik değerlendirme yapılır'
+klasik_komplikasyon: Parasetamolda gecikmeli fulminan karaciğer yetmezliği; salisilatta şiddetli metabolik
+  asidoz, konvülsiyon ve beyin ödemi; korozif maddelerde özofageal darlık (geç dönem); hidrokarbonda kimyasal
+  pnömoni; bilinçli alımlarda tekrar riski
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-53
+- tus-2015-ilkbahar-ktbt-53
+- tus-2015-ilkbahar-ttbt-101
+- tus-2015-sonbahar-ktbt-52
+- tus-2017-ilkbahar-ktbt-58
+- tus-2020-ilkbahar-ktbt-53
+- tus-2020-ilkbahar-ktbt-54
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

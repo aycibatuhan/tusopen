@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "taxonomy.schema.json",
+  "title": "TUS Open topic taxonomy (ders -> konu -> alt_konu)",
+  "type": "object",
+  "required": ["version", "tests"],
+  "additionalProperties": false,
+  "properties": {
+    "version": {
+      "type": "integer",
+      "const": 1
+    },
+    "tests": {
+      "type": "object",
+      "required": ["TTBT", "KTBT"],
+      "additionalProperties": false,
+      "properties": {
+        "TTBT": { "$ref": "#/definitions/test" },
+        "KTBT": { "$ref": "#/definitions/test" }
+      }
+    }
+  },
+  "definitions": {
+    "test": {
+      "type": "object",
+      "required": ["dersler"],
+      "additionalProperties": false,
+      "properties": {
+        "dersler": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/definitions/ders" }
+        }
+      }
+    },
+    "ders": {
+      "type": "object",
+      "required": ["id", "ad", "konular"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/definitions/identifier" },
+        "ad": { "type": "string", "minLength": 1 },
+        "konular": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/definitions/konu" }
+        }
+      }
+    },
+    "konu": {
+      "type": "object",
+      "required": ["id", "ad", "alt_konular"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/definitions/identifier" },
+        "ad": { "type": "string", "minLength": 1 },
+        "alt_konular": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/definitions/alt_konu" }
+        }
+      }
+    },
+    "alt_konu": {
+      "type": "object",
+      "required": ["id", "ad"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/definitions/identifier" },
+        "ad": { "type": "string", "minLength": 1 }
+      }
+    },
+    "identifier": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_]*$",
+      "not": { "enum": ["diger", "genel", "misc"] }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+id: somatik_belirti_bozuklugu
+version: 1
+status: draft
+author: ai-drafts/psikiyatri-5
+sources:
+- DSM-5-TR — Somatik Belirti Bozukluğu tanı ölçütleri (referans olarak listelendi, metin projesi özgün
+  yazımdır)
+- 'Klinik rehberler: somatik belirtilerin genel tıbbi yönetimi (NICE ve APA kaynakları) — referans olarak
+  listelendi, metin projesi özgün yazımdır'
+ad: Somatik Belirti Bozukluğu
+taksonomi:
+- - ktbt
+  - psikiyatri
+  - psik_somatik_dissosiyatif
+  - psik_sd_somatik_belirti
+tipik_hasta: 'En az 6 aydır, çoğunlukla birden fazla vücut bölgesini tutan somatik şikayetlerle (ağrı,
+  yorgunluk, sindirim, kalp-nabız, nefes) hekim hekim dolaşan hasta; şikayete yüklenen düşünce-duygu-davranış
+  kümesi — tekrar tekrar tetkik isteme, sürekli araştırma, işten kaçınma — şikayetin kendisinden daha
+  belirgin işlev kaybı yaratır. Kadınlarda sık; kronik tıbbi hastalık (diyabet, migren) varken de tanı
+  konabilir: DSM-5-TR belirleyici olarak organik açıklamanın yokluğunu değil, şikayetle ilgili orantısız
+  düşünce-duygu-davranışı ölçüt tutmuştur'
+patofizyoloji: Şikayet gerçektir; tanı bir reddetme değildir. Beden duyumları (interosepsiyon) dikkatin
+  sürekli merkezi haline gelir, duyular tehdit sinyali olarak okunur (katastrofik yorumlama), otonomik
+  uyanıklık ve kas gerginliği duyuyu gerçekten güçlendirir ve döngü kendini büyütür. Davranış katmanı
+  — dinlenme, kaçınma, doktor doktor dolaşma — kısa dönemde rahatlama sağlar ama işlev kaybını ve bedene
+  odaklanmayı pekiştirir. Çocuklukta kronik hastalık, ailede hastalık-dikkat eşleşmesi, travma ve istismar
+  öyküsü, depresyon-anksiyete birlikteliği riski artırır; DSM-5-TR 'tıbbi olarak açıklanamama' ölçütünü
+  bırakmış, tanıyı düşünce-duygu-davranış kümesine kurmuştur
+anahtar_bulgular:
+- En az 6 aydır süren, belirgin sıkıntı ya da işlev kaybına yol açan bir ya da birkaç somatik şikayet
+- 'Şikayetle ilgili orantısız düşünceler: belirtinin ciddi bir hastalığın işareti olduğuna ilişkin sürekli
+  ve saplantılı yorumlar'
+- Sağlıkla ilgili yüksek düzeyde kaygı; 'normal' tetkik sonuçları hastayı kısa süre rahatlatır, sonra
+  kuşku yeniden başlar
+- 'Şikayete aşırı zaman-enerji harcama: tekrar tekrar hekim değiştirme, tetkik isteme, sürekli araştırma'
+- İşlev kaybı belirtinin şiddetiyle değil, şikayete harcanan zaman ve kaçınma davranışıyla ölçülür
+patognomonik: null
+ilk_tetkik: 'Yaklaşım iki ucu birleştirir: organik hastalığı göz ardı etmek kadar her başvuruda yeni bir
+  tarama paketi açmak da hastaya zarar verir. İlk değerlendirme hedefe yönelik ve alarm bulgularına (kilo
+  kaybı, ateş, kanama, nörolojik kayıp, ilerleyici gidiş) göre sınırlıdır; alarm yoksa ve tablo ilerlemedikçe
+  tekrar tetkik açılmaz. Depresyon, anksiyete ve travma öyküsü her hastada sorgulanır. Erken tanının ve
+  örgütlü tek hekim izleminin, hastayı gereksiz girişimlerin iatrojenik yükünden koruduğu hastayla baştan
+  paylaşılan ilk mesajdır'
+kesin_tani: 'DSM-5-TR ölçütleri: en az bir somatik belirti; belirtilerin ciddiyetine ilişkin orantısız
+  ve sürekli düşünceler; belirtilerle ilgili belirgin yükseklikte sağlık kaygısı ya da belirtilere ayrılan
+  orantısız zaman-enerji; bu durum belirgin sıkıntıya ya da işlev kaybına yol açar; kalıcıdır (süre en
+  az 6 aydır); tablo panik bozukluğu, genel anksiyete bozukluğu, sanrısal bozukluk ya da madde etkisiyle
+  açıklanamıyor. ''Tıbbi açıklanamama'' tanı ölçütü değildir: organik bir hastalık varken de tanı kurulur;
+  belirleyici olan şikayete eşlik eden düşünce-duygu-davranış kümesidir'
+ilk_tedavi: 'Yönetimin omurgası ilişki ve düzen: tek bir sorumlu hekim, düzenli aralıklarla kısa görüşmeler
+  (şikayet arttığında değil), gereksiz tetkik ve girişimin sınırlanması, şikayetin ''gerçek değil'' diye
+  reddedilmemesi ama işlev ve gerçekçi hedeflerin öne alınması. Bilişsel davranışçı terapi merkezde yer
+  alır: bedene odaklanmayı azaltma, katastrofik yorumu düzeltme, kaçınma ve aşırı dinlenme davranışını
+  bozma, kademeli aktivasyon. Birliktelikte depresyon-anksiyete varsa SSRI düşünülür; ilaç yalnız belirti
+  çözümü vaadiyle değil, işlev hedefleriyle birlikte verilir; hastanın beklentisi ''daha çok tetkik bulmak''tan
+  ''işlevi geri kazanmak'' biçiminde yeniden çerçevelenir'
+klasik_komplikasyon: Gereksiz tetkik ve girişimlerin iatrojenik zararı (radyasyon, ameliyat, ilaç yan
+  etkileri); kronik işlev kaybı ve çalışma yaşamından uzaklaşma; depresyon-anksiyete birlikteliği ve intihar
+  riskinde artış; hekim-hekim dolaşmanın kronikleşmesi
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-36
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

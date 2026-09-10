@@ -1,0 +1,10 @@
+id: anat_tor_perikard_kalp
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Perikard sinüsleri ve kalp sınırları"
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_perikard_kalp]
+metin: "Transvers perikard sinüsü aorta ve pulmoner trunk ile superior vena kava arasında, büyük damarların arkasında yer alır ve kardiyak cerrahide klamp için kullanılır. Oblik sinüs sol atriumun arkasındaki cebi ifade eder. Kalbin sağ sınırını sağ atrium, sol sınırını sol ventrikül yapar; apeks 5. interkostal aralıkta sol midklaviküler hat üzerinde palpe edilir."

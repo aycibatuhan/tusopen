@@ -1,0 +1,49 @@
+id: case-miyom-01
+version: 1
+status: draft
+author: "ai-drafts/cases-f"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: miyom
+baslik: "Adetler arası artan kanama ve demir eksikliği"
+adimlar:
+  - tip: sunum
+    metin: "43 yaşında kadın, üç doğum yapmış. Son bir yıldır adet kanamaları miktar ve süre olarak artmış; sekiz güne uzayan, pıhtılı kanamalar tanımlıyor. Halsizlik ve çabuk yorulma yakınması var. Muayenede uterus makro, yüzeyi düzensiz ve sert kıvamda, mobil; adnekslerde kitle yok. Hemogram: Hb 9.2 g/dL, MCV 68 fL, ferritin 6 ng/mL. Pap smear normal."
+  - tip: secim
+    soru: "Ağır uterin kanama ve mikrositik anemisi olan bu hastada ilk değerlendirme hangisidir?"
+    secenekler:
+      - metin: "Transvajinal ultrasonografi"
+        dogru: true
+        geri_bildirim: "Uterin kaynaklı anormal kanamada ilk görüntüleme transvajinal ultrasondur; miyomların sayısı, yerleşimi ve endometrial kavite ile ilişkisi değerlendirilir"
+      - metin: "Direkt histeroskopi"
+        dogru: false
+        geri_bildirim: "Histeroskopi kaviteyi en iyi gösteren yöntemdir ama komplike olmayan vakada ilk basamak ultrasondur"
+      - metin: "Bilgisayarlı pelvis tomografisi"
+        dogru: false
+        geri_bildirim: "Pelvik yumuşak doku değerlendirmesinde ultrason yeterlidir; tomografi gerekmez"
+      - metin: "Tanı beklemeden danazol başlatmak"
+        dogru: false
+        geri_bildirim: "Kanamanın kaynağı netleştirilmeden ampirik tedavi uygun değildir; önce yapısal neden araştırılır"
+  - tip: sonuc
+    metin: "Transvajinal ultrasonda uterus 12 haftalık büyüklüğünde; endometrial kaviteyi deformasyona uğratan 4 cm submukozal miyom ve ayrıca 2 cm intramural miyom görülür. Endometrium kalınlığı yaşa uygun, polip görünümü yok."
+  - tip: secim
+    soru: "Uterusunu korumak isteyen bu hastada kanamanın en olası kaynağı olan lezyon için doğru tedavi hangisidir?"
+    secenekler:
+      - metin: "Histeroskopik miyomektomi"
+        dogru: true
+        geri_bildirim: "Endometrial kaviteyi deforme eden submukozal miyom ağır kanamanın en olası nedenidir; histeroskopik rezeksiyon hem lezyonu çıkarır hem uterusu korur"
+      - metin: "Bakırlı rahim içi araç takılması"
+        dogru: false
+        geri_bildirim: "Kaviteyi deforme eden submukozal miyom varlığında rahim içi araç kanamayı düzeltmek yerine artırabilir"
+      - metin: "Total histerektomi"
+        dogru: false
+        geri_bildirim: "Uterus koruma isteği olan hastada organ koruyucu seçenekler önce tüketilir; histerektomi son basamaktır"
+      - metin: "Uzun süreli GnRH analog tedavisi"
+        dogru: false
+        geri_bildirim: "GnRH analogları geçici küçülme sağlar, kesildiğinde miyom yeniden büyür ve uzun kullanımda kemik kaybına yol açar; köprü tedavi olarak kullanılır"
+  - tip: ozet
+    metin: "Öğrenme noktaları: ağır ve uzun adet kanaması + demir eksikliği anemisi + sert ve düzensiz mobil uterus = miyom; kanamada en sorunlu yerleşim submukozaldir; ilk tetkik transvajinal ultrasondur; uterusu korumak isteyen hastada submukozal miyomun tedavisi histeroskopik miyomektomidir; GnRH analogları geçici köprü tedavidir."
+sozlu_sorular:
+  - "Miyom yerleşim tipleri kanama bulgusunu nasıl etkiler?"
+  - "Miyom ile adenomyozis klinikte nasıl ayırt edilir?"
+  - "Miyomlu hastada demir eksikliği nasıl yönetilir?"

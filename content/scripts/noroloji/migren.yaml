@@ -1,0 +1,57 @@
+id: migren
+version: 1
+status: draft
+author: ai-drafts/noroloji
+sources:
+- ICHD-3 Uluslararası Baş Ağrısı Bozuklukları Sınıflaması (IHS, 3. baskı)
+- AHS Migren Önleyici Tedavi Rehberi (American Headache Society)
+ad: Migren
+taksonomi:
+- - ktbt
+  - noroloji
+  - noro_bas_agrisi
+  - noro_ba_migren
+tipik_hasta: Genç kadın hasta; adölesan çağında başlayan, ataklar hâlinde gelen, adet dönemiyle ilişkili
+  olabilen baş ağrıları. Aile öyküsü sık bulunur. Tedavi edilmeyen atak 4-72 saat sürer; hasta karanlık
+  ve sessiz odada kalmak ister
+patofizyoloji: 'Trigeminovasküler sistemin aktivasyonu: trigeminal sinir uçlarından CGRP salınımı meninksal
+  damarları dilate edip ağrı sinyali üretir; aurayı kortikal yayılan depresyon (kademeli ilerleyen kortikal
+  baskılanma dalgası) açıklar. Migren, uyarı eşiği düşük (hipereksitabl) beyinde tetikleyicilerle ataklar
+  hâlinde ortaya çıkar'
+anahtar_bulgular:
+- 'Atak özellikleri: tek taraflı, nabız gibi atan veya batıcı, orta-şiddette, rutin fizik aktiviteyle
+  artan baş ağrısı'
+- 'Eşlik edenler: bulantı ve kusma, ışığa ve sese duyarlılık (fotofobi ve fonofobi)'
+- 'Aura: görsel alanda dakikalar içinde genişleyen parıltılı nokta ve ardından kalan kör leke; pozitif
+  belirtilerin negatiflere dönüşerek yayılımı tipiktir, 5-60 dakikada tamamen geri döner'
+- 'Tetikleyiciler: uykusuzluk, adet dönemi, açlık, stres ve stresin bitmesi (hafta sonu baş ağrısı), belirli
+  yiyecekler'
+- Ağrı kesicinin haftada çok kez kullanımı ayda on beş günü aşan kronik baş ağrısına yol açabilir (ilaç
+  aşırı kullanım baş ağrısı)
+patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Görsel alanda dakikalar içinde kademeli genişleyen parıltılı skotom: pozitif bulgudan negatif
+  kör lekeye geçiş ve 5-60 dakikada geri dönüş'
+ilk_tetkik: 'Tanı ICHD-3 klinik kriterlerine dayanır; baş ağrısı günlüğü tutturulur. Görüntüleme yalnızca
+  sekonder tehlike işaretlerinde: gök gürültüsü gibi ani başlangıç, ateş ve boyun sertliği, nörolojik
+  deficit, 50 yaş üstünde ilk atak, pozisyonla değişen veya Valsalva ile tetiklenen ağrı, papil ödemi,
+  gebelikte yeni başlayan ağrı ve örüntüdeki değişim'
+kesin_tani: 'ICHD-3: en az 5 atak; ağrının 4-72 saat sürmesi, iki ağrı özelliği (tek taraflılık, nabız
+  gibi atan nitelik, orta-şiddet, aktiviteyle artma) ve eşlik edici belirtiden en az biri (bulantı-kusma ya da fotofobi-fonofobi)
+  karşılanmalıdır; auraya sahip alt tiplerde ayrı kriterler uygulanır'
+ilk_tedavi: 'Hafif-orta atakta parasetamol veya nonsteroid antiinflamatuar; orta-şiddetli veya nonsteroid
+  dirençli atakta triptan (sumatriptan), atak başlar başlamaz erken alınmalı; triptan artı nonsteroid
+  kombinasyonu tekli ajandan üstündür. Triptan kontrendikasyonları: koroner ve periferik vasküler hastalık,
+  kontrolsüz hipertansiyon, hemiplejik migren ve beyin sapı auraya sahip ataklar. Ayda 4 ve üzeri atak
+  veya belirgin işlev kaybında önleyici tedavi: propranolol, amitriptilin, topiramat, flunarizin; dirençli
+  olgularda CGRP''ye yönelik monoklonal antikorlar. Analjezik aşırı kullanımından korunma tedavinin ayrılmaz
+  parçasıdır'
+klasik_komplikasyon: İlaç aşırı kullanım baş ağrısıyla kronikleşme, status migrenozus (72 saati aşan tedaviye
+  dirençli atak); nadiren migrenli infarkt
+tus_gecmisi:
+- tus-2015-sonbahar-ktbt-33
+- tus-2016-ilkbahar-ktbt-32
+- tus-2017-ilkbahar-ktbt-68
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

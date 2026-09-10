@@ -1,0 +1,29 @@
+id: wt-tus-2021-sonbahar-ktbt-17
+version: 1
+status: draft
+author: "ai-drafts/walkthroughs-1"
+sources:
+  - "Klinik rehberler: Endocrine Society prolaktinoma kılavuzu — referans olarak listelendi, metin özgün yazımdır"
+soru_ref: tus-2021-sonbahar-ktbt-17
+sinanan_bilgi: "Hipofiz adenomu saptanan hiperprolaktinemili hastada ilk tedavi dopamin agonistidir (kabergolin tercih edilir); cerrahi, ilaca direnç ya da apopleksi gibi seçili durumlara rezervedir."
+ipucu_turleri:
+  - "15 mm adenom: makroadenom eşiği hemen altında — boyut tek başına cerrahi endikasyonu yapmaz"
+  - "Görme alanı bozukluğu ve nörolojik muayenenin normal olması: kütle etkisi yok"
+  - "Hiperprolaktinemi + infertilite: etiyoloji hipofiz kaynaklı"
+gurultu_turleri:
+  - "İnfertilite çerçevesi seçenekleri yardımcı üreme tekniklerine çeker; asıl soru hiperprolaktineminin tedavisidir"
+  - "Sık çeldirici çift: prolaktinoma mı, 'amiloma' benzeri hormon-salınan adenom ayrımı — PRL yüksekliği kendisi prolaktinoma lehinedir"
+mantik: "Soruda üç ipucu birleşiyor: hiperprolaktinemi, hipofizde 15 mm adenom, ve kütle etkisi bulgusunun (görme problemi, nörolojik defisit) yokluğu. Prolaktinomanın doğal tedavi hiyerarşisi dopamin agonistidir: dopamin prolaktin salgısını baskılar, agonistleri hem PRL düzeyini düşürür hem adenomu küçültür; kabergolin reseptör seçiciliği ve yan etki profiliyle tercih edilir. Transsfenoidal cerrahi ancak dopamin agonistine direnç ya da intoleransta, apopleksi ya da ilerleyici kütle etkisinde devreye girer. Görme ve nörolojik muayenenin normal olması cerrahi aciliyetini ortadan kaldırır. Böylece zincir: PRL yüksek + adenom + kütle etkisi yok → dopamin agonisti."
+celdirici_kavramlar:
+  - kavram: "Transsfenoidal cerrahi (birinci basamak sanmak)"
+    neden_yanlis: "Cerrahi, dopamin agonistine dirençli ya da intoleran olgularda ve ilerleyici kütle etkisinde seçilir; soruda görsel alan tutulumu ve direnç yoktur."
+    dogru_oldugu_durum: "Görme alanı kusuru olan, apopleksi geçiren ya da maksimal medikal tedaviye dirençli makroadenomda."
+  - kavram: "Oral kontraseptiflerle adet düzeni"
+    neden_yanlis: "Östrojen hiperprolaktinomada PRL salgısını daha da artırabilir ve adenom büyümesine zemin hazırlayabilir; infertilitenin nedeni tedavi edilmemiş PRL yüksekliğidir."
+    dogru_oldugu_durum: "Mikroadenomlu, alternatifi kabul etmeyen ve sadece siklus düzeni istenen seçili olgularda uzman kararıyla."
+  - kavram: "Selektif östrojen reseptör modülatörü ile meme kanseri riskinin engellenmesi"
+    neden_yanlis: "SERM'ler prolaktinoma için tedavi değildir; sorudaki meme kanseri riski yoktur ve seçenek çerçeveyi saptırmak için konulmuştur."
+    dogru_oldugu_durum: "Yalnız meme kanseri riski taşıyan hastada kemoprevensiyon bağlamında."
+  - kavram: "Yardımcı üreme yöntemleriyle fertilite sağlama"
+    neden_yanlis: "Hiperprolaktinemi düzelmeden uygulanan yardımcı üreme başarıyı düşürür; önce PRL normalleştirilir, çoğu hasta doğal yolla gebe kalır."
+    dogru_oldugu_durum: "Dopamin agonistine rağmen PRL kontrol altındayken ve nedeni açıklanamayan eşlik eden infertilite faktörü varken."

@@ -1,0 +1,276 @@
+# Official ÖSYM TUS booklet URLs, one entry per sitting and test.
+# coverage: full = complete booklet + answer key (public ~2006-2021);
+# sample10 = 10% sample booklet + answer key only (2022+; full booklet is
+# visible to registered candidates in AIS for 10 days - use `tusopen import`).
+# Update after each OsYM cycle; URL patterns change. Plan §6.1.
+sittings:
+  - year: 2021
+    donem: ilkbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2021/TUSDONEM1/CS/tusdonem_1_TTBT.pdf
+  - year: 2021
+    donem: ilkbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2021/TUSDONEM1/CS/tusdonem_1_KTBT.pdf
+  - year: 2021
+    donem: sonbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2021/TUSDONEM2/CS/tusdonem_2_TTBT.pdf
+  - year: 2021
+    donem: sonbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2021/TUSDONEM2/CS/tusdonem_2_KTBT.pdf
+  - year: 2020
+    donem: ilkbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2020/TUSDONEM1/CS/2020TUSdonem1_TTBT.pdf
+  - year: 2020
+    donem: ilkbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2020/TUSDONEM1/CS/2020TUSdonem1_KTBT.pdf
+  - year: 2020
+    donem: sonbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2020/TUSDONEM2/CS/2020TUSdonem2_TTBT.pdf
+  - year: 2020
+    donem: sonbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2020/TUSDONEM2/CS/2020TUSdonem2_KTBT.pdf
+  - year: 2019
+    donem: ilkbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2019/TUSDONEM1/CS/2019TUSdonem1_TTBT.pdf
+  - year: 2019
+    donem: ilkbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2019/TUSDONEM1/CS/2019TUSdonem1_KTBT.pdf
+  - year: 2019
+    donem: sonbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2019/TUSDONEM2/CS/2019TUSdonem2_TTBT.pdf
+  - year: 2019
+    donem: sonbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2019/TUSDONEM2/CS/2019TUSdonem2_KTBT.pdf
+  - year: 2018
+    donem: ilkbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2018/TUS1DONEM/CS/TUSIlkbaharTTBT24072018.pdf
+  - year: 2018
+    donem: ilkbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2018/TUS1DONEM/CS/TUSIlkbaharKTBT24072018.pdf
+  - year: 2018
+    donem: sonbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2018/TUS2DONEM/CS/TUS2-TTBT12112019.pdf
+  - year: 2018
+    donem: sonbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2018/TUS2DONEM/CS/TUS2-KTBT12112019.pdf
+  - year: 2017
+    donem: ilkbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2017/TUSILKBAHAR/2017TUSIlkbaharTemel.pdf
+  - year: 2017
+    donem: ilkbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2017/TUSILKBAHAR/2017TUSIlkbaharKlinik.pdf
+  - year: 2017
+    donem: sonbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2017/TUSSONBAHAR/2017TUSSonbaharTemel.pdf
+  - year: 2017
+    donem: sonbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2017/TUSSONBAHAR/2017TUSSonbaharKlinik.pdf
+  - year: 2016
+    donem: ilkbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2016/TUSILKBAHAR/2016TUSIlkbaharTemel.pdf
+  - year: 2016
+    donem: ilkbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2016/TUSILKBAHAR/2016TUSIlkbaharKlinik.pdf
+  - year: 2016
+    donem: sonbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2016/TUSSONBAHAR/2016TUSSonbaharTemel.pdf
+  - year: 2016
+    donem: sonbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2016/TUSSONBAHAR/2016TUSSonbaharKlinik.pdf
+  - year: 2015
+    donem: ilkbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2015/TUSILKBAHAR/2015TUSIlkbaharTemel.pdf
+  - year: 2015
+    donem: ilkbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2015/TUSILKBAHAR/2015TUSIlkbaharKlinik.pdf
+  - year: 2015
+    donem: sonbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2015/TUSSONBAHAR/2015TUSSonbaharTemel.pdf
+  - year: 2015
+    donem: sonbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2015/TUSSONBAHAR/2015TUSSonbaharKlinik.pdf
+  - year: 2014
+    donem: ilkbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2014/TUSilkbahar/2014TUSIlkbaharTemel.pdf
+  - year: 2014
+    donem: ilkbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2014/TUSilkbahar/2014TUSIlkbaharKlinik.pdf
+  - year: 2014
+    donem: sonbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2014/TUSsonbahar/2014TUSSonbaharTemel.pdf
+  - year: 2014
+    donem: sonbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2014/TUSsonbahar/2014TUSSonbaharKlinik.pdf
+  - year: 2013
+    donem: sonbahar
+    test: TTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2013/TUS/Sonbahar/2013TUSSonbahar_TTB.pdf
+  - year: 2013
+    donem: sonbahar
+    test: KTBT
+    coverage: full
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2013/TUS/Sonbahar/2013TUS_Sonbahar_KTB.pdf
+  - year: 2026
+    donem: ilkbahar
+    test: TTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2026/TUSDONEM-1/TSK/ttbt_ts1d15032026.pdf
+  - year: 2026
+    donem: ilkbahar
+    test: KTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2026/TUSDONEM-1/TSK/ktbt_ts1d15032026.pdf
+  - year: 2026
+    donem: sonbahar
+    test: TTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/web/2026/8/temel-tip-bilimleri-testi-ttbt-10-asbs43-23165537.pdf
+  - year: 2026
+    donem: sonbahar
+    test: KTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/web/2026/8/klinik-tip-bilimleri-testi-ktbt-10-fj9f06-23165537.pdf
+  - year: 2025
+    donem: ilkbahar
+    test: TTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2025/TUSDONEM-1/TSK/ttbt_ts1d23032025.pdf
+  - year: 2025
+    donem: ilkbahar
+    test: KTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2025/TUSDONEM-1/TSK/ktbt_ts1d23032025.pdf
+  - year: 2025
+    donem: sonbahar
+    test: TTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2025/TUSDONEM-2/TSK/ttbt_17082025.pdf
+  - year: 2025
+    donem: sonbahar
+    test: KTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2025/TUSDONEM-2/TSK/ktbt_17082025.pdf
+  - year: 2024
+    donem: ilkbahar
+    test: TTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2024/TUSDONEM-1/ttbt_tsd17042024.pdf
+  - year: 2024
+    donem: ilkbahar
+    test: KTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2024/TUSDONEM-1/ktbt_tsd17042024.pdf
+  - year: 2024
+    donem: sonbahar
+    test: TTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2024/TUSDONEM-2/TSK/ttbt_tsdb18082024.pdf
+  - year: 2024
+    donem: sonbahar
+    test: KTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2024/TUSDONEM-2/TSK/ktbt_tsdb18082024.pdf
+  - year: 2023
+    donem: ilkbahar
+    test: TTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2023/TUSDONEM1/ttbt_15042023.pdf
+  - year: 2023
+    donem: ilkbahar
+    test: KTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2023/TUSDONEM1/ktbt_15042023.pdf
+  - year: 2023
+    donem: sonbahar
+    test: TTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2023/TUSDONEM-2/ttbt_ts24092023.pdf
+  - year: 2023
+    donem: sonbahar
+    test: KTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2023/TUSDONEM-2/ktbt_ts24092023.pdf
+  - year: 2022
+    donem: ilkbahar
+    test: TTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2022/TUSDONEM1/ttbt_06032022.pdf
+  - year: 2022
+    donem: ilkbahar
+    test: KTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2022/TUSDONEM1/ktbt06032022.pdf
+  - year: 2022
+    donem: sonbahar
+    test: TTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2022/TUSDONEM2/ttbt_04092022.pdf
+  - year: 2022
+    donem: sonbahar
+    test: KTBT
+    coverage: sample10
+    url: https://dokuman.osym.gov.tr/pdfdokuman/2022/TUSDONEM2/ktbt_04092022.pdf

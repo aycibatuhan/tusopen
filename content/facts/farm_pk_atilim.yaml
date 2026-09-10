@@ -1,0 +1,10 @@
+id: farm_pk_atilim
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İdrar pH'ı ve İlaç Atılımı"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakokinetik, farm_pk_atilim]
+metin: "İlaçlar başlıca süzülme, tübüler sekresyon ve geri emilim süreçleriyle böbrekten atılır. Zayıf asit ilaçlarda idrarın alkali yapılması iyonlaşmayı artırıp geri emilimi azaltarak atılımı hızlandırır; zayıf baz ilaçlarda idrarın asit yapılması aynı işi görür. Bu ilke aşırı doz zehirlenmelerinde idrar pH düzeltme tedavisinin temelini oluşturur."

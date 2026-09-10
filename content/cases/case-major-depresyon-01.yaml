@@ -1,0 +1,49 @@
+id: case-major-depresyon-01
+version: 1
+status: draft
+author: "ai-drafts/cases-g"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: major_depresyon
+baslik: "İşine odaklanamayan ve sabahları kötüleşen hasta"
+adimlar:
+  - tip: sunum
+    metin: "42 yaşında kadın. İki aydır işine odaklanamıyor, karar vermede zorlanıyor. Sabahları iki saat erken uyanıyor ve duygudurum günün en kötü döneminde sabahları; akşama doğru hafif rahatladığını tarif ediyor. İştahı azalmış, üç kilo kaybetmiş; enerjisi düşük, gereksiz suçluluk duyguları sık. İşe gitmekte zorlanıyor, kendini değersiz görüyor. 'Yaşamın anlamı kalmadı' cümlesini kullanıyor ancak kendine zarar planının olmadığını söylüyor."
+  - tip: secim
+    soru: "İki haftadan uzun süren belirtiler ve işlevsellik kaybı. Tanısal yaklaşım hangisi olmalı?"
+    secenekler:
+      - metin: "Klinik tanı konur; belirti sayısı ve süre kriterleri değerlendirilir, organik nedenleri dışlamak için temel laboratuvar (TSH, B12, hemogram) istenir"
+        dogru: true
+        geri_bildirim: "Majör depresif atak tanısı klinik kriterlerle konur; hipotiroidi, B12 eksikliği ve anemi gibi taklit eden durumlar temel tetkiklerle dışlanır"
+      - metin: "Tanı için beyin MR şarttır"
+        dogru: false
+        geri_bildirim: "Nörolojik alarm bulgusu yokken görüntüleme rutin değildir; tanı klinik değerlendirmeye dayanır"
+      - metin: "Distimik bozukluk olarak tanımlanır"
+        dogru: false
+        geri_bildirim: "Distimi en az iki yıl süren, daha hafif şiddette kronik duygudurum bozukluğudur; burada belirgin şiddette, işlevselliği bozan bir atak tablosu var"
+      - metin: "Yalnızca uyku bozukluğu olarak değerlendirilip hipnotik verilir"
+        dogru: false
+        geri_bildirim: "Uyku düzelmesi tek başına yeterli değildir; erken uyanma, iştah kaybı, suçluluk ve işlev bozukluğu majör depresif atağı işaret eder"
+  - tip: sonuc
+    metin: "TSH, B12 ve hemogram normaldir. Majör depresif bozukluk tanısı konur; pasif ölüm düşüncesi saptandığı için intihar riski ayrıntılı sorgulanır, tedavi planı ve düzenli izlem kararlaştırılır."
+  - tip: secim
+    soru: "Orta şiddette ilk atak, intihar planı yok. Tedavi seçimi?"
+    secenekler:
+      - metin: "SSRI (örneğin sertralin) başlanır ve kognitif davranışçı psikoterapiyle birlikte planlanır"
+        dogru: true
+        geri_bildirim: "İlk atakta SSRI güvenli ve etkili ilk seçimdir; psikoterapiyle birliktelik yanıt oranını artırır ve nüks riskini azaltır"
+      - metin: "Uzun süreli benzodiazepin verilir"
+        dogru: false
+        geri_bildirim: "Benzodiazepinler depresyonu tedavi etmez; kısa dönem anksiyete ve uykusuzluk için bile sınırlı kullanılır, bağımlılık riski vardır"
+      - metin: "Doğrudan elektrokonvulsif tedavi uygulanır"
+        dogru: false
+        geri_bildirim: "EKT psikotik depresyon, katatoni, ciddi intihar aciliyeti, beslenememe veya ilaca dirençli olgularda düşünülür; bu hasta için ilk seçim değildir"
+      - metin: "İlaç verilmeden beklenir, durumun kendiliğinden düzelmesi umulur"
+        dogru: false
+        geri_bildirim: "İşlevselliği bozan majör depresif atakta tedavi geciktirilmez; gecikme süreyi uzatır, işlev kaybını ve intihar riskini artırır"
+  - tip: ozet
+    metin: "Öğrenme noktaları: iki haftadan uzun süreli duygudurum düşüklüğü + anhedoni + erken uyanma (sabah kötüleşmesi) + iştah/enerji kaybı + suçluluk + işlevsellik kaybı = majör depresif atak; tanı klinik, TSH/B12/hemogramla organik nedenler dışlanır; her hastada intihar riski ayrıntılı sorgulanır; ilk tedavi SSRI + psikoterapi, EKT seçili durumlardadır."
+sozlu_sorular:
+  - "İntihar riski değerlendirmesi nasıl yapılır?"
+  - "SSRI'ların erken dönem yan etkileri nelerdir?"
+  - "Melankolik özellikler nelerdir?"

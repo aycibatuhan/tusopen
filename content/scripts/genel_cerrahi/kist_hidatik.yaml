@@ -1,0 +1,61 @@
+id: kist_hidatik
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-3
+sources:
+- WHO Guideline on the Treatment of Cystic and Alveolar Echinococcosis
+- Schwartz Textbook of Surgery
+ad: Kist Hidatik
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_karaciger
+  - gc_kc_kist_hidatik
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_paraziter
+  - enf_pr_kist_hidatik
+tipik_hasta: Köpekle yakın temas eden, koyun-sığır yetiştiriciliğiyle uğraşan ya da endemik bölgede (İç
+  ve Doğu Anadolu) yaşayan hastadır; kist yıllarca sessiz kalabilir ve rutin ultrasonda tesadüfi saptanan
+  karaciğer kisti, künt sağ üst kadran ağrısı ya da hepatomegaliyle gelir. Kist sıvısına karşı gelişen
+  ürtiker-kaşıntı öyküsü ve kanda eozinofili ipucu verir
+patofizyoloji: 'Etken Ekinokokkus granülozusdur; asıl konak köpektir, yumurtalar köpek dışkısıyla dökülür
+  ve insan kazara ara konak olarak kontamine yiyecek-sudan yumurtayı alır. Yumurtadan çıkan onkosfer bağırsak
+  duvarını geçip portal dolaşımla en çok karaciğere (yüzde 60-70), sonra akciğere yerleşir. Kistin üç
+  katı vardır: konak dokusunun sıkışıp fibroze olduğu dış perikist, parazitin salgıladığı laminat membran
+  ve içte skoleksleri üreten germinatif kat; germinatif kattan kopan proskoleksler kist sıvısında serbestçe
+  yüzer ve hidatik kum adını alır — kist içeriğinin bu özgünlüğü tanının anahtarıdır. Kist sıvısı dokulara
+  sızarsa (rüptür) güçlü alerjik yanıt, en kötüde anafilaksi gelişir'
+anahtar_bulgular:
+- Ultrasonda düzgün çeperli, sıvı dolu karaciğer kisti; içinde dalga hareketiyle serbest dolaşan partiküller
+  (hidatik kum), iç septalar ve kız kist görüntüsü
+- Kist sıvısıyla temasla ürtiker ve kaşıntı; kistin rüptürüyle anafilaktik şok
+- Kanda eozinofili; serolojide ELISA ya da indirekt hemaglutinasyon pozitifliği (Casoni deri testi eski
+  kuşağın klasik uygulamasıdır, bugün seroloji ön plandadır)
+- Kist çevresinde kalsifikasyon — etkenliğini yitirmiş (inaktif) kistin göstergesidir
+- 'Kistin komşu yapıya açılması: koledokta obstrüksiyon ve sarılık, diyaframı aşarak akciğerde kist, portal
+  dalları tutarak portal hipertansiyon'
+patognomonik: Kist içindeki hidatik kum (skoleksler) ve kız kist görünümü
+ilk_tetkik: 'Karın ultrasonu (kistin yeri, çapı, iç yapısı) ve seroloji: ELISA ya da indirekt hemaglutinasyon;
+  tam kan sayımında eozinofili. Tipik görüntü ve pozitif serolojiyle tanı konur; kiste iğne batırılmaz,
+  çünkü biyopsi içeriğin dökülmesine ve anafilaksiye yol açabilir'
+kesin_tani: Tipik görüntüleme bulguları ve pozitif seroloji; cerrahi materyalinde skoleks-proskoleks gösterilmesi
+  tanıyı kesinleştirir. Komplike kistte yayılım ve komşu yapı ilişkisi için BT ya da MRG istenir
+ilk_tedavi: 'Canlı kistte albendazol ve cerrahi birlikte uygulanır: albendazol cerrahi öncesi ve sonrası
+  verilir; operasyonda kist çevresi koruyarak içeriğin dökülmeden boşaltılması, skolosidal ajanla (hipertonik
+  salin) boşluğun sterilize edilmesi ve ardından kapitonaj ya da perikist rezeksiyonu yapılır. Seçilmiş
+  küçük-orta, tek, komplikasyonsuz kistlerde perkütan PAIR tekniği (aspirasyon, skolosidal ajan, reaspirasyon)
+  uygulanır. Kalsifiye ve inaktif kistte tedavi gerekmez, ultrasonla izlem yeterlidir'
+klasik_komplikasyon: Rüptürle anafilaktik şok ve karın boşluğuna skoleks yayılımı; koledoka açılımla obstrüktif
+  sarılık, kist içinde abse
+tus_gecmisi:
+- tus-2015-ilkbahar-ttbt-114
+- tus-2016-sonbahar-ttbt-113
+- tus-2018-ilkbahar-ttbt-71
+- tus-2020-ilkbahar-ktbt-101
+- tus-2020-sonbahar-ktbt-92
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

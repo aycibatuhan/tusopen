@@ -1,0 +1,49 @@
+id: case-sarkoidoz-01
+version: 1
+status: draft
+author: "ai-drafts/cases-e"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: sarkoidoz
+baslik: "Nefes darlığı ve ikili hiler şişlik"
+adimlar:
+  - tip: sunum
+    metin: "31 yaşında kadın. İki aydır eforla nefes darlığı ve kuru öksürük var; son bir ayda iki incikte ağrılı, kızarık düğümcükler ve dizlerde ağrı gelişmiş. Sigara içmiyor, evde kuş ve mantar teması yok. Muayenede ince kuru çıtırtılar iki taraflı bazal, inciklerin ön yüzünde ağrılı düğümcükler. Toraks grafisinde iki taraflı hiluslarda simetrik büyüme ve parankimde ince retiküler çizgilenme saptanıyor; akciğer dışında göz ve kalp yakınması yok."
+  - tip: secim
+    soru: "Tanısal yaklaşım nasıl olmalıdır?"
+    secenekler:
+      - metin: "Toraks bilgisayarlı tomografisi ve bronkoskopik transbronşiyal biyopsi"
+        dogru: true
+        geri_bildirim: "Sarkoidoz tanısı uyumlu klinik ve radyolojiye ek olarak kazeifikasyon göstermeyen granülom histolojisini ister; transbronşiyal biyopsi en düşük riskli doku elde etme yoludur, ayrıca tüberküloz ve mantar için kültürler alınır"
+      - metin: "Kan ACE düzeyini ölçüp tanıyı buna dayandırmak"
+        dogru: false
+        geri_bildirim: "ACE destekleyici ancak tanısal değildir; diğer granülomatöz hastalıklarda ve tedavi yanıtında değişebilir, histoloji yerine geçmez"
+      - metin: "Açık akciğer biyopsisi ile başlamak"
+        dogru: false
+        geri_bildirim: "Cerrahi biyopsi, transbronşiyal biyopsinin yetersiz kaldığı seçili olgulardadır; ilk adım bronkoskopik yoldur"
+      - metin: "Tüberkülin testinin sonucunu bekleyerek izlemek"
+        dogru: false
+        geri_bildirim: "Tüberkülin tanıyı yönlendirmez; pozitiflik sarkoidozu dışlamaz ve negatiflik tanıyı koymaz, ayrım kültür ve histolojiyle yapılır"
+  - tip: sonuc
+    metin: "Bronkoskopiyle transbronşiyal biyopsi alındı: kazeifikasyon göstermeyen granülomlar; tüberküloz ve mantar kültürleri negatif. Radyolojik olarak hiler lenfadenopatiyle birlikte parankim tutulumu var (evre II). Kalp ve göz muayenesi normal, kalsiyum düzeyi hafif yüksek."
+  - tip: secim
+    soru: "Hastada efor dispnesi ve parankim tutulumu var. Tedavi nasıl planlanmalıdır?"
+    secenekler:
+      - metin: "Oral kortikosteroid (prednizon) başlangıcı"
+        dogru: true
+        geri_bildirim: "Semptomatik parankim tutulumunda, ayrıca hiperkalsemi, göz ya da kalp tutulumu gibi organ tehdidi olan durumlarda steroid endikedir; asemptomatik evre I hastada izlem yeterlidir"
+      - metin: "Sadece düzenli izlem"
+        dogru: false
+        geri_bildirim: "Asemptomatik ve hafif tabloda ilk yaklaşım izlemdir; ancak bu hastada semptom, parankim tutulumu ve hiperkalsemi steroid gerektirir"
+      - metin: "Metotreksat ile başlamak"
+        dogru: false
+        geri_bildirim: "Metotreksat steroid direnci ya da intoleransında ikinci basamaktır; ilk basamak kortikosteroiddir"
+      - metin: "Dört ilaçlı tüberküloz tedavisi başlamak"
+        dogru: false
+        geri_bildirim: "Kültürler negatif ve granülomlar kazeifikasyonsuz; tüberküloz kanıtı yokken tedavi başlanmaz, gereksiz ilaç toksisitesi getirir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: genç yetişkinde efor disnesi, kuru öksürük, eritema nodozum ve artralji ile iki taraflı hiler lenfadenopati sarkoidozu düşündürür; tanı kazeifikasyon göstermeyen granülom histolojisiyle konur ve tüberküloz kültürle dışlanır; radyolojik evreleme hiler adenopati ve parankim tutulumuna göre yapılır; tedavi semptomatik ya da organ tehditli hastada oral kortikosteroid, asemptomatik evre I hastada izlemdir."
+sozlu_sorular:
+  - "Sarkoidozun radyolojik evrelerini ve her evredeki yaklaşımı açıklayın."
+  - "Hangi organ tutulumlarında steroid dışı immünsüpresif düşünülür?"
+  - "Tüberkülozla granülom ayrımında hangi bulgulara bakarsınız?"

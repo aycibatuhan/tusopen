@@ -1,0 +1,24 @@
+id: kalp_miksoma
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-4"
+sources:
+  - "2023 ESC Kardiyomiyopatiler Rehberi ve kapak/enfektif endokardit bağlantılı kardiyak tümör kısımları — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Kalp Tümörleri (Miksoma)
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_tumorleri_travma, kard_kt_miksoma]
+tipik_hasta: "Orta yaş kadında, sistemik embolisi (genç hastada inme), açıklanamayan ateş, kilo kaybı ve yüksek sedimentasyon birleştiren hasta; bazen pozisyona bağlı nefes darlığı ya da senkop eklenir. Aile öyküsünde benzer tümörler veya Carney kompleksi (cilt miksomaları, cilt pigmentasyonu, endokrin tümörler) sorgulanır"
+patofizyoloji: "Erişkinlerde en sık birincil kalp tümörü olan miksoma; sol atriyumda, septum interatrial komşuluğunda (fossa ovalis bölgesi) saplı, gevşek, mukoid kütle biçiminde gelişir. Saplı kütle kalp devirleriyle sallanır: mitral orifise yaklaştığı dönemde inflowu kısıtlar ve mitral darlık benzeri tablo yaratır; yüzeyinden kopan parçacıklar sistemik dolaşıma embolize olur. Tümör dokusu interlökin 6 gibi sitokinler salgıladığı için yüksek sedimentasyon ve CRP, anemi, kilo kaybı gibi konstitüsyonel bulgular görülür; tümör yüzeyindeki pıhtı oluşumu ve iltihabi yanıt da ateşe katkıda bulunur"
+anahtar_bulgular:
+  - "Sistemik emboli: genç hastada iskemik inme, periferik damar tıkanması veya dalak-böbrek infarktüsü; embolik materyalde tümör parçası bulunabilir"
+  - "Açıklanamayan ateş, kilo kaybı, yorgunluk ve sedimentasyon-CRP yüksekliği, anemi"
+  - "Pozisyonla değişen muayene bulgusu: yatış yönüne göre mitral bölgedeki diyastolik hırlamanın duyulma derecesi değişir; erken diyastolik ses olarak tümör plop'u duyulabilir"
+  - "Mitral darlık taklidi: efor dispnesi, ortopne ve senkop; muayenede diyastolik hırlama"
+  - "Ekokardiyografide sol atriyumda saplı, oynak kitle; genellikle septum komşuluğunda saptanır"
+patognomonik: Tipik bulgu (patognomonik değildir) — "Sistemik emboliyle birlikte açıklanamayan ateş; pozisyonla değişen diyastolik hırlama"
+ilk_tetkik: "Transtorasik ekokardiyografi (sol atriyum kitle aranır); gerekirse transözefageal ekokardiyografiyle kitle yapısı ve mitral fonksiyon detaylandırılır"
+kesin_tani: "Cerrahi olarak çıkarılan kitlenin histopatolojik incelemesi; görüntüleme (ekokardiyografi, MR) kitleyi bulur ve kalıcı tanı patolojiyle konur"
+ilk_tedavi: "Cerrahi eksizyon: emboli ve ani tıkanma riski her hastada mevcut olduğundan tümör tam olarak çıkarılır; septum tutulumlu rezeksiyon ve gerekirse kapak onarımı eklenir; izlemde nüks için ekokardiyografik takip yapılır"
+klasik_komplikasyon: "Sistemik embolizasyon (iskemik inme, periferik damar tıkanması); mitral orifisin ani tıkanmasıyla senkop-ani ölüm; nadiren tümörün mikrobik tohumlanması (enfektif tümör)"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

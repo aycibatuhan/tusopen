@@ -1,0 +1,10 @@
+id: fiz_endo_adrenal_korteks
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adrenal Korteks Zonaları"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_adrenal_korteks]
+metin: "Adrenal korteksin dıştan içe üç bölgesi vardır: zona glomerüloza RAAS denetiminde aldosteron, zona fasikülata hipofizer ACTH denetiminde kortizol, zona retikülaris yine ACTH denetiminde adrenal androjen salgılar. Aldosteron distal tübül ve toplayıcı kanalda sodyum geri emilimini artırırken potasyum ve hidrojen atılımını uyarır."

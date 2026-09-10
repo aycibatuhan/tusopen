@@ -1,0 +1,10 @@
+id: anat_ks_vagus
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vagus siniri (X)"
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_vagus]
+metin: "Vagusun rekurrent laringeal dalı krikotiroid dışındaki tüm larinks iç kaslarını innerve eder; lezyonunda ses kısıklığı görülür. Sol rekurrent laringeal sinir aort arkının altından, sağ sinir subklavyen arterin altından döner; akciğer karsinomu veya aort anevrizması soldaki sinire bası yapabilir. Vagusun parasempatik lifleri bağırsaklarda sol kolon fleksurasına kadar innervasyon sağlar; daha distal bölüm S2-S4 sakral parasempatik lifler tarafından innerve edilir."

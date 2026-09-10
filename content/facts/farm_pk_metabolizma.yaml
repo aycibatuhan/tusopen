@@ -1,0 +1,10 @@
+id: farm_pk_metabolizma
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sitokrom P450 Uyarılma ve Baskılanma"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakokinetik, farm_pk_metabolizma]
+metin: "Sitokrom P450 enzimleri ilaçların faz 1 oksidasyonunu yürütür ve uyarılabildiği gibi baskılanabilir. Rifampisin ve fenobarbital gibi uyarıcılar eşzamanlı kullanılan ilaçların kan düzeyini düşürür; ketokonazol ve eritromisin gibi inhibitörler düzeyi yükseltip toksisite riskini artırır. Enzim uyarılması birkaç günde gelişir ve ilaç kesildikten sonra bir süre daha sürer."

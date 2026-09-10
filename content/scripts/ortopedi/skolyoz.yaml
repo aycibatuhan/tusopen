@@ -1,0 +1,26 @@
+id: skolyoz
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-2"
+sources:
+  - "Scoliosis Research Society (SRS) konsensus ve eğitim kaynakları"
+  - "Campbell's Operative Orthopaedics"
+ad: Skolyoz
+taksonomi:
+  - [ktbt, ortopedi, orto_omurga, orto_om_skolyoz]
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_postur_skolyoz]
+tipik_hasta: "10-16 yaş adölesan, çoğu kız; ağrıdan çok ailenin fark ettiği omuz veya bel çizgisi asimetrisi ile geliyor; rutin taramada saptanan ağrısız duruş bozukluğu; adölesan idiopatik skolyoz en sık form; ağrılı skolyoz, nörolojik bulgu veya karın reflekslerinde kayıp varsa altta yatan neden (omurga tümörü, siringomiyeli, konjenital anomali) araştırılır"
+patofizyoloji: "İdiopatik formun nedeni bilinmez; deformite tek düzlemli yan eğrilik değil, üç boyutludur: omurga lateral eğrilikle birlikte kendi ekseni etrafında döner (rotasyon); gövde rotasyonu konveks tarafta kaburga çıkıntısı ve göğüs duvarı asimetrisi yapar; iskelet immatürlüğü süresince (Risser evresi düşük) büyüme hızlıyken eğrilik hızla artar, iskelet olgunlaşınca ileri derece olmadıkça durur"
+anahtar_bulgular:
+  - "Adams öne eğilme testinde konveks tarafta sırtta kaburga tümseği (rib hump) veya bel bölgesinde asimetrik kabartı"
+  - "Omuz yüksekliği, kürek kemikleri, bel çukuru ve pelvis asimetrisi; gövde orta çizgiden sapması"
+  - "Ayakta tüm omurga ön-arka radyografisinde Cobb açısının 10 dereceyi aşması"
+  - "Progresyon riski: kız cinsiyet, düşük Risser evresi (iskelet immatür), büyük açı — 20 derece üstü eğrilikler büyüme çağında hızla artar"
+  - "Ağrısız ve nörolojik olarak sessiz tablo; ağrı, defisit veya karın refleks kaybı eşlik ederse MRG ile sekonder neden aranır"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Adams öne eğilme testinde kaburga tümseği (rib hump)"
+ilk_tetkik: "Fizik muayene (Adams öne eğilme testi, omuz-pelvis asimetrisi, nörolojik inceleme) ve ayakta tüm omurga ön-arka ve yan radyografisi ile Cobb açısı ölçümü; nörolojik bulgu varsa MRG"
+kesin_tani: "Ayakta radyografide Cobb açısının 10 dereceyi aşması; idiopatik tanısı, konjenital anomaliler, nöromüsküler hastalıklar ve bağ gevşekliği sendromları dışlandıktan sonra konur"
+ilk_tedavi: "Eğrilik küçükse (10-25 derece) 6-12 ayda bir ayakta grafiyle düzenli gözlem; büyüme çağında 25-45 derece arası ve iskelet immatür hastada Boston tipi korse (günde yaklaşık 23 saat); takipte 6 ayda 5 derece veya yıllık 10 derece artış progresyon sayılır ve tedavi güçlendirilir; 45-50 derece ve üstünde posterior enstrümantasyonlu füzyon cerrahisi"
+klasik_komplikasyon: "Büyüme sırasında hızlı progresyon ve kalıcı gövde deformitesi; ileri derecede göğüs kafesi tutulumunda solunum kısıtlılığı"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

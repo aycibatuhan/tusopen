@@ -1,0 +1,10 @@
+id: histo_kg_over
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Overde Folikül Gelişim Aşamaları"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_kadin_genital, histo_kg_over]
+metin: "Overde foliküller primordial folikül, primer folikül, sekonder folikül ve olgun Graaf folikülü aşamalarını izleyerek gelişir. Primer folikülde granüloza hücreleri tek katlı kübik hale gelir; sekonder folikülde antrum adlı sıvı boşluğu belirir ve olgun folikülün çatlamasıyla oosit ovulasyonla dışarı verilir."

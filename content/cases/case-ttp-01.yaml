@@ -1,0 +1,49 @@
+id: case-ttp-01
+version: 1
+status: draft
+author: "ai-drafts/cases-b"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: ttp
+baslik: "Morarmalar, diş eti kanaması ve konfüzyonla gelen genç kadın"
+adimlar:
+  - tip: sunum
+    metin: "29 yaşında kadın. Üç gün önce bilek ve dizlerde morluklar başlamış; dün gece ailesi konuşmasının karıştığını ve yer-zaman yöneliminin bozulduğunu fark etmiş. Bilinç açık ama dikkat toplamakta güçlük var. Muayenede yaygın peteşi, diş eti kanaması, ateş 37.6. Laboratuvar: Hb 7.6 g/dL, MCV 104 fL, retikülosit belirgin yüksek, trombosit 8 bin, LDH 820 U/L, haptoglobin düşük, doğrudan Coombs negatif. Kreatinin 0.9 mg/dL. Periferik yayıda parçalanmış eritrositler."
+  - tip: secim
+    soru: "Klinik ve laboratuvar verisi birlikte değerlendirildiğinde en olası tanı hangisidir?"
+    secenekler:
+      - metin: "Trombotik trombositopenik purpura"
+        dogru: true
+        geri_bildirim: "Coombs negatif mikro anjiopatik hemoliz (şistosit, LDH yüksek, haptoglobin düşük) + belirgin trombositopeni + nöropsikiyatrik bulgu ve normal kreatinin TTP'yi ön plana koyar"
+      - metin: "İdiopatik trombositopenik purpura"
+        dogru: false
+        geri_bildirim: "ITP'de izole trombositopeni beklenir; şistosit, konfüzyon ve mikro anjiopatik hemoliz bulguları ITP ile açıklanamaz"
+      - metin: "Dissemine intravasküler koagülasyon"
+        dogru: false
+        geri_bildirim: "DIC'de PT ve aPTT uzar, fibrinojen düşer ve genellikle sepsis, doğum gibi ağır bir tetik vardır; bu hastada pıhtılaşma testleri normal"
+      - metin: "Evans sendromu"
+        dogru: false
+        geri_bildirim: "Evans'ta otoimmün hemoliz pozitif Coombs ile birlikte trombositopeni yapar; burada Coombs negatif ve yayıda şistosit var"
+  - tip: sonuc
+    metin: "Koagülasyon paneli: PT, aPTT ve fibrinojen normal. ADAMTS13 aktivitesi 5 (ağır eksiklik). Hastane yatışı sırasında bilinç durumu iyi korundu, yeni nörolojik bulgu eklenmedi."
+  - tip: secim
+    soru: "TTP tanısı güçlendi. Acil tedavi yaklaşımı ne olmalıdır?"
+    secenekler:
+      - metin: "Plazma değişimi (plazmaferez) ve steroid başlatmak"
+        dogru: true
+        geri_bildirim: "Plazmaferez mikro dolaşımdaki büyük vWF multimerlerini uzaklaştırıp eksik enzimi yerine koyar; steroid otoantikor yapımını baskılar; her saat gecikme mortaliteyi artırır"
+      - metin: "Trombosit süspansiyonu transfüzyonu ile trombosit sayısını yükseltmek"
+        dogru: false
+        geri_bildirim: "Trombosit transfüzyonu mikro trombüsleri büyüterek tabloyu kötüleştirebilir; yalnızca hayati riskli kanamada düşünülür"
+      - metin: "Sadece IVIG verip trombosit sayısını sık aralıklarla izlemek"
+        dogru: false
+        geri_bildirim: "IVIG TTP'de kurtarıcı tedavi değildir; aktif hastada bekleme yaklaşımı mortaliteyi yükseltir"
+      - metin: "Profilaktik doz heparin başlamak"
+        dogru: false
+        geri_bildirim: "Temel sorun pıhtılaşma kaskadının genel aktivasyonu değil, ADAMTS13 eksikliğine bağlı büyük vWF birikimidir; antikoagülasyon tanısal tedavi değildir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: mikro anjiopatik hemoliz + trombositopeni + nöropsikiyatrik bulgular birlikte olduğunda TTP akılda tutulmalıdır; ADAMTS13 aktivitesinin ağır düşüşü tanıyı destekler; kreatinin genellikle normaldir, belirgin yükselmesi hemolitik üremik sendromu çağrıştırır; acil tedavi plazmaferez ve steroidtir; trombosit transfüzyonu kanama yoksa kaçınılır; klasik pentad ateş, anemi, trombositopeni, böbrek ve nörolojik bulgulardan oluşur."
+sozlu_sorular:
+  - "TTP pentadı hangi beş bulgudan oluşur?"
+  - "ADAMTS13 eksikliği mikro dolaşımda hangi zincirlenmeyi başlatır?"
+  - "TTP ile hemolitik üremik sendromun ayrımı hangi bulgulara dayanır?"

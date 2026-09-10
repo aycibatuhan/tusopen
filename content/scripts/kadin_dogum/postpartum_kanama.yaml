@@ -1,0 +1,60 @@
+id: postpartum_kanama
+version: 1
+status: draft
+author: ai-drafts/kadin_dogum
+sources:
+- ACOG postpartum kanama ve FIGO-PEAD kanama yönetimi rehberleri (referans olarak listelendi, metin projesi
+  özgün yazımdır)
+- Williams Obstetrik
+ad: Postpartum Kanama
+taksonomi:
+- - ktbt
+  - kadin_dogum
+  - kd_postpartum
+  - kd_pos_kanama
+tipik_hasta: Doğumdan sonraki ilk 24 saatte (erken) ya da 24 saat ile 12 hafta arasında (geç) aşırı kanayan
+  lohusa; riski yükselten durumlar uzun aktif doğum, çoğul gebelik, makrosomi, polihidramnios, çok sayıda
+  doğum öyküsü, önceki postpartum kanama, sezaryen ve genel anestezidir; kanama doğum salonunda beklenmedik
+  biçimde hızlanır ve hastanın nabzı hızlanır, tansiyonu düşer
+patofizyoloji: 'Doğum kanamasının mantığı dört başlıkta özetlenir: tone (uterus atoni, plasental yatak damarlarının
+  kasılmayla kapatılamaması; kanamaların en sık nedeni), trauma (serviks, vajina, perine yırtıkları ve
+  insizyon kenarları), tissue (plasenta parçası ya da akretanın uterus içinde kalması) ve thrombin (doğuştan
+  ya da edinilmiş koagülopati, DIC). Hangi başlık baskınsa kanama o mekanizmanın onarımına cevap
+  verir; şiddetli kanama sırasında dilüsyonel koagülopati ve fibrinojen erimesi tabloyu büyütür'
+anahtar_bulgular:
+- 'Vajinal doğumda 500 mL, sezaryende 1000 mL kanamayı aşması veya hemodinamiye göre tanı: taşikardi,
+  hipotansiyon, solukluk, oligüri'
+- Palpasyonda yumuşak, genişlemiş, kese gibi uterus (atonik uterus), masajla kasılması
+- Doğum kanalı inspeksiyonunda aktif kanatan yırtık ya da sezaryen insizyonu kenarından kanama
+- Plasentanın eksik çıkması, incelenirken kotiledon defekti; plasenta akreatanın elle ayrılamaması
+- Laboratuvarda Hb düşmesi, fibrinojen düşüşü, pıhtılaşma zamanlarının uzaması ve kanamada artan pıhtılaşamama
+  (DIC bulguları)
+patognomonik: null
+ilk_tetkik: 'Kaynağı belirleme adımı sıralıdır: uterus tonusu palpasyonu, doğum kanalının ve serviksin
+  inspeksiyonu, plasentanın bütün olarak incelenmesi; hemen iki geniş lümenli damar yolu açılıp kristaloid
+  resüsitasyon başlanır; tam kan sayımı, pıhtılaşma paneli, fibrinojen, kan grubu ve antikor taraması;
+  idrar sondası ile oligüri izlemi'
+kesin_tani: 'Klinik tanıdır: doğumdan sonra ölçülebilir kanamada aşım (vajinal doğum 500 mL, sezaryen
+  1000 mL) veya hemodinamik bozulmaya yol açan kanama; geç dönemde involyasyon bozukluğu ve retansiyon,
+  kanama kaynağı belirsizse USG ile plasenta akreata ve gestasyonel trofoblastik hastalık ekarte edilir'
+ilk_tedavi: 'Mekanik ve farmakolojik adımlar aynı anda başlar: uterus masajı, boş idrar kesesi ve uterotonik
+  sıra (oksitosin infüzyonu, ardından metilergonovin, karbetosin, misoprostol veya prostaglandin); travma
+  şüphesinde yırtık onarımı, plasenta retansiyonunda manuel çıkarım ve küretaj; bimanüel kompresyon, uterin
+  balon tamponadı, kompresyon sütürleri; kanamayı durduramayan hastada uterin arter embolizasyonu veya
+  ligasyonu, son çare peripartum histerektomi; erken traneksamik asit, kan ürünleri ve masif transfüzyon
+  protokolü; DIC gelişiminde plazma, fibrinojen ve trombosit desteği'
+klasik_komplikasyon: Hemorajik şok ve DIC, akut böbrek hasarı; postpartum hipopituitarizm (Sheehan sendromu);
+  tedavi gecikmiş olguda uterusun çıkarılması gerekir; postpartum kanama maternal ölümlerin önde gelen
+  nedenlerinden biridir
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-110
+- tus-2014-ilkbahar-ktbt-110
+- tus-2016-sonbahar-ktbt-113
+- tus-2018-ilkbahar-ktbt-111
+- tus-2018-ilkbahar-ktbt-113
+- tus-2024-sonbahar-ktbt-92
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

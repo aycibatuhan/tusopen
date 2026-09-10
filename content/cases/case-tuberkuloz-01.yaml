@@ -1,0 +1,49 @@
+id: case-tuberkuloz-01
+version: 1
+status: draft
+author: ai-drafts/cases-a
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: tuberkuloz
+baslik: "Kronik öksürük ve gece terlemesi"
+adimlar:
+  - tip: sunum
+    metin: "39 yaşında erkek. Altı haftadır giderek artan öksürük ve sarımsı balgam; son dört hafta gece terlemesi, yorgunluk ve dört kilo kaybı var. Son iki haftada akşamları ateş 37.8 dereceyi buluyor. Geçen yıl amcası akciğer tüberkülozundan tedavi görmüş. Muayenede sağ üst zonda derin nefeste ince çıtırtılar saptanır. Göğüs grafisinde sağ üst zonda infiltrasyon ve içi boş görünümlü alan uyumlu. Hemogram normal, CRP hafif yüksek."
+  - tip: secim
+    soru: "Üç haftayı aşan öksürük, gece terlemesi ve kilo kaybı. Tanısal araştırmanın doğru ilk adımı hangisidir?"
+    secenekler:
+      - metin: "Sabah balgam örneğinde ARB boyalı yayma ve kültür istenmesi"
+        dogru: true
+        geri_bildirim: "Aktif tüberküloz kuşkusunda tanı balgamın mikroskopi ve kültürüyle kesinleşir; mikroskopi bulaşıcılığı, kültür etken ve duyarlılık bilgisini verir."
+      - metin: "Tüberkülin deri testinin sonucunun beklenmesi"
+        dogru: false
+        geri_bildirim: "Tüberkülin gizli enfeksiyonu işaret eder; aşılı ve geçirmiş kişilerde de pozitiftir ve aktif hastalığı kesinleştirmez."
+      - metin: "Yalnız göğüs grafisine dayanarak tedaviye başlamak"
+        dogru: false
+        geri_bildirim: "Grafik kuşkuyu destekler ama etkeni göstermez; kesin tanı balgam incelemesidir."
+      - metin: "Bronkoskopiyi ilk adım yapmak"
+        dogru: false
+        geri_bildirim: "Balgam çıkaramayan ya da görüntülemeyle tanı alamayan hastada düşünülür; balgam veren hastada ilk adım değildir."
+  - tip: sonuc
+    metin: "Sabah balgamında ARB pozitif; kültürde Mycobacterium tuberculosis ürer ve rifampisine duyarlılık raporlanır."
+  - tip: secim
+    soru: "Duyarlı etken doğrulandı. İlk tedavi düzeni hangisidir?"
+    secenekler:
+      - metin: "İlk iki ay rifampisin, izoniazid, pirazinamid ve etambutol; ardından dört ay rifampisin ve izoniazid"
+        dogru: true
+        geri_bildirim: "Duyarlı etkenlerde standart düzen iki ay dört ilaç artı dört ay iki ilaçtır; amaç hızlı öldürme, direnç önleme ve kalıcı sterilizasyondur."
+      - metin: "Bir yıl izoniazid monoterapisinin başlanması"
+        dogru: false
+        geri_bildirim: "İzoniazid tek başına gizli enfeksiyonda kullanılır; aktif hastalıkta monoterapi direnç geliştirir."
+      - metin: "Semptomlar gerileyince on günlük makrolid ile bitirmek"
+        dogru: false
+        geri_bildirim: "Bu tablo bakteriyel bronşit değildir; kısa tedavi nüks ve direnç getirir."
+      - metin: "Balgam mikroskopisi negatifleşince tedaviyi yarı süreyle kesmek"
+        dogru: false
+        geri_bildirim: "Planlanan süre tamamlanmadan tedavi bırakılmaz; negatiflenme bulaşıcılığın geçtiğini gösterir, tedavi süresini kısaltmaz."
+  - tip: ozet
+    metin: "Öğrenme noktaları: üç haftayı aşan öksürük artı gece terlemesi ve kilo kaybı tüberküloz araştırmasını zorunlu kılar; tanı balgam ARB ve kültürüyle kesinleşir; tüberkülin gizli enfeksiyon taramasında kullanılır; standart ilk tedavi iki ay dört ilaç, ardından dört ay iki ilaçtır; izoniazid alanlara piridoksin verilir; etambutol renk görüşünün izlenmesi gerektirir; tedavi düzenine uyum ve bulaş önlemleri esastır."
+sozlu_sorular:
+  - "Gizli tüberküloz enfeksiyonu hangi koşullarda tedavi edilir?"
+  - "İzoniazidin ve rifampisinin başlıca yan etkileri nelerdir?"
+  - "Havayolu bulaşını önlemek için hangi önlemler alınır?"

@@ -1,0 +1,10 @@
+id: biyok_kh_glikoliz
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glikolizin Kontrol Noktası"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_glikoliz]
+metin: "Glikoliz sitoplazmada oksijenden bağımsız ilerler ve bir glukozdan net iki ATP ile iki pirüvat çıkarır. Hız kısıtlayıcı adım fosfofruktokinaz-1 katalizlediği reaksiyondur; bu enzim fruktoz-2,6-bisfosfat ve AMP ile uyarılır, ATP ve sitratla baskılanır. Pirüvat kinaz eksikliği eritrosit enerji açlığına bağlı kronik hemolitik anemiye yol açar."

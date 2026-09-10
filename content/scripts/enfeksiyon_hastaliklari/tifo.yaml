@@ -1,0 +1,58 @@
+id: tifo
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-2
+sources:
+- 'Klinik rehberler: CDC tifo ateşi tanı ve tedavi notu, WHO tifo ateşi rehberi — referans olarak listelendi,
+  metin projesi özgün yazımdır'
+ad: Tifo (Tifo Ateşi)
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_gis
+  - enf_gis_tifo
+tipik_hasta: Tifonun endemik olduğu bir ülkeye (Hint yarımadası, Güneydoğu Asya) seyahat edip kontamine
+  su-gıda tüketmiş; haftadır yerleşik yüksek ateş, baş ağrısı, bitkinlik ve karın rahatsızlığıyla seyahat
+  sağlık merkezine başvuran hasta. Yerel vakalar, kronik safra kesesi taşıyıcısı bir bireyin (özellikle
+  yaşlı kadın) gıdayı kirlettiği küçük salgınlarda görülür
+patofizyoloji: Etken, insanın tek rezervuarı olan Salmonella enterica serotipi Typhi'dir; fekal-oral yolla,
+  kontamine su ve gıdayla bulaşır. Bakteri ince bağırsak mukozasından Peyer plaklarından içeri girer,
+  mezenterik lenf düğümlerine ve oradan kan yoluyla karaciğer, dalak ve kemik iliğine yayılır ve retiküloendotelyal
+  sistemde çoğalır; bakteriyemi dalgaları uzun süreli ateşi açıklar. Bakteri safra yollarına (kolesistere)
+  yerleşerek taşıyıcılık yaratır ve yeniden bağırsağa akarak ileal Peyer plaklarında ülserasyon yapar;
+  bu ülserler üçüncü haftada kanama ve perforasyona gider. Ateşin merdiven basamağı gibi haftalarca tırmanması,
+  göreceli bradikardi ve lökopeni klasik paterni bu patojenezden çıkar
+anahtar_bulgular:
+- Grip benzeri açılış (baş ağrısı, mialji, bitkinlik) ardından haftalarca süren, tedavisiz ölümcül seyredebilen
+  yüksek ateş; sıcaklığın merdiven basamağı gibi kademeli yükselişi
+- Splenomegali (hepatomegali eşlik edebilir) ve göreceli bradikardi (ateşe oranla nabzın beklenenden yavaş
+  olması)
+- Karın distansiyonu, rahatsızlık; erken dönemde kabızlık (daha seyrek diyare), ikinci haftadan sonra
+  diyare
+- İkinci haftada gövdede soluk pembe maküler döküntüler (rose spot) ve sersemlik hâlinin letarjiye kadar
+  ilerlemesi (tifo durumu)
+- Lökopeni, hafif karaciğer enzim yüksekliği, trombositopeni eğilimi
+patognomonik: null
+ilk_tetkik: Birinci hafta ateş döneminde kan kültürü (en yüksek verim), tam kan sayımı ve karaciğer fonksiyon
+  testleri; antibiyotik almış ya da uzun süren şüpheli akut vakada kemik iliği kültürü en yüksek verimi sağlar (taşıyıcılığın araştırılmasında ise ardışık dışkı ve safra kültürü kullanılır). Widal serolojisi (O
+  ve H antikorları) yalnızca destekleyicidir, aşılanmış ya da önceki enfeksiyon geçirmiş kişilerde yanlış
+  pozitif yapabilir
+kesin_tani: Kan, kemik iliği ya da dışkı kültüründe Salmonella Typhi üremesi; kemik iliği kültürü önceki
+  antibiyotik kullanımına dirençlidir ve taşıyıcılık şüphesinde en yüksek verimi sağlar
+ilk_tedavi: Duyarlı izolatlarda oral florokinolon (siprofloksasin) ya da üçüncü kuşak sefalosporin (seftriakson,
+  damar yolu ile); florokinolon direncinin yaygın olduğu bölgelerden dönen hastada seftriakson ya da azitromisin
+  tercih edilir, çoklu ilaç dirençli vakalarda da sefalosporin/azitromisin eksenine geçilir. Ağır tabloda
+  damar yolu sıvısı ve seftriakson başlanır, bağırsak perforasyonu cerrahi gündeme alınır. Kronik taşıyıcılık
+  saptanan hastada safra kesesi cerrahisi ve antibiyotik kombinasyonu gündeme gelir. Korunmada seyahat
+  öncesi aşı (oral canlı Ty21a veya parenteral Vi polisakkarit) yüksek riskli yolculuklarda yapılır
+klasik_komplikasyon: Üçüncü haftada ileal Peyer plak ülserlerinden bağırsak kanaması ve serbest perforasyon
+  (peritonit); kronik safra taşıyıcılığı, osteomiyelit ve menenjit gibi odaklar; tedavi yetersizliğinde
+  toksik tablo (tifo durumu) ve ölüm
+tus_gecmisi:
+- tus-2016-ilkbahar-ttbt-60
+- tus-2020-ilkbahar-ttbt-95
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

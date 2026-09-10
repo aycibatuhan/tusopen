@@ -1,0 +1,49 @@
+id: case-hiperparatiroidi-01
+version: 1
+status: draft
+author: "ai-drafts/cases-e"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: hiperparatiroidi
+baslik: "Rutin tetkikte yükselen kalsiyum"
+adimlar:
+  - tip: sunum
+    metin: "54 yaşında kadın, rutin kontrol için başvurdu. Biyokimya: kalsiyum 11.2 mg/dL, fosfor 2.2 mg/dL, albumin normal, kreatinin 0.8 mg/dL. Bir hafta sonra tekrarlanan ölçümde kalsiyum yine hafif yüksek. Sorgulamada belirgin yakınma yok; böbrek taşı öyküsü yok, kırık yok, uzun süren kabızlık ya da kemik ağrısı tanımlamıyor. Özgeçmişte diüretik ya da lityum kullanımı yok, ailede kalsiyum hastalığı bilinen yok."
+  - tip: secim
+    soru: "Araştırmaya nasıl devam edilmelidir?"
+    secenekler:
+      - metin: "İntakt paratiroid hormon (PTH) ölçümü"
+        dogru: true
+        geri_bildirim: "Hiperkalseminin ayırıcı tanısında ilk anahtar PTH'dır; yüksek ya da baskılanması beklenirken normal saptanan PTH primer hiperparatiroidiyi işaret eder, baskılanmış PTH ise malignite gibi başka nedenleri öne çıkarır"
+      - metin: "Paratiroid sestamibi sintigrafisi"
+        dogru: false
+        geri_bildirim: "Sintigrafi tanı kesinleştikten sonra ameliyat öncesi adenomun yerini göstermek için istenir; tanısal ilk adım değildir"
+      - metin: "Boyun ultrasonografisi"
+        dogru: false
+        geri_bildirim: "Ultrasonografi adenom arayışında kullanılır ama tanısal adım PTH'dır; ayrıca görüntüdeki tiroid bulguları yanıltıcı olabilir"
+      - metin: "Serum protein elektroforezi"
+        dogru: false
+        geri_bildirim: "Miyelom düşünüldüğünde istenir; o tabloda PTH baskılanır ve anemi ile böbrek tutulumu beklenir, bu hastada PTH ölçümü birinci adımdır"
+  - tip: sonuc
+    metin: "İntakt PTH 138 pg/mL; düzeltilmiş kalsiyum hafif yüksek, fosfor düşük. Vitamin D düzeyi alt sınıra yakın. Kemik dansitometrisinde lomber T skoru -1.2, femur boynu -1.0; idrar kalsiyumu sınırda, böbrek fonksiyonları normal. Tanı asemptomatik primer hiperparatiroidi."
+  - tip: secim
+    soru: "Yönetim nasıl planlanmalıdır?"
+    secenekler:
+      - metin: "Cerrahi olmadan izlem: yıllık kalsiyum, kreatinin ve kemik dansitometrisi kontrolü"
+        dogru: true
+        geri_bildirim: "Semptomu olmayan, kalsiyumu hafif yüksek, cerrahi kriterleri (elli yaş altı, kalsiyumun üst sınırın 1 mg/dL üzerinde olması, belirgin idrar kalsiyum artışı, böbrek taşı, osteoporoz, böbrek fonksiyon bozukluğu) karşılamayan hastada izlem önerilir"
+      - metin: "Hemen paratiroidektomi"
+        dogru: false
+        geri_bildirim: "Cerrahi, yaş elli altı, belirgin hiperkalsemi, böbrek taşı ya da fonksiyon bozukluğu, osteoporoz gibi kriterlerde önerilir; bu hasta kriterleri karşılamıyor"
+      - metin: "Bifosfonat başlangıcı"
+        dogru: false
+        geri_bildirim: "Bifosfonat osteoporoz saptanan ya da cerrahi yapılamayan hastada kemik koruma amacıyla düşünülür; asemptomatik hafif tabloda ilk seçim değildir"
+      - metin: "Sinakalset ile kalsiyumun düşürülmesi"
+        dogru: false
+        geri_bildirim: "Sinakalset cerrahiye uygun olmayan ve belirgin hiperkalsemili hastalarda düşünülür; rutin asemptomatik izlemde yeri yoktur"
+  - tip: ozet
+    metin: "Öğrenme noktaları: rutin tetkikte saptanan hiperkalsemide ilk adım PTH ölçümüdür; yüksek fosfor düşüklüğüyle birlikte baskılanmamış PTH primer hiperparatiroidiyi işaret eder; asemptomatik ve cerrahi kriteri olmayan hastada izlem yeterlidir; cerrahi kriterler elli yaş altı, belirgin kalsiyum yüksekliği, böbrek taşı, osteoporoz ve böbrek fonksiyon bozukluğudur; sestamibi sintigrafisi ameliyat öncesi yer belirleme içindir."
+sozlu_sorular:
+  - "Düzeltilmiş kalsiyum nasıl hesaplanır ve neden gerekir?"
+  - "Ailede hipokalsemi öyküsü olsaydı hangi tanıyı düşünürdünüz?"
+  - "Primer hiperparatiroidide kemik ve böbrek üzerindeki etkileri açıklayın."

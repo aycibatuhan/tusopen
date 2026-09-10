@@ -1,0 +1,56 @@
+id: konjenital_hipotiroidi
+version: 1
+status: draft
+author: ai-drafts/pediatri-2
+sources:
+- T.C. Sağlık Bakanlığı Yenidoğan Tarama Programı yönergesi — referans olarak listelendi, metin özgün
+  yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: Konjenital Hipotiroidi
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_endokrinoloji
+  - ped_end_hipotiroidi
+- - ktbt
+  - pediatri
+  - ped_asilar_koruyucu
+  - ped_asi_tarama_programlari
+tipik_hasta: Yenidoğan; klinik bulgular sessiz ve nonspesifik olduğu için tanı çoğu kez yenidoğan taramasında
+  yakalanır — tablosuz günlerde taramanın değeri tam olarak buradadır. Guatrsız formlarda (disjenezi/agenazi)
+  aile öyküsü yoktur; guatrlı formlarda (hormon sentez hataları) ailede tiroid hastalığı, maternal anti-tiroid
+  antikorları veya ilaç kullanımı ipucu verir
+patofizyoloji: Tiroid hormonu doğum sonrası beyin miyelinizasyonu ve nöronal gelişim için kritiktir; ilk
+  aylardaki eksikliği geri dönüşsüz zihinsel engel bırakır — hastalık bu yüzden önlenebilir zihinsel engelin
+  başlıca nedenidir. Olguların çoğunda tiroid bezinin gelişim kusuru vardır (agenazi veya dil kökü çevresi
+  gibi ektopik yerleşim); bir kısmı guatr yapan hormon sentez hataları, bir kısmı ise maternal antikor
+  veya ilaca bağlı geçici formlardır. Tiroid yetersizdir, T4 düşer ve hipofizer negatif geri bildirim
+  kalktığı için TSH yükselir (primer tip)
+anahtar_bulgular:
+- Fizyolojik dönemi aşan, uzayan yenidoğan sarılığı (indirekt bilirubin)
+- Konstipasyon, uykululuk, zayıf ve huzursuz emme
+- Yarım santimi aşan posterior fontanel, umbilikal herni, makroglosi
+- Hipotoni, kaba yüz görünümü, boğuk (kalın) ağlama, hipotermi ve benekli (mottled) deri
+- Guatr (hormon sentez hatalarında)
+- Gecikmiş kemik yaşı — diz grafisinde epifizlerin görülmemesi gebelik haftasının geride olduğunu gösterir
+patognomonik: null
+ilk_tetkik: Yenidoğan tarama programındaki topuk kanı testi (kuru kan damlasında TSH bazlı tarama); pozitif
+  taramada bebeği çağırıp serum TSH ve serbest T4 ölçümü
+kesin_tani: 'Yüksek TSH ile birlikte düşük serbest T4 (primer hipotiroidi); etiyoloji için tiroid ultrasonu
+  veya sintigrafisi (ektopik doku veya agenazi gösterilebilir), gerekirse tiroglobulin ve antikorlar.
+  Dikkat: merkezi (hipofizer/hipotalamik) hipotiroidide TSH düşük-normal kalabileceğinden TSH bazlı tarama
+  bu formu kaçırabilir; uzayan sarılık, hipoglisemi veya mikropenisle gelen bebekte düşük T4 ayrıca araştırılmalıdır'
+ilk_tedavi: Tanıdan hemen sonra — ideali yaşamın ilk 2 haftası içinde — levotiroksin sodyum başlanır;
+  term yenidoğanda günlük kilo başına 10-15 mikrogram gibi yüksek başlangıç dozu kullanılır. Amaç TSH'yi
+  normal aralığa indirmek ve serum T4'ü üst yarıda tutmaktır; tedavi ömür boyudur, geçici formlar şüphesi
+  varsa 3 yaş sonrası kesme denemesi yapılır
+klasik_komplikasyon: 'Tedavinin gecikmesi: geri dönüşsüz zihinsel engel (kretenizm), kısa boy ve spastisite;
+  tedavi ilk haftalarda başlanırsa gelişim normal kalır'
+tus_gecmisi:
+- tus-2016-sonbahar-ktbt-48
+- tus-2018-ilkbahar-ktbt-43
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

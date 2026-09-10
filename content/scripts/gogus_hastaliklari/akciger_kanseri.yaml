@@ -1,0 +1,57 @@
+id: akciger_kanseri
+version: 1
+status: draft
+author: ai-drafts/gogus-2
+sources:
+- NCCN Akciğer Kanseri Klinik Rehberi — referans adı olarak listelendi, metin projesi özgün yazımdır
+- IASLC TNM Evrelendirme Sistemi (8. baskı) — referans adı olarak listelendi
+ad: Akciğer Kanseri
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_neoplazi
+  - gog_neo_kucuk_hucreli_disi
+tipik_hasta: 20-40 paket yıl üstü sigara öyküsü olan 50 yaş üstü hasta; inatçı öksürük, hemoptizi ve kilo
+  kaybıyla başvurur; aynı bölgede tekrarlayan pnömoni hikâyesi tanıyı anımsatır. Sigara içmeyen hastalarda
+  özellikle periferik adenokarsinom ön plandadır
+patofizyoloji: 'Sigara karsinojenlerine uzun süre maruz kalmak bronş epitelyalında mutasyon biriktirir.
+  Büyük patolojik dallanma ikili yapılır: küçük hücreli (nöroendokrin kökenli, hızlı büyüyen, tanı anında
+  çoğunlukla metastazlı, kemoterapiye yanıt veren ama kötü prognozlu) ve küçük hücreli dışı (adenokarsinom
+  en sık — periferik, sigara içmeyenlerde de; skuamöz hücreli — santral, kavitleşen, hiperkalsemi eğilimli;
+  büyük hücreli). Paraneoplastik sendromlar öncü bulgu olabilir: küçük hücrelide SIADH ve ACTH sekresyonu,
+  skuamöz hücrelilerde parathormon benzeri peptit ile hiperkalsemi'
+anahtar_bulgular:
+- Kilo kaybı, hemoptizi, inatçı öksürük ve aynı bölgede tekrarlayan pnömoni hikâyesi
+- Sol tarafta rekurrens larengeal sinir kompresyonuna bağlı kalıcı ses kısıklığı
+- PA grafide periferik, spikülo kenarlı, lobüle kitle; rezeke edilebilirliği araştırmak için BT
+- 'Paraneoplastik sendromlar: küçük hücrelide SIADH (hiponatremi) ve Cushing; skuamöz hücrelilerde hiperkalsemi;
+  küçük hücrelilerde Lambert-Eaton miyastenik sendrom'
+- Üst sulkus (Pankost) tümöründe omuz ve üst kola vuran ağrı, Horner sendromu
+- Supraklavikular veya servikal lenfadenopati — ince iğne aspirasyonuyla en kolay tanı
+patognomonik: null
+ilk_tetkik: PA akciğer grafi ve göğüs BT ile lezyon karakterizasyonu; santral lezyonlarda sputum sitolojisi
+  yardımcıdır. Yüksek riskli asemptomatik bireylerde (ağır sigara içiciliği ve ileri yaş) düşük doz BT
+  ile yıllık tarama mortaliteyi azaltır
+kesin_tani: Bronkoskopik biyopsi (santral lezyon) veya BT eşliğinde transtorasik iğne biyopsisi (periferik
+  lezyon) ile histopatolojik doğrulama; küçük hücreli ve küçük hücreli dışı ayrımı tedaviyi belirlediği
+  için mutlaka yapılmalıdır
+ilk_tedavi: 'Küçük hücreli dışı ve rezeke edilebilir evre: lobektomi ile lenf nodu diseksiyonu, adjuvan
+  kemoterapi gerekirse eklenir; lokal ileri evrede eş zamanlı kemo-radyoterapi. Küçük hücreli: sınırlı
+  evrede eş zamanlı kemoterapi ve göğüs radyoterapisi, yaygın evrede sistemik kemoterapi; yanıt alınan
+  hastada profilaktik kraniyal radyoterapi'
+klasik_komplikasyon: Üst vena kava sendromu, malign plevral efüzyon, beyin ve sürrenal metastazlar; küçük
+  hücrelili hastada tanı anında çoğunlukla yayılmış olma
+tus_gecmisi:
+- tus-2014-sonbahar-ttbt-87
+- tus-2015-sonbahar-ktbt-22
+- tus-2015-sonbahar-ttbt-86
+- tus-2018-ilkbahar-ktbt-22
+- tus-2019-ilkbahar-ktbt-21
+- tus-2019-ilkbahar-ktbt-7
+- tus-2019-ilkbahar-ttbt-92
+- tus-2021-ilkbahar-ktbt-21
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

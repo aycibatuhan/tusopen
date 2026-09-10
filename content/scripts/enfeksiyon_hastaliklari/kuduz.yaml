@@ -1,0 +1,61 @@
+id: kuduz
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-2
+sources:
+- 'Klinik rehberler: WHO kuduz eksposür sonrası profilaksi rehberi, CDC kuduz profilaksi kılavuzu — referans
+  olarak listelendi, metin projesi özgün yazımdır'
+ad: Kuduz
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_kuduz
+tipik_hasta: Kuduz şüpheli bir canlı (en sık köpek; ayrıca tilki, çakal, yarasa, kedi) tarafından ısırılmış
+  ya da tırmalanmış, yarayı yıkamadan geçen haftalar boyunca sessiz kalmış ve sonra yara hizasında parestezi,
+  huzursuzluk ve yutma güçlüğüyle başvuran hasta; mağarada yarasa teması da aynı eksposür sınıfına girer
+patofizyoloji: Etken Rhabdoviridae ailesinden tek iplikli RNA virüsü olan kuduz lisavirüstür; bulaş, enfekte
+  hayvanın salyasındaki virüsün deri veya mukoza bütünlüğünün bozulduğu yaraya girmesiyle olur. Virüs
+  önce kas dokusunda kısa bir üreme dönemi geçirir, kas-sinir kavşağındaki nikotinik asetilkolin reseptörlerine
+  tutunur ve periferik sinir aksonları boyunca geriye doğru (retrograd aksonoplazmik akışla) omuriliğe,
+  ardından beyne ulaşır; bu sessiz yolculuk kuluçka süresini belirler, yaradan beynin uzaklığına göre
+  süre kısalır (yüz yaralarında en kısa). Beyin tutulumundan sonra virüs merkezi sinir sisteminden çevreye
+  doğru yayılarak hipokamp, beyin sapı ve tükürük bezlerine yerleşir; bu aşamada artık profilaksinin zamanı
+  geçmiştir
+anahtar_bulgular:
+- Prodomal dönemde ateş, baş ağrısı ve özellikle yara hizasında parestezi ya da kaşıntı (erişkinlerde
+  en erken yerel işaret)
+- 'Eksitasyon (öfkeli) formda hidrofobi ve aerofobi: su ya da hava akımı görmekle farenks ve solunum kaslarında
+  ağrılı spazmlar, aşırı salya akıtması'
+- 'Otonom dengesizlik: taşikardi, terleme, tükürük ve gözyaşı salgısında artış, hiperpireksi'
+- Agitasyon, davranış bozukluğu ve nöbetlerle öne çıkan deliryum; ardından ilerleyici felç, koma ve ölüm
+- Sessiz (paralitik) formda tırmanıcı asendan paraliz (Guillain-Barre benzeri) tablo; salgı bezlerine
+  yerleşen virüs nedeniyle bulaşıcılık sürer
+patognomonik: 'Hidrofobi: su görünce ya da içmeyi deneyince ağrılı farenks ve solunum kası spazmlarıyla
+  panik nöbeti (eksitasyon formda); ense saç foliküllerinden deri biyopsisinde floresan antikor testi
+  pozitifliği'
+ilk_tetkik: 'Yara yönetimi ve eksposür risk değerlendirmesi: yara hemen sabunlu su ve bol suyla mekanik
+  yıkama ile temizlenir, tetanoz profilaksisi gözden geçirilir; yaranın derinliği, konumu ve hayvanın
+  özellikleri (kaçabilir mi, gözlenebilir mi) eksposür kategorisini saptar. Hastada tanı araştırılması
+  gerekiyorsa ense deri biyopsisinde floresan antikor testi, salyada RT-PCR ve beyin omurilik sıvısında
+  antikor bakılır'
+kesin_tani: Yaşam boyu tanı çoğunlukla klinik tabloyla konur; doğrulama, ense deri biyopsisinde ya da
+  kornea sürüntüsünde floresan antikor testi ve salya örneğinde virüs RNA saptamasıdır. Ölüm sonrası beyin
+  dokusunda floresan antikor testi ve sitoplazmik eozinofilik kapsüller (Negri cisimcikleri) patognomoniktir
+ilk_tedavi: 'Mantık eksposür sonrası profilaksidir ve tablo başladıktan sonra etkisizdir: kategori 2 ve
+  3 eksposürlerde hücre kültürü aşı şeması (0, 3, 7, 14 ve gerekirse 28. günler intramuskuler); kategori
+  3 eksposürlerde (derin ısırık, mukoza teması) ve bağışıklık baskılanmış hastalarda ayrıca insan kuduz
+  imunoglobulini yaranın çevresine infiltre edilir. Aşı ve imunoglobulin aynı enjektör ya da aynı enjeksiyon
+  bölgesinde uygulanmaz; imunoglobulin ilk ziyarette verilmediyse geç verilmesi bile beklemekten iyidir.
+  Veteriner, mağara işçileri gibi yüksek riskli meslek gruplarına eksposür öncesi (pre-eksposür) aşı yapılır'
+klasik_komplikasyon: Tablo başladıktan sonra genellikle 1-2 hafta içinde solunum kası spazmları, otonom
+  krizler, aritmiler ve koma ile ölüm; sağ kalan hastalarda ciddi nörolojik sekel
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-1
+- tus-2016-sonbahar-ktbt-44
+- tus-2018-sonbahar-ttbt-66
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

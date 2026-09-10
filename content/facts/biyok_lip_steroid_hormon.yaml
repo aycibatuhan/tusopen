@@ -1,0 +1,10 @@
+id: biyok_lip_steroid_hormon
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Steroid Sentezinin İlk Adımı ve Konjenital Adrenal Hiperplazi"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_steroid_hormon]
+metin: "Kolesterolün pregnenolona çevrilmesi, kolesterol yan zincirini kesen desmolaz enzimiyle olur ve tüm steroid sentezinin giriş adımıdır. 21-hidroksilaz eksikliği konjenital adrenal hiperplazinin en sık nedenidir; kortizol ve aldosteron azalırken androjen üretimi artar. Tanıda 17-hidroksiprogesteron düzeyi yüksek bulunur ve tuz kaybı nedeniyle şokla gelen yenidoğanın ayırıcı tanısında bu bozukluk yer alır."

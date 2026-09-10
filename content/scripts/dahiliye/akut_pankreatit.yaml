@@ -1,0 +1,55 @@
+id: akut_pankreatit
+version: 1
+status: draft
+author: ai-drafts/dahiliye
+sources:
+- 'Klinik rehberler: American College of Gastroenterology akut pankreatit rehberi — referans olarak listelendi,
+  metin projesi özgün yazımdır'
+- Sleisenger ve Fordtran Gastrointestinal ve Karaciğer Hastalıkları
+ad: Akut Pankreatit
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_gastroenteroloji
+  - dah_gis_akut_pankreatit
+tipik_hasta: Safra taşı öyküsü olan ya da alkol kullanan hasta; epigastriyuma yerleşen, sırta vuran, sürekli
+  ve şiddetli ağrı; öne eğilince hafifler, bulantı-kusma eşlik eder
+patofizyoloji: Pankreas içindeki proenzimlerin (tripsinojen) erken ve kontrolsüz aktivasyonu organın kendi
+  sindirimiyle nekroza gider; alkol ve safra taşı en sık iki tetikleyicidir. Nekroz ve üçüncü boşluğa
+  sıvı kaçışı SIRS ile volüm kaybı yaratır; yağ nekrozunda kalsiyum sabunlaşması hipokalsemiye yol açar
+anahtar_bulgular:
+- Serum lipaz normalin 3 katı ve üzeri (amilazdan daha spesifik)
+- Epigastrik bant tarzında, sırta yayılan ağrı
+- Hipokalsemi, hiperglisemi ve lökositoz (şiddetin erken işaretleri)
+- Flankte Grey-Turner, periumbikal bölgede Cullen ekimozu (hemorajik pankreatit imzası, nadir)
+- BISAP bileşenleri (BUN yüksekliği, bilinç bozukluğu, SIRS, 60 yaş üzeri, plevral effüzyon) erken morbidite-mortaliteyi
+  öngörür
+patognomonik: Tipik bulgu (patognomonik değildir) — Grey-Turner ve Cullen ekimozları — şiddetli hemorajik pankreatitin klasik imzası, ancak
+  çoğu olguda yoktur
+ilk_tetkik: Serum lipaz ve abdominal ultrason; ultrason safra kaynağını ve taş araştırmasını yapmak için
+  ilk görüntüleme yöntemidir
+kesin_tani: 'Üç kriterden ikisi: karakteristik ağrı, lipaz veya amilazın normalin 3 katı üzeri olması,
+  görüntülemede pankreatit bulgusu. Kontrastlı BT ilk 72 saatte rutin istenmez; tanı şüpheliyse veya komplikasyon
+  (nekroz, apse) düşünülüyse çekilir'
+ilk_tedavi: Agresif intravenöz sıvı (Ringer laktat tercih edilir), analjezi ve erken enteral beslenme;
+  bulantı-ağrı azalır azalmaz oral beslemeye geçilir. Safra kökenli tabloya kolanjit eşlik ediyorsa erken
+  ERCP; hafif olguların çoğu 3-5 günde düzelir
+klasik_komplikasyon: 4 haftadan uzun süren pankreas pseudokisti; ilk 1-2 haftadan sonra ateş ve sepsisle
+  kendini gösteren nekroz infeksiyonu; ARDS ve hipokalsemiye bağlı tetani
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-87
+- tus-2014-ilkbahar-ktbt-98
+- tus-2014-ilkbahar-ttbt-94
+- tus-2014-sonbahar-ktbt-14
+- tus-2016-ilkbahar-ktbt-103
+- tus-2017-ilkbahar-ktbt-100
+- tus-2017-ilkbahar-ktbt-13
+- tus-2018-ilkbahar-ktbt-65
+- tus-2018-sonbahar-ktbt-94
+- tus-2021-ilkbahar-ktbt-95
+- tus-2021-sonbahar-ktbt-95
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

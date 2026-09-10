@@ -1,0 +1,49 @@
+id: case-colyak-01
+version: 1
+status: draft
+author: "ai-drafts/cases-g"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: colyak
+baslik: "Kilo alamayan ve karı şişkin çocuk"
+adimlar:
+  - tip: sunum
+    metin: "3 yaşında kız çocuk. Buğday içeren ek gıdalara başlandıktan sonra kilo alımı durmuş, ishali artmış; dışkı hacimli, kötü kokulu ve yağlı tarif ediliyor. Karnı şişkin, huzursuz. Boy ve kilo persentil eğrisi alt dilimlere doğru kaymış. Önceki hekimde demir tedavisi verilmiş ama anemi düzelmemiş. Muayenede karın hafif distende, organomegali yok. Hemogram: Hb 9.4 g/dL, MCV 68 fL, ferritin düşük."
+  - tip: secim
+    soru: "Gluten içeren gıdalarla belirti başlangıcı, büyüme geriliği ve tedaviye dirençli demir eksikliği. İlk istenecek tetkik?"
+    secenekler:
+      - metin: "Doku transglutaminaz IgA ve total IgA"
+        dogru: true
+        geri_bildirim: "Beslenme gluten içerirken bakılan tarama testlerinin prediktif değeri yüksektir; IgA eksikliği testi yanlış negatif yapabileceği için total IgA birlikte bakılır"
+      - metin: "Önce glutensiz diyet başlanır"
+        dogru: false
+        geri_bildirim: "Glutensiz diyet serolojiyi ve mukozal bulguları düzeltir; tanıdan önce başlanırsa tanı kanıtlanamaz ve yanlış tanı riski doğar"
+      - metin: "Doğrudan duodenal biyopsi yapılır"
+        dogru: false
+        geri_bildirim: "Kesin tanıyı sağlayan tetkiktir ancak tarama serolojisi pozitif olduktan sonra endoskopiyle yapılır; ilk adım serolojidir"
+      - metin: "Kistik fibrozis için ter testi istenir"
+        dogru: false
+        geri_bildirim: "Büyüme geriliği ve ishalde ayırıcı tanıdır ama glutenle ilişkili başlangıç ve dirençli demir eksikliği önce çölyak serolojisini gerektirir"
+  - tip: sonuc
+    metin: "Doku transglutaminaz IgA üst sınırın çok üzerinde, total IgA normal. Endoskopide villöz atrofi, kript hiperplazisi ve intraepitelyal lenfosit artışı saptanır; tanı doğrulanır."
+  - tip: secim
+    soru: "Tanı kesinleşti. Tedavi ve izlem yaklaşımı?"
+    secenekler:
+      - metin: "Ömür boyu gluten içermeyen diyet; büyüme, demir ve D vitamini düzeylerinin izlemi"
+        dogru: true
+        geri_bildirim: "Tek etkin tedavi ömür boyu glutensiz diyettir; belirtiler haftalar içinde düzelir, seroloji izlemde düşer; eksiklikler için takviye ve beslenme eğitimi verilir"
+      - metin: "Yalnızca demir ve vitamin takviyesi yapılır"
+        dogru: false
+        geri_bildirim: "Eksiklikler emilim bozukluğunun sonucudur; nedene yönelik diyet yapılmadan kalıcı düzelme beklenmez"
+      - metin: "Sistemik kortikosteroid başlanır"
+        dogru: false
+        geri_bildirim: "Rutin tedavi değildir; çok dirençli veya ulseratif tablolarda uzman kararıyla seçili durumlarda düşünülür"
+      - metin: "Gluten azaltılarak diyet düzenlenir"
+        dogru: false
+        geri_bildirim: "Minimal gluten alımı bile mukozayı bozar ve serolojiyi yükseltir; diyet kesin olmalı ve ömür boyu sürdürülmelidir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: gluten içeren gıdalarla başlayan ishal + karın şişkinliği + büyüme geriliği + dirençli demir eksikliği = çölyak; ilk tetkik gluten alımı sırasında doku transglutaminaz IgA ve total IgA; kesin tanı duodenal biyopsiyle (villöz atrofi); tedavi ömür boyu glutensiz diyet; tanıdan önce diyet başlanmaz."
+sozlu_sorular:
+  - "Serolojik testler neden gluten alımı sırasında bakılır?"
+  - "Çölyak hastalığıyla birliktelik gösteren durumlar nelerdir?"
+  - "Dermatitis herpetiformis ile ilişkisi nedir?"

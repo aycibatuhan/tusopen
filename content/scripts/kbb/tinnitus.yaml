@@ -1,0 +1,25 @@
+id: tinnitus
+version: 1
+status: draft
+author: "ai-drafts/kbb-2"
+sources:
+  - "Klinik rehberler: AAO-HNS tinnitus klinik uygulama rehberi — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Tinnitus
+taksonomi:
+  - [ktbt, kbb, kbb_ic_kulak, kbb_ik_tinnitus]
+tipik_hasta: "Dışarıdan ses uyaranı olmadan kulakta çınlama, uğultu, tıslama veya nabız gibi atma duyan yetişkin; en sık iki taraflı, yüksek tonlu ve işitme kaybıyla beraber seyreden öznel (subjektif) tip; nabız gibi atan, tek taraflı veya işitme testinde asimetriye eşlik eden tinnitus ileri değerlendirme gerektirir"
+patofizyoloji: "Koklear dış tüy hücre hasarı veya yaşlanma ve gürültüyle girdinin azalması; azalan işitsel girdiyi dengelemek için santral işitsel yolda kompanzatuar kazanç artışı olur ve artan spontan nöral aktivite hasta tarafından ses olarak algılanır; objektif tinnitusta ise gerçek bir ses kaynağı vardır (damar akım uğultusu, palatal veya orta kulak kaslarının miyoklonik kasılması)"
+anahtar_bulgular:
+  - "Öznel tinnitus: sesi yalnızca hasta duyar; muayene ve tetkiklerde objektif kaynak saptanmaz"
+  - "Objektif tinnitus: hekimin de duyabildiği ses; nabız gibi atan (damar kaynaklı) veya tıkırtılı (kas miyoklonusu) biçimlerde gelir"
+  - "Nabız gibi atan tinnitus: damar malformasyonu, karotis darlığı, idiyopatik intrakraniyal hipertansiyon ve glomus tümörü dışlanmalıdır"
+  - "Meniere hastalığında düşük tonlu dolgunluk uğultusu, işitme kaybı ve vertigo ataklarıyla birlikte gelir"
+  - "Tek taraflı tinnitus ve audiometrik asimetri: retrokoklear lezyon (vestibüler şvanom) açısından ABR ve MRG gerektirir"
+  - "En sık biçim: iki taraflı, yüksek tonlu, presbiakuzi veya gürültüye maruziyet eşliğinde ilerleyen tinnitus"
+patognomonik: null
+ilk_tetkik: "Otoskopi ve saf ton-konuşma audiometrisi; tinnitusa yaklaşmanın ilk adımı her zaman işitme değerlendirmesidir, çünkü tinnitus çoğunlukla işitme kaybının ilk habercisidir"
+kesin_tani: "Hastanın öznel şikâyeti ve audiometrik desenle konur; asimetri, tek taraflılık veya nabız gibi atma varsa retrokoklear MRG ve damar görüntülemesiyle neden araştırılır"
+ilk_tedavi: "Hasta eğitimi ve güvence, bilişsel davranışçı terapi, ses terapisi (arka plan sesi, kulaklık) ve eşlik eden işitme kaybında işitme cihazı; seçilmiş olguda tinnitus yeniden eğitim tedavisi (TRT); ilaç tedavisinin rolü sınırlıdır"
+klasik_komplikasyon: "Uyku bozukluğu, odaklanma güçlüğü, anksiyete ve depresyon; yaşam kalitesini bozan inatçı rahatsız edici tinnitus"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

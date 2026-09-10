@@ -1,0 +1,48 @@
+id: konjunktivit
+version: 1
+status: draft
+author: ai-drafts/goz
+sources:
+- AAO Preferred Practice Pattern, Conjunctivitis rehberi
+- Kanski's Clinical Ophthalmology — referans olarak listelendi, metin projesi özgün yazımdır
+ad: Konjonktivit
+taksonomi:
+- - ktbt
+  - goz_hastaliklari
+  - goz_konjonktiva_kornea
+  - goz_kk_konjonktivit
+tipik_hasta: Kızarmış, batan ve akıntılı gözle başvuran her yaşta hasta; akıntının niteliği tipi ele verir
+  — sulu akıntı ve evdeki kişilerde benzer şikayetler (viral), sabah göz kapaklarının birbirine yapışması
+  (bakteriyel), mevsimle tekrarlayan şiddetli kaşıntı (alerjik)
+patofizyoloji: Konjonktivanın enflamasyonu. Viral tipte en sık etken adenovirüstür; bulaşıcılığı çok yüksektir
+  (havuz, el teması, ortak havlu) ve iyileşme döneminde korneada subepitelyal infiltratlar bırakabilir.
+  Bakteriyel tipte stafilokok ve pnömokok, çocuklarda H. influenzae öne çıkar; purülan akıntı üretir.
+  Alerjik tip IgE aracılı mast hücre degranülasyonu sonucu gelişir; mevsimsel ya da yıl boyu sürebilir
+anahtar_bulgular:
+- Konjonktival kızarıklık ve batma hissi; görme keskinliği korunur, ışık duyarlılığı belirgin değildir
+- 'Akıntı karakteri: sulu (viral), sarı-yeşil purülan ve sabah kapak yapışması (bakteriyel), kaygan ipliksi
+  akıntı ile şiddetli kaşıntı (alerjik)'
+- Viral olgularda kulak önünde hassas lenf bezi (preauriküler LAP)
+- Alerjik olgularda çift taraflılık ve üst kapak konjonktivasında papiller (köşeli) tepeler
+- Bakteriyel tipte tek gözde başlayıp diğerine geçme; viral ve alerjik tipte genellikle çift taraflılık
+patognomonik: null
+ilk_tetkik: 'Yarık lamba muayenesi: fluoressein boyamasıyla kornea bütünlüğünün kontrolü, pupil ışık yanıtlarının
+  ve görme keskinliğinin ölçülmesi; tipik olguda ek tetkik gerekmez, dirençli ya da atipik olguda akıntı
+  kültürü alınır'
+kesin_tani: 'Klinik: akıntı tipi, kaşıntının varlığı, çift taraflılık ve preauriküler LAP öyküsüyle tipin
+  saptanması; bakteriyel şüphede akıntı kültürüyle etkenin gösterilmesi'
+ilk_tedavi: 'Viral: destekleyici yaklaşım — soğuk kompres, yapay gözyaşı, el hijyeni ve bulaşıcılık dönemi
+  (yaklaşık iki hafta) uyarısı; antibiyotik işe yaramaz. Bakteriyel: çoğu olgu kendiliğinden düzelir;
+  akıntı yoğunsan geniş spektrumlu topikal antibiyotik damla ya da merhem. Alerjik: tetikten kaçınma,
+  soğuk kompres, topikal antihistaminik ve mast hücre stabilizatörü damla; kontakt lens kullanıcısında
+  lenslerin çıkarılması'
+klasik_komplikasyon: Adenovirüste iyileşme döneminde görme bulanıklığı yaratan subepitelyal korneal infiltratlar;
+  yenidoğanlarda gonokokal konjonktivitte hızla kornea ülserasyonu ve perforasyon riski
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-106
+- tus-2017-ilkbahar-ttbt-67
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

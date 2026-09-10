@@ -1,0 +1,10 @@
+id: mikro_par_sestod
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tenya türlerinin bulaşma biçimi"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_sestod]
+metin: "Taenia saginata sığır etinde, T. solium domuz etinde sistiserkus larvasıyla taşınır; yeterince pişmemiş etten bulaşır. T. solium yumurtasının yutulması insan dokusunda sistiserkoz, beyinde nörosistiserkoz yapar; tanı dışkıda yumurta ve proglottid incelemesiyle konur."

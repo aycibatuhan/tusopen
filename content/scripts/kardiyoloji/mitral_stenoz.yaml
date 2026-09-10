@@ -1,0 +1,24 @@
+id: mitral_stenoz
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-2"
+sources:
+  - "ESC/EACTS Valvular Heart Disease Guidelines — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Mitral Stenoz
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kapak, kard_kp_mitral_stenoz]
+tipik_hasta: "Çocuklukta akut romatizmal ateş geçirmiş (çoğu zaman fark edilmemiş), 40-60 yaşlarında gelen kadın hasta; efor dispnesi, çarpıntı ve zaman zaman kanlı öksürükle başvuruyor; gebelik gibi dolum gereksinimini artıran durumlarda semptomlar ilk kez ortaya çıkabilir"
+patofizyoloji: "Romatizmal hasar mitral yaprakları kalınlaştırır, komissürleri birbirine kaynatır ve kalsifiye eder; diastolik açılış alanı daralır (normal 4-6 cm kare; semptom eşiği yaklaşık 1,5 cm kare; ciddi darlıkta kapak alanı 1,5 cm kare ve altı; 1 cm karenin altı çok ciddi darlıktır (ESC 2021)). Sol atriyum basınç yüklenip genişler; pulmoner venöz konjesyon ve pasif pulmoner hipertansiyon gelişir. Genişleyen sol atriyum atriyal fibrilasyon zemini hazırlar; hızlı ventrikül yanıtı diastolik dolum süresini kısaltarak sol atriyum basıncını ani yükseltir ve hastayı dekompanse eder"
+anahtar_bulgular:
+  - "Romatizmal ateş öngeçmişi (çoğu hasta anımsamaz); üst akciğer bölgelerinde konjesyon (sefalizasyon) ve Kerley B çizgileri, hemoptizi"
+  - "Apeksde, sol yan yatışta ve egzersiz sonrası en iyi duyulan homurtulu (rumbling) diyastolik üfürüm; sinüs ritminde presistolik güçlenme"
+  - "Kapak hâlâ esnekse ikinci sesi izleyen açık kapak tıkırtısı (opening snap)"
+  - "Atriyal fibrilasyon: düzensiz nabız ve çarpıntı, dekompansasyonu tetikler"
+  - "Ekokardiyografide dar kapak alanı, yapraklarda doming hareketi, sol atriyum genişlemesi ve pulmoner hipertansiyon"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Apeksin sol yan yatışta duyulan homurtulu (rumbling) diyastolik üfürümü"
+ilk_tetkik: "Ekokardiyografi (kapak alanı, gradyan, yaprak hareketi, pulmoner basınç); EKG (atriyal fibrilasyon ve sol atriyal büyüme); göğüs grafisi (sol atriyal genişleme, pulmoner konjesyon)"
+kesin_tani: "Doppler ekokardiyografi ile mitral kapak alanının ölçülmesi; kateterizasyon yalnızca eko ile klinik tablo çeliştiğinde"
+ilk_tedavi: "Semptomatik hastada diüretik (pulmoner konjesyon için); atriyal fibrilasyon saptanırsa kalp hızı kontrolü (beta bloker) ve trombosit/koagülasyon riskinden bağımsız oral antikoagülasyon (sol atriyal trombüs ve emboli riski); kapak anatomisi uygunsa (yapraklar esnek, kalsifikasyon az, belirgin yetersizlik ve trombüs yok) perkütan balon mitral valvotomi; uygun değilse cerrahi komissürotomi veya kapak değişimi"
+klasik_komplikasyon: "Atriyal fibrilasyon ve sol atriyal trombüse bağlı sistemik embolizm (özellikle inme); pulmoner hipertansiyon ve sağ kalp yetmezliği; gebelikte dekompansasyon"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

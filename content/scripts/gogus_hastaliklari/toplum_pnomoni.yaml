@@ -1,0 +1,62 @@
+id: toplum_pnomoni
+version: 1
+status: draft
+author: ai-drafts/gogus
+sources:
+- ATS/IDSA toplum kökenli pnömoni tanı ve tedavi rehberi — referans adı olarak listelendi; metin projenin
+  özgün yazımıdır
+ad: Toplum Kökenli Pnömoni
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_enfeksiyon
+  - gog_enf_toplum_pnomoni
+tipik_hasta: Ateş, titreme ve üşüme, pürülan balgamlı öksürük, derin nefesle artan tek taraflı göğüs ağrısıyla
+  gelen hasta; yaşlıda bu klasik görünüm eksik kalabilir ve tablo yalnızca akut bilinç bulanıklığı, düşme
+  ya da iştah kaybıyla açığa çıkabilir; grip döneminin ardından kötüleşme bakteriyel süperenfeksiyonu
+  düşündürür
+patofizyoloji: Üst solunum yolu savunmalarını aşan patojenin alveollerde çoğalması ve iltihabi sıvıyla
+  konsolidasyon; gaz alışverişi yapan alan azalır, şant etkisiyle hipoksemi gelişir. En sık etken Streptococcus
+  pneumoniae; genç ve sağlıklı hastada Mycoplasma ve Chlamydophila gibi atipik etkenler (kuru öksürük,
+  sistemik bulguların öne çıkması), KOAH hastasında Haemophilus influenzae, mevsimsel bağlamda influenza
+  ve benzeri virüsler öne çıkar; Lejyonella klimalı su sistemleri gibi su kaynaklarıyla bağlantılıdır
+anahtar_bulgular:
+- Odaklı ince ral, egofoni ve bronkofoni; konsolidasyon alanında künt perküsyon
+- Toraks grafisinde yeni alan yoğunluğu (lobar ya da lobüler infiltrasyon)
+- Ateş, titreme, lökositoz ve CRP yüksekliği; pürülan balgam
+- Hipoksemi ve eforla satürasyon düşüşü; ağır olguda solunum hızının artması ve hipotansiyon
+- Yaşlıda ateşsiz seyir; yalnızca bilinç bulanıklığı ya da fonksiyonel gerilemeyle başvuru
+patognomonik: null
+ilk_tetkik: Toraks grafisi; yatak başında oksijen satürasyonu, hemodinami ve bilinç değerlendirmesi; ağır
+  olguda arter kan gazı, kan kültürü, balgam kültürü ve idrar antijen testleri
+kesin_tani: 'Akut enfeksiyon bulgularının toraks grafisindeki yeni infiltrasyonla birleşmesi; akut bronşit,
+  kalp yetmezliği ve pulmoner emboli ayırımı gözden geçirilir. Şiddet CURB-65 mantığıyla değerlendirilir:
+  bilinç bozukluğu, üre düzeyinin yedi mmol/L üzerinde olması, solunum hızının otuzun üzerine çıkması,
+  sistolik tansiyonun doksanın altına inmesi veya diyastolik tansiyonun altmışın altına düşmesi, altmış
+  beş yaş üstü; her madde bir puan eder, sıfır-bir puan ayaktan tedavi, iki puan kısa yatış, üç ve üzeri
+  puan yoğun izlem yöneltir'
+ilk_tedavi: Ayaktan hastada amoksisilin ya da makrolid ile başlanır; yatan hastada beta laktam artı makrolid
+  ya da solunum fluoroquinolon tek başına kullanılır; ilk saatlerde oksijen ve sıvı desteği eksik kalmamalı,
+  klinik yanıt izlenerek tedavi daraltılır
+klasik_komplikasyon: Parapnömonik efüzyon ve ampiyem; bakteriyemiyle menenjit, perikardit ya da uzak odaklar;
+  akciğer apsesi ve sepsis
+tus_gecmisi:
+- tus-2014-ilkbahar-ttbt-73
+- tus-2014-sonbahar-ttbt-60
+- tus-2015-sonbahar-ktbt-3
+- tus-2015-sonbahar-ttbt-60
+- tus-2016-sonbahar-ktbt-4
+- tus-2016-sonbahar-ktbt-41
+- tus-2016-sonbahar-ktbt-55
+- tus-2016-sonbahar-ktbt-6
+- tus-2017-ilkbahar-ttbt-62
+- tus-2017-sonbahar-ttbt-61
+- tus-2018-sonbahar-ktbt-7
+- tus-2019-sonbahar-ktbt-2
+- tus-2020-sonbahar-ttbt-59
+- tus-2021-sonbahar-ktbt-7
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

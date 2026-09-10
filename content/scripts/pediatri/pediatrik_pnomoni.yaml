@@ -1,0 +1,53 @@
+id: pediatrik_pnomoni
+version: 1
+status: draft
+author: ai-drafts/pediatri-4
+sources:
+- DSÖ (WHO) çocukluk çağı pnömoni yönetim kılavuzu — referans olarak listelendi, metin özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: Çocukluk Çağı Pnömonileri
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_pnomoni
+tipik_hasta: Ateş, öksürük ve artmış solunum sayısıyla gelen çocuktur; etken büyük ölçüde yaşa göre belirlenir.
+  Yenidoğan ve ilk aylarda grup B streptokok ve E. coli; 1-3 ay arası bebekte Chlamydia trachomatis; okul
+  öncesi dönemde virüsler ve Streptococcus pneumoniae; okul çağında Mycoplasma pneumoniae öne çıkar. Prematüritelik,
+  malnütrisyon, pasif sigara dumanına maruziyet ve aşı eksikliği (pnömokok, influenza, Hib) riski artırır
+patofizyoloji: Üst solunum yolu savunmalarının aşılmasıyla etken alt solunum yoluna iner ve akciğer parankiminin
+  yangısal yanıtını başlatır. Bakteriyel etkenler (özellikle S. pneumoniae) lobar veya segmenter konsolidasyon
+  yapar; viral etkenler perihilar interstisyel infiltrasyon ve hava tutulumu (hiperinflasyon) tablosu
+  oluşturur; M. pneumoniae diffüz interstisyel veya lobüler bir patern verir. İnfluenzadan sonra üst solunum
+  yolu florasından gelen S. aureus pnömonisi hızla yıkıcı gidişe (nekroz, apse, plöral efüzyon) yol açar
+anahtar_bulgular:
+- 'Üçlü: ateş, takipne ve solunumda çekilmeler (interkostal, subkostal retraksiyonlar)'
+- 'Takipne eşiği DSÖ ölçütleri: 2-12 ay arasında solunum sayısı 50/dk üzeri, 1-5 yaşta 40/dk üzeri; solunum
+  sayısı ateş dindikten sonra sayılmalı, ateşli ölçüm yanıltır'
+- Grafide lobar veya segmenter konsolidasyon bakteriyel etkeni düşündürür; perihilar interstisyel infiltrasyon
+  ve hiperinflasyon viral etkeni düşündürür
+- Lokalize raller veya bir hemitoraksta azalmış solunum sesi; plöral efüzyonda söndürme
+- Okul çağında yavaş gelişen inatçı öksürük, düşük düzeyli ateş, evde benzer öksürüklü kişiler — M. pneumoniae
+- 1-3 aylık bebekte stakkato öksürük, konjonktivit öyküsü, ateşin azlığı — Chlamydia trachomatis
+patognomonik: null
+ilk_tetkik: Klinik değerlendirme ve göğüs grafisi (postero-anterior ve yan); pulse oksimetri. Yatan veya
+  ağır hastada beyaz küre, CRP ve antibiyotik öncesi kan kültürü alınır
+kesin_tani: Klinik bulgularla grafide konsolidasyon veya plöral efüzyon saptanması tanıyı kesinleştirir;
+  etken çoğu olguda ampirik kalır. Ağır olgularda kan kültürü, ampiyem şüphesinde plöral sıvı analizi,
+  nazal sürüntüyle viral PCR; M. pneumoniae şüphesinde seroloji veya PCR kullanılır
+ilk_tedavi: 'Ampirik antibiyotik yaşa ve şiddete göre seçilir: ayaktan izlenen okul öncesi çocuğunda oral
+  amoksisilin ilk seçenektir (S. pneumoniae hedeflenir); okul çağında veya atipik görünümlü tabloda azitromisin
+  gibi makrolidler tercih edilir; yatan hastada damardan ampicillin veya ikinci-üçüncü kuşak sefalosporin
+  verilir. Hipoksemide oksijen desteği, yeterli hidrasyon ve ağrı-ateş kontrolü yapılır. Parapnömonik
+  efüzyon veya ampiyemde torasentez ve göğüs tüpü drenajı gerekir. İnfluenzayı izleyen hızlı yıkıcı tabloda
+  S. aureus''ü hedefleyen antistafilokokal tedavi eklenir'
+klasik_komplikasyon: Parapnömonik efüzyon ve ampiyem (S. pneumoniae'nin klasik komplikasyonu); nekrotizan
+  pnömoni ve akciğer apsesi (S. aureus); sepsis; tekrarlayan veya ağır pnömonilerde bronşiektazi gelişimi
+tus_gecmisi:
+- tus-2017-ilkbahar-ktbt-53
+- tus-2021-ilkbahar-ktbt-57
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

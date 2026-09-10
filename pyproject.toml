@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tusopen"
+version = "0.4.0"
+description = "TUS Open - local pipeline for fetching, parsing, validating and exporting TUS study content"
+license = "Apache-2.0"
+requires-python = ">=3.10"
+dependencies = ["pymupdf>=1.24", "PyYAML>=6.0", "jsonschema>=4.0", "genanki>=0.13"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.4"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+
+[project.scripts]
+tusopen = "tusopen.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+tusopen = ["fetch/sources.yaml"]

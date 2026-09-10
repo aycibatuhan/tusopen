@@ -1,0 +1,10 @@
+id: biyok_mol_dna_tamir
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "DNA Tamir Yollarının Bozulduğu Sendromlar"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_dna_tamir]
+metin: "Yanlış eşleşme tamirindeki mutasyonlar, Lynch sendromu denilen kalıtımsal kolorektal kansere yol açar. Nükleotid eksizyon tamirin bozulduğu xeroderma pigmentosumda güneş ışığıyla tetiklenen deri kanserleri çocukluk çağında görülür. İki iplikli kırılmalar homolog rekombinasyon ya da homolog olmayan uç birleştirme ile onarılır; BRCA genleri ilk yolda görev alır ve mutasyonları meme ile over kanseri riskini artırır."

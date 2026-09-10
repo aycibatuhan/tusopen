@@ -1,0 +1,52 @@
+id: anat_tor_diyafram
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Diyafram açıklıkları
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_toraks
+  - anat_tor_diyafram
+metin: Diyafram frenik sinir (C3, C4, C5) ile innerve edilir; C4'ün üzerindeki lezyonlarda diyafram solunumunu
+  kaybeder (frenik C3-C5). Aortik açıklık T12 düzeyindedir ve aorta ile torasik duktusu geçirir; özofageal
+  açıklık T10 düzeyindedir ve özofagus ile vagal gövdeleri geçirir. Vena kava açıklığı T8 düzeyinde sentral
+  tendon içindedir ve alt vena kava ile sağ frenik siniri geçirir.
+gorsel:
+  dosya: Gray391.png
+  kaynak: https://commons.wikimedia.org/wiki/File:Gray391.png
+  lisans: Public domain (Gray's Anatomy 1918)
+  yazar: Henry Vandyke Carter
+  etiketler:
+  - ad: V. cava açıklığı (T8)
+    x: 30
+    y: 28
+    w: 17
+    h: 10
+  - ad: Özofageal hiatus (T10)
+    x: 50
+    y: 21
+    w: 10
+    h: 9
+  - ad: Aort açıklığı (T12)
+    x: 51
+    y: 30
+    w: 9
+    h: 8
+  - ad: Sentral tendon
+    x: 36
+    y: 16
+    w: 22
+    h: 8
+  - ad: Sağ krus
+    x: 20
+    y: 42
+    w: 11
+    h: 10
+  - ad: Sol krus
+    x: 52
+    y: 38
+    w: 11
+    h: 12

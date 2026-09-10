@@ -1,0 +1,55 @@
+id: periferik_arter_hastaligi
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-3
+sources:
+- ESC/ESVS Peripheral Artery Disease Guideline
+- Sabiston Textbook of Surgery
+ad: Periferik Arter Hastalığı
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_damar_cerrahisi
+  - gc_dam_periferik_arter
+- - ktbt
+  - kardiyoloji
+  - kard_aort_periferik
+  - kard_ap_periferik_arter
+tipik_hasta: 'Yürüyüşün belirli bir mesafesinde baldırına vuran kramp tarzı ağrı geldiğini, durup birkaç
+  dakika bekleyince geçtiğini ve yeniden yürüyebildiğini anlatan hastadır; elli yaş üstü, sigara içen
+  ya da diyabetli kişidir. Daha ileri tablo: gece yatakta istirahatte ayak ağrısı (ayak aşağı sarkıtınca
+  rahatlayan), iyileşmeyen ayak yarası ve parmak gangrenidir'
+patofizyoloji: 'Aterosklerozun alt ekstremite damarlarındaki tablosudur; risk faktörleri koroner hastalıkla
+  örtüşür, sigara ve diyabet öndedir. En sık yerleşim yüzeysel femoral arterdir (addüktör kanal) ve baldır
+  klaudikasyonu yapar; aortoiliak tutulum Leriche sendromu olarak kalça-uyluk ağrısı, femoral nabız alınamaması
+  ve erektil disfonksiyonla gelir. Akım azaldıkça doku beslenmesi bozulur: istirahat ağrısı, ülser ve
+  gangren kritik iskemiyi gösterir'
+anahtar_bulgular:
+- 'Klatikasyon: belli yürüme mesafesinde baldırda ağrı, dinlenince dakikalar içinde geçmesi — klaudikasyon
+  mesafesi hastalığın derecesini gösterir'
+- Tutulan tarafta nabız zayıflaması ya da alınamaması, soğukluk, ciltte parlaklık ve tüy kaybı
+- 'Kritik iskemi: istirahatte gece artan ayak ağrısı, iyileşmeyen ülser, parmak gangreni'
+- 'Ayak bilek-kol indeksi (ABI) düşük: bilek basıncının kol basıncına oranıdır, mantığı şudur — daralma
+  varsa bilekte ölçülen basınç kolun altında kalır; 0.9''un altı hastalığı gösterir, 0.4''ün altı kritik
+  iskemiyi işaret eder; egzersiz sonrası ölçümde değer daha da düşer. Diyabetik ve yaşlı hastada damar
+  duvarı kalsifiye olduğundan basınç yanıltıcı biçim yüksek çıkar'
+- 'Leriche sendromu: kalça-uyluk klaudikasyonu, femoral nabız alınamaması, erektil disfonksiyon'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Belirli yürüme mesafesinde başlayıp dinlenince dakikalar içinde geçen baldır ağrısı
+ilk_tetkik: ABI ölçümü ve ekstremite doppler ultrasonu; egzersiz öncesi-sonrası ABI erken evreyi yakalar
+kesin_tani: Klinik öykü, ABI ve doppler bulguları çoğu hastada yeterlidir; revaskülarizasyon planlanacaksa
+  BT anjiyografi ya da dijital subtraksiyon anjiyografiyle lezyonun yeri ve distal akım gösterilir
+ilk_tedavi: 'Risk faktörü kontrolü esastır: sigara bırakma (en önemli adım), diyabet ve hipertansiyon
+  kontrolü, statin, antiplatelet tedavi. Düzenli yürüme antrenmanı (ağrıya kadar yürü-dinlen döngüsü)
+  klaudikasyon mesafesini uzatır; silostazol seçilmiş hastada kullanılır. Kritik iskemide acil revaskülarizasyon:
+  kısa darlıkta balon-stent, uzun oklüzyonda baypas; revaskülarize edilemeyen doku kaybında amputasyon'
+klasik_komplikasyon: Kritik ekstremite iskemisi (istirahat ağrısı, ülser, gangren, amputasyon); tutulan
+  damarda akut trombozla ani ağırlaşma
+tus_gecmisi:
+- tus-2017-ilkbahar-ktbt-102
+- tus-2018-sonbahar-ktbt-97
+- tus-2021-sonbahar-ktbt-98
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,23 @@
+id: kord_sarkmasi
+version: 1
+status: draft
+author: "ai-drafts/kadin_dogum-4"
+sources:
+  - "Rehberler: ACOG obstetrik acil kılavuzları, T.C. Sağlık Bakanlığı doğum yönetimi rehberi — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Kordon Sarkması ve Obstetrik Aciller
+taksonomi:
+  - [ktbt, kadin_dogum, kd_dogum, kd_dog_kord_sarkmasi]
+tipik_hasta: "Suyu geldikten hemen sonra fetal kalp atımında ani düşüş görülen gebelik; yüksek risk: transvers veya dengesiz lie, footling makat, polihidramnios, prezente bölümün pelvise henüz girmemiş olduğu membran rüptürü ve yüzen başla yapılan yapay su açma"
+patofizyoloji: "Membranlar açıldığında kord, prezente bölümün yanından aşağı kayar; baş veya kalça kordu pelvine bastırınca kan akımı durur ve fetus hızla hipoksik olur. Riskin boyutu, prezente bölümün kordu ne kadar sıkıştırdığına ve tanıdan doğuma geçen süreye bağlıdır; her dakika fetal ölüm riskini artırır"
+anahtar_bulgular:
+  - "Membran rüptüründen hemen sonra başlayan ani uzamış fetal bradikardi veya tekrarlayan değişken dekelerasyonlar"
+  - "Vajinal muayenede nabız atan kordun parmak altında hissedilmesi veya gözle görülmesi"
+  - "Yüksek risk öyküsü: transvers/instabil lie, footling makat, polihidramnios, yüzen başla yapay amniyotomi"
+  - "CTG'de süregelen uzamış dekelerasyonlar ve fetal durumun hızla bozulması"
+patognomonik: "Vajinal muayenede nabız atan göbek kordunun parmak altında saptanması"
+ilk_tetkik: "Şüpheli CTG tablosu ve membran rüptürü bir aradayken derhal vajinal muayene yapılır; kord palpe edilemese bile kalıcı fetal bradikardide tanı varsayılır ve doğum hazırlığı başlar; sürekli CTG"
+kesin_tani: "Kordun görülmesi veya palpe edilmesi; ancak fetal sıkıntı bulgusu varsa kesin tanı beklenmeden acil doğum kararı verilir"
+ilk_tedavi: "Özgün mantık: kordu uterusa geri sokmaya çalışılmaz (zaman kaybı ve yeniden sarkma). Prezente bölüm iki parmakla yukarı ve korddan uzağa itilerek kord üzerindeki bası kalkar; elle bu konum, doğum anına kadar korunur. Anne diz-göğüs veya Trendelenburg pozisyonuna alınır, mesane 500-750 ml sıvıyla doldurulup prezente bölümün aşağı inmesi geciktirilir; gerektiğinde tokolitik kullanılır. Serviks tam dilate ve vajinal doğum kolay ise operatif vajinal doğum, aksi halde acil sezaryen"
+klasik_komplikasyon: "Fetal hipoksi, doğum asfiksisi, neonatal serebral palsi ve ölü doğum; tanıdan doğuma geçen süre uzadıkça bu risk hızla artar"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

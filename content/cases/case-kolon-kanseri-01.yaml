@@ -1,0 +1,49 @@
+id: case-kolon-kanseri-01
+version: 1
+status: draft
+author: "ai-drafts/cases-b"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: kolon_kanseri
+baslik: "Postmenopozal kadında demir eksikliği anemisinin kaynağını ararken ortaya çıkan kolon kanseri"
+adimlar:
+  - tip: sunum
+    metin: "62 yaşında kadın, dört aydır giderek artan halsizlik ve çabuk yorulma nedeniyle geldi. Menopozda altı yıldır; anormal kanama öyküsü yok, ancak son haftalarda dışkı renginin bazen koyu olduğunu fark etmediğini söylüyor. Muayenede soluk ten ve mukozalar; dışkıda gizli kan pozitif. Laboratuvar: Hb 8.4 g/dL, MCV 69 fL, ferritin 5 ng/mL, transferrin satürasyonu düşük, trombosit hafif yüksek."
+  - tip: secim
+    soru: "Postmenopozal bir kadında tedavi görmemiş demir eksikliği anemisi saptandı. Kaynağını araştırmak için ilk yaklaşım hangisidir?"
+    secenekler:
+      - metin: "Kolonoskopi yapmak"
+        dogru: true
+        geri_bildirim: "Bu yaş grubunda ve postmenopozal kadında demir eksikliği, gizli bağırsak kanaması kanıtlanana kadar kolon kanseri kabulüyle araştırılır; kolonoskopi birinci basamak tetkiktir"
+      - metin: "Önce üç ay oral demir verip yanıtı izlemek"
+        dogru: false
+        geri_bildirim: "Demir eksikliği belirgin iyileşse bile altta yatan lezyon gizlenir; ileri yaştaki yeni demir eksikliği nedeni açıklanmadan tedaviyle yetinilmez"
+      - metin: "Sadece mide ve oniki parmak bağırsağı endoskopisi yapmak"
+        dogru: false
+        geri_bildirim: "Üst sindirim yolu da araştırılabilir ama mikrositik anemili bu yaşta ilk öncelik kolondur; üst endoskopi tek başına yeterli tarama değildir"
+      - metin: "Kolonoskopi yerine dışkıda gizli kan testiyle yıllık tarama başlatmak"
+        dogru: false
+        geri_bildirim: "Gizli kan taraması belirtisiz nüfus taraması içindir; zaten anemili hastada test kolonoskopinin yerine geçmez ve bu hastada zaten pozitiftir"
+  - tip: sonuc
+    metin: "Kolonoskopide çekumda lümeni daraltan, ülser yüzeyli 4 cm'lik kitle görülür. Biyopsi adenokarsinom ile uyumlu. Serum CEA 9 ng/mL. Bilgisayarlı batın tomografisinde karaciğer metastazı ve uzak yayılım bulgusu yok."
+  - tip: secim
+    soru: "Tanı doğrulandı ve hastada uzak metastaz saptanmadı. Bir sonraki adım ne olmalıdır?"
+    secenekler:
+      - metin: "Kitlenin bulunduğu kolon segmentinin geniş rezeksiyonu ve lenf nodu diseksiyonu"
+        dogru: true
+        geri_bildirim: "Yerli kolon kanserinde standart tedavi, tümör bölümünün besleyici damarlarıyla beraber temiz sınırlarla çıkarılması ve en az on iki lenf nodunun patolojiye gönderilmesidir"
+      - metin: "Cerrahiye başlamadan önce altı kür kemoterapi vermek"
+        dogru: false
+        geri_bildirim: "Uzak metastazı olmayan hastada ilk tedavi cerrahidir; kemoterapi evreye göre cerrahi sonrası ek tedavi olarak planlanır"
+      - metin: "CEA değeri normalleşene kadar sadece medikal takip"
+        dogru: false
+        geri_bildirim: "CEA tanıyı koydurmaz ve tedavi kararı verdirmez; cerrahi sonrası izlemde destekleyici göstergedir"
+      - metin: "Kalıcı kolostomi açmak"
+        dogru: false
+        geri_bildirim: "Sağ kolon tümöründe birincil anastomoz çoğunlukla mümkündür; kalıcı stomaya genellikle gerek kalmaz"
+  - tip: ozet
+    metin: "Öğrenme noktaları: erkeklerde ve menopoz sonrası kadınlarda yeni saptanan demir eksikliği anemisi gastrointestinal kaynak dışlanana dek kolon kanseri kabulüyle incelenir; ilk tetkik kolonoskopidir; sağ kolon tümörleri gizli kan kaybıyla anemi yaparken sol kolon daha çok dışkı alışkanlığı değişikliği ve tıkanma bulguları yapar; CEA tanısal tarama aracı değil, cerrahi sonrası izlem göstergesidir; yerli hastada temel tedavi geniş rezeksiyon ve lenf nodu diseksiyonudur."
+sozlu_sorular:
+  - "CEA hangi amaçla kullanılır, tanıda neden öncül değildir?"
+  - "Sağ ve sol kolon kanserlerinin klinik sunumu nasıl farklıdır?"
+  - "Demir eksikliği anemisi hangi hasta gruplarında alarm işaretidir ve neden?"

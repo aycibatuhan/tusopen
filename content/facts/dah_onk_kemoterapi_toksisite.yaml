@@ -1,0 +1,10 @@
+id: dah_onk_kemoterapi_toksisite
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kemoterapi Toksisiteleri"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_kemoterapi_toksisite]
+metin: "Kemoterapinin en sık ve doz sınırlayıcı toksisitesi kemik iliği supresyonudur (nötropeni, trombositopeni, anemi); alopesi antrasiklinler ve taksanlarla, mukozit methotrexat ve ara-C ile karakteristiktir, bulantı-kusmada en emetojenik ajan sisplatindir. Kardiyotoksisitede antrasiklinler (doksorubisin) kümülatif doza bağlı ve büyük ölçüde irreversibl dilate kardiyomiyopati yapar (doksorubisin için yaklaşık 450-550 mg/m² üst sınır), trastuzumabın kardiyotoksisitesi ise dozdan bağımsız ve reversibldir; 5-FU ve kapecitabin koroner vazospazm/iskemiye yol açabilir. Sisplatin nefrotoksisite ve sensörinöral işitme kaybı (ototoksisite) yapar; pulmoner toksisite (interstisyel pnömonit, fibrozis) bleomisin, busulfan, mitomisin C ve gemsitabin ile ilişkilidir; periferik nöropati vinkristin, oksaliplatin ve taksanların (paklitaksel, dosetaksel) tipik yan etkisidir — vinkristin ayrıca paralitik ileus yapar ve intratekal verilmesi ölümcüldür. Hemorajik sistit siklofosfamid ve ifosfamidin klasik toksisitesidir (mesna ile önlenir), bu ilaçlar ayrıca SIADH yapabilir; L-asparaginaz pankreatit, tromboz ve koagülopati riski taşır. Damar dışına sızan vezikan ajanlar (antrasiklinler, vinka alkaloidleri) ciddi doku nekrozu yapar (antrasiklinde antidot deksrazoksan); alkile edici ajanlar, etoposid ve antrasiklinler yıllar sonra tedaviyle ilişkili ikinci malignite (AML/MDS) ve infertilite riski oluşturur."

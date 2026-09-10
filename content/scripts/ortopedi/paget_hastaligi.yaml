@@ -1,0 +1,50 @@
+id: paget_hastaligi
+version: 1
+status: draft
+author: ai-drafts/ortopedi-4
+sources:
+- Harrison İç Hastalıkları (Long-Fauci) — yalnızca referans adı olarak listelendi, metin tamamen özgün
+  yazımdır
+- Campbell's Operative Orthopaedics — yalnızca referans adı olarak listelendi
+ad: Paget Hastalığı
+taksonomi:
+- - ktbt
+  - ortopedi
+  - orto_metabolik_kemik
+  - orto_mk_paget
+- - ktbt
+  - dahiliye
+  - dah_endokrinoloji
+  - dah_end_paget
+tipik_hasta: 55 yaş üstü, özellikle Kuzey Avrupa kökenli erkek; pelvis, femur, lomber omurga veya kafatası
+  bölgesinde derin kemik ağrısı, ısınan ve deforme kemik, işitme azalması ile gelen yaşlı hasta; olguların
+  çoğu tamamen belirtisizdir ve yalnızca ALP yükselmesiyle tesadüfen yakalanır
+patofizyoloji: 'Kemik yeniden şekillenme dengesi bozulur: önce aşırı osteoklastik rezorpsiyon, ardından
+  bunu telafi eden ama düzensiz ve hızlı osteoblastik yapım gelir. Sonuç, mosaik (parke taşı) desenli
+  lameller kemiğe dönüşmüş, kalın ama mekanik açıdan zayıf kemiktir; lezyon bölgesinde damarlanma artar
+  ve kemik ısınır. Genetik yatkınlık (SQSTM1 mutasyonları) ve olası viral tetikleyici tartışılmaktadır'
+anahtar_bulgular:
+- Serum ALP belirgin yükselmiş; kalsiyum ve fosfor düzeyleri normal kalır
+- Radyografide kalınlaşmış ve genişlemiş kemik, kabalaşmış trabeküler desen, kortikal kalınlaşma
+- Kafatası tutulumunda baş çevresinin büyümesi ve işitme kaybı; osteoporoz sirkumscripta alanları
+- Bacak kemiklerinde öne kavislenme (sabre tibia) ve pelviste şişe leğen görünümü
+- Lezyon bölgesinde ısı artışı ve belirgin yüzeyel damar dolgunluğu
+- Lomber tutulumda spinal stenoz veya sinir kökü sıkışması belirtileri
+patognomonik: Histolojide mosaik (parke taşı) desenli lameller kemik; radyografide kemik kalınlaşması
+  ile genişlemesinin birlikte görülmesi
+ilk_tetkik: Serum total ALP ve şüpheli bölgelerin direkt radyografileri; aktif lezyonların tamamını saptamak
+  için kemik sintigrafisi
+kesin_tani: Klinik tablo, radyografide kemik kalınlaşması ve genişlemesi ile ALP yüksekliğinin bir arada
+  bulunması; belirsiz olgularda biyopsi ile mosaik desenin gösterimi
+ilk_tedavi: 'Bifosfonatlar (risedronat, alendronat, tek doz intravenöz zoledronik asit): osteoklast aktivitesini
+  baskılayarak yeniden şekillenme hızını yavaşlatır, ağrıyı ve kemik dönüşüm belirteçlerini düşürür; birlikte
+  analjezi ve yük koruma önlemleri'
+klasik_komplikasyon: Patolojik fraktür, kraniyal ve spinal sinir sıkışması, yüksek debili kalp yetmezliği;
+  en korkulanı tutulum bölgesinde osteosarkoma dönüşüm (çok düşük oranda)
+tus_gecmisi:
+- tus-2018-ilkbahar-ktbt-29
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

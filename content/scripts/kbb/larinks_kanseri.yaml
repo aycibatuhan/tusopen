@@ -1,0 +1,26 @@
+id: larinks_kanseri
+version: 1
+status: draft
+author: "ai-drafts/kbb-3"
+sources:
+  - "Cummings Otolaryngology: Head and Neck Surgery — referans olarak listelendi, metin projesi özgün yazımdır"
+  - "NCCN Head and Neck Cancers Kılavuzu — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Larinks Kanseri
+taksonomi:
+  - [ktbt, kbb, kbb_larinks, kbb_lr_larinks_kanseri]
+tipik_hasta: "Klasik hasta 50-70 yaşlarında, yıllardır sigara içen erkektir; alkol tüketimi riski katlar (sinerji). Kadınlarda görülme oranı sigara yaygınlığıyla artmaktadır. Ses kullanımı ve reflü de katkı sayılır"
+patofizyoloji: "Dokuların neredeyse tamamı skuamoz hücreli karsinomdur; sigara-alkolün sinerjik etkisiyle mukoza sırasıyla metaplazi-displazi-karsinom yolunu izler. Yerleşim prognozu belirler: vokal kord üzerindeki glottik tümör lenfatik dolaşımın zayıf olması nedeniyle geç metastaz yapar ama ses kısıklığı gibi erken bulgu verir, bu yüzden genelde erken yakalanır; supraglottik tümör lenfatik dolaşım zengin ve sessiz seyrettiği için sık boyun metastazıyla gelir; subglottik yerleşim en nadir ve en sessizdir. Kord hareketliliğinin kaybı tümörün derin dokuya invazyonunun göstergesidir ve evrelemeyi ilerletir"
+anahtar_bulgular:
+  - "Üç haftadan uzun süren, geçmeyen ses kısıklığı (uyarı eşiği)"
+  - "Yutma güçlüğü ve yutağa vuran ağrı, kulağa yayılan ağrı (supraglottik)"
+  - "Boyun kitlesi (lenf nodu metastazı)"
+  - "Kronik öksürük, kanlı balgam, kilo kaybı"
+  - "İleri evrede nefes darlığı ve stridor"
+  - "Laringoskopide vokal kord üzerinde ülseratif-vejetatif kitle, kord hareketliliğinde kısıtlanma"
+patognomonik: "Patognomonik tek bulgu yok; laringoskopide vokal kordu işgal eden ülserli-vejetatif kitlenin kord hareketini kısıtlaması tanıyı güçlü biçimde yöneltir"
+ilk_tetkik: "Üç haftayı aşan her ses kısıklığında endoskopik (fiber) laringoskopi ve boyun palpasyonu; görüntüleme şart değil ama şüpheli lezyon geciktirilmez"
+kesin_tani: "Endoskopik biyopsi ile histopatolojik doğrulama (skuamoz hücreli karsinom); boyun BT veya MR ile lokal yayılım ve nodal hastalık, göğüs görüntülemesi ile uzak metastaz taraması"
+ilk_tedavi: "Erken glottik tümörde transoral lazer rezeksiyon veya radyoterapi (ses korunur); ileri evrede eşzamanlı kemoradyoterapi veya total laringektomi artı boyun diseksiyonu; hava yolu tehdit altındaysa acil trakeostomi; tedavi sonrası ses-yutak rehabilitasyonu"
+klasik_komplikasyon: "Hava yolu obstrüksiyonu ve stridor (acil trakeostomi gerekebilir); boyun lenf nodu metastazı; total laringektomi sonrası kalıcı ses kaybı ve yutma bozuklukları; fistül ve darlık"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

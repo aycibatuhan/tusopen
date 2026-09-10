@@ -1,0 +1,10 @@
+id: anat_pel_perine
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Perine ve pudendal sinir"
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_perine]
+metin: "Perine, simfizis pubis, koksiks ve iki iskial tüberoziteyle sınırlı elmas biçimli alandır; tüberoziteler arası çizgi ön ürogenital üçgen ve arka anal üçgene ayırır. Pudendal sinir (S2-S4) iskial spina hizasında Alcock kanalına girer; obstetrik analjezide pudendal blok için iskial spina kılavuz alınır. Anal üçgende dış anal sfinkter, ürogenital üçgende derin transvers perine kası ve dış üretral sfinkter yer alır."

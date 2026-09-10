@@ -1,0 +1,24 @@
+id: postoperatif_bulantik_kusma
+version: 1
+status: draft
+author: "ai-drafts/anestezi-2"
+sources:
+  - "Dördüncü Uluslararası PONV Uzlaşı Kılavuzu (Gan ve ark.) — referans olarak listelendi, metin projesi özgün yazımdır"
+  - "SAMBA (Ambulatuvar Anestezi Derneği) PONV yönetim kılavuzu — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Postoperatif Bulantı ve Kusma
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_bulanti_kusma]
+tipik_hasta: "Kadın, sigara içmeyen, geçmişte PONV ya da araç tutması öyküsü olan, volatil anestezik ve postoperatif opioid alan hasta; bu risk faktörlerinin her biri riski kabaca yüzde 20'ye yakın artırır ve toplamda kısa bir skora (Apfel) dayanarak profilaksi planlanır"
+patofizyoloji: "Volatil anestezikler, opioidler ve cerrahi stres beyindeki bulantı-kusma merkezini çok kanaldan tetikler: area postrema (kemoreseptör tetik bölge), vestibüler sistem, gastrointestinal afferentler ve yüksek merkezlerden gelen sinyaller dopamin, serotonin, asetilkolin (muskarinik) ve histamin yolları üzerinden bütünleşir. 5HT3 reseptörleri hem tetik bölgede hem de vagal afferentlerde yoğundur; cerrahi ve opioid bağırsaktan serotonin salınımını artırdığı için bu yol özellikle önemli hale gelir ve 5HT3 antagonistlerinin hedefi olur"
+anahtar_bulgular:
+  - "Anestezi sonrası ilk 24-48 saatte bulantı, kusma ve öğürme (retching)"
+  - "Apfel skoru dört faktörlüdür: kadın cinsiyet, sigara içmemek, PONV öyküsü, postoperatif opioid kullanımı; her biri yaklaşık yüzde 20'ye yakın risk ekler (volatil anestezik de risk faktörüdür ama skora girmez)"
+  - "Tekrarlayan kusmada dehidratasyon ve elektrolit kaybı"
+  - "Şiddetli kusmada cerrahi dikiş hattının zorlanması, özofagus mukozasında yırtılma (Mallory-Weiss tipi)"
+patognomonik: null
+ilk_tetkik: "Klinik tanıdır; preoperatifte Apfel skorlamasıyla risk saptanır ve risk ne kadar yüksekse profilaksi o kadar erken planlanır"
+kesin_tani: "Anestezi ve cerrahiyle zamansal ilişkili bulantı-kusma klinik olarak tanınır; opioid, intraabdominal gerginlik veya tümör gibi benzer tablo yapabilecek başka nedenler öykü ve muayeneyle dışlanır"
+ilk_tedavi: "Risk sayısına göre profilaksi: tek risk faktöründe tek ajan, iki ve üzeri faktörde farklı sınıflardan kombinasyon (tipik olarak 5HT3 antagonisti ve deksametazon; gerekirse droperidol eklenir). Tedavi gerektiğinde profilakside kullanılandan farklı bir sınıftan ajan seçilir; ilk basamak 5HT3 antagonisti (ondansetron) mantığı, tetik bölgedeki ve vagal afferentlerdeki serotonin reseptörlerini bloke etmektir"
+klasik_komplikasyon: "Dehidratasyon ve elektrolit bozukluğu; aspirasyon riski; cerrahi dikişte açılma; ambulatuvar hastada beklenmedik hastaneye yatış"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

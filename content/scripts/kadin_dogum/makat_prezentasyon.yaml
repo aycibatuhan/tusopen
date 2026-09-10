@@ -1,0 +1,23 @@
+id: makat_prezentasyon
+version: 1
+status: draft
+author: "ai-drafts/kadin_dogum-4"
+sources:
+  - "Rehberler: ACOG makat prezentasyon ve dış cephalik versiyon kılavuzu, T.C. Sağlık Bakanlığı doğum yönetimi rehberi — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Makat Prezentasyonu
+taksonomi:
+  - [ktbt, kadin_dogum, kd_dogum, kd_dog_makat]
+tipik_hasta: "28. haftadan önceki gebeliklerin önemli bir kısmında geçici olarak saptanır ve çoğu kendiliğinden döner; termde kalıcı makat görülen gebelikte prematüre doğum riski, multiparite, çoğul gebelik, polihidramnios, uterus anomalileri, plasenta previa ve fetal anomaliler aranır"
+patofizyoloji: "Doğum mekanizmasında en geniş çaplar başın geçişine ayrılmıştır; makatta kalça ve oturak önce geçtiği için serviks tam açılmadan gövde inebilir ve en son doğan baş, tam dilate olmamış serviksten zorlanarak çıkmalıdır. Bu sıralama aynı zamanda kord sarkması ve kord sıkışması riskini belirgin artırır (özellikle footling tipinde)"
+anahtar_bulgular:
+  - "Leopold manevralarında fundus üzerinde sert, geniş ve sallanan baş; alt segmentte yumuşak, geniş olmayan parça"
+  - "Fetal kalp seslerinin maternal göbek deliği hizasında veya üzerinde duyulması"
+  - "Vajinal muayenede kalça, oturak (iskiyal tuberlar), anüs ve dış genital organların parmak altında saptanması"
+  - "Ultrasonla tip ayrımı: tam (complete — kalça ve diz fleksiyonu), frank (kalça fleksiyon, dizler ekstansiyon — en sık tip), eksik (incomplete), footling (bir veya iki ayak aşağıda)"
+patognomonik: "Vajinal muayenede oturak ve kalçanın parmak altına gelmesi, Leopold'da fundusta sallanan baş"
+ilk_tetkik: "Ultrasonografi: prezentasyonu ve makat tipini doğrular; plasenta lokalizasyonu, amniyotik sıvı miktarı, tahmini fetal ağırlık ve fetal anomali taraması eklenir"
+kesin_tani: "Ultrasonografi ile prezentasyonun ve tipin (complete, incomplete, footling) belirlenmesi"
+ilk_tedavi: "36-37. haftalarda dış cephalik versiyon denenir; başarısız veya kontrendike (plasenta previa, çoğul gebelik, anormal CTG, membranların açılmış olması) ise termde planlı sezaryen tercih edilir. Seçili olgularda deneyimli ekiple vajinal makat doğumu yapılabilir; kalça doğumu kendiliğinden izlenir (kasıtlı hızlandırma yapılmaz), gövde doğumundan sonra başın çıkışı için yardımcı manevralar devreye girer"
+klasik_komplikasyon: "Kord sarkması ve kord sıkışması ile fetal hipoksi (özellikle footling); serviks tam açılmadan başın doğmasına bağlı baş sıkışması, klavikula ve brakial pleksus yaralanması"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

@@ -1,0 +1,25 @@
+id: hidradenitis_suppurativa
+version: 1
+status: draft
+author: ai-drafts/dermatoloji-4
+sources:
+  - "Bolognia Dermatology (Bolognia, Schaffer, Cerroni)"
+  - "EADV hidradenitis süpürativa tedavi rehberi"
+ad: Hidradenitis Süpürativa
+taksonomi:
+  - [ktbt, dermatoloji, derm_akne_sebase, derm_ak_hidradenitis]
+tipik_hasta: "20-30 yaş, koltuk altı-kasık-perine-kalça katlarında yıllardır tekrarlayan ağrılı şişlikler, akıntı ve iltihaplarla gelen hasta (kadınlar biraz daha sık); sigara içmek ve fazla kilo tabloyu ağırlaştırır, aile öyküsü sıktır. Akne tedavisine dirençli tekrarlayan çıban öyküsü tanıyı genellikle yıllarca geciktirir"
+patofizyoloji: "Saç folikülünün tıkanması (foliküler oklüzyon) ile başlar: folikül patlayınca keratin ve bakteri dermise sızar, nötrofil-makrofaj ağırlıklı kronik inflamasyon derin nodül-abseleri, sinus traktları ve skarları üretir — apokrin bezler sebep değil, yerleşim ilişkisidir. Akne konglobata, skalp disektans hücreliti ve pilonidal sinüs ile birlikte foliküler oklüzyon dörtlüsünü oluşturur; sigara ve obezite alevlenmeyi besler, premenstrüel dönemde alevlenme klasiktir"
+anahtar_bulgular:
+  - "Yerleşim: koltuk altı, kasık-perine, gluteal kıvrım, meme altı, perianal — sürtünen ve terleyen katlar"
+  - "Tekrarlayan ağrılı derin nodüller ve abseler; süzülen kanlı-irinli akıntı; aynı bölgede kısa aralıklarla nüksler"
+  - "Çift ve üçlü komedonlar: lezyon bölgesinde bitişik duran komedonlar — tablo için çok karakteristik"
+  - "Sinus traktları ve birbirine köprü kuran hipertrofik skarlar; kronik akıntıyla giysi kirletme ve koku şikayeti"
+  - "Hurley evreleme: I tek-az sayıda nodül-abses (sinus yok), II tekrarlayıcı abselerle sinus trakt ve skarlar, III yaygın sinus trakt ağı ve sürekli akıntı"
+patognomonik: "Çift ve üçlü komedonlar (lezyon bölgesinde bitişik komedonlar)"
+ilk_tetkik: "Klinik muayene ve Hurley evreleme; akut absede irin kültürü (antibiyotik seçimi); sistemik bulgu veya tekrarlayıcılıkta CRP ve eritrosit sedimantasyonu; premenstrüel alevlenme öyküsünün sorgusu"
+kesin_tani: "Klinik üçlü: karakteristik yerleşim + tekrarlayan nodül-abseler + kronik seyir (en az altı ay süren ya da altı ay içinde iki kez nükseden); biyopsi yalnızca atipik görünümde (tek lezyon, alışılmadık yer, iyileşmeyen ülser) gerekir"
+ilk_tedavi: "Akut abse: insizyon-drenaj (rahatlatır ama tekrarı önlemez). Hurley I: topikal klindamisin, tek nodülde intralesiyonel steroid. Hurley II: oral tetrasiklin (doksisiklin) veya klindamisin + rifampin kombinasyonu. Hurley III ve dirençli olgularda anti-TNF (adalimumab); isotretinoinin HS deki etkisi akne kıyasla sınırlıdır. Kilo verme, sigara bırakma ve tıraş-giyim alışkanlıklarının düzenlenmesi tedavinin parçasıdır"
+klasik_komplikasyon: "Yıllar süren perianal-genital hastalıkta skuamöz hücreli karsinom (nadir ama klasik); kronik akıntıyla anemi, sosyal izolasyon ve depresyon"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

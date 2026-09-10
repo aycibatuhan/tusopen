@@ -1,0 +1,10 @@
+id: histo_uri_jga
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Jukstaglomerüler Aparatın Bileşenleri"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_uriner, histo_uri_jga]
+metin: "Jukstaglomerüler aparat, afferent arteriolün granüllü hücrelerinden renin salgısı, distal tübülün makula densa hücrelerinden sodyum-klor algılama ve ekstraglomerüler mezangial hücrelerinden iletişim olmak üzere üç bileşenden oluşur. Renin angiotensin kaskadını başlatarak kan basıncını düzenler."

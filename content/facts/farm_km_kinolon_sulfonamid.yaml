@@ -1,0 +1,10 @@
+id: farm_km_kinolon_sulfonamid
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kinolon ve Kotrimoksazol"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kemoterapotik, farm_km_kinolon_sulfonamid]
+metin: "Kinolonlar bakteriyel DNA girazını ve topoizomeraz IV enzimini bloke ederek bakterisid etki eder; genç yaşta kullanımı kıkırdak toksisitesi ve tendinit riskiyle sınırlanabilir. Trimetoprim ve sulfametoksazol folat sentezini ardışık adımlarda engeller; birleşik kullanımları sinerjik ve bakterisid etki sağlar."

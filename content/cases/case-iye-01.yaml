@@ -1,0 +1,49 @@
+id: case-iye-01
+version: 1
+status: draft
+author: "ai-drafts/cases-g"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: iye
+baslik: "Sık idrara çıkma ve idrarda yanma"
+adimlar:
+  - tip: sunum
+    metin: "26 yaşında kadın. İki gündür sık idrara çıkma, idrar yaparken yanma ve suprapubik bölgede ağrı tarif ediyor. İdrar bulanık ve kötü kokulu. Ateş, üşüme, titreme, bel ağrısı ve bulantı yok. Yeni bir cinsel partneri var; gebelik olasılığı nedeniyle gebelik testi isteniyor. Muayenede suprapubik hassasiyet var; kostovertebral açı hassasiyeti yok, genel durum iyi."
+  - tip: secim
+    soru: "Alt üriner semptomlar, sistemik bulgu ve kostovertebral açı hassasiyeti yok. Tablo ve ilk yaklaşım?"
+    secenekler:
+      - metin: "Komplikasyonsuz akut sistit; idrar analizi (lökosit esteraz, nitrit) ve idrar kültürü"
+        dogru: true
+        geri_bildirim: "Üst yol bulgusu olmadan dizüri + sıkışma + suprapubik ağrı komplikasyonsuz sistiti gösterir; tanı idrar tetkiki ve kültürle konur"
+      - metin: "Akut piyelonefrit olarak değerlendirilip IV antibiyotik başlanır"
+        dogru: false
+        geri_bildirim: "Piyelonefritte ateş, üşüme, flank ağrısı, bulantı-kusma ve CVA hassasiyeti beklenir; bu hastada üst yol tutulumu kanıtı yoktur"
+      - metin: "Üretrit olarak yalnızca cinsel yolla bulaşan enfeksiyon testlerinin sonucu beklenir"
+        dogru: false
+        geri_bildirim: "Üretrit ayrıcıdır ama sıkışma ve suprapubik ağrı birlikteliği sistiti düşündürür; değerlendirme idrar tetkikiyle birlikte yapılır, sadece beklemek uygun değildir"
+      - metin: "Tanı için ilk atakta USG istenir"
+        dogru: false
+        geri_bildirim: "Komplikasyonsuz ilk atakta görüntüleme rutin değildir; tekrarlayan atak, şiddetli ağrı veya komplike şüphede düşünülür"
+  - tip: sonuc
+    metin: "İdrar analizi: lökosit esteraz pozitif, nitrit pozitif, mikroskopide bol lökosit ve bakteri. İdrar kültüründe 100.000 koloninin üzerinde E. coli üremesi saptanır. Gebelik testi negatif."
+  - tip: secim
+    soru: "Komplikasyonsuz sistit saptandı, gebelik yok. Tedavi?"
+    secenekler:
+      - metin: "Kısa süreli oral antibiyotik; alt yolda etkili bir ajanla (nitrofurantoin gibi) beş günlük rejim"
+        dogru: true
+        geri_bildirim: "Komplikasyonsuz sistitte kısa rejimler yeterlidir; nitrofurantoin ve fosfomisin direnç profilinde uygun ilk seçeneklerdir"
+      - metin: "On dört gün kinolon verilir"
+        dogru: false
+        geri_bildirim: "Kinolonlar komplikasyonsuz sistitte ilk seçim değildir; direnç gelişimi ve gereksiz uzun süre sakıncalıdır, rezerv ajan olarak kullanılır"
+      - metin: "Yalnızca bol sıvı ve semptomatik tedavi önerilir"
+        dogru: false
+        geri_bildirim: "Sıvı desteği önerilir ama bakteriyüriyi temizlemez; antibiyotik gereklidir"
+      - metin: "IV antibiyotikle hastaneye yatırılır"
+        dogru: false
+        geri_bildirim: "Sistemik bulgu ve üst yol tutulumu olmadan yatış ve IV tedavi gereksizdir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: sıkışma + dizüri + suprapubik ağrı ve üst yol bulgularının yokluğu = komplikasyonsuz sistit; tanı idrar analizi (lökosit esteraz, nitrit) ve kültürle; tedavi kısa süreli oral antibiyotik; kinolonlar ilk seçim değil; ateş/flank ağrısı gelişirse piyelonefrit düşünülmelidir."
+sozlu_sorular:
+  - "Piyelonefrite gidiş belirtileri nelerdir?"
+  - "Tekrarlayan sistitte yaklaşım nasıl olmalıdır?"
+  - "Gebelikte asemptomatik bakteriyüri neden önemlidir?"

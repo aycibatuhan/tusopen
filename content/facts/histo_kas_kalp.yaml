@@ -1,0 +1,10 @@
+id: histo_kas_kalp
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kalp Kasının Ayırt Edici Özellikleri"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_kas, histo_kas_kalp]
+metin: "Kalp kası hücreleri tek çekirdekli, çizgili ve dallıdır; komşu hücreler interkalar disk adlı bağlantı yapılarıyla elektriksel olarak birbirine bağlanır. Hücrelerde mitokondri sayısı çok yüksekken mitotik kapasite yok denecek kadar azdır; infarkt sonrası hasar bölgesi bağ dokusuyla onarılır."

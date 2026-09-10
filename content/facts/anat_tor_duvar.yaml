@@ -1,0 +1,10 @@
+id: anat_tor_duvar
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnterkostal aralık"
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_duvar]
+metin: "İnterkostal aralıkta yapılar kaburga alt sınırındaki olukta üstten alta interkostal ven, arter ve sinir (VAN) düzeninde sıralanır; bu yüzden torasentez kaburganın üst kenarına yakın yapılır. Sessiz inspirasyon diyafram ve dış interkostal kaslarla sağlanır, sessiz ekspirasyon ise pasif olaydır. 11. ve 12. kaburgalar ön uçları bulunmayan yüzen kaburgalardır."

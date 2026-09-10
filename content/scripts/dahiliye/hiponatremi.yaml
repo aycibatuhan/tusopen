@@ -1,0 +1,56 @@
+id: hiponatremi
+version: 1
+status: draft
+author: ai-drafts/dahiliye
+sources:
+- 'Klinik rehberler: Avrupa Endokrinoloji Cemiyeti hiponatremi ve SIADH tanı-tedavi rehberi — referans
+  olarak listelendi, metin projesi özgün yazımdır'
+- Comprehensive Clinical Nephrology (Johnson ve ark.)
+ad: Hiponatremi
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_nefroloji
+  - dah_nef_hiponatremi
+tipik_hasta: Yaşlı, çok ilaç kullanan (özellikle tiyazid diüretik) veya beyin hastalığı, malignite, ağır
+  akciğer hastalığı olan hasta; halsizlik, bulantı, bilinç bulanıklığı veya nöbetle başvurur
+patofizyoloji: Serum sodyum 135 mEq/L'nin altına indiğinde plazma tonusu düşer ve su ozmotik gradyanla
+  hücrelere, en duyarlı organ olan beyne girer. Tedaviyi hücre dışı volüm tablosu (hipovolemik, euvolemik,
+  hipervolemik) belirler; sodyum çok hızlı düzeltilirse beyin hücreleri suyu hızla kaybeder ve miyelin
+  yıkımı başlar
+anahtar_bulgular:
+- Serum sodyum 135 mEq/L altı; gerçek hiponatremi için serum ozmolalitesi düşük (285 mOsm/kg altı)
+- 'İdrar ozmolalitesi 100 mOsm/kg altı: primer polidipsi; 100 üzeri: ADH etkisi sürüyor (SIADH veya volüm
+  bozuklukları)'
+- 'İdrar sodyumu 20 mEq/L altı: ekstrarenal kayıp ve düşük efektif volüm; SIADH''de 30 mEq/L üzeri ve
+  euvolemi'
+- Hipovolemikte taşikardi ve cilt turgor kaybı; hipervolemikte ödem ve siroz, kalp yetmezliği veya böbrek
+  hastalığı bulguları
+- 'SIADH koşulları: euvolemik tablo, tiroid ve adrenal fonksiyonların normal olması, diüretik kullanımının
+  olmaması'
+patognomonik: null
+ilk_tetkik: Serum elektrolitler, glukoz ve serum ozmolalitesi; ardından idrar ozmolalitesi ve idrar sodyumu;
+  volüm durumunun klinik değerlendirmesi (taşikardi, mukoza, ödem, ortostatik hipotansiyon)
+kesin_tani: 'Volüm kategorisinin saptanması: hipovolemik (kayıp), euvolemik (SIADH), hipervolemik (edematöz
+  hastalıklar). SIADH tanısı: hipotonik hiponatremi, euvolemi, idrar ozmolalitesi 100 üzeri, idrar sodyumu
+  30 üzeri, tiroid-adrenal-böbrek fonksiyonlarının normal olması ve diüretik yokluğu'
+ilk_tedavi: Semptomatik ağır hiponatremide (nöbet, derin bilinç bozukluğu) hipertonik %3'lük salin, boluslarla.
+  Asimptomatik hipovolemik tabloda izotonik salinle volüm açma. Euvolemik SIADH'de sıvı kısıtlaması; dirençli
+  olguda üre veya tolvaptan. Hipervolemik tabloda sıvı kısıtlaması ve diüretik. Düzeltme hızı ilk 24 saatte
+  8 mEq/L'yi aşmamalı
+klasik_komplikasyon: 'Hızlı düzeltme sonrası osmotik demiyelinizasyon sendromu (santral pontin miyelinoliz):
+  birkaç gün sonra disartri, disfaji ve kuadriparezi; tedavisiz ağır hiponatremide ise nöbet ve koma'
+tus_gecmisi:
+- tus-2014-sonbahar-ttbt-109
+- tus-2016-ilkbahar-ktbt-28
+- tus-2016-sonbahar-ktbt-66
+- tus-2017-sonbahar-ktbt-79
+- tus-2018-ilkbahar-ktbt-73
+- tus-2020-ilkbahar-ktbt-16
+- tus-2020-sonbahar-ttbt-120
+- tus-2021-ilkbahar-ktbt-74
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

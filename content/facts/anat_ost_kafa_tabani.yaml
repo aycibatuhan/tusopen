@@ -1,0 +1,10 @@
+id: anat_ost_kafa_tabani
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kafa tabanı foramenleri"
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_kafa_tabani]
+metin: "Foramen rotundumdan V2 (maksiller sinir), foramen ovaleden V3 (mandibular sinir), foramen spinosumdan ise orta meningeal arter geçer. Superior orbital fissureden III, IV, VI ve V1; optik kanaldan optik sinir ve oftalmik arter girer. Juguler foramen IX, X ve XI sinirleriyle sigmoit sinüsün açıldığı yerdir; hipoglossal kanaldan yalnızca XII. sinir çıkar."

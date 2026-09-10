@@ -1,0 +1,46 @@
+id: case-talasemi-01
+version: 1
+status: draft
+author: ai-drafts/cases-d
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: talasemi
+baslik: "Sürekli yorgun ve soluk olan genç"
+adimlar:
+  - tip: sunum
+    metin: "21 yaşında kadın, aylardır süren yorgunluk ve solukluk için başvuruyor. Son üç yılda birkaç kez demir hapı başlanmış, hiçbir kez anlamlı fayda olmamış. Annesi ve erkek kardeşi de soluk; kardeşin de küçük alyuvarlı anemisi olduğu söyleniyor. Hb 9.2 g/dL, MCV 63 fL, eritrosit sayısı 5.9 milyon, RDW normal, retikülosit hafif artmış. Ferritin 60 mikrogram/L, transferrin satürasyonu normal, CRP normal. Periferik yaymada hedef hücreler ve bazofilik beneklenme; hafif splenomegali."
+  - tip: secim
+    soru: "Mikrositer anemi, normal demir depoları ve hedef hücreler birlikte. Kesin tanıyı koyduran tetkik hangisidir?"
+    secenekler:
+      - metin: "Hemoglobin elektroforezi"
+        dogru: true
+        geri_bildirim: "Beta-talasemi minörde HbA2 artışı elektroforezle gösterilir; demirin normal olması, RDW'nin normal kalması ve hedef hücreler demir eksikliğine karşı talasemiyi işaret eder"
+      - metin: "Serum demir ve TIBC tekrarı"
+        dogru: false
+        geri_bildirim: "Değerler zaten normal; demir eksikliği düşüncesi tekrarlanır ama tanıyı ilerletmez"
+      - metin: "Oral demir deneme tedavisi"
+        dogru: false
+        geri_bildirim: "Talasemide demir depoları normal veya artmıştır; gereksiz demir işe yaramaz ve dokularda yük biriktirir"
+      - metin: "Kemik iliği biyopsisi"
+        dogru: false
+        geri_bildirim: "Talasemi tanısı yayma bulguları ve elektroforezle konur; biyopsi gereksiz ve invaziftir"
+  - tip: sonuc
+    metin: "Hemoglobin elektroforezi: HbA2 %6.4 (artmış), HbF %2.5 (hafif artmış). Beta-talasemi minör olarak değerlendirildi; aile taraması önerildi."
+  - tip: secim
+    soru: "Beta-talasemi minör tanılandı. Doğru yönetim hangisidir?"
+    secenekler:
+      - metin: "Demir tedavisi yapılmadan folik asit desteği ve genetik danışmanlık"
+        dogru: true
+        geri_bildirim: "Talasemi minörde demir depoları normaldir; demir verilmesi işe yaramaz, gereksiz yük yaratır. Folik asit eritropoezi destekler, aile taraması ve genetik danışmanlık planlanır"
+      - metin: "Hb 10'un altında olduğundan transfüzyona başlamak"
+        dogru: false
+        geri_bildirim: "Hafif anemi günlük yaşamı bozmuyorsa transfüzyon uygulanmaz; her transfüzyon allosensitizasyon ve demir yükü riski taşır"
+      - metin: "Splenektomi"
+        dogru: false
+        geri_bildirim: "Splenektomi orta ve ağır talasemi formlarında (intermedia/majör) aşırı hemoliz ve yüksek transfüzyon ihtiyacında düşünülür; minörde yeri yoktur"
+  - tip: ozet
+    metin: "Öğrenme noktaları: mikrositer anemide demir depoları normal, RDW normal ve hedef hücreler varsa talasemi düşünülür; MCV'nin eritrosit sayısına bölündüğü Mentzer indeksi 13'ün altındaysa talasemi lehinedir; beta-talasemi minör tanısı HbA2 artışıyla elektroforezde konur; demir tedavisi gereksizdir, folik asit ve genetik danışmanlık yeterlidir; demir eksikliğinden ayrımında RDW yüksekliği ve ferritin düşüklüğü demir eksikliğini işaret eder."
+sozlu_sorular:
+  - "RDW demir eksikliği ile talasemi ayrımında neden ayırt edicidir?"
+  - "Mentzer indeksi nasıl hesaplanır ve neyi gösterir?"
+  - "Talasemi minörde demir tedavisi neden gereksizdir?"

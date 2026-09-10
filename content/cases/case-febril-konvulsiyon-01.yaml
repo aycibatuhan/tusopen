@@ -1,0 +1,49 @@
+id: case-febril-konvulsiyon-01
+version: 1
+status: draft
+author: "ai-drafts/cases-g"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: febril_konvulsiyon
+baslik: "Ateşli çocuğun nöbet geçirmesi"
+adimlar:
+  - tip: sunum
+    metin: "18 aylık erkek çocuk. Bir gündür burun akıntısı ve ateşle evde takip ediliyordu; bu sabah 39 derece ateş sırasında jeneralize tonik-klonik hareketler başlamış, yaklaşık iki dakika sürmüş ve kendiliğinden sonlanmış. Nöbet sonrası çocuk kısa sürede tamamen kendine dönmüş. Muayenede ateş 38.9 derece, boğaz kızarık; meningeal irritasyon bulgusu yok, nörolojik muayene yaşına uygun ve tamamen normal. Daha önce nöbet öyküsü yok, gelişimsel öykü normal, aşıları tam."
+  - tip: secim
+    soru: "Ateşli çocukta iki dakikalık kendiliğinden sonlanan jeneralize nöbet ve tamamen normal muayene. Doğru değerlendirme yaklaşımı?"
+    secenekler:
+      - metin: "Klinik değerlendirme ve ateşin nedeninin araştırılması; muayene normal ve tablo tipikse lomber ponksiyon rutin değildir"
+        dogru: true
+        geri_bildirim: "6 ay-5 yaş arası, ateşle ilişkili, 15 dakikadan kısa, jeneralize ve tek ataklık nöbet basit febril konvulsiyondur; tanı klinik, menenjit şüphesi yokken lomber ponksiyon gerekmez"
+      - metin: "Tüm febril konvulsiyon hastalarında acil lomber ponksiyon yapılır"
+        dogru: false
+        geri_bildirim: "Lomber ponksiyon meningeal irritasyon bulgusu varsa, 12-18 ay altında şüpheli ya da eksik aşılı çocukta ve antibiyotik kullanımını gizleyen tablolarda düşünülür; bu çocukta endikasyon yok"
+      - metin: "Kraniyal görüntüleme (BT ya da MR) istenir"
+        dogru: false
+        geri_bildirim: "Görüntüleme fokal nöbet, fokal nörolojik defisit, kafa travması öyküsü veya artmış intrakraniyal basınç bulgusu olduğunda istenir; rutin değildir"
+      - metin: "Uzun süreli video-EEG kaydı planlanır"
+        dogru: false
+        geri_bildirim: "Febril konvulsiyonda EEG tanısal değer taşımaz; afebril nöbetlerin tekrarı ve epilepsi şüphesi olan olgularda istenir"
+  - tip: sonuc
+    metin: "Çocuk poliklinikte izlenirken akşam tekrar 39.2 dereceye çıkan ateşle yeni bir jeneralize nöbet geçirir; nöbet altı dakikayı aşmış ve hâlâ sürmektedir."
+  - tip: secim
+    soru: "Nöbet altı dakikayı aşmış ve sürüyor. İlk müdahale nedir?"
+    secenekler:
+      - metin: "IV ya da rektal benzodiazepin (diazepam/midazolam) verilir"
+        dogru: true
+        geri_bildirim: "Beş dakikayı aşan nöbet aktif tedavi gerektirir; ilk basamak ajan IV veya rektal benzodiazepindir, hava yolu ve dolaşım desteğiyle birlikte uygulanır"
+      - metin: "Fenitoin infüzyonu ilk adımda verilir"
+        dogru: false
+        geri_bildirim: "Fenitoin ikinci basamak ajandır; benzodiazepine yanıt vermeyen dirençli tabloda devreye girer"
+      - metin: "Sadece parasetamol verilip ateşin düşmesi beklenir"
+        dogru: false
+        geri_bildirim: "Antipiretik nöbeti kesmez; nöbet aktifken bekleme doğru değildir ve beş dakikayı geçen nöbet ilaç gerektirir"
+      - metin: "Hemen fenobarbital loading dozu verilir"
+        dogru: false
+        geri_bildirim: "Fenobarbital benzodiazepine yanıt vermeyen dirençli nöbette düşünülür; ilk müdahale değildir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: 6 ay-5 yaş + ateş + 15 dakikadan kısa jeneralize tek atak = basit febril konvulsiyon; tanı klinik, normal muayenede lomber ponksiyon rutin değil; EEG ve görüntüleme rutin değil; beş dakikayı aşan nöbet benzodiazepinle tedavi edilir; ateş düşürücü nöbeti engellemez."
+sozlu_sorular:
+  - "Basit ve kompleks febril konvulsiyon nasıl ayrılır?"
+  - "Febril konvulsiyon geçiren çocukta epilepsi riskini artıran faktörler nelerdir?"
+  - "Aileye eve dönüşte hangi talimatlar verilir?"

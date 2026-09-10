@@ -1,0 +1,49 @@
+id: case-sjs-01
+version: 1
+status: draft
+author: "ai-drafts/cases-c"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: stevens_johnson
+baslik: "İlaç sonrası ağızda yaralar ve döküntü"
+adimlar:
+  - tip: sunum
+    metin: "36 yaşında kadın. On gün önce başlayan epilepsi tedavisi için karbamazepin kullanmaya başlamış. Son iki gündür ateş, halsizlik, ağız içinde çok ağrılı yaralar (yemek ve konuşmakta güçlük), gözlerde yanma-kızarıklık ve kollar ile gövdede merkezleri koyu, hızla büyüyen lezyonlar var. Muayenede ağız mukozasında erozyon, konjonktivada kızarıklık, genital mukozada hafif erozyon; deride koyu renkli maküller ve üzerlerinde büller, hafif sürtünmede epiderm ayrılıyor (Nikolsky pozitif). Ateş 38.7 derece."
+  - tip: secim
+    soru: "İlaç başlangıcı sonrası ağrılı mukozal erozyonlar ve deri ayrışması gelişti. En olası tanı hangisidir?"
+    secenekler:
+      - metin: "Stevens-Johnson sendromu (toksik epidermal nekroliz spektrumu)"
+        dogru: true
+        geri_bildirim: "İlaç başlangıcından 1-3 hafta sonra ateş, en az iki mukozal bölgede ağrılı erozyon, deride ağrılı koyu lezyonlar ve pozitif Nikolsky bulgusu Stevens-Johnson sendromunu düşündürür; karbamazepin klasik sorumlu ilaçlardandır"
+      - metin: "Eritema multiforme majör"
+        dogru: false
+        geri_bildirim: "Eritema multiforme majörde mukozal tutulum daha hafif, sistemik bulgular sınırlıdır; önce ürtikeryal papül olarak başlayan tipik hedef lezyonlar görülür, buradaki deri ağrısı ve yaygın ayrışma onu dışlar"
+      - metin: "Akut ürtiker"
+        dogru: false
+        geri_bildirim: "Ürtiker kaşıntılı, geçici papül ve plaklardır; mukozal erozyon, bül ve Nikolsky pozitifliği görülmez"
+      - metin: "Kızıl ateş"
+        dogru: false
+        geri_bildirim: "Kızıl ateşte diffüz nokta nokta döküntü, ahududu dil ve perioral solukluk vardır; mukozal erozyon ve bül beklenmez"
+  - tip: sonuc
+    metin: "Lezyondan alınan deri biyopsisinde epidermada yaygın keratinosit nekrozu ve subepidermal ayrışma görülüyor. Vücut yüzeyinin yaklaşık %8'i ayrışmış durumda; ağız ve göz tutulumu ilerliyor."
+  - tip: secim
+    soru: "Tanı doğrulandı. İlk yönetim basamakları hangileridir?"
+    secenekler:
+      - metin: "Sorumlu ilacın derhal ve kalıcı kesilmesi, hastaneye yatış ile sıvı, beslenme, ağrı, sekonder enfeksiyon ve göz/mukozal bakım desteği"
+        dogru: true
+        geri_bildirim: "Sorumlu ilacı hemen kesmek mortaliteyi en çok azaltan adımdır; yatış (gerekirse yoğun bakım) sıvı-elektrolit dengesi, enfeksiyon önlemi ve mukozal-göz bakımı gerektirir"
+      - metin: "İlaç devam ettirilip antihistaminik ve topikal krema ile evde takip"
+        dogru: false
+        geri_bildirim: "Sorumlu ilacın devamı tabloyu toksik epidermal nekrolize ve sepsise taşır; ayaktan takip kabul edilemez"
+      - metin: "Sadece oral antibiyotik başlayıp ayaktan izlem"
+        dogru: false
+        geri_bildirim: "Antibiyotik rutin tedavi değildir; temel yaklaşım ilacın kesilmesi ve hastane desteğidir"
+      - metin: "Yakın zamanda ilacın desensitizasyonla yeniden denenmesi"
+        dogru: false
+        geri_bildirim: "Bu spektrumdaki hastalarda sorumlu ilaca ve çapraz reaksiyonlu ilaçlara ömür boyu kaçınma gerekir; yeniden maruziyet ölümcül olabilir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: ilaç başlangıcından 1-3 hafta sonra ateş + ağrılı çoklu mukozal erozyon + deride ağrılı koyu lezyonlar ve pozitif Nikolsky Stevens-Johnson sendromu/toksik epidermal nekroliz spektrumunu düşündürür; ilk ve en önemli adım sorumlu ilacı hemen kesmektir; yatış ile sıvı, beslenme, mukozal ve göz desteği planlanır; yüzeyin %10 altı SJS, %10-%30 arası SJS/TEN çakışması kabul edilir; hastaya ilaç kaçınma listesi verilir."
+sozlu_sorular:
+  - "Stevens-Johnson sendromu ile eritema multiforme majör nasıl ayrılır?"
+  - "SCORTEN hangi parametreleri kullanır?"
+  - "En sık sorumlu ilaçlar hangileridir ve hastaya taburculukta ne söylenmelidir?"

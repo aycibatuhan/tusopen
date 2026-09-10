@@ -1,0 +1,10 @@
+id: biyok_aam_hem_sentez
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hem Sentezinde İlk ve Son Basamaklar"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_hem_sentez]
+metin: "Hem sentezinin hız kısıtlayıcı adımı, mitokondriyel ALA sentazın glisin ile süksinil-KoA'yı birleştirdiği reaksiyondur ve kofaktörü piridoksal fosfattır. Zincir sitozolden porfobilinojen basamağına uğrar, mitokondriye geri döner ve protoporfirinin demirle birleşmesiyle hem tamamlanır. Akut aralıklı porfiride porfobilinojen deaminaz eksikliği karın ağrısı, nöropsikiyatrik bulgular ve idrarda porfobilinojen artışıyla seyreder; barbitüratlar sitokrom P450 sentezini uyararak krizi tetikler."

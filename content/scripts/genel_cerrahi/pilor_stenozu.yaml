@@ -1,0 +1,44 @@
+id: pilor_stenozu
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-3
+sources:
+- Ashcraft Pediatrik Cerrahi
+ad: Hipertrofik Pilor Stenozu
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_pediatrik_cerrahi
+  - gc_pc_pilor_stenozu
+tipik_hasta: 'Yaşamının 2-8. haftasındaki erkek bebek (erkek: kız oranı 4-5:1, ilk çocuklarda biraz daha
+  sık); emzirdikten sonra fışkırır tarzda kusan ama kustuğu halde yeniden acıkan, kilo alamayan bebek;
+  kusmukta safra yoktur'
+patofizyoloji: Pilor kaslarının hipertrofisi mide çıkışını mekanik olarak daraltır; mide içeriği safrasız
+  ve güçlü biçimde fışkırır. Her kusmukta hidroklorik asit ve potasyum kaybı olur; sonuç hipokloremik,
+  hipokalemik metabolik alkalozdur. Alkaloza yanıt olarak böbrekler bikarbonatı idrarla atar, potasyum
+  kaybı derinleşir ve idrar paradoks olarak asidik kalır; alkaloz düzelmeden anestezi verilirse postoperatif
+  solunum depresyonu (apne) riski artar
+anahtar_bulgular:
+- Emzirme sonrası fışkırır tarzda, safrasız kusma
+- Göbek üstü ve sağ üst kadranda ele gelen zeytin büyüklüğünde sert kitle (olive tümörü)
+- Karın duvarında dalgalar halinde görülen gastrik peristaltizm
+- Kan gazında hipokloremik, hipokalemik metabolik alkaloz
+- İştahlı bebek, kilo durması veya kaybı; nadiren sarılık
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Sağ üst kadranda palpe edilen zeytin benzeri sert kitle (olive tümörü)
+ilk_tetkik: 'Karın ultrasonografisi: pilor kas duvarı kalınlığı 4 mm üzerinde, pilor kanal uzunluğu 15
+  mm üzerinde tanıyı destekler'
+kesin_tani: Ultrason ölçütlerinin klinik tabloyla birleşmesi; palpe edilemeyen olguda üst gastrointestinal
+  kontrast çalışmada ince ve uzamış pilor kanalı (string sign) görülür
+ilk_tedavi: 'Ameliyat öncesi önce sıvı ve elektrolit düzeltmesi: intravenöz sıvı, potasyum verilmesi ve
+  alkalozun normalleşmesi beklenir (kusma dursa bile alkaloz düzelmeden cerrahi ertelenir); alkaloz düzelince
+  Ramstedt piloromiyotomi yapılır (pilor kası boyuna kesilir, mukoza korunur); postoperatif ilk günlerde
+  hafif kusma sürdüğü hatırlanır'
+klasik_komplikasyon: Tedavisiz ağır dehidratasyon ve hipokloremik-hipokalemik metabolik alkaloz; aspirasyon
+  pnömonisi; ameliyatta mukoza yırtılması (yama gerektirir)
+tus_gecmisi:
+- tus-2020-sonbahar-ktbt-102
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

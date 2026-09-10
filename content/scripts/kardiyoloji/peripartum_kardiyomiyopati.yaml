@@ -1,0 +1,24 @@
+id: peripartum_kardiyomiyopati
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-4"
+sources:
+  - "2023 ESC Kardiyomiyopatiler Tanı ve Tedavi Rehberi — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Peripartum Kardiyomiyopati
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kardiyomiyopati, kard_km_peripartum_toksik]
+tipik_hasta: "Önceden sağlıklı olan, ileri anne yaşı, çoğul gebelik, çok doğum sayısı, preeklampsi öyküsü veya hipertansiyon gibi risklerle gelen gebe-yeni doğum yapmış kadın; son gebelik ayı ile doğumdan sonraki ilk beş ay arasında efor dispnesi, ortopne, bacaklarda şişme ve çarpıntıyla başvurur"
+patofizyoloji: "Gebeliğin son ayında doğum sonrası ilk beş aya kadar süren pencerede ortaya çıkan, başka açıklaması bulunmayan yeni başlangıçlı sol ventrikül sistolik disfonksiyonu. Mekanizma kesin belli değildir; hiperprolaktinemi ve damar oluşumunu baskılayan küçük prolaktin parçası (16 kilodalton), iltihabi ve oksidatif stres yanıtlarının birlikte etkisi düşünülür. Gebelik ve doğumun getirdiği volüm yükü, zaten zayıflamış olan sol ventrikülün üzerine biner ve klinik kalp yetmezliği tablosunu açar"
+anahtar_bulgular:
+  - "Zamanlama penceresi: son gebelik ayı ile doğum sonrası ilk beş ay arasında başlayan, açıklanamayan kalp yetmezliği belirtileri"
+  - "Biyokimya ve görüntüde yeni sol ventrikül disfonksiyonu: EF yüzde 45'in altında; BNP kabartısı belirgin"
+  - "Kalp yetmezliği muayene profili: efor dispnesi, ortopne, paroksismal gece dispnesi, çırpıntılı nabız, periferik ödem, akciğerde ıslık"
+  - "Risk bileşenleri: ileri anne yaşı, çoğul gebelik, çok doğum sayısı, preeklampsi, hipertansiyon, Afrika kökenli etnik grup"
+  - "Başka kalp hastalığı bulunmaz: koroner, kapak ve diğer kardiyomiyopati nedenleri dışlanarak tanı konur"
+patognomonik: "Son gebelik ayından doğum sonrası ilk beş aya uzanan pencerede, başka nedeni olmayan yeni sol ventrikül disfonksiyonu"
+ilk_tetkik: "Transtorasik ekokardiyografi ve BNP ölçümü; EKG ile ritim ve volüm yükü belirtileri, direkt grafiyle konjesyon bakılır"
+kesin_tani: "Pencere içinde yeni başlangıçlı sol ventrikül disfonksiyonunun (EF yüzde 45'in altında) ekokardiyografiyle saptanması ve başka kalp yetmezliği nedenlerinin dışlanması; gerekirse kardiyak MR ile myokard dokusu ayrıntılanır"
+ilk_tedavi: "Kalp yetmezliği temel tedavisinin gebelik durumuna uyarlanması: gebelik sırasında ACE inhibitörü, anjiotensin reseptör blokeri ve aldosteron antagonisti kullanılmaz; bunların yerine hidralazin ve nitrat, semptomatik tabloda furosemid ve beta bloker güvenle kullanılır. Doğum sonrası dönemde standart dört temel tedaviye geçilir; ağır tablolarda bromokriptin ve antikoagülasyon düşünülür. Doğum zamanlaması kardiyoloji-obstetrik ortak kararında verilir"
+klasik_komplikasyon: "Ağır sol ventrikül yetmezliği, kardiyojenik şok, tromboembolik olaylar (genişleyen kalp içinde pıhtı riski), aritmi ve maternal mortalite; yaklaşık yarısı fonksiyonunu tam düzeltir; EF düzelmediyse sonraki gebeliklerde nüks riski taşınır ve yeni gebelik önerilmez"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

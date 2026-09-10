@@ -1,0 +1,49 @@
+id: case-romatizmal-ates-01
+version: 1
+status: draft
+author: "ai-drafts/cases-c"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: romatizmal_ates
+baslik: "Gezici eklem ağrısı olan çocuk"
+adimlar:
+  - tip: sunum
+    metin: "9 yaşında kız. Üç hafta önce boğaz ağrısı ve ateş geçirmiş, doktora gidilmemiş. Son on gündür önce dizlerde, sonra ayak bileklerinde, ardından bilekler ile dirseklerde sırayla şiddetli ağrı ve şişlik var; bir eklem düzelirken diğeri alevleniyor. Ateş 38.5 derece, halsizlik tanımlıyor. Muayenede dizler sıcak, şiş ve hareketle ağrılı; deri döküntüsü yok. ESR 92 mm/saat, CRP 6.8 mg/dL, beyaz küre 11.200/mm3."
+  - tip: secim
+    soru: "Boğaz enfeksiyonu öyküsü sonrası gezici poliartritli çocukta en olası tanı nedir?"
+    secenekler:
+      - metin: "Akut romatizmal ateş"
+        dogru: true
+        geri_bildirim: "Grup A streptokok üst solunum yolu enfeksiyonundan 2-3 hafta sonra gezici büyük eklem artriti, ateş ve akut faz reaktan artışı romatizmal ateşin klasik sunumudur"
+      - metin: "Gençlik idiyopatik artriti"
+        dogru: false
+        geri_bildirim: "Gençlik idiyopatik artritinde eklem bulguları kalıcıdır ve gezici seyir tipik değildir; streptokok enfeksiyonu öyküsü şart değildir"
+      - metin: "Septik artrit"
+        dogru: false
+        geri_bildirim: "Septik artrit tek eklemli ve genellikle ağır sistemik tabloludur; sırayla eklemden ekleme geçen seyir bunu dışlar"
+      - metin: "Henoch-Schönlein purpurası"
+        dogru: false
+        geri_bildirim: "Bu hastalıkta bacaklarda palpabl purpura, karın ağrısı ve böbrek tutulumu öndedir; tek başına gezici artrit tabloyu açıklamaz"
+  - tip: sonuc
+    metin: "Antistreptolizin O titresi 830 IU/mL (belirgin artmış). Boğaz kültüründe Grup A streptokok üremesi. Ekokardiyografide mitral kapakta yeni gelişen yetersizlik ve hafif perikardiyal sıvı görülüyor."
+  - tip: secim
+    soru: "Artrit ve kartit bulguları ile streptokok immün yanıtı doğrulandı. Tedavi planı hangisidir?"
+    secenekler:
+      - metin: "Benzatin penisilin ile streptokokun eradikasyonu, antiinflamatuar tedavi (aspirin/naproksen) ve uzun dönem sekonder profilaksi"
+        dogru: true
+        geri_bildirim: "Tedavinin üç bileşeni vardır: etkenin eradikasyonu, eklem ve kartit bulguları için antiinflamatuarlar ve yeni streptokok enfeksiyonlarını önlemek için uzun süreli sekonder profilaksi"
+      - metin: "Sadece ibuprofen ile semptomatik tedavi ve profilaksisiz taburculuk"
+        dogru: false
+        geri_bildirim: "Sekonder profilaksi yapılmazsa her yeni streptokok enfeksiyonu kartiti alevlendirir ve kalıcı kapak hastalığına yol açar"
+      - metin: "Uzun süreli intravenöz seftriakson tek başına"
+        dogru: false
+        geri_bildirim: "Etken eradikasyonunda standart ajan benzatin penisilindir; asıl sorun enfeksiyon değil immün yanıttır, tek ajan yeterli değildir"
+      - metin: "Yüksek doz steroid başlanması ve ekokardiyografik takip yapılmaması"
+        dogru: false
+        geri_bildirim: "Kartitli hastada ekokardiyografi takibi şarttır; steroid kararına kartitin şiddetine göre verilir ve profilaksiyle birlikte planlanır"
+  - tip: ozet
+    metin: "Öğrenme noktaları: boğaz enfeksiyonundan 2-3 hafta sonra gezici büyük eklem artriti + ateş + akut faz reaktan artışı romatizmal ateşi düşündürür; tanı Jones ölçütleriyle (artrit, kartit, kore, eritema marginatum, subkütan nodüller) konur; ASO ve boğaz kültürü streptokok bağlantısını gösterir; tedavide benzatin penisilin, antiinflamatuar ilaç ve uzun dönem sekonder profilaksi bir arada planlanır."
+sozlu_sorular:
+  - "Jones ana ölçütleri nelerdir ve geçmiş romatizmal ateşi olan hastada nasıl uygulanır?"
+  - "Sekonder profilaksi ne kadar süre sürdürülür?"
+  - "Romatizmal kalp hastalığı en sık hangi kapakta görülür ve neden?"

@@ -1,0 +1,25 @@
+id: vitiligo
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-2"
+sources:
+  - "EADV Vitiligo Tanı ve Tedavi Rehberi"
+  - "Andrews Hastalıkları Cildi Ders Kitabı"
+ad: Vitiligo
+taksonomi:
+  - [ktbt, dermatoloji, derm_pigmentasyon, derm_pg_vitiligo]
+tipik_hasta: "Genellikle 30 yaş altında başvuran, kendisinde veya ailesinde otoimmun hastalık öyküsü (tiroid otoimmuniteti en sık) olan kişi; travma ve sürtünme gören bölgelerde (parmak uçları, dirsek-diz ekstansör yüzler, ağız ve genital çevre) süt beyazı beyazlamalarla gelir; bazılarında tek sinir segmentiyle sınırlı, hızlı yayılan segmental tip görülür"
+patofizyoloji: "Deride melanositlerin kaybı. Yaygın (non-segmental) tipte melanositlere karşı T hücre aracılı otoimmün yıkım önde; segmental tipte sinir dağılımı boyunca melanosit kaybı. Sürtünme ve yara yerinde Koebner fenomeni yeni lezyon başlatır; melanosit yıkımıyla serbestleşen antijenler yanıtı daha da besler"
+anahtar_bulgular:
+  - "Süt beyazı, keskin kenarlı, tam depigmente maküller; kenarda hafif hiperpigmentasyon çizgisi olabilir"
+  - "Wood ışığı incelemesinde beyazlamanın belirginleşmesi (kayıp melanin yansıması)"
+  - "Lezyon bölgesindeki kılların beyazlaması (lökotrikiya)"
+  - "Sürtünme ve kesik yerlerinde yeni depigmente yamalar (Koebner)"
+  - "Otoimmün eşlik: Hashimoto tiroiditi en sık; ayrıca alopesi areata, pernisiyöz anemi, tip 1 diyabet"
+patognomonik: null
+ilk_tetkik: "Klinik inceleme ve Wood lamba; otoimmün eşliği taramak için TSH ve anti-tiroit antikorları"
+kesin_tani: "Klinik görünüm ve Wood ışığı bulguları; nadiren biyopside bazal tabakada melanosit ve melanin yokluğu gösterilir"
+ilk_tedavi: "Sınırlı ve stabil hastalıkta potent topikal kortikosteroid; yüzde ve ince deride topikal takrolimus (kalsinürin inhibitörü) tercih edilir; yaygın veya aktif hastalıkta dar bant UVB (NB-UVB) fototerapi; stabil ve dirençli lezyonlarda cerrahi (melanosit/keratinosit transplantasyonu), çok yaygın dirençli tabloda kimyasal depigmentasyon düşünülür"
+klasik_komplikasyon: "Psikososyal etki ve güneş yanığına eğilim; tiroid otoimmuniteti başta olmak üzere eşlik eden otoimmün hastalıkların gözden kaçması"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

@@ -1,0 +1,56 @@
+id: anafilaksi
+version: 1
+status: draft
+author: ai-drafts/dahiliye-2
+sources:
+- WAO Anafilaksi Rehberi ve EAACI Anafilaksi Kılavuzu — referans olarak listelendi, metin projesi özgün
+  yazımdır
+ad: Anafilaksi
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_alerji_immunoloji
+  - dah_alj_anafilaksi
+tipik_hasta: Arı/vespas sokması, beta laktam antibiyotik, NSAİİ ya da fıstık-deniz ürünü gibi gıdalar
+  sonrası dakikalar içinde döküntü, boğazda sıkışma, hırıltı ve tansiyon düşüklüğüyle gelen hasta; beta
+  bloker kullanan; egzersize bağlı ya da idiyopatik tablo da olabilir
+patofizyoloji: 'IgE aracılı mast hücre ve bazofil degranülasyonu; histamin, triptaz, lökotrien ve prostaglandin
+  salınımı vasküler geçirgenliği ve vazodilatasyonu artırır (plazma sıvı kaybıyla hipovolemi), bronkospazm
+  ve laringeal ödem yapar. Non-IgE (anafılaktoit) yollar da aynı tabloya katılabilir: radyokontrast madde,
+  egzersiz, doğrudan mast hücre uyarımı'
+anahtar_bulgular:
+- Maruziyetten dakikalar/saatler sonra ürtiker, anjiyoödem, yaygın kızarıklık
+- 'Solunum: stridor (laringeal ödem), hırıltı (bronkospazm), nefes darlığı'
+- 'Dolaşım: hipotansiyon, taşikardi, senkop'
+- İki veya daha fazla sistemin birlikte tutulumu (cilt + solunum + dolaşım + gastrointestinal)
+- 'Gastrointestinal: bulantı, kusma, karında kramp, ishal'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Maruz kalma sonrası dakikalar içinde cilt, solunum ve dolaşım tutulumunun birlikte çıkması
+ilk_tetkik: Klinik tanı, tedavi asla tetkik bekletmez; imkân varsa serum triptaz (belirtilerin başlangıcından
+  30 dakika-3 saat arası alınır, 1-2 saatte pike ulaşır)
+kesin_tani: 'Klinik kriterler: ani başlangıçta cilt/mukoza bulgusu eşliğinde iki sistem tutulumu; ya da
+  bilinen alerjen maruziyeti sonrası hipotansiyon ya da solunum yetmezliği. Triptaz yükselmesi destekler
+  ama beklenmez'
+ilk_tedavi: Epinefrin 0,3-0,5 mg (1:1000 sulandırma) kas içi, anterolateral uyluğa HEMEN; 5-15 dakikada
+  düzelmezse tekrar; hasta sırtüstü, bacaklar yukarı (solunum sıkıntısı ağır olan oturur; aniden dikleştirmek
+  kalp doluşunu bozup ölümcül olur); kristaloid sıvı resusitasyonu; ikinci sırada antihistaminik ve steroid
+  (gidişi değiştirmez, yalnızca rahatlatır); dirençli tabloda epinefrin infüzyonu (yoğun bakımda), beta
+  bloker kullanan hastada glukagon; taburculukta epinefrin otoinjektör reçetesi ve alerjenden kaçınma
+  eğitimi
+klasik_komplikasyon: Bifazik reaksiyon (ilk 1-72 saat içinde tablonun geri dönmesi, bu nedenle en az 4-6
+  saat gözlem); kalıcı hipotansiyon ve beyin hipoksisi; laringeal ödemle hava yolu tıkanması; ölüm
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-63
+- tus-2015-sonbahar-ktbt-23
+- tus-2017-ilkbahar-ktbt-23
+- tus-2018-sonbahar-ktbt-23
+- tus-2018-sonbahar-ktbt-8
+- tus-2019-sonbahar-ktbt-23
+- tus-2020-ilkbahar-ktbt-23
+- tus-2020-sonbahar-ktbt-54
+- tus-2021-ilkbahar-ktbt-58
+- tus-2021-sonbahar-ktbt-60
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

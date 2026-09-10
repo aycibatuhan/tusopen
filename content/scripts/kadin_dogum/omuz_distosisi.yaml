@@ -1,0 +1,23 @@
+id: omuz_distosisi
+version: 1
+status: draft
+author: "ai-drafts/kadin_dogum-4"
+sources:
+  - "Rehberler: ACOG omuz distosisi danışma kurulu bildirisi, ALSO/AAFP obstetrik aciller modülü — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Omuz Distosisi
+taksonomi:
+  - [ktbt, kadin_dogum, kd_dogum, kd_dog_omuz_distosisi]
+tipik_hasta: "Diyabetik anneden makrozomik fetus doğururken uzamış ikinci dönem geçiren ve vakum veya forseps aracılığıyla doğum yapan gebelik; önceki gebelikte aynı zorluğun yaşanmış olması yüksek risk grubudur"
+patofizyoloji: "Fetal biakromial çapın pelvisin giriş ve çıkış çaplarından geniş kalmasıdır; anterior omuz maternal pubik semfizin arkasına, posterior omuz sakral kaviteye takılır. Diyabetik gebelikte omuz ve gövde, başa oranla aşırı büyüdüğünden baş-omuz uyumsuzluğu, tahmini fetal ağırlıkla öngörülemeyebilir; bu yüzden öngörülemeyen bir acil olarak kalır"
+anahtar_bulgular:
+  - "Kaplumbağa işareti: baş doğar doğmaz pubik kemik altında geriye çekilir, yüz pubise yapışık kalır"
+  - "Baş doğduktan sonra standart çekişle gövdenin çıkışının gecikmesi (kafa-gövde doğum aralığının uzaması)"
+  - "Risk tablosu: uzamış ikinci dönem, vakum/forseps ile doğum, gestasyonel diyabet, makrozomi, önceki omuz distosisi öyküsü"
+  - "Geri çekilen başın hafif çekişlerle de ilerlememesi; artan çekişle gövdenin yine çıkmaması"
+patognomonik: "Kaplumbağa işareti (turtle sign)"
+ilk_tetkik: "Tanı klinik ve anlıktır; saniye kaydı tutulur, hemen yardım çağrılır, yenidoğan ekibi ve anestezi hazırlanır. Bebeğin başına aşağı yönlü çekiş yapılmaz; bu, brakial pleksus yaralanmasının en sık iatrojenik nedenidir"
+kesin_tani: "Baş doğmuşken elastik çekişe yanıt vermeyen gövde; anterior omuzun pubik arkaya takıldığının klinik doğrulanması"
+ilk_tedavi: "HELPERR kanvası sırayla uygulanır: yardım çağır; epiyotominin gerekip gerekmediğini değerlendir; bacakları katla (McRoberts: anneyi kalçalarından gövdeye doğru aşırı fleksiyona getir); üst pubik bileşke yönüne sürekli bası uygula (fundal bası asla yapılmaz); iç manevrayla omuzu döndür (Wood vida dönüşü veya Rubin manevrası); posterior kolu çıkarmayı dene; anne dört ayak (Gaskin) pozisyonuna alınsın. Bunlar başarısız olursa son seçenek Zavanelli manevrasıdır: fetal baş doğum kanalına geri itilerek acil sezaryene geçilir"
+klasik_komplikasyon: "Brakial pleksus yaralanması (özellikle Erb palsisi), klavikula ve humerus kırıkları, neonatal hipoksi; anneye geniş perineal yırtıklar, postpartum kanama, uterine rüptür veya pubik kemik ayrılması"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

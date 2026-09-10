@@ -1,0 +1,43 @@
+id: amibiyazis
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-4
+sources:
+- Pan American Health Organization (PAHO/WHO) Amibiyazis Tanı ve Tedavi Rehberi
+ad: Amibiyazis (Entamoeba histolytica)
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_gis
+  - enf_gis_paraziter_ishal
+tipik_hasta: Kontamine su-gıda teması ya da endemik bölge seyahati öyküsü olan hasta; haftalarca süren
+  kanlı-mukuslu ishalle gelen yetişkin veya sağ üst kadran ağrısıyla gelen, çoğunlukla genç erkek karaciğer
+  apsesi hastası
+patofizyoloji: Yutulan kistler ince bağırsakta trofozoite dönüşür; trofozoitler kolon mukozasına yapışıp
+  dokuyu eriterek ülser açar. Ülser dar ağızlı, geniş tabanlı ve flask biçimlidir. Trofozoitler portal
+  dolaşımla karaciğere taşınır; oradaki eriyik apse dışa doğru genişler ve nadiren periton, akciğer veya
+  perikarda rüptüre olur
+anahtar_bulgular:
+- Kanlı ve mukuslu, günde çok sayıda, az miktarda ishal; tenesmus (dizenterik tablo)
+- Dışkıda eritrosit yutan trofozoitlerin saptanması
+- Sağ üst kadranda ağrı, hafif ateş, kilo kaybıyla gelişen karaciğer apsesi; belirtilerle apse arasında
+  haftalar geçebilir
+- Kolonoskopide dağınık, flask şekilli ülserler
+- Apsenin diyafram altına, peritona, akciğere veya perikarda rüptürüyle ani kötüleşme
+patognomonik: Dışkıda eritrosit içine almış trofozoitin görülmesi (yalnız Entamoeba histolytica için geçerlidir)
+ilk_tetkik: Dışkı mikroskopisi, dışkı antijen testi veya PCR; karaciğer apsesi şüphesinde karın USG (çoğunlukla
+  tek, sağ lobda apse)
+kesin_tani: Dışkı antijeni/PCR ile E. histolytica doğrulaması (E. dispar zararsızdır, ayrım moleküler
+  testle yapılır); apsenin bulaşık kahverengi, hamsi ezmesi görünümündeki içeriği klinik olarak destekler
+ilk_tedavi: Metronidazol veya tinidazol (invaziv hastalık) sonrasında paromomisin gibi luminal ajanla
+  kist temizliği; apse çoğunlukla ilaçla geriler, rüptür riski varsa drenaj düşünülür
+klasik_komplikasyon: Amebik karaciğer apsesi; apsenin periton, akciğer veya perikarda rüptürü
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-4
+- tus-2018-ilkbahar-ktbt-2
+- tus-2019-sonbahar-ttbt-113
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

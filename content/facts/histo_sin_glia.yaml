@@ -1,0 +1,10 @@
+id: histo_sin_glia
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Oligodendrosit ile Schwann Hücresi Farkı"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_sinir, histo_sin_glia]
+metin: "Oligodendrositler merkezi sinir sisteminde miyelin kılıfını oluşturur ve tek bir hücre birden çok aksonun segmentlerini sarabilir. Schwann hücreleri ise periferik sinir sisteminde miyelinleşmeyi üstlenir ve her hücre yalnızca tek bir aksonun tek segmentini sarar."

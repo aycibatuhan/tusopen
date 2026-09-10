@@ -1,0 +1,10 @@
+id: fiz_kv_hemodinami
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Poiseuille Yasası ve Direnç"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_hemodinami]
+metin: "Damar yatağındaki akım, basınç farkının vasküler dirence bölümüdür; laminer akımda direnç damar yarıçapının dördüncü kuvvetiyle ters orantılıdır ve kan viskozitesi, örneğin hematokrit, yükseldikçe direnç artar. Toplam periferik direncin en büyük payı arteriyol düzeyindedir."

@@ -1,0 +1,16 @@
+id: dah_toks_antidot_tablo
+version: 1
+status: draft
+author: ai-drafts/toksikoloji-antidot
+sources:
+- Amerikan Klinik Toksikoloji Koleji (ACMT) antidot kartları — referans olarak listelendi, metin özgün
+  yazımdır
+- StatPearls Toksikoloji bölümü; Ulusal Zehir Danışma Merkezi (UZEM 114) antidot listeleri
+ad: Klasik Antidot Eşleştirmeleri
+taksonomi:
+- [ttbt, farmakoloji, farm_toksikoloji, farm_tok_antidotlar]
+metin: "Klasik antidot eşleştirmeleri şöyledir: parasetamol için N-asetilsistein, opioidler için nalokson, karbon monoksitte %100 oksijen ve seçili olguda hiperbarik oksijen, organofosfat ve karbamatlar için atropin artı pralidoksim, metanol ve etilen glikol için fomepizol, digoksin için Fab antikor fragmentleri, demir için defiroksamin, trisiklik antidepresanlar için sodyum bikarbonat ve metemoglobinemi için metilen mavisi. Beta bloker zehirlenmesinde glukagon, kalsiyum kanal blokerlerinde kalsiyum glukonat artı yüksek doz insülin-glukoz tedavisi, izoniazid nöbetlerinde piridoksin ve kurşun zehirlenmesinde süksimer diğer temel eşleştirmelerdir. Simpatomimetik toksidromda ilk seçenek benzodiyazepinlerdir. Benzodiyazepin antidotu flumazenil ise uzun süreli kullanıcıda nöbeti ve trisiklik antidepresanla birlikte alımda ölümcül aritmiyi kolaylaştırabildiği için rutin koma tedavisinde kullanılmaz. Sınavda ve pratikte kural şudur: antidot penceresi organ yetmezliğinden önce kapanır, bu yüzden parasetamol gibi gecikmeli tabloda spesifik tedavi belirtiler başlamadan başlanır."
+tus_gecmisi:
+- tus-2016-sonbahar-ttbt-99
+- tus-2020-ilkbahar-ttbt-118
+- tus-2021-sonbahar-ttbt-118

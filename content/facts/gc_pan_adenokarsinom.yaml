@@ -1,0 +1,10 @@
+id: gc_pan_adenokarsinom
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pankreas Adenokarsinomu"
+taksonomi:
+  - [ktbt, genel_cerrahi, gc_pankreas, gc_pan_adenokarsinom]
+metin: "Pankreas adenokarsinomunun %85-90'ı duktal hücre kökenlidir ve %60-70 oranında baş bölgesinde yerleşir: baş tümörlerinde erken dönemde ağrısız obstrüktif sarılık ve Courvoisier işareti (palpe edilebilir, ağrısız genişlemiş safra kesesi) görülürken, gövde-kuyruk tümörleri ancak ağrı, kilo kaybı ve metastatik hastalıkla geç tanınır. Klasik tablo epigastrik ağrının sırta yayılması (öne eğilince hafifler, gece artar), belirgin kilo kaybı, iştahsızlık, 60 yaş üstünde yeni başlayan diyabet, depresyon, migratör tromboflebit (Trousseau sendromu) ve pankreatik pannikülitten (pannikulitis) oluşur; palpe edilebilir kitle genellikle inoperabilite işaretidir. Risk faktörleri sigara (en güçlü değiştirilebilir faktör), kronik pankreatit (özellikle herediter), obezite, diyabet, ileri yaş, aile öyküsü, BRCA2/PALB2 mutasyonları ve Peutz-Jeghers sendromudur (en yüksek kalıtsal risk); IPMN ve müköz kistik neoplaziler gibi kistik lezyonlardan da gelişebilir. Tanı: çok fazlı pankreas protokolü kontrastlı BT ilk seçimdir (rezekabilite ve damar invazyonu değerlendirmesi), EUS-FNA küçük lezyonlarda sitolojik doğrulama sağlar; CA 19-9 tanıda bağımsız kullanılmaz ama evreleme, tedavi yanıtının ve nüksün izleminde yararlıdır (Lewis antijeni eksik olan bireylerde yükselmez). Tedavi: rezekebilir baş tümöründe pankreatikoduodenektomi (Whipple ameliyatı), gövde-kuyrukta distal pancreatektomi + splenektomi; sınırda (borderline) ve lokal ileri hastalıkta neoadjuvan FOLFIRINOX veya gemsitabin + nab-paklitaksel, adjuvan kemoterapide FOLFIRINOX öncelikli; palliatifte biliyer dekompresyon (ERCP stent ya da hepaticojejunostomi), duodenal obstrüksiyonda gastrojejunostomi ve çölyak pleksus bloğu ile ağrı kontrolü uygulanır. Prognoz kötüdür: genel 5 yıllık sağkalım %8-10 civarında, radikal cerrahi geçenlerde %20-25, metastatik hastada median yaşam süresi yaklaşık 6 aydır."

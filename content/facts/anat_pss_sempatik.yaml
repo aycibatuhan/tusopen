@@ -1,0 +1,10 @@
+id: anat_pss_sempatik
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sempatik sistem"
+taksonomi:
+  - [ttbt, anatomi, anat_periferik_otonom, anat_pss_sempatik]
+metin: "Sempatik çıkışlar torakolumbal düzeydedir (T1-L2); preganglionik lifler kısadır ve ganglionlarda nikotinik reseptörlere asetilkolin salgılar, postganglionik lifler uzundur ve noradrenalin bırakır. İstisnalar şunlardır: adrenal medulla doğrudan preganglionik liflerle innerve edilir ve kan dolaşımına epinefrin-norepinefrin salgılar; ter bezlerinin postganglionik innervasyonu kolinergiktir. Sempatik zincir ganglionları omurganın iki yanında paralel sıralar oluşturur."

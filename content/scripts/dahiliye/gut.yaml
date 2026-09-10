@@ -1,0 +1,52 @@
+id: gut
+version: 1
+status: draft
+author: ai-drafts/dahiliye-2
+sources:
+- ACR Gut Tanı ve Tedavi Rehberi (2020) — referans olarak listelendi, metin projesi özgün yazımdır
+ad: Gut
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_romatoloji
+  - dah_rom_gut
+tipik_hasta: Kırklı yaş üstü, kilolu erkek; alkol (özellikle bira), sakatat ve deniz ürünleri tüketen;
+  diüretik kullanan; gece yarısı ani başlayan, battaniye dokunuşuna dahi dayanılmaz 1. metatarsofalangeal
+  eklem ağrısıyla gelen; tekrarlayan ataklarla tofus gelişen
+patofizyoloji: Ürik asidin aşırı üretimi ya da böbrek atılımındaki yetersizlik kan düzeyini yükseltir;
+  monosodyat ürat kristalleri eklem ve yumuşak dokuda çöker. Kristaller NLRP3 inflamazomunu uyarır, IL-1
+  beta salınımı ağır nötrofil iltihabını başlatır. Kronik hastada ürat birikimi tofus yapar; idrarda kristalizasyon
+  böbrek taşına ve interstisyel nefrite yol açar
+anahtar_bulgular:
+- Gece başlayıp 12-24 saat içinde pike çıkan, 1. metatarsofalangeal eklemde aşırı duyarlı, kızarık, sıcak
+  atak (podagra); günler içinde kendiliğinden düzelme
+- 'Risk faktörleri: erkek cinsiyet, obezite, alkol (bira), pürin zengin diyet, tiyazid/loop diüretik,
+  kronik böbrek yetmezliği'
+- 'Tofuslar: kulak kıkırdak kenarı, olekranon, Akiles; kronik tofülöz gutta deformiteler'
+- Serum ürik asit yüksekliği (akut atak sırasında normal kalabilir, tek başına tanıya yetmez)
+- Eklem ultrasonunda çift kontur işareti; çift enerjili BT'de ürat birikimi
+patognomonik: Sinovyal sıvıda polarize ışık altında negatif çift kırılma gösteren iğne biçimli monosodyat
+  ürat kristalleri
+ilk_tetkik: Tipik podagra atakta klinik tanı yeterli; şüphede sinovyal sıvı analizi (kristal arama, hücre
+  sayısı), serum ürik asit (atak bittikten sonra bakılır), eklem ultrasonu, böbrek fonksiyonu
+kesin_tani: Sinovyal sıvıda polarize ışıkta iğne biçimli, negatif çift kırılmalı monosodyat ürat kristalleri;
+  klasik tabloda klinik tanı yeterli
+ilk_tedavi: 'Akut atak: ilk 24 saatte başlanan tam doz NSAİİ; kolşisin (atağın ilk 24-36 saatinde en etkili,
+  doz sınırlayıcı yan etki ishal); tek eklem tutulumunda intraartiküler ya da kısa süreli steroid. Kronik
+  hiperürisemi: allopurinol düşük dozdan başlanıp serum ürik asidi 6 mg/dl değerinin altına inene kadar
+  artırılır; akut atak sırasında düşük dozda başlanabilir (ACR 2020 koşullu önerisi); zaten kullanan hastada kesilmez;
+  başlangıçta 3-6 ay kolşisin profilaksisi verilir'
+klasik_komplikasyon: Kronik tofülöz gutta eklem yıkımı ve deformite; ürik asit taşları ve ürat nefropatisiyle
+  kronik böbrek yetmezliği; tofusların ülserasyonu ve ikincil enfeksiyonu
+tus_gecmisi:
+- tus-2014-ilkbahar-ttbt-118
+- tus-2015-ilkbahar-ktbt-24
+- tus-2015-ilkbahar-ttbt-107
+- tus-2018-sonbahar-ttbt-114
+- tus-2020-sonbahar-ttbt-100
+- tus-2021-sonbahar-ttbt-89
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

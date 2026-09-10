@@ -1,0 +1,53 @@
+id: anat_noro_beyin_damarlari
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Beyin damarları ve Willis poligonu
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_noroanatomi
+  - anat_noro_beyin_damarlari
+metin: Anterior serebral arter medyan yüzeyi ve bacak alanını, orta serebral arter lateral yüzeyi ile
+  kol-yüz alanını, posterior serebral arter oksipital (görme) alanı besler. Orta serebral arterin başlangıç
+  segmentinden çıkan lentikulostriat dallar internal kapsül ve bazal ganglionları besler; bu dallarda
+  tıkanıklık laküner infarkt yapar. Berry (sakküler) anevrizmaların en sık yeri anterior communicating
+  arter birleşimleridir.
+gorsel:
+  dosya: Circle_of_Willis_en.svg
+  kaynak: https://commons.wikimedia.org/wiki/File:Circle_of_Willis_en.svg
+  lisans: Public domain (PD-self)
+  yazar: Rhcastilhos (based on Gray519.png); improved by Jmarchn
+  etiketler:
+  - ad: A. communicans anterior
+    x: 40
+    y: 2
+    w: 19
+    h: 5
+  - ad: A. cerebri anterior
+    x: 60
+    y: 7
+    w: 15
+    h: 7
+  - ad: A. cerebri media
+    x: 3
+    y: 9
+    w: 14
+    h: 7
+  - ad: A. carotis interna
+    x: 4
+    y: 30
+    w: 13
+    h: 8
+  - ad: A. cerebri posterior
+    x: 3
+    y: 39
+    w: 16
+    h: 8
+  - ad: A. basilaris
+    x: 59
+    y: 57
+    w: 12
+    h: 6

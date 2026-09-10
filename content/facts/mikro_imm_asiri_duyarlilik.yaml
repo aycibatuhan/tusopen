@@ -1,0 +1,10 @@
+id: mikro_imm_asiri_duyarlilik
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aşırı duyarlılık reaksiyon tipleri"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_asiri_duyarlilik]
+metin: "Tip I aşırı duyarlılık IgE aracılı anafilaksidir ve dakikalar içinde ortaya çıkar. Tip II antikora bağlı sitotoksik reaksiyondur (örneğin hemolitik transfüzyon), Tip III immün kompleks birikimine bağlıdır (Arthus reaksiyonu, serum hastalığı), Tip IV ise gecikmeli ve T hücresi aracılıdır (tüberkülin deri testi, temas dermatiti)."

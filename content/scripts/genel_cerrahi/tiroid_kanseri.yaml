@@ -1,0 +1,66 @@
+id: tiroid_kanseri
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-3
+sources:
+- ATA diferansiye tiroid kanseri ve nodül kılavuzu
+- Schwartz Genel Cerrahinin İlkeleri
+ad: Tiroid Kanserleri
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_bas_boyun_tiroid
+  - gc_tir_kanser
+tipik_hasta: Genç ve orta yaşlı kadın; boyunda ağrısız, sert, yutkunmayla az hareket eden nodül ya da
+  aynı tarafta ele gelen lenf beziyle başvurur; ses kısıklığı, yutma güçlüğü ve hızlı büyüme şüpheyi artırır;
+  çocuklukta boyun radyasyonu ve aile öyküsü riski yükseltir
+patofizyoloji: 'Tiroid kanserlerinin büyük çoğunluğu foliküler hücre kökenlidir. Papiller karsinom en
+  sık alt tip: yavaş büyür, lenf yoluyla boyun lenf bezlerine yayılır ama prognozu mükemmeldir; evrelemede
+  yaş belirleyicidir (55 yaş altındaki hastalar lenf metastazı olsa da erken evrededir). Foliküler karsinom
+  kapsül ve damar invazyonu yapar, kan yoluyla kemik ve akciğere gider. Medüller karsinom parafoliküler
+  C hücrelerinden çıkar, kalsitonin salgılar, RET mutasyonu ve MEN 2 sendromlarıyla bağlantılıdır. Anaplastik
+  karsinom yaşlı hastada hızla komşu yapıları işgal eden, en ölümcül tiptir'
+anahtar_bulgular:
+- Sert, sabit, ağrısız tiroid nodülü
+- Aynı tarafta servikal lenf bezi (papiller karsinomda sık ilk bulgu)
+- 'USG: hipoekoik, düzensiz kenarlı, mikrokalsifikasyonlu, boyu genişlikten büyük nodül'
+- TSH normalken sintigrafide soğuk nodül
+- Ses kısıklığı (rekürren laringeal sinir), trakea kayması, hızlı büyüme
+patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Papiller karsinomun patolojik görünümü: Orphan Annie göz çekirdekleri, nükleer oluklar
+  ve psammozis cisimcikleri'
+ilk_tetkik: TSH ölçümü ve boyun ultrasonografisi; şüpheli ultrason görünümünde ultrason eşliğinde ince
+  iğne aspirasyon biyopsisi; medüller şüphesinde serum kalsitonin
+kesin_tani: İnce iğne aspirasyon biyopsisi (Bethesda sınıflaması) ve cerrahi sonrası histopatoloji; eşlik
+  eden lenf metastazı şüphesinde ultrason eşliğinde biyopsi
+ilk_tedavi: Total tiroidektomi (küçük, tek odaklı, lenf yayılımı olmayan papillerde lobektomi yeterli
+  olabilir); diferansiye tiplerde gerektiğinde radyoaktif iyot ablasyonu, ardından levotiroksinle TSH
+  baskılanması; izlemde baskılanmış serum tiroglobulin ve boyun ultrasonografisi kullanılır (tiroglobulin
+  artışı nüks veya kalıntı dokuyu gösterir); medüllerde total tiroidektomi artı santral boyun disseksiyonu,
+  izlemde serum kalsitonin
+klasik_komplikasyon: Papillerde boyun lenf metastazı (prognozu az bozar), folikülerde kemik ve akciğer
+  metastazı; anaplastikte trakea ve damar invazyonuyla kısa sürede ölüm
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-94
+- tus-2014-ilkbahar-ktbt-105
+- tus-2014-sonbahar-ktbt-90
+- tus-2014-sonbahar-ttbt-94
+- tus-2015-ilkbahar-ttbt-93
+- tus-2015-sonbahar-ktbt-18
+- tus-2016-ilkbahar-ktbt-42
+- tus-2016-ilkbahar-ktbt-85
+- tus-2016-ilkbahar-ttbt-94
+- tus-2016-sonbahar-ttbt-85
+- tus-2017-ilkbahar-ktbt-87
+- tus-2017-sonbahar-ktbt-16
+- tus-2017-sonbahar-ttbt-86
+- tus-2019-ilkbahar-ktbt-95
+- tus-2020-ilkbahar-ktbt-83
+- tus-2020-ilkbahar-ttbt-87
+- tus-2020-sonbahar-ktbt-41
+- tus-2020-sonbahar-ktbt-83
+- tus-2023-sonbahar-ktbt-71
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

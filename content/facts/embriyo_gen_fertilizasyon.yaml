@@ -1,0 +1,10 @@
+id: embriyo_gen_fertilizasyon
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fertilizasyonun Yeri ve Zamanı"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, embriyo_genel, embriyo_gen_fertilizasyon]
+metin: "Fertilizasyon genellikle tuba uterina'nın ampulla bölümünde, ovulasyondan sonraki ilk 24 saat içinde gerçekleşir. Sperm akrozom reaksiyonuyla zona pellusidayı eriterek yumurtaya gider; sperm girişini izleyen zona reaksiyonu başka spermin içeri girmesini engeller."

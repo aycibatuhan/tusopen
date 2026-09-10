@@ -1,0 +1,26 @@
+id: konversiyon
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-3"
+sources:
+  - "DSM-5-TR — Somatik Belirtiler ve İlişkili Bozukluklar (Fonksiyonel Nörolojik Semptom Bozukluğu) tanı ölçütleri (referans olarak listelendi, metin projesi özgün yazımdır)"
+  - "Klinik rehberler: fonksiyonel nörolojik semptom bozukluğu tanı ve tedavi önerileri (referans olarak listelendi, metin projesi özgün yazımdır)"
+ad: Konversiyon Bozukluğu
+taksonomi:
+  - [ktbt, psikiyatri, psik_somatik_dissosiyatif, psik_sd_konversiyon]
+tipik_hasta: "Genç-orta yaşlarda (en sık 20-40), kadınlarda öne çıkan, nörolojik yakınma (güçsüzlük, felç, konuşma bozukluğu, kasılma-tremor, yürüme bozukluğu, his kaybı ya da 'nöbet') ile acile ya da nöroloji polikliniğine başvuran hasta; anamnezde yakınmanın başlamasından hemen önce psikolojik açıdan yükleyici bir olay (kavga, kayıp, ihanet, duygusal çatışma) sıklıkla bulunur, ancak hasta olay ile beden yakınması arasında bağ kurmaz. Tetkiklerin tekrar tekrar normal çıkıp yakınmanın sürmesi, önceki benzer atak öyküsü ve etrafında benzer tabloyu yaşayan biri olması bu hastayı hatırlatır"
+patofizyoloji: "Yapısal lezyon yok; işlev bozukluğu vardır. Korku-sıkıntı devreleri ile istemli motor düzenleme ağları arasındaki bağın bozulması, dikkatin hareket kontrolünden belirtiye kilitlenmesi ve beden algısı-öngörücü işlemleme modelindeki çarpıklık öne çıkan açıklamalardır. Bilinçli taklit değildir: bilinçli hasta rolü oynamak (sahte bozukluk) ve dış kazanç için uydurma (malingering) ile ayrılır; hasta belirtiyi gerçekten yaşar. Tersine 'bilinçdışı kazanç arayışı' biçimindeki psikanalitik açıklama günümüzde tek başına yeterli görülmez; depresyon-kaygı eşlik eder, travma öyküsü sıkıdır"
+anahtar_bulgular:
+  - "İstemli motor ya da duyu işlevinde bozulma: güçsüzlük-felç, hareket bozukluğu (tremor, distoni, yürüyüş bozukluğu), konuşma bozukluğu, his kaybı, görme-işitme kaybı ya da fonksiyonel nöbet"
+  - "Nörolojik anatomiyle uyuşmayan dağılım: dermatom ve adale düzenine uymayan his kaybı, vücudu tam ortadan ikiye bölen hemianestezi, periyodik kasılmaların anlık değişkenliği"
+  - "Tutarsız (inkonsistent) bulgular: muayene tekniğine göre değişen güç kaybı; hastayı şaşırtarak ya da dikkatini dağıtarak geçici düzelme — Hoover belirtisi bu gruba girer"
+  - "Fonksiyonel (psikojen) nöbet ayrımı: atağın dakikalarca sürmesi ve şiddetinin salınımlı değişimi, atak sırasında gözlerin kapalı olması ve açmaya direnç, yana sallanma-pelvis itme hareketleri, sonrasında yönelimin büyük ölçüde korunması; video-EEG'de atak sırasında ictal paternin yokluğu"
+  - "Laboratuvar ve görüntüleme normal; ancak 'her şeyin normal çıkması' tek başına tanı koymaz — tanı, pozitif fonksiyonel bulgularla desteklenmelidir"
+  - "La belle indifference (sakin-kayıtsız tutum) eskiden vurgulanırdı ama özgül bulgu sayılmaz; çoğu hastada yoktur"
+patognomonik: "Hoover belirtisi: fonksiyonel hemiparezi — kontralateral kalçaya karşı fleksiyon gücü istendiğinde 'güçsüz' kalçada ekstansör gücün geri gelmesi"
+ilk_tetkik: "Pozitif fonksiyonel bulguların (Hoover, tutarsız motor-sensör bulgular) araştırıldığı ayrıntılı nörolojik muayene; fonksiyonel nöbet şüphesinde video-EEG ile atak yakalanması (altın standart); yapısal lezyonu dışlamak için gerektiğinde MR ve elektrofizyoloji istenir; amaç 'her şeyin normal olması'nı kanıtlamak değil, klinik tabloyla uyumlu pozitif bulgu elde etmek ve gereksiz tetkik döngüsünü kesmektir"
+kesin_tani: "DSM-5-TR ölçütleri: en az bir istemli motor ya da duyu işlevinde değişiklik; klinik bulguların, belirti ile bilinen nörolojik ya da tıbbi bir durum arasındaki uyumsuzluğun kanıtını sağlaması; belirtinin başka bir ruhsal ya da tıbbi bozuklukla daha iyi açıklanamaması; sıkıntı ya da işlev kaybına yol açması. Dikkat: psikolojik bir stresörün varlığı artık zorunlu ölçüt değildir; DSM-5-TR'de adı fonksiyonel nörolojik semptom bozukluğudur"
+ilk_tedavi: "İlk adım iyileştirici iletişim ve psikoeğitimdir: belirtinin gerçek olduğu ve hastanın denetimi dışında geliştiği, yapısal hasar bulunmadığı ve iyileşmenin mümkün olduğu net biçimde, hastanın kabul edebileceği dilde ('işlev kaybı', 'haberleşme hatları çalışmıyor') anlatılır. Belirte uygun fizyoterapi ve motor yeniden öğrenme (fonksiyonel hareket bozukluklarında özel teknikler) merkeze alınır; eşlik eden depresyon-kaygı için SSRI, dirençli olgularda bilişsel davranışçı terapi düşünülür. Fonksiyonel nöbette antiepileptik ilaçlar yarar sağlamaz ve kesilir; gereksiz yatış-invasiv işlemden kaçınılır, izlem değişken seyri belirler"
+klasik_komplikasyon: "Kronikleşme ve kalıcı işlev kaybı; gereksiz tetkik-invasiv işlem ve ilaçlarla (sık MR, gereksiz antiepileptik) iatrojenik zarar; ağrı-depresyon eşlik tablolarıyla tekrarlayan yatışlar ve işe gidememe döngüsü"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

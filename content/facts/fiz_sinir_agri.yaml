@@ -1,0 +1,10 @@
+id: fiz_sinir_agri
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ağrı Lifleri ve İletimi"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_agri]
+metin: "Keskin, iyi lokalize ilk ağrı miyelinli A-delta lifleriyle hızla iletilir; onu izleyen künt, yanıcı ağrı miyelinsiz ince C lifleriyle yavaş iletilir. Ağrı yollarının birinci nöronlarının gövdeleri spinal ganglionda yer alır ve merkezi uzantıları arka boynuzda ikinci nöronla sinaps yapar."

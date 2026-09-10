@@ -1,0 +1,58 @@
+id: hiperparatiroidi
+version: 1
+status: draft
+author: ai-drafts/dahiliye-4
+sources:
+- Endocrine Society primer hiperparatiroidi değerlendirme, takip ve cerrahi endikasyon rehberi (4. baskı)
+  — referans adı olarak listelendi, metin projesi özgün yazımdır
+ad: Primer Hiperparatiroidi
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_endokrinoloji
+  - dah_end_hiperparatiroidi
+tipik_hasta: Ellili yaşlarında kadın; en sık karşılama biçimi belirtisiz hastada rutin biyokimya taramasında
+  tesadüfen saptanan kalsiyum yüksekliğidir; belirti gelişirse taş (böbrek taşı), kemik (ağrı, kırık),
+  abdominal (ülser, pankreatit) ve ruhsal (yorgunluk, depresyon, karışıklık) yakınmalar dörtlüsüyle anımsatılır
+patofizyoloji: Parathormon salınımının kalsiyum geri beslemesinden bağımsızlaşması; en sık neden tek paratiroid
+  adenomu (yüzde 85), ikinci sıra dört bezin hiperplazisidir (yüzde 15), karsinom nadirdir. Yükselen PTH
+  kemikte rezorpsiyonu hızlandırır, böbrekte kalsiyum geri emilimini artırır ve fosfor atılımını çoğaltır,
+  D vitaminini aktive eder; sonuç kalsiyum yüksekliğiyle birlikte fosfor düşüklüğüdür
+anahtar_bulgular:
+- Serum kalsiyumu yüksekken PTH'nin baskılanmak yerine yüksek veya üst-normal saptanması (sekonder hiperkalsemi
+  nedenlerinde PTH baskılanır)
+- Serum fosfor düşük; kemik dönüşümü hızlanmışsa alkalin fosfataz yüksek; 24 saatlik idrar kalsiyumu artmış
+  (kalsiyum-kreatinin klirens oranının yüzde birin altına inmesi ailesel hipokalsiürik hiperkalsemiyi düşündürür)
+- Nefrolitiazis, nefrokalsinozis, poliüri ve polidipsi
+- 'Kemik bulguları: subperiostal rezorpsiyon (falanksın radial kenarı), osteitis fibrosa cystica, kemik
+  ağrısı ve osteoporoz'
+- 'Hiperkalsemi tablosu: iştahsızlık, kabızlık, depresif duygudurum, peptik ülser, pankreatit; EKG''de
+  QT kısalığı'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kalsiyum yüksek saptandığında PTH'nin de yüksek veya üst-normal çıkması
+ilk_tetkik: Toplam ve iyonize kalsiyum ile intakt PTH'nin aynı kanda ölçülmesi; fosfor, D vitamini deposu,
+  kreatinin ve 24 saatlik idrar kalsiyumu; aile öyküsü ve klirens oranıyla ailesel hipokalsiürik hiperkalsemi
+  ayrımı
+kesin_tani: 'Biyokimyasal tablo: yükselmiş kalsiyum, uygunsuz (yüksek veya üst-normal) PTH, düşük fosfor;
+  cerrahi öncesi adenom yerleşimi için teknesyum sestamibi sintigrafisi ve boyun ultrasonografisi; kesin
+  histolojik tanı cerrahi materyalde konur'
+ilk_tedavi: 'Belirti veya cerrahi endikasyon varsa paratiroidektomi (adenomda tek bez, hiperplazide dört
+  bezin düzenlenmesi); endikasyonlar: semptomatik tablo, kalsiyumun üst sınırı 1 mg/dL''den fazla aşması, kreatinin
+  klirensinde düşme, kemik dansitesinde T skorunun eksi 2,5 altında kalması veya vertebra fraktürü, elli
+  yaşın altındaki hastalar ve tekrarlayan taş öyküsü; endikasyonu olmayan asimptomatik hastada biyokimya
+  ve kemik dansitesi takibi yeterlidir. Hiperkalsemik krizde ilk adım yoğun sıvı replasmanı, ardından
+  bisfosfonat veya kalsitonin; dirençli olguda sinakalsit düşünülür'
+klasik_komplikasyon: Tekrarlayan böbrek taşları ve böbrek işlev kaybı; osteitis fibrosa cystica ve patolojik
+  kırıklar; ağır tablo hiperkalsemik krizdir
+tus_gecmisi:
+- tus-2015-sonbahar-ttbt-94
+- tus-2016-ilkbahar-ktbt-86
+- tus-2016-sonbahar-ktbt-87
+- tus-2018-sonbahar-ktbt-82
+- tus-2020-sonbahar-ktbt-84
+- tus-2021-ilkbahar-ktbt-42
+- tus-2021-ilkbahar-ttbt-89
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

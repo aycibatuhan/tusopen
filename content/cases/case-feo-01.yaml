@@ -1,0 +1,49 @@
+id: case-feo-01
+version: 1
+status: draft
+author: "ai-drafts/cases-b"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: feokromositoma
+baslik: "Ataklarla gelen hipertansiyon, baş ağrısı ve terleme tanımlayan genç kadın"
+adimlar:
+  - tip: sunum
+    metin: "34 yaşında kadın. Son üç ayda günde birkaç kez, on beş-yirmi dakika süren kendiliğinden geçen ataklar: bastıran baş ağrısı, çarpıntı, tüm bedeni ıslatan terleme ve içinden çıkamama kaygısı. Bir atak sırasında ölçülen tansiyon 200/115 mmHg; ataklar arasında 126/78 mmHg. Düzenli ilaç kullanmıyor. Atak dışı muayenesi normal, kalp hızı 88/dk."
+  - tip: secim
+    soru: "Paroksismal hipertansiyon ve klasik üçlü (baş ağrısı, terleme, çarpıntı) bir arada. Tanısal araştırmaya hangi tetkikle başlanır?"
+    secenekler:
+      - metin: "Plazma serbest metanefrin ölçümü"
+        dogru: true
+        geri_bildirim: "En duyarlı ilk basamak testtir; metanefrin artışı adrenal medülla veya ekstraadrenal doku kaynaklı katekolamin salgılayan tümörü işaret eder"
+      - metin: "24 saatlik idrar serbest kortizolü"
+        dogru: false
+        geri_bildirim: "Kortizol araştırması Cushing şüphesi içindir; bu hastada ay yüzü, bufalo kamburu gibi bulgular yok ve ataklarla geçen hipertansiyon tablosuyla uyuşmaz"
+      - metin: "Bilgisayarlı adrenal tomografi istemek"
+        dogru: false
+        geri_bildirim: "Biyokimyasal kanıt olmadan görüntüleme insidentaloma tuzağına düşürür; önce metanefrinler, sonra görüntüleme sırası doğrudur"
+      - metin: "Taşikardi için beta bloker başlatıp yanıtı izlemek"
+        dogru: false
+        geri_bildirim: "Alfa aracılı vazokonstriksiyon bloklanmadan beta bloker başlanması hipertansif atakları ağırlaştırabilir; tedavi tanıdan sonra planlanır"
+  - tip: sonuc
+    metin: "Plazma serbest metanefrinleri belirgin yüksek (normetanefrin öne çıkıyor). Bilgisayarlı batın tomografisinde sağ adrenalde 3.6 cm, yumuşak doku yoğunluğunda kitle. Kalsiyum düzeyi normal; ailede tiroid kanseri veya benzer atak öyküsü yok."
+  - tip: secim
+    soru: "Katekolamin salgılayan adrenal kitle doğrulandı ve cerrahi planlandı. Preoperatif tıbbi hazırlık nasıl yapılmalıdır?"
+    secenekler:
+      - metin: "Alfa reseptör blokeri başlatmak, yeterli blokaj sağlandıktan sonra gerekirse beta bloker eklemek"
+        dogru: true
+        geri_bildirim: "Cerrahi öncesi alfa blokaj temel hazırlıktır; vazokonstriksiyon baskılanmadan eklenen beta blokaj atakları şiddetlendirebilir, bu yüzden sıra önemlidir"
+      - metin: "İlk adım olarak nonselektif beta bloker başlatmak"
+        dogru: false
+        geri_bildirim: "Alfa uyarım açıkken beta blokaj, vazokonstriksiyonu baskılanmamış bırakarak hipertansif krize yol açabilir"
+      - metin: "Yalnızca kalsiyum kanal blokeri ile ameliyat gününe kadar beklemek"
+        dogru: false
+        geri_bildirim: "Kalsiyum kanal blokeri ikinci sıra seçenektir; standart ve temel hazırlık alfa blokajdır"
+      - metin: "Hazırlıksız operasyona girmek, kriz çıkarsa ameliyathanede müdahale etmek"
+        dogru: false
+        geri_bildirim: "Hazırlıksız cerrahide ölümcül hipertansif kriz, aritmi ve hemodinamik çökme riski yüksektir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: paroksismal hipertansiyon + baş ağrısı + terleme + çarpıntı üçlüsü feokromositomayı çağırır; ilk tetkik plazma serbest metanefrinleridir, görüntüleme biyokimyasal doğrulamadan sonra gelir; cerrahi öncesi önce alfa blokaj, sonra gerekirse beta blokaj yapılır; beta bloker tek başına verilmez; aile öyküsü veya genç yaşta bilateral tümör varsa MEN sendromları, von Hippel Lindau ve nörofibromatozis akılda tutulur."
+sozlu_sorular:
+  - "Beta bloker neden önce alfa blokajı olmadan başlanamaz?"
+  - "Metanefrin ölçümünü yanlış yükselten ilaçlar ve durumlar nelerdir?"
+  - "Feokromositoma hangi kalıtsal sendromlarla birlikte görülebilir?"

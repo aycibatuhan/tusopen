@@ -1,0 +1,46 @@
+id: case-boerhaave-01
+version: 1
+status: draft
+author: ai-drafts/cases-d
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: ozofagus_perforasyonu
+baslik: "Kusma sonrası şiddetli göğüs ağrısı ve boyunda şişlik"
+adimlar:
+  - tip: sunum
+    metin: "52 yaşında erkek. Bol bir yemekten sonra ısrarla kustu; kusmanın hemen ardından göğsün alt bölümünde yakan tarzda çok şiddetli ağrı başladı, sırt ve boyna yayılıyor. Yutarken ağrı artıyor. Muayenede ateş 38.2, nabız 112/dk, boyunda ve göğüs üst bölgesinde deri altında haşır haşır krepitasyon, sol göğüs alt bölgede solunum seslerinin azalması var. Göğüs grafisi: sol plevral efüzyon ve mediasten çevresinde hava görünümü."
+  - tip: secim
+    soru: "Kusma sonrası göğüs ağrısı, boyunda deri altı krepitasyon ve mediastende hava ile düşünülen tabloda kesin tanı için hangi tetkik yapılır?"
+    secenekler:
+      - metin: "Suda eriyen kontrast maddesiyle özofagrafi (yutma filmi)"
+        dogru: true
+        geri_bildirim: "Özofagus perforasyonu (Boerhaave sendromu) tanısında suda eriyen kontrastlı yutma filmi kontrast kaçışını gösterir; baryum mediastende ve plevrada şiddetli iltihap yapacağından kaçınılır"
+      - metin: "Baryumlu yutma filmi"
+        dogru: false
+        geri_bildirim: "Baryum mediasten ve plevra boşluğunda granülomatöz iltihap oluşturur; ilk sırada suda eriyen kontrast kullanılır"
+      - metin: "Gastroskopi"
+        dogru: false
+        geri_bildirim: "Endoskopide hava enflasyonu perforasyonu büyütebilir; perforasyon şüphesi güçlüyken rutin endoskopi yapılmaz, cerrahi planlamada seçilmiş vakalarda dikkatli düşünülür"
+      - metin: "EKG ve troponin"
+        dogru: false
+        geri_bildirim: "Kalp kaynaklı göğüs ağrısını dışlamak için yararlıdır ama boyundaki krepitasyon ve mediastende hava kalp kaynaklı tabloyla açıklanamaz"
+  - tip: sonuc
+    metin: "Suda eriyen kontrastlı yutma filminde alt özofagustan mediastene kontrast sızıntısı görüldü. Tam kalınlıkta perforasyon ve erken mediastinit düşünüldü; hastanın başvurusundan yaklaşık 10 saat geçti."
+  - tip: secim
+    soru: "Tam kalınlıkta özofagus perforasyonu saptandı, 10 saatlik geç öykü var. Tedavi yaklaşımı hangisidir?"
+    secenekler:
+      - metin: "Erken cerrahi tamir ve mediasten ile plevra boşluğunun drenajı"
+        dogru: true
+        geri_bildirim: "Tam kalınlıkta perforasyonda, özellikle ilk 24 saat içinde, cerrahi tamir ve geniş drenaj mortaliteyi en çok azaltır; gecikme mediastinit ve sepsisle ölüme götürür"
+      - metin: "Ağızdan beslenmeyi kesip antibiyotikle korumacı izlem"
+        dogru: false
+        geri_bildirim: "Korumacı yaklaşım küçük, sınırlı, kapsül içine kapanmış ve klinik olarak stabil kaçaklarda uygulanır; burada tam kalınlıkta kaçak ve mediastinit başlangıcı var"
+      - metin: "Özofagus stenti yerleştirmek"
+        dogru: false
+        geri_bildirim: "Stent cerrahi riskin yüksek olduğu seçilmiş veya palliatif vakalarda düşünülür; erken dönemde tamirin mümkün olduğu hastada ilk basamak değildir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: kusma + göğüs alt bölümünde yakan ağrı + boyunda krepitasyon = Boerhaave sendromu (spontan özofagus perforasyonu); boyundaki krepitasyon deri altı amfizemi, mediastinal çıtırtı (Hamman belirtisi) ile uyumludur; ilk tanısal test suda eriyen kontrastlı özofagramdır; baryum ve rutin endoskopi risklidir; ilk 24 saatte cerrahi tamir ve drenaj en iyi sonucu sağlar; Mallory-Weiss yırtığı mukozadır, perforasyon yapmaz ve genellikle kendini sınırlar."
+sozlu_sorular:
+  - "Boerhaave sendromu ile Mallory-Weiss yırtığı nasıl ayrılır?"
+  - "Perforasyon şüphesinde endoskopi neden dikkatli yaklaşım gerektirir?"
+  - "Korumacı tedavi hangi hastalarda uygundur?"

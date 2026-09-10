@@ -1,0 +1,10 @@
+id: ped_met_yag_asidi
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yağ Asidi Oksidasyon Bozuklukları"
+taksonomi:
+  - [ktbt, pediatri, ped_metabolik, ped_met_yag_asidi_oksidasyon]
+metin: "Yağ asidi oksidasyon bozuklukları uzun süreli açlıkta karaciğerde keton sentezi yapılamadığı için hipoketotik hipoglisemi yapar; daha önce normal gelişen bebek ateşli hastalık veya uzamış gecelik açlık sırasında kusma, letarji, nöbet ve komayla başvurur. En sık tip MCAD (orta zincirli asil-CoA dehidrogenaz) eksikliğidir; tanınmayan olgularda ani bebek ölümü riski artar, tedavide uzun süreli açlık yasaktır ve hastalık sırasında IV dekstroz ile mısır nişastası desteği verilir. Sekonder karnitin eksikliği gelişir; plazma asilkarnitin profili (tandem kütle spektrometrisi) ve idrarda dikarboksilik asitüri tanıyı destekler. LCHAD/TFP eksikliğinde retinopati ve periferik nöropati eklenir; HELLP sendromu veya akut yağlı karaciğer öyküsü geçiren annelerin bebeklerinde yağ asidi oksidasyon defekti araştırılmalıdır. KPT-I eksikliğinde hipoketotik hipoglisemi ve hepatomegali öne çıkar (kalp etkilenmez); kardiyomiyopati ağır yenidoğan KPT-II eksikliğinde, erişkin KPT-II eksikliğinde ise egzersize bağlı rabdomiyoliz görülür."

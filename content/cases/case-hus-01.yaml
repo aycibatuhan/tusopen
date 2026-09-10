@@ -1,0 +1,49 @@
+id: case-hus-01
+version: 1
+status: draft
+author: ai-drafts/cases-a
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: hemolitik_uremik_sendrom
+baslik: "Kanlı ishal sonrası soluk ve ödemli çocuk"
+adimlar:
+  - tip: sunum
+    metin: "4 yaşında kız çocuk. Altı gün önce sulu, kanlı ishal ve karın krampları; ishal üç günde azaldı. Dün idrarın azaldığı fark edildi; bugün yüzde ve ayak sırtlarında şişlik, halsizlik ve çabuk yorulma. Muayenede solgun, tansiyon 118/74 mmHg ve yaşına göre yüksek; yüzde peteşi, alt ekstremitede ödem; akciğer dinlemesi doğal, karın yumuşak. Laboratuvar: hemoglobin 7.4 g/dL, trombosit 42 bin, lökosit 14 bin; retikülosit hafif yüksek, haptoglobin düşük, LDH yüksek, doğrudan Coombs negatif, yaymada şistozit; üre 128 mg/dL, kreatinin 2.3 mg/dL, potasyum 5.2 mmol/L; idrar mikroskopisinde eritrosit ve hafif protein."
+  - tip: secim
+    soru: "Kanlı ishal sonrası oligüri, ödem, Coombs negatif hemoliz ve trombositopeni. En olası tanı hangisidir?"
+    secenekler:
+      - metin: "Tipik, Shiga toksinli hemolitik üremik sendrom"
+        dogru: true
+        geri_bildirim: "Kanlı ishalden sonra Coombs negatif mikroanjiopatik hemoliz, trombositopeni ve akut böbrek hasarı üçlüsü çocukta tipik hemolitik üremik sendromu işaret eder."
+      - metin: "İdiyopatik trombositopenik purpura"
+        dogru: false
+        geri_bildirim: "İdiyopatik trombositopenide hemoliz ve böbrek hasarı olmaz; trombositopeni tek başına bu tabloyu açıklamaz."
+      - metin: "Trombotik trombositopenik purpura"
+        dogru: false
+        geri_bildirim: "Yetişkinlerde daha sık görülür ve nörolojik bulgular önde gider; çocukta kanlı ishal öyküsü tipik sendromu işaret eder."
+      - metin: "Postenfeksiyöz glomerülonefrit"
+        dogru: false
+        geri_bildirim: "Onda boğaz veya deri enfeksiyonundan bir-üç hafta sonra kanlı idrar önde gelir; hemoliz ve trombositopeni beklenmez."
+  - tip: sonuc
+    metin: "Dışkı kültüründe enterohemorajik Escherichia coli saptanır. Tanı tipik hemolitik üremik sendrom olarak konur; hastane yatışı ile sıvı, elektrolit ve tansiyon yönetimi planlanır."
+  - tip: secim
+    soru: "Tedavi yaklaşımı hangisidir?"
+    secenekler:
+      - metin: "Destekleyici tedavi: dikkatli sıvı ve elektrolit yönetimi, tansiyon kontrolü; gerektiğinde kan desteği ve diyaliz"
+        dogru: true
+        geri_bildirim: "Temel tedavi destekleyicidir; oligüri, hipervolemi ve elektrolit bozukluklarında diyaliz gerekebilir; çocukların çoğu bir-iki haftada düzelir."
+      - metin: "Geniş spektrumlu antibiyotiğin hemen başlanması"
+        dogru: false
+        geri_bildirim: "Antibiyotik bağırsak florasını bozup toksin salımını artırabilir; bu sendromda rutin verilmez."
+      - metin: "Loperamid ile ishalin durdurulması"
+        dogru: false
+        geri_bildirim: "Bağırsak hareketlerinin yavaşlatılması toksinin temas süresini uzatır; hareket kısıtlayıcı ilaçlardan kaçınılır."
+      - metin: "Rutin trombosit transfüzyonu"
+        dogru: false
+        geri_bildirim: "Tehdit edici kanama yoksa trombosit transfüzyonu uygulanmaz; pıhtıya eğilimi artırabilir."
+  - tip: ozet
+    metin: "Öğrenme noktaları: çocukta kanlı ishalden sonra oligüri, ödem, solgunluk ve peteşiler tipik hemolitik üremik sendromu düşündürür; üçlü Coombs negatif mikroanjiopatik hemoliz, trombositopeni ve akut böbrek hasarıdır; en sık etken Shiga toksin üreten Escherichia coli'dir; antibiyotik ve hareket kısıtlayıcı ilaç verilmez; tedavi destekleyicidir, diyaliz gerektiğinde uygulanır."
+sozlu_sorular:
+  - "Antibiyotik bu tabloyu neden kötüleştirebilir?"
+  - "Trombotik trombositopenik purpura ile tipik sendromu nasıl ayırırsın?"
+  - "Diyaliz kararını hangi bulgular gerektirir?"

@@ -1,0 +1,49 @@
+id: case-pe-01
+version: 1
+status: draft
+author: "ai-drafts/cases-c"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: pulmoner_emboli
+baslik: "Uzun yolculuk sonrası ani dispne"
+adimlar:
+  - tip: sunum
+    metin: "48 yaşında kadın. İki gün önce dokuz saatlik otobüs yolculuğu yapmış. Bugün otururken ani başlayan nefes darlığı ve sağ tarafta nefesle artan göğüs ağrısı oldu. Nabız 118/dk, solunum sayısı 26/dk, tansiyon 115/70 mmHg, oksijen satürasyonu oda havasında %89. Sağ baldırda şişlik ve hassasiyet var, çapı sol bacağa göre belirgin artmış. Akciğer dinleme bulgusu sınırlı, kalp ritmi hızlı ama düzenli."
+  - tip: secim
+    soru: "Uzun yolculuk sonrası ani dispne ve tek taraflı bacak şişliği olan hastada tanısal strateji hangisidir?"
+    secenekler:
+      - metin: "Wells skoru ile klinik olasılığın değerlendirilmesi ve yüksek olasılık nedeniyle doğrudan CT pulmoner anjiyografi"
+        dogru: true
+        geri_bildirim: "Klinik öngörü skoru yüksek olan hastada D-dimer beklenmez; kesin görüntüleme CT pulmoner anjiyografidir. D-dimer yalnızca düşük olasılıklı hastada dışlama amaçlı kullanılır"
+      - metin: "Her hastada önce D-dimer bakılıp pozitifse CT yapılması"
+        dogru: false
+        geri_bildirim: "Yüksek klinik olasılıkta D-dimer pozitifliği zaten beklenir ve dışlayıcı değeri yoktur; düşük olasılık grubundaki negatifliği dışlama için kullanılır, burada gecikme yaptırır"
+      - metin: "Sadece EKG ve troponin bakılıp taburculuk"
+        dogru: false
+        geri_bildirim: "EKG ve troponin ayırıcı tanıya katkı sağlar ama pulmoner emboliyi dışlamaz; riskli hastada görüntüleme şarttır"
+      - metin: "Bacak direkt grafi ile değerlendirilmesi"
+        dogru: false
+        geri_bildirim: "Direkt grafiler derin ven trombozunu güvenilir göstermez; tanıyı kesinleştirmeden sadece geciktirir"
+  - tip: sonuc
+    metin: "CT pulmoner anjiyografide her iki pulmoner arterin segmenter dallarında dolum defektleri görülüyor. EKG'de sinüs takikardisi ve S1Q3T3 paterni; D-dimer belirgin artmış. Ekokardiyografide sağ ventrikül hafif geniş ama fonksiyonu korunmuş; tansiyonlar stabil."
+  - tip: secim
+    soru: "Hemodinamik olarak stabil pulmoner emboli doğrulandı. Tedavi hangisidir?"
+    secenekler:
+      - metin: "Antikoagülan başlanması (düşük molekül ağırlıklı heparin veya direkt oral antikoagülan)"
+        dogru: true
+        geri_bildirim: "Hemodinamik olarak stabil hastada temel tedavi antikoagülasyondur ve en az üç ay sürdürülür; tromboliz instabilitede seçilir"
+      - metin: "Sistemik trombolitik tedavi"
+        dogru: false
+        geri_bildirim: "Tromboliz hemodinamik instabilite (masif pulmoner emboli) durumundadır; stabil hastada kanama riski yararı aşar"
+      - metin: "Sadece antiagregan (aspirin) tedavi"
+        dogru: false
+        geri_bildirim: "Aspirin venöz tromboz tedavisinde yetersizdir; antikoagülan gereklidir"
+      - metin: "Yatak istirahati ve ilaçsız gözlemle taburculuk"
+        dogru: false
+        geri_bildirim: "Doğrulanmış pulmoner embolide antikoagülasyon geciktirilmez; tekrarlayan emboli ölümcül olabilir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: uzun yolculuk/immobilizasyon sonrası ani dispne + batma ağrısı + tek taraflı bacak şişliği pulmoner emboli şüphesidir; önce Wells skoru konur; düşük olasılıkta D-dimer ile dışlama, yüksek olasılıkta doğrudan CT pulmoner anjiyografi yapılır; stabil hastada tedavi antikoagülasyon, tromboliz sadece instabilite içindir."
+sozlu_sorular:
+  - "Wells skoru hangi parametreleri içerir?"
+  - "D-dimer negatifliği hangi koşulda güvenilirdir?"
+  - "Pulmoner embolide tromboliz göstergeleri nelerdir?"

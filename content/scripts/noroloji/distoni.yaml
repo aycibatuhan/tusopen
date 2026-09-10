@@ -1,0 +1,26 @@
+id: distoni
+version: 1
+status: draft
+author: "ai-drafts/noroloji-3"
+sources:
+  - "Hareket Bozuklukları Derneği (MDS) Distoni Sınıflaması ve Tedavi Konsensüsü"
+  - "Bradley's Neurology in Clinical Practice"
+ad: Distoniler
+taksonomi:
+  - [ktbt, noroloji, noro_hareket_bozukluklari, noro_hb_distoni]
+tipik_hasta: "İki ana profil: erişkinde sadece belli bir işi yaparken beliren fokal form — örneğin yalnızca yazı yazarken elin kramp tarzı sıkışması (yazma krampı), çalgı çalarken parmakların içe kilitlenmesi; çocukta ise bir uzuvdan başlayıp yayılan jeneralize distoni. Ayrıca metoklopramid veya antipsikotik alan hastada saatler içinde gelen akut distonik reaksiyon klinikte sık görülen karşılaşmadır"
+patofizyoloji: "İstemli hareket sırasında antagonist ve komşu kasların istemsiz, süreğen veya tekrarlayıcı kasılması; bazal ganglion-serebellum-duyusal korteks devrelerinde inhibitör kontrolün azalması ve duyusal-motor entegrasyon bozukluğu temel kabul edilir. Genetik formlar (DYT1/TOR1A, dopaya duyarlı DYT5/GCH1) ve dopamin reseptör blokerlerine bağlı tardif distoni ayrı mekanizmalardır; hastaların hafif dokunuşla postürü düzeltebilmesi (duyusal girdiye duyarlılık) tablonun tanıyıcı özelliğidir"
+anahtar_bulgular:
+  - "İstemli eylem sırasında beliren, döndürücü ve tekrarlayıcı anormal postürler; fokal formlarda istirahatte kaybolur"
+  - "Görev özgüllüğü: yalnızca yazı yazarken, çalgı çalarken belirir; aynı elleri başka işlerde kullanmak sorunsuzdur"
+  - "Sensory trick (antagonist dokunuş): hastanın çenesine, yüzüne ya da etkilenen bölgeye hafifçe dokunması anormal postürü geçici olarak düzeltir"
+  - "Kaygı, stres, yorgunluk ve kafein postürü bozar; sabah hafif, gün sonuna doğru kötüdür"
+  - "Çocuk başlangıçlı tablo: bir bacakta yürürken ayak içe dönmesiyle başlar, yıllar içinde jeneralize yayılır; erişkin başlangıçlı form fokal kalır"
+  - "Fokal biçimler: servikal distoni (başın yana dönmesi-öneye çekilmesi ve ağrı), blefarospazm (göz çevresi kaslarının istemsiz kasılmasıyla gözlerin açılamaması), laringeal (fısıltıya dönüşen ses)"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Görev özgüllüğü ve sensory trick: yalnız belli bir eylemde beliren anormal postürün hafif bir dokunuşla geçici düzelmesi"
+ilk_tetkik: "Nörolojik muayene ile fenotipin tanımı: başlangıç yaşı, dağılım (fokal, segmental, jeneralize) ve tetikleyen görev; genç hastada Wilson hastalığı dışlanması için serum seruloplazmin ve 24 saatlik idrar bakırı; dopaya duyarlı distoni şüphesinde klinik levodopa denemesi; görüntüleme çoğu olguda normaldir"
+kesin_tani: "Klinik sınıflama (yaş + dağılım + tetikleyici görev) tanıyı verir; seçilmiş olgularda genetik test (TOR1A, GCH1) ve Wilson hastalığı, metabolik-mitokondrial hastalıklar gibi ikincil nedenlerin dışlanması; dopamin reseptör blokeri kullanım öyküsü tardif distoniyi gösterir"
+ilk_tedavi: "Fokal distonide birinci basamak botulinum toksin enjeksiyonları (etkilenen kaslara hedefli, 3 ayda bir tekrar); jeneralize ve segmental formlarda oral ajanlar: antikolinerjik (trihexifenidil), baklofen, benzodiazepin; dopaya duyarlı distonide düşük doz levodopa dramatik yanıt verir ve şüpheli her genç hastada denenmelidir; dirençli jeneralize distonide globus pallidus internus hedefli derin beyin stimülasyonu"
+klasik_komplikasyon: "Süreğen anormal postürün ağrıya ve eklem kontraktürüne dönüşmesi; blefarospazmda işlevsel körlük, servikal distonide boyun ağrısı ve radikülopati; yazma krampında mesleki performans kaybı"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

@@ -1,0 +1,68 @@
+id: kistik_fibrozis
+version: 1
+status: draft
+author: ai-drafts/pediatri-2
+sources:
+- Cystic Fibrosis Foundation akciğer hastalığı ve beslenme rehberleri — referans olarak listelendi, metin
+  özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: Kistik Fibrozis
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_kistik_fibrozis
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_kistik_fibrozis
+tipik_hasta: 'Bebeklikten başlayıp çocuklukta süren tablo: tekrarlayan akciğer enfeksiyonları ve geçmeyen
+  öksürüğe yetersiz kilo alımı ile yağlı, kokulu, bol dışkı (steatore) eşlik eder. Yenidoğanda mekonium
+  ileusu veya uzun süren sarılık ilk ipucu olabilir; kardeşte benzer tablo, erkek hastada infertilite
+  anımsatmalıdır. Kuzey Avrupalı kökenli toplumlarda en sık görülen otozomal resesif hastalıktır'
+patofizyoloji: 'CFTR genindeki mutasyon (en sık delta-F508) klor kanalını bozar; hastalık otozomal resesif
+  geçer. Ter bezi kanalında klor ve sodyum geri emilemez — ter tuzludur ve bu özellik tanısal testin temelini
+  oluşturur. Havayolu yüzey sıvısı dehidrate olur, silyar klirens bozulur; önce Staphylococcus aureus,
+  sonra Pseudomonas aeruginosa kronik kolonizasyon gelişir. Pankreas kanalları mukus tıkaçlarıyla tıkanınca
+  ekzokrin yetmezlik ortaya çıkar: steatore, malnutrisyon ve yağda eriyen vitamin eksikliği'
+anahtar_bulgular:
+- Tekrarlayan pnömoni atakları ve geçmeyen produktif öksürük; Pseudomonas kolonizasyonu
+- Yetersiz kilo alımı, boy kısalığına rağmen iştahın iyi olması; steatore (pankreas yetersizliği)
+- Mekonyum ileusu veya uzun süren yenidoğan sarılığı öyküsü
+- Ter testinde 60 mmol/L ve üzerinde klorür
+- Parmak uçlarında saat camı/digital hipokratik parmak, kronik hava akımı obstrüksiyonu
+- Erkek hastada obstrüktif azoospermiye bağlı infertilite
+patognomonik: null
+ilk_tetkik: Ter klorür testi (pilokarpin iyonoforezi); yenidoğan taramasında immünoreaktif tripsinojen
+  (IRT) yüksekliği ilk işarettir ve ter testini yönlendirir
+kesin_tani: İki ayrı örnekte ter klorürünün 60 mmol/L üzerinde çıkması, klinik bulgular ve/veya aile öyküsüyle
+  birleşince tanıdır; alternatif olarak iki bilinen CFTR mutasyonunun genetik testle gösterilmesi yeterlidir.
+  Ekzokrin pankreas yetmezliği dışkıdaki elastaz düşüklüğüyle belgelenir
+ilk_tedavi: 'Multidisipliner bakım: havayolu klirensi (göğüs fizyoterapisi, mukolitik dornaz alfa, hipertonik
+  tuzlu sulu solüsyon inhalasyonu), hedefli ve gerektiğinde uzun süreli antibiyotikler (Pseudomonas''a
+  inhaler tobramisin gibi), pankreas enzim replasmanı, yüksek kalorili diyet ve yağda eriyen vitamin (A-D-E-K)
+  desteği. CFTR mutasyonuna uygun hastalarda modülatör tedaviler (ivacaftor, tezacaftor/ivacaftor, elexacaftor/tezacaftor/ivacaftor)
+  hastalığın gidişini değiştirir'
+klasik_komplikasyon: Bronşiektazi, hemoptizi ve pnömotoraks; malnutrisyon; CF ile ilişkili diyabet; fokal
+  biliyer siroz; distal intestinal obstrüksiyon sendromu; erkeklerde infertilite
+tus_gecmisi:
+- tus-2014-sonbahar-ttbt-54
+- tus-2016-ilkbahar-ktbt-64
+- tus-2017-ilkbahar-ktbt-71
+- tus-2017-ilkbahar-ttbt-85
+- tus-2018-ilkbahar-ttbt-59
+- tus-2018-sonbahar-ttbt-99
+- tus-2019-ilkbahar-ktbt-56
+- tus-2019-sonbahar-ttbt-61
+- tus-2020-ilkbahar-ktbt-57
+- tus-2020-ilkbahar-ttbt-61
+- tus-2020-sonbahar-ktbt-57
+- tus-2021-sonbahar-ktbt-55
+- tus-2022-ilkbahar-ktbt-58
+- tus-2022-ilkbahar-ttbt-119
+- tus-2022-sonbahar-ktbt-49
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

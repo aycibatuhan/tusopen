@@ -1,0 +1,59 @@
+id: dermatomiyozit
+version: 1
+status: draft
+author: ai-drafts/dermatoloji-4
+sources:
+- Bolognia Dermatology (Bolognia, Schaffer, Cerroni)
+- EULAR-ACR yetişkin idiyopatik inflamatuar miyozit tanı önerileri
+ad: Dermatomiyozit
+taksonomi:
+- - ktbt
+  - dermatoloji
+  - derm_bag_dokusu_vaskulit
+  - derm_bdv_dermatomiyozit
+- - ktbt
+  - dahiliye
+  - dah_romatoloji
+  - dah_rom_miyozit
+tipik_hasta: 40-60 yaş kadında merdiven çıkamama, sandık kapağı açamama ve başı yastıktan kaldıramama
+  ile anlatılan simetrik proksimal kas güçsüzlüğü; yüz-göğüs üst bölgesinde mor renk değişiklikleri ve
+  üst göz kapağı ödemi eşlik eder. 40 yaş üstü her erişkin hastada gizli kanser (göğüs, yumurtalık, akciğer,
+  mide-bağırsak) araştırılmalıdır; anti-TIF1-gamma veya anti-NXP2 pozitifliğinde bu risk özellikle yüksektir
+patofizyoloji: 'Kapiller endotel hasarıyla başlayan mikroanjiyopati: membran atak kompleksi (kompleman)
+  kapilleri yıkar, perivasküler ve fasya çevresi inflamasyon gelişir, uzun sürede perifasiyal atrofi oluşur.
+  Ciltteki bulgular aynı mikroanjiyopatinin UV ile ağırlaşan fotodistribüsyonlu karşılığıdır. Kas özgül
+  antikorlar tabloyu alt gruplara ayırır: anti-Mi-2 klasik dermal-kas tablosu, anti-Jo-1 ve öbür antisentetazlar
+  interstisyel akciğer ve mekanik el, anti-MDA5 amiyopatik hızlı ilerleyen akciğer, anti-TIF1-gamma ve
+  anti-NXP2 paraneoplastik tablo ile anılır'
+anahtar_bulgular:
+- 'Gottron papülleri: MCP, PIP ve DIP eklem sırtlarında mor-pembelik ve düz zeminli pullu papüller; eklem
+  aralıkları üzerine oturan düz kırmızı plaklar (Gottron işareti) aynı değerde sayılır'
+- 'Heliotrop: üst göz kapağında mor-lila renk değişikliği ve periorbital ödem'
+- 'Şal ve V işareti: ensede-sırtta şal gibi, boyun-göğüs ön yüzünde V biçiminde güneşe bağlı kızarıklık-leke'
+- 'Simetrik proksimal kas güçsüzlüğü: kalça kuşağı önde; ağrıdan çok güçsüzlük öne çıkar (sandık açamama,
+  merdiven, saç toplama)'
+- 'Mekanik eller: yan palmar yüzlerde hiperkeratotik çatlaklar; periungual telanjiektazi ve kutikülde
+  kapiller kanamalar'
+- 'Laboratuvar ve sistemik: CK ve aldolaz yüksek; disfaji; antisentetaz sendromda öksürük-nefes darlığı
+  (interstisyel akciğer hastalığı)'
+patognomonik: Gottron papülleri (EULAR/ACR 5 puan) ve heliotrop raş (3 puan) dermatomiyozitin iki spesifik kütanöz belirtisidir; heliotrop çok karakteristikdir
+  ama tek başına tanı koymaz
+ilk_tetkik: Kas gücü muayenesi ile CK ve aldolaz ölçümü, miyozit özgül antikor paneli; kalça kuşağı MRI'da
+  STIR sekanslarında kas ödemi araması; 40 yaş üstü erişkinde yaşa uygun kanser taramaları artı göğüs-karın-pelvis
+  görüntülemesi ve yumurtalık-kolon ek araştırması
+kesin_tani: 'Kas biyopsisi: perivasküler ve fasya çevresi lenfosit infiltrasyonu, mikroanjiyopati ve perifasiyal
+  atrofi; elektromiyografide miyojenik patern (kısa süreli, düşük genlikli potansiyeller ve fibrilasyon)'
+ilk_tedavi: Yüksek doz sistemik steroid (prednizon) ve erken dönemde steroid tasarruflu ajan (metotreksat
+  veya azatioprin); dirençte IVIG veya rituksimab; ciltte geniş spektrum güneş koruması ve topikal steroid;
+  disfaji ve akciğer tutulumu kas bulguları düzelmeden önce ayrıca değerlendirilir
+klasik_komplikasyon: İnterstisyel akciğer hastalığı (antisentetaz ve anti-MDA5), disfaji ve aspirasyon,
+  juvenil tabloda kalsinozis; tedavisizde kalıcı kas zayıflığı ve kontraktürler
+tus_gecmisi:
+- tus-2016-ilkbahar-ttbt-95
+- tus-2019-ilkbahar-ttbt-98
+- tus-2019-sonbahar-ktbt-68
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

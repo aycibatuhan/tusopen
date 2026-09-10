@@ -1,0 +1,49 @@
+id: case-yanik-01
+version: 1
+status: draft
+author: "ai-drafts/cases-f"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: yaniklar
+baslik: "Ev yangınında yanmış hasta"
+adimlar:
+  - tip: sunum
+    metin: "45 yaşında, 75 kilogram erkek; kapalı mutfakta çıkan yangında yanmış, ambulansla acile getirilmiş. Yüz ve boyun bölgesinde yanık, burun deliklerinde is izleri var; karbonlu (isli) balgam getiriyor ve sesi kısılmış. Nefes alırken stridor duyuluyor, solunum sayısı 28. Yanık alanları: baş ve boyun yüzde 9, ön gövde yüzde 18, sağ üst ekstremite yüzde 9; toplam yüzde 36, derinlik ikinci-üçüncü derece. Bilinç açık ama huzursuz."
+  - tip: secim
+    soru: "Kapalı alanda yangın, yüz yanığı, isli balgam ve ses kısıklığı olan bu hastada öncelikli tehdit ve ilk yaklaşım nedir?"
+    secenekler:
+      - metin: "Havayolu değerlendirmesi ve erken entübasyon"
+        dogru: true
+        geri_bildirim: "İnhalasyon yaralanmasında boğaz ödemi saatler içinde havayolunu tamamen kapatır; stridor ve ses kısıklığı varken entübasyon ödem gelişmeden erken yapılmalıdır"
+      - metin: "Önce Parkland formülüne göre sıvı başlamak"
+        dogru: false
+        geri_bildirim: "Sıvı resüsitasyonu zorunludur ama havayolu tehdidi altındaki hastada ilk öncelik hava yolunu güvence altına almaktır"
+      - metin: "Yanık bölgelerini uzun süre soğuk su altında tutmak"
+        dogru: false
+        geri_bildirim: "Erken dönemde kısa süreli soğutma faydalıdır; uzun soğutma hipotermi riski taşır ve havayolu önceliğini değiştirmez"
+      - metin: "Ağrı kontrolü yaparak hastayı sakinleştirmek"
+        dogru: false
+        geri_bildirim: "Ağrı tedavisi gereklidir ama hayatı tehdit eden havayolu sorunu giderilmeden önce gelmez"
+  - tip: sonuc
+    metin: "Hasta erken dönemde entübe edildi, oksijen desteği başlandı. Karbon monoksit düzeyi yükselmiş; arter kan gazında metabolik asidoz yok. Göğüs grafisi başlangıçta temiz. Yanık yüzeyi yeniden hesaplanmış: baş-boyun 9, ön gövde 18, sağ üst ekstremite 9, toplam yüzde 36."
+  - tip: secim
+    soru: "Bu hastada ilk 24 saatlik intravenöz sıvı planı (Parkland formülü) nasıl kurulmalıdır?"
+    secenekler:
+      - metin: "4 mL x 75 kg x 36 = 10.800 mL; yarısı ilk 8 saatte, kalan yarısı sonraki 16 saatte"
+        dogru: true
+        geri_bildirim: "Parkland formülü: 4 mL x kilogram x yanık yüzdesi; toplamın yarısı ilk 8 saatte, kalan yarısı izleyen 16 saatte verilir ve hız, idrar çıkışına göre ayarlanır"
+      - metin: "10.800 mL'nin tamamını ilk 4 saatte vermek"
+        dogru: false
+        geri_bildirim: "Zamanlama yanlıştır; formüle göre toplam sıvının yarısı ilk 8 saatte, diğer yarısı sonraki 16 saatte verilir"
+      - metin: "2.700 mL günlük bakım sıvısı vermek"
+        dogru: false
+        geri_bildirim: "Büyük yanıkta resüsitasyon günlük bakım sıvısıyla değil, yanık yüzdesine göre hesaplanan formülle yapılır"
+      - metin: "5.400 mL'yi 24 saate eşit dağıtmak"
+        dogru: false
+        geri_bildirim: "Hem toplam miktar hem dağılım yanlıştır; doğru plan 10.800 mL'dir ve yarısı ilk 8 saatte verilir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: kapalı alanda yangın + yüz yanığı + isli balgam + ses kısıklığı = inhalasyon yaralanması ve havayolu ilk önceliktir; erişkinde yanık yüzeyi 9'lar kuralıyla hesaplanır (baş 9, ön gövde 18, arka gövde 18, her üst ekstremite 9, her alt ekstremite 18, perine 1); sıvı resüsitasyonu Parkland formülüyle yapılır: 4 mL x kg x yüzey yüzdesi, yarısı ilk 8 saatte; idrar çıkışı ve karbon monoksit düzeyi yakından izlenir."
+sozlu_sorular:
+  - "Erişkinde 9'lar kuralı nasıl uygulanır?"
+  - "İnhalasyon yaralanması hangi bulgularla düşünülmeli ve neden erken entübasyon tercih edilir?"
+  - "Karbon monoksit zehirlenmesi nasıl tedavi edilir?"

@@ -1,0 +1,30 @@
+id: wt-tus-2017-sonbahar-ttbt-115
+version: 1
+status: draft
+author: "ai-drafts/walkthroughs-1"
+sources:
+  - "Katzung Temel Klinik Farmakoloji, sitatoplatin grubu toksisite bölümü — referans olarak listelendi, metin özgün yazımdır"
+  - "Goodman and Gilman, platin koordinasyon kompleksleri bölümü — referans olarak listelendi, metin özgün yazımdır"
+soru_ref: tus-2017-sonbahar-ttbt-115
+sinanan_bilgi: "Sisplatinin doz sınırlayıcı toksisitesi akut tubüler nekroza uzanan nefrotoksisitedir; ilk kür öncesinde standart koruma, geniş hacimli tuzlu sıvı infüzyonu ile zorlanmış diüreze eklenen furosemiddir. Platin grubunun diğer başlıca toksisiteleri ototoksisite ve periferal nöropatidir."
+ipucu_turleri:
+  - "Protolün sisplatin içermesi: toksisite sorusu platin ajanın kendi zayıf noktasına yönelir"
+  - "İlk seans öncesinde yapılması istenen uygulama: tedavi değil, profilaktik önlem aranıyor"
+  - "Hidrasyon + diüretik ikilisinin seçenekte birlikte sunulması: klasik eşleştirme tamamlanmış demektir"
+gurultu_turleri:
+  - "Geçirilmiş miyokard enfarktüsü öyküsü, kalp toksisitesi düşünce çerçevesine çeker; oysa protokolde antrasiklin yoktur ve platin grubunun kalbe karşı sorunlu yanı yoktur"
+  - "Testis germ hücreli tümör tanısı, tümör tedavisine genel bakışa saptırır; asıl soru tek bir ilacın organ toksisitesinin yönetimidir"
+mantik: "Zincir üç halkadan kurulu: protokolde sisplatin var, sorulan şey ilk kürden önce alınacak koruyucu önlem, ve sisplatinin en klinik olarak belirleyici zayıf yanı böbrek tubülleridir. Platin bileşikleri proksimal tubülde birikir ve akut tubüler nekroz yapar; bunu engellemenin kanıtlanmış yolu kürü çevreleyen geniş hacimli serum fizyolojik infüzyonu ve idrar akışını artıran furosemiddir, böylece ilaç tubülde daha az durur. Hastanın miyokard enfarktüsü öyküsü, seçenekleri kalp ve kemik iliği yönünden okumaya yönlendirir; ancak yapılmak istenen şey toksisitenin kaynağını kurutmaktır, uzak bir organla ilgilenmek değil. Diğer seçeneklerin her biri başka bir ilaca ya da tedavi evresine aittir: lökovorin metotreksat kurtarma protokolüne, eritropoez stimülatörleri kemoterapi sonrası anemiye, asetilsistein ise hepatotoksik doz aşımı bağlamına aittir. Dolayısıyla mantık sıralaması: sisplatin + nefrotoksisite + profilaksi zamanlaması = bol tuzlu sıvı ve furosemid."
+celdirici_kavramlar:
+  - kavram: "Lökovorin verilmesi"
+    neden_yanlis: "Lökovorin, metotreksatın folat metabolizması üzerindeki baskısını kırmak için kullanılan kurtarma ajanıdır; platin grubunda böbrek korumasında yeri yoktur."
+    dogru_oldugu_durum: "Yüksek doz metotreksat sonrası kurtarma protokolünde veya metotreksatla birlikte verilen folik asit yoksunluğunda."
+  - kavram: "Eritropoez stimüle edici ajan kullanımı"
+    neden_yanlis: "Epoetin kemoterapiye bağlı belirgin anemide tedavi amacıyla düşünülmüştür; sisplatinin böbrek zararını baştan önleyemez ve profilaktik standart değildir."
+    dogru_oldugu_durum: "Kemoterapiye bağlı semptomatik anemi bastırıldığında, altta yatan neden düzeltildikten sonra seçili hastalarda."
+  - kavram: "Albümin replasmanı ile hipovoleminin düzeltilmesi"
+    neden_yanlis: "Albümin, sıvı kaçağı olan durumlarda onkotik destek sağlar; sisplatinin tubüler zehirliliğini azaltmaz, sorun ilacın böbrekte birikmesidir."
+    dogru_oldugu_durum: "Hepatorenal sendrom veya hiponatremik şok gibi onkotik basınç eksikliğinin ön planda olduğu tablolarda."
+  - kavram: "Nebulize asetilsistein"
+    neden_yanlis: "Asetilsistein akciğer sekresyonlarını yumuşatan mukolitiktir; sisplatin nefrotoksisitesine karşı koruyucu rolü yoktur ve yanlışlıkla parasetamol doz aşımındaki oral antedotla karıştırılır."
+    dogru_oldugu_durum: "Oral formu parasetamole bağlı hepatotoksisitede antedot, inhaler formu viskoz sekresyonlarda mukolitik olarak."

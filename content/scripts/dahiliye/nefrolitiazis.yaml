@@ -1,0 +1,57 @@
+id: nefrolitiazis
+version: 1
+status: draft
+author: ai-drafts/dahiliye-4
+sources:
+- EAU üreter ve böbrek taşı yönetimi rehberi — referans adı olarak listelendi, metin projesi özgün yazımdır
+ad: Nefrolitiazis
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_nefroloji
+  - dah_nef_nefrolitiazis
+tipik_hasta: Otuz-beş yaş dolayında erkek; yaz sıcağında yetersiz sıvı alan, ailede taşlılık veya önceki
+  taş öyküsü olan hasta; ağrı belden başlayıp karın ön duvarı ve kasık-genital bölgeye yayılır; tekrarlayan
+  taş yapan metabolik yatkınlıklar (hiperkalsiüri, düşük sitrat, hiperoksalüri, ürik asit yükü, sistinüri)
+  araştırılır
+patofizyoloji: 'İdrarın doyma noktasını aşan solütün kristallenmesi ve taş oluşması; kalsiyum oksalat
+  en sık taş (hiperkalsiüri, hiperoksalüri, düşük sitrat); kalsiyum fosfat alkali idrar ve distal renal
+  tübüler asidozla gider; strüvit üreaz üreten Proteus gibi bakterilerin alkali idrarında gelişir ve geyik
+  boynuzu taş yapar; ürik asit taşı asit idrarda oluşur, kontrastsız BT''de görünürken düz grafide saptanamaz;
+  sistin taşı kalıtsal sistinüridir. Ağrının dalgalı akışı üreter peristaltizminin taş karşısındaki kasılmalarından
+  ve kapsül-pelvis gerilmesinden kaynaklanır; taş tipi ve risk üç yoldan beslenir: düşük idrar hacmi,
+  fazla solüt (kalsiyum, oksalat, ürik asit) veya eksik inhibitör (sitrat, magnezyum)'
+anahtar_bulgular:
+- 'Lumbokolik atak: belden kasık ve genital bölgeye yayılan, dalga dalga artıp azalan ağrı; bulantı-kusma;
+  hastanın huzursuzluğu ve sürekli duruş değiştirmesi'
+- 'Mikroskobik veya makroskopik hematüri; taş tipine imza atan idrar pH''ı (asit idrar: ürik asit; alkali
+  idrar: strüvit ve kalsiyum fosfat)'
+- 'İlk görüntüleme: gebelikte USG, diğerlerinde kontrastsız spiral BT (altın standart); kalsiyum taşları
+  düz grafide opak, ürik asit taşı radyolüsen'
+- Strüvit taşın geyik boynuzu görünümü; ürik asit taşının idrar alkalinizasyonuyla eriyebilmesi
+- Tekrarlayan taşta 24 saatlik idrar metabolik çalışması (kalsiyum, oksalat, sitrat, ürik asit, hacim)
+  ve çıkarılan taşın analizi
+- 'Ateş ile obstrüktif kolikin birleşmesi: enfekte-hidronefrotik böbrek, acil drenaj (perkütan nefrostomi
+  veya stent) gerektirir'
+patognomonik: null
+ilk_tetkik: İdrar analizi (hematüri, kristal, pH, lökosit), serum kreatinin, elektrolitler, kalsiyum ve
+  ürik asit; USG veya kontrastsız BT ile taşın yerleşimi, boyutu ve hidronefroz derecesi
+kesin_tani: Görüntülemede taşın gösterilmesi; çıkarılan taşın kristal analizi kesin tanının altın standardıdır;
+  ürik asit taşı düz grafide görünmez ama kontrastsız BT'de saptanır
+ilk_tedavi: 'Atak yönetimi: NSAİD ilk analjezik seçeneği (böbrek kolikinde etkili), gerektiğinde opioid;
+  beş milimetrin altındaki taşların çoğu kendiliğinden düşer, alfa bloker (tamsülosin) medikal ekspulsiyonu
+  kolaylaştırır; üreter taşında üreteroskopi veya ekstrakorporeal şok dalga litotripsi; geyik boynuzu
+  böbrek taşında perkütan nefrolitotomi; enfeksiyon ve obstrüksiyon birleşince önce drenaj, antibiyotikle
+  stabilizasyon sonrası taş tedavisi; tekrarlayan taşta koruma: günlük iki buçuk litre üstü idrar, kısıtlı
+  sodyum, gerektiğinde sitrat, hiperkalsiüride tiyazid'
+klasik_komplikasyon: Hidronefroz ve akut böbrek hasarı; taş üstünde pyelonefrit ve ürosepsis (obstrüksiyonla
+  birleşince acil drenaj); kronik obstrüksiyonda geri dönüşsüz parankim incelmesi; tek böbrekli hastada
+  anüri
+tus_gecmisi:
+- tus-2020-ilkbahar-ktbt-27
+- tus-2020-sonbahar-ttbt-27
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

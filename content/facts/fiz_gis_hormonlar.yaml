@@ -1,0 +1,10 @@
+id: fiz_gis_hormonlar
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Temel Gastrointestinal Hormonlar"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_hormonlar]
+metin: "Gastrin mide antrumundaki G hücrelerinden salgılanır ve asit salgısıyla mide motilitesini artırır. Sekretin duodenumdaki S hücrelerinden salgılanıp pankreas bikarbonat salgısını uyarırken, kolesistokinin pankreas enzim salgısını artırıp safra kesesini kasır; motilin ise açlık dönemlerinde sindirim kanalını süpüren motor kompleksleri tetikler."

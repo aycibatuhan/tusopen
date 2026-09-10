@@ -1,0 +1,10 @@
+id: fiz_gis_mide
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mide Asit Salgısı"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_mide]
+metin: "Parietal hücreler hidrojen-potasyum ATPaz pompasıyla hidroklorik asit ve ayrıca B12 emilimi için gerekli iç faktörü salgılar; asit salgısının yaklaşık yüzde 60'ı gastrik, yüzde 30'u sefalik ve yüzde 10'u intestinal fazda oluşur. Proton pompa inhibitörleri bu pompayı bloke ederek en güçlü asit baskılayıcı etkiyi sağlar."

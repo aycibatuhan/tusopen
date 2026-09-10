@@ -1,0 +1,10 @@
+id: mikro_rna_picorna
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Picornavirüs ailesinin temel özellikleri"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_picorna]
+metin: "Picornavirüsler zarfsız, tek iplikçikli pozitif polariteli RNA'lı küçük virüslerdir. Poliovirüs bağırsak mukozasından girip omurilik ön boynuzu motor nöronlarını yok ederek flasid paralizi yapar; rinovirüsler 33-35 derece gibi düşük sıcaklıkta daha iyi çoğaldıkları için üst solunum yolu enfeksiyonuna yol açar."

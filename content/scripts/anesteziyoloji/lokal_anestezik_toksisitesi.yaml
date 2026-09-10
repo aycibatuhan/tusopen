@@ -1,0 +1,52 @@
+id: lokal_anestezik_toksisitesi
+version: 1
+status: draft
+author: ai-drafts/anestezi
+sources:
+- 'Klinik rehberler: Amerikan Rejyonal Anestezi ve Ağrı Derneği (ASRA) lokal anestezik sistemik toksisitesi
+  önerileri — referans olarak listelendi, metin projesi özgün yazımdır'
+ad: Lokal Anestezik Sistemik Toksisitesi
+taksonomi:
+- - ktbt
+  - anesteziyoloji
+  - anes_rejyonal
+  - anes_ra_lokal_anestezikler
+tipik_hasta: Periferik sinir bloğu, pleksus bloğu veya geniş alan infiltrasyonunda doz üstü lokal anestezik
+  enjekte edilen hasta; damar içi enjeksiyon riski yüksek bölgelerde (interkostal, paraservikal, plexus)
+  uygulama yapılan hasta; saatler önce yüksek hacim lokal anestezik almış, karaciğer veya kalp yetmezliği
+  olan yaşlı hastada da düşük dozla tetiklenebilir
+patofizyoloji: 'Plazmadaki serbest lokal anestezik düzeyi toksik eşiği aşınca sodyum kanalları önce santral
+  sinir sisteminde, sonra kalpte bloke olur. Beyinde inhibe edici nöronlar önce baskılandığı için eksitasyon
+  dönemi görülür: dil ve perioral bölgede paresteziler, metal tadı, kulak çınlaması, görme bulanıklığı,
+  ajitasyon, sonra tonik-klonik nöbet; nöbeti bilinç kaybı (baskı dönemi) izler. Kalpte sodyum kanal bloğu
+  ileti hızını yavaşlatır ve QRS genişlemesi, kontraktilite kaybı, hipotansiyon ve ventriküler aritmilerle
+  sonuçlanır; bupivakain huzmesinde (resting) kanala güçlü bağlanıp kardiyak toksisiteyi en ağırlaştırır,
+  kalp durmasına giden tabloda resüsitasyon çok zordur. Lipid emülsiyonu lipofilik anestetiği yağ fazına
+  alarak dolaşımdaki serbest düzeyi düşürür ve kalbe serbest yağ asidi tedarik eder; bu ikili etki onu
+  kardiyak toksisitede birinci satır tedavi yapar.'
+anahtar_bulgular:
+- Enjeksiyonu izleyen dakikalar-saatler içinde dil ve perioral paresteziler, metal tadı
+- Kulak çınlaması, görme ve konuşma bozukluğu, ajitasyon
+- Tonik-klonik nöbet ve ardından bilinç kaybı
+- QRS genişlemesi, hipotansiyon, bradikardi veya ventriküler aritmi
+- Bupivakain gibi yüksek kardiyotoksisiteli ajanlarda dirençli ventriküler aritmi ve kalp durması
+patognomonik: Doz üstü enjeksiyonu izleyen dil ve perioral parestezilerle başlayıp nöbete ve kardiyak
+  aritmiye ilerleyen evreli tablo
+ilk_tetkik: Sürekli EKG ve vital bulgu izlemi; kan gazı ve elektrolitler; şüphede plazma lokal anestezik
+  düzeyi (sonucu geç geldiği için tedavi bekletilmez)
+kesin_tani: 'Klinik tanıdır: ilaç uygulaması ile belirtiler arasındaki zaman ilişkisi evreli santral ve
+  kardiyak belirtilerle birleşir; plazmada yüksek ilaç düzeyi tanıyı doğrular'
+ilk_tedavi: Nöbet için benzodiazepin; kardiyak belirtiler varsa lipid emülsiyonu 1,5 mL/kg IV bolus, ardından
+  0,25 mL/kg/dk infüzyon; resüsitasyonda düşük doz epinefrin tercih edilir, kalsiyum kanal blokeri ve
+  beta blokerden kaçınılır; kalp durmasında uzun süreli kardiyopulmoner resüsitasyon ve gerektiğinde ekstrakorporeal
+  destek gündeme gelir
+klasik_komplikasyon: Bupivakain kaynaklı dirençli ventriküler fibrilasyon ve kalp durması; nöbet sırasında
+  aspirasyon
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-112
+- tus-2018-sonbahar-ktbt-99
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

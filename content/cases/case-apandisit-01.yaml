@@ -1,0 +1,49 @@
+id: case-apandisit-01
+version: 1
+status: draft
+author: ai-drafts/cases-a
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: akut_apandisit
+baslik: "Sağ alt kadrana yerleşen karın ağrısı"
+adimlar:
+  - tip: sunum
+    metin: "20 yaşında erkek. Dün akşam göbek çevresinde künt ağrı başlamış; bugün ağrı sağ alt kadrana yerleşmiş, yürürken ve kalkarken artıyor. İştahsız, bir kez kusmuş; ateş 37.8 derece. Muayenede sağ alt kadranda yerleşik, derin sondajda artan hassasiyet var; sol kadrana basıldığında sağ alt kadranda ağrı duyuluyor, rever bulgusu pozitif; kas sertliği sınırlı. Laboratuvar: lökosit 13.800, nötrofil ağırlıklı; CRP 28 mg/L; idrar tetkiki normal."
+  - tip: secim
+    soru: "Göbek çevresinden sağ alt kadrana göçen ağrı, iştahsızlık, yerleşik hassasiyet ve rever pozitifliği. Sonraki doğru adım hangisidir?"
+    secenekler:
+      - metin: "Genel cerrahi değerlendirmesi ve görüntülemede önce ultrasonografi"
+        dogru: true
+        geri_bildirim: "Genç hastada klasik öykü ve muayene yüksek doğrulukla tanı koydurur; ultrasonografi radyasyonsuz olduğu için ilk görüntüleme tercihidir."
+      - metin: "Her hastada karın bilgisayarlı tomografisinin istenmesi"
+        dogru: false
+        geri_bildirim: "Tomografi klinik belirsizliği çözmediğinde düşünülür; tipik klinikte ve genç hastada ilk basamak ultrasonografidir."
+      - metin: "Ateş düşene kadar iki gün evde izlem"
+        dogru: false
+        geri_bildirim: "Erken tanı ve tedavi perforasyonu önler; bekletmek komplikasyon riskini büyütür."
+      - metin: "Kolonoskopiyle bağırsağın içeriden bakılması"
+        dogru: false
+        geri_bildirim: "Apandisit tanısında kolonoskopinin yeri yoktur; iltihaplı bağırsakta perforasyon riski taşır."
+  - tip: sonuc
+    metin: "Ultrasonografide sağ alt kadranda çapı 9 milimetre, duvarı kalın, basınçla ağrıyan apendiks saptanır; çevresinde artmış ekojenite var. Bulgu klasik apandisitle uyumlu."
+  - tip: secim
+    soru: "Tanı apandisit olarak doğrulandı. Tedavi yaklaşımı hangisidir?"
+    secenekler:
+      - metin: "Damar yolu antibiyotik desteğiyle laparoskopik apendektomi"
+        dogru: true
+        geri_bildirim: "Nonkomplike apandisitlerde standart tedavi erken apendektomidir; tek başına antibiyotik seçilmiş olgular dışında nüks ve perforasyon riski taşır."
+      - metin: "Yalnız damar yolu antibiyotikle taburculuk"
+        dogru: false
+        geri_bildirim: "Geçici düzelme olabilir ama nüks ve komplikasyon riski sürer; cerrahi standart yaklaşımdır."
+      - metin: "Ateş ve ağrı gerileyene kadar poliklinik izlemi"
+        dogru: false
+        geri_bildirim: "Gecikme perforasyon ve apse riskini büyütür; doğrulanmış tanıda operasyon bekletilmez."
+      - metin: "Apseden söz edilmediği halde drenaj kateteri yerleştirmek"
+        dogru: false
+        geri_bildirim: "Girişimsel drenaj apse ve kitle komplikasyonlarında gündeme gelir; erken nonkomplike tabloda apendektomi uygundur."
+  - tip: ozet
+    metin: "Öğrenme noktaları: göbek çevresinden sağ alt kadrana göçen ağrı apandisitin tipik öyküsüdür; iştahsızlık, bulantı ve hafif ateş eşlik eder; muayenede yerleşik hassasiyet, rever, rovsing, psoas ve obturatuar bulguları aranır; genç hastada ilk görüntüleme ultrasonografidir; tedavi antibiyotik desteğiyle erken apendektomidir; gecikme perforasyon ve apse riskini artırır."
+sozlu_sorular:
+  - "Alvarado skoru hangi bulgulardan oluşur?"
+  - "Retrosekal apandisitte muayene bulguları nasıl değişir?"
+  - "Apendiküler apse ve kitlede yaklaşım nasıl farklılaşır?"

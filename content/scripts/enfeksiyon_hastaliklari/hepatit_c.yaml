@@ -1,0 +1,58 @@
+id: hepatit_c
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-5
+sources:
+- 'Klinik rehberler: Hepatit C tanı ve tedavi rehberleri (AASLD/IDSA, EASL) — referans olarak listelendi,
+  metin projesi özgün yazımdır'
+ad: Hepatit C Enfeksiyonu
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_viral_hepatit
+  - enf_vh_hepatit_c
+- - ktbt
+  - dahiliye
+  - dah_hepatoloji
+  - dah_hep_hepatit_c
+tipik_hasta: 'Kan-kan teması öyküsü olan hasta: damar içi madde kullanımı, kan taramasının yapılmadığı
+  dönemde transfüzyon, dövme veya hijyenik olmayan iğne maruziyeti. Virüs onlarca yıl sessiz kalabildiğinden
+  hasta çoğu zaman halsizlik gibi belirsiz yakınmalarla, rutin tetkikte yüksek ALT ile ya da ileride siroz
+  ve tümör bulgularıyla karşımıza çıkar'
+patofizyoloji: 'Flaviviridae ailesinden tek zincirli RNA virüsü; kan ve kan ürünleriyle bulaşır, cinsel ve
+  doğum yoluyla bulaş zayıftır. Yüksek mutasyon hızı iki sonucu doğurur: konak virüsü temizleyemez ve
+  kronikleşme oranı yüzde 75-85''e ulaşır; ayrıca antikor ancak haftalar sonra pozitifleştiği için pencere
+  döneminde tanı tek başına antikora dayanamaz. Kronik iltihap yıllar içinde fibrozise, siroza ve hepatosellüler
+  karsinoma ilerler'
+anahtar_bulgular:
+- Tarama testi anti-HCV antikoru; pozitifse aktif enfeksiyon ancak HCV RNA ile doğrulanır, çünkü geçirilmiş
+  enfeksiyonda antikor kalıcı kalırken RNA negatifleşir
+- 'Pencere dönemde RNA erken pozitifleşir, antikor henüz negatiftir: erken tanı ve kan güvenliğinde RNA
+  zorunludur'
+- Semptomsuz seyir veya halsizlik, iştahsızlık, artralji gibi belirsiz yakınmalar; ALT dalgalı ve hafif
+  yükseklikli olabilir
+- 'Ekstrahepatik bulgular: karışık kriyoglobulinemi (purpura, eklem ağrısı, böbrek tutulumu), porfiriya
+  kutanea tarda, liken planus'
+- Yıllar süren kronik enfeksiyonda siroz ve hepatosellüler karsinom riski; aşı yoktur, korunma bulaş yollarının
+  engellenmesine dayanır
+patognomonik: null
+ilk_tetkik: Anti-HCV antikor testi; pozitifse aynı örnekte HCV RNA nicel testi ile aktif enfeksiyon araştırması
+kesin_tani: HCV RNA pozitifliği (altı aydan uzun süre pozitifse kronik enfeksiyon); pencere döneminde
+  tek tanı yolu RNA testidir
+ilk_tedavi: 'Doğrudan etkili antiviraller (DAA): sofosbuvir temelli 8-12 haftalık, genotipe göre düzenlenen
+  oral rejimler; interferon dönemi kapanmıştır. Tedavi bitiminde ve 12. haftada RNA''nın negatif kalması
+  (sürdürülebilir virolojik yanıt) şifa sayılır ve bu oran yüzde 95''in üzerindedir'
+klasik_komplikasyon: Siroz ve hepatosellüler karsinom; karışık kriyoglobulinemik vaskülit ve membranoproliferatif
+  glomerülonefrit
+tus_gecmisi:
+- tus-2014-sonbahar-ttbt-75
+- tus-2018-ilkbahar-ktbt-4
+- tus-2018-sonbahar-ktbt-4
+- tus-2018-sonbahar-ttbt-74
+- tus-2020-ilkbahar-ktbt-15
+- tus-2021-ilkbahar-ttbt-65
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

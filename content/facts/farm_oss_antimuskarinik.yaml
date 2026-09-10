@@ -1,0 +1,10 @@
+id: farm_oss_antimuskarinik
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Atropinin Etki Dağılımı"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otonom, farm_oss_antimuskarinik]
+metin: "Atropin muskarinik reseptörleri bloke ederek gözde pupil genişlemesi ve akomodasyon kaybı, ağız kuruluğu, kalp hızlanması, idrar tutulması ve kabızlık yapar. Bu belirtiler klasik antikolinergik etki tablosunu oluşturur. Dar açılı glokom ve prostat hipertrofisi önemli kontrendikasyonlardır."

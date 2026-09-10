@@ -1,0 +1,10 @@
+id: mikro_par_barsak_protozoa
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Entamoeba histolytica tanı ve komplikasyonları"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_barsak_protozoa]
+metin: "Entamoeba histolytica dışkı incelemesinde kist ve trofozoit formlarıyla görülür; trofozoitlerin sitoplazmasında yutulmuş eritrositler belirgindir. Bağırsak duvarında flask biçimli ülserler oluşturur; amiplik karaciğer apsesi en önemli ekstraintestinal komplikasyondur."

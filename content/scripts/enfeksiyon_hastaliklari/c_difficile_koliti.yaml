@@ -1,0 +1,59 @@
+id: c_difficile_koliti
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-2
+sources:
+- 'Klinik rehberler: IDSA ve SHEA C. difficile enfeksiyonu tanı ve tedavi kılavuzu — referans olarak listelendi,
+  metin projesi özgün yazımdır'
+ad: Clostridioides difficile Koliti
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_gis
+  - enf_gis_c_difficile
+tipik_hasta: Antibiyotik kullanımından (en sık klindamisin, florokinolon, geniş spektrumlu beta-laktamlar)
+  günler ya da haftalar sonra sulu, kötü kokulu diyareyle başvuran; yaşlı, hastaneye yatmış ve mide asit
+  baskılayıcı (proton pompa inhibitörü) kullanan hasta. Antibiyotik almasa bile son 8 haftada sağlık kuruluşuna
+  girmiş her diyareli hastada akılda tutulur
+patofizyoloji: 'Etken, spor oluşturan anaerobik gram pozitif basildır; antibiyotikler kolonik normal florayı
+  bozunca alınan sporlar kolonda çimlenir ve vejetatif forma geçer. Üreyen bakteri iki toksin salar: toksin
+  A (enterotoksin) mukoza sıvı sekresyonunu ve inflamasyonu, toksin B (sitotoksin) aktin iskeletinin parçalanmasını
+  hızlandıran glukozilasyon ile hücre ölümünü yönetir; sonuç, lamina propriada nötrofil inflamasyonu,
+  mikroabseler ve yüzeyi kaplayan sarı-beyaz pseudomembranlardır. Sporu dışarıda yıllarca dayanıklıdır;
+  alkol bazlı el antiseptikleri sporu öldürmez, bu yüzden bu enfeksiyonda el yıkama sıvı sabunla yapılır
+  ve hasta izolasyonu zorunludur'
+anahtar_bulgular:
+- Antibiyotik sonrası gelişen sulu, kötü kokulu, kanı az ya da hiç olmayan diyare; kramp tarzı karın ağrısı
+  eşlik eder
+- Lökositoz (sıkça belirgin, 15 binin üzerinde) ve ateş; CRP artışı
+- Dehidratasyon bulguları ve şiddetli tabloda karın distansiyonu, hipotenzyon, akut böbrek yetmezliği
+- Kolonda toksik megakolon şüphesinde dirençli distansiyon ve karın duvarında yerel peritonit; radyolojik
+  olarak kalın duvar ve akordeon bulgu
+- Dışkıda toksin A ve B saptanması; endoskopide pseudomembran kolit görünümü
+patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Kolonoskopik görünüm: mukozayı saçan çok sayıda sarımsı-beyaz, kolay düşen pseudomembran
+  plakları (pseudomembran kolit)'
+ilk_tetkik: Dışkı örneğinde toksin A ve B saptama testi (toksin bazlı immünoassay ve/veya moleküler test;
+  çoğu merkezde glutamat dehidrojenaz tarama ardından toksin testi algoritması) ve tam kan sayımı; ağır
+  ya da komplike şüphede direkt abdominal grafide megakolon araştırması ve kontrastlı abdominal bilgisayarlı
+  tomografi (duvar kalınlaşması, akordeon bulgu)
+kesin_tani: Diyareli (ya da ileuslu) hastada dışkıda toksin A ve B'nin saptanması; endoskopide pseudomembranların
+  görünmesi de tanıyı koyar. Asimptomatik taşıyıcılarda pozitif test tedavi gerektirmez, altın nokta semptomlarla
+  ilişkilendirme
+ilk_tedavi: İlk atakta (şiddetli olmayan) ağızdan vankomisin ya da fidaksomisin; metronidazol yalnızca
+  diğer seçeneklerin erişilemediği durumda düşünülür. Şiddetli tabloda (lökositoz yüksek, albümin düşük)
+  ağızdan vankomisin 125 mg dört kez günlük (fulminan tabloda 500 mg) ya da fidaksomisin; ileus ve fulminan tabloda ağızdan vankomisinle birlikte
+  damardan metronidazol eklenir (ağızdan yol çalışmıyorsa nazogastrik tüp ya da rektal uygulama), cerrahi
+  görüşü (subtotal kolektomi) erken alınır ve hastaya damar yolu sıvısı ile elektrolit düzeltmesi yapılır.
+  Nükselerde fidaksomisin, tekrarlayan nüksede monoklonal antikor (bezlotoxumab) ya da fekal mikrobiyota
+  transplantasyonu gündeme gelir. Tedavi öncesi gereksiz antibiyotik ve mide asit baskılayıcı gözden çıkarılır,
+  kontakt önlemler ve el yıkama sürdürülür
+klasik_komplikasyon: Toksik megakolon ve fulminan kolit (perforasyon, peritonit); sık dışkılama ve sepsis
+  kaynaklı akut böbrek yetmezliği ve şok; tekrarlayan nükseler (tedavi sonrası haftalar içinde)
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-75
+- tus-2017-ilkbahar-ttbt-59
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

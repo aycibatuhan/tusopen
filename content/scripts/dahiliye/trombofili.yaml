@@ -1,0 +1,63 @@
+id: trombofili
+version: 1
+status: draft
+author: ai-drafts/dahiliye-4
+sources:
+- Amerikan Hematoloji Derneği (ASH) venöz tromboemboli tanı ve tedavi rehberi — referans adı olarak listelendi,
+  metin projesi özgün yazımdır
+- Antifosfolipid sendrom sınıflandırma kriterleri (ISTH)
+ad: Trombofili
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_hematoloji
+  - dah_hem_trombofili
+tipik_hasta: Genç hastada beklentinin dışında ve açıklanamayan venöz tromboemboli; tekrarlayan tromboz;
+  trombozun alışılmadık yerde saptanması (mezenterik, hepatik, portal, serebral venöz); ailede genç yaşta
+  tromboz; kadında tekrarlayan gebelik kaybı, preeklampsi veya ölü doğum antifosfolipid sendromu işaret
+  eder
+patofizyoloji: 'Pıhtılaşmayı frenleyen doğal mekanizmaların zaafı veya pıhtılaşmayı artıran kalıtsal ve
+  edinsel etkenler; kalıtsal: Faktör V Leiden (aktive protein C direnci, en sık), protrombin G20210A mutasyonu,
+  protein C eksikliği, protein S eksikliği, antitrombin eksikliği (tekrar riski en yüksek olan); edinsel:
+  antifosfolipid antikorlar, hiperhomosisteinemi, paroksismal gece hemoglobinürisi; taşıyıcılığın tek
+  başına riski düşüktür, cerrahi, immobilizasyon, gebelik, östrojen ve obezite gibi ek faktörlerle katlanır'
+anahtar_bulgular:
+- Genç yaşta (altmışın altında) açıklanamayan ilk venöz tromboemboli veya tekrarlayan tromboz
+- 'Trombozun atipik yerleşimi: mezenterik, hepatik, portal, serebral venöz sinüs trombozu'
+- Ailede tromboz öyküsü ve genç yaşta tromboz geçiren akrabalar
+- Protein C ve protein S eksikliğinde varfarin başlangıcında deri nekrozu; homozigot protein C eksikliği
+  olan yenidoğanda purpura fulminans
+- Antitrombin eksikliğinde heparinle beklenen laboratuvar uzamasının yetersiz kalması (heparin direnci
+  görünümü)
+- 'Antifosfolipid sendrom: venöz ve arteriyel trombozun birlikte görülmesi, trombositopeni, gebelik kayıpları;
+  lupus antikoagülan, antikardiolipin ve anti-beta2 glikoprotein I pozitifliğinin on iki hafta arayla
+  en az iki kez doğrulanması'
+patognomonik: null
+ilk_tetkik: 'Akut tromboz atağında veya antikoagülan etkisi altında panel çalışılmaz (doğal inhibitör
+  düzeyleri yanıltıcı biçimde düşer); önce trombozun standart tedavisi, ardından antikoagülasyondan arınmış
+  dönemde panel: aktive protein C direnci ve F5 Leiden genetik testi (her zaman geçerli), protrombin mutasyonu,
+  protein C, protein S, antitrombin, antifosfolipid antikorlar, homosistein'
+kesin_tani: Genetik testler (F5 Leiden, protrombin G20210A) yaşam boyu geçerlidir; doğal inhibitör eksiklikleri
+  (protein C, protein S, antitrombin) antikoagülan etkisinden arınmış dönemde ve arayla en az iki ölçümle
+  doğrulanır; varfarin protein C ve S'yi, heparin antitrombini, akut tromboz ve gebelik hepsini düşürür;
+  antifosfolipid sendromda klinik kriterler (tromboz, gebelik komplikasyonları) ve laboratuvar kriterleri
+  birlikte aranır
+ilk_tedavi: 'Trombozun kendisi alışılmış yönetimi izler: düşük molekül ağırlıklı heparin (veya fondaparinux)
+  köprüsüyle doğrudan oral antikoagülan veya varfarin; trombofili taşıyıcılığı tek başına antikoagülasyon
+  gerektirmez; tekrar riski yüksek tablolarda (atipik yerleşim, antifosfolipid sendrom, ikinci atak) uzun
+  süreli veya süresiz ikincil profilaksi değerlendirilir; antifosfolipid sendromlu gebelikte profilaktik
+  düşük molekül ağırlıklı heparin artı düşük doz aspirin; geçici risk faktörüyle tromboz geçiren taşıyıcıda
+  antikoagülasyon süresi kısa tutulur'
+klasik_komplikasyon: Tekrarlayan derin ven trombozu ve post-trombotik sendrom, kronik tromboembolik pulmoner
+  hipertansiyon; katastrofik antifosfolipid sendrom (çok organlı mikrotromboz, yüksek ölüm riski); gebelikte
+  rekürren kayıp, preeklampsi ve fetal büyüme geriliği
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-20
+- tus-2015-sonbahar-ktbt-59
+- tus-2019-ilkbahar-ktbt-24
+- tus-2020-ilkbahar-ktbt-98
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

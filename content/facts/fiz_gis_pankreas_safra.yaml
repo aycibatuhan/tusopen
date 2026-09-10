@@ -1,0 +1,10 @@
+id: fiz_gis_pankreas_safra
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pankreas Salgısı ve Safra"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_pankreas_safra]
+metin: "Pankreas salgısının sıvı ve bikarbonat bölümü sekretinle, enzim bölümü kolesistokininle uyarılır; tripsinojen ince bağırsakta enterokinazla tripsine dönüşür ve diğer proteazları da etkinleştirir. Safra asitleri karaciğerde yapılır, safra kesesinde depolanıp yağları emülsifiye eder ve çoğu terminal ileumdan geri emilerek enterohepatik dolaşıma katılır."

@@ -1,0 +1,48 @@
+id: rotator_manset_yirtigi
+version: 1
+status: draft
+author: ai-drafts/ortopedi
+sources:
+- Rockwood and Green's The Shoulder
+- 'AAOS omuz ağrısı kılavuzu (Clinical Practice Guideline: Rotator Cuff)'
+ad: Rotator Manşet Yırtığı
+taksonomi:
+- - ktbt
+  - ortopedi
+  - orto_spor_yumusak_doku
+  - orto_sp_rotator_manset
+tipik_hasta: Baş üstü işte çalışan (boyacı, marangoz) veya yüzme, voleybol, golf gibi baş üstü spor yapan
+  40 yaş üstü orta yaşlı hasta; gece ağrısıyla uyandırır; genç hastada ise düşme gibi travma sonrası ani
+  gelişen omuz güçsüzlüğü ile gelen travmatik yırtık tipi anımsanır
+patofizyoloji: 'Manşet, supraspinatus, infraspinatus, teres minor ve subskapularis tendonlarından oluşur
+  ve humerus başını glenoid içinde merkezde tutar. En sık supraspinatus yırtılır: tendon, akromiyon ile
+  humerus başı arasındaki dar subakromiyal aralıkta tekrar tekrar sıkışır (impingement); kronik sıkışma
+  ve yaşa bağlı tendon dejenerasyonu önce parsiyel, sonra tam kat yırtığa ilerler. Dejenerere tendonda
+  basit bir düşme bile son damla olabilir ve tam kat yırtık yaratabilir'
+anahtar_bulgular:
+- 'Gece ağrısı: etkilenen taraf üzerine yatınca ağrıyla uyanma'
+- 'Ağrılı yay: kolu yana kaldırırken 60-120 derece arasında ağrı, dışında azalma'
+- 'Neer testi: skapula sabitlenirken kolu öne kaldırınca ağrı; Hawkins testi: omuz ve dirsek 90 derece
+  bükülü iken kolu içe döndürünce ağrı — ikisi de sıkışma testleridir'
+- 'Boş kutu (empty can/Jobe) testi: kollar öne hafif açıyla yana 90 derece kaldırılıp başparmaklar aşağı
+  çevrilerek bastırılınca güçsüzlük veya ağrı — supraspinatus'
+- 'Subskapularis için lift-off testi: el sırtta iken gövdeden kaldıramama; infraspinatus için dış rotasyon
+  gücünde azalma'
+- 'Büyük yırtıklarda drop arm belirtisi: hasta kolu yukarı kaldırır ama orada tutamaz, kol yavaşça yana
+  düşer'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Büyük yırtıklarda drop arm belirtisi — kolunu yukarıda tutamayıp düşürmesi
+ilk_tetkik: Fizik muayene ve omuz grafileri (kalsifik tendinit, akromiyon morfolojisi, artrit ayırımı);
+  yırtığın boyutunu ve tendon çekilmesini göstermek için MRG, alternatif olarak ultrason
+kesin_tani: MRG'de tam kat yırtığın gösterilmesi; ultrasonla da doğrulanabilir
+ilk_tedavi: 'Önce konservatif: aktivite değişikliği, NSAİİ, gerekirse subakromiyal kortikosteroid enjeksiyonu
+  ve en az 6-12 hafta rotator manşet güçlendirme eğitimi; cerrahi (artroskopik onarım) genç hastada, travmatik
+  yırtıkta veya konservatif tedavi başarısızlığında'
+klasik_komplikasyon: Yırtığın genişlemesi ve kas yağlanması (onarım sonuçlarını bozar), donuk omuz ve
+  uzun dönemde manşet artropatisi
+tus_gecmisi:
+- tus-2019-sonbahar-ttbt-10
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

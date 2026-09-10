@@ -1,0 +1,10 @@
+id: biyok_vit_suda_eriyen
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Suda Eriyen Vitaminler ve Kofaktör Rolleri"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_suda_eriyen]
+metin: "B1, pirüvat dehidrogenaz, alfa ketoglutarat dehidrogenaz ve transketolazın kofaktörüdür; eksikliği beriberi ve alkoliklerde Wernicke-Korsakoff tablosu yapar. B3 eksikliği, deri döküntüsü, ishal ve demans üçlüsüyle seyreden pellegrayı oluşturur. B6 transaminasyonun kofaktörüdür ve izoniazid kullananlara ek olarak verilir; B12 ve folat eksikliğinde megaloblastik anemiyle hipersegmentasyonlu nötrofiller görülür."

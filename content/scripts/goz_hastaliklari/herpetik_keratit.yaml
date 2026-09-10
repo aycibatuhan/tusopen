@@ -1,0 +1,48 @@
+id: herpetik_keratit
+version: 1
+status: draft
+author: ai-drafts/goz-4
+sources:
+- Kanski Klinik Oftalmoloji (kornea hastaliklari bolumu) — referans olarak listelendi, metin projesi ozgun
+  yazimdir
+- AAO Basic and Clinical Science Course (BCSC), Kornea cildi — referans olarak listelendi
+ad: Herpetik Keratit
+taksonomi:
+- - ktbt
+  - goz_hastaliklari
+  - goz_konjonktiva_kornea
+  - goz_kk_viral_keratit
+tipik_hasta: Tek gözde kızarıklık, batma hissi, sulanma ve ışıktan rahatsızlık ve görme bulanıklığı (fotofobi) ile tekrar
+  tekrar başvuran erişkin; dudak uçuğu öyküsü sorgulanmalı; bulaşıcı damla hastalığı gibi görünen ama
+  antibiyotikli damlaya düzelmeyen kornea lezyonlarında anımsanır
+patofizyoloji: Herpes simpleks virüsü (çoğu olguda HSV-1) birincil enfeksiyon sonrası trigeminal gangliyonlarda
+  latent kalır; ateş, stres, travma, güneş gibi tetikleyicilerle yeniden aktifleşir ve trigeminal lifler
+  boyunca korneaya iner. Epitelyal evrede virüs canlı kornea epitelinde çoğalır; tekrarlayan ataklar kadar
+  konağın inflamatuar yanıtı da stromada derin hasar yapar. Tekrarlayan tutulum kornea duyarlılığının
+  (his) azalmasına yol açar
+anahtar_bulgular:
+- Tek gözde ağrı, kızarıklık, sulanma, fotofobi; görmede hafif azalma
+- Fluorecein boyamada yarık lambada dallanan (dendritik) yüzey lezyonu; dalların uçlarında ampuller (şişkin
+  uçlar)
+- Kornea duyarlılığında azalma (hipoestezi) — tatlı/pamuk testinde duyunun küntleşmesi
+- Uzun süredir tekrarlayan ataklar; dudak uçuğu (herpetik dermatit) öyküsü
+- Stromal tutulumda kornea merkezinde disk biçimli ödem ve çevresinde halka (disk biçimli keratit)
+patognomonik: Fluorecein boyamada uçları şişkin (ampullü) dallanma gösteren dendritik kornea lezyonu
+ilk_tetkik: Fluorecein boyaması sonrası yarık lamba (biyomikroskopi) muayenesi; kornea duyusunun değerlendirilmesi
+kesin_tani: Yarık lambada dendritik lezyonun fluorecein ile gösterilmesi; atipik görünümde kornea kazıntı
+  örneğinde PCR ile viral genom doğrulaması
+ilk_tedavi: 'Topikal antiviral (asiklovir göz merhemi; alternatif gansiklovir jel) ve ağızdan asiklovir.
+  Üstü açık epitelyal hastalıkta topikal steroid KESİNLİKLE verilmez: virüs çoğalmasını hızlandırır, dendrit
+  genişler ve derin (stromal) hastalığa dönüşür. Steroid ancak stromal hastalıkta (disk biçimli keratit)
+  etkin antiviral koruma eşliğinde ve göz hekimi denetiminde eklenir; dendritik lezyonun mekanik temizliği
+  (debridman) ek seçenektir'
+klasik_komplikasyon: Tekrarlayan ataklarda stromal skar ve kornea opasitesi ile kalıcı görme kaybı; steroidin
+  hatalı kullanımıyla dendritik ülserin genişleyip derin stromal hastalığa evrilmesi; duyu azalmasına
+  bağlı beslenme bozukluğu (nörotrofik) kornea ülseri
+tus_gecmisi:
+- tus-2014-ilkbahar-ttbt-119
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

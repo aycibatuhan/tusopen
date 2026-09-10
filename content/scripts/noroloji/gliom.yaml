@@ -1,0 +1,56 @@
+id: gliom
+version: 1
+status: draft
+author: ai-drafts/noroloji-4
+sources:
+- World Health Organization (WHO) santral sinir sistemi tümörleri sınıflaması, 5. baskı
+- Bradley's Neurology in Clinical Practice
+ad: Glial Tümörler
+taksonomi:
+- - ktbt
+  - noroloji
+  - noro_noro_onkoloji
+  - noro_no_glial_tumorler
+tipik_hasta: Elli yaşları ve üzeri, sabah ağırlaşan baş ağrısı ve artan bir bulantı kusma tablosuyla başvuran
+  hasta; tümörün yerleşimine göre afazi, hemiparezi ya da görme alanı kaybı gibi fokal kayıplar eklenir.
+  Genç hastada uzun süredir kontrol edilmeyen epilepsi ya da yeni başlayan nöbet de glial tümörü düşündürür;
+  agresif uçta (glioblastoma) tablo haftalar-aylar içinde ilerler
+patofizyoloji: 'Beyin dokusunun destekleyici hücrelerinden köken alan primer tümörler: astrosit, oligodendrosit
+  ve ependim hücreleri. Dünya Sağlık Örgütü sınıflaması 1. dereceden 4. dereceye kadar sıralar; en sık
+  ve en agresif tip glioblastomadır (4. derece): hızla yayılan, doku sınırlarını aşan büyüme, mikrodamar
+  proliferasyonu ve nekroz ile tanınır. Moleküler belirteçler tedavi yanıtını ve yaşam süresini belirler:
+  izositrat dehidrojenaz (IDH) mutasyonu uzun yaşam süresiyle, MGMT promoter metilasyonu kemoradyoterapi
+  yanıtıyla, 1p ve 19q kromozomlarında kodetisyon oligodendrogliomaya özgü kemoterapi duyarlılığıyla ilişkilidir'
+anahtar_bulgular:
+- 'Kafa içi basınç artışı: sabah ağırlaşan baş ağrısı, bulantı kusma, papilödem, ani pozisyon değişikliklerinde
+  gözlerde kararma'
+- 'Fokal nörolojik kayıp tümörün yerleşimini yansıtır: dominant hemisferde afazi, motor kortekste hemiparezi,
+  temporal lopslarda nöbet'
+- Yeni başlayan epileptik nöbet, özellikle yetişkinde, gizli bir glial tümörün ilk işareti olabilir
+- MRG'de düzensiz sınırlı lezyon, çevre vazojenik ödem ve kitle etkisi; kontrast verildiğinde güçlenen
+  halka (ring) içinde nekrotik merkez, glioblastomanın klasik görüntüsüdür
+- 'WHO 4. derecede biyopsi: mikrodamar proliferasyonu ve palisading nekroz; IDH mutasyonu yokluğu, EGFR
+  amplifikasyonu ve 10. kromozom kaybı destekleyici moleküler bulgular'
+- Ayrımda beyin absesi, tek metastaz ve demiyelinizan lezyon (tümefaktif) MRG'de benzer halka görüntüsü
+  verebilir; öykü, yerleşim ve biyopsi kesinleştirir
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Biyopside mikrodamar proliferasyonu ve palisading nekrozun birlikte görülmesi (glioblastoma)
+ilk_tetkik: Kontrastlı beyin MRG ilk ve en değerli görüntüleme; metastatik hastalık olasılığını dışlamak
+  için toraks-abdomen görüntülemesi düşünülür. Stereotaktik biyopsi ya da rezeksiyon materyali histopatolojik
+  ve moleküler inceleme için gönderilir
+kesin_tani: Stereotaktik biyopsi ya da cerrahi rezeksiyon materyalinin histopatolojik incelemesi ve moleküler
+  sınıflama (IDH mutasyon durumu, 1p/19q kodetisyonu, MGMT promoter metilasyonu)
+ilk_tedavi: Maksimal güvenli cerrahi rezeksiyon (konuşma ve motor alanları koruyarak), ardından fraksiyonel
+  dış ışın radyoterapiyle eş zamanlı temozolomid ve 6 aylık adjuvan temozolomid. Nüks hastalığında tekrar
+  cerrahi, nitrozüre türevi kemoterapiler ya da bevacizumab gibi anti-anjiyojenik ajanlar değerlendirilir
+klasik_komplikasyon: Kitle etkisiyle beyin herniyasyonu; tedaviye rağmen nüks ve ilerleme. WHO 4. derece
+  glioblastomada ortalama yaşam süresi 12-18 ay; uzun süreli sağ kalım IDH mutasyonu ve MGMT metilasyonu
+  olanlarda beklenir
+tus_gecmisi:
+- tus-2015-ilkbahar-ttbt-98
+- tus-2017-ilkbahar-ttbt-97
+- tus-2019-ilkbahar-ktbt-61
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

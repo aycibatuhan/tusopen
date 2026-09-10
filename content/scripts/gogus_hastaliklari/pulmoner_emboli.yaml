@@ -1,0 +1,61 @@
+id: pulmoner_emboli
+version: 1
+status: draft
+author: ai-drafts/gogus-2
+sources:
+- ESC/ERS Pulmoner Emboli Tanı ve Yönetimi Rehberi (2019, güncelleme 2022) — referans adı olarak listelendi,
+  metin projesi özgün yazımdır
+ad: Pulmoner Tromboemboli
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_vaskuler
+  - gog_vas_pulmoner_emboli
+- - ktbt
+  - kardiyoloji
+  - kard_aort_periferik
+  - kard_ap_venoz_tromboembolizm
+tipik_hasta: Ameliyat sonrası yatakta immobilize kalmış, malignitesi olan, uzun araba veya uçak yolculuğu
+  yapmış, gebelik ya da östrojen tedavisi gören hastada ani başlayan nefes darlığı; bacakta şişlik-kızarıklık
+  öyküsü de eklenir. Açıklanamayan takikardi ve hipoksemiyle birlikte akciğer muayenesinin sessiz kalması
+  klasik izlenimdir
+patofizyoloji: Virchow üçgeninin üç kolu — venöz staz, endotel hasarı, hiperkoagülabilite — derin ven
+  trombozunu oluşturur; kopan trombus parçası pulmoner arter ağacını tıkar. Ölü hacim artar, ventilasyon-perfüzyon
+  eşleşmesi bozulur ve hipoksemi gelişir. Geniş embolilerde pulmoner vasküler direnç yükselir, sağ ventrikül
+  yetmezliği ve kardiyovasküler çökme tablosu eklenir
+anahtar_bulgular:
+- Ani başlayan dispne, plöretik göğüs ağrısı ve takikardi; oskültasyon çoğunlukla normaldir (sıkıntılı
+  ama sessiz akciğer)
+- Proksimal bacakta tek taraflı şişlik ve hassasiyet (kaynak DVT kanıtı)
+- EKG en sık sinüs takikardisi; büyük embolide S1Q3T3 deseni, yeni sağ dal bloğu veya aVR yüksekliği
+- Wells skoru ile ön test olasılığı düşük veya orta olan hastada negatif D-dimer görüntülemeye gerek bırakmaz;
+  yüksek klinik olasılıkta D-dimer araştırılmaz, doğrudan görüntüleme yapılır
+- Troponin ve proBNP yükselmesi sağ ventrikül stresini dolaylı yansıtır; prognozu katmanlamada yardımcıdır
+patognomonik: null
+ilk_tetkik: Önce Wells veya Cenevre skoru ile ön test olasılığı hesaplanır; düşük-orta olasılıkta kuantitatif
+  D-dimer istenir, yüksek olasılıkta görüntülemeye geçilir. Gebelikte fetal doz kaygısıyla V/Q sintigrafisi
+  tercih edilebilir
+kesin_tani: 'BT pulmoner anjiyografi altın standarttır: kesit içinde dolum defekti gösterilir. Hemodinamik
+  olarak kararsız, BT''ye taşınamayan hastada ekokardiyografi sağ ventrikül disfonksiyonu ve basınç yüklenmesini
+  gösterir'
+ilk_tedavi: 'Hemodinamik stabil hastada erken tam doz antikoagülasyon: doğrudan oral antikoagülan veya
+  düşük molekül ağırlıklı heparin. Hipotansiyonlu masif embolide sistemik tromboliz; kontrainde ise kateter
+  veya cerrahi embolektomi. Süre mantığı: geçici, çözülen bir risk faktörü saptanan hastada 3 ay; tetikleyici
+  bulunamayan veya kalıcı risk faktörlü hastada süresiz antikoagülasyon; malignitede LMWH temel seçenek'
+klasik_komplikasyon: Masif embolide akut sağ kalp yetmezliği ve kardiyak arrest; tedavi görmeyen veya
+  tekrarlayan embolide kronik tromboembolik pulmoner hipertansiyon
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-5
+- tus-2015-ilkbahar-ktbt-7
+- tus-2016-ilkbahar-ktbt-41
+- tus-2016-ilkbahar-ktbt-5
+- tus-2016-sonbahar-ktbt-5
+- tus-2018-ilkbahar-ktbt-6
+- tus-2019-ilkbahar-ktbt-97
+- tus-2020-sonbahar-ktbt-42
+- tus-2025-ilkbahar-ktbt-81
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

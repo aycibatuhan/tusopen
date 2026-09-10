@@ -1,0 +1,46 @@
+id: case-pilor-stenozu-01
+version: 1
+status: draft
+author: "ai-drafts/cases-f"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: pilor_stenozu
+baslik: "Fıskiye gibi kusan 5 haftalık bebek"
+adimlar:
+  - tip: sunum
+    metin: "5 haftalık erkek bebek, ilk gebelikten doğmuş. İlk haftalarda ara sıra süt çıkarırken son on gündür her beslenmeden sonra basınçla, fıskiye gibi kusuyor; kusmuk hiçbir zaman yeşil değil (safra içermiyor). Kusunca yeniden aç gibi davranıyor ve istekle emiyor. Doğumda 3.400 gram olan bebek bugün 3.700 gram. Muayenede karın yumuşak; sağ kaburga altında zeytin büyüklüğünde, sağlam kıvamda kitle hissediliyor. Elektrolitler: sodyum 134, potasyum 3.0, klor 88; kan gazında pH 7.52, bikarbonat 36."
+  - tip: secim
+    soru: "Projeksiyon tarzı safra içermeyen kusma ve hipokloremik hipokalemik metabolik alkalozu olan bebekte tanı için istenecek ilk görüntüleme hangisidir?"
+    secenekler:
+      - metin: "Abdominal ultrasonografi"
+        dogru: true
+        geri_bildirim: "Pilor stenozunun tanısı ultrasonla konur; pilor kas duvarı kalınlığının 4 mm'yi ve kanal uzunluğunun 16 mm'yi aşması tanıyı destekler, yöntem ışınımsızdır"
+      - metin: "Üst gastrointestinal sistem kontrastlı çalışması"
+        dogru: false
+        geri_bildirim: "Dar pilor kanalı (string bulgusu) gösterir ama ilk seçenek ultrasondur; yalnızca şüpheli kalan vakalara ayrılır"
+      - metin: "Bilgisayarlı batın tomografisi"
+        dogru: false
+        geri_bildirim: "Bebekte ışınım gereksiz yere alınır; ultrason tanı için yeterlidir"
+      - metin: "Kusma kültürü ve viral panel"
+        dogru: false
+        geri_bildirim: "Tablo enfeksiyonla değil mide çıkışındaki mekanik darlıkla uyumludur; bu tetkikler tanıya katkı sağlamaz"
+  - tip: sonuc
+    metin: "Abdominal ultrasonda pilor kas kalınlığı 5 mm, kanal uzunluğu 19 mm ölçülür; mide çıkışından sıvı geçişi kısıtlıdır. Mide belirgin dolu ve dilate."
+  - tip: secim
+    soru: "Tanı doğrulanan bu bebek için doğru tedavi planı hangisidir?"
+    secenekler:
+      - metin: "Önce intravenöz sıvı ve elektrolit düzeltmesi, sonra piloromiyotomi"
+        dogru: true
+        geri_bildirim: "Hipokloremik hipokalemik metabolik alkaloz ve hipokalemi düzeltilmeden anestezi almak postoperatif solunum depresyonu riski taşır; hazırlık tamamlanınca piloromiyotomi yapılır"
+      - metin: "Sıvı düzeltmesini beklemeden acil cerrahi"
+        dogru: false
+        geri_bildirim: "Tablo acil cerrahi gerektirmez; alkaloz düzeltilmeden ameliyat güvenli değildir, hazırlık şarttır"
+      - metin: "Sadece antiemetik ilaç ve mama formülünün değiştirilmesi"
+        dogru: false
+        geri_bildirim: "Mekanik darlık ilaç veya beslenme düzenlemesiyle açılmaz; gecikme kilo alamamayı derinleştirir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: 2-8 haftalık bebek (özellikle ilk erkek bebek) + safra içermeyen fıskiye gibi kusma + hipokloremik hipokalemik metabolik alkaloz = pilor stenozu; sağ üst kadranda zeytin kitlesi palpe edilebilir; tanı ultrasonla konur; tedavi önce sıvı-elektrolit düzeltmesi, sonra piloromiyotomidir."
+sozlu_sorular:
+  - "Pilor stenozunda metabolik alkaloz hangi mekanizmayla gelişir?"
+  - "Cerrahi öncesi hangi hazırlık yapılır ve neden beklenir?"
+  - "Pilor stenozu ile gastroözofageal reflü nasıl ayrılır?"

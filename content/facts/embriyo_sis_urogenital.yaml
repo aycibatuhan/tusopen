@@ -1,0 +1,10 @@
+id: embriyo_sis_urogenital
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Wolff ve Müller Kanalları"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, embriyo_sistem, embriyo_sis_urogenital]
+metin: "Erkek embriyoda Sertoli hücrelerinin salgıladığı anti-Müllerian hormon paramesonefrik yani Müller kanallarının gerilemesini sağlarken, Leydig hücrelerinden gelen testosteron mezonefrik yani Wolff kanallarını epididim, vas deferens ve seminal veziküllere dönüştürür. Testosteron yokluğunda Wolff kanalları geriler ve Müller kanalları kadın genital yollarını oluşturur."

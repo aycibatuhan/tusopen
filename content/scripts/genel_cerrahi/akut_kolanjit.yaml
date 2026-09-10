@@ -1,0 +1,89 @@
+id: akut_kolanjit
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-2
+last_reviewed: '2026-09-09'
+sources:
+- Kiriyama S ve ark. Tokyo Guidelines 2018 — akut kolanjitte tanı kriterleri ve şiddet derecelendirme (J Hepatobiliary Pancreat Sci, 2018); Grade I-III eşikleri ve drenaj zamanlaması bu kaynaktan doğrulandı
+- Gomi H ve ark. Tokyo Guidelines 2018 — akut kolanjit ve kolesistitte antibiyotik tedavisi (J Hepatobiliary Pancreat Sci, 2018)
+- Miura F ve ark. Tokyo Guidelines 2018 — akut kolanjit ve kolesistit yönetim akış şemaları (J Hepatobiliary Pancreat Sci, 2018)
+- Sabiston Textbook of Surgery, safra yolları bölümü
+ad: Akut Kolanjit (Yükselen Bakteriyel Kolanjit)
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_safra_yollari
+  - gc_sy_koledokolitiazis_kolanjit
+tipik_hasta: İleri yaş (altmış ve üstü) hasta klasiktir; en sık neden koledokolitiyazis olduğundan
+  kolelitiazis öyküsü, daha önce ERCP, biliyer stent veya biliyer-bağırsak anastomozu girişimi
+  sorgulanır. Sağ üst kadran ağrısı, ateş ve sarılık üçlüsüyle acile gelen yaşlı hastadır; diyabetik
+  ve yaşlı hastada ağrı ve ateş silik kalıp sarılık ve sepsis öne geçebilir
+patofizyoloji: Safra akışının obstrüksiyonu, intralüminal basınç artışı ve bakteriyel çoğalmanın
+  birleşimi tabloyu yaratır; safra statnazı kolledokta bakteri sayısını hızla yükseltir, basınçla
+  bakteri ve endotoksin kolangojik venöz yolla ve duodenuma geri akışla sistemik dolaşıma geçer.
+  En sık etken kolledok taşıdır; papilla çevresi tümör, striktür, stent tıkanıklığı ve
+  kolesistitteki kompresyon diğer nedenlerdir. Sonuç kolanjittir ve tedavi edilmezse biliyer
+  sepsise ilerler
+anahtar_bulgular:
+- Charcot üçlüsü — ateş ve ürperti, sarılık ve sağ üst kadran ağrısının birlikte bulunması; tam
+  üçlü tüm hastalarda görülmez, sarılık olguların yalnızca yüzde 60-70 kadarında saptanır
+- Reynolds beşlisi — Charcot üçlüsüne şok (hipotansiyon) ve bilinç değişikliğinin eklenmesi; ağır
+  sepsis ve organ disfonksiyonu habercisidir
+- Laboratuvar — lökositoz, CRP artışı, total bilirubin ve direkt fraksiyon artışı, ALP ve GGT
+  yüksekliği; amilaz hafif yükselebilir
+- USG ve MRKP — dilate safra yolları ve nedeni (taş, striktür, stent); taş varlığında yukarıda
+  genişleyen intrahepatik kanallar
+- Kan kültürü pozitifliği sık görülür; en sık etkenler E. coli ve Klebsiella gibi bağırsak kökenli
+  Gram negatif basillerdir
+- TG18 orta şiddet (Grade II) göstergeleri — lökosit 12.000 üstü veya 4.000 altı, ateş 39 derece
+  üstü, yaş 75 üstü, total bilirubin 5 mg/dL üstü veya albümin 3 g/dL altı kriterlerinden ikisinin
+  olması
+- TG18 ağır (Grade III) göstergeleri — noradrenalin veya dopaminle sürdürülen hipotansiyon, bilinç
+  bozukluğu, PaO2/FiO2 oranının 300 altına inmesi, kreatinin 2 mg/dL üstü, PT-INR 1.5 üstü veya
+  trombosit 100.000 altı organ disfonksiyonlarından en az birinin varlığı
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Charcot üçlüsü (duyarlılığı sınırlıdır,
+  tek başına dışlamaya yetmez)
+ilk_tetkik: Kan kültürü, hemogram, CRP ve karaciğer fonksiyon testleri (bilirubin, ALP, GGT) ile
+  birlikte batın USG; dilate safra yolu ve nedenin gösterilmesi hedeflenir. USG yetersiz kalırsa
+  MRKP istenir; tanı netleşmeden acil ERCP planlanmamalıdır
+kesin_tani: TG18 tanı kriterleri üç bileşen kullanır — sistemik inflamasyon bulguları (ateş, lökosit
+  veya CRP), kolestaz bulguları (sarılık, bilirubin 2 mg/dL üstü, ALP-GGT yüksekliği) ve görüntüleme
+  bulguları (safra yolu dilatasyonu ya da etiyolojinin saptanması). Kesin tanı üç bileşenden de birer
+  bulgu ister; şüpheli tanı sistemik inflamasyonla birlikte kolestaz ya da görüntüleme bulgusunun
+  biriyle konur
+ilk_tedavi: Yatış, damar yolu sıvısı, analjezi ve empirik antibiyotikle başlanır; topluluk kökenli
+  hafif-orta olguda üçüncü kuşak sefalosporin (seftriakson) ve metronidazol, ağır (Grade III) veya
+  sağlık kuruluşu kökenli olguda piperacillin-tazobactam ya da karbapenem seçilir. Temel tedavi
+  biliyer drenajdır ve zamanlaması şiddete göre belirlenir — Grade III olguda organ desteğiyle
+  birlikte acil, Grade II olguda antibiyotikle birlikte 24-48 saat içinde erken, Grade I olguda ise
+  antibiyotik yanıtsız kaldığında drenaj yapılır. Drenajın ilk yöntemi ERCP'dir; ERCP başarısız ya
+  da uygulanamazsa perkütan transhepatik biliyer drenaj (PTBD) devreye girer. Kaynak kontrolünden
+  sonra kolesistektomi planlanır
+klasik_komplikasyon: Biliyer sepsis ve sepitik şok; karaciğer absesi (çoğunlukla çoklu); portal ven
+  septik trombozu yani pilyeflebit; tedavi edilmeyen olguda çoklu organ yetmezliği
+ayirici:
+- hastalik: kolelitiazis
+  ayirt_edici: Kolesistit kistik kanalın tıkanmasıyla gelişir; Murphy belirtisi ve USG kolesistit
+    bulguları öndedir, sarılık beklenmez. Kolanjitte ise sarılık ve ateş baş plandadır, safra
+    yolları dilatedir ve acil drenaj (ERCP) gerekebilir
+- hastalik: akut_pankreatit
+  ayirt_edici: Biliyer pankreatitte ağrı epigastriktir ve sırta yayılır, amilaz-lipaz üst sınırın üç
+    katını aşar; sarılık ve yüksek ateş kolanjitte olduğu kadar belirgin değildir. Kolanjitte
+    drenaj öncelikli iken pankreatitte tedavi destekleyicidir, ERCP yalnızca kolanjit birlikteliğinde
+    gerekir
+- hastalik: mide_kanseri
+  ayirt_edici: İleri yaşta ağrısız, ilerleyici sarılık ve kilo kaybı tablosunda obstrüksiyonun nedeni
+    papilla çevresi veya pankreas başı tümörü olabilir; bu durumda ateş ve enfeksiyon bulguları
+    yoktur, bilirubin yavaş yükselir. Kolanjitte ateş, ürperti ve akut ağrı ön plandadır
+tus_gecmisi:
+- tus-2017-sonbahar-ktbt-96
+- tus-2018-ilkbahar-ktbt-93
+- tus-2018-sonbahar-ktbt-14
+- tus-2020-sonbahar-ktbt-15
+- tus-2020-sonbahar-ktbt-94
+- tus-2021-ilkbahar-ktbt-93
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: true
+  ayirici: false

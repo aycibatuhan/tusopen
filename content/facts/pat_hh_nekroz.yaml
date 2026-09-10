@@ -1,0 +1,10 @@
+id: pat_hh_nekroz
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nekroz Tipleri"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_nekroz]
+metin: "Koagülatif nekrozda hücre ve doku ana hatları birkaç gün boyunca korunur, organel detayları kaybolur; klasik örnekler miyokard ve dalak infarktüsüdür. Liküefaktif nekroz beyin dokusunda görülür ve dokunun eriyip sıvı boşluk bırakmasıyla sonuçlanır. Kazeöz nekroz granüler, eozinofilik ve nükleussuz görünümüyle tüberküloz granülomlarının merkezinde bulunur; yağ nekrozu pankreatik lipaz hasarıyla gelişir ve kalsiyum sabunu birikimi görülür."

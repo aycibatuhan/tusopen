@@ -1,0 +1,10 @@
+id: anat_ost_ust_ekst_kemik
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Humerus kırıkları ve sinir riskleri"
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_ust_ekst_kemik]
+metin: "Humerusun cerrahi boynundaki kırık aksiller sinir ve posterior sirkumfleks humeral arteri risk altına alır; gövde (midshaft) kırığında spiral kanal boyunca seyreden radial sinir zarar görebilir. Medial epikondil kırığında ulnar sinir, suprakondiler kırıkta ise brakial arter basısı ve Volkmann iskemik kontraktürü önemlidir. Skafoid kırığında proksimal fragmanın beslenmesi bozulduğu için avasküler nekroz gelişebilir."

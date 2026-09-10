@@ -1,0 +1,10 @@
+id: fiz_ureme_kadin
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Menstrüel Siklus Dinamikleri"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_ureme, fiz_ureme_kadin]
+metin: "Foliküler fazda FSH etkisiyle büyüyen foliküllerden giderek artan östrojen salgısı endometriyumu proliferatif biçime getirir ve orta döngüdeki östrojen tepesi LH salgısında ani bir dalgaya yol açar. Bu dalga ovulasyonu yaklaşık 24-36 saat içinde tetikler; ardından korpus luteumun progesteronu endometriyumu sekretuar evrede tutar."

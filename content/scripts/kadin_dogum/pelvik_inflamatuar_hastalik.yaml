@@ -1,0 +1,54 @@
+id: pelvik_inflamatuar_hastalik
+version: 1
+status: draft
+author: ai-drafts/kadin_dogum-2
+sources:
+- CDC Cinsel Yolla Bulaşan Enfeksiyonlar Tedavi Rehberi (2021) — referans olarak listelendi, metin projesi
+  özgün yazımdır
+ad: Pelvik İnflamatuar Hastalık
+taksonomi:
+- - ktbt
+  - kadin_dogum
+  - kd_genital_enfeksiyonlar
+  - kd_ge_pid
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_cinsel_yolla
+  - enf_cy_pid
+tipik_hasta: Cinsel yaşamı aktif genç kadın; alt karın/pelvik ağrı, pürülan vajinal akıntı, ilişkide ağrı
+  ve ateşle gelir; yeni partner öyküsü, erken yaşta cinsel başlangıç, IUD kullanımı veya son gebelik/düşük
+  sonrası dönem riski artırır
+patofizyoloji: 'Serviksten yukarı tırmanan enfeksiyon zinciri: endometrit, sonra salpenjit, en ileri tabloda
+  pelvik peritonit ve tubo-ovarian apse. Etkenler en sık Chlamydia trachomatis ve Neisseria gonorrhoeae;
+  vajinal flora (anaeroplar, Gardnerella) sıklıkla katılır. Tubaların silia epitelinde harabiyet tubal
+  okluzyona yol açar'
+anahtar_bulgular:
+- Pelvik/adneksiyal ağrı ile birlikte servikal hareket, uterus veya adneksiyal hassasiyeti (tedavi için
+  en düşük klinik eşik)
+- Mukopürülan servikal veya vajinal akıntı
+- Ateş, lökositoz veya C-reaktif protein yüksekliği
+- 'Laboratuvar/teknik ek bulgular: servikste Chlamydia/gonore NAAT pozitifliği, sedimentasyon artışı'
+- Ultrasonda hidrosalpenks/piosalpenks veya tubo-ovarian apse; ağır olguda Fitz-Hugh-Curtis perihepatiti
+  (sağ üst kadranda sürtünme sesi/ağrı)
+patognomonik: null
+ilk_tetkik: Her hastada gebelik testi (dış gebelik dışlanması zorunlu); lökositoz/CRP ve sedimentasyon,
+  servikal ve vajinal örnekten Chlamydia/gonore NAAT, transvajinal ultrason (TOA ve Douglas'ta serbest
+  sıvı araştırması)
+kesin_tani: 'Pratikte tanı klinik, tedavi ampirik: minimum kriterlerden biri (pelvik ağrı + servikal hareket
+  veya uterus/adneksiyal hassasiyeti) varsa tedavi başlanır ve gecikme kabul edilmez; kesin doğrulama
+  için endometrial biyopsi veya laparoskopi altın standarttır ama rutin değildir'
+ilk_tedavi: 'Ayaktan tedavi eşiği: hafif-orta klinik, TOA yok, gebelik yok, oral alım iyi — IM seftriakson
+  tek doz ardından 14 gün doksisiklin + metronidazol. Yatış eşikleri: şiddetli klinik veya yüksek ateş,
+  TOA, gebelik, bulantı-kusma ile oral alamama, 72 saatlik ayaktan tedaviye yanıt yok, cerrahi acil şüphesi
+  — IV seftriakson + doksisiklin ± metronidazol; partner tedavisi ve cinsel perhiz tamamlanana kadar şart'
+klasik_komplikasyon: Tubal okluzyona bağlı infertilite ve dış gebelik riski; kronik pelvik ağrı; tekrarlayan
+  PID; tubo-ovarian apse rüptürü (peritonit, septik şok, acil cerrahi)
+tus_gecmisi:
+- tus-2016-ilkbahar-ktbt-117
+- tus-2020-sonbahar-ktbt-115
+- tus-2021-ilkbahar-ktbt-117
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,10 @@
+id: mikro_mko_firsatci
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Candida ve Aspergillus ayırt edici bulguları"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_firsatci]
+metin: "Candida albicans bağışıklığı baskılanmış hastalarda ağız ve yemek borusunda beyaz plakalar yapar; germ tüpü testi ve klamidospor üretimiyle tanınır. Aspergillus fumigatus septat hifleri dar (akut ~45°) açıyla dallanır; dik açıyla dallanan az septalı hifler ise Mucor/Rhizopus'u düşündürür; alerjik bronkopulmoner aspergillozis, aspergilloma ve invaziv aspergilloz tablolarına yol açar."

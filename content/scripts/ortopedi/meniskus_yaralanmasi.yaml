@@ -1,0 +1,45 @@
+id: meniskus_yaralanmasi
+version: 1
+status: draft
+author: ai-drafts/ortopedi-3
+sources:
+- Campbell's Operative Orthopaedics (menisküs yaralanmaları bölümü) — referans olarak listelendi, metin
+  projesi özgün yazımdır
+- AAOS / ESSKA menisküs lezyonları konsensus belgeleri — isim olarak listelendi
+ad: Menisküs Yaralanmaları
+taksonomi:
+- - ktbt
+  - ortopedi
+  - orto_spor_yumusak_doku
+  - orto_sp_meniskus
+tipik_hasta: Spor sırasında dizin dönerek tibia üzerinde sabit kalmasıyla (dönme kayması) travma alan
+  genç sporcu; ya da hafif çömelme-basma gibi küçük bir travmayla yırtılan, dizinde kireçlenme başlamış
+  orta yaş üstü hasta. Ağrı, şişlik ve bazen dizin kilitlenmesiyle başvurur
+patofizyoloji: Diz fleksiyonda ve yük altında iken dönerse menisküs femur ile tibia arasında sıkışır ve
+  yırtılır. Medial menisküs eklem kapsülüne daha sıkı bağlı ve hareket yeteneği az olduğu için yırtığa
+  en çok o yakalanır. Yırtık, eklem sıvısında inflamatuvar reaksiyon (effüzyon) yapar; serbest kalan parça
+  eklem aralığına girerse kilitlenme olur. Menisküsün yük paylaşma ve kıkırdağı koruma işlevi bozulduğu
+  için uzun dönemde dejeneratif eklem hastalığına zemin hazırlar
+anahtar_bulgular:
+- Eklem aralığında (dizin iç-dış kenarında) lokalize hassasiyet
+- 'Kilitlenme: yırtık parça araya girince diz tam düzleştirilemez'
+- Travma sonrası giderek artan diz içi şişlik (yırtık damarlı bölgedeyse hemartroz)
+- 'McMurray testi pozitif: diz fleksiyonda iken döndürülüp uzatılırken tıkırtı veya ağrı'
+- Takılma, boşalma (poz verememe) hissi ve merdiven-çömelmede artan ağrı
+patognomonik: null
+ilk_tetkik: 'Diz grafileri (kireçlenme ve kemik lezyonlarını dışlamak için) ve özenli muayene: eklem aralığı
+  hassasiyeti, McMurray, stabilitenin değerlendirilmesi'
+kesin_tani: 'Diz MRG: yırtığın varlığı, yeri (damarlı iç-dış zon), tipi (uzunlamasına, kapı kanadı, yatay,
+  karmaşık) ve eşlik eden bağ-kıkırdak hasarını gösterir'
+ilk_tedavi: 'Kilitlenme ve akut ağrı yönetimi; sonra konservatif başlangıç: buz, NSAİİ, kuadriseps güçlendirme,
+  aktivite düzenlemesi. Mekanik semptom (kilitlenme, tekrarlayan takılma) sürerse artroskopi: damarlı
+  dış bölgede yırtıkta onarım (sütür), damarsız iç bölgede parsiyel menisektomi'
+klasik_komplikasyon: Menisektomi sonrasında erken dejeneratif diz eklemi; uzun süren kilitlenmede eklem
+  kıkırdağında ezilme hasarı
+tus_gecmisi:
+- tus-2019-ilkbahar-ktbt-104
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

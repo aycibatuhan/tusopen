@@ -1,0 +1,10 @@
+id: mikro_imm_kompleman
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kompleman yollarının tetikleyicileri"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_kompleman]
+metin: "Kompleman kaskadı üç yoldan etkinleşir: klasik yol antijen-antikor kompleksiyle, alternatif yol mikrobik yüzeylerle ve lektin yolu mannan bağlayıcı lektin ile başlar. Tüm yollar C3 konvertazı oluşturur; son ürün olan C5b-9 membran saldırı kompleksi hedef hücrenin lizisine yol açar."

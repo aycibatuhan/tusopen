@@ -1,0 +1,10 @@
+id: fiz_sinir_spinal_refleks
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Germe Refleksi"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_spinal_refleks]
+metin: "Diz kapağı germe refleksi tek sinapslı ve iki nöronlu bir arktır; kas iğinden gelen Ia afferenti doğrudan alfa motor nöronla sinaps yapar. Golgi tendon organının 1b afferenti ise ara nöron üzerinden işleyen inhibitör refleksle kasın aşırı gerilme altında gevşemesini sağlar."

@@ -1,0 +1,49 @@
+id: case-endometriozis-01
+version: 1
+status: draft
+author: "ai-drafts/cases-f"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: endometriozis
+baslik: "Adet dönemini ağrıya çeviren genç kadın"
+adimlar:
+  - tip: sunum
+    metin: "25 yaşında, nullipar kadın. Ergenlik döneminde hafif olan adet sancıları son üç yıldır giderek ağırlaştı; ağrı adetin ilk günlerinde en yoğun ve standart doz ağrı kesiciyle geçmiyor. İlişki sırasında ve adet dönemlerinde dışkı çıkarırken de ağrı artıyor. Muayenede uterus geriye duruşlu, hareketleri kısıtlı ve rahatsızlık verici; uterosakral bağlarda sert ve hassas nodüller palpe ediliyor. Solda adneksial bölgede 5 cm, sabit, hafif hassas kitle saptanıyor."
+  - tip: secim
+    soru: "Progresif sekonder dismenore, disparoni ve adneksial kitlesi olan bu hastada ilk görüntüleme hangisidir?"
+    secenekler:
+      - metin: "Transvajinal ultrasonografi"
+        dogru: true
+        geri_bildirim: "Endometrioziste ilk görüntüleme transvajinal ultrasondur; endometrioma (çikolata kisti) duvarı düzgün, içinde homojen düşük eko görünümlü kist olarak saptanır"
+      - metin: "Histerosalpingografi"
+        dogru: false
+        geri_bildirim: "Tüp geçişliliği araştırmasıdır; dismenorenin bu tablodaki nedenini göstermez, infertilite değerlendirmesinde yer alır"
+      - metin: "Bilgisayarlı pelvis tomografisi"
+        dogru: false
+        geri_bildirim: "Pelvik yumuşak doku ve küçük lezyonlar için tomografi duyarlı değildir; ultrason yeterlidir"
+      - metin: "Direkt batın grafisi"
+        dogru: false
+        geri_bildirim: "Bu klinik tabloda düz grafide tanısal bulgu beklenmez"
+  - tip: sonuc
+    metin: "Transvajinal ultrasonda sol overde 5 cm, düzgün duvarlı ve içinde homojen düşük eko görünen kist (endometrioma) saptanır; sağ over normal. Uterosakral bölgede ultrasonla belirgin nodül görülmese de palpasyon bulguları derin endometriozis ile uyumludur."
+  - tip: secim
+    soru: "Günlük yaşamını etkileyen ağrısı ve 5 cm endometrioması olan bu hastada tedavi yaklaşımı hangisidir?"
+    secenekler:
+      - metin: "Laparoskopik kist eksizyonu ve adezyonların serbestleştirilmesi"
+        dogru: true
+        geri_bildirim: "Belirgin ağrı ve 4 cm üzerinde endometrioma medikal tedaviyle çözülmez; laparoskopi hem kesin tanı hem de tedavide altın standarttır; lezyon ve kist çıkarılır"
+      - metin: "Uzun süreli nonsteroid antiinflamatuvar ilaç kullanımı"
+        dogru: false
+        geri_bildirim: "Hafif ağrıda ilk basamak olabilir; 5 cm endometriomada yeterli değildir ve hastalığın ilerlemesini önlemez"
+      - metin: "Total histerektomi"
+        dogru: false
+        geri_bildirim: "Genç ve nullipar hastada aşırı ve uygun olmayan seçenektir"
+      - metin: "Sadece oral kontraseptif başlayıp kistin kaybolmasını beklemek"
+        dogru: false
+        geri_bildirim: "Kontraseptifler ağrıyı azaltabilir ama endometrioma ilaçla kaybolmaz; kist için cerrahi plan gerekir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: progresif sekonder dismenore + disparoni + defekasyon ağrısı + uterosakral nodül = endometriozis; transvajinal ultrason endometriomayı gösterir; kesin tanının ve tedavinin altın standardı laparoskopidir; 4 cm üzerinde endometrioma ve dirençli ağrıda medikal tedavi yeterli değildir."
+sozlu_sorular:
+  - "Endometriozis ile adenomyozis nasıl ayrılır?"
+  - "Endometriozis infertiliteye hangi mekanizmalarla yol açar?"
+  - "Çikolata kistinin ultrason görünümü nasıldır?"

@@ -1,0 +1,25 @@
+id: ince_barsak_obstruksiyonu
+version: 1
+status: draft
+author: "ai-drafts/genel_cerrahi-2"
+sources:
+  - "WSES yapışıklığa bağlı ince bağırsak obstrüksiyonu rehberi"
+  - "Schwartz Principles of Surgery"
+ad: İnce Bağırsak Obstrüksiyonu
+taksonomi:
+  - [ktbt, genel_cerrahi, gc_ince_barsak, gc_ib_obstruksiyon]
+tipik_hasta: "Geçirilmiş karın ameliyatı veya karın duvarı fıtığı olan hastada kolik ağrı, kusma ve gaz-gaita çıkışının durmasıyla gelen hasta; ameliyat öyküsü olmayan hastada da fıtık, bant ve nadir tümörler akılda tutulur"
+patofizyoloji: "En sık neden önceki cerrahiye bağlı karın içi yapışıklıklar (bantlar), ikinci sırada karın duvarı fıtıklarıdır. Lümenin en dar olduğu bölüm terminal ileumdur; yabancı cisim ve taşlar en kolay burada takılır, mekanik tıkanıklık bulguları burada belirgindir. Tıkanıklığın gerisinde bağırsak gaz ve sıvıyla genişler, emilim bozulur ve kayıp üçüncü boşluğa geçer; duvar dolaşımı bozulursa strangülasyon (iskemi) tablosuna geçilir. Kapalı uçlu obstrüksiyon (volvulus, herni kesesinde sıkışma) ve strangülasyon en tehlikeli biçimlerdir"
+anahtar_bulgular:
+  - "Akut karında obstrüksiyon üçlüsü: kolik ağrı, kusma ve gaz-gaita çıkamama; çoğu hastada karın distansiyonu eklenir"
+  - "Yerleşim tabloyu belirler: proksimal (jejunum) tıkanıklıkta erken ve bol kusma, az distansiyon; distal (ileum) tıkanıklıkta geç, fekaloid kokulu kusma (ağızda ağız) ve belirgin distansiyon"
+  - "Ayakta direkt karın grafisinde genişlemiş ince bağırsak ansları ve basamaklı hava-sıvı seviyeleri"
+  - "Strangülasyon uyarıları: kolik ağrının sürekli ve yerelleşmiş ağrıya dönüşmesi, ateş, taşikardi, kan gazında metabolik asidoz, peritoneal irritasyon bulguları"
+  - "Fıtık kesesi redüksiyon kabul dışıysa (elle içeri alınamıyorsa) strangülasyon açısından acildir"
+patognomonik: null
+ilk_tetkik: "Ayakta direkt karın ve akciğer grafisi; yerleşim, neden ve komplikasyon için damar yolu kontrastlı abdominal BT günümüzde en ayrıntıcı yöntemdir"
+kesin_tani: "Klinik üçlü ile uyumlu görüntüleme: genişlemiş proksimal anslar, çökmüş distal bağırsak ve geçiş noktası; BT bant geçiş noktasını, kapalı uçlu yapıyı ve strangülasyonu gösterir"
+ilk_tedavi: "Strangülasyon bulgusu yoksa ve tıkanıklık yapışıklığa bağlıysa önce konservatif yaklaşım: ağız yolu kapatılır, nazogastrik sonda ile dekompresyon, damar içi sıvı ve elektrolit düzeltmesi yapılır. Düzelme olmazsa, tablo kapalı uçlu veya herni kaynaklıysa, redüksiyon kabul dışıysa ve strangülasyon şüphesi varsa acil cerrahi"
+klasik_komplikasyon: "Strangülasyonda bağırsak iskemisi, perforasyon, peritonit ve sepsis; uzun süren distansiyonda kusma ve üçüncü boşluğa kayıpla hipovolemik şok, hipokalemi ve böbrek yetmezliği riski"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

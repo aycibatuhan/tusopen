@@ -1,0 +1,30 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install -e ".[dev]"
+      - name: Lint (ruff)
+        run: ruff check src tests
+      - name: Compile check
+        run: python -m compileall -q src
+      - name: Tests (pytest)
+        run: pytest -q
+      - name: Schema + cross-reference validation (plan §6.3)
+        run: tusopen validate
+      # Advisory: needs the local ÖSYM booklet cache, which is never
+      # committed. Run on the maintainer's machine before any release.
+      - name: Own-words originality check (advisory; needs local cache)
+        run: tusopen validate --originality
+        continue-on-error: true

@@ -1,0 +1,49 @@
+id: case-preeklampsi-01
+version: 1
+status: draft
+author: ai-drafts/cases-a
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: preeklampsi
+baslik: "Gebeliğin üçüncü trimesterinde baş ağrısı ve yüksek tansiyon"
+adimlar:
+  - tip: sunum
+    metin: "32 yaşında gebe, gebelik 34 hafta, ilk gebelik. Üç gündür kötüleşen baş ağrısı, ışığa duyarlı görüş bulanıklığı ve göbek üst bölgesinde ağrı tanımlıyor. Önceki kontrollerde tansiyon normal ölçülmüş. Muayenede tansiyon 168/112 mmHg; yüzde, elde ve diz altında belirgin ödem; derin tendon refleksleri canlı. İdrar analizi protein 3 pozitif; 24 saatlik idrar proteini 2.9 gram; trombosit 92 bin, AST 78 U/L, ALT 96 U/L, kreatinin 1.0 mg/dL. Fetal kalp atımı dakikada 148 ve düzenli."
+  - tip: secim
+    soru: "Yirminci haftadan sonra hipertansiyon, proteinüri, trombositopeni ve transaminaz yükselmesi birlikte. Doğru yaklaşım hangisidir?"
+    secenekler:
+      - metin: "Magnezyum sülfat ile konvülsiyon profilaksisi, damar yolu antihipertansifi ve doğumun planlanması"
+        dogru: true
+        geri_bildirim: "Ağır bulgulu geç gebelikte preeklampsi kesinleşir; tek kesin tedavi doğumdur. Magnezyum konvülsiyonu önler, antihipertansif kan basıncını güvenli aralığa indirir."
+      - metin: "Kan basıncını oral ilaçla düzenleyip doğumu iki hafta bekletmek, magnezyum vermeden"
+        dogru: false
+        geri_bildirim: "Ağır bulgular varken gebeliğin uzatılması eklampsi, ayrılma ve organ hasarı riskini büyütür."
+      - metin: "ACE inhibitörü ile tansiyonun düşürülmesi"
+        dogru: false
+        geri_bildirim: "Renin anjiyotensin sistemi blokerleri gebelikte fetusa toksiktir ve kullanılmaz."
+      - metin: "Tuz kısıtı ve bol su ile evde izlem"
+        dogru: false
+        geri_bildirim: "Ağır preeklampsi evde izlenmez; hastane koşullarında değerlendirme ve doğum planlaması gerekir."
+  - tip: sonuc
+    metin: "Damar yolu antihipertansifi ve magnezyum infüzyonu başlanır; gebeliğin 34. haftasında doğum kararı alınır. Doğum öncesi serviste hasta gözlerini yukarı devirerek istemsiz tüm vücut kasılması geçirir."
+  - tip: secim
+    soru: "Konvülsiyon gelişti. Doğru yaklaşım hangisidir?"
+    secenekler:
+      - metin: "Havale sırasında hava yolunun korunması, magnezyum yükleme dozunun tekrarı ve doğumun hızlandırılması"
+        dogru: true
+        geri_bildirim: "Eklampsi nöbetinde birinci ilaç magnezyumdur; hava yolu korunur, stabilizasyon sonrası doğum planı gebeliğin sonlandırılmasına gider."
+      - metin: "Diazepamın rutin birinci seçenek olması"
+        dogru: false
+        geri_bildirim: "Benzodiazepin magnezyuma dirençli nöbette düşünülür; rutin ilk seçenek magnezyumdur."
+      - metin: "Nöbet sonrası gebeliği en az iki hafta olgunlaştırmak için beklemek"
+        dogru: false
+        geri_bildirim: "Eklampsi gelişiminde bekleme yoktur; anne açısından hayati riskin en kısa çözümü doğumdur."
+      - metin: "Magnezyum infüzyonunu refleks kaybı olursa hızla iki katına çıkarmak"
+        dogru: false
+        geri_bildirim: "Refleks kaybı magnezyum toksisitesinin işaretidir; doz artırılmaz, infüzyon yavaşlatılır ve gerekirse kalsiyum glukonat verilir."
+  - tip: ozet
+    metin: "Öğrenme noktaları: yirminci haftadan sonra hipertansiyon artı proteinüri veya organ hasarı preeklampsi tanısıdır; baş ağrısı, görüş bulanıklığı, epigastrik ağrı, trombositopeni ve transaminaz yükselmesi ağır hastalık göstergesidir; tek kesin tedavi doğumdur; konvülsiyon profilaksisi ve eklampsi tedavisi magnezyum sülfattır; kan basıncı labetalol, nifedipin veya hidralazin ile düzenlenir; ACE inhibitörü gebelikte kullanılmaz; magnezyum toksisitesinde refleks kaybı ve solunum depresyonu izlenir, antidot kalsiyumdur."
+sozlu_sorular:
+  - "Magnezyum toksisitesini nasıl tanır ve nasıl geri döndürürsün?"
+  - "HELLP sendromunun üçlü tanımını söyle."
+  - "Hafif ve ağır preeklampsi arasında karar hangi bulgularla verilir?"

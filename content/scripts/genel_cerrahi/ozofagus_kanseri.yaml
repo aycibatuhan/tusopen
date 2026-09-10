@@ -1,0 +1,51 @@
+id: ozofagus_kanseri
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-4
+sources:
+- Sabiston Textbook of Surgery
+- NCCN Esophageal and Esophagogastric Junction Cancers Guideline
+ad: Özofagus Kanseri
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ozofagus
+  - gc_oz_kanser
+tipik_hasta: 'Yetmiş yaş çevresinde başvuran hastada aylar içinde ilerleyen yutma güçlüğü: önce katı,
+  sonra sıvı besinlerde takılma hissi ve belirgin kilo kaybı. Uzun süredir gastroözofageal reflüsü olan
+  obez hastada lezyon distal yerleşimli ve adenokarsinom; sigara-alkol öyküsü olan hastada üst segment
+  yerleşimli ve skuamöz hücreli tip öne çıkar'
+patofizyoloji: Distal üçte birde kronik reflü sonucu gelişen Barrett metaplazisinden displaziyle adenokarsinoma
+  geçiş; servikal ve üst-orta segmentlerde ise tütün ve alkolün mukoza zararına bağlı skuamöz hücreli
+  karsinom. Tümör duvar katlarını aşarak komşu organlara (trakea, aorta) yayılabilir; submukozal lenfatik
+  yolla erken bölgesel lenf bezi metastazı, hematojen yolla en sık karaciğere metastaz. Yutma güçlüğü
+  belirinceye kadar lümen içinde belirgin büyümüş olduğundan tanı çoğunlukla ileri evrede konur
+anahtar_bulgular:
+- 'İlerleyici disfaji: önce katı, sonra sıvı besinlerde takılma hissi'
+- Odinofaji (ağrılı yutma) ve kilo kaybı
+- Baryumlu yutma grafinisinde düzensiz kenarlı, basmalı darlık ve lezyonun üstünde genişlemiş (dilatasyonlu)
+  segment
+- Endoskopide distalde veya üst segmentte düzensiz, çökük ya da ekzofitik lezyon; mukozadan çok noktadan
+  biyopsi gerekir
+- 'Ses kısıklığı (rekürren laringeal sinir tutulumu) veya öksürük-aspirasyon: ileri evre ve trakeaya yayılım
+  işareti'
+- Barrett öyküsü olan hastada izlem endoskopisinde erken saptanan yüzeysel lezyon
+patognomonik: null
+ilk_tetkik: Üst GİS endoskopisi ve lezyondan çok noktadan biyopsi; evreleme için göğüs-batın BT ve PET-BT,
+  duvar derinliği için endoskopik ultrasonografi
+kesin_tani: Endoskopik biyopsinin histolojisi (adenokarsinom veya skuamöz hücreli karsinom); endosonografi
+  ve BT/PET-BT ile lokal ve uzak yaygınlığın saptanması
+ilk_tedavi: Erken yüzeysel lezyonda endoskopik rezeksiyon; lokal ileri olguda neoadjuvan kemoradyoterapi
+  sonrası özofagektomi ve mideden hazırlanan kondüit ile rekonstrüksiyon; metastatik hastada sistemik
+  kemoterapi ve disfajiyi rahatlatmak için stent
+klasik_komplikasyon: Ağır disfajiye bağlı malnütrisyon ve aspirasyon pnömonisi; ileri evrede trakeoözofageal
+  fistül, rekürren laringeal sinir felci ve karaciğer metastazı
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-93
+- tus-2017-sonbahar-ktbt-85
+- tus-2017-sonbahar-ttbt-97
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

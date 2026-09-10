@@ -1,0 +1,24 @@
+id: aspirasyon_pnomonisi
+version: 1
+status: draft
+author: "ai-drafts/anestezi"
+sources:
+  - "Klinik rehberler: Amerikan Anesteziyologlar Derneği (ASA) perioperatif aspirasyon önerileri — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Perioperatif Aspirasyon Pnömonisi
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_aspirasyon]
+tipik_hasta: "Dolu mide riski taşıyan hastada genel anestezi veya derin sedasyon uygulanan tablo: acil cerrahi, gebelik, obezite, gastroparezi veya mekanik bağırsak tıkanıklığı, yutma bozukluğu (nörolojik hastalık), posttravmatik hastada; indüksiyon ya da derlenme sırasında mide içeriğinin hava yoluna geri akması"
+patofizyoloji: "Genel anestezi ve sedasyon larengeal koruyucu refleksleri ve bilinci baskılar; mide içeriği farenkse ulaşarak akciğerlere iner. Kimyasal pnömonit asidik ve hacimli içerikte belirgindir: klasik Roberts-Shirley eşiklerinde (pH 2,5 altı, hacim 0,4 mL/kg üstü — yaklaşık 25 mL) alveolar hasar riski belirgindir; ASA 2022 danışması sabit pH/hacim eşiğini risk öngörücüsü olarak artık desteklemez; steril asidik içerik ilk 1-2 saatte pnömonit yaparken partikül içerik ayrıca hava yolu obstrüksiyonu ekler. Bunu izleyen 48-72 saatte orofarinks florasının çoğalmasıyla bakteriyel aspirasyon pnömonisi gelişir. Profilaksi bu patofizyolojiye dayanır: açlık kuralları (berrak sıvı 2 saat, katı gıda 6 saat), yüksek riskli hastada preoksijenasyon, hızlı seri indüksiyon ve krikoid baskı ile kufflu tüp ile hava yolu izolasyonu"
+anahtar_bulgular:
+  - "İndüksiyon veya tüp çekilmesi sırasında hava yolunda safra renkli sıvı veya partikül görülmesi"
+  - "Anestezi sonrasında hızla gelişen hipoksemi, hırıltılı-ıslak solunum, öksürük"
+  - "İlk saatlerde kimyasal pnömonit bulguları: ateş, takipne, akciğer grafisinde infiltrat (yatarak uygulanan hastada sağ üst lob posterior segmenti ve sağ alt lob superior segmenti)"
+  - "48-72 saatte yeni ateş, purülan balgam ve grafide ilerleyen infiltrat ile bakteriyel pnömoni tablosu"
+  - "Büyük partikül aspirasyonunda mekanik hava yolu obstrüksiyonu belirtileri"
+patognomonik: "Hava yolu yönetimi sırasında görülen safra renkli sıvı veya partikülün hızla gelişen hipoksemi ve infiltratla birleşmesi"
+ilk_tetkik: "Hava yolunun bronkoskopik değerlendirilmesi ve temizlenmesi; arteryel kan gazı, akciğer grafisi ve SpO2 izlemi"
+kesin_tani: "Klinik ve görüntüleme bulgularının birlikte değerlendirilmesi; bronkoskopide hava yolunda içeriğin görülmesi tanıyı kesinleştirir, bakteriyel pnömoni şüphesinde balgam veya bronkoalveolar lavaj kültürü"
+ilk_tedavi: "Hava yolunun emilerek ve gerektiğinde bronkoskopik olarak temizlenmesi; oksijen, gerekiyorsa mekanik ventilatör desteği; sıvı desteği ve gerektiğinde vazopressör ile dolaşımın korunması. Bakteriyel pnömoni gelişen hastada antibiyotik; steril asidik pnömonitte profilaktik antibiyotik ve steroid önerilmez"
+klasik_komplikasyon: "ARDS ve ilerleyici solunum yetmezliği; steril pnömonit üzerine eklenen bakteriyel pnömoni"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

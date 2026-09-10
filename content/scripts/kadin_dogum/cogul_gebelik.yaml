@@ -1,0 +1,50 @@
+id: cogul_gebelik
+version: 1
+status: draft
+author: ai-drafts/kadin_dogum-3
+sources:
+- Williams Obstetrik (Williams Obstetrics) — referans olarak listelendi, metin projesi özgün yazımdır
+- ISUOG kılavuzu (çoğul gebelik ultrasonu)
+ad: Çoğul Gebelik
+taksonomi:
+- - ktbt
+  - kadin_dogum
+  - kd_fetal_komplikasyonlar
+  - kd_fk_cogul_gebelik
+tipik_hasta: Ovulasyon uyarıcı tedavi veya tüp bebek geçiren, ailesinde çoğul gebelik öyküsü olan; rahim
+  ölçüleri gebelik haftasından büyük, bulantı-yorgunluk gibi erken gebelik belirtileri ağırlaşmış, hızlı
+  kilo alan gebe
+patofizyoloji: 'İki yumurta tipi (dizigot) çoğul gebelik iki ayrı yumurtanın döllenmesidir; daima iki
+  plasenta iki zardır ve ovulasyon uyarıcı tedavilerle sıklığı artar. Tek yumurta tipi (monozygot) ise
+  tek döllenmiş yumurtanın erken bölünmesidir ve koryoniklik bölünme zamanını belirler: çok erken ayrılma
+  iki plasenta iki zar, blastokist evresindeki ayrılma tek plasenta iki zar, amniyon kesesi oluşumundan
+  sonraki ayrılma tek plasenta tek zar yapar; tek koryonlu gebelikte ikizler arası kan damarı anastomozları
+  transfüzyon sendromunun zemini olur'
+anahtar_bulgular:
+- Rahim ölçüleri gebelik haftasından büyük; erken gebelik belirtileri (bulantı, yorgunluk) belirgin
+- İlk üç ayda ultrasonda zar arasındaki kalın üçgen şerit (lambda bulgusu) iki koryonu, ince T şeklinde
+  zar birleşimi tek koryonu gösterir
+- HCG ve alfafetoprotein değerleri tekil gebeliğe göre yüksek
+- 'Tek koryonlu gebelikte ikiz transfüzyon sendromu: verici ikizde sıvı azlığı ve idrar kesesinin görünmemesi,
+  alan ikizde sıvı fazlalığı ve büyüklük; aradaki fark belirginleşir'
+- Anne tarafında gebelik şekeri, tansiyon yüksekliği, anemi ve hiperemezis riski artmış
+patognomonik: null
+ilk_tetkik: 'İlk üç ayda ultrason: fetüs sayısı, koryoniklik ve amniyoniklik belirlenir, lambda karşı
+  T bulgusu kaydedilir; takip aralığı koryonikliğe göre planlanır'
+kesin_tani: Ultrasonda iki fetüsün gösterilmesi; koryonikliğin ilk trimesterde saptanması tanının temel
+  parçasıdır çünkü risk gruplamasını ve doğum zamanını belirler
+ilk_tedavi: 'Daha sık izlem ve demir-folik asit desteği; tek koryonlu gebelikte iki haftada bir ultrasonla
+  sıvı ve büyüme dengesinin izlenmesi; doğum zamanı koryonikliğe göre: iki koryonlu gebelik 38. hafta,
+  tek koryonlu iki amniyonlu 36. haftaya yakın, tek amniyonlu 32-34. hafta civarı'
+klasik_komplikasyon: İkiz transfüzyon sendromu ve tek amniyonlu gebelikte kord dolanması; genel olarak
+  erken eylem, büyüme geriliği ve doğum sonrası rahim gevşemesiyle kanama
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-112
+- tus-2016-sonbahar-ktbt-110
+- tus-2016-sonbahar-ktbt-111
+- tus-2020-ilkbahar-ktbt-112
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

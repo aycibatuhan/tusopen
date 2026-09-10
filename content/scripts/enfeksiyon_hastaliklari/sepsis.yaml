@@ -1,0 +1,63 @@
+id: sepsis
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon
+sources:
+- 'Klinik rehberler: Surviving Sepsis Campaign uluslararası sepsis ve septik şok kılavuzu — referans olarak
+  listelendi, metin projesi özgün yazımdır'
+ad: Sepsis
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_sepsis
+  - enf_sp_sepsis_tanim
+tipik_hasta: Akciğer, karın, üriner sistem, deri ya da damar içi kateter gibi bir odakla gelen hastada
+  ateş veya anormal düşük vücut ısısı, taşikardi, hızlı solunum, hipotansiyon ve akut konfüzyon saptanan;
+  özellikle yaşlı, immün baskılanmış ve çok ek hastalıklı kişide ateş yerine yalnızca bilinç bulanıklığı
+  ya da tansiyon düşüklüğüyle başvuran hasta
+patofizyoloji: Sepsis, enfeksiyona karşı konak yanıtının dengesizleşip organ disfonksiyonuna yol açmasıdır;
+  patojenle ilişkili ve konak kaynaklı hasar moleküler örüntüleri bağışıklık hücrelerini aşırı aktive
+  eder. Sitokin dalgası endotel hasarına, damar geçirgenliği artışına, mikrodolaşımın bozulmasına
+  ve pıhtılaşma sisteminin dengesiz aktivasyonuna (yaygın damar içi pıhtılaşma eğilimi) neden olur; dağıtıcı
+  şok tablosunda sistemik damar direnci düşer, hipoperfüzyon dokularda oksijen borçlanması ve laktat artışı
+  yapar. Sürecin ilerleyen aşamalarında bağışıklık felci gelişir ve ikincil enfeksiyonlara zemin hazırlar
+anahtar_bulgular:
+- 'Tanı: enfeksiyon şüphesiyle birlikte SOFA skorunda en az 2 puanlık akut artış'
+- 'qSOFA bileşenleri hızlı taramada kullanılır: solunum hızı 22 ve üzeri, sistolik tansiyon 100 ve altı,
+  bilinç değişikliği'
+- Laktat 2 mmol/L üstü organ hipoperfüzyonunu işaret eder; 4 mmol/L üstü ciddi hipoperfüzyon sayılır
+- 'Septik şok: vazopressörle ortalama arter basıncının 65 mmHg üzerinde tutulması gereksinimi ve sıvıya
+  rağmen laktatın normalin üstünde kalması'
+- Sıcaklık 38 üstü ya da 36 altı; lökositoz ya da lökopeni; trombositopeni; bilirubin ve kreatinin artışı;
+  CRP ve prokalsitonin yüksekliği
+- 'Sık kaynaklar: topluluk kökenli pnömoni, intraabdominal enfeksiyon, üriner sepsis, deri-yumuşak doku
+  enfeksiyonu, kateter ilişkili kan akımı enfeksiyonu, nötropenik hastada barsak mukozasından geçiş'
+patognomonik: null
+ilk_tetkik: Antibiyotik öncesi en az iki set kan kültürü; laktat, tam kan sayımı, kreatinin, elektrolitler,
+  karaciğer fonksiyonları, koagülasyon testleri, prokalsitonin; odak aramada akciğer grafisi, idrar tetkiki
+  ve kültürü, gerekirse kontrastlı bilgisayarlı tomografi
+kesin_tani: Enfeksiyon şüphesi ve enfeksiyonla açıklanabilen akut SOFA artışı (en az 2 puan); septik şok
+  tanımı vazopressör gereksinimiyle hiperalaktatemiyi birlikte gerektirir
+ilk_tedavi: 'İlk bir saat kovanı: kan kültürü alındıktan sonra gecikmeksizin geniş spektrumlu intravenöz
+  antibiyotik, laktat ölçümü, hipotansiyon ya da laktat 4 mmol/L üstündeyse 30 mL/kg kristaloid sıvı resüsitasyonu
+  ve sıvıya yanıt yoksa vazopressör başlanması (birincil seçim noradrenalin; hedef ortalama arter basıncı
+  65 mmHg üstü). Kaynak kontrolü (abse drenajı, nekrotik dokunun temizlenmesi, enfekte kateterin çıkarılması)
+  ilk saatlerde yapılmalıdır; kültür için antibiyotik hiç koşulda bekletilmez. Geniş spektrumlu tedavi
+  kültür sonuçlarına göre 48-72 saat içinde daraltılır'
+klasik_komplikasyon: Septik şok, akut böbrek hasarı (en sık organ yetmezliği), ARDS, yaygın damla içi
+  pıhtılaşma, çoklu organ disfonksiyonu ve ölüm; kritik hastalığı atlatanlarda uzun süreli bağışıklık
+  baskılanması ve ikincil enfeksiyonlar
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-78
+- tus-2013-sonbahar-ktbt-80
+- tus-2014-ilkbahar-ktbt-60
+- tus-2014-ilkbahar-ktbt-93
+- tus-2014-sonbahar-ktbt-73
+- tus-2015-ilkbahar-ttbt-59
+- tus-2017-ilkbahar-ktbt-77
+- tus-2017-sonbahar-ktbt-80
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

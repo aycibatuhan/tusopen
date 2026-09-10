@@ -1,0 +1,27 @@
+id: dah_gis_hpylori_rejim
+version: 1
+status: draft
+author: ai-drafts/dahiliye-5
+sources:
+- ACG kılavuzu — Treatment of Helicobacter pylori Infection (Am J Gastroenterol 2024, Chey ve ark.)
+- Maastricht VI (Fortaza) H. pylori uzlaşısı 2022
+- AAFP 2023 peptik ülser derlemesi
+ad: H. pylori Eradikasyon Rejimleri
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_gastroenteroloji
+  - dah_gis_peptik_ulser
+metin: Antibiyotik duyarlılığı bilinmeyen daha önce tedavi görmemiş hastada ilk seçenek 14
+  gün süreyle optimize bizmut dörtlü tedavidir — günde iki kez PPI, günde dört kez bizmut
+  ve tetrasiklin ile 3-4 doza bölünmüş toplam 1.5-2 g metronidazol; amoksisilin içermediği
+  için penisilin allerjisinde de güvenle kullanılır. PPI, klaritromisin, amoksisilin ve
+  metronidazolun birlikte verildiği eşzamanlı dörtlü tedavi yalnızca makrolid direncinin
+  düşük olduğu yerlerde seçenek olur; klaritromisin direnci pek çok ülkede yüzde 20-30
+  düzeyine ulaştığından klasik PPI-klaritromisinli üçlü tedavi ampirik ilk basamakta
+  terk edilmiş ve kurtarmada klaritromisin ya da levofloksasin ancak duyarlılık testi
+  doğrulanırsa verilmiştir. Üçlü tedaviyle başarısız hastada optimize bizmut dörtlü
+  tedavi yeğlenir. Her hastada tedavi bitiminden en az 4 hafta sonra üre nefes testi ya
+  da dışkı antijen testi ile iyileşme doğrulanır; PPI 2 hafta, bizmut ve antibiyotikler
+  4 hafta önce kesilir ve antikor testleri eski enfeksiyonu gösterdiğinden kontrolde
+  kullanılmaz.

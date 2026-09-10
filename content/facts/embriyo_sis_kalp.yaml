@@ -1,0 +1,10 @@
+id: embriyo_sis_kalp
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kalp Septumlarının Gelişimi"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, embriyo_sistem, embriyo_sis_kalp]
+metin: "Kalpte kulakçıkları ayıran septum primum ve septum sekundum, karıncıkları ayıran interventriküler septum ile kulakçık-karıncık geçidini daraltan endokardiyal yastıklar gelişim sırasında birleşir. Bu yapıların birleşme kusurları kulakçık ve karıncık arası kalıcı delik gibi anomalilere yol açar."

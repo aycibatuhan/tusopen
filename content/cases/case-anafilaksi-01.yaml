@@ -1,0 +1,49 @@
+id: case-anafilaksi-01
+version: 1
+status: draft
+author: "ai-drafts/cases-c"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: anafilaksi
+baslik: "Yemekten hemen sonra gelişen ürtiker ve hırıltı"
+adimlar:
+  - tip: sunum
+    metin: "24 yaşında kadın. Karides içeren yemekten yaklaşık on dakika sonra avuç içi ve boyunda kaşıntılı kabartılar, dudaklarda şişlik, boğazda düğümlenme hissi ve hırıltılı solunum başlamış. Muayenede yaygın ürtiker, dudak ve yanakta anjiyoödem, solunumda hırıltı ve zorlanma var. Nabız 122/dk, tansiyon 88/52 mmHg, oksijen satürasyonu %92."
+  - tip: secim
+    soru: "Gıdaya maruziyetten dakikalar sonra ürtiker, anjiyoödem, hırıltı ve hipotansiyon gelişti. İlk müdahale hangisidir?"
+    secenekler:
+      - metin: "Intramusküler epinefrin (1:1000 çözelti, anterolateral uyluk) ve damar yolu açılıp kristaloid sıvı verilmesi"
+        dogru: true
+        geri_bildirim: "Anafilakside ilk ilaç epinefrindir; gecikmiş epinefrin ölüm riskini artırır. Antihistaminik ve steroid destekleyicidir, kurtarıcı tedavi değildir"
+      - metin: "İlk olarak antihistaminik ve sistemik steroid verilmesi"
+        dogru: false
+        geri_bildirim: "Bu ilaçlar ikinci basamaktır; ciddi reaksiyonda ilk doz epinefrin geciktirilirse tablo ağırlaşır"
+      - metin: "Sadece nebülizer salbutamol ile tedavi"
+        dogru: false
+        geri_bildirim: "Salbutamol bronkospazm için yardımcıdır; hipotansiyonu ve anjiyoödemi düzeltmez"
+      - metin: "Müdahale yapmadan izleyip tekrar değerlendirme"
+        dogru: false
+        geri_bildirim: "Hava yolu ve dolaşım riski olan tablo gözlemle beklenmez; hemen epinefrin verilir"
+  - tip: sonuc
+    metin: "Intramusküler epinefrin ve sıvı sonrası beşinci dakikada tansiyon 104/66 mmHg, hırıltı azaldı, kaşıntı geriledi. On beşinci dakikada bulgular tamamen düzeldi; hasta gözlem ünitesinde tutuluyor."
+  - tip: secim
+    soru: "Klinik düzelme sonrası taburculuk öncesi plan hangisidir?"
+    secenekler:
+      - metin: "En az birkaç saat gözlem (bifazik reaksiyon riski), epinefrin otoenjektörü reçetesi, tetikleyici eğitimi ve alerji kaydı"
+        dogru: true
+        geri_bildirim: "Bulgular gerilese bile bifazik reaksiyon (saatler sonra ikinci dalga) olabilir; taburculukta epinefrin otoenjektörü verilir, tekrar reaksiyonda 5-15 dakika sonra ikinci doz öğretilir"
+      - metin: "Antihistaminik reçete edip hemen taburculuk"
+        dogru: false
+        geri_bildirim: "Epinefrin otoenjektörü olmadan taburcu etmek bir sonraki reaksiyonda ölüm riski taşır; gözlem de gerekir"
+      - metin: "Evde tetikleyici gıdaya yeniden maruz bırakma denemesi önerilmesi"
+        dogru: false
+        geri_bildirim: "Anafilaksiye yol açan gıdanın evde provokasyonu önerilmez; alerji uzmanında değerlendirilir"
+      - metin: "Sadece yüksek doz steroid reçetesi ve ayaktan alerji testi"
+        dogru: false
+        geri_bildirim: "Steroid yardımcıdır ama planın temeli gözlem, epinefrin otoenjektörü ve tetikleyici eğitimidir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: gıdaya maruziyetten dakikalar sonra ürtiker + anjiyoödem + solunum veya kardiyovasküler bulgu anafilaksidir; ilk ilaç intramusküler epinefrindir, antihistaminik ve steroid ikincildir; hipotansiyonda kristaloid sıvı verilir; bifazik reaksiyon için gözlem yapılır; taburculukta epinefrin otoenjektörü ve tetikleyici kaçınma eğitimi verilir."
+sozlu_sorular:
+  - "Anafilaksi tanı ölçütleri nelerdir?"
+  - "Epinefrin dozu ve tekrarı nasıl planlanır?"
+  - "Bifazik reaksiyon nedir ve gözlem süresi neye göre belirlenir?"

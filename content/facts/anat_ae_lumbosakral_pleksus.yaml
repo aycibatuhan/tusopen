@@ -1,0 +1,10 @@
+id: anat_ae_lumbosakral_pleksus
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lumbal ve sakral pleksuslar"
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_lumbosakral_pleksus]
+metin: "Lumbal pleksus L1-L4 köklerinden femoral (L2-L4), obturator (L2-L4) ve lateral femoral kutanöz sinirleri verir. Sakral pleksus L4-S4 köklerinden siyatik siniri (vücudun en kalın siniri) oluşturur; ayrıca üst gluteal (L4-S1), alt gluteal (L5-S2) ve pudendal (S2-S4) sinirler buradan çıkar. Üst gluteal sinir lezyonu Trendelenburg işaretine yol açar."

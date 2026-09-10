@@ -1,0 +1,49 @@
+id: case-psoriasis-01
+version: 1
+status: draft
+author: "ai-drafts/cases-g"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: psoriasis
+baslik: "Dirsek ve dizlerde pullu döküntüler"
+adimlar:
+  - tip: sunum
+    metin: "32 yaşında erkek. Altı aydır dirsek ve dizlerin üst yüzünde, saçlı deride kırmızı, kalın, gümüş rengi pullarla örtülü plaklar var; pullar kazınınca kolayca dökülüyor ve plak yüzeyinde nokta nokta kanama beliriyor. Kaşıntı hafif. Tırnaklarda küçük çukurlar görülüyor. Babasında benzer döküntüler tanımlanıyor. Eklem ağrısı ve sabah tutukluğu sorgulandığında yok. Sistemik ilaç kullanımı ve boğaz enfeksiyonu öyküsü yok."
+  - tip: secim
+    soru: "Ekstansör yüzeylerde kalın pullu plaklar, kazıntıyla nokta kanama ve tırnak çukurları. Yaklaşım hangisi olmalı?"
+    secenekler:
+      - metin: "Klinik görünümle tanı konur; tipik plaklarda biyopsi rutin gerekmez"
+        dogru: true
+        geri_bildirim: "Ekstansör yüzeylerde eritemli kalın pullu plaklar, kazıntı sırasında mum benzeri dökülme ve nokta kanama ile tırnak çukurları psoriasis için tipiktir; tanı klinik konur"
+      - metin: "Kesin tanı için her olguda deri biyopsisi alınır"
+        dogru: false
+        geri_bildirim: "Biyopsi atipik görünümde, tedaviye dirençli ya da ayrıcı tanı belirsiz olgularda düşünülür; klasik görünümde gerekmez"
+      - metin: "Döküntü mantar enfeksiyonu olarak değerlendirilip antifungal başlanır"
+        dogru: false
+        geri_bildirim: "Tinea'da lezyon kenarları aktif ve kabarık olup merkezde iyileşme görülür; buradaki simetrik kalın pullu plaklar ve tırnak çukurları psoriasisi işaret eder"
+      - metin: "Alerji testleriyle tanı doğrulanır"
+        dogru: false
+        geri_bildirim: "Psoriasis immün aracılı epidermal hiperproliferasyondur; alerji testleri tanıya katkı sağlamaz"
+  - tip: sonuc
+    metin: "Hastaya topikal tedavi başlanır; dört hafta sonra plaklar incelmiş ve pullanma azalmıştır. İzlemde hasta, sabahları ellerde yarım saatten uzun süren tutukluk ve distal parmak eklemlerinde ağrı tarif etmeye başlar."
+  - tip: secim
+    soru: "İzlemde yeni başlayan eklem ağrısı ve sabah tutukluğu. Doğru yaklaşım?"
+    secenekler:
+      - metin: "Psoriatik artrit açısından değerlendirilir; eklem muayenesi, görüntüleme ve romatoloji yönlendirmesi yapılır"
+        dogru: true
+        geri_bildirim: "Psoriasis hastalarında eklem tutulumu sıktır; distal interfalengeal eklemler, daktilit ve entezit tipiktir, romatoid faktör negatif olabilir; erken tanı eklem hasarını önler"
+      - metin: "Yalnızca topikal steroid dozu artırılır"
+        dogru: false
+        geri_bildirim: "Eklem tutulumu deri tedavisiyle düzelmez; eklemler ayrı değerlendirilmeli ve sistemik tedavi planlanmalıdır"
+      - metin: "Uzun süreli sistemik kortikosteroid başlanır"
+        dogru: false
+        geri_bildirim: "Sistemik steroid psoriasis tedavisinde rutin kullanılmaz; kesildiğinde ağır alevlenme (eritrodermik veya püstüler tablo) riski taşır"
+      - metin: "Eklem ağrısı döküntüden bağımsız kabul edilerek yalnızca analjezi verilir"
+        dogru: false
+        geri_bildirim: "Eklem bulguları hastalığın doğal bir parçasıdır; tanınması tedavi planını ve prognozu değiştirir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: ekstansör yüzeylerde pullu plaklar + kazıntıyla nokta kanama + tırnak çukurları + aile öyküsü = psoriasis; tanı klinik, biyopsi rutin değil; her hastada eklem tutulumu araştırılır; topikal tedavide potent kortikosteroid ile D vitamini analoğu kombinasyonu temeldir; sistemik steroid rutin kullanılmaz."
+sozlu_sorular:
+  - "Auspitz belirtisi nedir?"
+  - "Psoriatik artritin tipik eklem tutulum özellikleri nelerdir?"
+  - "Orta-şiddetli ve yaygın psoriasiste tedavi seçenekleri nelerdir?"

@@ -1,0 +1,10 @@
+id: histo_kan_kemik_iligi
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Megakaryosit ve Trombosit Oluşumu"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_kan_hematopoez, histo_kan_kemik_iligi]
+metin: "Trombositler, kemik iliğindeki dev boyutlu poliploid megakaryositlerin sitoplazma çıkıntılarından kopan parçacıklardır. Olgunlaşmaları trombopoietin hormonuyla düzenlenir ve tek bir megakaryosit binlerce trombosit üretebilir."

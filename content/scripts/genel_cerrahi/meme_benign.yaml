@@ -1,0 +1,97 @@
+id: meme_benign
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-meme
+sources:
+- NCCN Breast Cancer Screening and Diagnosis guideline — referans olarak listelendi, metin projesi
+  özgün yazımdır
+- WHO Classification of Breast Tumours (5. baskı, filloides derecelendirme) — referans olarak listelendi,
+  metin projesi özgün yazımdır
+- Cerrahi ders kaynakları (mastit ve meme absesi yönetimi) — referans olarak listelendi, metin projesi
+  özgün yazımdır
+ad: Benign Meme Hastalıkları
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_meme
+  - gc_meme_benign
+- - ktbt
+  - genel_cerrahi
+  - gc_meme
+  - gc_meme_enfeksiyon
+tipik_hasta: Yirmi-otuz yaş arası kadında kendisinin fark ettiği, aylardır değişmeyen ya da yavaş
+  büyüyen yuvarlak, ağrısız, kolay hareket eden kitle (fibroadenom) en tipik hasta profili. Reproduktif
+  çağdaki kadında adet dönemine bağlı, adetten önce artan çift taraflı meme ağrısı ve dokuda taneli
+  nodüler his (fibrokistik değişiklikler) diğer sık tablodur. Emziren annede ateş ve titremeyle birlikte
+  tek memede kızarıklık, ısınma, batıcı ağrı (mastit); kırk yaş üstü kadında ise aylar içinde hızla
+  büyüyen iri kitle (filloides tümör) tanıyı yönlendirir
+patofizyoloji: Bu lezyonların çoğu epitel ve stromanın birlikte katıldığı fibroepitelyal süreçlerdir.
+  Fibroadenomda glandular elemanlar ile stroma kapsüllenmiş, hormon duyarlı bir kitle oluşturur;
+  gebelikte ya da hormonal tedavide büyüyebilir, menopozda küçülür. Kistler involüsyon sırasında açılıp
+  tıkanan kanal-asinüs uçlarının sıvı biriktirmesiyle oluşur ve çevrede sık fibrokistik değişiklik
+  bulunur. Filloides tümörün asıl özellikleri stromanın belirgin hücre zenginliği ve yaprak biçimli
+  papiller projeksiyonlardır; benign, sınırda ve malignant olarak derecelenir, metastazı çoğunlukla kan
+  yoluyla olur ve lenf düğümlerine nadir gider. Mastitte en sık etken Staphylococcus aureus olup meme
+  başı çatlağı ve süt stazı kapıyı açar; emzirmeyen kadında ise periduktal mastit-duktus ektazisi
+  tablosu sigara ile ilişkilidir ve areola altında tekrarlayan abse yapar
+anahtar_bulgular:
+- Fibroadenomda yirmi-otuz yaş kadında sert, kauçuk kıvamda, düzgün sınırlı, ağrısız ve doku içinde
+  kolayca kayan kitle; çoğunlukla 2-3 cm boyutta, tek
+- USG incelemesinde fibroadenom oval, düzgün sınırlı, hipoekoik ve genişliği yüksekliğinden fazla lezyon
+- Kist yumuşak-gergin kıvamda, yuvarlak ve ağrılı olabilir; USG incelemesinde düzgün kenarlı anekoik
+  içerik ve arkada akustik güçlenme görülür
+- Fibrokistik değişikliklerde adetten önce artan çift taraflı batma ağrısı, dokuda taneli-kord hissi
+  veren yaygın nodüler yoğunluk
+- Filloides tümörde aylar içinde hızla büyüyen iri, meme yüzeyini geren, damarları belirginleştiren
+  kitle; büyük lezyonlarda cilt ülserasyonu
+- Mastit-abse tablosunda emziren annede tek memede kızarık, ısınmış, derin ağrılı ve hassas alan;
+  yüksek ateş, titreme, lökositoz; ilerleyen dönemde fluktüasyon
+- Duktus ektazisi-periduktal mastitte sigara içen orta yaş kadında meme başı arkasında ağrılı kitle,
+  yeşilimsi-kahverengi akıntı, meme başı çekintisi ve tekrarlayan areola altı abse
+- Yağ nekrozunda travma ya da cerrahi öyküsü olan hastada cilde sabitlenmiş kitle; mamografide
+  mikrokalsifikasyonlar ve çekintiler kanseri taklit eder
+patognomonik: Patognomonik bulgu yok; tanı görüntüleme ve patolojiyle kesinleşir. En ayırt edici
+  eşleşmeler kistte USG incelemesinde anekoik içerik ve aspirasyonla tamamen kaybolma, filloides tümörde
+  histolojide stroma hücre zenginliği ve yaprak biçimli boşluklardır
+ilk_tetkik: 'Yaşa göre görüntüleme: otuz-otuz beş yaş altında USG öncelikli, üstünde mamografi ve USG
+  birlikte kullanılır. Kist şüphesinde tanısal-aspiratif ince iğne hem tanıyı hem tedaviyi bir arada
+  sağlar; aspirasyon sıvısı kanlıysa ya da kist tekrarlıyorsa biyopsiye yönelinir'
+kesin_tani: Katı (solid) lezyonlarda kalın iğne biyopsisi; fibroadenom ile filloides ayrımı ancak
+  histolojik stroma değerlendirmesiyle konur, ince iğne aspirasyonu bu ayrımı yapamaz. Basit kist tanısı
+  tipik USG görüntüsüyle yeterli; kompleks (katı bileşenli) kistte kalın iğne biyopsisi gerekir.
+  Mastit-abse tanısı klinik tablo ve USG incelemesindeki koleksiyon görüntüsüyle konur
+ilk_tedavi: 'Fibroadenomda tipik, küçük (3 cm altı) ve asemptomatik lezyonda görüntüleme uyumluysa izlem
+  yeterlidir; 3 cm üstü, hızlı büyüyen veya hastayı rahatsız eden lezyon çıkarılır. Basit kistte semptom
+  varsa aspirasyon; tekrarlayan, kalın duvarlı ya da kompleks kistte biyopsi. Fibrokistik ağrıda doğru
+  tanıyı bildirmek (kanser olmadığını anlatmak), destekleyici sütyen ve ağrı kesici; inatçı ağrıda
+  danazol gibi ilaçlar düşünülür. Filloides tümörde tedavi her derecede cerrahidir: en az 1 cm sağlam
+  çevre bırakan geniş eksizyon; aksiller disseksiyon gerekmez. Mastitte süt akışının sürdürülmesi
+  (emzirmeye ya da pompalayarak boşaltmaya devam), soğuk uygulama ve anti-stafilokoksik antibiyotik;
+  abse gelişirse USG kılavuzluğunda tekrarlayan iğne aspirasyonu tercih edilir, dirençli iri koleksiyonda
+  insizyon-drenaj yapılır ve emzirme kesilmez'
+klasik_komplikasyon: Mastitte tedavisiz meme absesi, sepsis ve mamiller fistül; filloides tümörde
+  eksizyon marjı yetersizse yerel nüks, malign tipte kan yoluyla akciğer-kemik metastazı; duktus
+  ektazisinde tekrarlayan areola altı abse
+ayirici:
+- hastalik: meme_kanseri
+  ayirt_edici: Kanserde kitle sert, sınırları düzensiz, ağrısız ve çevreye sabittir; cilt çekintisi,
+    portakal kabuğu görünümü, kanlı akıntı ve palpabe aksiller lenf düğümü eşlik edebilir; mamografide
+    spiküle kitle ve gruplu pleomorfik mikrokalsifikasyonlar görülür. İyi huylu lezyonlarda kitle düzgün
+    sınırlı, mobil ve bulgular benign özelliktedir; antibiyotiğe yanıt vermeyen mastit tablosunda
+    inflamatuvar meme kanseri dışlanmalıdır
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-79
+- tus-2015-sonbahar-ktbt-83
+- tus-2015-sonbahar-ktbt-84
+- tus-2016-ilkbahar-ktbt-83
+- tus-2016-ilkbahar-ktbt-84
+- tus-2016-sonbahar-ktbt-84
+- tus-2017-ilkbahar-ktbt-84
+- tus-2018-sonbahar-ktbt-81
+- tus-2019-sonbahar-ktbt-82
+- tus-2021-ilkbahar-ktbt-82
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: true
+  ayirici: true

@@ -1,0 +1,10 @@
+id: fiz_bob_gfr
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "GFR ve Filtrasyon Fraksiyonu"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_gfr]
+metin: "Sağlıklı yetişkinde glomerüler filtrasyon hızı dakikada yaklaşık 120-125 mililitredir ve renal plazma akımının yaklaşık yüzde 20'si filtre edilir; bu oran filtrasyon fraksiyonudur. İnülin klirensi glomerüler filtrasyon hızının altın standart ölçümüdür, serum kreatini ise pratik yaklaşımı sağlar."

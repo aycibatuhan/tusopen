@@ -1,0 +1,10 @@
+id: pat_gen_sitogenetik
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sitogenetik Bozukluklar"
+taksonomi:
+  - [ttbt, patoloji, pat_genetik, pat_gen_sitogenetik]
+metin: "Down sendromu en sık mayoz bölünmede ayrılmama sonucu serbest trizomi 21'dir ve anne yaşı arttıkça sıklığı artar; epikantal kıvrım, düz ense, doğumsal kalp defektleri, duodenal atrezi ve erken başlangıçlı demans ile tanınır. Klinefelter sendromu (47,XXY) erkeklerde testis atrofisi, jinekomasti ve kısırlık yapar. Turner sendromu (45,X) kadınlarda kısa boy, geniş ense, lenfödem, çizgili gonadlar ve aort koarktasyonu yapar."

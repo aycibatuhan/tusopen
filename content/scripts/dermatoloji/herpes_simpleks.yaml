@@ -1,0 +1,52 @@
+id: herpes_simpleks
+version: 1
+status: draft
+author: ai-drafts/dermatoloji-2
+sources:
+- CDC Cinsel Yolla Bulaşan Enfeksiyonlar Tedavi Rehberi
+- Andrews Hastalıkları Cildi
+ad: Herpes Simpleks
+taksonomi:
+- - ktbt
+  - dermatoloji
+  - derm_viral
+  - derm_vr_herpes
+tipik_hasta: Dudak çevresi tipi her yaşta; soğuk hava, güneş maruziyeti, ateşli hastalık, stres veya adet
+  dönemine yakın alevlenme öyküsü; genital tip cinsel açıdan aktif genç erişkin; atopik dermatitli çocukta
+  yaygın ağrılı veziküller (eczema herpeticum) acil tablo; temas sporu (güreş) yapanlarda gövde ve kollar
+patofizyoloji: 'Virüs mukokütanöz giriş yerinde epitel hücrelerini enfekte edip vezikül yapar, periferik
+  sinir boyunca retrograd taşınıp duyu gangliyonunda (dudak: trigeminal, genital: sakral) ömür boyu latent
+  kalır; travma, UV, ateş, stres ve immünsupresyon reaktivasyonla virüsü yeniden deriye taşır; tekrarlar
+  her zaman aynı noktadan başlar'
+anahtar_bulgular:
+- 'Prodrom: karıncalanma, yanma, kaşıntı (atkadan saatler-iki gün önce)'
+- Kızıl zeminde sık dizilmiş içi berrak veziküller; 7-10 günde kabuklanıp iyileşir, iz bırakmaz
+- Tekrarların her zaman aynı anatomik noktadan başlaması
+- 'Genital tip: ağrılı vezikül ve erozyonlar, mukozal yüzeyleri tutabilir'
+- 'Eczema herpeticum: atopik deride yaygın, monomorfik, ağrılı vezikül ve erozyonlar'
+- Parmak ucunda ağrılı vezikül (herpetik panaris) veya güreşçide gövde yayılımı (herpes gladiatorum)
+patognomonik: Aynı anatomik noktada tekrarlayan, sık dizilmiş veziküller
+ilk_tetkik: Klasik görünümde klinik tanı; atipik veya şüpheli olguda vezikül sıvısından HSV PCR; Tzanck
+  yayması (multinükleus dev hücre) hızlıdır ama tip ayrımı yapmaz
+kesin_tani: Klinik artı HSV PCR (pozitiflik alt tip ayrımı da verir); genital tekrarlayan olguda tip saptanması
+  prognozu belirler (HSV-1 genitali daha seyrek tekrarlar)
+ilk_tedavi: 'Antiviraller en iyi prodrom veya ilk 72 saatte başlanır: labial alevlenmede oral asiklovir
+  veya valasiklovir kısa kuşak; genital ilk atak oral asiklovir 7-10 gün; yılda altı veya daha fazla tekrar
+  ya da sosyal rahatsızlıkta sürekli supresif düşük doz; immünsupresif hastada ağır, yaygın veya viseral
+  tutulumda intravenöz asiklovir; dirençli olguda foscarnet; eczema herpeticum her zaman sistemik antiviral
+  ile acil tedavi edilir'
+klasik_komplikasyon: Eczema herpeticum, herpetik panaris, herpetik keratokonjonktivit (göz), neonatal
+  herpes (dissemine veya merkezi sinir sistemi tutulumu; doğum kanalı teması), immünsupresonda asiklovir
+  dirençli yaygın hastalık
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-116
+- tus-2015-ilkbahar-ktbt-116
+- tus-2015-ilkbahar-ttbt-67
+- tus-2015-sonbahar-ttbt-67
+- tus-2019-ilkbahar-ttbt-59
+- tus-2020-sonbahar-ttbt-67
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

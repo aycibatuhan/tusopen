@@ -1,0 +1,47 @@
+id: infeksiyoz_mononukleoz
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-4
+sources:
+- American Academy of Family Physicians (AAFP) Enfeksiyöz Mononükleoz Klinik Rehberi
+ad: İnfeksiyöz Mononükleoz (EBV)
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_dokuntulu_sistemik_viral
+  - enf_dv_ebv_cmv
+tipik_hasta: On beş ile yirmi dört yaş arasındaki öğrenci; haftalardır süren yorgunluk, boğaz ağrısı ve
+  ateşle gelir; sık yakın temas (ortak bardak, öpüşme, spor takımı) öyküsü vardır
+patofizyoloji: Epstein-Barr virüsü orofaringeal epiteli infekte eder, B lenfositlerine geçer ve ömür boyu
+  latent kalır. Tabloyu virüsün kendisi değil, virüse karşı genişleyip çoğalan T lenfosit yanıtı yaratır;
+  bu yanıt lenfoid dokuların (boğaz bademcikleri, dalak, lenf düğümleri) genişlemesine ve dolaşımda atipik
+  lenfositlerin görülmesine neden olur
+anahtar_bulgular:
+- Ateş, eksudatif farenjit ve boyun lenfadenopatisi (özellikle arka servikal zincir)
+- Splenomegali (ve hepatomegali); üst karın dolgunluğu
+- Lökositoz, lenfosit oranının artması ve dolaşımda atipik lenfositler
+- Heterofil antikor (Monospot) pozitifliği
+- Amoksisilin veya ampisilin verilmişse yaygın makulopapüler döküntünün belirmesi
+- Haftalarca süren, işi yavaşlatan ağır yorgunluk
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Farenjit, splenomegali ve atipik lenfositoz üçlüsüne heterofil antikorun pozitifliğinin
+  eşlik etmesi
+ilk_tetkik: Tam kan sayımı (lenfositoz ve atipik lenfosit), karın USG ile dalak boyutu, heterofil antikor
+  testi; karaciğer enzimleri
+kesin_tani: Heterofil antikor pozitifliği ya da EBV-özel antikorlar (VCA IgM); heterofilin negatif kaldığı
+  (çocuk, geç dönem) olgularda EBV PCR
+ilk_tedavi: Destekleyici tedavi (dinlenme, analjezi-antipiretik); steroid yalnız hava yolu obstrüksiyonu,
+  ağır trombositopeni veya hemolitik anemi gibi komplikasyonlarda; temas sporu ve ağırlık kaldırma en
+  az üç-dört hafta ertelenir
+klasik_komplikasyon: Splenik rüptür (temas sporlarının ertelenmesinin nedeni); amoksisilin/ampisilin sonrası
+  döküntü; nadiren hava yolu obstrüksiyonu
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-65
+- tus-2015-ilkbahar-ttbt-64
+- tus-2016-sonbahar-ktbt-1
+- tus-2016-sonbahar-ktbt-54
+- tus-2021-ilkbahar-ktbt-1
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

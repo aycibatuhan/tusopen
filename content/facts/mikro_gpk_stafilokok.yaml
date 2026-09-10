@@ -1,0 +1,10 @@
+id: mikro_gpk_stafilokok
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Stafilokoklarda koagulaz ve kültür özellikleri"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_kok, mikro_gpk_stafilokok]
+metin: "Staphylococcus aureus gram pozitif koklardır; kanlı agarda beta hemoliz yapar, mannitol tuzlu agarda fermente olup kolonileri sarı renge boyar. Koagulaz testi pozitifliği onu koagulaz negatif stafilokoklardan (S. epidermidis, S. saprophyticus) ayıran temel ölçüttür."

@@ -1,0 +1,10 @@
+id: anat_ks_fasiyal
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fasial sinir (VII)"
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_fasiyal]
+metin: "Fasial sinir mimik kaslarının tamamını innerve eder; periferik (Bell) paralizide yüzün tamamı etkilenir, santral paralizide üst yüz her iki taraftan innerve edildiği için alın korunur. Chorda tympani ön 2/3 tat duyusunu taşır ve submandibular ganglion üzerinden submandibular-sublingual bezlerin sekresyonunu sağlar; greater petrosal dalı pterygopalatine ganglionla lakrimal sekresyonu düzenler. Stapedius kası da VII. sinirle innerve edilir."

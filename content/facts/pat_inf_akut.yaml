@@ -1,0 +1,10 @@
+id: pat_inf_akut
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut İnflamasyon"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_akut]
+metin: "Akut inflamasyonda ilk 6-24 saatte (24-48 saatte makrofajlar baskınlaşır) hakim hücre nötrofil granülosittir; damarlarda önce geçici vazokonstriksiyon, sonra vazodilatasyon, geçirgenlik artışı ve lökosit adezyonu ve ekstravasyon gelişir. Eksüdat damar geçirgenliği bozulduğunda oluşan protein ve hücre zengin sıvıdır; transüdat ise kolloid ozmotik basınç kaybına bağlı, az proteinli ve hücresiz sıvıdır. Pürülan inflamasyonda boşluk irin ile dolar; abse organ içinde lokalize irin birikimidir."

@@ -1,0 +1,49 @@
+id: on_capraz_bag_yaralanmasi
+version: 1
+status: draft
+author: ai-drafts/ortopedi-3
+sources:
+- Campbell's Operative Orthopaedics (diz bağ yaralanmaları bölümü) — referans olarak listelendi, metin
+  projesi özgün yazımdır
+- ESSKA / AAOS ön çapraz bağ konsensus ve kılavuz belgeleri — isim olarak listelendi
+ad: Ön Çapraz Bağ Yaralanması
+taksonomi:
+- - ktbt
+  - ortopedi
+  - orto_spor_yumusak_doku
+  - orto_sp_on_capraz
+tipik_hasta: Sıçrayıp inerken veya aniden yön değiştirirken diz üzerinde dönme (pivot) manevrası yapan
+  genç sporcu (basketbol, futbol, voleybol, kayak); travma anında diz içinde çıt sesi duyulur, hasta dizinin
+  boşa çıktığını anlatır ve yerden kalkamaz
+patofizyoloji: 'Diz ekstansiyona yakın ve yük altındayken tibia femur üzerinde içe dönerse ön çapraz bağ
+  aşırı gerilir ve çoğunlukla tam yırtılır. Kanamayla hızla hemartroz gelişir (akut dönemde diz içi şişliğin
+  en sık nedenidir). Eşlik eden yaralanmalar sık görülür: medial menisküs ve iç yan bağ (öğretim klasiklerinde
+  ''üçlü'' birlikteliği), lateral kondil kıkırdağı ve Segond avülsiyonu. Bağın rehberlik işlevi kaybolduğu
+  için tekrarlayan kayma epizotları menisküs ve kıkırdağı yıpratır'
+anahtar_bulgular:
+- Travma anında duyulan çıt sesi ve dizin boşa çıkma hissi; başlangıçta yürüyebilir ama sonra diz toplanamaz
+- İlk saatlerde beliren diz içi şişlik (hemartroz)
+- 'Lachman testi pozitif: diz 30 derece fleksiyonda iken tibia öne kayar ve uç hissi yumuşaktır (klinikte
+  en hassas ve güvenilir test)'
+- 'Pivot shift testi pozitif: ekstansiyondan fleksiyona geçerken tibianın öne kayıp yerine geri oturmasıyla
+  hissedilen kayma'
+- Ön çekmece testi pozitif (90 derece fleksiyonda tibia öne çekilirse aşırı yer değiştirir)
+- Grafide Segond fraktürü izlenimi (lateral tibial platoda avülsiyon parçası)
+patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Pivot shift bulgusu: yalnız ön çapraz bağ yetmezliğinde görülen, eklemle hissedilen o makro-kayma
+  bulgusu'
+ilk_tetkik: Diz grafileri (Segond fraktürü, eşlik eden kemik yaralanması ve hemartroz için) ve özenli
+  stabilite muayenesi (Lachman önce yapılır, diz kasılması testleri bozar)
+kesin_tani: 'Diz MRG: bağın yırtığı, kalan bütünlük durumu, eşlik eden menisküs-kıkırdak hasarı ve kemik
+  iliği kontüzyonları'
+ilk_tedavi: Akut dönemde buz, elevasyon, eklem içi kanın gerekirse boşaltılması, NSAİİ ve hareket açıklığı-kuadriseps
+  çalışması; aktif genç sporcuda ve kayma atakları sürüyorsa artroskopik tendon greftiyle rekonstrüksiyon
+  (primer onarım yapılmaz); az aktiviteli yaşlı hastada konservatif izlem
+klasik_komplikasyon: Tedavi edilmeyen instabilitede menisküs yırtığı ve kıkırdak aşınmasıyla erken osteoartrit;
+  cerrahi sonrası nadiren eklem içi yapışma (artrofibrozis) ve greftte yeniden yırtık
+tus_gecmisi:
+- tus-2021-sonbahar-ktbt-104
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

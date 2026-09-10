@@ -1,0 +1,49 @@
+id: case-menenjit-01
+version: 1
+status: draft
+author: "ai-drafts/cases-c"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: bakteriyel_menenjit
+baslik: "Ateş, boyun kasılmaları ve konfüzyon"
+adimlar:
+  - tip: sunum
+    metin: "26 yaşında erkek. İki gündür yükselen ateş, künt baş ağrısı ve halsizlik var; bugün ailesi ortamda tutunamayacak kadar karışık konuşması ve tanıdıklarını tanımaması olduğunu bildiriyor. Muayenede 39.2 derece ateş, ense arkasında hareketle artan sertlik, fotofobi. Nörolojik odak yok, göz dibi papilödem yok, bağışıklık baskılanması veya geçirilmiş beyin cerrahisi yok. Nabız 104/dk, tansiyon 118/70 mmHg, solunum 18/dk."
+  - tip: secim
+    soru: "Ateş, ense sertliği ve konfüzyon üçlüsü olan hastada ilk yaklaşım hangisidir?"
+    secenekler:
+      - metin: "Kan kültürü alındıktan sonra gecikmeden ampirik dozda seftriakson artı vankomisin ve deksametazon başlanması, ardından lomber ponksiyon yapılması"
+        dogru: true
+        geri_bildirim: "Klasik üçlü klinikte tedavi tanıyı beklemez; kan kültürü alınıp ampirik antibiyotik hemen başlar, lomber ponksiyon aynı gün yapılır; beyin BT ancak odak nörolojik bulgu, papilödem, konvülsiyon veya ciddi bağışıklık baskılanması varsa öne alınır"
+      - metin: "Önce beyin BT yapılması, görüntüleme bitmeden antibiyotik başlanmaması"
+        dogru: false
+        geri_bildirim: "Odak bulgu ve papilödem yoksa BT hastayı geciktirir; antibiyotikteki her saatlik gecikme ölüm ve kalıcı sekel riskini artırır"
+      - metin: "Lomber ponksiyon sonucu çıkana kadar sadece antipiretik ve sıvı ile gözlem"
+        dogru: false
+        geri_bildirim: "Bakteriyel menenjitte gözlem yaklaşımı ölümcüldür; ampirik tedavi sonuç beklenmeden başlanır"
+      - metin: "Viral menenjit olasılığı ile ayaktan takip önerilmesi"
+        dogru: false
+        geri_bildirim: "Konfüzyon ve ense sertliği olan hastada ayaktan yaklaşım güvenli değildir; hastane değerlendirmesi zorunludur"
+  - tip: sonuc
+    metin: "Lomber ponksiyonda beyin omurilik sıvısı bulanık; hücre sayısı 3.400/mm3 ve ağırlıklı nötrofil, protein 260 mg/dL, glukoz 24 mg/dL (aynı gün kan şekeri 108 mg/dL), açılma basıncı artmış. Gram boyamada hücre içi ve dışı gram negatif diplokoklar görülüyor."
+  - tip: secim
+    soru: "BOS bulguları ve gram boyama birlikte değerlendirildiğinde en olası etken hangisidir?"
+    secenekler:
+      - metin: "Neisseria meningitidis"
+        dogru: true
+        geri_bildirim: "Gram negatif diplokok görünümü, irinli BOS ve genç yaş meningokok menenjitini işaret eder; yakın temaslılara kemoprofilaksi de yapılmalıdır"
+      - metin: "Streptococcus pneumoniae"
+        dogru: false
+        geri_bildirim: "Pnömokok gram pozitif diplokok olarak boyanır; daha çok yaşlı, aşısız ve bağışıklık baskılanmış kişilerde sıktır"
+      - metin: "Listeria monocytogenes"
+        dogru: false
+        geri_bildirim: "Gram pozitif çubuktur; klasik risk grupları bebekler, 50 yaş üzeri kişiler ve bağışıklık baskılanması olan hastalardır"
+      - metin: "Haemophilus influenzae tip b"
+        dogru: false
+        geri_bildirim: "Gram negatif çubuktur; aşılama programlarıyla sıklığı belirgin azalmıştır"
+  - tip: ozet
+    metin: "Öğrenme noktaları: ateş + ense sertliği + konfüzyon bakteriyel menenjit olasılığını düşündürür; tedavi geciktirilmez, kan kültürü sonrası ampirik seftriakson artı vankomisin ve deksametazon hemen başlar; BOS'ta yüksek hücre sayısı, yüksek protein ve düşük glukoz bakteriyel tabloyu destekler; gram negatif diplokok Neisseria meningitidis düşündürür; yakın temaslılara kemoprofilaksi yapılır."
+sozlu_sorular:
+  - "Beyin BT lomber ponksiyondan önce hangi durumlarda öne alınır?"
+  - "Bakteriyel ve viral menenjitte BOS farkları nelerdir?"
+  - "Menenjitte temaslı kemoprofilaksisi kime, hangi ilaçlarla yapılır?"

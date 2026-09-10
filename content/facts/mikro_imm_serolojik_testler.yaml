@@ -1,0 +1,10 @@
+id: mikro_imm_serolojik_testler
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aglutinasyon ve ELISA ilkeleri"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_serolojik_testler]
+metin: "Aglutinasyon testinde partiküler antijen, presipitasyon testinde çözünür antijen kullanılır; reaksiyon görünürlükle değerlendirilir. ELISA'da enzimle işaretli ikinci antikor ve kromojenik substrat sayesinde renk değişimi okunur; yöntemin sensitivitesi yüksek olduğundan taramada yaygın olarak kullanılır."

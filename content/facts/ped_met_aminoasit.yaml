@@ -1,0 +1,10 @@
+id: ped_met_aminoasit
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Amino Asit Metabolizması Bozuklukları"
+taksonomi:
+  - [ktbt, pediatri, ped_metabolik, ped_met_aminoasit]
+metin: "Fenilketonüri otosomal resesif fenilalanin hidroksilaz eksikliğidir (nadir olarak BH4 koenzim eksikliği); tedavi edilmeyen olguda zeka geriliği, nöbetler, fare terine benzeyen idrar kokusu ve hipopigmentasyon görülür, yenidoğan taramasıyla erken tanı konur ve düşük fenilalaninli diyette tirozin esansiyel amino asit haline gelir. Tip 1 tirozinemi (fumarilasetoasetaz eksikliği) karaciğer yetmezliği ve renal tübüler disfonksiyon yapar, tanıda succinylacetone yüksekliği esastır ve nitisinon (NTBC) ile tedavi edilir. Akçaağaç şurubu idrar hastalığında dallanmış zincirli alfa-ketoasit dehidrojenaz eksikliği vardır ve yenidoğan döneminde akçaağaç şurubu kokulu idrarla seyreden ensefalopati tablosu görülür. Homosistinüri (sistationin beta-sintaz eksikliği) Marfan benzeri vücut yapısı, zeka geriliği, aşağı-açık yönlü lens lüksasyonu ve tromboz riski yapar; lens lüksasyonu Marfan'da yukarı, homosistinüride aşağı doğrudur. Alkaptonüri (homogentizik asit oksidaz eksikliği) havayla kararan idrar ve okronozla seyrederken, sistinüri renal tübüler resorpsiyon bozukluğuna bağlı tekrarlayan sistin taşları yapar."

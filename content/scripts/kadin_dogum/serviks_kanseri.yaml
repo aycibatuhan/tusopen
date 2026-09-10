@@ -1,0 +1,52 @@
+id: serviks_kanseri
+version: 1
+status: draft
+author: ai-drafts/kadin_dogum
+sources:
+- FIGO ve WHO serviks kanseri tarama-evreleme rehberleri (referans olarak listelendi, metin projesi özgün
+  yazımdır)
+- Berek ve Novak Jinekoloji
+ad: Serviks Kanseri
+taksonomi:
+- - ktbt
+  - kadin_dogum
+  - kd_jinekolojik_onkoloji
+  - kd_jo_serviks_kanseri
+- - ktbt
+  - kadin_dogum
+  - kd_jinekolojik_onkoloji
+  - kd_jo_servikal_tarama
+tipik_hasta: Uzun süredir taramaya gelmemiş, erken yaşta cinsel aktivite başlamış, çok sayıda cinsel partneri
+  olan, sigara içen veya immünsüprese (HIV, organ nakli) kadındır; postkoital kanama ve kötü kokulu akıntı
+  tipik başvurudur, ileri evrede pelvik ağrı ve bacak ödemi eklenir
+patofizyoloji: Yüksek riskli HPV tiplerinin (16 ve 18 en sık) transformasyon bölgesindeki bazal hücreleri
+  infekte etmesi ve enfeksiyonun persiste olması gerekir; viral onkogenler (E6, E7) hücre döngüsünü bozarak
+  servikal intraepitelyal neoplaziden yıllar içinde invaziv karsinoma geçişe yol açar. Histolojik olarak
+  en sık skuamöz hücreli karsinom, ardından adenokarsinom gelir; lenfatik yayılım erken dönemde parametriyum
+  ve pelvik lenf nodlarına olur
+anahtar_bulgular:
+- Postkoital, interval veya atipik vajinal kanama; fetid kokulu akıntı
+- Muayenede ekzofitik, kolay kanayan, ülserli kitle veya servikal kanalde sert infiltratif lezyon; bazı
+  kanserler makroskopik olarak görünmez
+- Tarama testlerinde Pap smear ile atipik skuamöz hücreler, HPV DNA testinde tip 16 ya da 18 pozitifliği
+- İleri evrede parametriyum tutulumu, hidronefrozis, bacak ödemi ve rektovajinal fistül bulguları
+patognomonik: null
+ilk_tetkik: 'Semptomu olmayan kadında tarama: 21 ile 29 yaş arasında üç yılda bir Pap smear, 30 ile 65
+  yaş arasında smear ile HPV testinin birlikte yapılması (beş yılda bir); görüntü veya hücre bozukluğu
+  saptanan hastada kolposkopi yönlendirmeli biyopsi'
+kesin_tani: Kolposkopi yönlendirmeli biyopsi ya da konizasyon örneğinin histopatolojisi; evreleme FIGO
+  2018 kriterlerine göre klinik muayene, görüntüleme (MRG, BT-PET) ve patoloji bulgularının bir arada
+  kullanılmasıyla yapılır
+ilk_tedavi: Mikroinvaziv IA1 evrede ve sınırı temiz konizasyon yeterli olabilir; fertilitenin korunacağı
+  seçilmiş küçük tümörlerde radikal trakelektomi; erken evrede (IB1 ve öncesi) radikal histerektomi ile
+  pelvik lenfadenektomi; lokal ileri evrede ve ameliyat edilemeyen hastada platin bazlı eşzamanlı kemoradyoterapi;
+  vajinal brakiterapi ileri evrenin ayrılmaz parçasıdır
+klasik_komplikasyon: İleri evrede üreter tıkanması ve üremi, vesikovajinal ve rektovajinal fistüller,
+  şiddetli pelvik kanama; tedavi sonrası erken menopoz, lenfödem ve cinsel fonksiyon bozukluğu
+tus_gecmisi:
+- tus-2019-ilkbahar-ktbt-118
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

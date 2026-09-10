@@ -1,0 +1,44 @@
+id: ozofagus_perforasyonu
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-4
+sources:
+- WSES Guidelines for Esophageal Perforation
+- Schwartz Principles of Surgery
+ad: Özofagus Perforasyonu (Boerhaave)
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ozofagus
+  - gc_oz_perforasyon
+tipik_hasta: Alkolle birlikte fazla yiyip içtikten sonra şiddetli kusma geçiren orta yaş üstü erkek; kusmayı
+  hemen izleyen yıkıcı nitelikte göğüs ve epigastrik ağrı, yutma güçlüğü, boyun-üst göğüste cilt altında
+  hava hissi ve hızla kötüleşen genel durumla başvurur
+patofizyoloji: 'Kusma anında mide içi ve özofageal lümen basıncı ani yükselir; üst özofageal sfinkter
+  zamanında gevşeyemezse basınç distal özofagusta tüm katları ilgilendiren yırtılma yapar (çoğunlukla
+  diafragma hemen üstünde, sol posterolateral duvar). Tükürük ve mide içeriği mediastene sızar: önce kimyasal,
+  sonra bakteriyel mediastinit ve sepsis; genellikle sol plevral boşluğa da açılır ve efüzyon-pnömotoraks
+  yapar'
+anahtar_bulgular:
+- Kusmayı izleyen ani, yıkıcı nitelikte göğüs ve epigastrik ağrı
+- Boyun ve üst göğüste subkütan amfizem (palpasyonda krepitasyon)
+- Göğüs grafisinde mediastinal ve cilt altı hava, sol pleural efüzyon veya hidropnömotoraks
+- Hızla ilerleyen ateş, taşikardi ve toksik görünüm (mediastinit-sepsis)
+- Suda eriyen kontrastlı özofagogramda kontrastın mediasten veya plevral boşluğa sızması
+patognomonik: 'Mackler üçlüsü: kusma, şiddetli göğüs ağrısı ve subkütan amfizem'
+ilk_tetkik: Göğüs grafisi ve kontrastlı BT; tanı şüphesinde suda eriyen kontrastla özofagogram
+kesin_tani: Suda eriyen kontrastlı özofagogram veya BT'de kontrastın mediasten-plevral boşluğa sızması;
+  klinik şüphe güçlüyse görüntü tam desteklemese bile tedavi aciliyeti korunur
+ilk_tedavi: Ağızdan beslenme durdurulur, geniş spektrumlu antibiyotik ve damar yolu sıvısı hemen başlanır;
+  erken başvuruda (yaklaşık ilk 24 saat) primer cerrahi onarım ve mediastinal-plevral drenaj, geç başvuruda
+  drenaj ve medikal tedavi öne çıkar; seçili olguda endoskopik klips veya stent
+klasik_komplikasyon: Mediastinit ve yoğun sepsis; sol ampiyem ve çok organ yetmezliği; geç tanı en önemli
+  mortalite nedenidir
+tus_gecmisi:
+- tus-2017-ilkbahar-ktbt-104
+- tus-2020-ilkbahar-ktbt-13
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

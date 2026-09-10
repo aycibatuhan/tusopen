@@ -1,0 +1,23 @@
+id: hemoptizi
+version: 1
+status: draft
+author: ai-drafts/gogus-3
+sources:
+  - "Klinik rehberler: British Thoracic Society hemoptizi yönetim kılavuzu; CIRSE bronşiyal arter embolizasyon standartları — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Hemoptizi
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_klinik_sorunlar, gog_dk_hemoptizi]
+tipik_hasta: "Bronşektazi, tüberküloz veya akciğer kanseri olan hastada ağzından kan gelmesi; kan akciğerin iki dolaşımından da gelebilir ama masif ölümcül kanamaların kaynağı sistemik basınçlı bronşiyal arterlerdir"
+patofizyoloji: "Kanamaların yaklaşık yüzde 90'ı ve masif kanamaların neredeyse tamamı sistemik basınçlı bronşiyal dolaşımdan kaynaklanır; düşük basınçlı pulmoner dolaşım daha seyrek bir kaynaktır; buna karşılık kronik iltihaplı veya genişlemiş bronşların duvarındaki bronşiyal arterler genişler, tortiyöz olur ve sistemik basınç altında kolayca yırtılır (tüberküloz kavitesinin pulmoner arter dalını erittiği Rasmussen anevrizması pulmoner kökenli kanamanın klasik örneğidir). Kan havayollarını doldurdukça asıl ölüm nedeni kan kaybı değil asfiksi olur"
+anahtar_bulgular:
+  - "Öksürükle gelen, köpüklü, canlı kırmızı ve alkali pH'lı kan — kusmayla gelen koyu, asitli mide kanından (hematez) ayırımın temeli"
+  - "Masif kanama eşiği: 24 saat içinde yüz mililitreyi aşan kanama veya kaynağın miktarından bağımsız olarak havayolu tehdidi — eşik sayı kaynaklar arasında 100-600 mililitre arasında değişir, asıl karar havayolu güvenliğidir"
+  - "Altta yatan hastalığın ipuçları: kronik bol balgam (bronşektazi), gece terlemesi ve kilo kaybı (tüberküloz), uzun sigara öyküsü (kanser)"
+  - "İlk muayenede kanayan tarafın saptanması (çıkartılmış kan örneğinden, sesli ve radyolojik bulgulardan)"
+patognomonik: null
+ilk_tetkik: "Önce hava yolu ve dolaşım değerlendirmesi; kanayan tarafın aşağıda olduğu yatış pozisyonu; ardından toraks radyografisi ve stabil hastada toraks BT anjiyografi"
+kesin_tani: "Bronkoskopi ile kanayan bölgenin doğrudan görülmesi; bronşiyal arter kaynaklı kanamada BT anjiyografi veya bronşiyal anjiografi ile kanayan damarın gösterilmesi"
+ilk_tedavi: "Masif kanamada: kanayan taraf aşağı yatış, havayolunun güvenceye alınması (gerekirse entübasyon), oksijen ve damar yolu; devam ederse birinci tedavi bronşiyal arter embolizasyonu; koagülopatinin düzeltilmesi; lokalize olmayan veya embolizasyona dirençli kanamada cerrahi"
+klasik_komplikasyon: "Asfiksi (asıl ölüm nedeni) ve kanama şoku; bronşiyal arter embolizasyonu sonrası spinal damar embolisiyle omurilik iskemisi"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

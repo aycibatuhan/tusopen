@@ -1,0 +1,10 @@
+id: gc_tp_yara_iyilesmesi
+version: 1
+status: draft
+author: "ai-drafts/cerrahi-facts"
+sources:
+  - "Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yara İyileşmesi Fazları"
+taksonomi:
+  - [ktbt, genel_cerrahi, gc_temel_prensipler, gc_tp_yara_iyilesmesi]
+metin: "Yara iyileşmesi dört evrede ilerler: trombosit tıkaç ve fibrin ağıyla hemostaz, ilk 1-4 günde nötrofil ve ardından makrofajların baskın olduğu inflamasyon, 4. günden 3. haftaya süren ve fibroblastlarla kolajen 3 birikiminin granülasyon dokusunu oluşturduğu proliferasyon, son olarak 3. haftadan 1 yıla kadar kolajen 3'ün kolajen 1'e dönüştüğü remodeling. Yara kontraksiyonunu miyofibroblastlar yapar; epitelizasyon 24-48 saat içinde yara kenarlarından başlar. Yaranın gerilme dayanımı 3. ayda normalin yaklaşık yüzde 80'ine ulaşır ve hiçbir zaman yüzde 100'e dönmez. Birincil onarım primer dikişle kapanma, ikincil onarım granülasyonla kendi halinde iyileşme, üçüncül onarım ise kontamine yaranın 3-5 gün bekletilip sonra kapatılmasıdır. Diyabet, sigara, kortikosteroid, malnütrisyon, hipoksi ve enfeksiyon iyileşmeyi bozar; kolajen hidroksilasyonu için C vitamini, sentez için çinko gerekir ve hipertrofik skar yara sınırları içinde kalırken keloid bunları aşar."

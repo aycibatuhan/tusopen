@@ -1,0 +1,33 @@
+id: dah_cardio_gdmt
+version: 1
+status: draft
+author: ai-drafts/kardiyoloji
+sources:
+- AHA/ACC/HFSA 2022 Kalp Yetmezliği Rehberi (Circulation, Heidenreich ve ark.) — referans olarak listelendi,
+  metin projesi özgün yazımdır
+- ESC 2021 Kalp Yetmezliği Rehberi + 2023 Odaklanmış Güncelleme (McDonagh ve ark., Eur Heart J) — referans
+  olarak listelendi
+- PARADIGM-HF (NEJM 2014), DAPA-HF (NEJM 2019), EMPEROR-Reduced (NEJM 2020), EMPEROR-Preserved (NEJM 2021),
+  DELIVER (NEJM 2022) çalışmaları — referans olarak listelendi
+ad: HFrEF GDMT Dört Sütunu
+taksonomi:
+- - ktbt
+  - kardiyoloji
+  - kard_kalp_yetmezligi
+  - kard_ky_ilac_tedavisi
+- - ktbt
+  - dahiliye
+  - dah_kardiyovaskuler
+  - dah_kv_kalp_yetmezligi
+metin: 'HFrEF temel tedavisi dört sütun üzerine kuruludur ve dördü de mortaliteyi azalttığı için hepsi baştan
+  hedeflenir: birinci sütun ARNI (sakubitril-valsartan; ACE inhibitörü veya ARB tolere edilemiyorsa ikame),
+  ikinci sütun kanıtlı beta bloker (bisoprolol, karvedilol, metoprolol süksinat, nebivolol), üçüncü sütun
+  MRA (spironolakton, eplerenon), dördüncü sütun SGLT2 inhibitörü (dapagliflozin veya empagliflozin); 2022
+  ACC/AHA ve 2023 ESC güncellemesiyle dört sütunun dördü de HFrEF grubunda Sınıf I öneridir. Dört ilaç düşük
+  dozda birlikte başlanır ve hedef doza titrenir, birinin hedefe ulaşması diğerinin başlangıcını beklemez.
+  HFmrEF grubunda yalnızca SGLT2 inhibitörü Sınıf I öneridir; ACE inhibitörü-ARNI-ARB, beta bloker ve MRA
+  bu grupta Sınıf IIb düzeyine düşer. HFpEF grubunda da SGLT2 inhibitörü öne çıkan temel ilaçtır; MRA ve
+  ARNI ancak Sınıf IIb öneriyle kullanılır, beta bloker ve ACE inhibitörünün mortaliteye faydası gösterilememiştir.
+  Sakubitril-valsartan hedef dozu 97/103 mg günde iki kezdir; PARADIGM-HF çalışması enalaprile kıyasla kardiyovasküler
+  ölüm ve kalp yetmezliği yatışını yüzde 20 azaltmıştır. Loop diüretik konjesyonu çözer ama bu dört sütunun
+  aksine mortaliteyi değiştirmez.'

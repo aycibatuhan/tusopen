@@ -1,0 +1,10 @@
+id: embriyo_gen_plasenta_zarlar
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plasentanın Maternal ve Fetal Yüzleri"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, embriyo_genel, embriyo_gen_plasenta_zarlar]
+metin: "Plasentanın maternal tarafı decidua basalis adlı annesel dokudan, fetal tarafı ise villüs taşıyan chorion frondosumdan oluşur. Anne ve fetus kanları plasenta bariyeri aracılığıyla gaz, besin ve atık alışverişi yapar; iki dolaşım normalde karışmaz."

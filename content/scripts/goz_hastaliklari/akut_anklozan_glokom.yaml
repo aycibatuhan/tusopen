@@ -1,0 +1,50 @@
+id: akut_anklozan_glokom
+version: 1
+status: draft
+author: ai-drafts/goz
+sources:
+- Türk Oftalmoloji Derneği (TOD) Glokom Tanı ve Tedavi Rehberi
+- Kanski's Clinical Ophthalmology — referans olarak listelendi, metin projesi özgün yazımdır
+ad: Akut Anklozan Glokom (Açı Kapanması Glokomu)
+taksonomi:
+- - ktbt
+  - goz_hastaliklari
+  - goz_glokom
+  - goz_gl_aci_kapanmasi
+tipik_hasta: Altmış yaş üstü, hipermetrop ve sığ ön kamaralı kadında; karanlık sinema salonunda, akşam
+  karanlığında, uzun süre öne eğilerek okurken ya da midriatik veya antikolinerjik etkili ilaç kullanımı
+  sonrasında saatler içinde başlayan şiddetli göz ağrısı, bulanık görme, kızarıklık ve bulantı kusmayla
+  başvurur
+patofizyoloji: 'Pupil bloğu mekanizması: genişleyen pupilde iris kökü lensle temas eder, arka kamardaki
+  aköz ön kamaraya geçemez; arkadaki basınç irisi öne bombeler (iris bombesi) ve dar köşeyi tümüyle kapatır.
+  Drenaj durunca göz içi basıncı dakikalar-saatler içinde 40-60 mmHg bandına tırmanır; bu basınç kornea
+  ödemi ve görme siniri hasarını hızla yaratır'
+anahtar_bulgular:
+- Şiddetli tek göz ağrısı ve aynı tarafta baş ağrısı; hasta elini gözünün üstünde tutar
+- Bulanık görme ve karşı ışıkta renkli hale görme
+- Sisli (ödemli) kornea, siliyer enjeksiyon, taş gibi sert ve son derece ağrılı göz
+- Orta genişlikte (midriatik), ışığa yanıt vermeyen pupil
+- Bulantı, kusma ve karın ağrısı; yanlışlıkla karın cerrahisine yönlendirilme riski
+- Tonometride göz içi basıncının belirgin yüksekliği (çoğunlukla 40 mmHg üzerinde)
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Ağrılı, kızarmış, taş gibi sert göz birlikteliğinde ışığa yanıt vermeyen orta dilate pupil
+  ve sisli kornea üçlüsü
+ilk_tetkik: Göz içi basıncı ölçümü (tonometri) ve yarık lamba muayenesi; tanıyı geciktirmeden ön kamaraya
+  açının değerlendirilmesi (gonioskopi, acil koşullarda el lensiyle)
+kesin_tani: Yüksek göz içi basıncı ile birlikte gonioskopide açının kapatılmış olarak görülmesi; kriz
+  geçiren gözde tanı konduğunda karşı gözün de sığ açılı ve dar köşeli bulunması tanıyı destekler
+ilk_tedavi: 'Sıralama esastır. Birinci adım basıncı kırmaktır: intravenöz (gerekirse oral) asetazolamid,
+  üstüne topikal beta bloker ve alfa-2 agonist, dirençli olguda hiperosmotik ajan (mannitol); bulantı
+  kusma için antiemetik, ağrı için analjezi. Pilokarpin ancak basınç düştükten sonra işe yarar: yüksek
+  basınçta iskemik iris sfinkteri miyotiğe yanıt vermez, ilk anda verilmesi boşa çabadır. Topikal steroid
+  eşlik eden enflamasyonu bastırır. Basınç kontrol altına alındıktan sonraki kesin tedavi lazer periferik
+  iridektomidir: pupiller bloğu ortadan kaldırır; kriz geçiren gözde acil, tanı sığ açılı bulunan karşı
+  gözde koruyucu olarak, yani her iki gözde yapılır'
+klasik_komplikasyon: Basınç yükselmesinin sürmesinde kalıcı görme siniri hasarı ve körlük; atlatılan krizin
+  tekrarı ve karşı gözde önümüzdeki günlerde ikinci kriz riski
+tus_gecmisi:
+- tus-2020-ilkbahar-ktbt-108
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

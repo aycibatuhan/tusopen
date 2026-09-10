@@ -1,0 +1,25 @@
+id: perioperatif_anafilaksi
+version: 1
+status: draft
+author: "ai-drafts/anestezi-2"
+sources:
+  - "NAP6 (Birleşik Krallık 6. Ulusal Perioperatif Anafilaksi Projesi) raporu — referans olarak listelendi, metin projesi özgün yazımdır"
+  - "World Allergy Organization anafilaksi rehberleri — referans olarak listelendi, metin projesi özgün yazımdır"
+ad: Perioperatif Anafilaksi
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_anafilaksi]
+tipik_hasta: "Anestezi indüksiyonundan dakikalar sonra açıklanamayan hipotansiyon ve bronkospazm gelişen hasta; kadın cinsiyet ve daha önce sorunsuz verilmiş ilaca duyarlılaşma öyküsü riski artırır; spina bifida ve ürogenital anomalili hastalarda lateks riski ön plandadır"
+patofizyoloji: "Ağırlıklı IgE aracılı aşırı duyarlılıkla mast hücresi ve bazofil degranülasyonu; histamin, triptaz, lökotrienler ve trombosit aktivasyon faktörü salgılanır. Sonuç geniş çaplı vazodilatasyon, kapiller sızıntı ve bronkospazmdır. Perioperatif tetikleyiciler arasında en sık antibiyotiklerdir (NAP6'da ~%47), rokuronyum başta olmak üzere nöromusküler blokerler ikinci sıradadır (~%33) (dörtlü amonyum grubu ortak yapısı nedeniyle sınıf içi çapraz reaktivite olur; tarihsel olarak ilk tanımlanan ve ülkemizde sınavlarda anılan ajan D-tubokurare'dir); beta laktam antibiyotikler, lateks ve hipnotikler diğer başlıklardır"
+anahtar_bulgular:
+  - "İlaç verildikten dakikalar ile kısa süre içinde başlayan, sıvıya dirençli hipotansiyon ve kardiyovasküler kollaps"
+  - "Havayolu basıncında artış, ekshale CO2 düşüşü ve difüz bronkospazm"
+  - "Ürtiker, floş, anjiyoödem gibi deri bulguları; anestezi altında dörtte biri aşkın hastada görülmeyebilir"
+  - "Olayın ilk saat içinde alınan kan örneğinde serum triptaz yüksekliği (30-120 dakikada pik yapar)"
+  - "Epinefrinle hızlı düzelme; gecikmeli tedavide dirençli kollaps"
+patognomonik: null
+ilk_tetkik: "Şüpheyle hemen tedaviye geçilir; ilaç-olay zaman çizelgesi yazıya geçirilir ve olay sırasında (tercihen başlangıçtan sonraki ilk saatte) serum triptazı için kan alınır"
+kesin_tani: "Olay sırasında yükselmiş serum triptazı ile desteklenen klinik tablo; kesin etkenin gösterilmesi, iyileşmenin ardından 4-6 hafta sonra yapılan deri prick ve intrakütan testleridir"
+ilk_tedavi: "Şüpheli ilacı ve cerrahiyi durdurup yardım çağrısı; ilk tedavi intravenöz epinefrindir (hipotansiyonda 50-100 mikrogram bolus, gerekirse tekrar; kardiyak arrestte yüksek doz), eş zamanlı agresif kristaloid sıvı; dirençli tabloda epinefrin infüzyonu. Bronkospazmda inhaler ve derin anestezi ayarlanır; antihistaminik ve steroid ikincil sıradadır ve tabloyu kurtarmaz"
+klasik_komplikasyon: "Hipoksik ve kardiyovasküler kollaps, kardiyak arrest; hayatta kalanlarda ikinci faz (geç, bifazik) reaksiyon riski; kan testi yapılana kadar etkenin saptanamaması ve tekrar maruziyet riski"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

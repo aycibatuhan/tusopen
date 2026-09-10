@@ -1,0 +1,71 @@
+id: hiv_enfeksiyonu
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon
+sources:
+- 'Klinik rehberler: DHHS antiretroviral tedavi kılavuzları, WHO HIV tedavi rehberi — referans olarak
+  listelendi, metin projesi özgün yazımdır'
+ad: HIV Enfeksiyonu
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hiv
+  - enf_hiv_tani_seyir
+tipik_hasta: Korunmasız cinsel temas, damar içi madde kullanımı ya da kontamine kan-kesici alet teması
+  öyküsü olan; temastan 2-4 hafta sonra mononükleoz benzeri tabloyla (ateş, boğaz ağrısı, makülopapüler
+  döküntü, ağız-genital ülser, genelleşmiş lenfadenopati) gelen; tanı geçerse yıllar içinde kilo kaybı,
+  tekrarlayan enfeksiyonlar ve fırsatçı hastalıklarla başvuran hasta; eşlik eden cinsel yolla bulaşan
+  diğer enfeksiyonlar da uyarı işaretidir
+patofizyoloji: HIV zarflı bir retrovirüstür; gp120 proteininin CD4 reseptörüne ve CCR5 (erken evre) ya
+  da CXCR4 (ilerlemiş evre) koreseptörüne bağlanmasıyla hücreye girer, revers transkriptazla RNA genomunu
+  DNA'ya çevirir ve integrazla konak genomuna gömer. Viral üretimle CD4 T lenfositler sürekli yıkılır;
+  virüs lenfoid dokuda rezervuar kurduğu için tam olarak silinemez. CD4 sayısı düştükçe hücresel bağışıklık
+  gözetimi çöker ve fırsatçı enfeksiyonlar ile AIDS tanımlı maligniteler ortaya çıkar
+anahtar_bulgular:
+- 'Akut retroviral sendrom: temastan 2-4 hafta sonra mononükleoz benzeri ateş, farenjit, makülopapüler
+  döküntü, oral ya da genital ülser, genelleşmiş lenfadenopati, artralji; bu evrede antikor henüz negatif
+  olabilir, viral RNA pozitiftir'
+- 'Klinik latent evre yıllarca sürebilir: genelleşmiş lenfadenopati dışında belirtisiz, ama CD4 sayısı
+  yavaş yavaş düşer'
+- 'AIDS tanımı: CD4 sayısının 200 hücre/mm3 altına inmesi ya da AIDS tanımlayıcı fırsatçı enfeksiyon-malignite
+  gelişmesi'
+- 'CD4 eşiği-fırsatçı enfeksiyon eşleşmesi: 200 altında Pneumocystis jirovecii pnömonisi (kuru öksürük,
+  eforla hipoksemi, grafide difüz interstisyel infiltrasyon); 100 altına indiğinde ve toksoplazma IgG
+  pozitifse toksoplazmoz için primer profilaksi; 50 altında CMV retiniti (uçuşan cisimler, görme kaybı)
+  ve Mycobacterium avium kompleksi (ateş, karaciğer-dalak tutulumu, bakteriyemi) öne çıkar'
+- 'AIDS tanımlayıcı maligniteler: Kaposi sarkomu (HHV-8; morumsu deri lezyonları), invaziv servikal kanser
+  (HPV), non-Hodgkin lenfoma (EBV)'
+- 'Diğer klasik eşlikçiler: oral kandidiyazis (pamukçuk), gece terlemeleri, kronik ishal ve kilo kaybı;
+  CD4 200 altına inenlere trimetoprim-sülfametoksazol profilaksisi başlanır'
+patognomonik: null
+ilk_tetkik: Dördüncü nesil kombinasyon testiyle (p24 antijen ve antikor birlikte) tarama; pozitifse ikinci
+  bir testle doğrulama ve HIV-1 RNA (viral yük) ölçümü; CD4 hücre sayımı; gebelik durumu ve cinsel yolla
+  bulaşan diğer enfeksiyonların taranması
+kesin_tani: Pozitif tarama testinin doğrulama testiyle teyidi; akut dönemde antikor negatifken HIV RNA
+  PCR pozitifliği tanı koydurur
+ilk_tedavi: 'CD4 sayısından bağımsız olarak tüm tanılı hastalarda derhal kombinasyon antiretroviral tedavi
+  (ART) başlanır: klasik şema iki nükleozid/nükleotid revers transkriptaz inhibitörü (tenofovir lamivudin
+  ya da emtrisitabin) artı integraz inhibitörüdür. Profilaksi mantığı CD4 eşiğine bağlıdır: 200 altında
+  trimetoprim-sülfametoksazolle Pneumocystis ve toksoplazmoz profilaksisi; CMV profilaksisi rutin değildir,
+  erken tanı için düzenli göz dibi muayenesi yapılır. Temas sonrası profilaksi 72 saat içinde başlanır;
+  gebelikte ART ile dikey geçiş büyük ölçüde önlenir'
+klasik_komplikasyon: Fırsatçı enfeksiyonlar (Pneumocystis pnömonisi, serebral toksoplazmoz, CMV retiniti,
+  kriptokok menenjiti, Mycobacterium avium kompleksi), Kaposi sarkomu ve non-Hodgkin lenfoma; tedavi edilmeyen
+  hastada AIDS'e ilerleme ve ölüm
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-66
+- tus-2014-sonbahar-ktbt-77
+- tus-2015-ilkbahar-ktbt-1
+- tus-2015-sonbahar-ttbt-68
+- tus-2016-sonbahar-ttbt-66
+- tus-2016-sonbahar-ttbt-67
+- tus-2018-sonbahar-ktbt-2
+- tus-2019-ilkbahar-ttbt-89
+- tus-2019-sonbahar-ttbt-67
+- tus-2020-ilkbahar-ttbt-65
+- tus-2023-sonbahar-ttbt-93
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

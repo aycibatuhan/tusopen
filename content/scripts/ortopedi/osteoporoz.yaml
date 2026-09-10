@@ -1,0 +1,59 @@
+id: osteoporoz
+version: 1
+status: draft
+author: ai-drafts/ortopedi-2
+sources:
+- Bone Health and Osteoporosis Foundation (BHOF) klinik rehberi
+- ACR (Amerikan Romatoloji Koleji) osteoporoz tedavi rehberi
+ad: Osteoporoz
+taksonomi:
+- - ktbt
+  - ortopedi
+  - orto_metabolik_kemik
+  - orto_mk_osteoporoz
+- - ktbt
+  - ftr
+  - ftr_metabolik_kemik
+  - ftr_mk_osteoporoz
+tipik_hasta: Menopoz sonrası 60'lı yaşlardaki ince yapılı kadın; uzun süreli kortikosteroid kullanan,
+  sigara içen, kalsiyum ve D vitamini yetersiz kişiler; boy kısalması ve kamburlaşma şikayeti; yerden
+  yükselmeyi gerektirmeyen düşme sonrası bilek veya kalça kırığı; bir kez kırık yaşamış hastada sonraki
+  kırık riski katlanarak artar
+patofizyoloji: Kemik dönüşümünde osteoklastik resorpsiyon osteoblastik yeni kemik yapımını aşar; menopozda
+  östrojen eksikliği osteoklast aktivitesini frenleyen koruyucu mekanizmayı kaldırır ve hızlı yıkım önce
+  trabeküler kemikte (vertebra, distal radius, femur boyun) olur; ileri yaşta osteoblast işlevi de azalır;
+  kemik dokusunun mikromimarisindeki bozukluk ve dayanımı düşer, düşük enerjili travmada kırık
+anahtar_bulgular:
+- 'Düşük enerjili (fragilite) kırık: vertebral kompresyon, distal radius (Colles), proksimal femur'
+- 'Belirtisiz ilerleyen tablo: boy kısalması ve kifoz artışı (ardışık vertebral kompresyonların ilk bulgusu)'
+- DEXA T skoru 2.5 standart sapmanın üzerinde düşük (2.5 ve altı osteoporoz; 1 ile 2.5 arası düşük kemik
+  kitlesi/osteopeni)
+- 'Risk etkenleri: menopoz, ileri yaş, sistemik steroid, sigara, alkol, aile öyküsü, düşük vücut ağırlığı,
+  uzun süreli hareketsizlik'
+- 'Laboratuvar genellikle normal: kalsiyum, fosfor ve ALP normal; sekonder neden (hipertiroidi, hipogonadizm,
+  multipl miyelom, malabsorpsiyon) taraması yapılmadan ilaç seçimi yapılmaz'
+patognomonik: null
+ilk_tetkik: Lomber omurga ve proksimal femur DEXA (çift enerjili X-ışını absorpsiyometri); kalsiyum, fosfor,
+  ALP, TSH, 25-OH D vitamini, kreatinin, karaciğer fonksiyonları ve kan sayımı ile sekonder osteoporoz
+  taraması; kırık şüphesinde radyografi
+kesin_tani: DEXA T skorunun 2.5 standart sapma ve üzerinde düşük olması; düşük enerjili travmaya bağlı
+  kırık varsa T skoruna bakılmaksızın osteoporoz kabul edilir (ve tedaviye başlanır); FRAX skoru ile 10
+  yıllık kırık riski hesaplanır
+ilk_tedavi: Ağırlık taşıyan egzersiz, düşme önleme ve kalsiyum (1000-1200 mg/gün) ile D vitamini (800-1000
+  Ü/gün) desteği temel; kırık riski yüksek hastada ilk farmakolojik seçenek oral bifosfonat (alendronat/risendronat);
+  yutma sorunu veya özofagus hastalığı olan hastada yıllık damar içi zoledronik asit ya da deri altı denosumab;
+  menopoz yakın yaşta hastada östrojen tedavisi seçilerek kullanılır
+klasik_komplikasyon: Kalça kırığı (en yüksek morbidite ve mortalite) ve vertebral kompresyon kırıkları;
+  uzun süreli bifosfonat kullanımında atipik subtrokanterik/diizeal femur kırığı ve çene kemik osteonekrozu
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-37
+- tus-2018-ilkbahar-ktbt-119
+- tus-2019-sonbahar-ttbt-117
+- tus-2019-sonbahar-ttbt-88
+- tus-2020-ilkbahar-ttbt-119
+- tus-2025-sonbahar-ktbt-38
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,46 @@
+id: case-invajinasyon-01
+version: 1
+status: draft
+author: ai-drafts/cases-d
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: invajinasyon
+baslik: "Kolik ağrı ve kırmızı-jöle görünümlü dışkı olan bebek"
+adimlar:
+  - tip: sunum
+    metin: "9 aylık erkek bebek, önceki günler boyunca tamamen sağlıklı. Bugün ani başlayan, birkaç dakika süren ve belli aralarla tekrarlayan ağlama nöbetleri var; nöbetler sırasında bacaklarını karnına çekiyor ve kusuyor. Nöbetler arasında bebek uykulu ve ilgisiz. Bezi değiştirilirken kanlı, kırmızı jöle görünümlü akıntı fark edildi. Muayenede ateş yok, karında sağ üst kadranda muz biçiminde, düz yüzeyli ve deri altından hissedilen bir kitle var; savunma (defans) ve rebound yok."
+  - tip: secim
+    soru: "Paroksismal ağlama krizleri, kırmızı jöle görünümlü dışkı ve sağ üst kadranda kitle birlikte değerlendirildiğinde ilk istenecek tetkik hangisidir?"
+    secenekler:
+      - metin: "Karın ultrasonografisi"
+        dogru: true
+        geri_bildirim: "İnvajinasyonda ilk tetkik USG'dir; enine kesitte hedef işareti, boyuna kesitte sandviç benzeri görünüm non-invazif olarak gösterilir ve komplikasyon şüphesinde de rehber olur"
+      - metin: "Ayakta düz batın grafisi"
+        dogru: false
+        geri_bildirim: "Tıkanma bulguları (hava-sıvı seviyeleri) gösterilebilir ama invajinasyonu tanımlamaz; tanıyı ilerletmez"
+      - metin: "Kontrastlı lavman grafisi"
+        dogru: false
+        geri_bildirim: "Lavman hem tanı hem tedavi aracıdır ama günümüzde tanıda ilk adım USG'dir; ayrıca lavman kararı ancak peritonit ve perforasyon dışlandıktan sonra verilir"
+      - metin: "Lumbal ponksiyon"
+        dogru: false
+        geri_bildirim: "Menenjit ayırıcı tanıda düşünülür ama ateş yok, boynun öne bükülmesinde direnç yok; jöleli kanlı dışkı ve palpe edilen kitle bu tanıyı desteklemez"
+  - tip: sonuc
+    metin: "USG'de ileokolik bölgede hedef işareti ve sandviç görünümü saptandı; ileokolik invajinasyon doğrulandı. Serbest hava yok, karında iltihabi bulgu yok; bebek vital olarak stabil."
+  - tip: secim
+    soru: "Tanı doğrulandı; peritonit, serbest hava ve perforasyon yok. Tedavi yaklaşımı hangisidir?"
+    secenekler:
+      - metin: "Hava (pnömatik) veya kontrastla hidrostatik lavman ile redüksiyon"
+        dogru: true
+        geri_bildirim: "Stabil bebekte, peritonit ve perforasyon yokluğunda lavmanla redüksiyon ilk tedavidir; başarı oranı yüksektir ve işlem sırasında perforasyon gelişirse cerrahi ekibe hazır olunur"
+      - metin: "Acil cerrahi redüksiyon"
+        dogru: false
+        geri_bildirim: "Cerrahi, lavman redüksiyonunun başarısızlığında, perforasyonda, peritonitte veya stabil olmayan hastada tercih edilir; ilk basamak değildir"
+      - metin: "Analjezi ve antibiyotikle izlem"
+        dogru: false
+        geri_bildirim: "İnvajinasyon mekanik tıkanma ve barsak duvarı iskemisiyle giden acil bir durumdur; izlem nekroza ve perforasyona kadar ilerleyebilir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: 3 ay-2 yaş arası bebekte ani paroksismal ağlama krizleri + kırmızı jöle görünümlü dışkı + karında muz biçiminde kitle = invajinasyon; ilk tetkik USG'dir (hedef işareti); stabil hastada hava veya kontrastlı lavman ile redüksiyon; peritonit, perforasyon veya redüksiyon başarısızlığında cerrahi; okul çağı ve sonrasındaki vakalarda önder nokta (Meckel divertikülü, lenfoid hiperplazi, polip) araştırılır."
+sozlu_sorular:
+  - "Kırmızı jöle görünümlü dışkı patofizyolojik olarak nasıl oluşur?"
+  - "Lavman redüksiyonu hangi durumlarda denenmez?"
+  - "Redüksiyon sırasında hangi bulgular işlemi durdurup cerrahiye götürür?"

@@ -1,0 +1,10 @@
+id: anat_abd_duvar
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnguinal kanal ve Hesselbach üçgeni"
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_duvar]
+metin: "İnguinal kanalın derin halkası transversalis fasyadan, yüzeysel halkası dış oblik aponevrozdan yapılır; kanal erkekte spermatik kordu, kadında yuvarlak ligamenti taşır. Hesselbach üçgeni medialde rectus abdominis, lateralde alt epigastrik damarlar, altta inguinal ligament ile sınırlıdır. Direkt inguinal fıtık bu üçgen içinden, indirekt fıtık ise alt epigastrik damarların lateralindeki derin halkadan geçer."

@@ -1,0 +1,48 @@
+id: nazal_polipozis
+version: 1
+status: draft
+author: ai-drafts/kbb-2
+sources:
+- 'Klinik rehberler: EPOS (Avrupa rinosinüzit ve nazal polipozis uzlaşı belgesi) — referans olarak listelendi,
+  metin projesi özgün yazımdır'
+ad: Nazal Polipozis
+taksonomi:
+- - ktbt
+  - kbb
+  - kbb_burun
+  - kbb_bn_nazal_polip
+tipik_hasta: Uzun süreden beri iki taraflı burun tıkanıklığı ve koku kaybıyla gelen orta yaş yetişkin;
+  alerjik rinit, astım ve aspirin duyarlılığı öyküsü sık eşlik eder; çocukta polip veya tek taraflı lezyon
+  farklı değerlendirme ister (kistik fibrozis, tümör ve meningoensefalosel dışlanmalıdır)
+patofizyoloji: Kronik rinosinüzit zemininde etmoid mukoza çıkıntılarının ödemli ve eozinofil iltihaplı
+  yapılar olarak dışa doğru büyümesi; polipler orta meatus çevresinden salkım halinde sarkar; alerjik
+  ve nonalerjik iltihabi yolaklar, aspirin aşırı duyarlılığı ve kistik fibrozis klasik bağlantılardır;
+  tek taraflı veya kanayan lezyon ise neoplazi ayrımı için histoloji gerektirir
+anahtar_bulgular:
+- Anterior rinoskopide iki taraflı, soluk gri, salkım görünümünde, dokunmakla yumuşak (ezilme hissi veren)
+  ağrısız kütleler
+- İki taraflı burun tıkanıklığı ve belirgin koku kaybı; koku kaybı alerjik rinitin beklenenden derin ve
+  ısrarlıdır
+- Su gibi burun akıntısı, postnazal damla, ağızdan solunum ve horlama
+- 'Eşlik eden kronik rinosinüzit bulguları: yüz ağırlık-baskı hissi, tekrarlayan enfeksiyon atakları'
+- 'Samter/AERD üçlüsü: aspirin duyarlılığı, astım ve nazal polip birlikte görülür; aspirin alımı bronkospazmı
+  tetikler'
+- Tek taraflı polip, kanama ve ağrı tümör şüphesi doğurur; çocukta iki taraflı polipozis önce kistik fibrozisi düşündürür; unilateral ve orta hat konjenital
+  kitle meningoensefalosel olabileceğinden biyopsi öncesi MRG şarttır
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — İki taraflı, soluk, salkım (üzüm kümesi) görünümünde ağrısız nazal kütleler
+ilk_tetkik: Ön rinoskopi ve nazal endoskopi; paranasal sinüs BT ile polip yaygınlığı ve sinüs opaklaşması
+  haritalanır
+kesin_tani: Nazal endoskopi bulguları ve sinüs BT deseni; tek taraflı, kanayan veya atipik lezyonda histopatolojik
+  doğrulama (biyopsi) şarttır
+ilk_tedavi: Burun içi kortikosteroid sprey ve burun yıkamaları temel tedavidir; belirgin tıkanıklıkta
+  kısa süreli oral kortikosteroid kürü; medikal tedaviye dirençli olguda fonksiyonel endoskopik sinüs
+  cerrahisi (FESS)
+klasik_komplikasyon: Tekrarlayan bakteriyel rinosinüzit atakları ve astım alevlenmesi; uzun yıllar tedavisiz
+  kalan polip kütlelerinde burun sırtının genişlemesi
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-71
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

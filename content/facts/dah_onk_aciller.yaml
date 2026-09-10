@@ -1,0 +1,10 @@
+id: dah_onk_aciller
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Onkolojik Aciller"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_onkolojik_aciller]
+metin: "Onkolojik acillerin en kritik üçlüsü üst havayolu obstrüksiyonu (larinks, tiroit ve baş-boyun tümörleri; stridor ve solunum sıkıntısıyla gelir, acil entübasyon, trakeotomi veya stent gerektirir), üst venöz kavşak obstrüksiyonu (akciğer kanseri ve lenfomalarda; yüz-boyun-üst gövde dolgunluğu ve ödem, juguler venöz dolgunluk, torasik venöz kollateraller; yarı oturur pozisyon, glukokortikoid, stent ve antitümör tedavi) ve malign spinal kord kompresyonudur (meme, akciğer ve prostat metastazlarında sırt ağrısı, bacak güçsüzlüğü, mesane-bağırsak disfonksiyonu; deksametazon yükleme sonrası 24 saat içinde dekompresif cerrahi veya radyoterapi planlanır). Metabolik aciller malign hiperkalsemi (bilinç bulanıklığı, dehidratasyon, QT kısalması; agresif hidrasyon plus bisfosfonat/denosumab, gerekirse kalsitonin), tümör lizis sendromu ve nükseden/ilerleyen tromboembolizm ile DIC'dir. Kardiyopulmoner acillerde malign perikardiyal efüzyon-tamponad (pulsus paradoxus, düşük nabız basıncı, EKG'de elektrik alternansı; ekokardiyografi ve perikardiyosentez) ve semptomatik malign plevral efüzyon (torasentez, pleurodez) acil girişim gerektirir. Febril nötropeni ayrı bir acil grubudur ve nötropenik hastada ateş, geniş spektrumlu antibiyotiğin ilk 1 saat içinde başlanmasını gerektirir; hızlı yükselen sarılık ya da bilateral üreter obstrüksiyonu (anüri) gibi tablolar da acil dekompresyon (stent, nefrostomi, biliyer drenaj) ister."

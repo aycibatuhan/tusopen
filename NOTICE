@@ -1,0 +1,21 @@
+TUS Open
+Copyright 2026 Batuhan Ayci (TUS Open) and contributors
+
+This product includes software developed as part of the TUS Open project
+(code: Apache-2.0; study content: CC BY-SA 4.0 — see LICENSE-CODE and
+LICENSE-CONTENT).
+
+Content notes:
+- All study content (illness scripts, cases, facts, walkthroughs) is written
+  in own words by the TUS Open project. Some drafts were produced with AI
+  assistance and pass through named human review before being marked
+  published (see CONTRIBUTING.md).
+- Illustrations in content/facts/media/ are third-party works from Wikimedia
+  Commons under their own free licenses (CC0, PD, CC BY, CC BY-SA). The
+  per-image attribution list is content/facts/media/LICENSE-MANIFEST.md and
+  is embedded in the distributed study materials.
+- The project does not include, store, or distribute ÖSYM examination
+  question text. Question metadata (ids, answer keys, topic tags) is
+  derived from publicly available answer-key information.
+
+Contact for license questions and takedowns: repository issue tracker.

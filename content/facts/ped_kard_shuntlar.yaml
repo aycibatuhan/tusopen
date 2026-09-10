@@ -1,0 +1,24 @@
+id: ped_kard_shuntlar
+version: 1
+status: draft
+author: ai-drafts/pediatri-kardiy
+sources:
+- 'Pediatri kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır'
+- 'Merck Manual Professional, Congenital Cardiovascular Anomalies; StatPearls: Tetralogy of
+  Fallot, VSD, Eisenmenger Syndrome'
+ad: Siyanotik ve Asiyanotik Shunt Sınıflaması
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_asiyanotik
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_siyanotik
+metin: "Konjenital kalp hastalıkları klinik olarak akım şuntunun yönüne göre ikiye ayrılır ve bu sınıflama başvuru bulgularını belirler. Sağ-sol şuntta oksijensiz kan sistemik dolaşıma karışır ve tablo siyanozla gelir: Fallot tetralojisi (en sık siyanotik lezyon), d-transpozisyon (yenidoğan siyanozunun klasik nedeni, dar üst mediastenli egg on a string görünümü) ve total anormal pulmoner venöz dönüş bu gruptadır. Sol-sağ şuntta oksijenli kan akciğerlere geri döner; pulmoner akım arttığı için siyanoz yoktur ama kalp yetmezliği, tekrarlayan solunum yolu enfeksiyonu ve büyüme geriliği görülür: VSD (en sık konjenital kalp hastalığı), ASD (en sık ostium secundum tipi, sabit bölünen ikinci ses) ve PDA (sürekli makine sesi) bu gruptadır. Koarktasyon ve aort darlığı şunt değil obstrüksiyon yapar ve duktus kapandığında şokla başvurur; bu duktus bağımlı lezyonlarda prostaglandin E1 ile duktus açık tutulur. Uzun sürmüş geniş sol-sağ şunt pulmoner vasküler hastalığa yol açıp şuntı sağ-sola çevirir; bu Eisenmenger sendromudur ve bu evrede kapatma yapılmaz."
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-56
+- tus-2016-sonbahar-ktbt-11
+- tus-2020-ilkbahar-ktbt-63
+- tus-2021-ilkbahar-ktbt-64

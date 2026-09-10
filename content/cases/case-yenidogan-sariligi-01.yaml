@@ -1,0 +1,49 @@
+id: case-yenidogan-sariligi-01
+version: 1
+status: draft
+author: "ai-drafts/cases-b"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: yenidogan_sariligi
+baslik: "Üç günlük bebekte yüze ve karna yayılan sarılık"
+adimlar:
+  - tip: sunum
+    metin: "39 haftada normal doğumla dünyaya gelmiş, üç günlük, 3200 gram bebek. Tam anne sütüyle besleniyor; annesi son bir günde sarılığın yüze ve karna yayıldığını, emzirmenin yavaşladığını ve ıslak bez sayısının azaldığını anlatıyor. Kan grubu: anne 0 Rh pozitif, bebek A Rh pozitif. Muayene: sarılık yüzü, göğsü ve karnı kaplamış; karaciğer 1 cm palpe; döküntü, morluk ve enfeksiyon bulgusu yok."
+  - tip: secim
+    soru: "Sarılığın değerlendirilmesi için ilk yaklaşım ne olmalıdır?"
+    secenekler:
+      - metin: "Serum total bilirubin ölçüp değeri doğum saati bazlı eşik grafiğiyle karşılaştırmak"
+        dogru: true
+        geri_bildirim: "Fototerapi ve kan değişimi sınırları doğum saatine göre belirlenir; karar klinik görünüme değil ölçüme dayanmalıdır"
+      - metin: "Görünüşe göre hemen fototerapiye başlamak"
+        dogru: false
+        geri_bildirim: "Eşik yaklaşımı ölçüme dayalıdır; yalnızca görünüme göre başlanan tedavi hem gereksiz tedavi hem de atlanan ciddi sarılık riski taşır"
+      - metin: "Anne sütünü 48 saat kesmeyi önermek"
+        dogru: false
+        geri_bildirim: "Süt kesimi değerlendirme yerine geçmez; beslenmeyi güçlendirmek tedavinin parçasıdır ve annenin süt üretimini sürdürmesi esastır"
+      - metin: "Sarılık fizyolojiktir, iki hafta sonra kontrol yeterlidir"
+        dogru: false
+        geri_bildirim: "İlk 24 saatte başlayan ya da hızla yayılan sarılık asla fizyolojik sayılmaz; ölçüm ve araştırma şarttır"
+  - tip: sonuc
+    metin: "72. saatte serum total bilirubin 17.8 mg/dL, doğrudan bilirubin 0.9 mg/dL. Hemoglobin 14.2 g/dL, retikülosit sayısı yüksek; doğrudan Coombs testi pozitif. Doğum saati bazlı eşik grafiğine göre değer yoğun fototerapi sınırının üzerinde."
+  - tip: secim
+    soru: "Eşik değerin üzerinde, hemoliz bulguları olan sarılık saptandı. Yönetim planı ne olmalıdır?"
+    secenekler:
+      - metin: "Yoğun fototerapi başlatmak, beslenmeyi sık emzirme ve gerektiğinde ek anne sütüyle güçlendirmek, bilirubini izlemek"
+        dogru: true
+        geri_bildirim: "Eşik üzerindeki hemolitik sarılıkta ilk adım yoğun fototerapidir; bol beslenme bilirubinin bağırsak yoluyla atılımını destekler; kan değişimi ancak fototerapi yanıtsızlığında veya çok daha yüksek değerlerde düşünülür"
+      - metin: "Doğrudan kan değişim transfüzyonu yapmak"
+        dogru: false
+        geri_bildirim: "Kan değişimi en yüksek riskli işlemdir; değer kan değişimi sınırında değilse önce yoğun fototerapi denenir"
+      - metin: "Anne sütünü kalıcı olarak bırakıp formülle geçmek"
+        dogru: false
+        geri_bildirim: "Kalıcı bırakma uygun değildir; geçici beslenme desteği gerekebilir ama temel yaklaşım fototerapi ve beslenmeyi sürdürmektir"
+      - metin: "Gün ışığına maruz bırakma önerisiyle taburcu etmek"
+        dogru: false
+        geri_bildirim: "Gün ışığı güvenli ve ölçülebilir bir fototerapi kaynağı değildir; eşik üstü sarılıkta taburculuk uygun değildir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: yeni doğan sarılığında karar doğum saati bazlı eşik grafikleriyle verilir; ABO uyumsuzluğu (anne 0, bebek A) hemoliz ve pozitif doğrudan Coombs yapar; ilk 24 saatte başlayan veya hızla yayılan sarılık patolojik kabul edilir; yoğun fototerapi ilk tedavidir, kan değişimi eşiklerin çok üstünde veya fototerapi yanıtsızlığında düşünülür; beslenmeyi güçlendirmek tedavinin parçasıdır; doğrudan bilirubin yüksekliği ya da iki haftadan uzun süren sarılık ayrı araştırma gerektirir."
+sozlu_sorular:
+  - "Fototerapi bilirubin metabolizmasında neyi hızlandırır?"
+  - "Kan değişim transfüzyonu hangi durumlarda gereklidir?"
+  - "Fizyolojik sarılık ve anne sütü sarılığı nasıl ayrılır?"

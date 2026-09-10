@@ -1,0 +1,25 @@
+id: venoz_yetmezlik_varis
+version: 1
+status: draft
+author: "ai-drafts/genel_cerrahi-4"
+sources:
+  - "ESVS Chronic Venous Disease Guideline"
+  - "Schwartz Principles of Surgery"
+ad: Varis ve Kronik Venöz Yetmezlik
+taksonomi:
+  - [ktbt, genel_cerrahi, gc_damar_cerrahisi, gc_dam_venoz]
+tipik_hasta: "Uzun süre ayakta çalışan orta yaş hastada (kadınlarda gebelik sayısı ve hormonal etkiyle belirgin) akşamları artan bacak ağırlığı ve gerginlik; bacakta telanjiektazi, retiküler venler veya bükülmüş şişkin venler; aile öyküsü sık; ileri olguda malleol üstünde renk değişikliği ve yara"
+patofizyoloji: "Yüzeysel venlerde (özellikle büyük safen veni) kapakçık yetersizliği ve duvar gevşekliği kanın geriye akmasına (reflü) götürür; alt uzuvda kronik venöz hipertansiyon kılcallardan sıvı ve kırmızı hücre sızmasına, deride kahverengi renk değişikliği (hemosiderin), lipodermatoskleroz ve ülser götürür. Hastalık CEAP koduyla sınıflanır: klinik sınıf C0'dan C6'ya deri bulgularının sırası, yerleşim yüzeysel-derin-perforan venlere ve mekanizma reflü-obstrüksiyona göre kodlanır"
+anahtar_bulgular:
+  - "Bacakta bükülmüş, şişkin yüzeysel venler (varis); küçük çaplı bulgular telanjiektazi ve retiküler venler"
+  - "Akşamları artan ağırlık ve gerginlik hissi; bacak kaldırılınca azalma"
+  - "Malleol üstünde ödem, kahverengi renk değişikliği ve sertleşme (lipodermatoskleroz)"
+  - "Dupleks ultrasonda kapak refle süresinin 0.5 saniyeyi aşması (anormal reflü)"
+  - "Malleol üstü alanda düzensiz kenarlı, orta derecede ağrıyan venöz ülser (ileri sınıflar)"
+patognomonik: null
+ilk_tetkik: "Renkli dupleks ultrason: reflü ve derin ven yetersizliği araştırılır; klinik sınıflama CEAP ile yapılır"
+kesin_tani: "Dupleks ultrasonda anormal venöz reflü (0.5 saniye üstü) veya obstrüksiyonun gösterilmesi ve klinik bulgularla CEAP sınıfının belirlenmesi"
+ilk_tedavi: "Kompresyon terapisi (gradyanlı çorap) ve bacak yükseltme temel; yetersiz safen veni için endovenöz lazer veya radyofrekans ablasyonu, cerrahi ligasyon-stripping alternatif; küçük venlerde skleroterapi; venöz ülserde yara bakımı kompresyona eklenir"
+klasik_komplikasyon: "Venöz bacak ülseri; yüzeysel tromboflebit; büyük varis veninden kanama; kronik ödem ve deri fibrozu"
+tus_gecmisi: []
+kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

@@ -1,0 +1,10 @@
+id: anat_miyo_cigneme
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çiğneme kasları"
+taksonomi:
+  - [ttbt, anatomi, anat_miyoloji, anat_miyo_cigneme]
+metin: "Masseter, temporalis ve medial pterygoid çeneyi kapatır (elevasyon); lateral pterygoid ağzı açan tek çiğneme kasıdır ve çeneyi öne çeker. Temporalis ayrıca çeneyi geriye çeker. Bütün çiğneme kasları mandibular sinir (V3) tarafından innerve edilir."

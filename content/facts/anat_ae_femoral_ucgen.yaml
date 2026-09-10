@@ -1,0 +1,10 @@
+id: anat_ae_femoral_ucgen
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Femoral üçgen"
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_femoral_ucgen]
+metin: "Femoral üçgenin sınırları şunlardır: üstte inguinal ligament, lateralde sartorius, medialde adduktor longus. İçinde yapılar dıştan içe doğru femoral sinir, arter, ven ve lenfatikler olarak sıralanır. Femoral fıtık, femoral venin medialinden geçen femoral kanaldan ve inguinal ligamentin altından aşağıya sarkar."

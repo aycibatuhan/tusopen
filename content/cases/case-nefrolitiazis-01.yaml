@@ -1,0 +1,46 @@
+id: case-nefrolitiazis-01
+version: 1
+status: draft
+author: ai-drafts/cases-d
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: nefrolitiazis
+baslik: "Böğürde dalgalar halinde gelen ağrı"
+adimlar:
+  - tip: sunum
+    metin: "35 yaşında erkek. Öğleden sonra ani başlayan, sağ böğürden kasığa yayılan, dalgalar halinde şiddetlenip biraz yatışan ağrısı var; ağrı yüzünden sürekli sağda solda dönüyor, pozisyon değiştirmekle hafif rahatlıyor. Bulantı ve kusma var, ateş yok. Muayenede sağ kostovertebral açıda hassasiyet; karında defans ve rebound yok. İdrar tahlili: yoğun eritrosit, lökosit yok, nitrit negatif. Serum kreatinin normal."
+  - tip: secim
+    soru: "Böğür ağrısı ve mikroskopik hematuri ile değerlendirilen hastada kesin tanı için altın standart görüntüleme hangisidir?"
+    secenekler:
+      - metin: "Kontrastsız batın bilgisayarlı tomografisi"
+        dogru: true
+        geri_bildirim: "Üriner taş hastalığında kontrastsız BT altın standarttır; taşın yerini, boyutunu ve tıkanma (hidronefroz) derecesini hızla ve yüksek duyarlılıkla gösterir"
+      - metin: "Kontrastlı BT"
+        dogru: false
+        geri_bildirim: "Kontrast tanısal katkı sağlamaz; taş kendiliğinden opaktır, gereksiz kontrast riski alınır"
+      - metin: "Düz karın grafisi"
+        dogru: false
+        geri_bildirim: "Yalnızca opak taşları gösterir; ürik asit gibi opak olmayan taşları kaçırır ve tıkanma derecesini vermez"
+      - metin: "İntravenöz ürografi"
+        dogru: false
+        geri_bildirim: "BT karşısında yavaş, daha az duyarlı ve kontrast gerektirir; günümüzde rutin kullanılmaz"
+  - tip: sonuc
+    metin: "Kontrastsız BT'de sağ üreterin alt bölümünde 6 mm taş ve hafif hidronefroz; enfeksiyon bulgusu yok, böbrek fonksiyonları normal. Ağrı ilaçla kontrol altına alındı."
+  - tip: secim
+    soru: "Ağrı kontrol altında, enfeksiyon yok; taş üreterin alt bölümünde 6 mm. Tedavi yaklaşımı hangisidir?"
+    secenekler:
+      - metin: "Medikal ekspulsif tedavi: bol sıvı, NSAİİ analjezi ve alfa bloker (tamsülosin)"
+        dogru: true
+        geri_bildirim: "Üreterin alt bölümündeki 5-10 mm taşlarda alfa bloker düşürme olasılığını artırır; kolikte NSAİİ ilk analjeziktir çünkü prostaglandin aracılı hassasiyeti de bastırır; hasta yakın izlemle taburcu edilir"
+      - metin: "Hemen şok dalgası litotripsisi"
+        dogru: false
+        geri_bildirim: "Ekspulsif tedavinin başarısızlığında, 10 mm üzerindeki taşlarda veya ağrının kontrol edilemediği durumlarda düşünülür; 6 mm taşta ilk adım değildir"
+      - metin: "Acil perkütan nefrostomi"
+        dogru: false
+        geri_bildirim: "Nefrostomi, enfeksiyonla birlikte tıkanmada (piyonefroz), tek böbrekte veya ileri böbrek yetmezliğinde acil dekompresyon içindir; burada enfeksiyon ve fonksiyon bozukluğu yok"
+  - tip: ozet
+    metin: "Öğrenme noktaları: böğürden kasığa yayılan dalga dalga ağrı + mikroskopik hematuri = üriner taş; kolikte hasta sürekli pozisyon değiştirir, peritonitte ise tam tersine yatağa kilitlenir; kontrastsız BT altın standarttır; en sık taş kalsiyum oksalattır; 5 mm altı taşlar çoğu zaman kendiliğinden düşer; enfeksiyonla birlikte tıkanma acil dekompresyon (stent veya nefrostomi) gerektirir; kolikte analjezi NSAİİ ile başlar, tamsülosin düşürmeyi kolaylaştırır."
+sozlu_sorular:
+  - "Taş kolik ağrısı ile peritonit ağrısı nasıl ayrılır?"
+  - "Hangi durumda taş hastasında acil dekompresyon gerekir?"
+  - "Tamsülosin taş düşürmesinde ne işe yarar?"

@@ -1,0 +1,72 @@
+id: norokutanoz_sendromlar
+version: 1
+status: draft
+author: ai-drafts/noroloji-4
+sources:
+- Bradley's Neurology in Clinical Practice
+- Pediatric Neurology (Fenichel) kılavuzu
+ad: Nörokütanöz Sendromlar
+taksonomi:
+- - ktbt
+  - noroloji
+  - noro_ozel_konular
+  - noro_oz_norokutanoz
+- - ktbt
+  - pediatri
+  - ped_noroloji
+  - ped_nor_norokutanoz
+tipik_hasta: Çocukluk çağında deri lezyonları ya da aile öyküsü nedeniyle değerlendirilen hasta; sinir
+  sistemi bulguları (epilepsi, gelişim geriliği, kafa içi basınç artışı) ile deri ve göz bulgularının
+  birlikte arandığı kalıtsal sendromlar grubu. Klinik pratikte en sık karşılaşılan iki sendrom nörofibromatozis
+  tip 1 ve tüberoz sklerozdur
+patofizyoloji: 'Çoğu otosomal dominant geçiş gösteren genetik mutasyonlar hücre büyümesini düzenleyen
+  sinyal yollarını bozar; nörofibromatozis tip 1''de NF1 geni ve onun kodladığı nörofibromin kaybı, tüberoz
+  sklerozda TSC1/TSC2 genlerinin kaybı ile mTOR yolu kontrolsüz aktivasyona geçer, von Hippel-Lindau hastalığında
+  VHL geni hipoksik yanıt yollarını bozar. Sonuç: sinir sisteminde hamartom ve tümörler, deride pigment
+  ve vasküler lezyonlar, göz ve iç organlarda tümöral büyümeler aynı hasta içinde birleşir'
+anahtar_bulgular:
+- 'Nörofibromatozis tip 1: ergenlik öncesi beş milimetre, sonrasında on beş milimetre üstü altı ya da
+  daha fazla kafeyle süt renkli pigment benek; deri ve pleksiform nörofibromlar; koltuk altı ve kasıkta çillik
+  (freckling); iriste hamartom (Lisch nodülü); optik yol gliomu ve düz kemiklerde ince korteks (psödoartroz
+  riski)'
+- 'Nörofibromatozis tip 2: çift taraflı vestibüler schwannoma (işitme kaybı, tinnitus) önde; kafe benekleri
+  az sayıda; menenjiom ve ependimomlar eşlik edebilir'
+- 'Tüberoz skleroz: yüzde burun çevresinde ve yanaklarda anjiyofibromlar (eski adı sebase adenom), gövdede
+  yaprak benzeri hipomelanotik benek (Wood lambasıyla daha belirgin), bel ve sırtta kalın, pürtüklü deri
+  yaması (shagreen yama); beyinde kortikal tüber, subependimal nodül ve dev hücreli astrositom; epilepsi
+  (infantil spazm dahil), gelişim geriliği, böbrekte anjiyomiyolipom'
+- 'Sturge-Weber sendromu: trigeminal dağılımda port-vin leke, aynı taraf beyinde leptomeninks anjiyomatozis,
+  glaukom; epilepsi ve karşı yarımada güçsüzlük ilerleyici'
+- 'von Hippel-Lindau hastalığı: serebellar ve spinal hemangioblastom, retina anjiyomları, böbrek hücreli
+  kanser, feokromositoma, pankreas kistleri'
+- 'Ataksi-telenjiektazi: serebellar ataksi, göz kapaklarında ve kulak kepçesinde telenjiektaziler, IgA
+  eksikliği sonucu tekrarlayan solunum yolu enfeksiyonları, alfa-fetoprotein yüksekliği'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kafeyle süt renkli benekler ve nörofibromların birlikte görülmesi (nörofibromatozis tip
+  1)
+ilk_tetkik: Tam deri ve göz muayenesi, Wood lambası ile hipomelanotik beneklerin değerlendirilmesi; beyin
+  ve omurilik MRG. Nörofibromatozis şüphesinde klinik tanı kriterleri, tüberoz skleroz şüphesinde TSC1/TSC2
+  genetik testi
+kesin_tani: 'Nörofibromatozis tip 1: klinik kriterlerden en az ikisinin varlığı (altı ve üstü kafe benekli
+  lezyon, iki ya da daha çok nörofibrom ya da bir pleksiform nörofibrom, koltuk altı çilliği, Lisch nodülü,
+  optik yol gliomu, karakteristik kemik lezyonu, birinci derece akrabada hastalık) veya NF1 gen mutasyonunun
+  gösterilmesi. Tüberoz skleroz: klinik major-minor kriterler ve genetik doğrulama'
+ilk_tedavi: 'Sendroma özgü yönetim: epilepsi için antikonvulzanlar, tüberoz sklerozda mTOR inhibitörleri
+  (sirolimus, everolimus) hem subependimal dev hücreli astrositomda hem böbrek ve deri lezyonlarında;
+  infantil spazmlarda vigabatrin. Nörofibromatozis tip 1''de belirti veren nörofibromların cerrahi çıkarılması,
+  inoperable pleksiform nörofibromlarda MEK inhibitörleri; Sturge-Weber''de epilepsi ve glaukom tedavisi,
+  gerekirse lobektomi'
+klasik_komplikasyon: Nörofibromatozis tip 1'de malign periferik sinir kılıfı tümörüne dönüşüm; tüberoz
+  sklerozda dev hücreli astrositomun Monro deliklerini tıkamasıyla hidrosefali ve böbrek anjiyomiyolipomunda
+  kanama; von Hippel-Lindau'da böbrek hücreli kanser; Sturge-Weber'de inatçı epilepsi ve zihinsel gerileme
+tus_gecmisi:
+- tus-2014-sonbahar-ktbt-70
+- tus-2015-ilkbahar-ktbt-69
+- tus-2016-ilkbahar-ttbt-98
+- tus-2017-ilkbahar-ttbt-95
+- tus-2019-ilkbahar-ktbt-61
+- tus-2020-sonbahar-ktbt-65
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

@@ -1,0 +1,54 @@
+id: preeklampsi
+version: 1
+status: draft
+author: ai-drafts/kadin_dogum
+sources:
+- ACOG gebelikte hipertansif hastalıklar kılavuzu (referans olarak listelendi, metin projesi özgün yazımdır)
+- Williams Obstetrik
+ad: Preeklampsi ve Eklampsi
+taksonomi:
+- - ktbt
+  - kadin_dogum
+  - kd_gebelik_hastaliklari
+  - kd_gh_hipertansif
+- - ktbt
+  - kadin_dogum
+  - kd_gebelik_hastaliklari
+  - kd_gh_eklampsi_hellp
+tipik_hasta: İlk gebeliğini yaşayan, 20 haftadan sonra tansiyonu yükselen ve idrarında protein çıkan genç
+  kadın; riskli grupta multipl gebelik, kronik hipertansiyon, diyabet, obezite, önceki preeklampsi öyküsü
+  ve yardımcı üreme teknikleri ile gebelik bulunur; ağır tabloda baş ağrısı, görme bulanıklığı ve epigastriy
+  sağ üst kadran ağrısı ile başvurur
+patofizyoloji: Trofoblastların spiral arterlere invazyonunun yetersiz kalmasıyla plasenta yüksek dirençli
+  ve iskemik kalır; iskemik plasenta salgıladığı anti-anjiyojenik faktörlerle (sFlt-1 artışı, VEGF ve
+  PlGF gerilemesi) vasküler endotel fonksiyonunu bozar. Genelleşmiş endotel hasarı damar geçirgenliğini
+  artırıp proteinürinin, ödemin, santral sinir sistemi ve karaciğer bulgularının temelini oluşturur
+anahtar_bulgular:
+- 20. haftadan sonra ölçülen en az 140/90 mmHg ve üzerindeki tansiyon, 24 saatlik idrarda 300 mg ve üzerinde
+  veya kantitatif test yapılamıyorsa bant yöntemiyle 2+ ve üzeri proteinüri (1+ tek başına tanımlayıcı değildir)
+- 'Proteinürisiz ağır özellikler: 160/110 mmHg ve üzerindeki tansiyon, trombositopeni, kreatinin yükselmesi, karaciğer enzimlerinin iki kat
+  ve üzerinde artması, akciğer ödemi, baş ağrısı, görme bozukluğu, epigastriyum ağrısı'
+- 'HELLP sendromu: hemoliz, karaciğer enzim yükselmesi ve trombositopeni üçlüsü'
+- 'Eklampsi: preeklampsiye eşlik eden ya da beklenmedik biçimde ortaya çıkan tonik klonik konvülsiyon'
+- Fetüste büyüme geriliği, oligohidramniyos ve plasenta yetmezliği bulguları
+patognomonik: null
+ilk_tetkik: Tansiyon tekrarı ve protein-kreatinin oranı ya da 24 saatlik idrar proteini; tam kan sayımı,
+  karaciğer enzimleri, LDH, kreatinin, ürik asit; NST ve obstetrik USG ile fetal durum değerlendirmesi
+kesin_tani: 'Klinik tanıdır: 20. haftadan sonra yeni başlayan hipertansiyona proteinüri veya proteinürisiz
+  ağır özelliklerden birinin eklenmesi; HELLP için laboratuvar üçlüsü, eklampsi için konvülsiyon epizodu
+  yeterlidir'
+ilk_tedavi: 'Tek kesin tedavi doğumdur: ağır olmayan hastada 37 haftada, ağır tabloda maternal durum stabilize
+  edildikten sonra doğum planlanır; konvülsiyon profilaksisi ve tedavisi için magnezyum sülfat, tansiyon
+  kontrolü için labetalol, nifedipin veya hidralazin; fetal akciğer maturasyonu için kortikosteroid verilir'
+klasik_komplikasyon: Eklampsi konvülsiyonu, intraserebral kanama, HELLP sendromu, plasenta dekolmanı, akut
+  böbrek ve karaciğer yetmezliği; fetüste prematürite ve büyüme geriliği
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-97
+- tus-2014-ilkbahar-ktbt-111
+- tus-2020-ilkbahar-ktbt-113
+- tus-2021-ilkbahar-ktbt-111
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

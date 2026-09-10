@@ -1,0 +1,29 @@
+id: wt-tus-2021-sonbahar-ktbt-95
+version: 1
+status: draft
+author: "ai-drafts/walkthroughs-1"
+sources:
+  - "Klinik rehberler: akut pankreatit etiyoloji dağılımı (ACG/AGA özetleri) — referans olarak listelendi, metin özgün yazımdır"
+soru_ref: tus-2021-sonbahar-ktbt-95
+sinanan_bilgi: "Akut pankreatitte etiyolojik dağılımda en sık neden safra taşıdır (alkol ikinci sıradadır); idiyopatik, hipertrigliseridemik, ilaca bağlı ve otoimmün pankreatit nadir nedenler arasındadır."
+ipucu_turleri:
+  - "Soru kökü bir tanı ya da tedavi değil, etiyoloji sıklığı kıyaslaması istiyor: hangisi daha sık"
+  - "Seçeneklerin neredeyse tamamı kitaplarda nadir etiyoloji başlığı altında geçer: idiyopatik, hiperlipidemik, ilaca bağlı, otoimmün"
+  - "Nadir nedenler tek tek sıralanınca sorunun aradığı cevap, tablodaki tepe noktası olan mekanik-obstrüktif neden olur"
+gurultu_turleri:
+  - "Otoimmün ve hipertrigliseridemik pankreatitin vaka sunumlarında öne çıkması, bunları sıktmış sanılan bir algı yaratır; oysa sıklık sıralamasında uzun kuyrukta kalırlar"
+  - "İdiyopatik etiketi tanı konamayan olgulara verilmesi nedeniyle akılda kalıcıdır; hatırlanabilirlik sıklıkla karışır, idiopatik pay azınlıktır"
+mantik: "Bu soru bilginin derinliğini değil, etiyoloji listesinin tepesini ölçer. Akut pankreatitte klasik sıralama safra taşı birinci, alkol ikinci neden olarak geçer; geri kalanlar (idiyopatik kalan pay, hipertrigliseridemi, ilaçlar, otoimmün mekanizma) uzun kuyruktaki nadir nedenlerdir. Sorudaki seçeneklerde alkol yok; o zaman listeler arasında en sık görülen mekanik neden olan safra taşı öne çıkar. Taş Oddi sfinkterinden geçerken ya da kanal ağzını tıkayarak biliyer-pankreatik kanal ortak yolunda basınç artışı ve reflüyle pankreatiti tetikler; popülasyon düzeyinde de en sık etiyoloji budur. Zincir: sıklık sorusu + nadir seçenekler + alkol yok → safra taşına bağlı akut pankreatit."
+celdirici_kavramlar:
+  - kavram: "İdiyopatik akut pankreatiti sık saymak"
+    neden_yanlis: "İdiyopatik etiket, ilk atakta standart değerlendirmeyle neden bulunamayan azınlık payıdır; etiketin akılda kalıcılığı sıklığı göstermez."
+    dogru_oldugu_durum: "Genç hastada alkol ve biliyer nedenler dışlandığında, tekrarlayan ataklarda gizli mikrotaş ya da pankreas divisum gibi nedenleri araştırmak için ileri görüntüleme planlanırken."
+  - kavram: "Hiperlipidemik (hipertrigliseridemik) akut pankreatit"
+    neden_yanlis: "Nadir bir etiyolojidir; sıklık listesinde safra taşının gerisinde kalır, soruda aranan tepe noktası değildir."
+    dogru_oldugu_durum: "Trigliserid düzeyi çok yüksek (kimi kılavuzlarda 1000 mg/dL üstü) hastada serum laktaslı görünüm, diyabet ya da gebelik eşlik ediyorsa etiyoloji olarak düşünülür."
+  - kavram: "İlaçlara bağlı akut pankreatit"
+    neden_yanlis: "Klinik pratikte nadir bildirilen bir neden; ilaç öyküsü varsa bile diğer etiyolojiler önce dışlanır."
+    dogru_oldugu_durum: "Azatioprin, tiazid diüretikler, valproat ya da L-asparaginaz gibi bilinen etkenleri kullanan hastada biliyer ve alkolik nedenler dışlanınca."
+  - kavram: "Otoimmün akut pankreatit"
+    neden_yanlis: "Sıklıkta uzun kuyrukta yer alır; tip 1 otoimmün pankreatit ayrı bir klinik tablodur ve nadirliği yüzünden ilk sıraya gelemez."
+    dogru_oldugu_durum: "Diffüz kapsüler pankreas büyümesi, IgG4 yüksekliği, diğer organ tutulumu ve steroid tedavisine hızlı yanıt tablosunda."

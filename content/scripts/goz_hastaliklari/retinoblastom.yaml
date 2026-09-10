@@ -1,0 +1,51 @@
+id: retinoblastom
+version: 1
+status: draft
+author: ai-drafts/goz-3
+sources:
+- AAO Basic and Clinical Science Course (BCSC), Pediatric Ophthalmology and Strabismus cildi — referans
+  adı olarak listelendi, metin projesi özgün yazımdır
+- Uluslararası Retinoblastom Sınıflaması (ICRB)
+ad: Retinoblastom
+taksonomi:
+- - ktbt
+  - goz_hastaliklari
+  - goz_retina_vitreus
+  - goz_rv_retinoblastom
+tipik_hasta: Genellikle üç yaşından küçük çocuk; ailenin ev fotoğraflarında beyaz pupilla (kedi gözü görünümü)
+  fark etmesi veya çocuğun tek göz şaşılığıyla getirilmesiyle karşımıza çıkar; kalıtsal olgularda ailede
+  benzer göz tümörü öyküsü veya genç yaşta osteosarkom öyküsü işaret edici
+patofizyoloji: RB1 tümör baskılayıcı genindeki (13. kromozomun 14. bölgesi) iki vuruş (two-hit) kaybı
+  ile hücre döngüsü kontrolü bozulur. Kalıtsal formda ilk vuruş germlinededir ve ikinci somatik vuruşla
+  tümör çıkar; bu form bilateral ve multifokal olur, pineal bölge tutulumu (trilateral retinoblastom)
+  ve yaşam boyu ikinci malignite riski taşır. Nonkalıtsal formda her iki vuruş da somatiktir, tümör tek
+  taraflı ve tek odaklıdır
+anahtar_bulgular:
+- 'Lökokori: pupillada beyaz-opsiyonlu refleks (kedi gözü belirtisi)'
+- 'Strabizmus: tümör makulayı tutunca sensöryel şaşılıkla başvurabilir'
+- Göz ultrasonografisinde veya bilgisayarlı tomografide intraoküler kalsifikasyonlar (tümörün neredeyse
+  ayırt edici imzası)
+- Direk oftalmoskopide krem rengi, besleyici damarları görülen endofitik retinal kitle
+- Kalıtsal olguda çift taraflı veya multifokal tutulum; RB1 otosomal dominant olduğundan kardeşlerde
+  ve çocuklarda cinsiyet ayrımı yapılmadan arama
+- 'İleri olguda göz dışı yayılım: optik sinir, orbita ve intrakraniyal tutulum'
+patognomonik: Küçük çocukta lökokori ile intraoküler kalsifikasyonların birlikte olması
+ilk_tetkik: Anestezi altında midriyazisli iki gözün kapsamlı fundus muayenesi (dokümantasyon için retinal
+  kamera); göz ultrasonografisi; yayılım araştırmasında orbita ve kranyal MRG (pineal bölge dahil); karaciğer
+  ve kemik taraması metastaz şüphesinde
+kesin_tani: Klinik görünüm ve görüntüleme bulgularıyla (kalsifikasyonlu intraoküler kitle) klinik tanı
+  konur; biyopsi yapılmaz çünkü tümörün dışına yayılma riski vardır — histopatolojik doğrulama ancak enukleasyon
+  materyalinde olur
+ilk_tedavi: 'Evreye göre kademelidir: küçük tümörde lazer veya kriyoterapi gibi fokal tedaviler; orta-büyük
+  tümörde sistemik ya da intraarteriyel kemoterapi ile tümör küçültme (chemoreduction) sonrası fokal tedavi;
+  tek taraflı ileri tümörde enukleasyon; kalıtsal olgularda radyoterapiden mümkün olduğunca kaçınılır'
+klasik_komplikasyon: Optik sinir ve orbita yoluyla göz dışı yayılım, hematolojik metastaz; trilateral
+  retinoblastoma (pineoblastom); kalıtsal olgularda ikinci malignite riski (özellikle osteosarkom) — radyoterapi
+  bu riski artırır
+tus_gecmisi:
+- tus-2018-ilkbahar-ktbt-108
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

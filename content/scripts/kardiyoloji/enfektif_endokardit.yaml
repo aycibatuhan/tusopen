@@ -1,0 +1,65 @@
+id: enfektif_endokardit
+version: 1
+status: draft
+author: ai-drafts/kardiyoloji
+sources:
+- ESC Enfektif Endokardit Tanı ve Tedavi Rehberi — referans olarak listelendi, metin projesi özgün yazımdır
+ad: Enfektif Endokardit
+taksonomi:
+- - ktbt
+  - kardiyoloji
+  - kard_endokardit_miyokard_perikard
+  - kard_em_enfektif_endokardit
+tipik_hasta: Önceden kapak hastalığı, protez kapak, konjenital kalp hastalığı veya damar içi ilaç kullanımı
+  olan hasta; haftalardır süren ateş, halsizlik, gece terlemesi, kilo kaybı ve kas-eklem ağrılarıyla başvurur.
+  Açıklanamayan S. aureus bakteriyemisi, başka kaynak bulunana kadar endokardit kabul edilir
+patofizyoloji: Geçici bakteriyemi sırasında dolaşımdaki bakteriler, turblan akışa uğramış veya endotel
+  hasarlı kapak yüzeylerinde oluşan fibrin-trombosit vejetasyonuna yerleşir; burada bağışıklık hücrelerine
+  ve antibiyotiğe erişim zordur, bakteri çoğalarak vejetasyonu büyütür. Kapakta ülserasyon, abses ve yıkım
+  gelişir; vejetasyondan kopan parçalar septik emboli yapar. Subakut tabloda düşük virülanslı etkenler
+  (Streptococcus viridans, enterokok; S. epidermidis ise başlıca protez kapak ve cihaz enfeksiyonu etkenidir) bozuk kapakta haftalarca ilerler; akut
+  tabloda S. aureus sağlam kapakta bile hızla yıkım yapar. Damar içi ilaç kullanımında sağ kalp, özellikle
+  triküspid kapak tutulur
+anahtar_bulgular:
+- Bir haftadan uzun süren ateş artı yeni gelişen veya değişen rejürjitan kapak murmuru
+- Ayrı zamanlarda alınan kan kültürlerinin tekrar tekrar pozitifliği; en sık etken S. aureus, subakut
+  tabloda Streptococcus viridans
+- 'Vasküler ve immünolojik bulgular: splinter kanama, Roth lekeleri, Janeway lezyonları, Osler nodülleri,
+  splenomegali, idrarda kan ve protein (glomerülonefrit)'
+- 'Septik emboli: inme, böbrek ve dalak infarktı, triküspid tutulumunda septik pulmoner emboli ve pulmoner
+  abse, mikotik anevrizma'
+- Ekokardiyografide vejetasyon, perivalvular abses veya protez kapakta yeni parsiyel ayrılma
+patognomonik: Tekrarlayan pozitif kan kültürleriyle birlikte ekokardiyografide vejetasyon saptanması
+ilk_tetkik: Antibiyotikten önce, farklı damarlardan ve saatler arayla en az üç set kan kültürü; tam kan
+  sayımı (anemi), CRP ve sedimantasyon, idrar tetkiki ve transtorasik ekokardiyografi. Protez kapak, önceki
+  endokardit öyküsü veya transtorasikte şüpheli olguda transözofageal ekokardiyografi yapılır
+kesin_tani: 'Modifiye Duke kriterleri: iki büyük, veya bir büyük artı üç küçük, veya beş küçük kriter
+  kesin tanı koyar. Büyük kriterler: (1) tipik etkenlerin (S. aureus, Streptococcus viridans, S. gallolyticus,
+  HACEK grubu, enterokok) ayrı zamanlarda tekrar pozitif kan kültürleri, (2) ekokardiyografide vejetasyon-apses-parsiyel
+  ayrılma veya yeni rejürjitan kapak yetersizliği. Küçük kriterler: yatkınlık (kapak hastalığı, damar
+  içi ilaç kullanımı), 38 santigrat derece üstü ateş, vasküler bulgular (emboli, Janeway lezyonu), immünolojik
+  bulgular (Osler nodülü, Roth lekesi, glomerülonefrit, romatoid faktör pozitifliği), büyük kriteri karşılamayan
+  mikrobiyolojik kanıt'
+ilk_tedavi: 'Antibiyotik öncesi kan kültürü alındıktan sonra damar içi bakterisidal tedavi başlanır ve
+  genellikle 4-6 hafta sürer. Toplum kökenli doğal kapak endokarditinde ampirik düzen (ESC 2023) ampisilin (veya amoksisilin) + flukloksasilin + gentamisin ya da alerjide vankomisin + gentamisindir;
+  kültür-duyarlılık sonucuna göre daraltılır. Metisiline duyarlı S. aureus''ta beta laktam (flukloksasilin
+  veya sefazolin), dirençliyse vankomisin veya daptomisin; viridans streptokokta penisilin G veya seftriakson;
+  enterokokta ampisilin (veya vankomisin) artı gentamisin. Cerrahi endikasyonlar: kapak yıkımına bağlı
+  kalp yetmezliği, kontrol edilemeyen enfeksiyon (perivalvular abses, kalıcı ateş), tekrarlayan septik
+  emboli, tekrarlayan embolili mobil büyük vejetasyon (10 mm üstü tek başına endikasyon değildir), protez kapakta parsiyel ayrılma ve mantar etken. Profilaksi:
+  yüksek risklilerde (protez kapak, önceki endokardit, seçili konjenital kalp hastalıkları) diş çekimi
+  gibi gingival-periapikal işlemlerden 30-60 dakika önce tek doz amoksisilin (penisilin allerjisinde klindamisin yerine sefalosporin, azitromisin veya doksisiklin — klindamisin C. difficile riski nedeniyle artık önerilmiyor)'
+klasik_komplikasyon: Septik embolilerle inme ve organ infarktları, mikotik anevrizma; kapak yıkımıyla
+  hızla gelişen kalp yetmezliği; perivalvular abses ve AV blok; tekrarlayan sepsis
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-51
+- tus-2015-sonbahar-ktbt-54
+- tus-2017-ilkbahar-ktbt-8
+- tus-2019-sonbahar-ktbt-64
+- tus-2020-sonbahar-ktbt-10
+- tus-2021-sonbahar-ktbt-97
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

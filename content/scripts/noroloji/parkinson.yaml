@@ -1,0 +1,55 @@
+id: parkinson
+version: 1
+status: draft
+author: ai-drafts/noroloji
+sources:
+- MDS Parkinson Hastalığı Klinik Tanı Kriterleri ve Tedavi Rehberi (Movement Disorder Society)
+ad: Parkinson Hastalığı
+taksonomi:
+- - ktbt
+  - noroloji
+  - noro_hareket_bozukluklari
+  - noro_hb_parkinson
+tipik_hasta: 60 yaş üstü hasta; başlangıçta tek taraflı istirahat tremoru, el yazısının küçülmesi (mikrografi),
+  koku kaybı, genel yavaşlama ve sürünür yürüyüşle gelir. REM uyku davranış bozukluğu ve kabızlık yıllar
+  öncesinden var olabilir; genç başlangıçlı formlarda ailevi-genetik öykü öne çıkar
+patofizyoloji: Substantia nigra pars kompaktadaki dopaminerjik nöronların ilerleyici kaybı ve alfa-sinüklein
+  birikimli Lewy cisimcikleri. Striatumdaki dopamin azalması dolaylı yolu güçlendirip talamusa giden motor
+  sinyali kısar; bu devre bozulması bradikineziyi, rijiditeyi ve tremoru açıklar
+anahtar_bulgular:
+- 'Bradikinezi zorunlu bulgudur: tekrarlı hareketlerde yavaşlama ve amplitüd kaybı (parmak-şaka vurma
+  testi)'
+- 'İstirahat tremoru: 4-6 Hz, para sayma tarzı, hareketle azalır, tek tarafta başlar'
+- 'Dişli çark rijiditesi: pasif hareket boyunca direnç; tremor varsa dişli çark hissi'
+- Postüral instabilite geç dönem bulgusudur; ilk yıl düşme tanıyı sorgulatır
+- Hipomimi, mikrografi, kol salınımının azalması, festinasyon (öne eğilerek hızlanan küçük adımlar)
+- Levodopaya belirgin yanıt klinik doğrulama sağlar
+patognomonik: Tek başına patognomonik bulgu yok; bradikinezi ile birlikte istirahat tremoru veya rijidite
+  kombinasyonu tanımlayıcı örüntüdür
+ilk_tetkik: Tanı klinik; atipik özellik (erken düşme, aşağı bakış paralizisi, serebellar bulgular,
+  ani başlangıç) veya genç hastada sekonder parkinsonizm (dopamin antagonist ilaçlar, toksinler, normal
+  basınçlı hidrosefali, vasküler) dışlamak için kraniyal MR. Gerekirse DAT-SPECT presinaptik dopamin iletimini
+  gösterir
+kesin_tani: 'MDS klinik kriterleri: bradikinezi artı istirahat tremoru veya rijidite; red flag''ler (erken
+  düşmeler, hızlı ilerleme, otonom yetersizlik önde) tanıyı düşürür. Levodopa yanıtı ve DAT-SPECT uyumu
+  destekler; ilaca bağlı ve parkinson artı sendromları dışlanmalıdır'
+ilk_tedavi: 'Levodopa + periferik dekarboksilaz inhibitörü kombinasyonu en etkili tedavidir (levodopa-karbidopa: Sinemet; levodopa-benserazid: Madopar — ikisi birlikte kullanılmaz), 65 yaş üstünde ilk tercih. Genç hastalarda
+  dopamin agonistleri (pramipeksol, ropinirol) motor komplikasyon riskini geciktirir ama dürtü kontrol
+  bozukluğu ve ani uyku hali riski taşır; MAO-B inhibitörleri (selegilin, rasajilin) erken dönemde hafif
+  etki sağlar. İlaç mantığı: yıllar içinde etkili doz wearing-off ve diskinezi yapar; bu durumda doz bölme
+  ve uzun etkili formlar, diskinezide amantadin, uygun seçilmiş hastada derin beyin stimülasyonu devreye
+  girer. Bulantı için metoklopramid gibi dopamin antagonistlerinden kaçınılır; ortostatik hipotansiyon
+  ve kabızlık proaktif yönetilir'
+klasik_komplikasyon: 5-10 yıl levodopa sonrası motor dalgalanma ve diskineziler; postüral instabiliteye
+  bağlı düşmeler, aspirasyon pnömonisi, ortostatik hipotansiyon, REM uyku davranış bozukluğu ve demans
+tus_gecmisi:
+- tus-2014-ilkbahar-ktbt-33
+- tus-2014-sonbahar-ktbt-33
+- tus-2015-sonbahar-ktbt-29
+- tus-2019-sonbahar-ttbt-104
+- tus-2021-ilkbahar-ttbt-105
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

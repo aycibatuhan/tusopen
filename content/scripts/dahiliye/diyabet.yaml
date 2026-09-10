@@ -1,0 +1,112 @@
+id: diyabet
+version: 2
+status: draft
+author: ai-drafts/dahiliye
+last_reviewed: '2026-09-09'
+sources:
+- 'ADA Standards of Care in Diabetes 2025, Bölüm 9: Farmakolojik Yaklaşımlar (Diabetes
+  Care 2025;48 Suppl 1:S181-S206) — referans olarak listelendi, metin projesi özgün
+  yazımdır'
+- 'ADA Standards of Care 2025, Bölüm 2: Tanı eşikleri (A1C 6.5, açlık 126, OGTT 200,
+  semptomlu rastgele 200 mg/dL)'
+- 'FLOW çalışması: semaglutid renal sonuç denemesi, Tip 2 diyabet ve kronik böbrek
+  hastalığında böbrek yetmezliği-böbrek kaynaklı ölüm-kardiyovasküler ölüm birleşik
+  son noktasında yüzde 24 azalma (Perkovic ve ark., NEJM 2024)'
+- 'SELECT çalışması: semaglutidin diyabetsiz obezitede majör kardiyovasküler olayları
+  yaklaşık yüzde 20 azaltması (Lincoff ve ark., NEJM 2023)'
+- 'SURPASS-2: haftada bir tirzepatidin semaglutid 1 mg dozundan daha güçlü A1C ve kilo düşüşü
+  (Frias ve ark., NEJM 2021)'
+- Harrison İç Hastalığı İlkeleri (diyabet bölümü)
+ad: Diabetes Mellitus
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_endokrinoloji
+  - dah_end_diyabet_siniflama
+- - ktbt
+  - dahiliye
+  - dah_endokrinoloji
+  - dah_end_diyabet_tedavi
+- - ktbt
+  - dahiliye
+  - dah_endokrinoloji
+  - dah_end_diyabet_kronik_komplikasyon
+tipik_hasta: 'Tip 1: çocuk ve genç erişkin; kilo kaybı, polidipsi, poliüri ve gece idrara kalkma ile akut
+  başvurur, sık DKA ile karşımıza çıkar. Tip 2: 40 yaş üstü kilolu hasta; yıllarca sessiz kalıp retinopati,
+  nöropati, mantar enfeksiyonu veya iyileşmeyen yara ile ilk kez ortaya çıkabilir'
+patofizyoloji: Tip 1 diyabette otoimmün beta hücre yıkımı sonucu mutlak insülin eksikliği; Tip 2 diyabette
+  insülin direnci üzerine ilerleyici beta hücre rezerv kaybı. Kronik hiperglisemi, proteinlerin glikasyonu
+  (AGE) ve sorbitol birikimi yoluyla mikrovasküler (retina, glomerül, periferik sinir) ve makrovasküler
+  (koroner, serebrovasküler, periferik arter) hasar üretir
+anahtar_bulgular:
+- 'Tanı eşikleri: HbA1c yüzde 6.5 üstü, açlık plazma glukozu 126 mg/dL üstü veya OGTT 2. saat 200 mg/dL
+  üstü; belirtisiz hastada farklı bir günde tekrar gerekir'
+- Klasik belirtiler (poliüri, polidipsi, açıklanamayan kilo kaybı) eşliğinde rastgele plazma glukozu 200
+  mg/dL üstü tek başına tanı koydurur
+- Tip 1 diyabette hızlı kilo kaybı, ketoza eğilim, GAD65-IA-2-ZnT8 otoantikor pozitifliği ve düşük C-peptid
+- Tip 2 diyabette obezite, akantozis nigrikans, hipertansiyon ve dislipidemi; tanı anında zaten komplikasyon bulunabilir
+- 'Glisemik hedefler: çoğu erişkinde HbA1c yüzde 7 altı; açlık-preprandial 80-130 mg/dL, postprandial tepe
+  180 mg/dL altı'
+- 'İlaç seçimi komorbiditeye göre: atanmış aterosklerotik kardiyovasküler hastalıkta kanıt kardiyovasküler
+  yararı olan GLP-1 agonisti ve/veya SGLT2 inhibitörü; kalp yetmezliğinde SGLT2 inhibitörü; kronik böbrek
+  hastalığında (eGFR 20-60 veya albuminüri) SGLT2 inhibitörü ya da GLP-1 agonisti'
+- 'İnsülin eşiği: A1C yüzde 10 üstü, kan glukozu 300 mg/dL üstü veya katabolik belirtilerde, altta yatan
+  tedaviden bağımsız olarak insülinle başlanır'
+- 'Tanıyla birlikte komplikasyon taramaları: fundus (retinopati), idrar albumin-kreatinin oranı (nefropati),
+  monofilaman-çekiç tendonu (nöropati), ayak muayenesi'
+patognomonik: Patognomonik bulgu yok; tanıya yardımcı tipik bulgu — akantozis nigrikans (ense-koltuk altı
+  katlarında kadife dokulu koyu kalınlaşma, insülin direncinin işareti)
+ilk_tetkik: HbA1c ve açlık plazma glukozu; genç veya atipik hastada Tip 1-Tip 2 ayrımı için C-peptid ve
+  otoantikorlar; tanı sırasında komorbidite haritası (kreatinin, idrar albumin-kreatinin oranı, lipid profili,
+  karaciğer enzimleri)
+kesin_tani: 'ADA eşiklerinden herhangi biri doğrular: HbA1c yüzde 6.5 üstü, açlık plazma glukozu 126 mg/dL
+  üstü, OGTT 2. saat 200 mg/dL üstü; klasik hiperglisemi belirtileri veya hiperglisemik kriz olan hastada
+  rastgele plazma glukozu 200 mg/dL üstü tek başına yeterli. Belirtisiz hastada aynı testin farklı günde
+  tekrarı gerekir'
+ilk_tedavi: 'Yaşam tarzı düzenlemesi tüm hastaların temelidir. Tip 1 hastada ilk günden bazal-bolus insülin.
+  Tip 2 diyabette metformin, ek comorbidite istemeyen hastalarda hâlâ en sık başlanan oral ajandır (eGFR 30 üstünde
+  güvenli); ancak 2024-2025 rehber yaklaşımında ilaç seçimi komorbiditeye göre verilir: atanmış veya yüksek
+  riskli kardiyovasküler hastalıkta kanıt kardiyovasküler yararı olan GLP-1 agonisti ve/veya SGLT2 inhibitörü;
+  kalp yetmezliğinde (HFrEF ve HFpEF) hastaneye yatışı azaltan SGLT2 inhibitörü, obezeli HFpEF olgusunda ek olarak
+  GLP-1 agonisti; kronik böbrek hastalığında (eGFR 20-60 veya albuminüri) SGLT2 inhibitörü, ileri evrede
+  (eGFR 30 altı) glisemik amaçla GLP-1 agonisti; kilo hedefi önde olan hastada GLP-1 agonisti veya çift
+  GIP/GLP-1 agonisti tirzepatid. A1C yüzde 10 üstü, kan glukozu 300 mg/dL üstü veya katabolik belirtiler
+  varsa insülinle başlanır; insülin eksikliği kanıtlanmayan hastada insülin yerine GLP-1 agonisti yeğlenir,
+  insülin gerekiyorsa GLP-1 agonisti ile birlikte kullanılır'
+klasik_komplikasyon: 'Akut: Tip 1 diyabette diyabetik ketoasidoz, Tip 2 diyabette hiperosmolar hiperglisemik tablo. Kronik:
+  mikrovasküler — proliferatif retinopati, diabetik nefropati (albuminüriden böbrek yetmezliğine), distal
+  simetrik polinöropati ve otonom nöropati; makrovasküler — koroner arter hastalığı, inme, periferik arter
+  hastalığı; diyabetik ayak ülseri ve ampütasyon'
+ayirici:
+- hastalik: diyabetik_ketoasidoz
+  ayirt_edici: Polüri-polidipsi ile gelen hastada ketonemi, aniyon açığı ve pH 7.30 altı asidoz saptanırsa
+    tablo acil olarak DKA yönetimi gerektirir; DKA yalnızca Tip 1 hastalarının sunumu değildir, Tip 2 hastalarında
+    da enfeksiyon veya ilaç kesilmesiyle tetiklenebilir
+- hastalik: gestasyonel_diyabet
+  ayirt_edici: Gebelikte tanı, 75 g veya 100 g OGTT eşiklerinin gebeliğe özel değerleriyle konur ve genel
+    popülasyon eşikleri geçerli değildir; önceden bilinen diyabetli gebeye pregestasyonel diyabet denir
+- hastalik: hipertiroidi
+  ayirt_edici: Kilo kaybı, yorgunluk ve çarpıntı ile gelen orta yaş hastada tiroid fonksiyon testleri ayırımı
+    netleştirir; hipertiroidide poliüri-polidipsi ve hiperglisemi beklenmez, TSH baskılıdır
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-105
+- tus-2013-sonbahar-ttbt-113
+- tus-2014-ilkbahar-ktbt-16
+- tus-2014-sonbahar-ktbt-16
+- tus-2014-sonbahar-ktbt-18
+- tus-2015-ilkbahar-ttbt-118
+- tus-2015-ilkbahar-ttbt-36
+- tus-2015-sonbahar-ttbt-119
+- tus-2016-sonbahar-ttbt-112
+- tus-2017-ilkbahar-ttbt-86
+- tus-2018-ilkbahar-ttbt-88
+- tus-2019-ilkbahar-ktbt-17
+- tus-2020-ilkbahar-ktbt-17
+- tus-2020-sonbahar-ktbt-16
+- tus-2020-sonbahar-ttbt-30
+- tus-2021-sonbahar-ktbt-16
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: true

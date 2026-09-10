@@ -1,0 +1,10 @@
+id: gc_tp_beslenme
+version: 1
+status: draft
+author: "ai-drafts/cerrahi-facts"
+sources:
+  - "Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Cerrahi Hastada Beslenme"
+taksonomi:
+  - [ktbt, genel_cerrahi, gc_temel_prensipler, gc_tp_beslenme]
+metin: "Stres altındaki cerrahi hastada enerji ihtiyacı yaklaşık 25-30 kcal/kg/gün, protein ihtiyacı 1,2-1,5 g/kg/gün'dür; azot dengesi hesabında günlük protein alımı 6,25'e bölünerek azot miktarı bulunur. Barsak çalışıyorsa enteral beslenme parenteral beslenmeye tercih edilir ve ameliyattan sonraki ilk 24-48 saatte başlanması enfeksiyon, anastomoz kaçağı ve hastane yatış süresini azaltır. Malnütrisyonlu hastada beslenmenin hızlı ve tam dozda başlanması, karbonhidrat yüklenmesine bağlı insülin aracılı hücre içi fosfor, potasyum ve magnezyum geçişiyle giden refeeding sendromuna yol açar; işaret bulgusu hipofosfatemidir ve kalori hedefin dörtte biri düzeyinde başlanıp 3-4 günde artırılır. Parenteral beslenme barsağın kullanılamadığı durumlarda (paralitik ileus, mezenter iskemisi, yüksek debili fistül, uzamış obstrüksiyon) endikedir; periferik yolda ozmolarite sınırına takılır, uzun süreli destek santral venden verilir. İnce bağırsak rezidüsü 200 cm'nin altına indiğinde kısa bağırsak sendromu gelişir ve uzun süreli parenteral destek gerekebilir; kolonun devamlılığının korunması adaptasyonu kolaylaştırır."

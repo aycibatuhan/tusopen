@@ -1,0 +1,10 @@
+id: anat_lenf_duktus
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ductus thoracicus"
+taksonomi:
+  - [ttbt, anatomi, anat_lenfatik, anat_lenf_duktus]
+metin: "Torasik duktus cisterna chyli başlangıcından (L1-L2 düzeyi) yükselir, T5 düzeyinde sağdan sola geçiş yapar ve sol subklavyen ile internal jugüler ven birleşimine dökülür. Vücudun tamamına yakınını (sağ üst kadran hariç) boşaltır; sağ baş-boyun, sağ kol ve sağ toraks drenajını sağ lenfatik duktus üstlenir. Torasik duktus yaralanması plevral aralıkta şilotoraks yapar."

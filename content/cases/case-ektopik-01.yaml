@@ -1,0 +1,49 @@
+id: case-ektopik-01
+version: 1
+status: draft
+author: "ai-drafts/cases-b"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: ektopik_gebelik
+baslik: "Adet gecikmesi, tek taraflı karın ağrısı ve lekelenme olan genç kadın"
+adimlar:
+  - tip: sunum
+    metin: "31 yaşında kadın. Son adet altı hafta önce; iki gündür sağ alt kadranda künt ağrı ve kahverengi lekelenme. İki yıl önce pelvik enfeksiyon tedavisi görmüş. Muayene: vital stabil; karında sağ alt kadranda hafif hassasiyet; pelvik muayenede sağ adneksiyonda hassasiyet, serviks hareket ağrısı hafif. Transvajinal ultrasonda uterus içinde gebelik kesesi yok, endometrium kalın; sağ adneksiyonda 2.5 cm kompleks kitle; dousta az miktarda serbest sıvı. Serum beta-hCG 5400 mIU/mL."
+  - tip: secim
+    soru: "Beta-hCG değeri görülmesi beklenen eşik düzeyin üzerinde ve uterus boş. Klinik yorum ne olmalıdır?"
+    secenekler:
+      - metin: "Ektopik gebelik olasılığı yüksek; hasta yatırılarak yakından izlenmeli ve tedavi planlanmalıdır"
+        dogru: true
+        geri_bildirim: "Eşik değerin üzerindeyken kesesi görülmüyorsa intrauterin gebelik varsayılamaz; boş uterus + adneksiyal kitle ektopik gebeliği işaret eder ve bekleme yırtılma riski taşır"
+      - metin: "Erken intrauterin gebektir, ultrasonda henüz görünmedi"
+        dogru: false
+        geri_bildirim: "Eşik değerin üzerinde kesesi görülmeyen hastada normal gebelik varsayımı güvenli değildir; yırtılmış ektopik gebelik ölümcül olabilir"
+      - metin: "Evde hCG tekrarına kadar beklemek uygundur"
+        dogru: false
+        geri_bildirim: "Eşik üstü beta-hCG ve boş uterus birlikte ciddi ektopik gebelik olasılığını gösterir; evde izlem yerine yakından izlem gerekir"
+      - metin: "Abortus başlangıcıdır ve kürtaj planlanmalıdır"
+        dogru: false
+        geri_bildirim: "Kürtaj intrauterin gebelikte düşünülür; burada uterus boştur ve işlem ektopik gebeliği çözmez, zaman kaybettirir"
+  - tip: sonuc
+    metin: "48 saat sonra beta-hCG 6100 mIU/mL; ultrasonda yine uterus boş, kitlenin içinde embriyonik kalp atışı görülmüyor. Hemoglobin stabil; karında ani şiddetli ağrı, omuz ağrısı ve peritonit bulgusu yok."
+  - tip: secim
+    soru: "Hemodinamik olarak stabil, yırtılma bulgusu olmayan, kalp atışı görülmeyen 2.5 cm'lik kitle var. Tedavi seçeneği ne olmalıdır?"
+    secenekler:
+      - metin: "Metotreksat protokolü başlatmak"
+        dogru: true
+        geri_bildirim: "Stabil hasta, küçük kitle, kalp atışının yokluğu ve uygun karaciğer, böbrek ve kan tablosu metotreksat kriterlerini sağlar; ancak beta-hCG 5.000 mIU/mL üzerine çıkışı tek doz başarısını artıran göreli kısıttır ve yakın izlem şarttır; izlem protokolü uygulanmalıdır"
+      - metin: "Acil salpingektomi"
+        dogru: false
+        geri_bildirim: "Cerrahi yırtılma, hemodinamik instabilite veya uygun olmayan laboratuvar durumlarında ilk seçenektir; bu hasta stabil ve yırtılmamış"
+      - metin: "Bekle-gör yaklaşımıyla taburcu etmek"
+        dogru: false
+        geri_bildirim: "Bekle-gör beta-hCG'nin çok düşük ve düşmekte olduğu hastalara uygundur; burada değer 6100 ve yükseliyor"
+      - metin: "Dilatasyon ve küretaj yapmak"
+        dogru: false
+        geri_bildirim: "Uterus boş olduğu için işlem tanısal katkı sağlamaz ve ektopik gebeliği tedavi etmez"
+  - tip: ozet
+    metin: "Öğrenme noktaları: üreme çağındaki kadında amenore + karın ağrısı + vajinal kanama üçlüsü ektopik gebelik uyarısıdır; transvajinal ultrasonda gebelik kesesinin görülmesi beklenen hCG düzeyi (diskriminasyon eşiği) üzerindeyken boş uterus, ektopik gebelik olasılığını yükseltir; yırtılma bulguları ani şiddetli ağrı, omuz ağrısı, baygınlık ve hemodinamik instabilitedir; stabil, yırtılmamış, küçük ve kalp atışsız kitlenin tedavisi metotreksattır; instabilitede veya kriterlerin dışında cerrahi uygulanır."
+sozlu_sorular:
+  - "Diskriminasyon eşiği nedir, ektopik gebelik şüphesini nasıl artırır?"
+  - "Metotreksat vermeden önce hangi laboratuvar ve klinik kontroller yapılır?"
+  - "Yırtılmış ektopik gebelikte acil yaklaşım nasıl olmalıdır?"

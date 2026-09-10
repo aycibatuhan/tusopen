@@ -1,0 +1,10 @@
+id: histo_sin_miyelin
+version: 1
+status: draft
+author: "ai-drafts/histoloji-facts"
+sources:
+  - "Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ranvier Boğumları ve Saltatuvar İletim"
+taksonomi:
+  - [ttbt, histoloji_embriyoloji, histo_sinir, histo_sin_miyelin]
+metin: "Miyelinli liflerde akson zarı yalnızca Ranvier boğumları denilen aralıklarda dış ortama açıktır; aksiyon potansiyeli bu boğumlardan boğuma atlayarak ilerler. Bu saltatuvar iletim miyelinsiz iletime göre çok daha hızlıdır ve iyon dengesini koruyarak enerjiden tasarruf sağlar."

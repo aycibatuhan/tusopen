@@ -1,0 +1,49 @@
+id: case-gbs-01
+version: 1
+status: draft
+author: "ai-drafts/cases-b"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: guillain_barre
+baslik: "İshalli dönem sonrasında yükselen simetrik güçsüzlük gelişen orta yaş erkek"
+adimlar:
+  - tip: sunum
+    metin: "42 yaşında erkek. Üç hafta önce iki günlük ishal geçirdi. Bir hafta önce ayak parmaklarında karıncalanma; dört gün önce merdiven çıkarken bacaklarda güçsüzlük; bugün bardağı tutmakta zorlanma eklenmiş. Muayene: bacaklardan kollara doğru yayılan, simetrik kuvvetsizlik; el ve ayaklarda hafif his azalması; derin tendon refleksleri iki tarafta alınmıyor; kranial sinir muayenesi normal; solunum sıkıntısı yok."
+  - tip: secim
+    soru: "Klinik tabloya en uygun tanı hangisidir?"
+    secenekler:
+      - metin: "Guillain Barre sendromu"
+        dogru: true
+        geri_bildirim: "Yükselen, simetrik güçsüzlük + arefleksi + ön gastroenterit öyküsü (özellikle kampiyobakter) tablonun klasik bileşimidir"
+      - metin: "Lumbosakral disk hernisi"
+        dogru: false
+        geri_bildirim: "Radikülopatide ağrı asimetrik ve segmentaldir, refleks kaybı genellikle tek taraflıdır; simetrik yükselen güçsüzlüğe uymaz"
+      - metin: "Miyastenia gravis"
+        dogru: false
+        geri_bildirim: "Göz ve bulbar kas tutulumu öne çıkar, gün içinde dalgalanır ve refleksler korunur; burada tablo yükselendir ve arefleksi var"
+      - metin: "Botulizm"
+        dogru: false
+        geri_bildirim: "Botulizmde güçsüzlük aşağıya doğru iner ve pupilla dilatasyonu öne çıkar; bu hastada tablo yükselen ve pupillalar normaldir"
+  - tip: sonuc
+    metin: "Lomber ponksiyon: protein 210 mg/dL, hücre sayısı 3. Nörogörüntüleme normal. Solunum fonksiyon testinde FVC 16 mL/kg ve tekrarlanan ölçümlerde hızla düşüyor."
+  - tip: secim
+    soru: "Tanı güçlendi. Tedavi ve izlem planı nasıl olmalıdır?"
+    secenekler:
+      - metin: "IVIG başlatmak ve solunum fonksiyonunu düzenli ölçerek entübasyon ve yoğun bakım için hazır olmak"
+        dogru: true
+        geri_bildirim: "IVIG ve plazmaferez GBS'de eşdeğer etkinliktedir; FVC hızla düşen hastada solunum yetmezliği eşiği yakından izlenerek takip edilir"
+      - metin: "Yüksek doz metilprednizolon başlatmak"
+        dogru: false
+        geri_bildirim: "Kortikosteroidler Guillain Barre sendromunda faydasızdır; etkin tedaviler IVIG ve plazmafereztir"
+      - metin: "Antikolinesteraz ilaç denemek"
+        dogru: false
+        geri_bildirim: "Bu ilaçlar miyastenia tedavisidir; burada sorun nöromüsküler iletim değil, periferik sinir demiyelinizasyonudur"
+      - metin: "Sadece fizik tedavi planlayıp iki hafta sonra kontrole çağırmak"
+        dogru: false
+        geri_bildirim: "Tablo ilerleyicidir ve solunum kaslarını da etkileyebilir; aktif tedavi ve yakın izlem gerekir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: yükselen simetrik güçsüzlük + arefleksi + ön enfeksiyon öyküsü Guillain Barre sendromunu çağırır; lomber ponksiyonda protein yüksek ama hücre sayısı normal (albüminositolojik dissosiasyon); solunum fonksiyon izlemi temeldir, FVC hızla düşen veya eşik değere yaklaşan hasta yoğun bakıma alınır; tedavi IVIG veya plazmaferezdir; kortikosteroidlerin yeri yoktur; Miller Fisher varyantında oftalmopleji, arefleksi ve ataksi öne çıkar."
+sozlu_sorular:
+  - "Miller Fisher varyantının üç ana bulgusu nedir?"
+  - "Entübasyon kararında hangi solunum fonksiyon ölçütleri kullanılır?"
+  - "Kampiyobakter enfeksiyonu Guillain Barre sendromunu hangi mekanizmayla tetikler?"

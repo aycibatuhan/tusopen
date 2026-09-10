@@ -1,0 +1,10 @@
+id: biyok_kh_piruvat_tca
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pirüvat Dehidrogenaz Kompleksi"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_piruvat_tca]
+metin: "Pirüvat dehidrogenaz kompleksi pirüvatı asetil-KoA'ya çevirir ve beş kofaktör kullanır: tiamin pirofosfat, lipoik asit, KoA, FAD ve NAD. Kompleksin çalışamadığı durumda, tiamin eksikliğinde görüldüğü gibi pirüvat laktata sapar ve laktik asidoz gelişir. Arsenik, lipoik asidin iki sülfhidril grubuna bağlanarak kompleksi baskılar. Sitrik asit döngüsü her turda üç NADH, bir FADH2 ve bir GTP üretir."

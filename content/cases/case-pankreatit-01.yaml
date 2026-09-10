@@ -1,0 +1,49 @@
+id: case-pankreatit-01
+version: 1
+status: draft
+author: "ai-drafts/cases-e"
+sources:
+  - "Özgün vaka; ÖSYM kitapçıklarından hiçbir ifade kullanılmadı"
+hastalik: akut_pankreatit
+baslik: "Sırtına vuran şiddetli üst karın ağrısı"
+adimlar:
+  - tip: sunum
+    metin: "46 yaşında erkek. Kızının düğününde yoğun alkol almasından saatler sonra epigastriuma oturan, sırta doğru vuran, öne eğilince hafifleyen şiddetli ağrı başlamış; birkaç kez kusmuş. Acil serviste ateş 37.8 derece, nabız 108/dk, tansiyon 105/65 mmHg, solunum 22/dk. Muayenede epigastriyum belirgin hassas, karında distansiyon hafif, bağırsak sesleri azalmış. Laboratuvar: lipaz normal üst sınırının altı katı, amilaz da yüksek, beyaz küre 13.800, kreatinin 1.0 mg/dL, kalsiyum 8.4 mg/dL."
+  - tip: secim
+    soru: "Klinik ve laboratuvar bulguları göz önünde bulundurulduğunda tanı için ne yeterlidir?"
+    secenekler:
+      - metin: "Tipik klinik tablo ve lipazın normal üst sınırının en az üç katı üzerinde olması"
+        dogru: true
+        geri_bildirim: "Akut pankreatit tanısı karakteristik ağrı ve lipaz yüksekliğiyle konur; lipaz amilazdan spesifiktir ve görüntüleme tanı için gerekmez"
+      - metin: "Aynı gün kontrastlı batın bilgisayarlı tomografisi çekilmesi"
+        dogru: false
+        geri_bildirim: "Tomografi tanı için değil, şüphe kalırsa ya da ilk hafta sonunda komplikasyon araştırmak için kullanılır; erken dönemde nekrozu tam göstermeyebilir"
+      - metin: "Amilazın çok yüksek olması"
+        dogru: false
+        geri_bildirim: "Amilaz kısa sürede normalleşir, tükürük bezi ve bağırsak kaynaklı hastalıklarda da yükselir; spesifikliği düşüktür"
+      - metin: "Üst gastrointestinal sistem endoskopisi"
+        dogru: false
+        geri_bildirim: "Endoskopi ağrının pankreas kaynaklı olduğunu göstermez; tanısal adım değildir"
+  - tip: sonuc
+    metin: "Hastaneye yatırıldı; ilk saatlerde damar yoluyla geniş sıvı verilmesi ve analjezi planlandı. Safra yolları ultrasonunda taş ve kanal genişlemesi saptanmadı, safra kaynaklı tıkanma bulgusu yok."
+  - tip: secim
+    soru: "İlk dönem tedavi planının temeli hangisidir?"
+    secenekler:
+      - metin: "Agresif damar içi kristalloid sıvı replasmanı, analjezi ve tolere ediyorsa erken beslenme"
+        dogru: true
+        geri_bildirim: "Sıvı replasmanı akut pankreatit tedavisinin temelidir; ilk 24-48 saat içinde tolere edebilen hastada erken oral ya da enteral beslenme sonuçları iyileştirir"
+      - metin: "Her hastaya profilaktik antibiyotik başlanması"
+        dogru: false
+        geri_bildirim: "Nekrotize pankreatitte dahi profilaktik antibiyotik önerilmez; enfekte nekroz kanıtlandığında başlanır"
+      - metin: "Her hastaya acil endoskopik retrograd kolanjiopankreatografi"
+        dogru: false
+        geri_bildirim: "Kolanjit ya da safra pankreatitinde tıkanma kanıtı varsa endoskopik işlem endikedir; her hastada yapılmaz, gereksiz morbidite getirir"
+      - metin: "Bolus kortikosteroid ile iltihabın baskılanması"
+        dogru: false
+        geri_bildirim: "Akut pankreatitte kortikosteroid yeri yoktur; iltihabı baskılamaz, tabloyu kötüleştirebilir"
+  - tip: ozet
+    metin: "Öğrenme noktaları: alkol ya da safra taşı sonrası epigastrik ağrının sırta vurmaya dönmesi ve kusma pankreatiti düşündürür; tanı klinik ve lipazın normal üst sınırının en az üç katı üzerinde olmasıyla konur, görüntüleme tanı için gerekmez; tedavinin temeli erken ve geniş damar içi sıvı, analjezi ve tolere ediliyorsa erken beslenme; profilaktik antibiyotik ve rutin endoskopik işlem yoktur."
+sozlu_sorular:
+  - "Hangi durumda acil endoskopik retrograd kolanjiopankreatografi endikedir?"
+  - "Erken dönemde hasar göstergeleri olarak hangi bulguları takip edersiniz?"
+  - "Nekrotize pankreatitte enfeksiyon şüphesi nasıl araştırılır?"

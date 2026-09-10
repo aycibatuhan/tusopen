@@ -1,0 +1,50 @@
+id: lyme_hastaligi
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-5
+sources:
+- 'Klinik rehberler: Lyme hastalığı tanı ve tedavi rehberi (IDSA/AAN/ACR) — referans olarak listelendi,
+  metin projesi özgün yazımdır'
+ad: Lyme Hastalığı
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_riketsiyoz_lyme
+tipik_hasta: Kene yoğun ormanlık ve çimenlik bölgelerde yaşayan veya gezi yapan; ısırığı çoğu kez hatırlamayan
+  hasta. Isırıktan günler sonra ısırık yerinde genişleyen kızarıklıkla, ya da haftalar-aylar sonra yüz
+  sarkması, eklem ağrısı, çarpıntı ve senkopla başvurur
+patofizyoloji: 'Etken Borrelia burgdorferi grubu spiroketi, bulaş vektörü Ixodes kenesidir; kenenin en
+  az 24-48 saat yapışık kalması geçiş için gereklidir. Spiroket ısırık derisinde genişleyen halka (eritema
+  migrans) oluşturur, sonra kana ve dokulara yayılır: sinir sistemi, kalp iletim sistemi ve eklemleri
+  sırayla tutar; geç evrede inatçı artrit ve kronik nöropsikiyatrik bulgular kalabilir'
+anahtar_bulgular:
+- 'Eritema migrans: ısırıktan 3-30 gün sonra, merkezde soluklaşan ve dışa doğru genişleyen halka tarzında
+  döküntü'
+- 'Erken dissemine evre: çoklu eritema migrans, fasiyal parali, aseptik menenjit, kalp bloğu (Lyme karditi)'
+- 'Geç evre: özellikle dizde tekrarlayan monoartrit, kronik ensefalopati ve polinöropati'
+- Tanıda iki aşamalı seroloji (ELISA ardından Western blot doğrulama) kullanılır; yalnız eritema migrans
+  varsa seroloji gerekmez, klinik tanı yeterlidir
+- Bulaş için kenenin 24-48 saatten uzun süre yapışık kalması gerekir; kısa süreli temas bulaş riski açısından
+  düşüktür
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Eritema migrans (merkezi soluk, genişleyen halka) — görüldüğünde seroloji beklemeden tanı
+  ve tedavi konur
+ilk_tetkik: Eritema migrans görünümü varsa klinik tanı yeterlidir; ekstra deri bulgusu (nörolojik, kardiyak,
+  eklem) varsa iki aşamalı seroloji
+kesin_tani: Tipik eritema migransın klinik tanısı; dissemine ve geç evrelerde uyumlu klinikle birlikte
+  iki aşamalı seroloji pozitifliği
+ilk_tedavi: Erken evrelerde erişkinde doksisiklin, çocuk ve gebelikte amoksisilin; kalp bloğu ve nörolojik
+  tutulumda parenteral seftriakson
+klasik_komplikasyon: Geç evre Lyme artriti (dizde inatçı monoartrit) ve geç tanınan karditte tam kalp
+  bloğu; kalıcı fasiyal parali
+tus_gecmisi:
+- tus-2013-sonbahar-ttbt-58
+- tus-2018-ilkbahar-ttbt-60
+- tus-2019-ilkbahar-ttbt-60
+- tus-2019-ilkbahar-ttbt-68
+- tus-2019-sonbahar-ktbt-31
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: false

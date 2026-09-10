@@ -1,0 +1,134 @@
+id: meme_kanseri
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-2
+sources:
+- NCCN Breast Cancer guideline (v2.2025) — referans olarak listelendi, metin projesi özgün yazımdır
+- ESMO Early Breast Cancer Practice Guidelines (2024) — referans olarak listelendi, metin projesi özgün yazımdır
+- 'NCCN Genetic/Familial High-Risk Assessment: Breast, Ovarian, and Pancreatic (v2.2024) — referans
+  olarak listelendi, metin projesi özgün yazımdır'
+- ASCO Sentinel Lymph Node Biopsy in Early-Stage Breast Cancer guideline (2025) — referans olarak
+  listelendi, metin projesi özgün yazımdır
+- T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü, Kadınlarda Meme Kanseri Taramaları Ulusal
+  Standartları — referans olarak listelendi, metin projesi özgün yazımdır
+ad: Meme Kanseri
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_meme
+  - gc_meme_kanser_cerrahi
+- - ktbt
+  - genel_cerrahi
+  - gc_meme
+  - gc_meme_tarama
+- - ktbt
+  - genel_cerrahi
+  - gc_meme
+  - gc_meme_kanser_evreleme
+tipik_hasta: 'Kırk ile altmış yaş arasındaki kadında kendisinin ya da hekimin fark ettiği ağrısız, sert
+  ve çevreye yapışan bir meme kitlesi tipik hastadır. Riski artıran durumlar: erken menarş, geç menopoz,
+  doğum yapmama ya da ilk doğumu otuz yaş sonrasına bırakma, emzirmeme, postmenopozal obezite, uzun süre
+  menopoz sonrası hormon tedavisi kullanımı, alkol ve yoğun meme dokusu. Birinci derece akrabada erken
+  ya da çift taraflı meme kanseri, yumurtalık veya pankreas kanseri öyküsü, göğüs bölgesine radyoterapi
+  almış olmak ve BRCA1 veya BRCA2 mutasyon taşıyıcılığı (kalıtsal olguların en sık nedeni) belirgin risk
+  artırır; kalıtsal formlar tüm olguların yaklaşık yüzde 5-10 kadarıdır'
+patofizyoloji: 'Süt kanallarını döşeyen epitelden çıkan karsinom en sık tipi olup (invaziv duktal) ikinci
+  sıklıkta lobüler karsinom gelir; kanal tabanını aşmayan hücre birikimi (duktal karsinoma in situ, DCIS)
+  invazyon öncesi evredir. Biyolojik davranış reseptör durumuna göre belirlenir: ER ve PR pozitif (lüminal)
+  tümörler yavaş ilerler ve endokrin tedaviye duyarlıdır; HER2 amplifikasyonu agresif seyir gösterir ama
+  anti-HER2 tedavilerle kontrol edilebilir; ER, PR ve HER2 hepsi negatif (üçlü negatif) tipte hedefli
+  tedavi seçeneği yoktur ve kemoterapi ön plandadır. Yayılım önce meme lenfatikleriyle koltuk altı lenf
+  düğümlerine, sonra kan yoluyla kemik, akciğer, karaciğer ve beyne olur'
+anahtar_bulgular:
+- En sık başvuru bulgusu sert, sınırları düzensiz, ağrısız, cilde ve göğüs duvarına yapışan hareketsiz
+  kitle; en sık yer üst dış kadrandır
+- Ciltte çekinti, meme başında içe çökme, kanlı meme başı akıntısı; dermal lenfatik yayılımla ciltte
+  ödem ve portakal kabuğu görünümü
+- Paget hastalığı meme başı-areolada egzamayı andıran kabuklanma, kızarıklık ve kaşıntıyla başlar;
+  altında DCIS ya da invaziv tümör yatar
+- İnflamatuvar meme kanseri haftalar içinde hızla memenin en az üçte birini kaplayan kızarıklık, ısınma
+  ve ödem yapar; ele gelen belirgin kitle çoğunlukla yoktur ve antibiyotiğe yanıt vermez (mastitle
+  karışır)
+- Mamografide spikülasyonlu kitle veya gruplu pleomorfik mikrokalsifikasyonlar; USG incelemesinde düzensiz
+  sınırlı, dikey gidişli, hipokoik lezyon
+- Palpabe aksiller ya da supraklaviküler lenf düğümü; görüntülemede şüpheli aksilla
+- İleri evre bulguları cilt ülserasyonu, kanama, göğüs duvarına sabitlenme ve üst ekstremite ödemi
+- Metastatik tablo kemik ağrısı ve patolojik kırık, hiperkalsemi, karaciğer metastazı, pleural efüzyon
+  veya nörolojik bulgularla kendini gösterir
+patognomonik: Patognomonik bulgu yok; tanı biyopsiyle kesinleşir. En tipik eşleşme mamografide spiküle
+  kitleyle birlikte gruplu pleomorfik mikrokalsifikasyonlar ve aynı tarafta şüpheli aksiller lenf düğümüdür
+ilk_tetkik: 'Üçlü değerlendirme mantığı: klinik muayene, görüntüleme ve patoloji her biri ayrı ayrı
+  yorumlanır. Kitle görüntülenirken mamografi ile meme USG birlikte kullanılır; kırk yaş üstünde mamografi
+  önceliklidir, genç yaşta ve yoğun meme dokusunda USG öne çıkar, aksilla ayrıca USG ile değerlendirilir.
+  Görüntüleme iyi huylu yönde uyumlu olsa bile muayenede şüpheli kitle varsa biyopsiye geçilir'
+kesin_tani: Kalın iğne (core) biyopsisi tanıyı kesinleştirir; aynı örnekten ER, PR, HER2 ve Ki-67
+  çalışılır. İnce iğne aspirasyonu yalnız sitoloji sağlar, reseptör-HER2 incelemesi için yeterli değildir.
+  Şüpheli aksiller lenf düğümü ince iğne aspirasyonuyla doğrulanır; metastatik şüphede kemik sintigrafisi,
+  toraks-karın BT veya PET-BT ile evreleme yapılır
+ilk_tedavi: 'Evre ve biyolojik alt grup birlikte karar verir. Erken evrede cerrahi: memede koruyucu
+  cerrahi artı radyoterapi ya da mastektomi; klinik olarak aksilla negatif hastada sentinel lenf düğümü
+  biyopsisi yapılır, koruyucu cerrahi ve tüm meme radyoterapisine ek olarak bir-iki sentinel düğümü
+  pozitif hastada artık aksiller disseksiyon zorunlu değildir (aksiller radyoterapi de seçenektir). Evre
+  II-III üçlü negatif ve HER2 pozitif hastada neoadjuvan kemoterapi standarttır; HER2 pozitifte kemoterapi
+  trastuzumab ve pertuzumab ikilisiyle verilir, cerrahide kalıntı invaziv tümör kalırsa adjuvan tedavi
+  T-DM1 (trastuzumab emtansin) ile tamamlanır, anti-HER2 tedavinin toplam süresi bir yıldır. ER-PR pozitif
+  hastada beş-on yıl endokrin tedavi (premenopozda tamoksifen, postmenopozda aromataz inhibitörü);
+  yüksek riskli, HER2 negatif ve kalıtsal BRCA1-2 mutasyonlu hastaya adjuvan PARP inhibitörü (olaparib)
+  eklenir. Metastatik ER-PR pozitif HER2 negatif hastada ilk basamak endokrin tedaviye eklenen CDK4-6
+  inhibitörüdür (palbosiklib, ribosiklib, abemasiklib); üçlü negatif metastatik hastada kemoterapi
+  temeldir'
+klasik_komplikasyon: Aksiller lenf düğümü metastazı ve kemik metastazına bağlı patolojik kırık-hiperkalsemi;
+  cerrahi ve radyoterapi sonrası üst ekstremite lenfödemi ve omuz hareket kısıtlılığı; ileri evrede cilt
+  ülserasyonu ve kanama
+ayirici:
+- hastalik: meme_benign
+  ayirt_edici: İyi huylu lezyonlarda kitle çoğunlukla yuvarlak, düzgün sınırlı ve serbest hareketlidir.
+    Fibroadenom genç kadında kolay kayan, ağrısız kitledir; kist USG incelemesinde anekoik içerikli olup
+    aspirasyonla tamamen kaybolur; filloides haftalar-aylar içinde hızla büyür; mastitte ateş, batıcı
+    ağrı ve emzirme öyküsü ön plandadır. Kanserde kitle sert, düzensiz ve sabittir; cilt çekintisi,
+    portakal kabuğu görünümü, kanlı akıntı ya da palpabe aksiller düğüm eşlik edebilir ve biyopsi
+    olmadan kesin ayrım yapılamaz
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-81
+- tus-2013-sonbahar-ktbt-82
+- tus-2013-sonbahar-ktbt-83
+- tus-2014-sonbahar-ktbt-81
+- tus-2014-sonbahar-ktbt-86
+- tus-2014-sonbahar-ktbt-87
+- tus-2014-sonbahar-ttbt-93
+- tus-2015-ilkbahar-ktbt-84
+- tus-2015-ilkbahar-ttbt-92
+- tus-2015-sonbahar-ttbt-92
+- tus-2016-ilkbahar-ktbt-21
+- tus-2016-ilkbahar-ttbt-116
+- tus-2016-sonbahar-ktbt-83
+- tus-2016-sonbahar-ttbt-117
+- tus-2016-sonbahar-ttbt-84
+- tus-2017-ilkbahar-ttbt-82
+- tus-2017-sonbahar-ktbt-21
+- tus-2017-sonbahar-ktbt-82
+- tus-2017-sonbahar-ktbt-83
+- tus-2018-ilkbahar-ktbt-81
+- tus-2018-ilkbahar-ktbt-82
+- tus-2018-ilkbahar-ttbt-87
+- tus-2018-sonbahar-ktbt-80
+- tus-2019-ilkbahar-ktbt-81
+- tus-2019-ilkbahar-ktbt-82
+- tus-2019-ilkbahar-ttbt-102
+- tus-2019-ilkbahar-ttbt-85
+- tus-2019-sonbahar-ktbt-22
+- tus-2019-sonbahar-ktbt-81
+- tus-2019-sonbahar-ttbt-85
+- tus-2020-ilkbahar-ktbt-22
+- tus-2020-ilkbahar-ktbt-81
+- tus-2020-ilkbahar-ktbt-82
+- tus-2020-ilkbahar-ttbt-86
+- tus-2020-sonbahar-ktbt-81
+- tus-2020-sonbahar-ktbt-82
+- tus-2021-sonbahar-ktbt-21
+- tus-2026-ilkbahar-ttbt-73
+kart_uret:
+  bilgi: true
+  vaka: true
+  celdirici: false
+  ayirici: true

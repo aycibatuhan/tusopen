@@ -1,0 +1,10 @@
+id: mikro_mko_sistemik
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sistemik mikozlarda dimorfizm ipuçları"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_sistemik]
+metin: "Endemik sistemik mikoz etkenleri (Histoplasma, Blastomyces, Coccidioides) doğada küf formunda, vücut sıcaklığında maya formundadır (Coccidioides istisnadır: dokuda sferül yapar); bu dimorfizm tanıda anahtardır. Coccidioides'te sferül içinde endosporlar, Blastomyces'te geniş tabanlı tomurcuklanma, Histoplasma'da makrofaj içindeki küçük maya hücreleri tipik görünümdür."
