@@ -18,10 +18,9 @@ TUS hazırlığında ne kadar etkili olduğunu göstermek ve bu yöntemi herkesi
 [docs/anki-ve-aralikli-tekrar.md](docs/anki-ve-aralikli-tekrar.md)
 belgesinde, kaynak gösterilerek açıklanmıştır.
 
-Bu proje **herhangi bir TUS dershane/kurs/yayınevi kuruluşuyla (TUSDATA, TUSEM,
-TUSTIME, TUS-DUS hazırlık kurumları vb.) hiçbir bağı, anlaşması, sponsorluğu
-veya izni olmadan bağımsız olarak geliştirilmektedir** ve hiçbir kazanç
-amacı taşımamaktadır. İçerikler bu kurumların ders kitaplarından, soru
+Bu proje **TUS hazırlığı sunan herhangi bir dershane, kurs ya da yayıneviyle
+hiçbir bağı, anlaşması, sponsorluğu veya izni olmadan bağımsız olarak
+geliştirilmektedir** ve hiçbir kazanç amacı taşımamaktadır. İçerikler bu kurumların ders kitaplarından, soru
 bankalarından veya eğitim materyallerinden alınmamış, kopyalanmamış ya da
 uyarlanmamıştır; tamamı bu projeye özgü yazımdır ve telif/ticari kaynaklara
 atıf yalnızca bilimsel referans düzeyinde (kılavuz/ders kitabı adı) kullanılır.
