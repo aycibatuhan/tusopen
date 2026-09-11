@@ -25,8 +25,13 @@ amacı taşımamaktadır. İçerikler bu kurumların ders kitaplarından, soru
 bankalarından veya eğitim materyallerinden alınmamış, kopyalanmamış ya da
 uyarlanmamıştır; tamamı bu projeye özgü yazımdır ve telif/ticari kaynaklara
 atıf yalnızca bilimsel referans düzeyinde (kılavuz/ders kitabı adı) kullanılır.
-Amacımız hiçbir hazırlık kurumunun yerini almak değil; aralıklı tekrarı
-TUS adaylarının çalışma kültürüne kazandırmaktır.
+
+**Rekabet değil, bilinçlendirme hedeflenmektedir.** Piyasada aralıklı tekrar
+temelli ücretli kaynaklar da vardır; bu proje hiçbirinin alternatifi ya da
+rakibi olarak konumlanmaz. Amacı, aralıklı tekrar yönteminin bilimsel
+dayanağını herkese açık ve ücretsiz biçimde göstermek, yöntemi herkesin
+kullanımına sunmaktır. Hangi kaynağı kullanacağınız tamamen sizin tercihiniz;
+burada anlatılan yöntem mevcut çalışma düzeninizin yanında da yürür.
 
 ÖSYM sınav soruları da depoya girmez: yalnızca soru kimlikleri, cevap anahtarları
 ve konu etiketleri gibi **öğrenci kataları** kullanılır (bkz. PERMISSIONS.md).
