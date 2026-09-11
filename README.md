@@ -5,6 +5,21 @@ An open-source study system for the Turkish medical specialization exam
 Anki, a case simulator, an oral-exam mode, and topic/overlap statistics.
 The full build plan is [`TUS_OPEN_PROJECT_PLAN.md`](TUS_OPEN_PROJECT_PLAN.md).
 
+## Bağımsızlık beyanı
+
+Bu proje **herhangi bir TUS dershane/kurs/yayınevi kuruluşuyla (TUSDATA, TUSEM,
+TUSTIME, TUS-DUS hazırlık kurumları vb.) hiçbir bağı, anlaşması, sponsorluğu
+veya izni olmadan bağımsız olarak geliştirilmektedir.** İçerikler bu kurumların
+ders kitaplarından, soru bankalarından veya eğitim materyallerinden alınmamış,
+kopyalanmamış ya da uyarlanmamıştır; tamamı bu projeye özgü yazımdır ve
+telif/ticari kaynaklara atıf yalnızca bilimsel referans düzeyinde
+(kılavuz/ders kitabı adı) kullanılır.
+
+ÖSYM sınav soruları da depoya girmez: yalnızca soru kimlikleri, cevap anahtarları
+ve konu etiketleri gibi **öğrenci kataları** kullanılır (bkz. PERMISSIONS.md).
+Herhangi bir dershane/yayınevi içerik talebi gelirse (DMCA/telif bildirimi),
+bildirim süreci ve kaldırma prosedürü de hazır durumdadır.
+
 ## Legal model (important)
 
 - The repository ships **code, schemas, taxonomy, tags and own-words
