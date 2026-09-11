@@ -54,6 +54,18 @@ src/tusopen/               CLI pipeline (fetch, parse, stubs, validate)
 ~/.tusopen/cache/          local-only: raw PDFs + parsed question text (never committed)
 ```
 
+## Eklenti (otomatik güncelleme)
+
+Anki eklentisi, desteyi GitHub Releases üzerinden otomatik günceller
+(zamanlama korunur). Kurulum:
+
+1. [Releases](https://github.com/aycibatuhan/tusopen/releases) sayfasından
+   `tusopen_guncelle.ankiaddon` dosyasını indirin
+2. Anki ▸ Araçlar ▸ Eklentiler ▸ **Install from file** → dosyayı seçin
+3. Anki'yi yeniden başlatın — sonraki güncellemeleri eklenti bildirir
+
+Detaylar: [addon/tusopen_guncelle/README.md](addon/tusopen_guncelle/README.md)
+
 ## Quick start
 
 New to Anki or spaced repetition? Read
