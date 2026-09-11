@@ -1,4 +1,4 @@
-## [0.4.0-alpha] — 2026-09-10
+## [0.4.0-alpha], 2026-09-10
 
 İlk herkese açık sürüm (private repo). Deck sürümü: v0.4.0-alpha.
 
@@ -9,7 +9,7 @@
 
 ### Notes
 
-- İçerik: 688+ dosya — 336 illness script, 315 fact, 60 vaka, 9 walkthrough.
+- İçerik: 688+ dosya, 336 illness script, 315 fact, 60 vaka, 9 walkthrough.
 - Deck: 2,249 not / 4,556 kart, 6 not tipi (hepsi gerçek içerikli).
 - Tüm içerik `draft` durumundadır; insan incelemesi ilk beta için planlanmıştır.
 
@@ -20,25 +20,25 @@ All notable changes to this project are documented here. Format follows
 `MAJOR.MINOR.PATCH` with an `-alpha`/`-beta` suffix until the first
 community-reviewed release.
 
-## [0.3.6-alpha] — 2026-09-09
+## [0.3.6-alpha], 2026-09-09
 
-Gece oturumu: üç analiz raporu (dış kaynak deck kapsamı — metadüzey; TUS
+Gece oturumu: üç analiz raporu (dış kaynak deck kapsamı, metadüzey; TUS
 frekans haritası; USMLE-TUS kapsam uyumu) + web-doğrulamalı yüksek-kazanç
 içerik paketleri (üretim listesi frekans haritasındaki boşluklardan geldi).
 
 ### Added
 
-- **Analiz raporları** (local/decks-analysis/, gitignored — dış kaynak ürün
+- **Analiz raporları** (local/decks-analysis/, gitignored, dış kaynak ürün
   adları içerdiği için public ağaçta değil):
   - konu dağılımı (metadüzey) + frekans/arz karşılaştırması: en büyük
     boşluklar mikro_genel_bakteriyoloji (40 soru / 0 içerik), gc_meme (33/1),
     ped_immunoloji_alerji (31/1), gc_safra_yollari (28/1)
   - 30 konuluk TUS-USMLE kapsam tablosu + 15 konuluk üretim önceliği
 - **Yeni/yükseltilmiş içerik (web-doğrulamalı, kaynaklar dosyalarda)**:
-  - Meme: meme_kanseri.yaml yeniden yazım (NCCN v2.2025/ESMO 2024/ASCO 2025 —
+  - Meme: meme_kanseri.yaml yeniden yazım (NCCN v2.2025/ESMO 2024/ASCO 2025 -
     SLNB de-eskalasyon, T-DM1, olaparib, CDK4/6), meme_benign.yaml (yeni),
     gc_meme_yardimci.yaml (tarama: KETEM 40-69 resmî standarda düzeltildi)
-  - Peptik ülser/H. pylori: peptik_ulser.yaml (yeni; ACG 2024 — 14 gün
+  - Peptik ülser/H. pylori: peptik_ulser.yaml (yeni; ACG 2024, 14 gün
     bismut-dörtlü birinci seçim, direnç, test-of-cure), dah_gis_hpylori_rejim.yaml
   - Zehirlenme: antidotlar.yaml (yeni; ACMT eşleştirmeleri), dah_toks_antidot_tablo.yaml,
     ped_toks_parasetamol.yaml (Rumack-Matthew + NAC)
@@ -57,7 +57,7 @@ içerik paketleri (üretim listesi frekans haritasındaki boşluklardan geldi).
     ped_kard_shuntlar.yaml
 - Destemiz: 2,249 not / 4,556 kart (+81 not, +212 kart tek gecede).
 
-## [0.3.5-alpha] — 2026-09-08
+## [0.3.5-alpha], 2026-09-08
 
 ### Added
 
@@ -71,14 +71,14 @@ içerik paketleri (üretim listesi frekans haritasındaki boşluklardan geldi).
   altında kalıyor.
 - **Walkthroughs ilk grup: 9 adet** (dahiliye 6: endokrinoloji×3, pankreatit,
   Mallory-Weiss, düzeltilmiş sodyum; TTBT 3: cisplatin nefrotoksisitesi,
-  gemsitabin sınıflaması, trastuzumab hedefli tedavi) — her biri gerçek geçmiş
+  gemsitabin sınıflaması, trastuzumab hedefli tedavi), her biri gerçek geçmiş
   TUS sorusuna özgün-yazım akıl yürütme kılavuzu; depoya soru metni girmez
   (yalnız soru_ref). **Çeldirici kartları ilk kez üretildi: 34 kart**
   (kavram/neden-yanlış/nerede-doğru üçlüsü).
 - **Özgünlük denetimi walkthroughları da yakaladı**: 6 kelimelik pencere
   paylaşan ipucu metni tespit edilip yeniden yazıldı (mecanizma çalışıyor).
 
-## [0.3.4-alpha] — 2026-09-08
+## [0.3.4-alpha], 2026-09-08
 
 Full-corpus Turkish grammar/proofread pass (14 parallel proofreader agents
 in 4 waves over all 688 content files; ~215 corrections applied centrally
@@ -116,7 +116,7 @@ with per-file YAML validation).
   notu), postop ateş atelektazi çerçevesi, LJ 2-8 hafta, metastatik
   kalsifikasyon (PHT + ikincil HPT notu).
 
-## [0.3.3-alpha] — 2026-09-07
+## [0.3.3-alpha], 2026-09-07
 
 Full-corpus clinical deep-review (24 parallel read-only auditor agents in
 5 waves; whole 688-file corpus verified against named current standards:
@@ -165,7 +165,7 @@ Guyton, Katzung, Murray).
 - 19 vaka vinyeti hastalık adını geçiyor (build uyarısı sürüyor);
   görsel kaplama koordinatları hâlâ tahmini.
 
-## [0.3.2-alpha] — 2026-09-07
+## [0.3.2-alpha], 2026-09-07
 
 Round-3 medical-accuracy deep-dive pass (corpus now swept in full three
 times; ~70 content corrections).
@@ -244,7 +244,7 @@ times; ~70 content corrections).
 - 18 dosyada tur-3 MINOR satırı raporda kesik kalmıştı; dosya adları
   biliniyor, satır düzeyinde düzeltme gözden geçirme turuna kaldı.
 
-## [0.3.1-alpha] — 2026-09-07
+## [0.3.1-alpha], 2026-09-07
 
 Round-2 external review pass (two independent reviews).
 
@@ -270,12 +270,12 @@ Round-2 external review pass (two independent reviews).
   genu varum "O harfi", RS hücresi simetrik baykuş gözü, mivakuryum
   karaciğer yetmezliğinde uzar (organ bağımsız yalnız atracurium).
 - **[MAJOR] Vaka kartı arka yüzündeki anahtar bulgular tekrarı
-  kaldırıldı** (ön yüzde kalmaya devam eder — vakayı cevaplanabilir
+  kaldırıldı** (ön yüzde kalmaya devam eder, vakayı cevaplanabilir
   yapan odur); hastalık adını vinyette geçiren 19 script için build
   uyarısı eklendi (73 vinyette konu adı geçiyor; yeniden yazım gözden
   geçirme turunda).
 - **[MAJOR] Spot atomization tamamlandı**: noktalama işaretlerine ek
-  olarak `;` üzerinde bölme — silme sayısı 2.073 → 3.704, medyan 156 →
+  olarak `;` üzerinde bölme, silme sayısı 2.073 → 3.704, medyan 156 →
   81 karakter, >200 karakter silme oranı %28 → %3,5. Not GUID'leri
   sabit (yeniden içe aktarımda planlama korunur).
 - **[MAJOR] Validator artık şema-geçersiz dosyada çökmüyor** (round-1
@@ -316,7 +316,7 @@ Round-2 external review pass (two independent reviews).
 - Yeni 5 ders henüz 0 içerik/0 etiket taşıyor; eski düğümlerdeki
   ilgili soruların yeniden etiketlenmesi bekliyor.
 
-## [0.3.0-alpha] — 2026-09-07
+## [0.3.0-alpha], 2026-09-07
 
 ### Added
 
@@ -329,7 +329,7 @@ Round-2 external review pass (two independent reviews).
 - **Spot atomization**: multi-sentence Spot values are now split into
   per-sentence cloze deletions (capped at 5 per card, short sentences
   merged); single-sentence values stay one deletion. Deck: 2,194 → 2,703
-  cards on the same 2,134 notes — each card now tests exactly one fact.
+  cards on the same 2,134 notes, each card now tests exactly one fact.
   Note GUIDs unchanged, so re-imports preserve scheduling.
 - **Test suite**: 23 pytest tests (taxonomy integrity, validator smoke,
   Anki builder unit tests, review round-trip, originality detection
@@ -351,7 +351,7 @@ Round-2 external review pass (two independent reviews).
   the AGPL for that dependency (or swap the parser to pypdfium2, a
   BSD/Apache-licensed alternative, for a fully permissive chain).
 
-## [0.2.0-alpha] — 2026-09-07
+## [0.2.0-alpha], 2026-09-07
 
 Friend-review readiness release.
 
@@ -360,21 +360,21 @@ Friend-review readiness release.
 - **Deck versioning**: every build stamps `DECK_VERSION` into the deck
   description (currently 0.2.0-alpha); the build output reports it. Deck
   name stays fixed ("TUS Open") so re-imports never fork scheduling.
-- **`tusopen review`** — human review workflow for named reviewers:
+- **`tusopen review`**, human review workflow for named reviewers:
   `tusopen review --dump [DERS]` writes a CSV worksheet of all content
   items (scripts/facts/cases) with `reviewer` + `status` columns;
   `tusopen review --apply sheet.csv` merges them back into the YAML
   (`reviewed_by`, `last_reviewed`, idempotent).
 - **Sentence-level line breaks** across cards: Anki fields (Vaka vignette
   bulleted, Spot/Bilgi answers, açıklamalar) and simulator vignettes now
-  break per sentence — long clinical prose reads as paragraphs, not walls.
+  break per sentence, long clinical prose reads as paragraphs, not walls.
 
 ### Changed
 
 - `docs/deck-landscape-gap-analysis.md` moved out of the public tree into
   the gitignored `local/` area (names third-party commercial products).
 
-## [0.1.1-alpha] — 2026-09-07
+## [0.1.1-alpha], 2026-09-07
 
 External review pass (two independent multi-agent reviews) followed by fixes.
 
@@ -428,7 +428,7 @@ External review pass (two independent multi-agent reviews) followed by fixes.
 - Walkthroughs ve Çeldirici içeriği henüz yok; istatistik modülü plan M4'te.
 - `tusopen validate --originality` yalnızca yerel ÖSYM korpusu olan
   makinede çalışır; CI'da koşullu/advisory hale getirilecek.
-## [0.1.0-alpha] — 2026-09-07
+## [0.1.0-alpha], 2026-09-07
 
 First public milestone: the full content pipeline, first content corpus, and
 the tagged question archive. All content is `draft` status pending community
@@ -452,7 +452,7 @@ review.
   - 60 scripted cases with `sozlu_sorular`
   - 301 fact cards covering all 7 TTBT ders (30 KTBT gap-topic facts included)
 - **Case simulator** (`tusopen export simulator`): self-contained SPA at
-  `site/simulator/index.html` — 60 cases, step-through branching, oral exam
+  `site/simulator/index.html`, 60 cases, step-through branching, oral exam
   mode with model-answer summary, progress in localStorage.
 - **Anki exporter** (`tusopen export anki`): single deck, 2,134 notes with
   stable GUIDs derived from content ids, 6 note types (Bilgi, Vaka, Ayırıcı,

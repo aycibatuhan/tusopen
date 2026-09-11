@@ -1,5 +1,8 @@
 # TUS Open
 
+> **İsim**: TUS (Tıpta Uzmanlık Sınavı) + Open (açık kaynak) = TUS Open.
+> TUS, ÖSYM'nin sınav adıdır ve burada yalnızca tarayıcı (nomsal) olarak kullanılır; proje ÖSYM ile bağlantılı değildir.
+
 An open-source study system for the Turkish medical specialization exam
 (TUS), built around a single structured content database that exports to
 Anki, a case simulator, an oral-exam mode, and topic/overlap statistics.
@@ -33,18 +36,18 @@ bildirim süreci ve kaldırma prosedürü de hazır durumdadır.
 ## Legal model (important)
 
 - The repository ships **code, schemas, taxonomy, tags and own-words
-  content only** — never ÖSYM question text (protected works under FSEK).
+  content only**, never ÖSYM question text (protected works under FSEK).
 - Question text lives only in a local, never-committed cache. Users fetch
   official PDFs from osym.gov.tr themselves, or import their own AİS copy with
   `tusopen import` (full booklets are publicly downloadable for ~2006–2021;
   2022+ only a 10% sample + answer key is public).
 - Content is written in own words. Some drafts were produced with AI
   assistance; items pass through named human review (`reviewed_by`) before
-  being marked `published` — see CONTRIBUTING.md and plan §8.
+  being marked `published`, see CONTRIBUTING.md and plan §8.
 - Licenses: code under Apache-2.0 (`LICENSE-CODE`); content (scripts, cases,
   walkthroughs, facts) under CC BY-SA 4.0 (`LICENSE-CONTENT`). Illustrations
   in `content/facts/media/` are third-party Wikimedia works under their own
-  free licenses (CC0/PD/CC BY/CC BY-SA) — per-image attribution lives in
+  free licenses (CC0/PD/CC BY/CC BY-SA), per-image attribution lives in
   `content/facts/media/LICENSE-MANIFEST.md` and is embedded in the study
   materials. Note: the parse stage depends on PyMuPDF (AGPL-3.0); study
   content is unaffected.
@@ -55,16 +58,16 @@ bildirim süreci ve kaldırma prosedürü de hazır durumdadır.
   names, used here nominatively to describe what this community study aid
   prepares for. This project is not endorsed by, connected to, or approved
   by ÖSYM.
-- **Educational use only — not medical advice.** Content describes medical
+- **Educational use only, not medical advice.** Content describes medical
   facts for exam study; always verify clinical decisions against current
   textbooks and guidelines before applying them to patients.
 - **No warranty.** Provided "as is", without warranty of any kind; the
   authors are not liable for any damages arising from use of the materials.
 - **Draft quality (v0.3.0-alpha).** ALL items are currently in `draft`
   status: AI-assisted drafts awaiting human review. Nothing here is
-  reviewer-approved yet — verify facts against a textbook, and report
+  reviewer-approved yet, verify facts against a textbook, and report
   errors via issues or PRs.
-- ÖSYM question text never appears in this repository — question text lives
+- ÖSYM question text never appears in this repository, question text lives
   only in a local, never-committed cache (see the licensing section above).
 
 ## Layout
@@ -87,14 +90,14 @@ Anki eklentisi, desteyi GitHub Releases üzerinden otomatik günceller
 1. [Releases](https://github.com/aycibatuhan/tusopen/releases) sayfasından
    `tusopen_guncelle.ankiaddon` dosyasını indirin
 2. Anki ▸ Araçlar ▸ Eklentiler ▸ **Install from file** → dosyayı seçin
-3. Anki'yi yeniden başlatın — sonraki güncellemeleri eklenti bildirir
+3. Anki'yi yeniden başlatın, sonraki güncellemeleri eklenti bildirir
 
 Detaylar: [addon/tusopen_guncelle/README.md](addon/tusopen_guncelle/README.md)
 
 ## Quick start
 
 New to Anki or spaced repetition? Read
-[`docs/anki-ve-aralikli-tekrar.md`](docs/anki-ve-aralikli-tekrar.md) — a
+[`docs/anki-ve-aralikli-tekrar.md`](docs/anki-ve-aralikli-tekrar.md), a
 beginner's guide in Turkish, with scientific references.
 
 ```bash
@@ -117,9 +120,9 @@ fill taxonomy ids and illness-script links there.
 
 - Fetch/parse pipeline: 54 sittings (2013–2026), 4,253 questions parsed locally,
   4,292 metadata stubs committed (39 ÖSYM-cancelled questions kept as `iptal`).
-- Taxonomy: 31 ders (8 TTBT + 23 KTBT), 393 konu, 2,601 alt_konu — seeded with
+- Taxonomy: 31 ders (8 TTBT + 23 KTBT), 393 konu, 2,601 alt_konu, seeded with
   AI assistance, human skim pending before v1.
-- Content: 327 illness scripts, 60 cases, 301 facts — all `draft` status.
+- Content: 327 illness scripts, 60 cases, 301 facts, all `draft` status.
 - Anki deck (0.3.0-alpha): 2,134 notes / 2,703 cards; case simulator with 60
   cases; both built by `tusopen export`.
 - Six JSON Schemas + schema/cross-reference validator, pytest suite, ruff and

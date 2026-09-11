@@ -1,4 +1,4 @@
-# TUS Open — Content Authoring Roadmap (subagent-assisted)
+# TUS Open, Content Authoring Roadmap (subagent-assisted)
 
 Companion to `TUS_OPEN_PROJECT_PLAN.md`. This is the execution plan for going
 from 3 pilot illness scripts to **extensive coverage across every ders**.
@@ -22,10 +22,10 @@ from 3 pilot illness scripts to **extensive coverage across every ders**.
 ## 2. Coverage targets
 
 Surface area from `taxonomy.json`: 371 konu, 2,532 alt_konu.
-Not every node needs a script — scripts cover *conditions*; procedure/method
+Not every node needs a script, scripts cover *conditions*; procedure/method
 ders get facts and walkthroughs instead.
 
-### Tier 1 — high-yield core (first two releases)
+### Tier 1, high-yield core (first two releases)
 
 | Ders | Scripts | Notes |
 |---|---|---|
@@ -48,7 +48,7 @@ ders get facts and walkthroughs instead.
 | halk_sagligi | 4 | rare scripts (aşı reaksiyonları, salgın tipleri) |
 | **Script total** | **~320** | |
 
-### Tier 2 — method ders coverage (facts, not scripts)
+### Tier 2, method ders coverage (facts, not scripts)
 
 Illness scripts don't fit anatomi/fizyoloji/biyokimya/histoloji/farmakoloji/
 radyoloji/nükleer tıp. These get standalone **facts** (`content/facts/`,
@@ -69,7 +69,7 @@ Cross-referencing does the rest: a script's `patofizyoloji`/`ayirici`
 automatically links clinical knowledge to TTBT nodes (like Wilson carries a
 `patoloji` path), and facts may also link clinical conditions.
 
-### Tier 3 — cases and walkthroughs
+### Tier 3, cases and walkthroughs
 
 - **Cases** (`content/cases/`): one scripted case per Tier-1 condition,
   starting with the top 60. Each case carries `sozlu_sorular` for the
@@ -84,7 +84,7 @@ automatically links clinical knowledge to TTBT nodes (like Wilson carries a
 |---|---|---|
 | 1 (done) | Pipeline proof: 3 scripts, 1 case, exporter | 26 cards |
 | 2 (done) | Finish M2: 10 scripts across 5 ders | review batch #1 |
-| 3 (tranche 4 done) | Tier 1 scripts, 15 ders in parallel | 79 scripts → 327 total, 2,475 notes — **Tier 1 closed** |
+| 3 (tranche 4 done) | Tier 1 scripts, 15 ders in parallel | 79 scripts → 327 total, 2,475 notes, **Tier 1 closed** |
 | 4 (done) | 32 cases for classic vignettes; 266 facts for 7 TTBT ders (anatomi, fizyoloji, biyokimya, mikrobiyoloji, patoloji, histoloji-embriyoloji, farmakoloji) | deck → 2,741 notes |
 | 5 | Walkthroughs after stats-driven frequency table | Çeldirici cards |
 
@@ -95,20 +95,20 @@ independent condition lists.
 
 Each batch = one ders (dahiliye split into 2–3 batches). Per batch:
 
-1. **Dispatch** — I pre-assign: condition list, ASCII script ids, primary
+1. **Dispatch**, I pre-assign: condition list, ASCII script ids, primary
    directory, and (for shared conditions) which scripts already exist.
    The subagent must read:
    - `schemas/illness_script.schema.json` (exact field contract)
    - `taxonomy/taxonomy.json` (only real ids go in `taksonomi`/stubs)
    - `content/scripts/dahiliye/wilson.yaml` (style/depth template)
    - plan §7 card rules (what makes a card)
-2. **Draft** — 5–8 scripts per batch, all own-words Turkish, `status: draft`,
+2. **Draft**, 5–8 scripts per batch, all own-words Turkish, `status: draft`,
    `author: ai-drafts/<agent>`, sources as reference citations only.
    `ayirici` entries may only reference scripts that exist after the batch.
-3. **QA gate** — `tusopen validate --originality`, then `tusopen export anki`
+3. **QA gate**, `tusopen validate --originality`, then `tusopen export anki`
    and count delta. Any failure loops back to the subagent with the validator
    output verbatim.
-4. **Review queue** — the human review backlog grows; nothing becomes
+4. **Review queue**, the human review backlog grows; nothing becomes
    `published` without a named human reviewer (validator enforces this).
 
 ## 5. Sequencing dependency
@@ -122,11 +122,11 @@ actually repeats.
 
 | Content type | Now | Tier 1 target |
 |---|---|---|
-| Illness scripts | 327 (16 ders) | ~300 — **REACHED** |
-| Cases | 60 | ~60 — **REACHED** |
-| Facts | 266 | ~270 — **REACHED** |
-| Walkthroughs | 0 | **tagging COMPLETE — unblocked** |
-| Tagged stubs | **4,253/4,292** (100% of active questions; 39 iptal excluded by design) | 4,292 — **REACHED** |
+| Illness scripts | 327 (16 ders) | ~300, **REACHED** |
+| Cases | 60 | ~60, **REACHED** |
+| Facts | 266 | ~270, **REACHED** |
+| Walkthroughs | 0 | **tagging COMPLETE, unblocked** |
+| Tagged stubs | **4,253/4,292** (100% of active questions; 39 iptal excluded by design) | 4,292, **REACHED** |
 | Anki notes | 2,741 | scales with content |
 
 Tagging archive stats (54 exams, 2013–2026): 1,097 illness-script links; 14 scripts

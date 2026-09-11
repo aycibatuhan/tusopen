@@ -1,4 +1,4 @@
-# TUS Open — Anki Güncelleme Eklentisi / Update Add-on
+# TUS Open, Anki Güncelleme Eklentisi / Update Add-on
 
 ---
 
@@ -10,11 +10,11 @@ açar. Notlar kalıcı kimliklerle eşleştiği için **zamanlama (scheduling) k
 
 ### Kurulum
 
-**Yöntem 1 — AnkiWeb Add-on kodu (yakında)**
+**Yöntem 1, AnkiWeb Add-on kodu (yakında)**
 Eklenti AnkiWeb onay sürecindedir; kodu aldıktan sonra buraya yazılacaktır.
 O zaman: Anki ▸ Araçlar ▸ Eklentiler ▸ **Get Add-ons** ▸ kodu gir.
 
-**Yöntem 2 — Elle kurulum (şu an aktif)**
+**Yöntem 2, Elle kurulum (şu an aktif)**
 1. GitHub Releases sayfasından `tusopen_guncelle.ankiaddon` dosyasını indir:
    https://github.com/aycibatuhan/tusopen/releases
 2. Anki'de **Araçlar ▸ Eklentiler ▸ Install from file** → indirilen dosyayı seç
@@ -30,13 +30,13 @@ O zaman: Anki ▸ Araçlar ▸ Eklentiler ▸ **Get Add-ons** ▸ kodu gir.
 
 ### Menü
 Anki'de **Araçlar ▸ TUS Open**:
-- **Güncellemeleri kontrol et** — elle kontrol
-- **Kurulu sürüm** — destenin açıklamasından sürümü gösterir
+- **Güncellemeleri kontrol et**, elle kontrol
+- **Kurulu sürüm**, destenin açıklamasından sürümü gösterir
 
 ### Ayarlar
 `config.json`:
-- `auto_check` — profil açılışında otomatik kontrol (varsayılan: açık)
-- `installed_version` — eklentinin bildiği son sürüm (otomatik yönetilir)
+- `auto_check`, profil açılışında otomatik kontrol (varsayılan: açık)
+- `installed_version`, eklentinin bildiği son sürüm (otomatik yönetilir)
 
 ### Sıkça sorulan
 
@@ -45,7 +45,7 @@ Hayır. Kartlar kalıcı kimliklerle eşleşir; Anki değişen kartları güncel
 zamanlama durur. Yeni kartlar "yeni" olarak gelir.
 
 **"Kurulu sürüm" neden "yok" diyor?**
-Desteyi henüz içe aktarmadınız demektir — önce `tusopen.apkg`'yi kurun.
+Desteyi henüz içe aktarmadınız demektir, önce `tusopen.apkg`'yi kurun.
 
 **Eklenti kişisel veri gönderiyor mu?**
 Hayır. Yalnızca GitHub API'sine okuma isteği atar; herhangi bir hesap/kimlik
@@ -65,16 +65,16 @@ opens the import dialog. Notes are matched by permanent IDs, so your
 
 ### Installation
 
-**Method 1 — AnkiWeb Add-on code (coming soon)**
+**Method 1, AnkiWeb Add-on code (coming soon)**
 The add-on is in AnkiWeb review; the code will be posted here once approved.
 Then: Anki ▸ Tools ▸ Add-ons ▸ **Get Add-ons** ▸ enter the code.
 
-**Method 2 — Manual install (active now)**
+**Method 2, Manual install (active now)**
 1. Download `tusopen_guncelle.ankiaddon` from the Releases page:
    https://github.com/aycibatuhan/tusopen/releases
 2. In Anki: **Tools ▸ Add-ons ▸ Install from file** → pick the downloaded file
 3. Restart Anki
-4. First time: also install the deck — `tusopen.apkg` from the Releases page →
+4. First time: also install the deck, `tusopen.apkg` from the Releases page →
    double-click or Anki ▸ File ▸ Import
 
 ### How it works
@@ -85,13 +85,13 @@ Then: Anki ▸ Tools ▸ Add-ons ▸ **Get Add-ons** ▸ enter the code.
 
 ### Menu
 In Anki: **Tools ▸ TUS Open**:
-- **Güncellemeleri kontrol et** — manual update check
-- **Kurulu sürüm** — shows the installed deck version
+- **Güncellemeleri kontrol et**, manual update check
+- **Kurulu sürüm**, shows the installed deck version
 
 ### Settings
 `config.json`:
-- `auto_check` — check on profile startup (default: on)
-- `installed_version` — last version the add-on knows (managed automatically)
+- `auto_check`, check on profile startup (default: on)
+- `installed_version`, last version the add-on knows (managed automatically)
 
 ### FAQ
 
@@ -100,7 +100,7 @@ No. Cards are matched by permanent IDs; Anki updates changed cards and keeps
 scheduling. New cards arrive as "new".
 
 **Why does "Kurulu sürüm" say "yok"?**
-You haven't imported the deck yet — install `tusopen.apkg` first.
+You haven't imported the deck yet, install `tusopen.apkg` first.
 
 **Does the add-on send personal data?**
 No. It only makes read-only requests to the GitHub API; no account or identity

@@ -27,7 +27,7 @@ verir.
 ### Neden flashcard? Neden sadece kitap okumayalım?
 
 Bir kitabı ya da dersi **tekrar tekrar okumak** size "bunu biliyorum" hissi
-verir — çünkü metin gözünüze tanıdık gelir. Ama TUS'ta karşınıza soru çıkar
+verir, çünkü metin gözünüze tanıdık gelir. Ama TUS'ta karşınıza soru çıkar
 ve sizden o bilgiyi **hatırlamanızı**, yani hafızanızdan dışarı çıkarmanızı
 ister. Tanıdıklık ile hatırlama aynı şey değildir.
 
@@ -39,10 +39,10 @@ okurken kitap size cevabı sürekli fısıldar, Anki fısıldamaz.
 
 ### Hangi cihazlarda çalışır?
 
-- **Bilgisayar (Windows, macOS, Linux):** Ücretsiz — [1]
-- **Android (AnkiDroid):** Ücretsiz — [1]
+- **Bilgisayar (Windows, macOS, Linux):** Ücretsiz, [1]
+- **Android (AnkiDroid):** Ücretsiz, [1]
 - **iPhone/iPad (AnkiMobile):** Tek seferlik ücretli; bu ücret Anki'nin
-  geliştirilmesini finanse eder (SSS'de açıklıyoruz) — [1]
+  geliştirilmesini finanse eder (SSS'de açıklıyoruz), [1]
 - **AnkiWeb:** Tüm cihazlar arasında kartlarınızı ücretsiz senkronize eden
   Anki'nin bulut servisi [2]
 
@@ -101,7 +101,7 @@ Evet, bu alanın köklü bir araştırma geçmişi var. Başlıca bulgular:
   sonuç netti: Öğrenmeyi zamana yaymak, tek oturumda toplamakla kıyaslanamayacak
   kadar daha kalıcı hatırlama sağlıyor. Ayrıca kritik bir detay: Tekrar
   aralığını ne kadar genişletebileceğiniz, bilgiyi ne kadar uzun süre
-  hatırlamak istediğinize bağlı — uzun vadeli hedefler (TUS gibi) için
+  hatırlamak istediğinize bağlı, uzun vadeli hedefler (TUS gibi) için
   daha geniş aralıklar daha iyi sonuç veriyor [4].
 
 - **Test etkisi (testing effect / retrieval practice):** Roediger ve Karpicke
@@ -149,7 +149,7 @@ En iyi rutin, her gün sürdürebildiğiniz rutindir. Önerdiğimiz başlangıç
 Yeni kart sayısını kendinize göre ayarlayın: Zamanınız kısıtlıysa 10'a
 düşürün; sınav takvimi ve günlük tekrar yükü gözeterek artırın. Unutmayın:
 Açtığınız her yeni kart, ileride her gün tekrar listesine bir "borç" ekler.
-Şimdiği 100 kart, önümüzdeki haftalardaki her günün yükü demektir — bu
+Şimdiği 100 kart, önümüzdeki haftalardaki her günün yükü demektir, bu
 yüzden akşam kafasıyla "bugün 300 kart açayım" tuzağına düşmeyin.
 
 ### Etiketlerle konuya göre filtreleme
@@ -174,7 +174,7 @@ Bu, kartın konusunun gerçek TUS sınavlarının son 20 oturumunda kaç soruda
 karşınıza çıktığını gösterir:
 
 - **N yüksekse** (örn. 15+): Bu konu sınavın "ekmeği" demektir. Kaçırırsanız
-  puan kaybı büyüktür — bu kartları asla atlarken düşünmeyin bile.
+  puan kaybı büyüktür, bu kartları asla atlarken düşünmeyin bile.
 - **N düşükse:** Konu yine değerlidir ama zamanınız kısıtlıysa öncelik
   sıralamanızda daha aşağıda durabilir.
 
@@ -194,16 +194,16 @@ Destede üç temel kart tipi vardır:
 ### Altın kurallar
 
 1. **Gün atlamayın.** Arada bir gün kaçarsa paniklemeyin, ertesi gün devam
-   edin — ama bunu alışkanlık yapmayın. Anki'nin görev listesi ertelenen
+   edin, ama bunu alışkanlık yapmayın. Anki'nin görev listesi ertelenen
    tekrarlarla şişer ve motivasyon düşer.
 2. **"Geri çekil"i dürüst kullanın.** Cevabı "falan filan bir şeydi" diye
    hatırlıyorsanız bu "İyi" değildir. Kendinizi kandırırsanız, Anki kartı
    çok erken uzun aralığa bırakır ve sınavda kaybedersiniz. Zorluk duygunuz
-   algoritmaya girdi (input) — temiz girdi, temiz sonuç verir.
+   algoritmaya girdi (input), temiz girdi, temiz sonuç verir.
 3. **Hatalı kartları askıya alın.** Bir kartta içerik hatası bulursanız,
    onu tekrar etmeye devam etmeyin: Kart tarayıcısında seçip askıya alın
    (Suspend) ve depoya bir issue açın. Hatalı bilgiyi yüzlerce kez tekrar
-   etmek, onu çok iyi öğrenmenize neden olur — istemediğimiz şey tam olarak bu.
+   etmek, onu çok iyi öğrenmenize neden olur, istemediğimiz şey tam olarak bu.
 4. **Sınav öncesi "Özel Çalışma" kullanın.** Anki'nin Custom Study /
    Özel Çalışma özelliğiyle belirli bir etiketin kartlarını normal programın
    dışına çıkıp yoğun tekrar edebilirsiniz. Örneğin sınavdan bir hafta önce
@@ -235,7 +235,7 @@ sürdürülebilirdir. Günlük yükünüz dayanılmaz hale geldiyse yeni kart sa
 geçici olarak düşürün; tekrarları asla devre dışı bırakmayın.
 
 **Kartı yanlış bilmek kötü mü?**
-Hayır — tam tersine, sistemin çalışma şekli budur. "Geri çekil" dediğiniz
+Hayır, tam tersine, sistemin çalışma şekli budur. "Geri çekil" dediğiniz
 kart kısa süre sonra tekrar gelir; bu, algoritmanın tam olarak yapması
 gereken işi yapması demektir [4], [6]. Yanlış bildiğiniz her kart, zamanınızın
 tam da doğru yere harcandığının işaretidir. Yanlış bilmekten utanıp "İyi"ye
@@ -253,7 +253,7 @@ sınav günü hatırlayacağınız 10 kart demektir.
 
 ## Kaynaklar
 
-1. Anki. *Anki — powerful, intelligent flashcards* (resmî site; sürümler,
+1. Anki. *Anki, powerful, intelligent flashcards* (resmî site; sürümler,
    platformlar ve fiyatlandırma bilgisi). https://apps.ankiweb.net/
 2. Anki. *Anki Manual* (resmî kullanım kılavuzu). https://docs.ankiweb.net/
 3. Ebbinghaus, H. (1885). *Memory: A contribution to experimental psychology*

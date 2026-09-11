@@ -20,9 +20,9 @@ else is mechanics.
 | Fact card | `content/facts/` | `schemas/fact.schema.json` |
 | Walkthrough (reasoning on a real past question) | `content/walkthroughs/` | `schemas/walkthrough.schema.json` |
 | Question tags | `content/questions/...` stubs | `schemas/question.schema.json` |
-| Code, schemas, docs | `src/`, `schemas/`, `docs/` | — |
+| Code, schemas, docs | `src/`, `schemas/`, `docs/` |, |
 
-## The own-words policy (binding — plan §8)
+## The own-words policy (binding, plan §8)
 
 Every shipped item must be **your original expression of medical facts**.
 ÖSYM's expression (stems, options, vignettes) is never reproduced, closely
@@ -31,7 +31,7 @@ paraphrased, or reconstructed. Concretely:
 1. Write from your understanding of the topic, not from the question. Close
    the booklet before writing.
 2. Facts are free; wording is not. "Wilson'da ilk tetkik seruloplazmin" is a
-   fact — ÖSYM's sentence asking it is not yours to copy.
+   fact, ÖSYM's sentence asking it is not yours to copy.
 3. No verbatim stems, options, or vignettes anywhere in `content/`.
    Walkthroughs refer to questions by id and describe the *reasoning*, never
    the text.
@@ -41,10 +41,10 @@ paraphrased, or reconstructed. Concretely:
    clinical logic shared.
 6. Distractor cards describe the *concept* behind a wrong option, never the
    option text.
-7. Prep-company books and notes are copyrighted too — same rules apply.
+7. Prep-company books and notes are copyrighted too, same rules apply.
 8. Cite sources as references, not as text to reproduce.
 
-**AI assistance is allowed as a drafting aid** — but you are the author of
+**AI assistance is allowed as a drafting aid**, but you are the author of
 record: review every line for medical accuracy and originality before
 submitting, and set the `author` field honestly. Every item still needs a
 human reviewer who is not you.
@@ -64,7 +64,7 @@ human reviewer who is not you.
   (`diger`, `genel`).
 - One illness script per condition, filed in the primary clinical ders
   directory; other homes are `taksonomi` paths.
-- No raw `<`, `>`, `&` characters in field values — write them out in words.
+- No raw `<`, `>`, `&` characters in field values, write them out in words.
 - Match the style/depth of `content/scripts/dahiliye/wilson.yaml` (scripts) or
   `content/cases/case-wilson-01.yaml` (cases).
 
@@ -77,7 +77,7 @@ tusopen validate --originality    # own-words check (needs local parsed cache)
 tusopen export anki               # deck must still build
 ```
 
-CI runs the same validation on every PR — it must stay green.
+CI runs the same validation on every PR, it must stay green.
 
 ## Review and status lifecycle
 
@@ -94,7 +94,7 @@ draft ──(reviewer)──> reviewed ──(maintainer)──> published
 
 ## Question tagging
 
-Question stubs are metadata-only (ids, answer keys, tags — no question text).
+Question stubs are metadata-only (ids, answer keys, tags, no question text).
 Tagging workflow: `tusopen tag --dump <exam>` → fill `ders/konu/alt_konu`
 from `taxonomy/taxonomy.json` (AI-assisted tagging is welcome) →
 `tusopen tag --apply <exam>`. Tags are drafts and reviewed like everything

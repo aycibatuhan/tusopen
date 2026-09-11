@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""TUS Open — Anki güncelleme eklentisi.
+"""TUS Open, Anki güncelleme eklentisi.
 
 GitHub releases sayfasındaki en son tusopen.apkg dosyasını bulur,
 yeni sürüm varsa indirip standart içe aktarma penceresini açar.
@@ -148,7 +148,7 @@ def kontrol(sessiz=False):
         return
     conf["installed_version"] = son["tag"]
     mw.addonManager.writeConfig(__name__, conf)
-    tooltip("TUS Open sürüm penceresi açıldı — İçe Aktar'a basın.")
+    tooltip("TUS Open sürüm penceresi açıldı, İçe Aktar'a basın.")
 
 
 def _menu_olustur():
@@ -159,7 +159,7 @@ def _menu_olustur():
     a2 = QAction("Kurulu sürüm", mw)
     a2.triggered.connect(
         lambda: showInfo(
-            f"Kurulu deck sürümü: {_kurulu_suru() or 'yok — önce release apkg içe aktarın.'}"
+            f"Kurulu deck sürümü: {_kurulu_suru() or 'yok, önce release apkg içe aktarın.'}"
         )
     )
     menu.addAction(a2)
