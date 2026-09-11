@@ -5,15 +5,25 @@ An open-source study system for the Turkish medical specialization exam
 Anki, a case simulator, an oral-exam mode, and topic/overlap statistics.
 The full build plan is [`TUS_OPEN_PROJECT_PLAN.md`](TUS_OPEN_PROJECT_PLAN.md).
 
-## Bağımsızlık beyanı
+## Amaç ve bağımsızlık beyanı
+
+Bu projenin amacı **aralıklı tekrar (spaced repetition) yöntemini TUS
+adaylarına tanıtmak ve yaygınlaştırmaktır**: kanıta dayalı çalışma
+tekniklerinin (aralıklı tekrar, aktif hatırlama, test-tekrar döngüsü)
+TUS hazırlığında ne kadar etkili olduğunu göstermek ve bu yöntemi herkesin
+ücretsiz kullanabilmesini sağlamak. Yöntemin bilimsel temelleri
+[docs/anki-ve-aralikli-tekrar.md](docs/anki-ve-aralikli-tekrar.md)
+belgesinde, kaynak gösterilerek açıklanmıştır.
 
 Bu proje **herhangi bir TUS dershane/kurs/yayınevi kuruluşuyla (TUSDATA, TUSEM,
 TUSTIME, TUS-DUS hazırlık kurumları vb.) hiçbir bağı, anlaşması, sponsorluğu
-veya izni olmadan bağımsız olarak geliştirilmektedir.** İçerikler bu kurumların
-ders kitaplarından, soru bankalarından veya eğitim materyallerinden alınmamış,
-kopyalanmamış ya da uyarlanmamıştır; tamamı bu projeye özgü yazımdır ve
-telif/ticari kaynaklara atıf yalnızca bilimsel referans düzeyinde
-(kılavuz/ders kitabı adı) kullanılır.
+veya izni olmadan bağımsız olarak geliştirilmektedir** ve hiçbir kazanç
+amacı taşımamaktadır. İçerikler bu kurumların ders kitaplarından, soru
+bankalarından veya eğitim materyallerinden alınmamış, kopyalanmamış ya da
+uyarlanmamıştır; tamamı bu projeye özgü yazımdır ve telif/ticari kaynaklara
+atıf yalnızca bilimsel referans düzeyinde (kılavuz/ders kitabı adı) kullanılır.
+Amacımız hiçbir hazırlık kurumunun yerini almak değil; aralıklı tekrarı
+TUS adaylarının çalışma kültürüne kazandırmaktır.
 
 ÖSYM sınav soruları da depoya girmez: yalnızca soru kimlikleri, cevap anahtarları
 ve konu etiketleri gibi **öğrenci kataları** kullanılır (bkz. PERMISSIONS.md).
