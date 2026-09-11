@@ -86,6 +86,21 @@ src/tusopen/               CLI pipeline (fetch, parse, stubs, validate)
 ~/.tusopen/cache/          local-only: raw PDFs + parsed question text (never committed)
 ```
 
+## Desteyi indir (kullanıcılar için)
+
+Kod yazmadan kullanmak isteyenler için:
+
+1. [Releases](https://github.com/aycibatuhan/tusopen/releases) sayfasından
+   en son `tusopen.apkg` dosyasını indirin
+2. Dosyaya çift tıklayın (ya da Anki ▸ Dosya ▸ İçe Aktar)
+3. Kartlar Anki'ye gelir; sonraki güncellemeler için
+   [güncelleme eklentisini](addon/tusopen_guncelle/README.md) kurun
+   (indirir, bildirir, zamanlamanızı korur)
+
+İçeriği kaynak haliyle incelemek isterseniz tam bu depodasınız:
+`content/` klasörü tüm kartların kaynağıdır; `site/` build çıktısıdır
+(README üstündeki hızlı başlangıçla kendiniz üretebilirsiniz).
+
 ## Eklenti (otomatik güncelleme)
 
 Anki eklentisi, desteyi GitHub Releases üzerinden otomatik günceller
