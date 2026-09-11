@@ -12,3 +12,6 @@ local/
 .env
 .env.*
 *secret*
+
+addon/**/meta.json
+addon/**/__pycache__/
