@@ -1,3 +1,33 @@
+## [Unreleased], 2026-09-13
+
+Spot kart dönüşümü: deste tek bilgi noktalı, hızlı geçilebilir karta geçti.
+
+### Changed
+
+- content/facts: 1.513 "mini ders notu" fact, tek noktalı soru-cevap spot
+  karta dönüştürüldü (5.736 kart; cevap medyanı 81 → 9 kelime, üst sınır 25).
+- content/scripts: 333 scriptin 8 spot alanı **vurgu** standardına alındı —
+  anahtar terimler cloze+bold gizlenir, gövde görünür ipucu olarak kalır
+  (segment medyanı 8-10 kelime; önceden alan medyanı 36 ve %66'sı 25+ kelime).
+- Own-words denetimi yenilendi: 6 kelimelik birebir pencere her boyutta ihlal,
+  shingle containment yalnız ≥12 shingle'lık kartlarda değerlendirilir
+  (short-card sabit terim eşleşmeleri artık yanlış alarm üretmez).
+
+### Added
+
+- docs/fact-yazim-rehberi.md: bağlayıcı spot kart + script vurgu standardı
+  (CONTRIBUTING TR/EN bölümlerine işaretlendi); alt ajan talimat şablonu dahil.
+- build.py: **terim** işaretlemesi (cloze+bold), tipik_hasta/patofizyoloji/
+  anahtar_bulgular spot kartları (liste: madde başına kart), görünen yüzlerde
+  bold/temizleme katmanı, dengesiz işaret uyarısı; 2 yeni test (25 passed).
+
+### Notes
+
+- Deck: 10.117 not (5.736 fact + 3.969 script spot + 333 vaka + çeldirici ve
+  görsel kartlar). Vaka vinyetleri uzunluğunu korur (senaryo eğitimi);
+  ayırıcı/çeldirici kısaltması bir sonraki tura bırakıldı.
+- Tüm içerik hâlâ `draft`; insan incelemesi beta öncesi zorunlu.
+
 ## [0.4.0-alpha], 2026-09-10
 
 İlk herkese açık sürüm (private repo). Deck sürümü: v0.4.0-alpha.

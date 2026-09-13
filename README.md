@@ -141,9 +141,12 @@ fill taxonomy ids and illness-script links there.
   4,292 metadata stubs committed (39 ÖSYM-cancelled questions kept as `iptal`).
 - Taxonomy: 31 ders (8 TTBT + 23 KTBT), 393 konu, 2,601 alt_konu, seeded with
   AI assistance, human skim pending before v1.
-- Content: 327 illness scripts, 60 cases, 301 facts, all `draft` status.
-- Anki deck (0.3.0-alpha): 2,134 notes / 2,703 cards; case simulator with 60
-  cases; both built by `tusopen export`.
+- Content: 333 illness scripts (spot fields in the **vurgu**/cloze standard),
+  60 cases, 5,736 facts, all `draft` status. Facts and script spot cards follow
+  the one-point spot-card standard in `docs/fact-yazim-rehberi.md`
+  (question/answer or visible-stem cloze, median answer ~9 words).
+- Anki deck (0.4.0-alpha): 10,117 notes; case simulator with 60 cases; both
+  built by `tusopen export`.
 - Six JSON Schemas + schema/cross-reference validator, pytest suite, ruff and
   advisory own-words check wired into CI (`.github/workflows/validate.yml`).
 - Next: human review sprint, walkthroughs + Çeldirici cards, coverage for
