@@ -103,6 +103,9 @@ MODELS = {
 }
 
 BILGI_PROMPTS = {
+    "tipik_hasta": "tipik hastası",
+    "patofizyoloji": "patofizyolojisi",
+    "anahtar_bulgular": "anahtar bulgusu",
     "patognomonik": "patognomonik bulgusu",
     "ilk_tetkik": "ilk tetkiki",
     "kesin_tani": "kesin tanısı",
@@ -113,7 +116,7 @@ BILGI_PROMPTS = {
 # Sentence-level line breaking for card prose (readability).
 _ABBREVS = {"dr", "prof", "doç", "vs", "vb", "bkz", "md", "bk", "çev",
             "ing", "fr", "alm", "lat", "yun"}
-_SENT_BOUNDARY = re.compile(r"(?<=[.!?])\s+(?=[A-ZÇĞİÖŞÜ\"“«(0-9])")
+_SENT_BOUNDARY = re.compile(r"(?<=[.!?])\s+(?=[A-ZÇĞİÖŞÜ\"“«(0-9*])")
 
 
 def _split_sentences(text: str) -> list:
@@ -142,6 +145,40 @@ def _bullets(items) -> str:
 
 MAX_CLOZE_CHUNKS = 5
 MIN_SENTENCE_CHARS = 45
+
+# **terim** işaretlemesi: hem bold hem cloze hedefi; cümlenin gerisi görünür
+# ipucu olarak kalır ("Kültür sonrası ampirik tedavi: {{c1::seftriakson}} veya
+# {{c1::vankomisin}}"). İşaretsiz değerler eski tam-ifade parçalamasına düşer.
+_VURGU_RE = re.compile(r"\*\*(.+?)\*\*", re.DOTALL)
+
+
+def _vurgu_html(value) -> str | None:
+    """**terim** işaretli alan değerini cloze+bold HTML'e çevirir.
+
+    Cümle ve ';' sınırları yeni cloze indeksi açar; aynı segmentteki tüm
+    işaretler aynı indeksi paylaşır (aynı kavram ailesi tek seferde gizlenir).
+    İşaretsiz değer için None döner; çağıran tam-ifade parçalamasına düşer.
+    """
+    if "**" not in str(value):
+        return None
+    segments = []
+    for part in re.split(r";\s+", str(value)):
+        segments.extend(_split_sentences(part) or [part])
+    satirlar = []
+    for i, seg in enumerate(segments, 1):
+        satirlar.append(
+            _VURGU_RE.sub(lambda m: "{{c%d::<b>%s</b>}}" % (i, m.group(1)), seg))
+    return "<br>".join(satirlar)
+
+
+def _vurgu_bold(text) -> str:
+    """Cloze üretmeyen görünür yüzlerde **vurgu** işaretini <b>'ye çevirir."""
+    return _VURGU_RE.sub(r"<b>\1</b>", str(text))
+
+
+def _vurgu_temiz(value) -> str:
+    """Ekstra/bağlam alanlarında ** işaretlerini düz metne indirir."""
+    return str(value).replace("**", "")
 
 
 def _cloze_chunks(value) -> list:
@@ -340,48 +377,74 @@ def _script_notes(script, models, ads, tree_ids, alloc, with_spots=True,
             value = script.get(field)
             if not value:
                 continue
+            if isinstance(value, list):
+                cevap = _vurgu_bold(
+                    _bullets([_prose_html(str(item)) for item in value]))
+            else:
+                cevap = _vurgu_bold(_prose_html(value))
             notes.append(_make_note(
                 models, script, "bilgi",
                 {"soru": f"{script['ad']}: {prompt}?",
-                 "cevap": _prose_html(value), "aciklama": ""},
+                 "cevap": cevap, "aciklama": ""},
                 guid_key=f"bilgi:{field}", ads=ads, tree_ids=tree_ids,
                 card_seq=next_seq()))
     if with_spots and script.get("kart_uret", {}).get("spot", True):
-        pato_sents = _split_sentences(str(script.get("patofizyoloji") or ""))
+        pato_sents = _split_sentences(_vurgu_temiz(script.get("patofizyoloji") or ""))
         ekstra = _prose_html(" ".join(pato_sents[:2])) if pato_sents else ""
         for field, prompt in BILGI_PROMPTS.items():
             value = script.get(field)
             if not value:
                 continue
-            chunks = _cloze_chunks(value)
-            if len(chunks) == 1:
-                metin = f"{script['ad']} — {prompt}: {{{{c1::{_prose_html(value)}}}}}"
+            # patofizyoloji kartının arkasına kendi metnini ekstra olarak basma
+            ek = "" if field == "patofizyoloji" else ekstra
+            if isinstance(value, list):  # örn. anahtar_bulgular: madde başına kart
+                for j, item in enumerate(value, 1):
+                    govde = _vurgu_html(item) or "{{c1::" + _prose_html(item) + "}}"
+                    if "**" in govde:
+                        print(f"WARNING: dengesiz ** işareti — "
+                              f"{script['id']}.{field}[{j}]")
+                    metin = f"{script['ad']} — {prompt} ({j}/{len(value)}): {govde}"
+                    notes.append(_make_note(
+                        models, script, "spot", {"metin": metin, "ekstra": ek},
+                        guid_key=f"spot:{field}:{j}", ads=ads, tree_ids=tree_ids,
+                        card_seq=next_seq()))
+                continue
+            vurgu = _vurgu_html(value)
+            if vurgu:
+                if "**" in vurgu:
+                    print(f"WARNING: dengesiz ** işareti (çift segment sınırını "
+                          f"aşıyor) — {script['id']}.{field}")
+                metin = f"{script['ad']} — {prompt}:<br>{vurgu}"
             else:
-                lines = "<br>".join(
-                    f"{{{{c{i}::{_prose_html(ch)}}}}}"
-                    for i, ch in enumerate(chunks, 1))
-                metin = f"{script['ad']} — {prompt}:<br>{lines}"
+                chunks = _cloze_chunks(value)
+                if len(chunks) == 1:
+                    metin = f"{script['ad']} — {prompt}: {{{{c1::{_prose_html(value)}}}}}"
+                else:
+                    lines = "<br>".join(
+                        f"{{{{c{i}::{_prose_html(ch)}}}}}"
+                        for i, ch in enumerate(chunks, 1))
+                    metin = f"{script['ad']} — {prompt}:<br>{lines}"
             notes.append(_make_note(
-                models, script, "spot", {"metin": metin, "ekstra": ekstra},
+                models, script, "spot", {"metin": metin, "ekstra": ek},
                 guid_key=f"spot:{field}", ads=ads, tree_ids=tree_ids,
                 card_seq=next_seq()))
     if script.get("kart_uret", {}).get("vaka"):
-        vinyet = (_prose_html(script["tipik_hasta"])
+        vinyet = (_vurgu_bold(_prose_html(script["tipik_hasta"]))
                   + "<br><br><b>Anahtar bulgular</b><br>• "
-                  + _bullets(script["anahtar_bulgular"]))
+                  + _vurgu_bold(_bullets(script["anahtar_bulgular"])))
         notes.append(_make_note(
             models, script, "vaka",
             {"vinyet": vinyet, "soru_tipi": "tanı", "cevap": script["ad"],
-             "anahtar_bulgular": "• " + _bullets(script["anahtar_bulgular"]),
-             "aciklama": _prose_html(script.get("patofizyoloji", ""))},
+             "anahtar_bulgular": "• " + _vurgu_bold(_bullets(script["anahtar_bulgular"])),
+             "aciklama": _vurgu_bold(_prose_html(script.get("patofizyoloji", "")))},
             guid_key="vaka:tani", ads=ads, tree_ids=tree_ids,
             card_seq=next_seq()))
     for entry in script.get("ayirici", []):
         self_row = "<tr><td>{}</td><td>{}</td></tr>".format(
-            script["ad"], _prose_html(
-                script.get("patognomonik") or script["ilk_tetkik"]))
+            script["ad"], _vurgu_bold(_prose_html(
+                script.get("patognomonik") or script["ilk_tetkik"])))
         other_row = "<tr><td>{}</td><td>{}</td></tr>".format(
-            entry["hastalik"], _prose_html(entry["ayirt_edici"]))
+            entry["hastalik"], _vurgu_bold(_prose_html(entry["ayirt_edici"])))
         tablo = ("<table><tr><th>Hastalık</th><th>Ayırt edici özellik</th></tr>"
                  + self_row + other_row + "</table>")
         notes.append(_make_note(

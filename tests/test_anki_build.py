@@ -88,8 +88,41 @@ def test_script_notes_spot_atomized(tmp_content, repo_root):
     # short single-sentence fields stay one deletion
     single = next(n for n in spots if "Tek cümlelik tetkik" in n.fields[10])
     assert re.findall(r"\{\{c(\d+)::", single.fields[10]) == ["1"]
+    # anahtar_bulgular listesi: madde başına kart, stem görünür
+    bulgu = next(n for n in spots if "Birinci bulgu" in n.fields[10])
+    assert "anahtar bulgusu (1/2)" in bulgu.fields[10]
+    assert "{{c1::Birinci bulgu}}" in bulgu.fields[10]
     guids = [n.guid for n in notes]
     assert len(guids) == len(set(guids))
+
+
+def test_vurgu_cloze_grouping():
+    html = ab._vurgu_html(
+        "Ampirik: **seftriakson** veya **vankomisin**; Listeria'da **ampisilin** eklenir.")
+    # aynı segmentteki işaretler aynı indeksi paylaşır, yeni segment yeni indeks
+    assert "{{c1::<b>seftriakson</b>}}" in html
+    assert "{{c1::<b>vankomisin</b>}}" in html
+    assert "{{c2::<b>ampisilin</b>}}" in html
+    assert html.count("<b>") == 3
+    # gövde görünür kalır (ipucu)
+    assert html.index("Ampirik: ") < html.index("{{c1::")
+    # işaretsiz değer fallback'e düşer
+    assert ab._vurgu_html("işaretsiz düz metin") is None
+
+
+def test_script_notes_vurgu_spot(tmp_content, repo_root):
+    from tusopen.export.anki.build import _load_taxonomy, _load_yaml, _make_allocator, _script_notes
+    ads, pos, tree_ids = _load_taxonomy(repo_root / "taxonomy" / "taxonomy.json")
+    script = _load_yaml(tmp_content / "scripts" / "dahiliye" / "test_hastalik.yaml")
+    script["ilk_tedavi"] = ("Kültür sonrası ampirik tedavi: **seftriakson** veya "
+                            "**vankomisin**; Listeria riskinde **ampisilin** eklenir.")
+    notes = _script_notes(script, ab._models(), ads, tree_ids, _make_allocator())
+    spot = next(n for n in notes
+                if "tus_spot" in n.tags and "seftriakson" in n.fields[10])
+    assert "{{c1::<b>seftriakson</b>}}" in spot.fields[10]
+    # tam ifade gizlenmez: gövde metni görünür kalır
+    assert "Kültür sonrası ampirik tedavi:" in spot.fields[10]
+    assert "ampirik tedavi: <br>" not in spot.fields[10]
 
 
 def test_simulator_build_smoke(tmp_content, tmp_path):

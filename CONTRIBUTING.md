@@ -76,6 +76,9 @@ bozulmaz).
 - Alan değerlerinde ham `<`, `>`, `&` karakteri kullanma; yazı ile yaz.
 - Stil/derinlik ölçüsü: script için `content/scripts/dahiliye/wilson.yaml`,
   vaka için `content/cases/case-wilson-01.yaml`.
+- Fact (spot kart) yazımı: `docs/fact-yazim-rehberi.md` standardı bağlayıcıdır —
+  her kart tek bilgi noktası, soru-cevap formu, cevap hedefi ≤15 kelime
+  (üst sınır 25); ayrıntı için bkz. rehber.
 
 ## Push öncesi yerel kontroller
 
@@ -191,6 +194,9 @@ release (note IDs are preserved so users keep their review history).
 - No raw `<`, `>`, `&` characters in field values; write them out in words.
 - Match the style/depth of `content/scripts/dahiliye/wilson.yaml` (scripts) or
   `content/cases/case-wilson-01.yaml` (cases).
+- Fact (spot card) authoring: the standard in `docs/fact-yazim-rehberi.md` is
+  binding — one information point per card, question/answer form, target answer
+  ≤15 words (hard cap 25); see the guide for details.
 
 ## Local checks before pushing
 
