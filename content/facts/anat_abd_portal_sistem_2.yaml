@@ -1,0 +1,10 @@
+id: anat_abd_portal_sistem_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Portokaval anastomozlar hangi bölgelerdedir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_portal_sistem]
+metin: Özofagus, rektum, paraumbilikal alan, retroperitoneal duvar ve karaciğer çıplak alanı.

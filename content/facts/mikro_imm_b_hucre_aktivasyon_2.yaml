@@ -1,0 +1,11 @@
+id: mikro_imm_b_hucre_aktivasyon_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İzotip dönüşümünü yönlendiren sitokinler ve hedefler nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_b_hucre]
+metin: "IL-4 IgE-ye, IFN-gama IgG1-e, TGF-beta IgA-ya geçişi yönlendirir."
+# kaynak: 2-Antijen_tanıma_2019.txt, Humoral_bağışık_yanıt_ve_antikorlar.txt

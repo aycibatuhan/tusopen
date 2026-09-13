@@ -1,0 +1,11 @@
+id: mikro_gb_gen_aktarimi_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi bakteriyel toksinler plazmidle kodlanır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_genetik]
+metin: "E. coli'nin LT-ST enterotoksinleri, C. tetani ve B. anthracis toksinleri."
+# kaynak: bakteri_metabolizma__kültür__tanımlama.txt, Endotoksin-Ekzotoksin.txt

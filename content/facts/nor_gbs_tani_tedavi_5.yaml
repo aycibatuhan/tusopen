@@ -1,0 +1,11 @@
+id: nor_gbs_tani_tedavi_5
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "GBS'de nöromüsküler solunum yetersizliği işaretleri nelerdir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_gbs]
+metin: "Takipne (>20/dk) ve taşikardi (>100/dk); kesik konuşma ile paradoksal solunum."
+# kaynak: 5.sınıf_Nöroloji_nörolojik_aciller_ders.txt

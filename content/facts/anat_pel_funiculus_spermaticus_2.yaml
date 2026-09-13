@@ -1,0 +1,11 @@
+id: anat_pel_funiculus_spermaticus_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Funiculus spermaticus'taki arterler ve kaynakları?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_erkek_genital]
+metin: A. ductus deferentis'i a. iliaca interna besler; a. cremasterica'yı a. epigastrica inferior, a. testicularis ise aorta besler.
+# kaynak: 3._Sınıf_3.2_Anatomi_CTF_3.2_Erkek_genital_sistemi_2020-21_(1).txt, 3._Sınıf_3.3_Anatomi_karın_topografisi_A_ÖĞRENCİ_2021_MY.txt

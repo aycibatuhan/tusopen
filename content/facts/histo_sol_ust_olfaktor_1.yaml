@@ -1,0 +1,14 @@
+id: histo_sol_ust_olfaktor_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Koku (olfaktör) epiteli nereyi döşer?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_solunum
+  - histo_sol_ust
+metin: Burun boşluğunun tavanındaki üst konkayı; özelleşmiş yalancı çok katlı prizmatik epitelidir.
+# kaynak: 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ-2016.txt

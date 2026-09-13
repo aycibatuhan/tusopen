@@ -1,0 +1,10 @@
+id: anat_noro_gorme_yolu_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Meyer löku (temporal lob) lezyonu ne yapar?
+taksonomi:
+  - [ttbt, anatomi, anat_noroanatomi, anat_noro_gorme_yolu]
+metin: Karşı üst kadran kaybı; parietal lob lezyonu karşı alt kadran kaybı yapar.

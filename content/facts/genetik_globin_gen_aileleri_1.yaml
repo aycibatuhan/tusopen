@@ -1,0 +1,14 @@
+id: genetik_globin_gen_aileleri_1
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Alfa ve beta globin gen kümeleri hangi kromozomlarda?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_gen_ekspresyonu
+metin: Alfa-benzeri 16. kromozomda, beta-benzeri 11. kromozomda.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_4._Ders_Gen_aileleri_DGA.txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_T_Tıp_Hemoglobinopatiler.txt

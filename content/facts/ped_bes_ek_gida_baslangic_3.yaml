@@ -1,0 +1,15 @@
+id: ped_bes_ek_gida_baslangic_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ek gıdaya başlama koşulları nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_ek_gida_formula
+metin: Desteksiz oturma, çiğneme-yutma koordinasyonu ve sindirim-böbrek olgunluğu.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_YAPAY_ve_KARIŞIK_BESLENME-TAMAMLAYICI_BESİNLER-OKUL_ÇOCUĞU_VER_ADOLESAN_BESLENMESİ-_Sınıf_4.txt

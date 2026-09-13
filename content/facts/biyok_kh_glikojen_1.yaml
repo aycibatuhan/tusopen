@@ -1,0 +1,10 @@
+id: biyok_kh_glikojen_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glikojen metabolizmasının anahtar enzimleri kimlerdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_glikojen]
+metin: "Yıkımda glikojen fosforilaz, sentezde sentaz, dallanmada dallanma enzimi görevlidir."

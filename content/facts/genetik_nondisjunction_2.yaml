@@ -1,0 +1,14 @@
+id: genetik_nondisjunction_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Mayoz II'de ayrılmamanın gamet sonucu nedir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_sitogenetik
+  - tbg_sg_numerik_aberrasyonlar
+metin: Normal ve anormal gametler birlikte ortaya çıkar.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_MAYOZ_BÖLÜNME_VE_GENETİK_REKOMBİNASYON_2019.txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_6._Ders_Mutasyonlar-DNA_Tamiri_M_Güven.txt

@@ -1,0 +1,11 @@
+id: der_herpes_simpleks_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HSV baskılama tedavisinin endikasyonu ve şeması nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_viral, derm_vr_herpes]
+metin: "Yılda 4'ten fazla atakta 1 yıl süreyle: valasiklovir 500 mg/gün ya da asiklovir günde 2x400 mg."
+# kaynak: 5.sınıf_Dermatoloji_viral_yeni.txt

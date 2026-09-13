@@ -1,0 +1,11 @@
+id: mikro_rna_paramyxo_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SSPE ne zaman gelişir ve tanısı nasıl konur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_paramyxo]
+metin: "Kızamıktan (özellikle 2 yaşından önce) ortalama 7 yıl sonra; serum ve BOS'da yüksek titrede kızamık IgG."
+# kaynak: 9-Rubella__Orthomyxo__Paramyxo__Corona_2020.txt

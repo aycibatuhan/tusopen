@@ -1,0 +1,11 @@
+id: uro_tas_profilaksi_tas_cinsi_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ürik asit taşında profilaksi nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_tas_hastaligi, uro_tas_metabolik_arastirma]
+metin: "Günde 2 L idrar; et-sakatat-alkol kısıtı, alkalinizasyon, allopurinol düşünülür."
+# kaynak: 4._Sınıf_Üroloji_Ders_5-UROLITHIASIS-_Bulent_Onal.txt, 3._Sınıf_3.2_Üroloji_Urolithiasis.txt

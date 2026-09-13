@@ -1,0 +1,11 @@
+id: fiz_gis_yutma_sfinkterler_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Özofagusun üst ve alt kesimlerinin kas kontrolü nasıldır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_tukuruk_yutma]
+metin: "Üst üçte biri çizgili kas vagal somatik, alt iki üçte biri enterik kontrolde."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_4._Yutma_Mekanizması_Nisan.2020.txt

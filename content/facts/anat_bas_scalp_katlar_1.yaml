@@ -1,0 +1,11 @@
+id: anat_bas_scalp_katlar_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Saçlı derinin beş katı hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_scalp]
+metin: Deri, deri altı doku, musculoaponeurotik kat, tela submusculoaponeurotica ve periosteum.
+# kaynak: 3._Sınıf_3.3_Anatomi_BAŞIN_TOPOGRAFİK_ve_KLİNİK_ANATOMİSİ_-_I_17.02.2021_09_(1).txt, 3._Sınıf_3.3_Anatomi_YÜZÜN_TOPOGRAFİK_ve_KLİNİK_ANATOMİSİ_-_IV_18.02.2021_12_(1).txt

@@ -1,0 +1,11 @@
+id: adli_siyanur_zehirlenmesi_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Siyanür ölü lekelerinin rengi ve nedeni nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_klinik_adli_durumlar, adl_kd_zehirlenme_adli]
+metin: "Açık kırmızı-tuğla kırmızısı; venöz kanın arterializasyonuna bağlı."
+# kaynak: 5.sınıf_Adli_Tıp_ADLİ_TOKSİKOLOJİ_PROF._DR._İBRAHİM_ÜZÜN.txt

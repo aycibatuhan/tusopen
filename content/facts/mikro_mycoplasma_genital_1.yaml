@@ -1,0 +1,11 @@
+id: mikro_mycoplasma_genital_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Genital mikoplazmalar içinde non-gonokokal üretritin en sık nedeni hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_mycoplasma]
+metin: "Ureaplasma urealyticum; fosfolipaz-IgA proteaz etkisiyle, amonyum iyonuyla üriner taş yapabilir."
+# kaynak: 3-_Helico_(Tanı__Tedavi__Korunma)___Mycoplasma.txt

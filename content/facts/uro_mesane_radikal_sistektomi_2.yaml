@@ -1,0 +1,11 @@
+id: uro_mesane_radikal_sistektomi_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Radikal sistektomide kadında rezeksiyon kapsamı nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_mesane_kanseri]
+metin: "Kadında uterus ve vajen ön duvarıyla birlikte tüm üretra ve mesane çıkarılır (erkekte prostat, seminal veziküller)."
+# kaynak: 4._Sınıf_Üroloji_mesane_kanseri-turkce.txt, 3._Sınıf_3.2_Üroloji_Üroonkolojiye_Giriş_-_Doç._Dr._Çetin_DEMİRDAĞ.txt

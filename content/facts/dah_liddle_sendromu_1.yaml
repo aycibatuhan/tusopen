@@ -1,0 +1,11 @@
+id: dah_liddle_sendromu_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Liddle sendromunda renin ve aldosteron nasıldır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_hipertansiyon]
+metin: "İkisi de düşüktür; erken hipertansiyon, hipokalemi ve metabolik alkaloz vardır."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Endokrin_Hipertansiyon-3.sınıf-türkçe_tıp.txt

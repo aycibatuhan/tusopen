@@ -1,0 +1,15 @@
+id: enf_gazli_gangren_etken_tedavi_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Spontan gazlı gangren yapan C. septicum hangi zeminlerde görülür?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_nekrotizan_fasiit
+metin: Kolonik divertiküler lezyonlar, kolorektal adenokarsinom ve nötropeni zemininde.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_DYDİ_2021Neşe_Saltoğlu.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

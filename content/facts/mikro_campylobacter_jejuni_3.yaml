@@ -1,0 +1,11 @@
+id: mikro_campylobacter_jejuni_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C. jejuni enfeksiyonunu Guillain-Barré sendromuna bağlayan mekanizma nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_campylobacter_helicobacter]
+metin: "Hücre duvarı LOS-un periferik sinir gangliozidlerine benzemesi (antijenik mimicri); ishalden 2-3 hafta sonra."
+# kaynak: 1-_İmmünoloji_Campylobacter_Arcobacter.txt

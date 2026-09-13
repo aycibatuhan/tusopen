@@ -1,0 +1,11 @@
+id: kbb_derin_boyun_enfeksiyon_tani_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Derin boyun enfeksiyonlarında görüntülemede altın standart nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_boyun, kbb_by_derin_boyun_enfeksiyon]
+metin: "Bilgisayarlı tomografi."
+# kaynak: 5.sınıf_KBB_derin_boyun_enfeksiyonları.txt

@@ -1,0 +1,11 @@
+id: kd_aub_emb_endikasyonlari_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "45 yaş altında endometrial biyopsi ne zaman yapılır?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_amenore_bozukluklar, kd_am_anormal_uterin_kanama]
+metin: "Tıbbi tedavi başarısızsa; karşilanmamış östrojen (BMI >30, PCOS), tamoksifen veya aile öyküsünde."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ANORMAL_UTERUS_KANAMALARI.txt

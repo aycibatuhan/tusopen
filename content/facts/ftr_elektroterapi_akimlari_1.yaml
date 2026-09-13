@@ -1,0 +1,11 @@
+id: ftr_elektroterapi_akimlari_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alçak, orta ve yüksek frekanslı akımların frekans aralıkları nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_fizik_tedavi_ajanlari, ftr_fa_elektroterapi]
+metin: "Alçak 1-1000 Hz, orta 1000-100000 Hz, yüksek 100000 Hz üzeri (27-433 MHz)."
+# kaynak: 5.sınıf_FTR_Fizik_tedavi_modaliteleri.txt

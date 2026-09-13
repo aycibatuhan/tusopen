@@ -1,0 +1,11 @@
+id: mikro_salmonella_tifo_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "S. Typhi'nin ayırt edici laboratuvar özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_salmonella]
+metin: "Vi kapsül antijeni taşır, glukozdan gaz üretmez, sitrat negatiftir."
+# kaynak: Salmonella_Shigella_Yersinia_(2).txt

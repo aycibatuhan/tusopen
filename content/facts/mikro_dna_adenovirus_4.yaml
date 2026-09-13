@@ -1,0 +1,11 @@
+id: mikro_dna_adenovirus_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adenovirüs hangi koşullarda salgın yapar ve hangi aşı uygulanır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_adenovirus]
+metin: "Kuruluğa, deterjanlara ve düşük klora dirençli; askeri personele oral canlı aşı (tip 4 ve 7)."
+# kaynak: Adenovirus_parvo.txt

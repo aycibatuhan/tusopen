@@ -1,0 +1,11 @@
+id: dah_hep_hcv_seroloji_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anti-HCV(+) ile HCV RNA(+) birlikte ne anlama gelir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_hepatit_c]
+metin: "Aktif enfeksiyon; RNA(-) ise geçirilmiş enfeksiyonu veya yanlış pozitifliği gösterir."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_HCV-2021-2022.txt

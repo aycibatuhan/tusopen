@@ -1,0 +1,11 @@
+id: mikro_chlamydia_serotip_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C. trachomatis tanısında referans yöntem ve duyarlılığı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_chlamydia]
+metin: "NAAT (PCR, LCR, TMA); %90-98 duyarlılıkla referans kabul edilir."
+# kaynak: 4-_Chlamydia.txt

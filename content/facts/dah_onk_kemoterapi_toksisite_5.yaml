@@ -1,0 +1,10 @@
+id: dah_onk_kemoterapi_toksisite_5
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemorajik sistit hangi ilaçların toksisitesidir ve nasıl önlenir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_kemoterapi_toksisite]
+metin: "Siklofosfamid ve ifosfamid; mesna ile önlenir."

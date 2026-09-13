@@ -1,0 +1,11 @@
+id: fiz_gis_mide_bosalma_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Enterogastrik refleksi tetikleyen duodenal faktörler nelerdir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_mide]
+metin: "Duodenal gerilme, asit ve ozmolarite; mide kasılma gücü ile salgısını azaltır."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_5._6._Mide_motilitesi_ve_mide_salgi_mekanizmasi_Nisan.2020.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_7.MİDE_DIŞINDAKİ_DİĞER_İNTESTİNAL_FAKTÖRLERLE_MİDE_SALGISININ_İNHİBİSYONU-Nisan2020_Final_Sae.txt

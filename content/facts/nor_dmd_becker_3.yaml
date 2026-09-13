@@ -1,0 +1,11 @@
+id: nor_dmd_becker_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Becker müsküler distrofisi Duchenne'den nasıl ayrılır?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_muskuler_distrofi]
+metin: "Daha hafif; proksimal zaaf 5-15 yaşta (hatta 3-4. dekatta) başlar."
+# kaynak: 5.sınıf_Nöroloji_Kas_Hastalıkları.txt

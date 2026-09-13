@@ -1,0 +1,15 @@
+id: enf_gsbl_karbapenem_secimi_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: WHO'nun en sorunlu gram-negatif patojenleri hangileridir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_direnc
+metin: Karbapenem dirençli Enterobacteriaceae, Acinetobacter baumannii ve P. aeruginosa.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotik_2019.txt

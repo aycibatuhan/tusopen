@@ -1,0 +1,14 @@
+id: gc_oz_perforasyon_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Özofagus perforasyonunda 72 saat kuralı nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ozofagus
+  - gc_oz_perforasyon
+metin: Öncesinde primer onarım; sonrasında rezeksiyon ve deaktivasyon (özofagostomi).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_İhsan_Taşçı_Esophageal_other_diseases_türkçe_30.8.20.txt

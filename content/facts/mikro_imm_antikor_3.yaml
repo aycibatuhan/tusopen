@@ -1,0 +1,10 @@
+id: mikro_imm_antikor_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mukozal yüzeylerde dimer olarak salgılanan antikor hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_antikor]
+metin: "IgA; mukozal sekresyonlarda dimer olarak bulunur."

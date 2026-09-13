@@ -1,0 +1,10 @@
+id: mikro_imm_antikor_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Komplementi klasik yolla en etkin aktive eden antikor hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_antikor]
+metin: "IgM; pentamerik yapıda, primer yanıtın antikorudur."

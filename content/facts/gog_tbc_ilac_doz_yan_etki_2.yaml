@@ -1,0 +1,11 @@
+id: gog_tbc_ilac_doz_yan_etki_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rifampisinin dozu ve karakteristik etkileri nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_tuberkuloz_tedavi]
+metin: "10 mg/kg (maks 600 mg); sıvıları portakal renge boyar, P450'yi indükler."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_2019-2020_TBC_Dersi_30.08.2022-3-Tedavi.txt

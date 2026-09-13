@@ -1,0 +1,11 @@
+id: kd_toksik_sok_sendromu_3
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Streptokokal toksik şok sendromu mortalitesi nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_genital_enfeksiyonlar, kd_ge_toksik_sok]
+metin: "%30-70; stafilokokal mortalite zamanla belirgin düşmüştür."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_obstetrik_ve_jinekolojik_şok.txt

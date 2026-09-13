@@ -1,0 +1,11 @@
+id: dah_mm_crab_tani_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CRAB yoksa multipl miyelom tanısını kuran üç olay nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_multipl_miyelom]
+metin: "Plazma hücresi %60 üzeri, serbest hafif zincir oranı 100 üzeri, MR'da çoklu fokal lezyon."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_mm_dersi_10122021.txt

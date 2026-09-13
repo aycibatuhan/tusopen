@@ -1,0 +1,11 @@
+id: dah_gut_tani_tedavi_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ürik asit düşürücü tedavi ne zaman ve nasıl başlanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_gut]
+metin: "Yılda 2-3 atakta; 6 ay kolşisin profilaksisi eklenir, böbrek yetmezliğinde allopürinol 150 mg/gün."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_kristal_artrit.txt

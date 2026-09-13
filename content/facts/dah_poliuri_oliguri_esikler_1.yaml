@@ -1,0 +1,11 @@
+id: dah_poliuri_oliguri_esikler_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Poliüri, oligüri ve anüri eşikleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_bobrek_degerlendirme]
+metin: "Poliüri 3 L/gün üzeri; oligüri 400-500 ml altı; anüri günde 50 ml altı."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_Nefrolojide_Anamnez_Alma_.txt, 3._Sınıf_3.2_İç_Hastalıkları_Poliüri_ve_Oligüri.txt

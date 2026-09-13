@@ -1,0 +1,11 @@
+id: der_pitriazis_versikolor_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pitriazis versikolorun etkeni ve KOH görünümü nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_pitriazis_versikolor]
+metin: "Malassezia furfur; maya + kısa kalın hifler 'spagetti ve köfte' görüntüsü verir."
+# kaynak: 5.sınıf_Dermatoloji_SUPERFICIAL_FUNGAL_INFECTIONS.txt

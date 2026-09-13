@@ -1,0 +1,11 @@
+id: anat_endo_surrenal_katlar_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Sağ ve sol sürrenal bezin ön komşuları?
+taksonomi:
+  - [ttbt, anatomi, anat_endokrin, anat_endo_surrenal]
+metin: Sağda v. cava inferior ile karaciğerin sağ lobu; solda mide, pankreas, bazen dalak.
+# kaynak: 3._Sınıf_3.4_Anatomi_ENDOKRİN_SİSTEM_ÖĞRENCİ_versiyonu_2021_DrMY_(2).txt

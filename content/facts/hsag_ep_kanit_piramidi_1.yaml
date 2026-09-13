@@ -1,0 +1,11 @@
+id: hsag_ep_kanit_piramidi_1
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kanıt piramidinin en üst basamağı nedir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_epidemiyoloji, hs_ep_kanita_dayali]
+metin: "Sistematik derleme ve meta-analizler; ardından randomize kontrollü çalışmalar gelir."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD2__Klinik_araştırmalar__Tasarımı__Özellikleri__Sınıflama_ve_Kanıt_Güçleri.txt

@@ -1,0 +1,14 @@
+id: genetik_upd_pws_as_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kromozom 15'te paternal dizomi hangi sendromu yapar?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_mendelian_kalitim
+metin: Angelman sendromu.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_2_Non-Mendeliyen_Hastalıklar_2020.txt

@@ -1,0 +1,11 @@
+id: anes_ards_berlin_koruyucu_ventilasyon_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Berlin tanımında ARDS şiddet dereceleri nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_ards]
+metin: "PaO2/FiO2 (PEEP ≥5): hafif 200-300, orta 100-200, ağır ≤100 mmHg."
+# kaynak: 4._Sınıf_Anestezi_3.txt

@@ -1,0 +1,11 @@
+id: anat_bas_pterygopalatina_baglanti_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Fossa pterygopalatina'nın foramen-canalis bağlantıları?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_pterigopalatin]
+metin: Sphenopalatinum→cavitas nasi, rotundum→fossa cranii media, pterygoideus→basis cranii externa, palatovaginalis→nasopharynx, palatinus major→cavitas oris.
+# kaynak: 2._Sınıf_2.1_Anatomi_baş_bütünü.txt

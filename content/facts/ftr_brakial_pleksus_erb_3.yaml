@@ -1,0 +1,11 @@
+id: ftr_brakial_pleksus_erb_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yenidoğanda Horner sendromu neyi düşündürür?"
+taksonomi:
+  - [ktbt, ftr, ftr_pediatrik_rehabilitasyon, ftr_pr_brakial_pleksus]
+metin: "Kök (avulsiyon) lezyonu olasılığını."
+# kaynak: 5.sınıf_FTR_PedRehab.txt

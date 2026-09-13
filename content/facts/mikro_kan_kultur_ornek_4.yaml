@@ -1,0 +1,11 @@
+id: mikro_kan_kultur_ornek_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi etkenler için laboratuvara özel istek bildirilmelidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_tani_yontemleri]
+metin: "Vibrio, Yersinia, Campylobacter, EHEC ve amip özel istekle çalışılır."
+# kaynak: klinik_mik_tanı-2.txt

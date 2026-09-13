@@ -1,0 +1,14 @@
+id: gc_kol_hemoroid_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akut tromboze eksternal hemoroidin tedavisi?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_kolon_rektum_anus
+  - gc_kol_hemoroid
+metin: Sfinkter kesisi ile pıhtının alınması.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Asiye_Perek_A.Perek_(hemoroid_4.Sın.Türkçe).txt

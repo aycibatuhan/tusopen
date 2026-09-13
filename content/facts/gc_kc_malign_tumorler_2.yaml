@@ -1,0 +1,14 @@
+id: gc_kc_malign_tumorler_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sirotik hastada HCC tanısı ne zaman biopsi gerektirmez?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_karaciger
+  - gc_kc_malign_tumorler
+metin: 2 cm üzeri tipik görüntü (arteryel hiperenhanseman + wash-out) veya AFP >400.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Mehmet_Velidedeoğlu_Karaciğer_Tümörleri_2020.txt

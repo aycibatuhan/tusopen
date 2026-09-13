@@ -1,0 +1,11 @@
+id: goz_pitozis_degerlendirme_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Levator fonksiyonuna göre pitozis cerrahisi nasıl seçilir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_kapak_lakrimal, goz_kl_pitozis]
+metin: "Fonksiyon iyiyse levator rezeksiyonu, kötüyse frontal askı operasyonu."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kapak_Hastalıkları.txt

@@ -1,0 +1,15 @@
+id: ped_neo_hipokalsemi_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Neonatal hipokalseminin acil tedavisi nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_hipokalsemi
+metin: '%10 kalsiyum glukonat 2 ml/kg IV yavaş (1 ml/dk); bradikardide kesilir, bikarbonatla aynı solüsyonda verilmez.'
+
+# kaynak: 4._Sınıf_Pediatri_Ersin_Ulu_yenidoğan_metabolik_sorunları_kopya.txt

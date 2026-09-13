@@ -1,0 +1,11 @@
+id: nor_als_tani_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ALS tanısı hangi kriterlerle konur?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_motor_noron]
+metin: "El Escorial: klinik ve/veya EMG ile yaygın AMN + ÜMN tutuluşu, progresif gidiş."
+# kaynak: 5.sınıf_Nöroloji_Motor_Nöron_Hastalıkları_Nurten_Uzun_Adatepe.txt

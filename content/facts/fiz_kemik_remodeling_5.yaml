@@ -1,0 +1,11 @@
+id: fiz_kemik_remodeling_5
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kemik remodeling yıllık oranı ve denge değişimi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_kalsiyum]
+metin: "Yılda yaklaşık yüzde 10 yenilenir; 25-35 yaşa kadar yapım üstündür."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_NuranKemik_Ders_Eylül_2019.txt

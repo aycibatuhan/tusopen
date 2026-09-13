@@ -1,0 +1,11 @@
+id: gog_paraneoplastik_sendromlar_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lambert-Eaton sendromunda antikor nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_neoplazi, gog_neo_paraneoplastik]
+metin: "Anti-VGCC (P-Q tipi voltaja bağımlı kalsiyum kanalı); küçük hücreli kanserle ilişkili."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer_Kanseri_Dönem_5-29.08.2022.txt

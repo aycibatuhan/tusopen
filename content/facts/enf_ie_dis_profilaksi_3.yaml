@@ -1,0 +1,15 @@
+id: enf_ie_dis_profilaksi_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Amoksisilin alamayan ve penisilin allerjik hastada IE profilaksisi nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_kardiyovaskuler
+  - enf_kv_endokardit
+metin: Oral alamayanlara ampisilin 2 g veya sefazolin/ceftriaxone 1 g; allerjide azitromisin/klaritromisin 500 mg veya klindamisin 600 mg.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Antimikkemoprofilaksison.txt

@@ -1,0 +1,11 @@
+id: kard_hf_siniflama_ef_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ESC 2021 kalp yetmezliği EF sınıflaması nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_patofizyoloji]
+metin: "HFrEF LVEF ≤%40, HFmrEF %41-49, HFpEF ≥%50."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

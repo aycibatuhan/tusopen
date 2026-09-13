@@ -1,0 +1,11 @@
+id: nor_sak_tani_algoritmasi_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tipik baş ağrısında BT negatifse SAK incelemesi nasıl sürdürülür?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_sak]
+metin: "12 saat sonra BT tekrarı; yine negatifse LP yapılır."
+# kaynak: 5.sınıf_Nöroloji_kanamalar_türkçe_2021_eylül.txt

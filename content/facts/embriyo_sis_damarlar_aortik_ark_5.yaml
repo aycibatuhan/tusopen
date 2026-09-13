@@ -1,0 +1,14 @@
+id: embriyo_sis_damarlar_aortik_ark_5
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: N. laryngeus recurrens'in sağ-sol yolu neden farklıdır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_damarlar
+metin: 'Sağ 6. arkın distalinin dejenerasyonu: sağ sinir subklaviyan arteri, sol sinir duktus arteriozusun kalıntısını çevreler (reflaks kısıtlılığı).'
+# kaynak: 2._Sınıf_2.2_Histoloji_KVS_gelişimi_G._Tanrıverdi.2019.txt

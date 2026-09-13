@@ -1,0 +1,10 @@
+id: anat_ue_karpal_tunel_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Avuç içi derisi karpal tünel sendromunda neden korunur?
+taksonomi:
+  - [ttbt, anatomi, anat_ust_ekstremite, anat_ue_karpal_tunel]
+metin: Palmar kutanöz dal retinakulumun üstünden geçer.

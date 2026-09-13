@@ -1,0 +1,11 @@
+id: kd_ektopik_gebelik_hcg_esikleri_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "hCG kanda ve idrarda kaç gün sonra pozitifleşir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_erken_gebelik, kd_eg_ektopik]
+metin: "Kanda 11, idrarda 12-14 gün; >25 mIU/mL pozitif, <5 negatif."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Gebelikte_Kanama_28.11.2020.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_T3obsttanı.txt

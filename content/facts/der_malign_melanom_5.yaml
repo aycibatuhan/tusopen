@@ -1,0 +1,11 @@
+id: der_malign_melanom_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "1 mm'den küçük melanomda eksizyon sahası ve sonucu nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_deri_tumorleri, derm_tu_melanom]
+metin: "Çevre 1 cm sağlam deriyle eksizyon %100 kür sağlar."
+# kaynak: 5.sınıf_Dermatoloji_zk_DERİ_KANSERLERİ.txt

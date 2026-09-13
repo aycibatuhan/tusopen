@@ -1,0 +1,11 @@
+id: dah_tiroid_nodul_bethesda_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serum kalsitonin hangi düzeylerde nasıl yorumlanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_tiroid_nodul_kanser]
+metin: "10-100 aralığında ileri araştırma; 100 üzeri medüller tiroid karsinomunu büyük oranda destekler."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_tiroidnodullerivetiroidkanseri.txt

@@ -1,0 +1,11 @@
+id: kard_nstemi_girisim_zamanlari_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "NSTEMIde çok yüksek riskli hastada anjiyografi süresi nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_nstemi]
+metin: "2 saat içinde (hemodinamik bozulma, dirençli angina, aritmi, dinamik ST-T değişikliği)."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

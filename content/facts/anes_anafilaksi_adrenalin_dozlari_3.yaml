@@ -1,0 +1,11 @@
+id: anes_anafilaksi_adrenalin_dozlari_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anafilaksta erişkin hipotansiyon ölçütü nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_anafilaksi]
+metin: "SAB <90 mmHg veya kendi SAB'sinde >%30 düşüş."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Hipotermi_Suda_boğulma_Anaflaksi.txt

@@ -1,0 +1,11 @@
+id: biyok_hormon_ikinci_haberci_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "cGMP nasıl oluşur ve nitrogliserin ne yapar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_doku_organ, biyok_doku_hormon]
+metin: "ANF reseptörünün ve NO'nun aktive ettiği guanilat siklazlardan; nitrogliserin NO salarak gevşetir."
+# kaynak: 1._Sınıf_1.2_Biyokimya_res_2018_son.txt

@@ -1,0 +1,11 @@
+id: nor_gerilim_tani_kriterleri_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En sık görülen primer baş ağrısı hangisidir?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_gerilim]
+metin: "Gerilim tipi baş ağrısı (%25-35)."
+# kaynak: 5.sınıf_Nöroloji_2020_Primer_BA_yeni.txt

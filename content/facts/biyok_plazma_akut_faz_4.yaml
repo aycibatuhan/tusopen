@@ -1,0 +1,11 @@
+id: biyok_plazma_akut_faz_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CRP'nin kinetiği ve kompleman etkisi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_plazma_proteinleri]
+metin: "4-6 saatte başlar, normalin 2000 katına ulaşır; C1'den klasik yolu aktive eder."
+# kaynak: 1._Sınıf_1.1_Biyokimya_2018.10.25__Serum_Proteinleri_İmmunoglobulinler__Akut_faz_reaktanları.txt

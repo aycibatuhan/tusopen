@@ -1,0 +1,11 @@
+id: dah_wilson_tani_esikleri_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Wilson hastalığında laboratuvar tanı eşikleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_wilson_hemokromatoz]
+metin: "Serüloplazmin 20 mg/dL altı; 24 saatlik idrar bakır atılımı 100 µg üzeri."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_METABOLİK_KARACİĞER_HASTALIKLARI.txt

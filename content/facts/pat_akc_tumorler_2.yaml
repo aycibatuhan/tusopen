@@ -1,0 +1,10 @@
+id: pat_akc_tumorler_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sigara içmeyenlerde ve kadınlarda sık akciğer karsinomu alt tipi?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_tumorler]
+metin: "Adenokarsinom; periferik yerleşimli, en sık alt tip."

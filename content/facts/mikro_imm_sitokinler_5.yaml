@@ -1,0 +1,11 @@
+id: mikro_imm_sitokinler_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "TH2 yanıtı hangi sitokinlerle hangi savunmayı destekler?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_sitokinler]
+metin: "IL-4, IL-5 ve IL-10; B hücre farklılaşmasını, IgE ve eozinofil aracılı parazit savunmasını destekler."
+# kaynak: Hücre_aracılığı_ile_bağışık_yanıt.txt, Doğal_bağışıklık__mikropların_tanınması__mikropların_doğal_bağışıklıktan_kaçışı.txt, Mantarlara_karşı_immünite.txt

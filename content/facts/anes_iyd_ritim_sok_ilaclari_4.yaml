@@ -1,0 +1,11 @@
+id: anes_iyd_ritim_sok_ilaclari_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kardiyak arrestte 4H nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_resusitasyon, anes_rs_ileri_yasam]
+metin: "Hipoksi, hipovolemi, hipo/hiperkalemi ve metabolik bozukluklar, hipotermi."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Kardiyopulmner_resüsitasyon4_sınıf_ders.txt

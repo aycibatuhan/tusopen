@@ -1,0 +1,11 @@
+id: farm_kan_trombolitik_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alteplazın özellikleri ve riski?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kan, farm_kan_trombolitik]
+metin: "Fibrine bağlanan doku plazminojen aktivatörü; yarı ömür ~5 dakika; Gİ-serebral kanama."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.4_Farmakoloji_2.4_Farmakoloji_03_Trombolitik_İlaçlar.Sibel_ÖZYAZGAN..txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.4_Farmakoloji_2.4_Farmakoloji_02_Hemostatik_İlaçlar..Sibel_ÖZYAZGAN.txt

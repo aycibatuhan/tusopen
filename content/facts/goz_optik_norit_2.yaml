@@ -1,0 +1,11 @@
+id: goz_optik_norit_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Optik nörit olgularının yüzde kaçı retrobulberdir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_norooftalmoloji, goz_no_optik_norit]
+metin: "Yaklaşık 2/3'ü; optik disk normal görünür."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Optik_Sinir_Hastalıkları.txt, 5.sınıf_Göz_Hastalıkları_ANİ_KÖRLÜKLER.txt

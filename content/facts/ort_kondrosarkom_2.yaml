@@ -1,0 +1,11 @@
+id: ort_kondrosarkom_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Malignleşen osteokondromlarda kıkırdak şapka kalınlığı neyi aşar?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kemik_tumorleri, orto_kt_kondrosarkom_kordoma]
+metin: "1 cm'yi aşması sekonder kondrosarkom düşündürür."
+# kaynak: 5.sınıf_Ortopedi_habıs_kemık_tümörlerı.txt

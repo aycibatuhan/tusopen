@@ -1,0 +1,11 @@
+id: mikro_mko_cryptococcus_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "37 derecede üreyen ve fenol oksidaz gösteren mantar hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_firsatci]
+metin: "Cryptococcus neoformans; üreaz kan-beyin bariyerini aşmasında rol oynar."
+# kaynak: Candida__C.neoformans_ve_diğer_maya_mantarları.txt, Mantarlara_karşı_immünite.txt

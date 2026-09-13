@@ -1,0 +1,14 @@
+id: gc_oz_kanser_5
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Özofajektominin palyasyon eşikleri nelerdir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ozofagus
+  - gc_oz_kanser
+metin: FEV1 <1,25 L, EF <%40, kilo kaybı >%20, yaş >75.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Faik_Özçelik_OEZOFAGUS_KANSERI_2017.txt

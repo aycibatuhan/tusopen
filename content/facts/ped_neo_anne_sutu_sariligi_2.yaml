@@ -1,0 +1,15 @@
+id: ped_neo_anne_sutu_sariligi_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Anne sütü (breastmilk) sarılığı nasıl seyreder?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_sarilik
+metin: Bebeklerin %1-2'sinde; 5. günden sonra artar, 15-20 mg/dl'ye çıkar, 12. haftaya dek geriler; süt kesilmez.
+
+# kaynak: 4._Sınıf_Pediatri_Zeynep_Alp_Ünkar_Neonatal_Hiperbilirubinemi.txt

@@ -1,0 +1,14 @@
+id: gc_sy_kolesistit_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Amfizematöz kolesistitin özellikleri nelerdir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_safra_yollari
+  - gc_sy_kolelitiazis
+metin: Gaz üreten bakteri (en sık C. welchii); erkek ve diyabetiklerde virülan.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Vedat_Durgun_akut_kronik_kolesistit.txt

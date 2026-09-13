@@ -1,0 +1,10 @@
+id: mikro_par_toxoplasma_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İleri immün yetmezlikte toxoplazmozun tablosu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_toxoplasma]
+metin: "Beyin apsesi gelişebilir; gebelikte konjenital risk için IgM-IgG araştırılır."

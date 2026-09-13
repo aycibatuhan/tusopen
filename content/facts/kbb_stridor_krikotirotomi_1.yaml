@@ -1,0 +1,11 @@
+id: kbb_stridor_krikotirotomi_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bifazik stridor nerede obstrüksiyonu gösterir?"
+taksonomi:
+  - [ktbt, kbb, kbb_larinks, kbb_lr_trakeotomi]
+metin: "Üst trakea, subglottik ve glottik lezyonları."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

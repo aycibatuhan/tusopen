@@ -1,0 +1,11 @@
+id: anat_bas_fossa_temporal_infratemporal_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Fossa temporalis ile infratemporalis bağlantısı nereden geçer?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_temporal_infratemporal]
+metin: Orificium zygomaticum'dan; m. temporalis ile a.-v-n. temporalis seyreder.
+# kaynak: 2._Sınıf_2.1_Anatomi_baş_bütünü.txt

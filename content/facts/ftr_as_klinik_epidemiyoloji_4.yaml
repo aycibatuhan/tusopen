@@ -1,0 +1,11 @@
+id: ftr_as_klinik_epidemiyoloji_4
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Radyografik bulgusu olmayan aksiyel spondiloartrit neyi düşündürür?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_spondiloartropati_rehab]
+metin: "MRG'de aktif inflamasyon gösterilmesi."
+# kaynak: 5.sınıf_FTR_Spondiloartritler_ve_Rehabilitasyonu_Dersi_Enson.txt

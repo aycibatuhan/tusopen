@@ -1,0 +1,11 @@
+id: fiz_kan_trombosit_esikler_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Trombositoz tipleri ve MPV artışı neyi gösterir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_trombosit_hemostaz]
+metin: "600.000 üzeri primer veya sekonder; MPV artışı genç trombosit üretimini gösterir."
+# kaynak: 2._Sınıf_2.4_2.vize_fizyoloji_Trombositler_TÜRKÇE_GRUBU-2020.txt, 7._ders_3-Kanın-Fiziksel_Özellikleri.txt

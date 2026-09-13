@@ -1,0 +1,11 @@
+id: ftr_as_rehab_olcumleri_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Modifiye lomber Schober testinde normal ölçüt nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_spondiloartropati_rehab]
+metin: "S2 (PSIS) hizasından 10 cm yukarı işaret; öne eğilmede artış 5 cm ve üzeri normaldir."
+# kaynak: 5.sınıf_FTR_Spondiloartritler_ve_Rehabilitasyonu_Dersi_Enson.txt, 5.sınıf_FTR_OmurgaFM.txt

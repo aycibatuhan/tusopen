@@ -1,0 +1,15 @@
+id: enf_septik_artrit_tedavi_drenaj_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Septik artritte tedavi süresi nasıldır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_septik_artrit_protez
+metin: Non-gonokokal 3-4 hafta; gonokokal artritte seftriakson 1 g/gün IV 7-10 gün yeterlidir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt, 2._Sınıf_2.1_Enfeksiyon_septik_artrit_ve_osteomyelit_2019.txt

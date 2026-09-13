@@ -1,0 +1,10 @@
+id: farm_km_beta_laktam_3
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Penisilin ve sefalosporinler arasında çapraz reaksiyon?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kemoterapotik, farm_km_beta_laktam]
+metin: "Alerjik çapraz reaksiyon olasılığı vardır."

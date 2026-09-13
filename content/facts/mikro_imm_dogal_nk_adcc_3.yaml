@@ -1,0 +1,11 @@
+id: mikro_imm_dogal_nk_adcc_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "NK hücreleri hangi sitokinlerle uyarılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_dogal]
+metin: "IFN-alfa, IFN-beta, IL-12 ve IL-15 ile; aktive olunca IFN-gama üretir."
+# kaynak: Hücre_aracılığı_ile_bağışık_yanıt.txt, Humoral_bağışık_yanıt_ve_antikorlar.txt

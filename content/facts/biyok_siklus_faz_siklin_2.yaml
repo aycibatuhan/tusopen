@@ -1,0 +1,11 @@
+id: biyok_siklus_faz_siklin_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hücre döngüsünün en önemli kontrol noktaları nerededir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_hucre_siklusu]
+metin: "DNA sentezinden hemen önce ve mitozdan hemen önce."
+# kaynak: 1._Sınıf_1.3_Biyokimya_Kanser_ve_Onkogenler_2019.txt

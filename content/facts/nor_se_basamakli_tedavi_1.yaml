@@ -1,0 +1,11 @@
+id: nor_se_basamakli_tedavi_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Damar yolu yoksa status epileptikusta ilk ilaç ve dozu nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_epilepsi, noro_ep_status]
+metin: "Bukkal/IM midazolam 10 mg; 50 kg altında ve yaşlıda 5 mg."
+# kaynak: 5.sınıf_Nöroloji_staj_tedavi_2022_o_g_renci_kopya.txt

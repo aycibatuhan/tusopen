@@ -1,0 +1,11 @@
+id: dah_fhh_ayirim_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "FHH'yi primer hiperparatiroidizmden ayıran idrar bulguları nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hiperparatiroidi]
+metin: "Kalsiyum atılımı 100 mg/gün altı; Ca/kreatinin klirens oranı 0,01 altı."
+# kaynak: 4._Sınıf_Dahiliye_ders-paratiroid_hastalıkları.txt

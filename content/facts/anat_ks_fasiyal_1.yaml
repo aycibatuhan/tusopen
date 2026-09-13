@@ -1,0 +1,10 @@
+id: anat_ks_fasiyal_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Santral ve periferik fasiyal paralizide alın durumu?
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_fasiyal]
+metin: Santral paralizide alın korunur (üst yüz çift innervasyon); periferikte yüz tamamı etkilenir.

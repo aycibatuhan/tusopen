@@ -1,0 +1,11 @@
+id: mikro_gb_toksin_karsilastirma_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ekzotoksinin A ve B alt ünitelerinin görevleri nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_toksinler]
+metin: "B alt ünitesi hücre yüzeyine bağlanmayı, A alt ünitesi hücre içi aktif etkiyi üstlenir."
+# kaynak: Endotoksin-Ekzotoksin.txt, Bakteri_ve_İnsan.txt

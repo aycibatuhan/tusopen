@@ -1,0 +1,10 @@
+id: anat_ue_karpal_tunel_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Karpal tünel sendromunun bulguları?
+taksonomi:
+  - [ttbt, anatomi, anat_ust_ekstremite, anat_ue_karpal_tunel]
+metin: İlk 3,5 parmakta parestezi ve tenar atrofi.

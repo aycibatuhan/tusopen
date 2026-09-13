@@ -1,0 +1,11 @@
+id: goz_akantamoeba_fungal_keratit_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akantamoeba keratitinin en büyük risk grubu ve bulaş yolu nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_konjonktiva_kornea, goz_kk_fungal_akantamoba]
+metin: "Kontakt lens kullananlar olguların %70'i; bulaş musluk suyu ve yüzme havuzuyla."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kornea_Hastalıkları_01_06_2020.txt

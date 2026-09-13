@@ -1,0 +1,11 @@
+id: goz_esotropya_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akomodatif esotropyada temel neden ve tam tipte bulgu nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_sasilik_pediatrik, goz_sp_ezotropya]
+metin: "Yüksek hipermetropi; kırma kusuru gözlükle düzelince kayma tamamen ortadan kalkar."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Şaşılık.DERS_-_Kopya.txt

@@ -1,0 +1,11 @@
+id: psik_alkol_tedavi_ilaclari_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kadında ve erkekte GGT'nin alkol kullanımını düşündüren eşikleri nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_madde, psik_md_alkol]
+metin: "Kadında 30, erkekte 35 IU/L üzeri."
+# kaynak: 5.sınıf_PSİKİYATRİ_alkolmadde_son_(2).txt

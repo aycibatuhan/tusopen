@@ -1,0 +1,11 @@
+id: mikro_dna_parvovirus_b19_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebelikte parvovirüs B19 enfeksiyonu fetusda ne yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_parvovirus]
+metin: "Ağır anemi ve hidrops fetalis; 20 haftadan önce risk yüksek, konjenital anomali yapmaz."
+# kaynak: Adenovirus_parvo.txt

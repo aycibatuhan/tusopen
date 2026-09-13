@@ -1,0 +1,10 @@
+id: biyok_aa_kollajen_elastin_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kollajenin yapısal kuralları ve C vitamini rolü nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_kollajen_elastin]
+metin: "Her üçüncü amino asit glisin; prolin-lizin hidroksilasyonunda C vitamini kofaktördür."

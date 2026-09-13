@@ -1,0 +1,11 @@
+id: nuk_tiroid_sintigrafi_nodul_riski_5
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tiroid uptake testi ne zaman ölçülür ve nasıl yorumlanır?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_endokrin, nt_en_tiroid_sintigrafi]
+metin: "I-131 sonrası 4(2). ve 24. saatlerde; Basedow-Graves'te artar, subakut tiroiditte düşüktür."
+# kaynak: 5.sınıf_Nükleer_Tıp_Endokrin_Sistemde_Nükleer_Tıp_Uyg.txt, 5.sınıf_Nükleer_Tıp_PRATİK_Endokrin_PET.txt

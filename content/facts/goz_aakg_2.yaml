@@ -1,0 +1,11 @@
+id: goz_aakg_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut açı kapanması glokomu atağının tipik bulguları nelerdir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_glokom, goz_gl_aci_kapanmasi]
+metin: "GİB 30-70 mmHg, orta dilate ışığa yanıtsız pupilla, bulanık kornea, şiddetli göz ağrısı."
+# kaynak: 5.sınıf_Göz_Hastalıkları_AKUT_AÇI_KAPANMASI_GLOKOMU.txt, 5.sınıf_Göz_Hastalıkları_kırmızı_göz_2.txt

@@ -1,0 +1,13 @@
+id: anat_noro_serebellum_3
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Flokkülonodüler lobun görevi nedir?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_noroanatomi
+  - anat_noro_serebellum
+metin: Denge ve göz hareketlerinden sorumludur (vestibüloserebellum).

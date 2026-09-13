@@ -1,0 +1,10 @@
+id: mikro_rna_hepatit_a_e_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HEV hangi koşulda kronikleşebilir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_hepatit_a_e]
+metin: "3. genotip immünsüprese hastada kronik karaciğer hastalığı yapabilir."

@@ -1,0 +1,10 @@
+id: pat_gis_kolon_polip_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En sık adenomatöz polip tipi hangisidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_gis, pat_gis_kolon_polip]
+metin: "Tübüler adenom; villöz bileşen arttıkça malignite riski yükselir."

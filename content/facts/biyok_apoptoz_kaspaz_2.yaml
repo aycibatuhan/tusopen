@@ -1,0 +1,11 @@
+id: biyok_apoptoz_kaspaz_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Apoptoziste geri dönüşsüz nokta ve apoptozom bileşenleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_hucre_siklusu]
+metin: "Sitokrom c'nin mitokondriden salınımı; apoptozomda Apaf-1 ve kaspaz-9 kaskadı başlar."
+# kaynak: 1._Sınıf_1.3_Biyokimya_Kanser_ve_Onkogenler_2019.txt

@@ -1,0 +1,11 @@
+id: fiz_kv_koroner_ozellikleri_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İstirahat koroner kan akımı ve rezervi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_ozel_dolasimlar]
+metin: "225 ml/dk (kalp debisinin yüzde 4-5'i); maksimalde 3-4 kat artar."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Egzersiz___Kroner.txt

@@ -1,0 +1,11 @@
+id: kard_hky_icd_crt_kriterleri_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CRT için Sınıf I endikasyon nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_cihaz_tedavisi]
+metin: "Sinüs ritmi + LBBB olan hastada QRS ≥150 ms."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

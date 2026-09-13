@@ -1,0 +1,11 @@
+id: der_pemfigus_klinik_tipler_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Paraneoplastik pemfigus en sık hangi hastalıklara eşlik eder?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_pemfigus]
+metin: "En sık eşlik edenler: Castleman hastalığı, kronik lenfositik lösemi, non-Hodgkin lenfoma."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

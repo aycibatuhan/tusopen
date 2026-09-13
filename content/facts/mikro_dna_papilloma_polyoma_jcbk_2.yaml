@@ -1,0 +1,11 @@
+id: mikro_dna_papilloma_polyoma_jcbk_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BK virüsü reaktivasyonu hangi klinik tabloları yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_papilloma_polyoma]
+metin: "Hemorajik sistit ve üreter stenozu-nefropati; özellikle transplant alıcılarında."
+# kaynak: Papilloma_ve_Polyomaviruslar.txt

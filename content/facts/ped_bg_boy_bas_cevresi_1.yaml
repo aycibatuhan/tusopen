@@ -1,0 +1,15 @@
+id: ped_bg_boy_bas_cevresi_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 1, 4 ve 13 yaşındaki çocukta beklenen boy nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: 1 yaşta 75 cm (doğumun 1,5 katı), 4 yaşta 100 cm (2 katı), 13 yaşta 150 cm (3 katı).
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

@@ -1,0 +1,10 @@
+id: biyok_kh_piruvat_tca_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sitrik asit döngüsünün tur başına verimi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_piruvat_tca]
+metin: "Üç NADH, bir FADH2 ve bir GTP üretir."

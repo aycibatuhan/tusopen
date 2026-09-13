@@ -1,0 +1,11 @@
+id: uro_dmsa_piyelonefrit_skar_1
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "DMSA sintigrafisinin kullanım alanı nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_enfeksiyonlar, uro_enf_piyelonefrit]
+metin: "Renal kortikal (statik) sintigrafi; piyelonefrit hasarı, skar ve split fonksiyon değerlendirmede en güvenilir."
+# kaynak: 3._Sınıf_3.2_Nükleer_tıp_nefrou_roloji_dersi_tu_rkc_e.txt, 4._Sınıf_Üroloji_böbrek_tm_radyoloji.txt

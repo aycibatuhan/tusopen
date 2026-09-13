@@ -1,0 +1,11 @@
+id: nor_narkolepsi_tip1_tani_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Narkolepsi tip 1'de ÇULT tanı kriterleri nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_uyku_bilinc, noro_ub_narkolepsi]
+metin: "Uyku latansı 8 dakikanın altı ve en az 2 SOREM."
+# kaynak: 5.sınıf_Nöroloji_Uyku_Hastalıkları_5._sınıf_ders_2021.txt

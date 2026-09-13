@@ -1,0 +1,10 @@
+id: anat_abd_karaciger_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Couinaud karaciğer segmentasyonu kaç segment tanımlar?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_karaciger]
+metin: Portal triad dağılımına göre 8 segment; falciform ligament sol lobu medial-lateral bölgeye ayırır.

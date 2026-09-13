@@ -1,0 +1,19 @@
+id: ped_toks_parasetamol_5
+version: 1
+status: draft
+author: ai-drafts/toksikoloji-antidot
+sources:
+- Amerikan Akademik Klinik Toksikoloji (AACT) parasetamol pozisyon bildirileri — referans olarak listelendi, metin özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: Parasetamol toksisitesi hangi hastalarda artar?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_zehirlenmeler
+metin: Kronik alkol kullananlar, açlıkta kalanlar ve enzim indükleyici ilaç kullananlarda (glutatyon depoları az).
+tus_gecmisi:
+- tus-2015-ilkbahar-ttbt-101
+- tus-2020-ilkbahar-ktbt-53
+- tus-2020-ilkbahar-ktbt-54
+

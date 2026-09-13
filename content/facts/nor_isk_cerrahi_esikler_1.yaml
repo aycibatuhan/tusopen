@@ -1,0 +1,11 @@
+id: nor_isk_cerrahi_esikler_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serebellar hematomda cerrahi endikasyon eşiği nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_intraserebral_kanama]
+metin: "Çap 3 cm'yi aşarsa."
+# kaynak: 5.sınıf_Nöroloji_kanamalar_türkçe_2021_eylül.txt

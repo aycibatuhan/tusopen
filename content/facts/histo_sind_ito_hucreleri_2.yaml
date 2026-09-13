@@ -1,0 +1,14 @@
+id: histo_sind_ito_hucreleri_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ito hücrelerinin işlevleri nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sindirim
+  - histo_sind_karaciger
+metin: A vitaminini retinol olarak depolar; kronik hasarda kolajen üreterek fibrozis ve siroza yol açar.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Karacig_er_G.Tanriverdi_2020.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_sistemi_Karaciğer__Safra_kesesi.txt

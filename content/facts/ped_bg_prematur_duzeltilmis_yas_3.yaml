@@ -1,0 +1,15 @@
+id: ped_bg_prematur_duzeltilmis_yas_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yaş düzeltmesi kaç haftalık doğanlarda ve kaç yıl uygulanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: 32 haftadan küçük doğanlarda 2 yıl, 32-36 haftalık doğanlarda 1 yıl.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜMENİN_DEĞERLENDİRİLMESİ_ve_İZLENMESİ-Sınıf_4.txt

@@ -1,0 +1,11 @@
+id: anes_beyin_olumu_tani_kriterleri_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Beyin ölümü tanısında santral vücut ısısı şartı nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_beyin_olumu]
+metin: "Santral vücut ısısının >32°C olması ön koşuldur."
+# kaynak: 4._Sınıf_Anestezi_2.txt

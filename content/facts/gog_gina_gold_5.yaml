@@ -1,0 +1,18 @@
+id: gog_gina_gold_5
+version: 1
+status: draft
+author: ai-drafts/gogus
+sources:
+- GINA 2024 ve GOLD 2024 strateji raporları — referans adı olarak listelendi; metin projenin özgün
+  yazımıdır
+ad: "Astım ve KOAH tanısında spirometri eşikleri nedir?"
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_astim
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_koah
+metin: "Astım: bronkodilatörle FEV1'de %12 ve 200 ml artış; KOAH: FEV1-FVC %70 altı."

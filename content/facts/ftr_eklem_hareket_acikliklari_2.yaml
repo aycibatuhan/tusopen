@@ -1,0 +1,11 @@
+id: ftr_eklem_hareket_acikliklari_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Diz fleksiyonunun normal değeri nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_eklem_hareket]
+metin: "130-140 derece; ekstansiyon 0 ile -10 derece arasıdır."
+# kaynak: 5.sınıf_FTR__Alt_ekstremite_fizik_muayenesi.txt, 5.sınıf_FTR_üst_ekstremite_muayene_dersi_son.txt, 5.sınıf_FTR_OmurgaFM.txt, 5.sınıf_FTR_DİSK_HERNİLERİ.RT.txt

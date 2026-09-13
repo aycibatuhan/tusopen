@@ -1,0 +1,11 @@
+id: der_herpes_zoster_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Zonada döküntünün seyri nasıl ilerler?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_viral, derm_vr_herpes]
+metin: "Eritem üzerinde 12-24 saatte grup vezikül, 48 saatte püstülleşme, 4. günde krut; orta çizgiyi geçmez."
+# kaynak: 5.sınıf_Dermatoloji_viral_yeni.txt

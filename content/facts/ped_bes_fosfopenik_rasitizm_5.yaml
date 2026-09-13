@@ -1,0 +1,15 @@
+id: ped_bes_fosfopenik_rasitizm_5
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: X'e bağlı hipofosfatemik raşitizm nasıl tanınır ve tedavi edilir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_rasitizm
+metin: PHEX mutasyonu; kalsiyum-PTH normal, fosfor düşük; tedavide fosfor 30-90 mg/kg/gün + kalsitriol 20-50 ng/kg/gün.
+
+# kaynak: 4._Sınıf_Pediatri_Elvan_Bayramoğlu_Rikets_ve_D_vitamini_eksikliği_ders_4.txt

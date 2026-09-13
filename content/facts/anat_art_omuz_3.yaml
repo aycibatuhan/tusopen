@@ -1,0 +1,10 @@
+id: anat_art_omuz_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Labrum glenoidale ne işe yarar?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_omuz]
+metin: Glenoidin derinliğini artırarak stabiliteye katkı sağlar.

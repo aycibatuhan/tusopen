@@ -1,0 +1,11 @@
+id: dah_aps_tip1_tip2_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Otoimmün poliglandüler sendrom tip 1 hangi gen mutasyonuyla gider?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_men_poliglanduler]
+metin: "21q22.3'teki AIRE mutasyonları; otozomal resesif, ~6 yaşta başlar."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Erkek_Reprodüktif_Sistem_Hst.txt, 3._Sınıf_3.4_İç_hastalıkları_Kadın_Reprodüktif_Sistem_Hst.txt

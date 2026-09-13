@@ -1,0 +1,11 @@
+id: psik_ssri_kesilme_sendromu_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kesilme sendromu en sık ve en az hangi ilaçlarda görülür?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_duygudurum, psik_dd_antidepresan_tedavi]
+metin: "En sık paroksetin, en az fluoksetin; kısa yarı ömürlü ilaçlarda sık."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt

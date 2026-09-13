@@ -1,0 +1,11 @@
+id: pat_neo_viral_karsinojenler_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HBx proteini ne yapar?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_karsinojenler]
+metin: "p53'ü inaktive eder; HCC'nin %70-85'i HBV-HCV'ye bağlı."
+# kaynak: 1._Sınıf_1.4_Patoloji_iremonur_kimyasal_viral_karsinogenez.txt

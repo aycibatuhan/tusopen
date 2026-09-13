@@ -1,0 +1,11 @@
+id: farm_kv_antihipertansif_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alfa1 blokerlerin en önemli yan etkisi?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_antihipertansif]
+metin: "İlk doz senkopu; 0,5-2 mg düşük dozla başlanır."
+# kaynak: 2._Sınıf_2.2_Farmakoloji_ANTİHİPERTANSİF_İLAÇLAR.txt

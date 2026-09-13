@@ -1,0 +1,10 @@
+id: fiz_sol_regulasyon_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Santral kemoreseptörler nerede bulunur ve neyi izler?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_regulasyon]
+metin: "Medüllada; BOS'un pH'ını izler, karbondioksit artışında ventilasyonu hızla artırır."

@@ -1,0 +1,11 @@
+id: ftr_inme_iyilesme_brunnstrom_4
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnmada kötü prognoz işaretleri nelerdir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_inme]
+metin: "Uzamış flask dönem, ağır üst ekstremite tutulumu, ilk 4 haftada el kavramasının gelişmemesi."
+# kaynak: 5.sınıf_FTR_İnmeRehab.txt

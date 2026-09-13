@@ -1,0 +1,11 @@
+id: gog_koah_alevlenme_tedavi_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "KOAH alevlenmelerinin en sık tetikleyicisi ve tipik etkenleri?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_obstruktif, gog_ob_koah_alevlenme]
+metin: "Enfeksiyon; H. influenzae, S. pneumoniae, M. catarrhalis."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_KOAH_I-II.txt

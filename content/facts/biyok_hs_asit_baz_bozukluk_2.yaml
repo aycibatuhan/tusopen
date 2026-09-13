@@ -1,0 +1,10 @@
+id: biyok_hs_asit_baz_bozukluk_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Winter formülü nasıl hesaplanır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_hucre_su, biyok_hs_asit_baz_bozukluk]
+metin: "Beklenen pCO2, bikarbonatın 1.5 katının 8 fazlasıdır."

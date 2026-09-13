@@ -1,0 +1,11 @@
+id: der_erozyon_ulser_purpura_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erozyon ile ülserin ayırıcı özelliği nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_temel, derm_tm_elemanter_lezyonlar]
+metin: "Erozyon bazal membrana kadar iner ve skatrisiz iyileşir; ülser dermise uzanır, skatris bırakır."
+# kaynak: 5.sınıf_Dermatoloji_DERİNİN_ELEMANTER_LEZYONLARI__ZAF.txt

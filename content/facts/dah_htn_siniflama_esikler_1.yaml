@@ -1,0 +1,11 @@
+id: dah_htn_siniflama_esikler_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "JNC VII kan basıncı sınıflama eşikleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_kardiyovaskuler, dah_kv_hipertansiyon_yonetimi]
+metin: "Evre 2: 160/100 üzeri; evre 1: 140-159/90-99; prehipertansiyon 120-139/80-89; normal: 120/80 altı."
+# kaynak: 2._Sınıf_2.2_kardiyoloji_2.Sınıf-HİPERTANSİYON.txt

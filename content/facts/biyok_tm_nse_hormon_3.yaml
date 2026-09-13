@@ -1,0 +1,11 @@
+id: biyok_tm_nse_hormon_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "hCG belirteç olarak nerede kullanılır ve BOS bulgusu ne anlama gelir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_klinik, biyok_klin_tumor_belirtec]
+metin: "Plasenta ve bazı testis tümörlerinde; BOS'ta bulunması SSS metastazını gösterir."
+# kaynak: 1._Sınıf_1.3_Biyokimya_TÜMÖR_MARKERLARI_REVİZE.txt, 1._Sınıf_1.1_Biyokimya_2018.10.25__Serum_Proteinleri_İmmunoglobulinler__Akut_faz_reaktanları.txt

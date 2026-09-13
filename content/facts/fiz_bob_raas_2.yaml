@@ -1,0 +1,10 @@
+id: fiz_bob_raas_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Renin ve anjiotensin dönüşüm enzimi hangi basamakları katalizler?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_raas]
+metin: "Renin anjiotensinojeni anjiotensin 1'e; ACE anjiotensin 2'ye çevirir."

@@ -1,0 +1,11 @@
+id: adli_elle_bogma_3
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Elle boğmada iç muayene bulguları nelerdir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_asfiksi]
+metin: "Boyun yumuşak dokularında yaygın kanamalar; hyoid ve tiroid kıkırdağın ekimozlu kırıkları."
+# kaynak: 5.sınıf_Adli_Tıp_ASFİKSİYE_BAĞLI_ÖLÜMLER_PROF._DR._İBRAHİM_ÜZÜN_PDF.txt

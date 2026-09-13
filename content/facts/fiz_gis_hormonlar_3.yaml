@@ -1,0 +1,10 @@
+id: fiz_gis_hormonlar_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kolesistokininin başlıca iki etkisi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_hormonlar]
+metin: "Pankreas enzim salgısını artırır, safra kesesini kasar."

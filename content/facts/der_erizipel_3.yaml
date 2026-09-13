@@ -1,0 +1,11 @@
+id: der_erizipel_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erizipel kaç haftada nasıl iyileşir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bakteriyel, derm_bk_erizipel_selulit]
+metin: "2-3 haftada deskuamasyonla iyileşir."
+# kaynak: 5.sınıf_Dermatoloji_ZK-PİYODERMA.txt

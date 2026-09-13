@@ -1,0 +1,11 @@
+id: biyok_be_atp_yuksek_enerji_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ATP hidrolizinin serbest enerjisi ve günlük tüketim miktarı nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_biyoenerjetik, biyok_be_termodinamik]
+metin: "Yaklaşık 30,5 kJ/mol; dinlenmedeki yetişkin günde 40 kg ATP tüketir."
+# kaynak: 1._Sınıf_1.2_Biyokimya_CTF_11_Bynrjtk_st_frndly2018.txt, 1._Sınıf_1.1_Biyokimya____2018.09.25__Biyokimyasal_Reaksiyonlar.txt

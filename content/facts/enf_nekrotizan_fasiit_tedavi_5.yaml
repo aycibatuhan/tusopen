@@ -1,0 +1,15 @@
+id: enf_nekrotizan_fasiit_tedavi_5
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: S. pyogenes ve klostridyal miyonekrozda temel rejim nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_nekrotizan_fasiit
+metin: Penisilin + klindamisin.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt, 5.sınıf_Enfeksiyon_Hastalıkları_DYDİ_2021Neşe_Saltoğlu.txt

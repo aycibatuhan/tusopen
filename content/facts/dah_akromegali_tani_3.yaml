@@ -1,0 +1,11 @@
+id: dah_akromegali_tani_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akromegalinin ilk tedavisi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_akromegali]
+metin: "Transsfenoidal cerrahi; deneyimli merkezlerde yaklaşık %50 remisyon."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Fonksiyonel_Hipofiz_Adenomlar_-.txt

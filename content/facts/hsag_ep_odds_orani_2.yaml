@@ -1,0 +1,11 @@
+id: hsag_ep_odds_orani_2
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Odds oranı 2x2 tabloda nasıl hesaplanır?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_epidemiyoloji, hs_ep_risk_olcutleri]
+metin: "ad/bc formülüyle; yorumu RR ile aynıdır."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD6_Göreli_Risk_ölçütleri_(RR__OR__AR__vb).txt

@@ -1,0 +1,11 @@
+id: nor_bos_fizyolojisi_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BOS nerede üretilir?"
+taksonomi:
+  - [ktbt, noroloji, noro_muayene_tani, noro_mt_bos]
+metin: "Koroid pleksuslarda (BOS'un %70-80'i)."
+# kaynak: 5.sınıf_Nöroloji_2020_Sekonder_BA.txt

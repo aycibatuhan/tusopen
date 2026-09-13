@@ -1,0 +1,14 @@
+id: gc_meme_enfeksiyon_mastit_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Mondor hastalığı nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_meme
+  - gc_meme_enfeksiyon
+metin: Torakoepigastrik/lateral torasik ven tromboflebiti; cilt retraksiyonu yapar.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Osman_Baran_Tortum_selim_meme_hastalıkları_7-8_ocak_2019.txt, 3._Sınıf_3.2_Genel_Cerrahi_MEMENİN_BENİGN_VE_MALİGN_HASTALIKLARININ_AYIRIMI.txt

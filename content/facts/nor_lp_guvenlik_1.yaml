@@ -1,0 +1,11 @@
+id: nor_lp_guvenlik_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "LP öncesi BT/göz dibi gerektiren durumlar nelerdir?"
+taksonomi:
+  - [ktbt, noroloji, noro_muayene_tani, noro_mt_bos]
+metin: "Belirgin papilödem, lateralize nörolojik bulgu, fokal SSS lezyonu şüphesi."
+# kaynak: 5.sınıf_Nöroloji_nörolojik_aciller_ders.txt

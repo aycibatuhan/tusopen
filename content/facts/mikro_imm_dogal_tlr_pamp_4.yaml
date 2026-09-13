@@ -1,0 +1,11 @@
+id: mikro_imm_dogal_tlr_pamp_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fagozomu yırtıp sitoplazmaya geçen bakteriler hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_dogal]
+metin: "Listeria, Shigella ve Rickettsia."
+# kaynak: Doğal_bağışıklık__mikropların_tanınması__mikropların_doğal_bağışıklıktan_kaçışı.txt, Hücre_aracılığı_ile_bağışık_yanıt.txt, 1-Antijen_yakalama_2020.txt

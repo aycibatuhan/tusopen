@@ -1,0 +1,11 @@
+id: der_atopik_dermatit_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Atopik stigmalar nelerdir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_egzema, derm_eg_atopik]
+metin: "Beyaz dermografizm, Dennie-Morgan çizgileri, keratozis pilaris, palmar hiperlinearite."
+# kaynak: 5.sınıf_Dermatoloji_ekzema_ders_ZAF.txt

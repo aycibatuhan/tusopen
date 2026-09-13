@@ -1,0 +1,14 @@
+id: genetik_gen_tedavisi_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Lentivirüs vektörünün avantajı nedir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: Nöron, makrofaj, kök hücre gibi bölünmeyen hücreleri transdükler; immun cevap yapmaz.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_Gen_tedavisi.txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_İleri_Hücre_Biyolojisi_Dersi_(Kanser).txt

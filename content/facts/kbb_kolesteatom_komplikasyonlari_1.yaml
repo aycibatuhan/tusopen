@@ -1,0 +1,11 @@
+id: kbb_kolesteatom_komplikasyonlari_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kolesteatomda BT'de önemli gösterge nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_orta_kulak, kbb_ok_kolesteatom]
+metin: "Kemik erozyonu, özellikle skutum."
+# kaynak: 5.sınıf_KBB_Deniz_Hoca_Ders_3._ORTA_KULAK_ENFEKSI_YO_Z_HASTALIKLARI.txt

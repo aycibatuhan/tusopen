@@ -1,0 +1,11 @@
+id: ort_osteoporoz_tipleri_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tip I (postmenopozal) osteoporozun özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_metabolik_kemik, orto_mk_osteoporoz]
+metin: "Estrojen kaybıyla, süngerimsi kemiği tutar; vertebra ve distal radius kırıkları klasiktir."
+# kaynak: 5.sınıf_Ortopedi_metabolic_bone_disease.txt

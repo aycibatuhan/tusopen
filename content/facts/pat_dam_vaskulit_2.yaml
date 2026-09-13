@@ -1,0 +1,10 @@
+id: pat_dam_vaskulit_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi vaskülitte c-ANCA pozitiftir?"
+taksonomi:
+  - [ttbt, patoloji, pat_kan_damarlari, pat_dam_vaskulit]
+metin: "Granülomatozis ile polianjit (Wegener); üst solunum yolu, akciğer, böbrek."

@@ -1,0 +1,10 @@
+id: mikro_mko_yuzeyel_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dermatofitlerde direkt mikoskopi ve tür ayrımı nasıl yapılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_yuzeyel]
+metin: "KOH preparatında dallanan hifler; dermatofit agar renk değişimi ve mikro-makrokonidi biçimiyle tür ayrımı."

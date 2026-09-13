@@ -1,0 +1,11 @@
+id: gog_masif_hemoptizi_esikler_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemoptizi miktar sınıflaması nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_klinik_sorunlar, gog_dk_hemoptizi]
+metin: "Hafif 30 ml altı (hemoptoik kraşa), orta 30-100, ciddi 100-600 ml/24 saat."
+# kaynak: 2._Sınıf_2.3_Göğüs_hastalıkları_Öksürük_balgam_hemoptizi_ders.txt, 5.sınıf_Göğüs_Hastalıkları_Solunum_Yolu_Acilleri.txt

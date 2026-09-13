@@ -1,0 +1,10 @@
+id: mikro_par_sitma_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sıtmanın vektörü hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_sitma]
+metin: "Anopheles cinsi dişi sivrisinek."

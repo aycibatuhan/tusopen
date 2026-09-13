@@ -1,0 +1,10 @@
+id: biyok_mol_translasyon_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aminoasil tRNA sentetazların görevi ve hatasının sonucu nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_translasyon]
+metin: "Amino asidi doğru tRNA'ya yükler; hata proteini yanlış katlanmaya götürür."

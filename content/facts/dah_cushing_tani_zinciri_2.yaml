@@ -1,0 +1,11 @@
+id: dah_cushing_tani_zinciri_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bazal ACTH Cushing sendromunda kaynağı nasıl ayırır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_cushing]
+metin: "10 pg/mL altı ACTH-bağımsız (adrenal); 15 pg/mL üzeri ACTH-bağımlıdır."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Fonksiyonel_Hipofiz_Adenomlar_-.txt, 3._Sınıf_3.4_İç_hastalıkları_hiperkortizolizm.txt

@@ -1,0 +1,10 @@
+id: farm_pd_ilac_etkilesimleri_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Varfarin kullanan hastaya NSAİ verilmesi?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakodinamik, farm_pd_ilac_etkilesimleri]
+metin: "Kanama riskini büyütür."

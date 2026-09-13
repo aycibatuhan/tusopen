@@ -1,0 +1,14 @@
+id: genetik_mayoz_profaz_rekombinasyon_1
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Crossing-over mayoz profaz I'in hangi evresinde olur?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_baglanti_ve_rekombinasyon
+metin: Pakiten (kardeş olmayan kromatidler arasında).
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_MAYOZ_BÖLÜNME_VE_GENETİK_REKOMBİNASYON_2019.txt

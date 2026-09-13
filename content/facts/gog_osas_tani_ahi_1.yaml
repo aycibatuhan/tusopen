@@ -1,0 +1,11 @@
+id: gog_osas_tani_ahi_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Polisomnografide apne tanımı nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_uyku, gog_uy_osas]
+metin: "Hava akımının en az 10 saniye boyunca %90 ve üzerinde azalması."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_osas_ders_Ersan.txt

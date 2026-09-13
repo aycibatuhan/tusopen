@@ -1,0 +1,11 @@
+id: ftr_diz_ayak_ozel_testleri_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dizde menisküs lezyonları hangi testlerle araştırılır?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_kas_iskelet_muayene]
+metin: "McMurray ve Apley testleriyle."
+# kaynak: 5.sınıf_FTR__Alt_ekstremite_fizik_muayenesi.txt

@@ -1,0 +1,14 @@
+id: genetik_digenik_heterojenite_1
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Digenik kalıtım nedir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_mendelian_kalitim
+metin: İki genin aynı hastalıkta birlikte rol alması; örnek retinitis pigmentosa.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_2_Non-Mendeliyen_Hastalıklar_2020.txt

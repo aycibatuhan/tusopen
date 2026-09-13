@@ -1,0 +1,11 @@
+id: dah_pankreatit_ranson_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut pankreatit tedavisi nasıldır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_akut_pankreatit]
+metin: "Oral beslenme kesilir, gerekirse nazogastrik aspirasyon ve yoğun sıvı-elektrolit desteği."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_Akut_ve_kronik_pankreatitler-4.Sınıf-Prof.Dr.Murat_TUNCER.txt

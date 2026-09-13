@@ -1,0 +1,11 @@
+id: kd_normal_menstruel_siklus_degerleri_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal menstrüel siklus aralığı ve kan kaybı nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_ureme_fizyolojisi, kd_uf_menstruel_siklus]
+metin: "Siklus 21-35 gün; kanama 2-7 gün; kayıp 20-80 mL."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ANORMAL_UTERUS_KANAMALARI.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_MENSTRUEL_SI_KLUS.txt

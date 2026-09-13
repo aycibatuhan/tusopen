@@ -1,0 +1,11 @@
+id: nor_ilaca_bagli_parkinsonizm_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alt beden yarısı parkinsonizmi neyi düşündürür?"
+taksonomi:
+  - [ktbt, noroloji, noro_hareket_bozukluklari, noro_hb_sekonder_parkinsonizm]
+metin: "MR'da yaygın ak madde lezyonlarıyla vasküler parkinsonizmi."
+# kaynak: 5.sınıf_Nöroloji_Hipokinetik_Hareket_Bozuklukları_dr_g_kiziltan.txt

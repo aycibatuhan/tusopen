@@ -1,0 +1,15 @@
+id: ped_hem_itp_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: ITP'de tedavi kararı nasıl verilir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_hematoloji
+  - ped_hem_itp
+metin: Trombosit sayısına değil klinik kanamaya bakılır; tipik eşik 10-20.000/mm3 altıdır, IVIG en hızlı yanıt verir.
+
+# kaynak: 4._Sınıf_Pediatri_Hilmi_Apak_2021_hemostaz-1.txt

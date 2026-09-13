@@ -1,0 +1,11 @@
+id: goz_presbiyopi_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Presbiyopinin patofizyolojisi nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_temel_muayene, goz_tm_akomodasyon_presbiyopi]
+metin: "Lensin elastikiyetinin azalması ve siliyer kas zayıflamasıyla akomodasyon gücünün düşmesidir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Lens_Hastalıkları_-_1.txt

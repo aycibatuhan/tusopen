@@ -1,0 +1,11 @@
+id: anes_beyin_olumu_tani_kriterleri_5
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Beyin ölümünde spinal reflekslerin varlığı ne anlama gelir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_beyin_olumu]
+metin: "Spinal refleksler, terleme veya diabetes insipidus beyin ölümünü dışlamaz."
+# kaynak: 4._Sınıf_Anestezi_2.txt

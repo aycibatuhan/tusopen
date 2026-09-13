@@ -1,0 +1,11 @@
+id: gog_silotoraks_ayirici_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şiliform (psödoşil) sıvının ayırıcı bulguları nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_silotoraks]
+metin: "Trigliserid yoktur; kolesterol 200 mg/dl üstü, kolesterol kristalleri görülür."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

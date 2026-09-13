@@ -1,0 +1,11 @@
+id: ftr_diz_ayak_ozel_testleri_4
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Morton nöroması hangi testle araştırılır?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_kas_iskelet_muayene]
+metin: "Metatars başları arasına basıyla parestezi yapan Mulder testiyle."
+# kaynak: 5.sınıf_FTR__Alt_ekstremite_fizik_muayenesi.txt

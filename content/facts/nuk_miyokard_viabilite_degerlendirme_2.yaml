@@ -1,0 +1,11 @@
+id: nuk_miyokard_viabilite_degerlendirme_2
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "FDG PET'te hibernasyon (canlı miyokard) bulgusu nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_kardiyak, nt_kd_viabilite]
+metin: "Perfüzyon bozuk, FDG tutulumu (glukoz metabolizması) korunmuş; revaskülarizasyondan yarar görür."
+# kaynak: 5.sınıf_Nükleer_Tıp_MPS_Türkçe_22-23.txt

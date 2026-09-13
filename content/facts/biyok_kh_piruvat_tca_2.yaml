@@ -1,0 +1,10 @@
+id: biyok_kh_piruvat_tca_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tiamin eksikliğinde pirüvat neden laktata sapar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_piruvat_tca]
+metin: "Kompleks çalışamaz; pirüvat laktata dönüşür, laktik asidoz gelişir."

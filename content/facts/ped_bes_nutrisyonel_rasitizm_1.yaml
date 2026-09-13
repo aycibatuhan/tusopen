@@ -1,0 +1,15 @@
+id: ped_bes_nutrisyonel_rasitizm_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Nutrisyonel (kalsiopenik) raşitizmin klinik bulguları nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_rasitizm
+metin: Kraniotabes, raşitik rozary, bilek genişlemesi, X/O bacak deformitesi, hipotoni, tetani ve hipokalsemik nöbet; radyografiyle doğrulanır.
+
+# kaynak: 4._Sınıf_Pediatri_Elvan_Bayramoğlu_Rikets_ve_D_vitamini_eksikliği_ders_4.txt

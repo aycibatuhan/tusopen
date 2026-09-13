@@ -1,0 +1,10 @@
+id: anat_bas_parotis_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Parotisin parasempatik sekretomotor yolu nasıldır?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_parotis]
+metin: IX. sinirle ganglion oticum'da sinaps, aurikulotemporal sinirle beze ulaşır.

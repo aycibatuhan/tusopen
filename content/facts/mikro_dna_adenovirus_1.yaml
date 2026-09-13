@@ -1,0 +1,11 @@
+id: mikro_dna_adenovirus_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adenovirüs nükleokapsidinin üç antijenik yapısının görevleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_adenovirus]
+metin: "Fiber tropizmi, penton hücre toksisitesini, hekzon yapısal antijenliği belirler."
+# kaynak: Adenovirus_parvo.txt

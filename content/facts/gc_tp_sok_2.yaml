@@ -1,0 +1,13 @@
+id: gc_tp_sok_2
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kanamalı şokta hipotansiyon hangi sınıfta ortaya çıkar?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_sok
+metin: Sınıf 3'te; sınıf 2'de taşikardi ve daralmış nabız basıncı vardır.

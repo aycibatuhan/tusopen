@@ -1,0 +1,11 @@
+id: fiz_kv_baroreseptor_refleks_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kan basıncı artınca baroreseptör refleksi nasıl yanıt verir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_arter_basinci]
+metin: "Kalp hızı, kalp debisi ve periferik direnç düşer; kısa süreli regülasyonun temelidir."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Kısa_süreli_Kan_Basıncı_Regülasyonu.txt

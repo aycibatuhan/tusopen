@@ -1,0 +1,13 @@
+id: histo_kas_duz_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Düz kas hücresinin yapısal özellikleri nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kas
+  - histo_kas_duz
+metin: İğ şeklinde, tek çekirdekli, çizgisiz ve sarkomersiz; filamentler dense plaka-cisimciklere bağlanır.

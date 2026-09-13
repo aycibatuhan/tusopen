@@ -1,0 +1,15 @@
+id: enf_septik_sok_tanim_mortalite_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Güncel tanımda sepsis nasıl tanımlanır ve mortalitesi nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_sepsis
+  - enf_sp_sepsis_tanim
+metin: SOFA skorundaki ≥2 puanlık artışla beliren organ disfonksiyonu; yatan hastada mortalite %10'un üzerindedir.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sepsise_Yaklaşım_3._sınıf_Türkçe.txt

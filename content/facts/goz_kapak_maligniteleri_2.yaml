@@ -1,0 +1,11 @@
+id: goz_kapak_maligniteleri_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bazal hücreli karsinomların yüzde kaçı kapaklarda yerleşir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_kapak_lakrimal, goz_kl_kapak_tumorleri]
+metin: "Baş-boyun yerleşimlerinin %10'u; %90 baş-boyun bölgesindedir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kapak_Hastalıkları.txt

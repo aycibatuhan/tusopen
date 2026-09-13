@@ -1,0 +1,10 @@
+id: fiz_sol_surfaktan_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Prematüre bebekte sürfaktan eksikliği ne yapar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_surfaktan]
+metin: "Solunum distres sendromuna yol açar."

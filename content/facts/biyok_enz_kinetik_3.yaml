@@ -1,0 +1,10 @@
+id: biyok_enz_kinetik_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lineweaver-Burk grafiğinde Km ve Vmax nereden okunur?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_kinetik]
+metin: "Doğrunun eksenleri kestiği noktalardan okunur."

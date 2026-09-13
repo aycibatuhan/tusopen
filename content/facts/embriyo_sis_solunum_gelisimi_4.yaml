@@ -1,0 +1,14 @@
+id: embriyo_sis_solunum_gelisimi_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akciğer gelişiminin dört evresi hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_solunum
+metin: Psödoglandüler (6-16. hafta), kanaliküler (16-26. hafta), terminal kese (26. hafta-8. ay), alveol evresi (8. ay-8. yaş).
+# kaynak: 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ_EMBRİYOLOJİSİ.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_Sisteminin_Gelişimi-I.txt

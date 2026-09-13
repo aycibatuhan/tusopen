@@ -1,0 +1,14 @@
+id: histo_epi_metaplazi_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Metaplazi nedir ve en yaygın yönü hangisidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_epitel
+  - histo_epi_ortu
+metin: Olgun bir epitel tipinin kalıcı irritan altında başka olgun tipe geri dönebilir dönüşmesi; en yaygın yönü prizmatikten yassıya geçiş.
+# kaynak: 1._Sınıf_1.3_Histoloji_2-3-4._Ders_-epitel_dokusu.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_sistemi_GIS_tabakalarıı_ve_özefagus.txt

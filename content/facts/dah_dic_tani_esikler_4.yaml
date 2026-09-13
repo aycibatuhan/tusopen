@@ -1,0 +1,11 @@
+id: dah_dic_tani_esikler_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kanayan DIC hastasında replasman ne zaman ve nasıl yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_dic]
+metin: "Trombosit 50x10^9/L altı, uzamış PZ/aPTZ veya fibrinojen 100 altında: taze donmuş plazma ve kriyopresipitat."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Yaygın_Damariçi_Pıhtılaşması-2020.txt

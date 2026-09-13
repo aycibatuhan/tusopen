@@ -1,0 +1,10 @@
+id: anat_ue_kol_sinirleri_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Radial sinir lezyonunun başlıca bulgusu?
+taksonomi:
+  - [ttbt, anatomi, anat_ust_ekstremite, anat_ue_kol_sinirleri]
+metin: Wrist drop (el bileği düşüklüğü); motor kusur baskındır.

@@ -1,0 +1,11 @@
+id: ort_toddler_kirigi_4
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Proksimal tibia ve distal femur suprakondiler kırıklarında hangi arterler risk altındadır?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_tibia_cisim]
+metin: "Proksimal tibiada popliteal arter, distal femurda femoral arter."
+# kaynak: 5.sınıf_Ortopedi_aksayan_çocuk.txt, 5.sınıf_Ortopedi_Complications_.txt

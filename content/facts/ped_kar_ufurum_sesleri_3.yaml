@@ -1,0 +1,15 @@
+id: ped_kar_ufurum_sesleri_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Orta diyastolik akım üfürümü ve devamlı üfürüm neyi gösterir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_ufurum
+metin: 'Orta diyastolik: ASD-VSD-PDA ve mitral yetersizliği; devamlı: PDA ve arteriovenöz fistüller.'
+
+# kaynak: 2._Sınıf_2.2_pediatri_kvmuayene2.txt

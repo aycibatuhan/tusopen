@@ -1,0 +1,11 @@
+id: kd_aub_palm_coein_5
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adölesan dönemde anovulasyonun en sık nedeni nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_amenore_bozukluklar, kd_am_anormal_uterin_kanama]
+metin: "Hipotalamik immatürite (~%90); Von Willebrand hastalığı akılda tutulmalıdır."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ANORMAL_UTERUS_KANAMALARI.txt

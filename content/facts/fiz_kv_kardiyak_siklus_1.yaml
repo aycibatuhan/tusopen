@@ -1,0 +1,10 @@
+id: fiz_kv_kardiyak_siklus_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Birinci ve ikinci kalp sesleri hangi kapak kapanmalarıyla oluşur?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kardiyak_siklus]
+metin: "S1 mitral-triküspid (sistol başı); S2 aort-pulmoner (diastol başı)."

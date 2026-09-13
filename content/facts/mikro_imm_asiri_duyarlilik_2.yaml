@@ -1,0 +1,10 @@
+id: mikro_imm_asiri_duyarlilik_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tüberkülin deri testi hangi aşırı duyarlılık tipine örnektir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_asiri_duyarlilik]
+metin: "Tip IV; gecikmeli T hücresi aracılıdır (temas dermatiti de)."

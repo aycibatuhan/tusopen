@@ -1,0 +1,11 @@
+id: uro_rcc_anjiyomiyolipom_1
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anjiyomiyolipomda BT tanı bulgusu nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_renal_hucre]
+metin: "Yağ dansitesi (10 HU'nun altı); tüberosklerozla birlikteliği klasiktir."
+# kaynak: 4._Sınıf_Üroloji_böbrek_tm_radyoloji.txt, 4._Sınıf_Üroloji_Böbrek_Tümörleri.txt

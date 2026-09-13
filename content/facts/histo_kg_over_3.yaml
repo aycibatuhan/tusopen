@@ -1,0 +1,13 @@
+id: histo_kg_over_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Antrum hangi folikül evresinde belirir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kadin_genital
+  - histo_kg_over
+metin: Sekonder folikülde; olgun folikülün çatlamasıyla oosit ovulasyonla dışarı verilir.

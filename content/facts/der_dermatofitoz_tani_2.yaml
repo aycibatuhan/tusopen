@@ -1,0 +1,11 @@
+id: der_dermatofitoz_tani_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dermatofitozda direkt mikroskopi hangi KOH konsantrasyonuyla yapılır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_dermatofitoz]
+metin: "%15-20 KOH ile lezyon kenarından kazıntıda hif ve sporlar aranır."
+# kaynak: 5.sınıf_Dermatoloji_SUPERFICIAL_FUNGAL_INFECTIONS.txt

@@ -1,0 +1,11 @@
+id: kbb_sinuzit_sure_tanimlari_4
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut-rekürren sinüzitte antibiyotik süresi ve hedef etken nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_paranazal_sinusler, kbb_ps_akut_sinuzit]
+metin: "En az 15 gün; birincil hedef S. pneumoniae."
+# kaynak: 5.sınıf_KBB_DERS_SİNÜZİTLER.txt

@@ -1,0 +1,11 @@
+id: gog_sft_obstruksiyon_restriksiyon_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Restriktif paternin kesin tanımlayıcı ölçütü nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_tani_yontemleri, gog_ty_sft]
+metin: "Pletismografik TLC'nin azalması; FVC düşerken FEV1-FVC normal kalır."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Kısa_Solunum_Fonksiyon_Testleri_2022-23_Ders_Bilun.txt

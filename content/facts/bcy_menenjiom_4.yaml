@@ -1,0 +1,11 @@
+id: bcy_menenjiom_4
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Menenjiomun öne çıkan etiyolojik ilişkileri nelerdir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_tumorler, bce_tm_menenjiom]
+metin: "NF-2 geni (kromozom 22q) ve iyonize radyasyon."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Tümörleri_II_T.T.txt

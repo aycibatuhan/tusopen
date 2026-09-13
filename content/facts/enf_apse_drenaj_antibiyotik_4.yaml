@@ -1,0 +1,15 @@
+id: enf_apse_drenaj_antibiyotik_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tekrarlayan apselerde ne yapılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_selulit_erizipel
+metin: '5 gün dekolonizasyon: klorheksidin banyosu ve nazal mupirosin.'
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_DYDİ_2021Neşe_Saltoğlu.txt

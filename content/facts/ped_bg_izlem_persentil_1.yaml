@@ -1,0 +1,15 @@
+id: ped_bg_izlem_persentil_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sağlıklı çocuk izlemi hangi sıklıkla yapılır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: İlk 6 ayda ayda bir, 6-24 ayda 3 ayda bir, 2-3 yaşta 6 ayda bir, 4 yaş sonrasında yılda bir.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜMENİN_DEĞERLENDİRİLMESİ_ve_İZLENMESİ-Sınıf_4.txt

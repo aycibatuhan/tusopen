@@ -1,0 +1,11 @@
+id: kbb_larinks_ca_2hafta_ses_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Supraglottik tümörlerde görülen kulak ağrısının mekanizması nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_larinks, kbb_lr_larinks_kanseri]
+metin: "Vagusun Arnold siniri yoluyla refleks otalji."
+# kaynak: 5.sınıf_KBB_LARENKS_MALİGN_TMLERİ_ABK.txt

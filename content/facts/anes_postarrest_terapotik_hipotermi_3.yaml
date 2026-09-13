@@ -1,0 +1,11 @@
+id: anes_postarrest_terapotik_hipotermi_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Terapötik hipotermi kimlerde uygulanır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_resusitasyon, anes_rs_post_arrest]
+metin: "Sponten dolaşım dönen ve postanoksik ensefalopati gelişen hastalarda (düzey 1 koruyucu tedavi)."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Kardiyopulmner_resüsitasyon4_sınıf_ders.txt

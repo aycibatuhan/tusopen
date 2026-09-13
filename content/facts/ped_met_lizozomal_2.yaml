@@ -1,0 +1,14 @@
+id: ped_met_lizozomal_2
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Gaucher hastalığında eksiklik ve tipik bulgular nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_lizozomal
+metin: Beta-glukoserebrozidaz eksikliği; buruşuk kâğıt görünümlü hücreler, hepatosplenomegali, kemik krizleri; enzim replasmanı mevcut.
+

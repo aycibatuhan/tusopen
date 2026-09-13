@@ -1,0 +1,11 @@
+id: dah_tumor_belirtecleri_psa_germ_hucre_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AFP yüksekliği gösteren 'seminom' olgusunda ne düşünülmeli?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_tumor_belirtecleri]
+metin: "Karışık germ hücreli tümör; saf seminom ve koryokarsinomda AFP salgılanmaz."
+# kaynak: 4._Sınıf_Dahiliye_Onkoloji_Cigdem_Papila_ders_kanserde_tani.txt

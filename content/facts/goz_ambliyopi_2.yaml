@@ -1,0 +1,11 @@
+id: goz_ambliyopi_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tek taraflı körlüğün en sık nedeni nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_sasilik_pediatrik, goz_sp_ambliyopi]
+metin: "Ambliyopi; sıklığı %1-4 ve 20 yaş altında görme kaybı 10 kat fazladır."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Şaşılık.DERS_-_Kopya.txt

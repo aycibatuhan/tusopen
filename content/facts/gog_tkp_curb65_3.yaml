@@ -1,0 +1,11 @@
+id: gog_tkp_curb65_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pnömonide yoğun bakım yatış kriterleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_toplum_pnomoni]
+metin: "Tek majör (invaziv ventilasyon, vazopressörlü şok) ya da üç ve üzeri minör kriter."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_pnömoni.txt

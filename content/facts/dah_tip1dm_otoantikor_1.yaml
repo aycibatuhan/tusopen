@@ -1,0 +1,11 @@
+id: dah_tip1dm_otoantikor_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tip 1 diyabette hangi otoantikorlar bakılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diyabet_siniflama]
+metin: "ICA, IAA, anti-GAD, IA-2 ve ZnT8; yeni tanıda anti-GAD %55-85 pozitiftir."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Tip1DM.txt

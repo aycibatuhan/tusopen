@@ -1,0 +1,10 @@
+id: fiz_sinir_spinal_refleks_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Golgi tendon organı refleksi nasıl çalışır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_spinal_refleks]
+metin: "1b afferenti ara nöron üzerinden inhibitör refleksle aşırı gerilme altında gevşeme sağlar."

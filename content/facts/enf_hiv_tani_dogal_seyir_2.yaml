@@ -1,0 +1,15 @@
+id: enf_hiv_tani_dogal_seyir_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Perkütan mesleki yaralanmada ve mukozal temasta HIV bulaş riski kaçtır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hiv
+  - enf_hiv_tani_seyir
+metin: Perkütan yaralanmada %0.3, mukozal veya sağlam olmayan deri temasıyla %0.09.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_HIV_enfeksiyonu_(türkçe).txt

@@ -1,0 +1,11 @@
+id: anes_beyin_olumu_tani_kriterleri_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Beyin ölümünde ikinci muayene aralıkları nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_beyin_olumu]
+metin: "2 ay altı 48 saat, 2 ay-1 yaş 24 saat, 1 yaş üstü 12 saat."
+# kaynak: 4._Sınıf_Anestezi_2.txt

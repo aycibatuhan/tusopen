@@ -1,0 +1,10 @@
+id: biyok_enz_klinik_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Makroamilazemide idrar amilazı neden düşüktür?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_klinik]
+metin: "Amilaz makromoleküllere bağlandığından böbrekten atılamaz, idrar amilazı düşük kalır."

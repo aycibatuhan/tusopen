@@ -1,0 +1,11 @@
+id: kbb_adenoid_kistik_perinoral_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adenoid kistik karsinomun tipik özelliği nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_tukuruk_bezleri, kbb_tb_malign_tumorler]
+metin: "Perinöral invazyon; %30 fasiyal paralizi yapar."
+# kaynak: 5.sınıf_KBB_myener_Tükrük_Bezi_Hastalıkları_ders.txt

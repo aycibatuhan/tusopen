@@ -1,0 +1,13 @@
+id: embriyo_gen_ikizler_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 13. günden sonra bölünen monozigot ikizlikte risk nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_ikizler
+metin: Yapışık ikizlik.

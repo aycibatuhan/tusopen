@@ -1,0 +1,15 @@
+id: enf_kpc_tedavi_mik_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: KPC-Klebsiella tedavisinde yeni seçenek ajanlar hangileridir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hastane_enfeksiyonlari
+  - enf_he_direncli_mikroorganizma
+metin: Seftazidim-avibaktam, sefiderokol ve plazomisin.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotik_2019.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt

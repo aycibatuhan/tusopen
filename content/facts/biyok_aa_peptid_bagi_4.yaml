@@ -1,0 +1,11 @@
+id: biyok_aa_peptid_bagi_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ninhidrin reaksiyonunda ne ölçülür?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_yapi]
+metin: "570 nm'de mavi bileşik; mikrogram düzeyinde amino asit tayini."
+# kaynak: 1._Sınıf_1.1_Biyokimya_2018.10.23__Aminoasitler_2018.txt

@@ -1,0 +1,21 @@
+last_reviewed: '2026-09-09'
+id: gc_safra_tokyo18_2
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-2
+sources:
+- Kiriyama S ve ark. Tokyo Guidelines 2018 — akut kolanjitte tanı kriterleri ve şiddet derecelendirme (J Hepatobiliary Pancreat Sci, 2018)
+- Yokoe M ve ark. Tokyo Guidelines 2018 — akut kolesistitte tanı kriterleri ve şiddet derecelendirme (J Hepatobiliary Pancreat Sci, 2018)
+- Miura F ve ark. Tokyo Guidelines 2018 — akut kolanjit ve kolesistit yönetim akış şemaları (J Hepatobiliary Pancreat Sci, 2018)
+- Metin projesi özgün yazımdır; kılavuz adları referans olarak listelenmiştir
+ad: TG18 kolanjit Grade II kriterleri nelerdir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_safra_yollari
+  - gc_sy_koledokolitiazis_kolanjit
+- - ktbt
+  - genel_cerrahi
+  - gc_safra_yollari
+  - gc_sy_kolelitiazis
+metin: 'Beş kriterden ikisi: lökosit 12.000/4.000, ateş >39, yaş >75, bilirubin >5, albümin <3.'

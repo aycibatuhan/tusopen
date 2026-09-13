@@ -1,0 +1,11 @@
+id: pat_gis_vaskuler_mekanik_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut transmural enfarktün tipik klinik özelliği nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_gis, pat_gis_vaskuler_mekanik]
+metin: "Şiddetli ağrıyla orantısız fizik muayene; mortalite %50'yi aşar."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Patoloji_GİS_5_10_haziran_2020_son.txt

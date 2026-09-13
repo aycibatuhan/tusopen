@@ -1,0 +1,11 @@
+id: biyok_oxfos_kemiosmoz_po_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kemiosmotik hipotez neyi tanımlar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_biyoenerjetik, biyok_be_oksidatif_fosforilasyon]
+metin: "Komplekslerin pompaladığı protonlar proton-itici güç oluşturur; sistemler yalnız gradyanla bağlanır."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Ezel_Uslu_Oksidatif_Fosforilasyon_ATP_EZEL_USLU.txt, 1._Sınıf_1.2_Biyokimya_Ezel_Uslu_Oksidatif_Fosforilasyon_Solunum_Zinciri_2016_EZEL_USLU.txt

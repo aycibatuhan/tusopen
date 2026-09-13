@@ -1,0 +1,10 @@
+id: fiz_kv_mikrodolasim_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ödeme yol açan üç temel neden nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_mikrodolasim]
+metin: "Kapiller hidrostatik basınç artışı, plazma protein azalması, lenf drenajının engellenmesi."

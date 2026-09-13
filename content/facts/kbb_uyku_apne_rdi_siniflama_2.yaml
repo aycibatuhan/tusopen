@@ -1,0 +1,11 @@
+id: kbb_uyku_apne_rdi_siniflama_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "OSAS tanı eşiği (RDI) nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_uyku_apne]
+metin: "Uykuda saatte 5 veya daha fazla apne/hipopne."
+# kaynak: 5.sınıf_KBB_İRFAN_PAPİLA_ENT_OSAS_İ.P..txt

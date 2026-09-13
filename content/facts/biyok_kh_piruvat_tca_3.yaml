@@ -1,0 +1,10 @@
+id: biyok_kh_piruvat_tca_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Arsenik pirüvat dehidrogenazı nasıl baskılar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_piruvat_tca]
+metin: "Lipoik asidin iki sülfhidril grubuna bağlanarak."

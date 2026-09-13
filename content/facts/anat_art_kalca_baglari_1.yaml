@@ -1,0 +1,11 @@
+id: anat_art_kalca_baglari_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Kalça eklemi hangi tiptedir ve neyle derinleştirilir?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_kalca]
+metin: Spheroid; caput femoris ile facies lunata arasında, labrum acetabuli ile derinleştirilir.
+# kaynak: 2._Sınıf_2.1_Anatomi_2.1_Alt_taraf_eklemleri_2019-20.txt

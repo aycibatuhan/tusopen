@@ -1,0 +1,11 @@
+id: fiz_hucre_ap_dereceli_farklar_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "EPSP ve IPSP oluşturan transmitterler hangileridir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_membran_potansiyeli]
+metin: "EPSP: glutamat, asetilkolin, noradrenalin; IPSP: glisin ve GABA."
+# kaynak: 10-Eksitasyon_olayları._(2._Ders)_SİBEL.txt, 12-.Uyarılmanın_İyonik_Temelleri_SIBEL_25.Subat.2019.txt

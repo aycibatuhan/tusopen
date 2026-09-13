@@ -1,0 +1,11 @@
+id: kbb_konusma_odyometrisi_akustik_refleks_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Konuşmayı ayırt etme oranı hangi şiddette ölçülür?"
+taksonomi:
+  - [ktbt, kbb, kbb_kulak_muayene_isitme, kbb_km_odyoloji]
+metin: "SRT üzerine 40 dB eklenmiş şiddette."
+# kaynak: 5.sınıf_KBB_Ahmet_ATAŞ_ODYOLOJİK_kavramlar.txt

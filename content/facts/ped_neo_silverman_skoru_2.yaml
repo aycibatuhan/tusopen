@@ -1,0 +1,15 @@
+id: ped_neo_silverman_skoru_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- 4._Sınıf_Pediatri_Mehmet_Vural_yd_solunum_sıkıntısı-kısa.txt, 3._Sınıf_3.2_Pediatri_Yenidoğan_Primer_Bakımı.txt
+ad: Silverman-Andersen skoru nasıl yorumlanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_solunum_sikintisi
+metin: Beş parametre 0-2 puanlanır; toplam 0 sıkıntı yok, 1-5 hafif, 6-8 orta, 8-10 ağır solunum sıkıntısı.
+
+# kaynak: 4._Sınıf_Pediatri_Mehmet_Vural_yd_solunum_sıkıntısı-kısa.txt, 3._Sınıf_3.2_Pediatri_Yenidoğan_Primer_Bakımı.txt

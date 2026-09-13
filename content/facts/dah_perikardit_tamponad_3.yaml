@@ -1,0 +1,11 @@
+id: dah_perikardit_tamponad_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pulsus paradoxus nasıl tanımlanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_kardiyovaskuler, dah_kv_perikardit]
+metin: "İnspiryumda sistolik basıncın 10 mmHg'den fazla düşmesi."
+# kaynak: 2._Sınıf_2.2_kardiyoloji_27perikardit_8_söm.txt

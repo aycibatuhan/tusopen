@@ -1,0 +1,15 @@
+id: ped_hem_anemi_esikler_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Retikülosit düzeyi anemi yaklaşımında neyi gösterir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_hematoloji
+  - ped_hem_anemi_yaklasim
+metin: Düşüklüğü yapım bozukluğunu, artışı hemoliz veya kanamayı gösterir; makrositikte B12-folat, mikrositikte demir testleri ve elektroforez.
+
+# kaynak: 4._Sınıf_Pediatri_Hilmi_Apak_2021-dersNutrisyonel_Anemiler.txt

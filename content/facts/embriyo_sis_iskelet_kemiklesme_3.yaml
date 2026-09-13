@@ -1,0 +1,14 @@
+id: embriyo_sis_iskelet_kemiklesme_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İlk görünen sekonder kemikleşme merkezleri hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_iskelet_kas
+metin: İntrauterin hayatın son ayında femur distal ve tibia proksimal epifizleri; plak ~20 yaşta kapanır.
+# kaynak: 2._Sınıf_2.1_Histoloji_iskelet_sistemi_gelişimi.txt

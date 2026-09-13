@@ -1,0 +1,14 @@
+id: genetik_od_risk_danismanlik_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Linkage analizinin koşulları nelerdir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_danismanlik
+metin: Informatif aile ve yakın marker varlığı.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_Genetik_Danışma_TÜRKÇE.txt

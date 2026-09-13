@@ -1,0 +1,11 @@
+id: dah_iskemik_kolit_bulgulari_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İskemik kolitte erken direkt grafi bulgusu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_iskemik_barsak]
+metin: "Thumbprinting (başparmak izi); 48 saat içinde kaybolabilir."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_mesenteric_ischemia-lecture_4.class_2020_AFC2-son.txt

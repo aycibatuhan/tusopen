@@ -1,0 +1,11 @@
+id: mikro_brucella_tani_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Brucella serolojisinde çapraz reaksiyon yapan etkenler hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_brucella]
+metin: "Yersinia enterocolitica, Vibrio cholerae ve Francisella tularensis."
+# kaynak: Brucella_cinsi_bakteriler.txt

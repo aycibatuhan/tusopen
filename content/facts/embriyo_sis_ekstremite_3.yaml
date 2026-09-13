@@ -1,0 +1,13 @@
+id: embriyo_sis_ekstremite_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Talidomidin uzuv kısalığı mekanizması nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_ekstremite
+metin: Anti-anjiyojenik etkisi (kereblon-SALL4 yolu).

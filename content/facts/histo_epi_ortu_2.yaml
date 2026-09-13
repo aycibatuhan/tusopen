@@ -1,0 +1,13 @@
+id: histo_epi_ortu_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Seröz kavite yüzeylerini döşeyen epitel hangisidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_epitel
+  - histo_epi_ortu
+metin: Mezotelyum.

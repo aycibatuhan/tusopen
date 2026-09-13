@@ -1,0 +1,11 @@
+id: dah_addison_tani_tedavi_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adrenal yetmezlik tanısında hızlı ACTH testi nasıl yorumlanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_addison]
+metin: "250 µg sinakten IV sonrası kortizolün 20 µg/dL'ye ulaşamaması adrenal yetmezliği gösterir."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_hipokortizolizm.txt

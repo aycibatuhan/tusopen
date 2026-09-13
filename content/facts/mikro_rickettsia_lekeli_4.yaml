@@ -1,0 +1,11 @@
+id: mikro_rickettsia_lekeli_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rickettsial çiçeğin (riketsiyal çiçek) etkeni ve vektörü nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_rickettsia]
+metin: "R. akari; akar vektörlüdür, bazen suçiçeğiyle karışır."
+# kaynak: Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

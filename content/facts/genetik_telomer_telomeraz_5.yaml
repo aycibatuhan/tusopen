@@ -1,0 +1,14 @@
+id: genetik_telomer_telomeraz_5
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Telomeraz aktivitesi hangi hücrelerde sürer?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_dna_yapi_repasyon
+metin: Germ, embriyonik, hematopoetik kök ve kanser hücreleri.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_5.Ders_DNA_Replikasyonu_(M_Güven_2018-2019).txt, 1._Sınıf_1.2_Tıbbi_Biyoloji_Kromatin_ve_Kromozom_Yapısı_(2018-19_Güz-M_Güven).txt, 1._Sınıf_1.2_Tıbbi_Biyoloji_HÜCRESEL_YAŞLANMA_13.12._2018.txt

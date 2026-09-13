@@ -1,0 +1,11 @@
+id: mikro_gb_ekzotoksin_etki_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şarbon toksininin üç bileşeninin görevleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_toksinler]
+metin: "Protektif antijen hücreye giriş, ödem faktörü cAMP artışı, letal faktör hücre ölümünden sorumludur."
+# kaynak: Endotoksin-Ekzotoksin.txt, Bakteri_ve_İnsan.txt

@@ -1,0 +1,11 @@
+id: kd_jinekolojik_malignite_taramasi_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sitoloji ve HPV DNA testi birlikte kullanıldığında tarama aralığı?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_jinekolojik_onkoloji, kd_jo_servikal_tarama]
+metin: "Normal sonuç sonrasında 3 yıla uzatılabilir; yalnız sitolojide yıllıktır."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_preinvaziv_serviks_3_sınıf_ders-2._bölüm.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_preinvaziv_serviks_3_sınıf_ders-4._bölüm.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Gynecologic_cancer_2019.txt

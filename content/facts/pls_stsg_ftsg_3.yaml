@@ -1,0 +1,11 @@
+id: pls_stsg_ftsg_3
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Split greftte neler fazladır ve hangi yataklarda tercih edilir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yara_ve_doku, pce_yd_greft_ve_flap]
+metin: "Sekonder kontraksiyon ve pigmentasyon; vaskülaritesi düşük yataklarda tutma şansı daha yüksektir."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Greftler_ve_Flepler.txt

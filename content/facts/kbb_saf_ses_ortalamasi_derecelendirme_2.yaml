@@ -1,0 +1,11 @@
+id: kbb_saf_ses_ortalamasi_derecelendirme_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SSO -10-15 dB ve 16-40 dB ne anlama gelir?"
+taksonomi:
+  - [ktbt, kbb, kbb_kulak_muayene_isitme, kbb_km_odyoloji]
+metin: "Normal işitme ve çok hafif işitme kaybı."
+# kaynak: 5.sınıf_KBB_Ahmet_ATAŞ_ODYOLOJİK_kavramlar.txt

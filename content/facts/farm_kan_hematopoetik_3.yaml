@@ -1,0 +1,11 @@
+id: farm_kan_hematopoetik_3
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pernisiyöz anemide B12 nasıl verilir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kan, farm_kan_hematopoetik]
+metin: "Siyanokobalamin intramüsküler, ömür boyu."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.4_Farmakoloji_2.4_Farmakoloji_01_Antianemik_İlaçlar.Sibel_ÖZYAZGAN.txt

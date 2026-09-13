@@ -1,0 +1,11 @@
+id: dah_kml_ph_bcrabl_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "KML'de T315I mutasyonunda hangi ilaçlar kullanılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_kml]
+metin: "Ponatinib ve miyristoil cebine bağlanan asciminib."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_KML-KLL_Türkçe_-_AEE_2021.txt

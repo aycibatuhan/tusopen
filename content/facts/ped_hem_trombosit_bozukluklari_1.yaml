@@ -1,0 +1,15 @@
+id: ped_hem_trombosit_bozukluklari_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Primer ve sekonder hemostaz bozukluğu klinik olarak nasıl ayrışır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_hematoloji
+  - ped_hem_hemofili_vwd
+metin: Primerde peteşi-purpura, erken kanama, baskıyla durma; sekonderde hematom-hemartroz, gecikmeli kanama, aile öyküsü sıktır.
+
+# kaynak: 4._Sınıf_Pediatri_Hilmi_Apak_2021_hemostaz-1.txt

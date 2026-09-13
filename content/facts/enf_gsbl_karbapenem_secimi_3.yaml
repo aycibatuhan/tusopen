@@ -1,0 +1,15 @@
+id: enf_gsbl_karbapenem_secimi_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Karbapeneme dirençli E. coli ve Klebsiella infeksiyonunda mortalite kaçtır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_direnc
+metin: Karbapeneme dirençli E. coli ve Klebsiella infeksiyonlarında mortalite %30'u aşar.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotik_2019.txt

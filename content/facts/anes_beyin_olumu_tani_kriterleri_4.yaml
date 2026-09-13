@@ -1,0 +1,11 @@
+id: anes_beyin_olumu_tani_kriterleri_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anoksik beyin ölümlerinde ikinci muayene ne zaman yapılır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_beyin_olumu]
+metin: "24 saat sonra yapılır."
+# kaynak: 4._Sınıf_Anestezi_2.txt

@@ -1,0 +1,11 @@
+id: anes_la_farmakoloji_maks_doz_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lokal anesteziklerde ester-amid ayrımı metabolizmada nasıl belirlenir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_rejyonal, anes_ra_lokal_anestezikler]
+metin: "Esterler plazma esterazlarıyla (PABA allerji yapar), amidler karaciğer mikrozomal enzimlerinde."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_LA_Ders_FA_Eylül_2021.txt

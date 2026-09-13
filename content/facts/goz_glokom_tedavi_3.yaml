@@ -1,0 +1,11 @@
+id: goz_glokom_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glokom filtrasyon cerrahisi ve şant örnekleri nelerdir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_glokom, goz_gl_tedavi]
+metin: "Trabekülektomi; Ahmed, Krupin, Molteno şant/valv implantları."
+# kaynak: 5.sınıf_Göz_Hastalıkları_GLOKOM-ÖĞRENCİ_DERSİ_2015.txt

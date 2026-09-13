@@ -1,0 +1,11 @@
+id: fiz_kas_ec_baglantisi_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kas gevşemesinde kalsiyumu SR'ya geri getiren mekanizma nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_iskelet]
+metin: "SERCA pompası; kalsekuestrin Ca++'yu 10.000 kat yoğunlaştırarak depolar."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_Kas_fizyolojisi_2._ve_3._Ders_2019.txt

@@ -1,0 +1,14 @@
+id: gc_tir_hipertiroidi_tedavi_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hipertiroidinin en sık nedenleri hangileridir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_bas_boyun_tiroid
+  - gc_tir_hipertiroidi_cerrahi
+metin: Graves hastalığı, toksik multinodüler guatr, soliter toksik adenom.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Serkan_Teksöz_HİPERTİROİDİ_2020.txt

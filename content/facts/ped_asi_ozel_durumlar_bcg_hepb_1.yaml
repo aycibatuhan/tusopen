@@ -1,0 +1,15 @@
+id: ped_asi_ozel_durumlar_bcg_hepb_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 3 aydan büyük bebeğe BCG uygulaması nasıl yapılır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_asilar_koruyucu
+  - ped_asi_ozel_durumlar
+metin: Önce tüberkülin (5 TU, 48-72 saatte okunur); endürasyon <5 mm ise BCG 0,05 mL deri içi verilir.
+
+# kaynak: 3._Sınıf_3.5_Pediatri_Çocuklarda_Rutin_aşılama_ve_Temel_prensiper_-Sınıf_3.txt

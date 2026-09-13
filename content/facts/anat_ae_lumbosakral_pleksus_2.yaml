@@ -1,0 +1,10 @@
+id: anat_ae_lumbosakral_pleksus_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Sakral pleksustan çıkan sinirler ve kökleri?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_lumbosakral_pleksus]
+metin: Siyatik (L4-S4; en kalın), üst gluteal (L4-S1), alt gluteal (L5-S2), pudendal (S2-S4).

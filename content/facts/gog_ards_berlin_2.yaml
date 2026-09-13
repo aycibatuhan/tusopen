@@ -1,0 +1,11 @@
+id: gog_ards_berlin_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ARDS Berlin şiddet sınıflaması hangi orana göre yapılır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_solunum_yetmezligi, gog_sy_ards]
+metin: "PEEP 5 cmH2O üstünde PaO2/FiO2: hafif 200-300, orta 100-200, ağır 100 ve altı."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Solnum_yetmezliği__Oksijen_tedavisi.txt

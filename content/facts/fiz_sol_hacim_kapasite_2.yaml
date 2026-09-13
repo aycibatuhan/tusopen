@@ -1,0 +1,11 @@
+id: fiz_sol_hacim_kapasite_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fonksiyonel rezidüel kapasite ve rezidüel hacim değerleri nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_volumler]
+metin: "FRC 2500-3000 ml (kapasitenin yüzde 40'ı); rezidüel hacim 1200 ml."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

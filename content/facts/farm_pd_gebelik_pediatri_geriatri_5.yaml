@@ -1,0 +1,11 @@
+id: farm_pd_gebelik_pediatri_geriatri_5
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sütte iyon tuzağı nedir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakodinamik, farm_pd_gebelik_pediatri_geriatri]
+metin: "Süt asidiktir (pH ~7,08); bazik ilaçlar (lityum, kloramfenikol, opioidler) toplanır."
+# kaynak: 1._Sınıf_1.4_Farmakoloji_İlaçların_Toksik_Tesirleri_öğrenci.txt, 1._Sınıf_1.4_Farmakoloji_İLAÇLARIN_ATILIMI_-Ders_Sunu.txt

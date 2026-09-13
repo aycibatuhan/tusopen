@@ -1,0 +1,11 @@
+id: anes_tyd_kompresyon_parametreleri_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "TYDde kompresyon uygulayan kişi ne zaman değişir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_resusitasyon, anes_rs_temel_yasam]
+metin: "Her 2 dakikada bir değiştirilir."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Kardiyopulmner_resüsitasyon4_sınıf_ders.txt

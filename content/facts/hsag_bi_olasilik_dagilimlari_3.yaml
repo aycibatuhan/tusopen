@@ -1,0 +1,11 @@
+id: hsag_bi_olasilik_dagilimlari_3
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Poisson dağılımın ortalama-varyans ilişkisi nedir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_dagilimlar]
+metin: "İkisi de birbirine eşittir (ikisi de λ=Np); standart sapma λ'nın karekökü."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_4.Olasilik_Dagilimlari.txt

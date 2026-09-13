@@ -1,0 +1,11 @@
+id: mikro_vibrio_tani_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "V. vulnificus hangi hastalarda ölümcül sepsis yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_vibrio]
+metin: "Kronik karaciğer hastalarında yüzde 50 mortaliteli primer sepsis; yüzde 70inde ağrılı cilt lezyonu."
+# kaynak: Vibrio1.txt

@@ -1,0 +1,11 @@
+id: adli_paraquat_ve_talyum_3
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Talyum zehirlenmesinin tipik bulguları nelerdir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_klinik_adli_durumlar, adl_kd_zehirlenme_adli]
+metin: "Saç-kirpik kaybı, kıllarda siyah tabaka, karaciğer ve tübüler böbrek nekrozu."
+# kaynak: 5.sınıf_Adli_Tıp_ADLİ_TOKSİKOLOJİ_PROF._DR._İBRAHİM_ÜZÜN.txt

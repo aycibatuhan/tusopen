@@ -1,0 +1,11 @@
+id: adli_parsomen_plagi_3
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Postmortem sıvı kaybı kimin matürite değerlendirmesini yanıltır?"
+taksonomi:
+  - [ktbt, adli_tip, adl_yara_balistik, adl_yb_yasam_belirtileri]
+metin: "Yenidoğan; belirgin ağırlık azalmasına yol açar, yetişkinde önemli etkilemez."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_BELİRTİLERİ_-_1_PROF._DR._SERMET_KOÇ.txt

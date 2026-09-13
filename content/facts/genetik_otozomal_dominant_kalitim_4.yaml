@@ -1,0 +1,14 @@
+id: genetik_otozomal_dominant_kalitim_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akondroplazinin ve Marfan'ın sorumlu genleri?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_mendelian_kalitim
+metin: Akondroplazi FGFR3; Marfan FBN1 (15. kromozom).
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_1_Mendeliyan_Hastalıklar_2020_2021.txt, 3._Sınıf_3.2_Tıbbi_genetik_Genetik_Danışma_TÜRKÇE.txt

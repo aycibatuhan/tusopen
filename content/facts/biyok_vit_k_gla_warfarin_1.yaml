@@ -1,0 +1,11 @@
+id: biyok_vit_k_gla_warfarin_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "K vitamini hangi faktörleri ve nasıl aktifleştirir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_yagda_eriyen]
+metin: "II, VII, IX ve X'in glutamatlarını gama-karboksiglutamata karboksillar; kalsiyum bağlanması sağlanır."
+# kaynak: 1._Sınıf_1.2_Biyokimya_VİTAMİNLER_2018.txt

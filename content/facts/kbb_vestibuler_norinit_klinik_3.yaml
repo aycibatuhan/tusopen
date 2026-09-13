@@ -1,0 +1,11 @@
+id: kbb_vestibuler_norinit_klinik_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vestibüler nörinitte kalorik test bulgusu nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_ic_kulak, kbb_ik_vestibuler_norit]
+metin: "Tutulan tarafta parsiyel veya tam kanal parezisi."
+# kaynak: 5.sınıf_KBB_myener_vest_sistem.txt, 5.sınıf_KBB_KBB_acilleri.txt

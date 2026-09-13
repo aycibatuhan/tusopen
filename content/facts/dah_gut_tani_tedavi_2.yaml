@@ -1,0 +1,11 @@
+id: dah_gut_tani_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Atak sırasında ürik asit düzeyi güvenilir midir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_gut]
+metin: "%20 olguda normal olabilir; hiperürisemi sınırı erkekte 7, kadında 6 mg/dL."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_kristal_artrit.txt

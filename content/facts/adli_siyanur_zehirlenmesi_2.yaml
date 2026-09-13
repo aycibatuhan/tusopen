@@ -1,0 +1,11 @@
+id: adli_siyanur_zehirlenmesi_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Siyanür zehirlenmesinde karakteristik koku nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_klinik_adli_durumlar, adl_kd_zehirlenme_adli]
+metin: "Acıbadem kokusu; toplumun ~%20'si bu kokuyu alamaz."
+# kaynak: 5.sınıf_Adli_Tıp_ADLİ_TOKSİKOLOJİ_PROF._DR._İBRAHİM_ÜZÜN.txt

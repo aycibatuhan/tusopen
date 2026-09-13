@@ -1,0 +1,11 @@
+id: ort_pelvis_kirigi_mortalite_4
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sakral kırıklarda nörolojik hasar hangi zonda en yüksektir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_pelvis_kirigi]
+metin: "Zone 3'te %60'a ulaşır; transvers kırıklar en ciddi patern."
+# kaynak: 5.sınıf_Ortopedi_Travmatik_kalça_çıkıkları_ve_pelvis_kırıkları.txt

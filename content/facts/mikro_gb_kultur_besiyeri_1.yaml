@@ -1,0 +1,11 @@
+id: mikro_gb_kultur_besiyeri_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İn vitro kültürde üretilmeyen bakteriler hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_tani_yontemleri]
+metin: "Treponema pallidum ve M. leprae in vitro üretilmez."
+# kaynak: bakteri_metabolizma__kültür__tanımlama.txt

@@ -1,0 +1,11 @@
+id: dah_klinefelter_sendromu_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Primer (hipergonadotropik) hipogonadizmin en sık nedeni nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipogonadizm]
+metin: "Klinefelter sendromu (47,XXY); erkek doğumlarda 1/500-600."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Erkek_Reprodüktif_Sistem_Hst.txt

@@ -1,0 +1,15 @@
+id: ped_neo_izoimmun_hemoliz_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Rh hemolitik hastalığında koruma nasıl sağlanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_hemolitik_hastalik
+metin: Rh negatif annelere 2. trimesterde anti-D immünglobulin verilir.
+
+# kaynak: 4._Sınıf_Pediatri_Zeynep_Alp_Ünkar_Neonatal_Hiperbilirubinemi.txt

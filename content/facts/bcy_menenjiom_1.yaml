@@ -1,0 +1,11 @@
+id: bcy_menenjiom_1
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Menenjiomun kökeni ve demografik özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_tumorler, bce_tm_menenjiom]
+metin: "Araknoid şapka hücrelerinden ekstraaksiyel; 50-60 yaş, kadın/erkek 2/1, pediatrik tümörlerin %2'si."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Tümörleri_II_T.T.txt

@@ -1,0 +1,11 @@
+id: anes_kristaloid_secimi_sivi_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erişkinde perioperatif idame sıvısı nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_sivi_kan, anes_sk_sivi_tedavisi]
+metin: "Saatte 1-1,5 mL/kg idame dozudur."
+# kaynak: 4._Sınıf_Anestezi_3.txt

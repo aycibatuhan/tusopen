@@ -1,0 +1,10 @@
+id: fiz_bob_gfr_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Filtrasyon fraksiyonu nedir ve normalde yüzde kaçtır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_gfr]
+metin: "Filtre edilen renal plazma akımı oranı; yaklaşık yüzde 20."

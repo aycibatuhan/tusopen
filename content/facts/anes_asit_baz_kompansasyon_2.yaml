@@ -1,0 +1,11 @@
+id: anes_asit_baz_kompansasyon_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anyon gap formülü ve normal değeri nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_sivi_kan, anes_sk_asit_baz]
+metin: "[Na] − ([Cl] + [HCO3]); normalde 8-16 (ortalama 12) mEq/L."
+# kaynak: 4._Sınıf_Anestezi_2.txt, 4._Sınıf_Anestezi_Özlem_asit_baz.txt

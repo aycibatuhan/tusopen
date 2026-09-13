@@ -1,0 +1,11 @@
+id: dah_hipoglisemi_ipple_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Açlık testinde insülinomayı işaret eden bulgu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipoglisemi]
+metin: "Glukoza bağımsız beklenmedik yüksek insülin ve buna bağlı ciddi hipoglisemi."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Hipoglisemiler.txt

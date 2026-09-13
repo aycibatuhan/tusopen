@@ -1,0 +1,14 @@
+id: gc_pan_kronik_pankreatit_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kronik pankreatitin en sık nedeni nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_pankreas
+  - gc_pan_kronik_pankreatit_cerrahi
+metin: Alkol (>150 g/gün).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Mehmet_Velidedeoğlu_Kronik_pankreatit_4._sınıf_mehmet_v.txt

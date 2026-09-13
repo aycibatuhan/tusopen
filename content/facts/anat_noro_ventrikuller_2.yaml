@@ -1,0 +1,10 @@
+id: anat_noro_ventrikuller_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: BOS 4. ventrikülden subaraknoid aralığa nereden çıkar?
+taksonomi:
+  - [ttbt, anatomi, anat_noroanatomi, anat_noro_ventrikuller]
+metin: Foramen Luschka (lateral) ve foramen Magendie (median) yoluyla; araknoid granülasyonlarla üst sagital sinüse emilir.

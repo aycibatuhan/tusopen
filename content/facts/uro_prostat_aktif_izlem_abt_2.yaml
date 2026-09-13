@@ -1,0 +1,11 @@
+id: uro_prostat_aktif_izlem_abt_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Metastatik prostat kanserinde altın standart tedavi nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_prostat_kanseri]
+metin: "Bilateral orşiektomi (androjen baskılama esastır)."
+# kaynak: 4._Sınıf_Üroloji_PROSTATEkanserturkce-dönüştürüldü.txt

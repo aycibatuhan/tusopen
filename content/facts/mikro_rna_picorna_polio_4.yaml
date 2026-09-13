@@ -1,0 +1,11 @@
+id: mikro_rna_picorna_polio_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Polio aşılarının kapsadığı serotip sayısı kaçtır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_picorna]
+metin: "Her iki aşı da üç serotipi kapsar."
+# kaynak: 7-Picornaviridea_2020.txt

@@ -1,0 +1,11 @@
+id: dah_addison_tani_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut adrenal krizde ilk tedavi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_addison]
+metin: "Hızlı ACTH testi ertelenip hemen IV hidrokortizon 100 mg başlanır."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_hipokortizolizm.txt

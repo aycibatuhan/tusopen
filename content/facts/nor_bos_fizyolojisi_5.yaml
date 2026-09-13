@@ -1,0 +1,11 @@
+id: nor_bos_fizyolojisi_5
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yatar pozisyonda normal intrakraniyal basınç nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_muayene_tani, noro_mt_bos]
+metin: "Ortalama 150 mm H2O (70-200 mm H2O)."
+# kaynak: 5.sınıf_Nöroloji_2020_Sekonder_BA.txt

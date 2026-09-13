@@ -1,0 +1,10 @@
+id: anes_ga_inhalasyon_3
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Anesteziyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kan/gaz çözünürlük katsayısı neyi belirler?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_genel_anestezi, anes_ga_inhalasyon]
+metin: "İndüksiyon ve derlenme hızını; katsayı düşükse (N2O 0.47, desfluran 0.42) hızlıdır."

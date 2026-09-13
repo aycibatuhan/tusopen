@@ -1,0 +1,11 @@
+id: kd_normal_menstruel_siklus_degerleri_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Luteal ve foliküler faz süreleri nasıl değişir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_ureme_fizyolojisi, kd_uf_menstruel_siklus]
+metin: "Luteal sabit 12-16 gün (14±2); foliküler değişken 7-21 gün."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ANORMAL_UTERUS_KANAMALARI.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_MENSTRUEL_SI_KLUS.txt

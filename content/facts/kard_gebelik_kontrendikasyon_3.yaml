@@ -1,0 +1,11 @@
+id: kard_gebelik_kontrendikasyon_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebeliğin önerilmediği LV disfonksiyon eşikleri nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_ozel_durumlar, kard_od_gebelik]
+metin: "Ciddi LV disfonksiyonu (mWHO IV): NYHA III-IV semptom varlığı ya da EF <%30."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

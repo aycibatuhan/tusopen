@@ -1,0 +1,11 @@
+id: dah_hemofili_siddet_doz_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemofili şiddet sınıflaması nasıl yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_hemofili]
+metin: "Ağır FVIII ≤%1 (spontan kanama), orta %1-5, hafif %5 üzeri."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Hemofili_ve_vonWillebrand_Hastalığı.mcemar.4.sınıf.2020.txt

@@ -1,0 +1,11 @@
+id: ort_oa_ozellikleri_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteoartritin radyolojik bulguları nelerdir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_eklem_dejeneratif, orto_ek_osteoartrit]
+metin: "Osteofit, eklem aralığı daralması, skleroz ve deformite."
+# kaynak: 5.sınıf_Ortopedi_Degenerative_Joint_Disease_GK.txt

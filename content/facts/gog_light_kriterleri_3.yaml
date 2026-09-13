@@ -1,0 +1,11 @@
+id: gog_light_kriterleri_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Transüda yapan başlıca durumlar nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_efuzyon]
+metin: "Konjestif kalp yetmezliği, konstriktif perikardit, siroz, nefrotik sendrom, miksödem."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

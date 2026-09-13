@@ -1,0 +1,11 @@
+id: dah_ra_tani_mtx_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RA'da metotreksat nasıl kullanılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_romatoid_artrit]
+metin: "Haftada tek gün 10-15 mg başlanıp 20-25 mg'a çıkılır; folik asit desteği verilir."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_RomatoidArtrit_Nisan2020.txt

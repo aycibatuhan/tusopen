@@ -1,0 +1,11 @@
+id: der_herpes_zoster_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Zonada antiviral tedavi ne zaman başlanmalıdır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_viral, derm_vr_herpes]
+metin: "Döküntü başlangıcından itibaren 72 saat içinde (asiklovir 5x800, valasiklovir 3x1000 mg, 7 gün)."
+# kaynak: 5.sınıf_Dermatoloji_viral_yeni.txt

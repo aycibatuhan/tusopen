@@ -1,0 +1,11 @@
+id: nor_se_basamakli_tedavi_4
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SE'de levetirasetamın IV dozu nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_epilepsi, noro_ep_status]
+metin: "60 mg/kg (maksimum 4500 mg)."
+# kaynak: 5.sınıf_Nöroloji_staj_tedavi_2022_o_g_renci_kopya.txt

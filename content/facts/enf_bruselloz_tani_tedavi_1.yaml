@@ -1,0 +1,15 @@
+id: enf_bruselloz_tani_tedavi_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bruselloz tanısının temeli nedir ve ne kadar sürede ürer?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_bruselloz
+metin: Kan kültürü; klasik yöntemle ~3 hafta, otomatize sistemlerde 3-7 gün.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_BRUSELLOZ_3._SINIF_(1).txt

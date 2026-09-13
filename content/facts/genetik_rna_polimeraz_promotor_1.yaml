@@ -1,0 +1,14 @@
+id: genetik_rna_polimeraz_promotor_1
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ökaryot RNA polimerazlarının ürünleri nelerdir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_gen_ekspresyonu
+metin: Pol I rRNA, Pol II mRNA, Pol III tRNA ve 5S rRNA.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_7._ders_Gen_ekspresyonunun_kontrolü_19_şubat_2019_öğrenci.txt

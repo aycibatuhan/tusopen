@@ -1,0 +1,11 @@
+id: der_impetigo_ektima_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İmpetigoda poststreptokoksik glomerülonefrit sıklığı nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bakteriyel, derm_bk_impetigo_folikulit]
+metin: "Yaklaşık %2 olguda; tedaviyle 10 gün içinde iyileşme eğilimi vardır."
+# kaynak: 5.sınıf_Dermatoloji_ZK-PİYODERMA.txt, 5.sınıf_Dermatoloji_DERİNİN_ELEMANTER_LEZYONLARI__ZAF.txt

@@ -1,0 +1,10 @@
+id: pat_inf_yara_iyilesmesi_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Granülasyon dokusunun bileşenleri nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_yara_iyilesmesi]
+metin: "Proliferatif fibroblastlar, yeni kılcal damarlar, ekstraselüler matriks, iltihap hücreleri."

@@ -1,0 +1,11 @@
+id: kbb_konusma_odyometrisi_akustik_refleks_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akustik refleks hangi kasta ve hangi şiddette oluşur?"
+taksonomi:
+  - [ktbt, kbb, kbb_kulak_muayene_isitme, kbb_km_odyoloji]
+metin: "M. stapedius; uyaran şiddeti işitme eşiğinin 80-85 dB üstünde olduğunda oluşur."
+# kaynak: 5.sınıf_KBB_Ahmet_ATAŞ_ODYOLOJİK_kavramlar.txt

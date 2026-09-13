@@ -1,0 +1,15 @@
+id: ped_bes_ek_gida_basamaklar_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ek gıdada kıvam basamakları nasıl ilerler?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_ek_gida_formula
+metin: 6. ay püre kaşıkla; 7. ay pürtüklü ve et/karaciğer; 8. ay kaba pürtüklü ve parmak besinleri; 9-12 ay kendi kendine beslenme.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_YAPAY_ve_KARIŞIK_BESLENME-TAMAMLAYICI_BESİNLER-OKUL_ÇOCUĞU_VER_ADOLESAN_BESLENMESİ-_Sınıf_4.txt

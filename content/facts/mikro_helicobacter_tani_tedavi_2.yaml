@@ -1,0 +1,11 @@
+id: mikro_helicobacter_tani_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "H. pylori kültürünün özgüllüğü ve önemi nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_campylobacter_helicobacter]
+metin: "%100 özgüllük; antibiyotik duyarlılığı için altın standarttır."
+# kaynak: 3-_Helico_(Tanı__Tedavi__Korunma)___Mycoplasma.txt

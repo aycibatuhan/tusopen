@@ -1,0 +1,11 @@
+id: uro_parafimoz_acil_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Parafimozda hangi risk vardır?"
+taksonomi:
+  - [ktbt, uroloji, uro_acil_ve_travma, uro_at_parafimoz_fimoz]
+metin: "Sıkışan halkanın distalinde perfüzyon bozulur ve nekroz riski doğar."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt

@@ -1,0 +1,11 @@
+id: dah_itp_tani_tedavi_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ITP'de hızlı yanıt gerektiğinde ne kullanılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_trombositopeni]
+metin: "IVIG 5 gün boyunca günde 400 mg/kg ya da 1 g/kg, 2 gün."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Trombositopeni_4._sınıf-2020.txt

@@ -1,0 +1,11 @@
+id: gog_bag_dokusu_akciger_tablo_4
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Polimiyozit-dermatomiyozit ve Sjögren'de akciğer tutulum oranları?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_bag_dokusu]
+metin: "PM-DM'de NSIP-UIP ~%45; Sjögren'de xerotrachea ~%40."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_sistemik_hastalıklar_ve_akciğer_ders.txt

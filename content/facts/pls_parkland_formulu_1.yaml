@@ -1,0 +1,11 @@
+id: pls_parkland_formulu_1
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yanık şoku nasıl gelişir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yanik, pce_ya_resusitasyon]
+metin: "Kapiller permeabilite artışına bağlı plazma kaybıyla gelişen hipovolemik tablodur; tedavi edilmezse ölümcüldür."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Yanık-DERS-2020.txt

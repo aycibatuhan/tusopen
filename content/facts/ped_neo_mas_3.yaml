@@ -1,0 +1,15 @@
+id: ped_neo_mas_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Mekonyum aspirasyon sendromunda koruma ve ilk tedavi adımı nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_mekonyum_ttn
+metin: İlk soluktan önce endotrakeal aspirasyon; ağır tabloda ventilasyon, surfaktan, nitrik oksit, gerektiğinde ECMO.
+
+# kaynak: 4._Sınıf_Pediatri_Mehmet_Vural_yd_solunum_sıkıntısı-kısa.txt

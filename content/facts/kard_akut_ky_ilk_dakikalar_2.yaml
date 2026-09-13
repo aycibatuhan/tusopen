@@ -1,0 +1,11 @@
+id: kard_akut_ky_ilk_dakikalar_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut KKYde SKB <85 mmHg ise yaklaşım nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_akut]
+metin: "IV sıvı verilip kritik bakım ünitesine alınarak vazopressör başlanır."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

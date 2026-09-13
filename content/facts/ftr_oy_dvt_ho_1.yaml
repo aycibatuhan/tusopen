@@ -1,0 +1,11 @@
+id: ftr_oy_dvt_ho_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Omurilik yaralanmasında DVT insidansı ve tromboprofilaksi zamanlaması nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_omurilik_komplikasyonlari]
+metin: "%48-100; profilaksi ilk 72 saatte başlanıp 2-3 ay sürdürülmelidir."
+# kaynak: 5.sınıf_FTR_OYRehab.txt

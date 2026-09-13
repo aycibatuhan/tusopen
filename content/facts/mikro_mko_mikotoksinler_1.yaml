@@ -1,0 +1,11 @@
+id: mikro_mko_mikotoksinler_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aflatoksin B1 hangi mekanizmayla hepatosellüler karsinoma yol açar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_genel]
+metin: "Mikrozomal oksidasyonla oluşan AFB1-2,3 epoksitin DNA-ya kovalent bağlanmasıyla."
+# kaynak: Mikotoksinler.txt

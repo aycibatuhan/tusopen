@@ -1,0 +1,11 @@
+id: mikro_giardia_tani_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Giardiazis tedavisinde öncelikli ilaç hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_barsak_protozoa]
+metin: "Metronidazol; 5-nitroimidazol türevleri ve albendazol seçeneklerdir."
+# kaynak: Sindirim_kanalı_protozoonları_2.txt

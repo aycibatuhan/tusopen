@@ -1,0 +1,11 @@
+id: dah_pnomoni_curb65_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Toplum kökenli pnömonide yoğun bakım endikasyonu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gogus, dah_gog_pnomoni]
+metin: "Tek majör ölçüt; yoksa en az iki minör ölçüt gerekir."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_PNÖMONİLER_2.txt

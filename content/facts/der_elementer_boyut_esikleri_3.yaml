@@ -1,0 +1,11 @@
+id: der_elementer_boyut_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vezikül ile bülü ayıran boyut eşiği nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_temel, derm_tm_elemanter_lezyonlar]
+metin: "Sıvılı kabarıklıkta 0,5 cm altı vezikül, 0,5-1 cm üzeri bül."
+# kaynak: 5.sınıf_Dermatoloji_DERİNİN_ELEMANTER_LEZYONLARI__ZAF.txt, 3._Sınıf_3.0_SEMPTOMLAR_VE_DERMATOLOJİK_UYGULAMALAR.txt

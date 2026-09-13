@@ -1,0 +1,10 @@
+id: biyok_kh_glikojen_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pompe hastalığının enzim kusuru ve öne çıkan bulgusu nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_glikojen]
+metin: "Lizozomal alfa glukozidaz eksikliği; kardiyomegali öne çıkar."

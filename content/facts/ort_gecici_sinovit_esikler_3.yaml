@@ -1,0 +1,11 @@
+id: ort_gecici_sinovit_esikler_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Geçici sinovit ile septik artrit aspirasyonla nasıl ayrılır?"
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_gecici_sinovit]
+metin: "Septik artritte lökosit sayısı ve PMNL oranı belirgin yükselir."
+# kaynak: 5.sınıf_Ortopedi_aksayan_çocuk.txt

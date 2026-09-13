@@ -1,0 +1,11 @@
+id: anat_sirt_suboksipital_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Trigonum suboccipitale'nin sınırları hangi kaslardır?
+taksonomi:
+  - [ttbt, anatomi, anat_sirt_omurga, anat_sirt_suboksipital]
+metin: Üstte rectus capitis posterior major, dışyanda obliquus capitis superior, altta obliquus capitis inferior.
+# kaynak: 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_1.txt, 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_2.txt, 3._Sınıf_3.3_Anatomi_3-3_Boyun_Topografik_Anatomisi.txt

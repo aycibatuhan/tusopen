@@ -1,0 +1,10 @@
+id: biyok_lip_eikozanoid_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lökotrienlerin klinik önemi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_eikozanoid]
+metin: "Güçlü bronkospazm; aspirin duyarlı astım atağını tetikler."

@@ -1,0 +1,10 @@
+id: farm_km_protein_sentez_3
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "50S alt üniteyi bloke eden antibiyotikler?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kemoterapotik, farm_km_protein_sentez]
+metin: "Makrolidler ve kloramfenikol; bakteriostatik."

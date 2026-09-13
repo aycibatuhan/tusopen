@@ -1,0 +1,11 @@
+id: anat_sirt_disk_hernisi_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Nucleus pulposus en sık hangi yöne fıtıklaşır?
+taksonomi:
+  - [ttbt, anatomi, anat_sirt_omurga, anat_sirt_kolumna]
+metin: Posterolateral; arkada dışyan lig. longitudinale posterius desteği yoktur.
+# kaynak: 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_2.txt

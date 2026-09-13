@@ -1,0 +1,11 @@
+id: mikro_shigella_dizanteri_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Shigella enfeksiyonunda hemolitik-üremik sendrom nasıl gelişir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_shigella]
+metin: "Toksinin endotel hasarına bağlıdır; toksin enterotoksik, sitotoksik ve nörotoksiktir."
+# kaynak: Salmonella_Shigella_Yersinia_(2).txt

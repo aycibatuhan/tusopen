@@ -1,0 +1,11 @@
+id: dah_hiperkalsemi_ayirici_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PTH yüksekliğiyle seyreden hiperkalsemi nedenleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hiperparatiroidi]
+metin: "Primer/tersiyer hiperparatiroidi, bazı maligniteler ve ailesel hipokalsiürik hiperkalsemi."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_kalsiyumhomeostazivemetabolikkemik.txt

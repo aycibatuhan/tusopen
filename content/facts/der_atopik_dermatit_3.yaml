@@ -1,0 +1,11 @@
+id: der_atopik_dermatit_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çocukluk çağı atopik dermatidinin tipik yerleşimi neresidir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_egzema, derm_eg_atopik]
+metin: "Antekubital ve popliteal fossaların likenifiye fleksural ekzemasıdır."
+# kaynak: 5.sınıf_Dermatoloji_ekzema_ders_ZAF.txt

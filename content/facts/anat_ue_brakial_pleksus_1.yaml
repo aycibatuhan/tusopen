@@ -1,0 +1,49 @@
+id: anat_ue_brakial_pleksus_1
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Erb-Duchenne palsisi hangi köklerde olur, pozisyonu?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_ust_ekstremite
+  - anat_ue_brakial_pleksus
+metin: C5-C6 üst gövde; bekçi pozisyonu (omuz iç rotasyon-addüksiyon, dirsek ekstansiyon, pronasyon).
+gorsel:
+  dosya: Brachial_plexus_color.svg
+  kaynak: https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg
+  lisans: CC BY-SA 3.0
+  yazar: 'Selket (original Brachial plexus.svg); derivative work: mcstrother (Marshall Strother)'
+  etiketler:
+  - ad: Kökler (C5-T1)
+    x: 84
+    y: 15
+    w: 9
+    h: 61
+  - ad: Gövdeler (trunkler)
+    x: 75
+    y: 16
+    w: 9
+    h: 59
+  - ad: Divizyonlar
+    x: 61
+    y: 16
+    w: 13
+    h: 59
+  - ad: Kordlar (lateral-posterior-medial)
+    x: 33
+    y: 16
+    w: 22
+    h: 59
+  - ad: Muskulokutanöz sinir
+    x: 1
+    y: 5
+    w: 14
+    h: 10
+  - ad: Ulnar sinir
+    x: 1
+    y: 69
+    w: 12
+    h: 8

@@ -1,0 +1,11 @@
+id: kard_pe_wells_instabilite_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PEde hemodinamik instabilite tanımı nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_aort_periferik, kard_ap_venoz_tromboembolizm]
+metin: "Kardiyak arrest, obstrüktif şok veya ≥15 dakika hipotansiyon (SKB <90 veya ≥40 mmHg düşüş)."
+# kaynak: 5.sınıf_Kardiyoloji_Pulmoner_emboli_dersim_2021.txt

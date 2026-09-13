@@ -1,0 +1,11 @@
+id: goz_senil_katarakt_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nükleer ve arka subkapsüler kataraktın görme etkileri nasıl ayrılır?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_lens, goz_ln_senil_katarakt]
+metin: "Nükleer uzak görmeyi bozar ve yalancı miyopi yapar; arka subkapsüler yakın görmeyi ve kamaşma yapar."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Lens_Hastalıkları_-_2.txt

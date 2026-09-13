@@ -1,0 +1,14 @@
+id: gc_her_umbilikal_insizyonel_5
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Epigastrik herninin özellikleri nelerdir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_herni
+  - gc_her_umbilikal_insizyonel
+metin: Erkeklerde sık; küçük çaplılarda inkarsere olma riski yüksektir.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Pınar_Kocael_Karın_duvarı_fıtıkları.txt

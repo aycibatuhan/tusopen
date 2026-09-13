@@ -1,0 +1,10 @@
+id: biyok_aam_hem_sentez_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hem sentezi hangi kompartmanlarda ilerler?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_hem_sentez]
+metin: "Mitokondriden sitozole (porfobilinojen), geri mitokondriye; protoporfirin + demirle hem tamamlanır."

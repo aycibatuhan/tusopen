@@ -1,0 +1,10 @@
+id: fiz_bob_raas_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anjiotensin 2'nin başlıca etkileri hangileridir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_raas]
+metin: "Vazokonstriksiyon, aldosteron salgısı, ADH uyarısı ve susama hissi."

@@ -1,0 +1,15 @@
+id: ped_bes_ek_gida_basamaklar_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bebek ne zaman aile sofrasına alınır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_ek_gida_formula
+metin: 1 yaşından itibaren; yemekler tuzsuz ve baharatsız hazırlanır.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_YAPAY_ve_KARIŞIK_BESLENME-TAMAMLAYICI_BESİNLER-OKUL_ÇOCUĞU_VER_ADOLESAN_BESLENMESİ-_Sınıf_4.txt

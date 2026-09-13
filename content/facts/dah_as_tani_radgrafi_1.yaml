@@ -1,0 +1,11 @@
+id: dah_as_tani_radgrafi_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnflamatuvar bel ağrısının özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_ankilozan_spondilit]
+metin: "3 aydan uzun, gece ikinci yarısında belirgin, sabah tutukluğu 30 dakikayı aşar, NSAİİ'ye yanıt verir."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_Spondiloartritler.txt

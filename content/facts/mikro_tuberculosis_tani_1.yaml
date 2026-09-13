@@ -1,0 +1,11 @@
+id: mikro_tuberculosis_tani_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Balgam yaymasının pozitif olması için gerekli basil sayısı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_tuberculosis]
+metin: "ml'de 5000-10000 basil ve preparatta en az üç aside dirençli basil."
+# kaynak: Mycobacterium_tuberculosis.txt

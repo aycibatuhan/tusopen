@@ -1,0 +1,11 @@
+id: farm_oss_kolinerjik_agonist_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Betanekolün özellikleri?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otonom, farm_oss_kolinerjik_agonist]
+metin: "Esteraza dirençli, nikotinik etkisiz; atonik mesanede miksiyon sağlar."
+# kaynak: 2._Sınıf_2.2_Farmakoloji_Otonom_SS.txt, 2._Sınıf_2.2_Farmakoloji_43_Autonomic_Pharmacology_cholinergic_agonists.txt

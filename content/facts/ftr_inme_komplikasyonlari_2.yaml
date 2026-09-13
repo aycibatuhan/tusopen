@@ -1,0 +1,11 @@
+id: ftr_inme_komplikasyonlari_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Profilaksi yapılmayan inmeli hastada DVT ve pulmoner emboli oranları nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_inme]
+metin: "DVT %75, pulmoner emboli %15; mortal emboli %1-2."
+# kaynak: 5.sınıf_FTR_İnmeRehab.txt

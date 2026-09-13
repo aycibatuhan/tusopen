@@ -1,0 +1,11 @@
+id: ort_femur_diafiz_kankaybi_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çocukta femur şaft kırığı tedavisi yaşa göre nasıl seçilir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_femur_cisim]
+metin: "1 yaş altı Pavlik bandajı, 1-6 yaş pelvipedal alçı, 6-13 yaş fleksibl çivi, 15 yaş üzeri ve erişkinde 8 mm'den kalın çivi."
+# kaynak: 5.sınıf_Ortopedi_FEMUR_KIRIKLARI.txt, 5.sınıf_Ortopedi_Ortopedi_ve_Travmatoloji_de_Radyolojik_Değerlendirme.txt

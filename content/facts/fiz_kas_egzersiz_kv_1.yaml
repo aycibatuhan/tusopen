@@ -1,0 +1,11 @@
+id: fiz_kas_egzersiz_kv_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İzotonik egzersizde basınç ve direnç nasıl değişir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_egzersiz]
+metin: "Sistolik orta derecede artar, diyastolik değişmez; metabolik vazodilatasyon direnci düşürür."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Egzersiz___Kroner.txt, 2._Sınıf_2.3_Fizyoloji_2019_Solunum_2._Bölüm.txt

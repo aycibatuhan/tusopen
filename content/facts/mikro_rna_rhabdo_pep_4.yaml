@@ -1,0 +1,11 @@
+id: mikro_rna_rhabdo_pep_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Isırma ve tırmalamada kuduz bulaş riskleri nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_rhabdo]
+metin: "Isırmada yüzde 40, tırmalamada yüzde 1; küçük kemirgenler ve tavşanlar bulaştırmaz."
+# kaynak: Rabdovirus_(kuduz).txt

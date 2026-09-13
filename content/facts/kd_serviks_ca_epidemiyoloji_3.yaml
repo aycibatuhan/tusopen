@@ -1,0 +1,11 @@
+id: kd_serviks_ca_epidemiyoloji_3
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adenoma malignum nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_jinekolojik_onkoloji, kd_jo_serviks_kanseri]
+metin: "Adenokarsinomun aşırı iyi diferansiyeli varyantı (minimal deviasyon adenokarsinomu)."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Gynecologic_cancer_2019.txt

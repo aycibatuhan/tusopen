@@ -1,0 +1,11 @@
+id: anat_ost_yuz_lefort_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Le Fort II kırığı nasıl seyreder?
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_yuz]
+metin: Maksillayı nazal bölgeyle birlikte ayıran piramidal kırıktır.
+# kaynak: 3._Sınıf_3.3_Anatomi_YÜZÜN_TOPOGRAFİK_ve_KLİNİK_ANATOMİSİ_-_III_17.02.2021_12_(1).txt

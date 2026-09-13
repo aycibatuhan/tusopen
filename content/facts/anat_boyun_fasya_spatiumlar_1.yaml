@@ -1,0 +1,11 @@
+id: anat_boyun_fasya_spatiumlar_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Tiroid bezinin cerrahi kapsülünü hangi fasya katmanı verir?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_fasya]
+metin: Fascia cervicalis'in lamina pretrachealis'i verir.
+# kaynak: 3._Sınıf_3.3_Anatomi_3-3_Boyun_Topografik_Anatomisi.txt, 3._Sınıf_3.3_Anatomi_Tiroid-paratiroid_anatomisi.txt

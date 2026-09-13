@@ -1,0 +1,11 @@
+id: nuk_spect_pet_emitter_degerleri_2
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "In-111 ve Ga-67'nin yarı ömür ve enerji özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_temel, nt_tm_goruntuleme_cihazlari]
+metin: "In-111 67 saat/171-245 keV; Ga-67 ~78 saatte 90-180-270-390 keV çoklu pik yayımı."
+# kaynak: 5.sınıf_Nükleer_Tıp_CTF_Staj-intro_send.txt, 5.sınıf_Nükleer_Tıp_CTF_Staj-tümörsintigrafisi-2022.txt, 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

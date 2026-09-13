@@ -1,0 +1,11 @@
+id: psik_sizofreni_dsm_sure_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şizofrenide DSM-5 belirti ve süre ölçütü nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikotik, psik_ps_sizofreni]
+metin: "Belirtilerden en az 2'si (ilk üçünden biri zorunlu), en az 1 ay."
+# kaynak: 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt

@@ -1,0 +1,11 @@
+id: gog_akciger_absesi_yonetim_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aspirasyon sonrası akciğer absesinde kavite ne zaman gelişir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_aspirasyon_abse]
+metin: "Aspirasyondan 7-14 gün sonra; nekroz, kavite ve hava-sıvı seviyesi."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer.absesi.V.txt

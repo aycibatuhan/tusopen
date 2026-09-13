@@ -1,0 +1,15 @@
+id: ped_gog_tbc_tedavi_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Standart tüberküloz tedavi şeması nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_tuberkuloz
+metin: Akciğer TBC, lenfadenit ve hafif akciğer dışı TBC'de ilk 2 ay HRZ, ardından 4 aylık HR.
+
+# kaynak: 4._Sınıf_Pediatri_Ayşe_Ayzıt_Kılınç_tbc_ders_4._sınıf_.txt

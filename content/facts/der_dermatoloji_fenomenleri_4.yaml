@@ -1,0 +1,11 @@
+id: der_dermatoloji_fenomenleri_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çivi belirtisi hangi hastalıkta saptanır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_temel, derm_tm_tani_yontemleri]
+metin: "Kutanöz leishmaniasiste; yapışık kabuğun altındaki dikensi epidermik uzantılar."
+# kaynak: 5.sınıf_Dermatoloji_DERİNİN_ELEMANTER_LEZYONLARI__ZAF.txt, 5.sınıf_Dermatoloji_psoriasis.txt, 5.sınıf_Dermatoloji_ZK-Paraziter_hastalıklar10.txt

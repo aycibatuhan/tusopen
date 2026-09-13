@@ -1,0 +1,11 @@
+id: der_psoriasis_tetikleyici_klinik_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Psoriasiste kazıma belirtileri nelerdir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_papuloskuamoz, derm_ps_psoriasis]
+metin: "Mum lekesi, ince zar belirtisi ve Auspitz belirtisi (noktasal kanamalar)."
+# kaynak: 5.sınıf_Dermatoloji_psoriasis.txt, 5.sınıf_Dermatoloji_ZK-Psoriasis_and_Psoriasiform_diseases.txt

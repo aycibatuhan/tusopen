@@ -1,0 +1,11 @@
+id: kbb_sialolityazis_submandibuler_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut süpüratif sialadenitte en sık etken nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_tukuruk_bezleri, kbb_tb_sialadenit]
+metin: "S. aureus (mekanizma: tükrük stazı ve retrograd yayılım)."
+# kaynak: 5.sınıf_KBB_myener_Tükrük_Bezi_Hastalıkları_ders.txt

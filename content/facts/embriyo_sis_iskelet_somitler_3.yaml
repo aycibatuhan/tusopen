@@ -1,0 +1,14 @@
+id: embriyo_sis_iskelet_somitler_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi somitler daha sonra kaybolur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_iskelet_kas
+metin: İlk oksipital ve son 5-7 koksigeal çiftler.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_EMBRİYONİK_DÖNEM-IR.txt, 2._Sınıf_2.1_Histoloji_iskelet_sistemi_gelişimi.txt, 2._Sınıf_2.1_Histoloji_KAS_SİSTEMİ_GELİŞİMİ.txt

@@ -1,0 +1,11 @@
+id: anat_ue_clavipectorale_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Fascia clavipectorale'yi hangi yapılar deler?
+taksonomi:
+  - [ttbt, anatomi, anat_ust_ekstremite, anat_ue_aksilla]
+metin: V. cephalica, a. thoracoacromialis dalları ve n. pectoralis lateralis delerek geçer.
+# kaynak: 3._Sınıf_3.3_Anatomi_ders_2_ust_top_deltoid_axilla_-_2021.txt

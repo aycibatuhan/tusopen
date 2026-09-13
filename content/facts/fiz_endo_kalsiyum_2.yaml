@@ -1,0 +1,10 @@
+id: fiz_endo_kalsiyum_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Paratiroid hormonunun kemik, böbrek ve D vitamini üzerindeki etkileri nelerdir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_kalsiyum]
+metin: "Kemikten Ca çıkarır; böbrekte Ca emilimini artırır, fosfat atılımını çoğaltır, aktif D vitamini yapımını hızlandırır."

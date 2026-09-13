@@ -1,0 +1,11 @@
+id: mikro_listeria_monocytogenes_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Listeria'nın hücre içi yaşamına geçişini sağlayan virülans faktörü nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_listeria]
+metin: "Listeriolizin O; hücre zarını yırtar."
+# kaynak: Corynebacterium_ve_Listeria_cinsi_bakteriler.txt

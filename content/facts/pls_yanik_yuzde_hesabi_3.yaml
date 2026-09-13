@@ -1,0 +1,11 @@
+id: pls_yanik_yuzde_hesabi_3
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çocuklarda yanık yüzdesi hesabında daha doğru yöntem nedir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yanik, pce_ya_derecelendirme]
+metin: "Lund-Browder (ve Berkow) kartı; baş ve alt ekstremite oranları erişkinden farklıdır."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Yanık-DERS-2020.txt

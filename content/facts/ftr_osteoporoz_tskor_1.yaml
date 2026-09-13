@@ -1,0 +1,11 @@
+id: ftr_osteoporoz_tskor_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "T skorunda osteoporoz ve osteopeni eşikleri nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_metabolik_kemik, ftr_mk_osteoporoz]
+metin: "+1 ile -1 normal; -1 ile -2.5 osteopeni; -2.5 altı osteoporoz."
+# kaynak: 5.sınıf_FTR_OSTEOPOROZ.txt

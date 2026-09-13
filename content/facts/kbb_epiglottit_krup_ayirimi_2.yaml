@@ -1,0 +1,11 @@
+id: kbb_epiglottit_krup_ayirimi_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Epiglottit şüphesinde farenks-larenks muayenesi nasıl yapılmalıdır?"
+taksonomi:
+  - [ktbt, kbb, kbb_larinks, kbb_lr_akut_larenjit_krup]
+metin: "Entübasyon hazırlıkları yapılmadan yapılmamalıdır."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

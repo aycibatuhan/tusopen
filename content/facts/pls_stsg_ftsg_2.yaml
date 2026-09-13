@@ -1,0 +1,11 @@
+id: pls_stsg_ftsg_2
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Split greftte donör alan nasıl iyileşir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yara_ve_doku, pce_yd_greft_ve_flap]
+metin: "Geride kalan deri eklerinin epitelizasyonuyla (sekonder iyileşme); aynı yerden tekrar alınabilir."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Greftler_ve_Flepler.txt

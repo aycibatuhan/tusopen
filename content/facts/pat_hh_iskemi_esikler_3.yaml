@@ -1,0 +1,11 @@
+id: pat_hh_iskemi_esikler_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipokside en erken etkilenen organel ve ilk mikroskobik bulgu?"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_reversibl_irreversibl]
+metin: "Mitokondri; hidropik dejenerasyon (bulanık şişme)."
+# kaynak: 1._Sınıf_1.4_Patoloji_2-CTF_hücre_ölümü.txt

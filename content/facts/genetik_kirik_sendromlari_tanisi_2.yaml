@@ -1,0 +1,14 @@
+id: genetik_kirik_sendromlari_tanisi_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ataksi telenjiektazide alfa-fetoprotein düzeyi nasıldır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: Hastaların %95'inden fazlasında AFP, 10 ng/mL eşiğini aşar.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_5_Kromozomal_Kırık_Sendromları.txt

@@ -1,0 +1,11 @@
+id: fiz_kan_fiziksel_degerler_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erişkinde kan hacmi ve hematokrit değerleri nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_plazma]
+metin: "Kan 4-6 L (vücut ağırlığının yüzde 8'i); hematokrit erkekte 45-52, kadında 40-45."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt

@@ -1,0 +1,11 @@
+id: dah_wilson_tani_esikleri_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Wilson hastalığı tedavisi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_wilson_hemokromatoz]
+metin: "D-penisillamin 1,2 g/gün (toleransızlıkta trientin); çinko intestinal emilimi azaltır."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_METABOLİK_KARACİĞER_HASTALIKLARI.txt

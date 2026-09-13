@@ -1,0 +1,11 @@
+id: mikro_mko_candida_tani_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Azol direnci ön planda olan Candida türleri hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_firsatci]
+metin: "C. krusei ve C. glabrata."
+# kaynak: Candida__C.neoformans_ve_diğer_maya_mantarları.txt, Mantarlara_karşı_immünite.txt

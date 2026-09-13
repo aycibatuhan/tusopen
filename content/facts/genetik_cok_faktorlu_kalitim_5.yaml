@@ -1,0 +1,14 @@
+id: genetik_cok_faktorlu_kalitim_5
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Multifaktöriyel erişkin hastalıklara örnekler nelerdir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_cok_faktorlu_kalitim
+metin: Diyabet, hipertansiyon, psikiyatrik bozukluklar.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_2_Non-Mendeliyen_Hastalıklar_2020.txt, 3._Sınıf_3.2_Tıbbi_genetik_4_Prenatal_Genetik_Tanı_2020_2021.txt, 3._Sınıf_3.2_Tıbbi_genetik_Genetik_Danışma_TÜRKÇE.txt

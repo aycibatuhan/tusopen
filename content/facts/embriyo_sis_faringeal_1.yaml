@@ -1,0 +1,13 @@
+id: embriyo_sis_faringeal_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 1. faringeal arkin türevleri nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_faringeal
+metin: Çiğneme kasları, çekiç ve örs kemikleri, trigeminal sinirin mandibular dalı.

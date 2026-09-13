@@ -1,0 +1,10 @@
+id: anat_duyu_goz_kuresi_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Göz küresinin üç tabakası hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_duyu_organlari, anat_duyu_goz_kuresi]
+metin: Dışta sklera-kornea, ortada uvea (koroid, siliyer gövde, iris), içte retina.

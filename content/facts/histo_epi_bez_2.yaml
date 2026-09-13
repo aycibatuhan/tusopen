@@ -1,0 +1,13 @@
+id: histo_epi_bez_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Apokrin salgının özelliği ve yerleri nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_epitel
+  - histo_epi_bez
+metin: Hücre tepesi salgıyla kopar; aksilla, meme ve kulak kiri bezlerinde.

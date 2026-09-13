@@ -1,0 +1,11 @@
+id: goz_retina_dekolmani_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ön vitreustaki pigment kümeleri (tobacco dust) neyi gösterir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_retina_dekolmani]
+metin: "Retinal yırtık olasılığının yüksek olduğunu."
+# kaynak: 5.sınıf_Göz_Hastalıkları_retina_dekolmanı-ing_ders.txt, 5.sınıf_Göz_Hastalıkları_DISEASES_OF_VITREOUS_AND_RETINA.txt

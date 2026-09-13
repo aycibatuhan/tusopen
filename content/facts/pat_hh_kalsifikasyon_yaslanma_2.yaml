@@ -1,0 +1,10 @@
+id: pat_hh_kalsifikasyon_yaslanma_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Metastatik kalsifikasyon nerede görülür?"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_kalsifikasyon_yaslanma]
+metin: "Hiperkalsemide normal dokularda; mide, böbrek, akciğer."

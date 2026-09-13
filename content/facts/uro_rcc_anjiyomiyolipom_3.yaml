@@ -1,0 +1,11 @@
+id: uro_rcc_anjiyomiyolipom_3
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uzun süreli diyalizde renal hücreli karsinom riski nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_renal_hucre]
+metin: "Edinilmiş renal kistik hastalık %80'e ulaşır; RCC riski ~10 kat artar."
+# kaynak: 4._Sınıf_Üroloji_böbrek_tm_radyoloji.txt, 4._Sınıf_Üroloji_Böbrek_Tümörleri.txt

@@ -1,0 +1,14 @@
+id: genetik_mismatch_tamiri_hnpcc_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: HNPCC hangi genlerin kalıtsal mutasyonundan olur?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_dna_yapi_repasyon
+metin: Mismatch tamir (MMR) genleri; otozomal dominant geçer.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_6._Ders_Mutasyonlar-DNA_Tamiri_M_Güven.txt

@@ -1,0 +1,10 @@
+id: biyok_enz_inhibisyon_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klasik rekabetçi inhibisyon örnekleri nelerdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_inhibisyon]
+metin: "Statinlerin HMG-KoA redüktazı, malonatın süksinat dehidrogenazı baskılaması."

@@ -1,0 +1,11 @@
+id: gog_sarkoidoz_tani_evre_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Evre I sarkoidozda remisyon oranı ve steroid şeması nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_sarkoidoz]
+metin: "%85 spontan remisyon; metilprednizolon 32-40 mg/gün 4 hafta, azaltılıp 6-12 ay sürdürülür."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Sarkoidoz.txt

@@ -1,0 +1,11 @@
+id: kd_ovaryan_yaslanma_menopoz_4
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Menopozda ateş basması sıklığı ve süresi nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_ureme_fizyolojisi, kd_uf_menopoz]
+metin: "Erken dönemde %40, postmenopozal %60-80; orta-şiddetli seyir ~4,9 yıl."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_kadın_yaşamının_evreleri_mahmut_öncül.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_İnsan_Üremesi.txt

@@ -1,0 +1,14 @@
+id: genetik_mutasyon_polimorfizm_esik_1
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Mutasyon ve polimorfizm ayrımındaki sıklık eşiği nedir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_populasyon_genetigi
+metin: '%1''den az mutasyon, %1''den fazla polimorfizm.'
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_D_2-Genetik_yapıda_normal_ve_anormal_varyasyonlar.txt

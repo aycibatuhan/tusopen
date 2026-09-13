@@ -1,0 +1,11 @@
+id: anes_anafilaksi_adrenalin_dozlari_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İM adrenalinin yaşa göre dozları nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_anafilaksi]
+metin: "Erişkin ve 12 yaş üstü 500 µg, 6-12 yaş 300 µg, 6 ay-6 yaş 150 µg (uyluk anterolateral)."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Hipotermi_Suda_boğulma_Anaflaksi.txt

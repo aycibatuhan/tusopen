@@ -1,0 +1,11 @@
+id: ftr_omuz_ozel_testleri_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Supraspinatus yırtığında hangi test pozitiftir?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_kas_iskelet_muayene]
+metin: "Kol düşme testi; enjeksiyon sonrası kuvvetsizliğin sürmesi yırtığı düşündürür."
+# kaynak: 5.sınıf_FTR_üst_ekstremite_muayene_dersi_son.txt, 5.sınıf_FTR_Enson_Omuz_Ağrıları.txt

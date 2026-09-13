@@ -1,0 +1,11 @@
+id: anat_art_ayak_bilek_baglari_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: İnversiyon-eversiyon hareketleri ağırlıklı hangi eklemdir?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_ayak_bilek]
+metin: Subtalar eklem (talus-calcaneus).
+# kaynak: 2._Sınıf_2.1_Anatomi_2.1_Alt_taraf_eklemleri_2019-20.txt

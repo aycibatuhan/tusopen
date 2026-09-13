@@ -1,0 +1,13 @@
+id: histo_deri_epidermis_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Epidermisin tabandan yüze doğru katmanları hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_deri
+  - histo_deri_epidermis
+metin: Bazal, dikenli, granüler, parlak ve kornifiye katmanlar.

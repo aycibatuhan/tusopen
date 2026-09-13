@@ -1,0 +1,11 @@
+id: anat_dol_ven_cava_porta_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Vücudun dört büyük venöz toplayıcısı hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_dolasim, anat_dol_ven_genel]
+metin: V. cava inferior, v. cava superior, v. portae hepatis ve vv. pulmonales.
+# kaynak: 2._Sınıf_2.2_anatomi_venler_2019_son.txt, 1._Sınıf_1.1_Anatomi_2018.10.01__Dolaşım_Sistemi.txt

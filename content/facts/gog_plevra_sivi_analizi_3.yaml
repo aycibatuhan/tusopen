@@ -1,0 +1,11 @@
+id: gog_plevra_sivi_analizi_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plevral LDH'nin 1000 IU/L üstü neye işaret eder?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_efuzyon]
+metin: "Parapnömonik efüzyon, ampiyem, malignite ve pulmoner emboli lehinedir."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

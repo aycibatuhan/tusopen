@@ -1,0 +1,10 @@
+id: biyok_doku_karaciger_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Karaciğerde sentezlenen başlıca plazma proteinleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_doku_organ, biyok_doku_karaciger]
+metin: "Üre, albümin ve pıhtılaşma faktörlerinin çoğu; yetmezlikte koagülasyon bozulur."

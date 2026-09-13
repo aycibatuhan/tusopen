@@ -1,0 +1,10 @@
+id: fiz_kv_kalp_elektrofizyoloji_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kalpte otomatik ateşleme hızları sırasıyla kaçtır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kalp_elektrofizyoloji]
+metin: "Sinüs düğümü 60-100, AV düğüm 40-60, His-Purkinje 20-40/dk."

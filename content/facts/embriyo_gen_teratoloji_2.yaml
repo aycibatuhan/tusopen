@@ -1,0 +1,13 @@
+id: embriyo_gen_teratoloji_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Fetal dönemde teratojen maruziyeti nasıl seyreder?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_teratoloji
+metin: Daha çok büyüme ve fonksiyon bozukluğuyla kendini gösterir.

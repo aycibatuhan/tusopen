@@ -1,0 +1,10 @@
+id: pat_hem_hodgkin_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En iyi prognozlu Hodgkin alt tipi hangisidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_hematopoetik, pat_hem_hodgkin]
+metin: "Lenfosit baskın tip."

@@ -1,0 +1,11 @@
+id: kard_pah_vazoreaktivite_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vazoreaktif PAHda hangi ilaç başlanır?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_pulmoner_hipertansiyon, kard_ph_pah_tedavi]
+metin: "Yalnız pozitiflere yüksek doz KKB (amlodipin >20, diltiazem 240-720, nifedipin 120-240 mg)."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

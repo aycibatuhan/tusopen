@@ -1,0 +1,11 @@
+id: dah_ra_tani_mtx_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Romatoid artritin sevmediği eklemler hangileridir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_romatoid_artrit]
+metin: "Omurga (C1-C2 dışında), DİF ve sakroiliak eklemleri tutmaz."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_RomatoidArtrit_Nisan2020.txt

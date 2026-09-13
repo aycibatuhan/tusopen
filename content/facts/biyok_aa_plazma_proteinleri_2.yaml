@@ -1,0 +1,10 @@
+id: biyok_aa_plazma_proteinleri_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipoalbüminemi hangi durumlarda görülür ve ne yapar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_plazma_proteinleri]
+metin: "Karaciğer yetmezliği, nefrotik sendrom, protein kayıplı enteropatide; ödemle gösterir."

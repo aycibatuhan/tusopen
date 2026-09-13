@@ -1,0 +1,11 @@
+id: fiz_kan_ozmotik_frajilite_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal eritrositte ozmotik frajilite hemoliz sınırları nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_eritrosit]
+metin: "Yüzde 0.52'de başlar, yüzde 0.32'de tamamlanır; 0.9-0.5 arası hemoliz yok."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt

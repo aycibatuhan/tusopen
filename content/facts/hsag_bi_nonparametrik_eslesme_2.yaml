@@ -1,0 +1,11 @@
+id: hsag_bi_nonparametrik_eslesme_2
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Eşli iki ölçüm ve tekrarlı ölçümlerde hangi nonparametrik testler seçilir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_nonparametrik_testler]
+metin: "Eşli iki ölçümde Wilcoxon veya işaret testi; tekrarlı ölçümlerde Friedman."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD1_Klinik_Biyoistatistiğe_Giriş__Araştırma_Yöntembilimi__Terminoloji__Bilgi__ölçüm__Hata__Bivariate_Yöntemler_(1).txt, 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD4a_Klinik_Araştırmalarda_Kalite__EK1-Veri_kalitesi__EK2-Standartlar_Randomizasyon__Körleme__Klavuzlar.txt, 3._Sınıf_3.3_Biyoistatistik_Hipotez_Testleri_GENEL.txt

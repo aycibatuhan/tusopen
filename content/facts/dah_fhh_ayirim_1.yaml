@@ -1,0 +1,11 @@
+id: dah_fhh_ayirim_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ailevi hipokalsiürik hiperkalsemide PTH düzeyi nasıldır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hiperparatiroidi]
+metin: "Hafif-orta hiperkalsemiyle birlikte PTH normal veya hafif yüksektir."
+# kaynak: 4._Sınıf_Dahiliye_ders-paratiroid_hastalıkları.txt

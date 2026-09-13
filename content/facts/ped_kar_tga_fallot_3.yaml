@@ -1,0 +1,15 @@
+id: ped_kar_tga_fallot_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: TGA'da tedavi basamakları nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_siyanotik
+metin: PGE1 infüzyonu, Rashkind balon atriyal septostomi; kesin tedavi Jatene arteryel switch'tir.
+
+# kaynak: 4._Sınıf_Pediatri_Reyhan_Dedeoğlu_Siyanotik_Kalp_hastalıkları_16_Eylül-2021_R.txt

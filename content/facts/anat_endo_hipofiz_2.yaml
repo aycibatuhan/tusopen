@@ -1,0 +1,13 @@
+id: anat_endo_hipofiz_2
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hipofiz nerede yer alır?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_endokrin
+  - anat_endo_hipofiz
+metin: Sfenoid kemikteki sella turcica içinde, optik kiasmanın hemen altında.

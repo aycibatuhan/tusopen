@@ -1,0 +1,11 @@
+id: anat_boyun_carotis_bifurkasyon_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: V. jugularis interna yaralanmasında tehlike nedir?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_damarlar]
+metin: Duvarı kılıfa yapışık olduğundan açılırsa hava embolisi riski doğar.
+# kaynak: 3._Sınıf_3.3_Anatomi_3-3_Boyun_Topografik_Anatomisi.txt

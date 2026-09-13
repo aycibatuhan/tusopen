@@ -1,0 +1,11 @@
+id: kbb_sinuzit_sure_tanimlari_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut sinüzitte en sık etkenler hangileridir?"
+taksonomi:
+  - [ktbt, kbb, kbb_paranazal_sinusler, kbb_ps_akut_sinuzit]
+metin: "S. pneumoniae, H. influenzae ve M. catarrhalis."
+# kaynak: 5.sınıf_KBB_DERS_SİNÜZİTLER.txt

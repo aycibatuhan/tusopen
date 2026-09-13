@@ -1,0 +1,10 @@
+id: pat_inf_yara_iyilesmesi_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Skarda kolajen değişimi nasıl olur?"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_yara_iyilesmesi]
+metin: "Tip 3 kolajenden tip 1 kolajene değişerek dayanım kazanır."

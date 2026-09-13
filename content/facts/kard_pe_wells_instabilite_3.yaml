@@ -1,0 +1,11 @@
+id: kard_pe_wells_instabilite_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yüksek riskli (masif) PEde tedavi nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_aort_periferik, kard_ap_venoz_tromboembolizm]
+metin: "Trombolitik (tPA), kontrendikasyon yoksa; ölümün en sık sebebi sağ kalp yetmezliğidir."
+# kaynak: 5.sınıf_Kardiyoloji_Pulmoner_emboli_dersim_2021.txt

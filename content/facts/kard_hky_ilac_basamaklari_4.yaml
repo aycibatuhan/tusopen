@@ -1,0 +1,11 @@
+id: kard_hky_ilac_basamaklari_4
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sinüs ritminde KH ≥70/dk olan KKY hastasında hangi ilaç?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_ilac_tedavisi]
+metin: "İvabradin düşünülür."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

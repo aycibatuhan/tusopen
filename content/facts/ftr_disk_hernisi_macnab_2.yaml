@@ -1,0 +1,11 @@
+id: ftr_disk_hernisi_macnab_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ekstrüzyon ile sekestrasyon nasıl ayrılır?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_lomber_disk_radikulopati]
+metin: "Ekstrüzyonda anulus tüm lamelleri ve PLL yırtıktır; kopan parça serbest kalırsa sekestrasyondur."
+# kaynak: 5.sınıf_FTR_DİSK_HERNİLERİ.RT.txt

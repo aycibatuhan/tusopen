@@ -1,0 +1,14 @@
+id: genetik_satellit_dna_str_vntr_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Minisatellit kaç tekrar içerir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_baglanti_ve_rekombinasyon
+metin: 1-5 kb'lik bloklar halinde 14-500 tekrar.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_4._Ders_Gen_aileleri_DGA.txt

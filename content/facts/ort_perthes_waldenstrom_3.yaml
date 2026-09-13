@@ -1,0 +1,11 @@
+id: ort_perthes_waldenstrom_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Perthes hastalığında remodelasyon sonucu kalabilecek femur başı sekelleri nelerdir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_perthes]
+metin: "Coxa magna, coxa plana ve coxa breva."
+# kaynak: 5.sınıf_Ortopedi_aksayan_çocuk.txt

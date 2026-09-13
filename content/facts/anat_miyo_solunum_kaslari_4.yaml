@@ -1,0 +1,11 @@
+id: anat_miyo_solunum_kaslari_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Diyaframın kasılması thorax çapını nasıl etkiler?
+taksonomi:
+  - [ttbt, anatomi, anat_miyoloji, anat_miyo_toraks_kaslari]
+metin: Vertikal çapı artırır (abdominal solunum); interkostal kaslar transvers ve ön-arka çapları artırır (torakal).
+# kaynak: 2._Sınıf_2.3_Anatomi_2019_Solunum_Sistemi.txt

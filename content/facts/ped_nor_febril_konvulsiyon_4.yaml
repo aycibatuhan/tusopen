@@ -1,0 +1,15 @@
+id: ped_nor_febril_konvulsiyon_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Febril nöbet sonrası epilepsi riski nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_noroloji
+  - ped_nor_febril_konvulsiyon
+metin: Ortalama ~%5; basitte %1,5, komplekste %4; risk faktörleri gelişim geriliği, ailede afebril nöbet ve kompleks nöbettir.
+
+# kaynak: 4._Sınıf_Pediatri_Sema_Saltık_Fnöbet.txt

@@ -1,0 +1,10 @@
+id: fiz_kv_mikrodolasim_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kapiller duvarda net sıvı hareketini belirleyen kuvvetler nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_mikrodolasim]
+metin: "Kapiller hidrostatik basınç dışa, plazma onkotik basınç içe; fazlalık lenfatikle döner."

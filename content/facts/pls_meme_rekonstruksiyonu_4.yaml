@@ -1,0 +1,11 @@
+id: pls_meme_rekonstruksiyonu_4
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Radyasyonun dokudaki etkisinin özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_rekonstruksiyon, pce_rc_meme_rekonstruksiyonu]
+metin: "Daimi, ilerleyici ve dönüşümsüzdür."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_MEME_CERRAHİSİ_for_st_AT.txt

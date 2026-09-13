@@ -1,0 +1,15 @@
+id: ped_kar_obstruktif_lezyonlar_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Aort koarktasyonunda tele bulgusu ve en sık eşlik eden anomali nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_obstruktif_lezyonlar
+metin: 5 yaş üstünde 4-8. kostalarda çentiklenme; en sık eşlik eden anomali biküspit aort kapağıdır.
+
+# kaynak: 4._Sınıf_Pediatri_Funda_Öztunç_AK_türkçe.txt, 2._Sınıf_2.2_pediatri_asiyanotikKH_türkçe.txt

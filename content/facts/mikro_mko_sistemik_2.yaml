@@ -1,0 +1,10 @@
+id: mikro_mko_sistemik_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Histoplasma, Blastomyces ve Coccidioides'in doku ipuçları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_sistemik]
+metin: "Histoplasma makrofaj içindeki küçük maya, Blastomyces geniş tabanlı tomurcuk, Coccidioides endosporlu sferül."

@@ -1,0 +1,11 @@
+id: bcy_kib_normal_degerler_4
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serebral kan akımının normal, geçici iskemi ve enfarkt eşikleri nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_intrakraniyal_basinc, bce_ib_artmasi_ve_tedavi]
+metin: "Normalde 50-65; geçici iskemide 8-23, kalıcı enfarkt için 8'in altı (mL/100 g/dk)."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Ödemi_ve_KİBAS_S.T.txt

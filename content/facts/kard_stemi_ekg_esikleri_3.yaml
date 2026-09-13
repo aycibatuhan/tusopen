@@ -1,0 +1,11 @@
+id: kard_stemi_ekg_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "STEMI tanısında kardiyak belirteçlerin erken değeri nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_stemi]
+metin: "Erken dönemde yeri yoktur; tanı EKG ile konur, yeni sol dal bloğu da değerlendirilir."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

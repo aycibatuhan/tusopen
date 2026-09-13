@@ -1,0 +1,11 @@
+id: kbb_sinuzit_komplikasyonlari_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut sinüzit komplikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, kbb, kbb_paranazal_sinusler, kbb_ps_sinuzit_komplikasyonlari]
+metin: "Menenjit, beyin absesi, orbital sellülit-apse ve kavernöz sinüs trombozu."
+# kaynak: 5.sınıf_KBB_DERS_SİNÜZİTLER.txt, 5.sınıf_KBB_KBB_acilleri.txt

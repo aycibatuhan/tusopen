@@ -1,0 +1,14 @@
+id: gc_per_retroperitoneal_fibrozis_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Primer retroperitoneal tümörlerin en sık tipi?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_periton_retroperiton
+  - gc_per_retroperitoneal_fibrozis
+metin: Sarkomlar (liposarkom, leiomyosarkom); solid tümörlerin %1'i.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Kağan_Zengin_Mezenter_1_.txt

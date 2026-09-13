@@ -1,0 +1,14 @@
+id: histo_sol_ust_olfaktor_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bowman bezlerinin görevi nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_solunum
+  - histo_sol_ust
+metin: Lamina propriadaki seröz bezler; mukozayı yıkayarak yeni koku moleküllerinin reseptörlere ulaşmasını kolaylaştırır.
+# kaynak: 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ-2016.txt

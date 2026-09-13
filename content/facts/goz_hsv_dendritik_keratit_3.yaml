@@ -1,0 +1,11 @@
+id: goz_hsv_dendritik_keratit_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HSV dendritik keratitinde antiviral tedavi nasıl yapılır?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_konjonktiva_kornea, goz_kk_viral_keratit]
+metin: "Triflorotimidin %1 damla iki saatte bir veya %3 asiklovir pomadı günde beş kez."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kornea_Hastalıkları_01_06_2020.txt

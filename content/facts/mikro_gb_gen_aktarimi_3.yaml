@@ -1,0 +1,11 @@
+id: mikro_gb_gen_aktarimi_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Prokaryotlarda spontan mutasyon oranı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_genetik]
+metin: "Yaklaşık 1/10^8'dir."
+# kaynak: bakteri_metabolizma__kültür__tanımlama.txt, Endotoksin-Ekzotoksin.txt

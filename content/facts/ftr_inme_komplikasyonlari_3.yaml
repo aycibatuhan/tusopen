@@ -1,0 +1,11 @@
+id: ftr_inme_komplikasyonlari_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemiplejik omuz sendromunun sıklığı ve zamanlaması nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_inme]
+metin: "%85 görülür; 2. haftadan itibaren mümkün, çoğu zaman 2-3. aylarda."
+# kaynak: 5.sınıf_FTR_İnmeRehab.txt

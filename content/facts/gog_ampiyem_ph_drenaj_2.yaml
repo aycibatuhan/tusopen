@@ -1,0 +1,11 @@
+id: gog_ampiyem_ph_drenaj_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plevral pH 7,30 altı ve düşük glikoz neyi araştırır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_ampiyem]
+metin: "Özofagus rüptürü, ampiyem, romatoid artrit, malignite ve tüberküloz."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

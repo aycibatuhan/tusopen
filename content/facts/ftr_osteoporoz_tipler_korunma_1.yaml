@@ -1,0 +1,11 @@
+id: ftr_osteoporoz_tipler_korunma_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tip I ve Tip II osteoporoz nasıl ayrılır?"
+taksonomi:
+  - [ktbt, ftr, ftr_metabolik_kemik, ftr_mk_osteoporoz]
+metin: "Tip I 50-65 yaş, östrojen eksikliği, trabeküler (vertebra-bilek); Tip II 65 üstü, kortikal (femur-humerus)."
+# kaynak: 5.sınıf_FTR_OSTEOPOROZ.txt

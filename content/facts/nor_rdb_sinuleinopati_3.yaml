@@ -1,0 +1,11 @@
+id: nor_rdb_sinuleinopati_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RDB hangi hastalıkların öncüsüdür?"
+taksonomi:
+  - [ktbt, noroloji, noro_uyku_bilinc, noro_ub_parasomni]
+metin: "Sinükleinopatiler (Parkinson, MSA); diğer bulgulardan en az 10 yıl önce başlayabilir."
+# kaynak: 5.sınıf_Nöroloji_Uyku_Hastalıkları_5._sınıf_ders_2021.txt

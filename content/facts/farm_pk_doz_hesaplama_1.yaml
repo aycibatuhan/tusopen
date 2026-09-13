@@ -1,0 +1,10 @@
+id: farm_pk_doz_hesaplama_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İstikrarlı plazma düzeyine kaç yarı ömürde ulaşılır?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakokinetik, farm_pk_doz_hesaplama]
+metin: "Yaklaşık dört-beş yarı ömür."

@@ -1,0 +1,10 @@
+id: kd_gf_antenatal_izlem_5
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gestasyonel diyabet taraması hangi haftada yapılır?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_antenatal_izlem]
+metin: "24-28. haftalarda 50 g glukoz yükleme testiyle."

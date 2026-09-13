@@ -1,0 +1,18 @@
+id: gog_gina_gold_3
+version: 1
+status: draft
+author: ai-drafts/gogus
+sources:
+- GINA 2024 ve GOLD 2024 strateji raporları — referans adı olarak listelendi; metin projenin özgün
+  yazımıdır
+ad: "GOLD 2024'te KOAH gruplaması nasıl yapılmıştır?"
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_astim
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_koah
+metin: "A (az semptom), B (fazla semptom, en fazla 1 alevlenme), E (en az 2 orta veya 1 yatış)."

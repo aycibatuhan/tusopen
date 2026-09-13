@@ -1,0 +1,10 @@
+id: pat_hh_apoptoz_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Apoptozun morfolojik özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_apoptoz]
+metin: "Hücre büzülür, apoptotik cisimlere bölünür; inflamasyon oluşmaz."

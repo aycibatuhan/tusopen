@@ -1,0 +1,15 @@
+id: ped_bes_nutrisyonel_rasitizm_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Raşitizm tedavi yanıtının izlemi nasıl yapılır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_rasitizm
+metin: Ca-P-25(OH)D 1. ve 3. ayda, PTH-ALP baskılanması 3. ayda kontrol edilir.
+
+# kaynak: 4._Sınıf_Pediatri_Elvan_Bayramoğlu_Rikets_ve_D_vitamini_eksikliği_ders_4.txt

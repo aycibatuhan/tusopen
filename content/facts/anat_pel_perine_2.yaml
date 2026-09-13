@@ -1,0 +1,10 @@
+id: anat_pel_perine_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Pudendal blok için hangi yapı kılavuz alınır?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_perine]
+metin: İskial spina; pudendal sinir (S2-S4) bu hizasında Alcock kanalına girer.

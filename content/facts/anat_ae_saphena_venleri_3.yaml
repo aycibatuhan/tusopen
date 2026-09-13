@@ -1,0 +1,11 @@
+id: anat_ae_saphena_venleri_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Alt ekstremite ven trombüsünün tehlikeli komplikasyonu?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_damarlar]
+metin: Trombüs sağ kalp yoluyla akciğere giderek pulmoner emboli yapar.
+# kaynak: 2._Sınıf_2.2_anatomi_venler_2019_son.txt

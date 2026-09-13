@@ -1,0 +1,13 @@
+id: histo_kk_kikirdak_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kıkırdak dokusu nasıl beslenir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kikirdak_kemik
+  - histo_kk_kikirdak
+metin: Damarsızdır; kondrositler lakünlerde yer alır, beslenme perikondriyumdan difüzyonla sağlanır.

@@ -1,0 +1,10 @@
+id: anes_ga_monitorizasyon_1
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Anesteziyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Perioperatif temel beş monitör parametresi nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_genel_anestezi, anes_ga_monitorizasyon]
+metin: "EKG, kan basıncı, pulse oksimetri (SpO2), kapnometri (EtCO2) ve vücut sıcaklığı."

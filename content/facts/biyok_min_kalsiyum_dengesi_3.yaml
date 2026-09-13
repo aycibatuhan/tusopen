@@ -1,0 +1,11 @@
+id: biyok_min_kalsiyum_dengesi_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kalsiyumun depo yeri ve klinik eşikleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_mineral_eser]
+metin: "Yüzde 99'u kemikte; 7 mg/dL altı tetani, 11 üstü taş-aritmi."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Ca__Mg__P_tıp_dersi2018.txt

@@ -1,0 +1,11 @@
+id: fiz_sol_mekanik_degerler_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akciğer kompliyansının normal değeri ve klinik anlamları nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_mekanik]
+metin: "1 cmH2O'da 200 ml (0.18-0.27); artış amfizemi, azalma fibrozu gösterir."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

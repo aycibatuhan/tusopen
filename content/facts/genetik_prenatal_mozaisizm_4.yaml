@@ -1,0 +1,14 @@
+id: genetik_prenatal_mozaisizm_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: XX/XY mozaikliği saptanırsa ne düşünülür?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: Maternal kontaminasyon; analiz amniyosentez yapılarak tekrarlanır.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_4_Prenatal_Genetik_Tanı_2020_2021.txt

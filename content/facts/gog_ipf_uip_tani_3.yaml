@@ -1,0 +1,11 @@
+id: gog_ipf_uip_tani_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İPF'de antifibrotik ilaçlar ve dozları nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_ipf]
+metin: "Pirfenidon maksimum 2400 mg/gün; nintedanib günde iki kez 150 mg."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_İdyopatik_Pulmoner_Fibrozis.txt

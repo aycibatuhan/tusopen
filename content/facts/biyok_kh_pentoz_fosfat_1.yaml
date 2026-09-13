@@ -1,0 +1,10 @@
+id: biyok_kh_pentoz_fosfat_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pentoz fosfat yolunun hız kısıtlayıcı enzimi ve ürünleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_pentoz_fosfat]
+metin: "Glukoz-6-fosfat dehidrogenaz; yoldan NADPH ve riboz-5-fosfat sağlanır."

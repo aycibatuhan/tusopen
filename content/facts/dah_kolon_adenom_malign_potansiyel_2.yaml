@@ -1,0 +1,11 @@
+id: dah_kolon_adenom_malign_potansiyel_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kolon adenomunda malign potansiyeli artıran özellikler nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_polip_kolorektal]
+metin: "1 cm üstü çap, %25'ten fazla villöz histoloji ve yüksek dereceli displazi."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_GIS_Polipleri_ve_Divertiküler_hastalık_TUR.txt

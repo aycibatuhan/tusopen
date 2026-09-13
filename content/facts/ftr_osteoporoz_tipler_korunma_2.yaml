@@ -1,0 +1,11 @@
+id: ftr_osteoporoz_tipler_korunma_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteoporoz korunmasında önerilen günlük kalsiyum ve D vitamini nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_metabolik_kemik, ftr_mk_osteoporoz]
+metin: "1200 mg kalsiyum ve 800-1000 IU D vitamini."
+# kaynak: 5.sınıf_FTR_OSTEOPOROZ.txt

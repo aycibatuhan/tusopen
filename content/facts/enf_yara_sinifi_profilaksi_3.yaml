@@ -1,0 +1,15 @@
+id: enf_yara_sinifi_profilaksi_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Profilaksi kararı hangi risk eşiğinde verilir ve risk faktörleri nelerdir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_profilaksi
+metin: Enfeksiyon riski %5'i aşarsa; ASA >2, diyabet, malnütrisyon, sigara, steroid ve uzamış ameliyat süresi riski artırır.
+
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Pınar_Kocael_Cerrahi_enfeksiyonlar_ve_antibiyotik_kullanımı.txt

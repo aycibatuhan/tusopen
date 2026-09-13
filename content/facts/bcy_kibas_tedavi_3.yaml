@@ -1,0 +1,11 @@
+id: bcy_kibas_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mannitol tedavisinde serum ozmolarite hedefi ve aşım riski nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_intrakraniyal_basinc, bce_ib_artmasi_ve_tedavi]
+metin: "300-310 mOsm/L; 320 mOsm/L'yi aşmak akut tübüler nekroz riski taşır."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Ödemi_ve_KİBAS_S.T.txt

@@ -1,0 +1,11 @@
+id: biyok_onkogen_tumorsupresor_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Philadelphia kromozomu, Burkitt translokasyonu ve HER2 amplifikasyonu nerede görülür?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_hucre_siklusu]
+metin: "9-22 translokasyonu bcr-abl; 8-14 translokasyonu c-myc'yi aktive eder; HER2 meme-over-GIS'te."
+# kaynak: 1._Sınıf_1.3_Biyokimya_Kanser_ve_Onkogenler_2019.txt

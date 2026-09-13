@@ -1,0 +1,11 @@
+id: mikro_am_duyarlilik_testleri_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MRSA taramasında hangi besiyeri kullanılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_duyarlilik]
+metin: "6 mg/L oksasilinli agar dilüsyonu."
+# kaynak: Antibiyotik_direnci_ve_önemi15.txt

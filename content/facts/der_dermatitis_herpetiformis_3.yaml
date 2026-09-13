@@ -1,0 +1,11 @@
+id: der_dermatitis_herpetiformis_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En şiddetli kaşıntılı iki dermatoz hangileridir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_dermatitis_herpetiformis]
+metin: "Uyuz ve dermatitis herpetiformis."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

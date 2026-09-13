@@ -1,0 +1,14 @@
+id: gc_tr_toraks_gogus_duvari_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Çoklu kot kırığında tercih edilen analjezi?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_travma
+  - gc_tr_toraks
+metin: Epidural analjezi.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Sezgin_Uludağ_Travmaya_Yaklaşım__S.Uludağ__2021..txt

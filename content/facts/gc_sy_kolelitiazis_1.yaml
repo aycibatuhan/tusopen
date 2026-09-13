@@ -1,0 +1,14 @@
+id: gc_sy_kolelitiazis_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Safra taşlı hastaların yüzde kaçı asemptomatiktir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_safra_yollari
+  - gc_sy_kolelitiazis
+metin: '%75.'
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Vedat_Durgun_Safra_taşları_ve_komplikasyonları.txt

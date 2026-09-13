@@ -1,0 +1,11 @@
+id: uro_prostat_tarama_yas_esikleri_1
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PSA taramasına başlama yaşları nelerdir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_prostat_kanseri]
+metin: "Genel 50; aile öyküsünde 45; Afrika kökenli veya BRCA2 taşıyıcısında 40 yaş."
+# kaynak: 4._Sınıf_Üroloji_PROSTATEkanserturkce-dönüştürüldü.txt, 3._Sınıf_3.2_Üroloji_Üroonkolojiye_Giriş_-_Doç._Dr._Çetin_DEMİRDAĞ.txt

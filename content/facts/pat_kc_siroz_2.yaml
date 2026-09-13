@@ -1,0 +1,10 @@
+id: pat_kc_siroz_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sirozun en sık nedenleri hangileridir?"
+taksonomi:
+  - [ttbt, patoloji, pat_karaciger_safra, pat_kc_siroz]
+metin: "Kronik viral hepatit ve alkol tüketimi."

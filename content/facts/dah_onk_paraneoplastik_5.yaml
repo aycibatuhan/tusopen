@@ -1,0 +1,10 @@
+id: dah_onk_paraneoplastik_5
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Paraneoplastik dermatolojik sendromlar nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_paraneoplastik]
+metin: "Akantozis nigrikans, 60 yaş üstü dermatomiyozit, AML'de Sweet, Leser-Trélat."

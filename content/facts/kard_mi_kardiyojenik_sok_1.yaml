@@ -1,0 +1,11 @@
+id: kard_mi_kardiyojenik_sok_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kardiyojenik şok genellikle kaçta miyokard hasarıyla gelişir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_kardiyojenik_sok]
+metin: "Miyokardın >%40'ının hasar gördüğü, çoğu kez yaygın anterior Mİlerde."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

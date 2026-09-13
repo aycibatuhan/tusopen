@@ -1,0 +1,11 @@
+id: kbb_nazal_fraktur_reduksiyon_penceresi_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nazal fraktürde redüksiyon kaç gün içinde yapılmalıdır?"
+taksonomi:
+  - [ktbt, kbb, kbb_burun, kbb_bn_burun_kirigi]
+metin: "Erişkinlerde 7-10, çocuklarda 3-5 gün içinde."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

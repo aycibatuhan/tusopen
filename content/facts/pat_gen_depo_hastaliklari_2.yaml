@@ -1,0 +1,10 @@
+id: pat_gen_depo_hastaliklari_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Retinada kiraz kırmızısı leke hangi depo hastalığında görülür?"
+taksonomi:
+  - [ttbt, patoloji, pat_genetik, pat_gen_depo_hastaliklari]
+metin: "Tay-Sachs (aşırı irkılme yanıtıyla)."

@@ -1,0 +1,14 @@
+id: gc_per_peritonit_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sekonder peritonitlerin yüzde kaçı GIS perforasyonundan?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_periton_retroperiton
+  - gc_per_peritonit
+metin: '%80-90; %10-20 postoperatif (5-7. günlerde anastomoz kaçağı).'
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Sinan_Çarkman_PERİTONİT_ve_İNTRAABDOMİNAL_ABSELER_(pdf.io).txt

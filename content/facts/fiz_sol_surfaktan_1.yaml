@@ -1,0 +1,10 @@
+id: fiz_sol_surfaktan_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sürfaktan nerede üretilir ve ana etkisi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_surfaktan]
+metin: "Tip II hücrelerden; DPPC ana bileşen, yüzey gerilimini düşürüp kompliyansı artırır."

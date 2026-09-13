@@ -1,0 +1,11 @@
+id: pat_hh_iskemi_esikler_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipoksiye dayanma süreleri nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_reversibl_irreversibl]
+metin: "Kemik 6-8 saat, çizgili kas 2-3 saat, miyokard 20-30 dakika, nöron 3-5 dakika."
+# kaynak: 1._Sınıf_1.4_Patoloji_2-CTF_hücre_ölümü.txt

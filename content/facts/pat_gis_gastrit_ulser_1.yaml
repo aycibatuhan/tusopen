@@ -1,0 +1,11 @@
+id: pat_gis_gastrit_ulser_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "H. pylori hangi tip gastrit yapar?"
+taksonomi:
+  - [ttbt, patoloji, pat_gis, pat_gis_gastrit]
+metin: "Antral (tip B) gastrit."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Patoloji_GİS_3_5_haziran_2020_son.txt

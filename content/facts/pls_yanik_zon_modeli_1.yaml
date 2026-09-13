@@ -1,0 +1,11 @@
+id: pls_yanik_zon_modeli_1
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sıcak yaralanmasında üç zon modeli nedir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yanik, pce_ya_derecelendirme]
+metin: "Merkezde nekrotik (koagülasyon), ortada staz (iskemik), dışta hiperemi zon."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Yanık-DERS-2020.txt

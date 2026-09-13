@@ -1,0 +1,15 @@
+id: ped_bes_fosfopenik_rasitizm_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: D vitamini dirençli raşitizm tip 1 ve 2'nin genetik nedeni nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_rasitizm
+metin: 'Tip 1: CYP27B1 (1α-hidroksilaz) mutasyonu; tip 2: VDR mutasyonu (kalsitriol etki gösteremez).'
+
+# kaynak: 4._Sınıf_Pediatri_Elvan_Bayramoğlu_Rikets_ve_D_vitamini_eksikliği_ders_4.txt

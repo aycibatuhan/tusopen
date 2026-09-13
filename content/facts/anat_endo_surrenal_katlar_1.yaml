@@ -1,0 +1,11 @@
+id: anat_endo_surrenal_katlar_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Sağ ve sol sürrenal bezlerin biçimleri ve ölçüleri?
+taksonomi:
+  - [ttbt, anatomi, anat_endokrin, anat_endo_surrenal]
+metin: Sağ piramit, sol yarım ay; 4-5 gr, 5x3x1 cm.
+# kaynak: 3._Sınıf_3.4_Anatomi_ENDOKRİN_SİSTEM_ÖĞRENCİ_versiyonu_2021_DrMY_(2).txt

@@ -1,0 +1,11 @@
+id: fiz_gis_enterik_sinir_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sempatik uyarının enterik sinir sistemi üzerine etkisi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_motilite]
+metin: "T5-L2 kökenli noradrenerjik lifler enterik nöronları güçlü biçimde inhibe eder."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_1._Ders_GIS_Nöral_Kontrolü_Sibel_2020.txt

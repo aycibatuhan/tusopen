@@ -1,0 +1,14 @@
+id: genetik_od_risk_danismanlik_3
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi genlerde bağlantı (linkage) analizi tercih edilir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_danismanlik
+metin: DMD, NF1 gibi büyük, çok ekzonlu, allelik heterojen genlerde.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_Genetik_Danışma_TÜRKÇE.txt

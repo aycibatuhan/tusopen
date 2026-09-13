@@ -1,0 +1,14 @@
+id: histo_lenf_timus_gelisimi_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Timusta pozitif ve negatif seleksiyon nerede gerçekleşir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_lenfoid
+  - histo_lenf_timus
+metin: Pozitif seleksiyon kortekste; self reaktiflerin apopitozla elendiği negatif seleksiyon medullada.
+# kaynak: 2._Sınıf_2.4_1.vize_Histoloji_İMMÜN_SİSTEM-2018.txt

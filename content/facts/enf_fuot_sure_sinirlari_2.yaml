@@ -1,0 +1,15 @@
+id: enf_fuot_sure_sinirlari_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Klasik nedeni bilinmeyen ateş (NBA) tanımı nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_genel_yaklasim
+  - enf_gy_nedeni_bilinmeyen_ates
+metin: Üç haftadır süren ve ayrıntılı değerlendirmeyle açıklanamayan ateş.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Ateş_patogenez_ve_Klinik_Tipleri_3._sınıf.txt

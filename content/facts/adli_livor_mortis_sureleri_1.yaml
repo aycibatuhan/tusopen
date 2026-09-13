@@ -1,0 +1,11 @@
+id: adli_livor_mortis_sureleri_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ölü lekeleri ne zaman başlar ve ne zaman tamamlanır?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_zamani]
+metin: "3-6 saatte başlar (en erken 1-2), 10-15 saatte azami düzeye ulaşır."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_BELİRTİLERİ_-_2_PROF._DR._SERMET_KOÇ.txt

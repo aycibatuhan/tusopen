@@ -1,0 +1,11 @@
+id: mikro_gv_patogenez_onkogenik_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "EBV hangi reseptörle hangi hücreleri enfekte eder?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_patogenez]
+metin: "B lenfositleri gp350-CD21 üzerinden enfekte eder."
+# kaynak: onkogenik_virüsler.txt, 8-Retrovirüsler_2020.txt

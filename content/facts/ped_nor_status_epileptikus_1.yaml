@@ -1,0 +1,15 @@
+id: ped_nor_status_epileptikus_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Status epileptikusta tedavi başlama eşiği nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_noroloji
+  - ped_nor_status
+metin: Tonik-klonik nöbette Z1 noktası 5 dakikadır; 5 dakikayı aşan nöbetlerin %95'inden fazlası uzadığından tedavi hemen başlanır.
+
+# kaynak: 4._Sınıf_Pediatri_Sema_Saltık_epilepsiders.txt

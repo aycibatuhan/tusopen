@@ -1,0 +1,11 @@
+id: anat_ae_tarsal_tunel_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: A. dorsalis pedis nabzı nereden alınır?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_ayak_anatomisi]
+metin: İki malleolün ortasında, extensor hallucis longus ve digitorum longus tendonları arasında.
+# kaynak: 3._Sınıf_3.3_Anatomi_ALT_TARAF_ANATOMİSİ_2021.txt

@@ -1,0 +1,10 @@
+id: fiz_sol_gaz_tasinmasi_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Karbondioksit kanda esas hangi biçimde taşınır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_gaz_tasinmasi]
+metin: "Esas bikarbonat olarak; geri kalanı karbaminohemoglobin ve çözünmüş biçimdedir."

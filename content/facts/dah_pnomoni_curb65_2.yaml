@@ -1,0 +1,11 @@
+id: dah_pnomoni_curb65_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CURB-65 puanı yatış kararını nasıl belirler?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gogus, dah_gog_pnomoni]
+metin: "2'den küçük puan ayaktan; 2'den büyük puan yatırılarak tedavi edilir."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_PNÖMONİLER_2.txt

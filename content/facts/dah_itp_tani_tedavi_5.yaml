@@ -1,0 +1,11 @@
+id: dah_itp_tani_tedavi_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ITP'de ikinci basamak en kalıcı tedavi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_trombositopeni]
+metin: "Splenektomide kalıcı remisyon hastaların %60-70'ine ulaşır ve 5-10 yılı aşabilir."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Trombositopeni_4._sınıf-2020.txt

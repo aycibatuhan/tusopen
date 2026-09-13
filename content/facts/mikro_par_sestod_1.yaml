@@ -1,0 +1,10 @@
+id: mikro_par_sestod_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "T. solium yumurtasının yutulması insan dokusunda ne yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_sestod]
+metin: "Sistiserkoz ve beyinde nörosistiserkoz oluşturur."

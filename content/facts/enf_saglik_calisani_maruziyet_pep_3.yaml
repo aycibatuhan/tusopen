@@ -1,0 +1,15 @@
+id: enf_saglik_calisani_maruziyet_pep_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: HCV maruziyetinde profilaksi ve izlem nasıl yapılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hastane_enfeksiyonlari
+  - enf_he_saglik_calisani
+metin: Profilaksi yoktur; 6 ay boyunca aylık ALT ve 6. ayda HCV-RNA ile izlem yeterlidir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

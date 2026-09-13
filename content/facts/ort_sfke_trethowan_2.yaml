@@ -1,0 +1,11 @@
+id: ort_sfke_trethowan_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Femur başı epifiz kaymasında klinikte hangi hareketler kısıtlıdır?"
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_sfke]
+metin: "Fleksiyon, iç rotasyon ve abdüksiyon; pasif fleksiyonda kalça dış rotasyona gider."
+# kaynak: 5.sınıf_Ortopedi_aksayan_çocuk.txt

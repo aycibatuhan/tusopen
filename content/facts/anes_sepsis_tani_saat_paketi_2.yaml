@@ -1,0 +1,11 @@
+id: anes_sepsis_tani_saat_paketi_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "qSOFA parametreleri nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_sepsis]
+metin: "Solunum sayısı ≥22/dak, akut şuur değişikliği ve SKB ≤100 mmHg."
+# kaynak: 4._Sınıf_Anestezi_2.txt

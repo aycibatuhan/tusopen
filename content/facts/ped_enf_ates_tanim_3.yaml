@@ -1,0 +1,15 @@
+id: ped_enf_ates_tanim_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Relatif bradikardili sürekli ateş ve intermitan ateş hangi hastalıklarda görülür?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_enfeksiyon
+  - ped_enf_ates_yaklasim
+metin: 'Relatif bradikardili sürekli: tifo, leşmanya, brusella; intermitan: sıtma, tüberküloz, lenfoma.'
+
+# kaynak: 3._Sınıf_3.5_Pediatri_Ateş.txt

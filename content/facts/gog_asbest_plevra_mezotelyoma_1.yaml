@@ -1,0 +1,11 @@
+id: gog_asbest_plevra_mezotelyoma_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Malign plevral mezotelyomada asbest maruziyeti ve yerleşim oranı nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_mezotelyoma]
+metin: "Yaklaşık %70'inde asbest maruziyeti; tümörün %90'ı plevral, sağ tarafta sıktır."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

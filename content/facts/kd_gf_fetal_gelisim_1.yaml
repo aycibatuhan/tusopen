@@ -1,0 +1,10 @@
+id: kd_gf_fetal_gelisim_1
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Teratojenlere karşı en duyarlı dönem hangisidir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_fetal_gelisim]
+metin: "3-8. haftalar (embriyonik dönem); 9. haftadan itibaren fetus adlandırılır."

@@ -1,0 +1,11 @@
+id: fiz_kan_lokosit_dagilimi_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dolaşımdaki lökositlerin yüzde dağılımı nasıldır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_lokosit]
+metin: "Granülosit yüzde 50-75, lenfosit 20-40, monosit 2-8."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt, 2._Sınıf_2.4_1.vize_Fizyoloji_Doğal_bağışıklık_ve_inflamasyon__2020_CTF_TÜRKÇE_GRUBU.txt

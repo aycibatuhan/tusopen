@@ -1,0 +1,11 @@
+id: nor_dmd_becker_4
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "DMD hastaları tipik olarak nasıl kaybedilir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_muskuler_distrofi]
+metin: "16-18 yaşlarda akciğer enfeksiyonu ve aspirasyon pnömonisiyle."
+# kaynak: 5.sınıf_Nöroloji_Kas_Hastalıkları.txt

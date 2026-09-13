@@ -1,0 +1,11 @@
+id: anat_ost_vertebra_klinik_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Sakralizasyon ve lumbalizasyon ne demektir?
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_vertebra]
+metin: L5'in os sacrum ile kaynaması sakralizasyon; S1'in ayrılması lumbalizasyon.
+# kaynak: 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_2.txt

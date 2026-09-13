@@ -1,0 +1,14 @@
+id: gc_tr_ilk_degerlendirme_atls_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Travma resüsitasyonunda kan verilme eşiği nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_travma
+  - gc_tr_ilk_degerlendirme
+metin: 2 L laktatlı Ringer'e yanıt vermeyen yaralıya kan verilir.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Sezgin_Uludağ_Travmaya_Yaklaşım__S.Uludağ__2021..txt, 4._Sınıf_Genel_Cerrahi_2_Berat_Apaydın_Abdominal_yaralanmalar_2013_son.txt

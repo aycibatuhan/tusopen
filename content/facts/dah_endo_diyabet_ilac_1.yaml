@@ -1,0 +1,22 @@
+id: dah_endo_diyabet_ilac_1
+version: 1
+status: draft
+author: ai-drafts/dahiliye
+sources:
+- 'ADA Standards of Care in Diabetes 2025, Bölüm 9: Farmakolojik Yaklaşımlar (Diabetes
+  Care 2025;48 Suppl 1:S181-S206) — referans olarak listelendi, metin projesi özgün
+  yazımdır'
+- 'FLOW çalışması: semaglutid renal sonuç denemesi (Perkovic ve ark., NEJM 2024); SELECT
+  çalışması: diyabetsiz obezitede kardiyovasküler sonuçlar (Lincoff ve ark., NEJM 2023);
+  SURPASS-2: tirzepatid versus semaglutid (Frias ve ark., NEJM 2021)'
+ad: "Tip 2 diyabette en sık başlanan ilk oral ajan nedir?"
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_endokrinoloji
+  - dah_end_diyabet_tedavi
+- - ttbt
+  - farmakoloji
+  - farm_endokrin
+  - farm_end_oral_antidiyabetik
+metin: "Metformin; eGFR 30 üzerinde güvenlidir."

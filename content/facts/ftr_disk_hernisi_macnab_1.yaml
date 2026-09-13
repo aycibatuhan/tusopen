@@ -1,0 +1,11 @@
+id: ftr_disk_hernisi_macnab_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Macnab sınıflamasında disk hernisi evreleri nelerdir?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_lomber_disk_radikulopati]
+metin: "Bulging, protrüzyon, ekstrüzyon ve sekestrasyon."
+# kaynak: 5.sınıf_FTR_DİSK_HERNİLERİ.RT.txt

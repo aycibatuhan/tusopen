@@ -1,0 +1,11 @@
+id: anat_abd_omentum_hepatoduodenale_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Foramen epiploicum (Winslow) sınırları nelerdir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_periton]
+metin: Önde lig. hepatoduodenale, arkada v. cava inferior, üstte lobus caudatus, altta duodenum 1. bölümü.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-SELMAN_DEMİRCİ-peritonveabdomen.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-_YUSUF_ZEKİ_YILDIZ-_Sindirim_organları_-II.txt

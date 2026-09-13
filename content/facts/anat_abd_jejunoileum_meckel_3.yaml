@@ -1,0 +1,11 @@
+id: anat_abd_jejunoileum_meckel_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Meckel divertikülü neyin kalıntısıdır ve nerede bulunur?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_ince_barsak]
+metin: Ductus vitellinus kalıntısı; ostium ileale'nin 60-80 cm proksimalinde, %2-4'te, 5-6 cm.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-TURAN_PEŞTAMALCI-_AbdominoPelvikOrganlar_II_İNCE_BARSAKLAR.txt

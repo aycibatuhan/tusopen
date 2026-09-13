@@ -1,0 +1,11 @@
+id: kard_ht_acil_dusurme_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipertansif acilde ilk 1-2 saatte düşürme oranı nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_hipertansiyon, kard_ht_aciller]
+metin: "Başlangıç değerin %20-25'i kadar düşürülür."
+# kaynak: 5.sınıf_Kardiyoloji_Hipertansiyon__Hakan_Karpuz__2020.txt

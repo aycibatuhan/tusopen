@@ -1,0 +1,15 @@
+id: enf_kateter_kan_dolasimi_etken_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kateter kaynaklı septiside odak kontrolü nasıl sağlanır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_sepsis
+  - enf_sp_bakteriyemi
+metin: Enfekte kateterin çıkarılması gerekir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotik_2019.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

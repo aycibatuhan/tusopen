@@ -1,0 +1,11 @@
+id: pat_hem_mds_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MDS'nin dizilere özgü morfolojik bulguları nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_hematopoetik, pat_hem_mds]
+metin: "Halkalı sideroblast, pseudo-Pelger-Hüet nötrofiller, tek loblu megakariyositler."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.4_patoloji_Hilal_Akı_hematopathology-turkce.txt

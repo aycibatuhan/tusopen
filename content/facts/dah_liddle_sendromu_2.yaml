@@ -1,0 +1,11 @@
+id: dah_liddle_sendromu_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Liddle sendromu hangi kanal mutasyonuyla oluşur?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_hipertansiyon]
+metin: "ENaC'de fonksiyon kazandıran mutasyon; otozomal dominant (psödoaldosteronizm)."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Endokrin_Hipertansiyon-3.sınıf-türkçe_tıp.txt

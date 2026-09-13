@@ -1,0 +1,11 @@
+id: pat_hem_hemoraji_morfoloji_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ekimoz iyileşirken renkler hangi sırayla değişir?"
+taksonomi:
+  - [ttbt, patoloji, pat_hemodinamik, pat_hem_hemoraji]
+metin: "İlk kırmızı (hemoglobin), sonra mavi-yeşil (bilirubin), en son sarı-kahverengi (hemosiderin)."
+# kaynak: 1._Sınıf_1.4_Patoloji_hemodinamik_iremonur..txt

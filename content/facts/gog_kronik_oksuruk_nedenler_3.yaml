@@ -1,0 +1,11 @@
+id: gog_kronik_oksuruk_nedenler_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Öksürük varyant astımın tanısı nasıl konur?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_klinik_sorunlar, gog_dk_kronik_oksuruk]
+metin: "Metakolin veya egzersizle bronş provokasyon testiyle."
+# kaynak: 2._Sınıf_2.3_Göğüs_hastalıkları_Öksürük_balgam_hemoptizi_ders.txt

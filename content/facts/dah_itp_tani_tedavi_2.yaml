@@ -1,0 +1,11 @@
+id: dah_itp_tani_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ITP'de kemik iliği biyopsisi endikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_trombositopeni]
+metin: "Atipik hücreler, pansitopeni, lökoeritroblastoz, açıklanamayan splenomegali."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Trombositopeni_4._sınıf-2020.txt

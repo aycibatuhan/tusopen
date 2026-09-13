@@ -1,0 +1,14 @@
+id: genetik_insan_genom_projesi_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İnsan genomundaki gen sayısı kaçtır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: Yaklaşık 20.500; beklenen 140.000'in çok altında.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_9._Ders_Genetik_muh._ve_insan_genom_projesi.txt

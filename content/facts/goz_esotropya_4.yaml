@@ -1,0 +1,11 @@
+id: goz_esotropya_4
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hirschberg testinde 1 mm korneal kayma kaç derece şaşılığa eşittir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_sasilik_pediatrik, goz_sp_ezotropya]
+metin: "7 derece, yani 15 prizm dioptir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Şaşılık.DERS_-_Kopya.txt

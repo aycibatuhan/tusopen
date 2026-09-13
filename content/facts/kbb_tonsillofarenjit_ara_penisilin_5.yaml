@@ -1,0 +1,11 @@
+id: kbb_tonsillofarenjit_ara_penisilin_5
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AGBHS'de penisilin direnci durumu nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_tonsillit_farenjit]
+metin: "Halen direnç saptanmamıştır; penisilin ilk seçenektir."
+# kaynak: 5.sınıf_KBB_2-TONSİL_FARENKS_VE_ADENOİD_BÖLGENİN_ENFEKSİYONLARI.txt

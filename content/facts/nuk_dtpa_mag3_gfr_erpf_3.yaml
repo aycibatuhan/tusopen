@@ -1,0 +1,11 @@
+id: nuk_dtpa_mag3_gfr_erpf_3
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dinamik böbrek sintigrafisinin başlıca endikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_genitouriner, nt_gu_dinamik_bobrek]
+metin: "Split renal fonksiyon ve perfüzyon-ekskresyon değerlendirmesi, diürezis sintigrafisi, transplant böbreği izlemi, kaptopril sintigrafisiyle renovasküler hipertansiyon araştırması."
+# kaynak: 5.sınıf_Nükleer_Tıp_nefroüroloji_psma_eklenmiş.txt

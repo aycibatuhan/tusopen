@@ -1,0 +1,11 @@
+id: mikro_rna_hepatit_c_d_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HDV'nin zarfını hangi virüsten ödünç alır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_hepatit_c_d]
+metin: "HBV'den; zarf proteini HBsAg'dir."
+# kaynak: 10-Viral_Hepatitler_2020.txt

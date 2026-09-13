@@ -1,0 +1,15 @@
+id: enf_diabetik_ayak_pedis_sinif_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi ESR değeri diyabetik ayakta osteomiyeliti düşündürür?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_diyabetik_ayak
+metin: 70 mm/saat ve üzeri; kesin tanıda perkütan veya açık kemik biyopsisi esas alınır.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_diyabetik_ayak_dersi_2021.txt

@@ -1,0 +1,11 @@
+id: anes_aclik_sureleri_premedikasyon_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çocukta premedikasyonda en sık sedatif ve oral dozu nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_preoperatif, anes_pre_aclik_premedikasyon]
+metin: "Midazolam; oral dozu 0.5-1 mg/kg'dır."
+# kaynak: 4._Sınıf_Anestezi_1.txt

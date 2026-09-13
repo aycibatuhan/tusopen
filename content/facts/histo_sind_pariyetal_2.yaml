@@ -1,0 +1,14 @@
+id: histo_sind_pariyetal_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İntrensek faktör eksikliği hangi tabloyu yapar?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sindirim
+  - histo_sind_ozofagus_mide
+metin: B12'nin ileumdan emilimi bozulur; megaloblastik eritropoezle giden pernisyöz anemi.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_sistemi_Mide.txt

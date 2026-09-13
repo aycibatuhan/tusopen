@@ -1,0 +1,15 @@
+id: ped_neo_rds_ttn_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: RDS'den korunma ve surfaktanın yararı nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_solunum_sikintisi
+metin: Antenatal tek kür betametazon; eksojen surfaktan pnömotoraks riskini %30-65, mortaliteyi %40 azaltır.
+
+# kaynak: 4._Sınıf_Pediatri_Mehmet_Vural_yd_solunum_sıkıntısı-kısa.txt

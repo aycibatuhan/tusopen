@@ -1,0 +1,11 @@
+id: fiz_kan_trombosit_esikler_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal trombosit sayısı ve yarı ömrü nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_trombosit_hemostaz]
+metin: "250.000-500.000/mm3 (klinik kabul 150.000-400.000); yarı ömür 8-12 gün."
+# kaynak: 2._Sınıf_2.4_2.vize_fizyoloji_Trombositler_TÜRKÇE_GRUBU-2020.txt, 7._ders_3-Kanın-Fiziksel_Özellikleri.txt

@@ -1,0 +1,11 @@
+id: pat_kyd_kemik_tumorleri_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteosarkomun radyolojik işaretleri nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_kemik_yumusak_doku, pat_kyd_kemik_tumorleri]
+metin: "Güneş ışını periosteal reaksiyonu ve Codman üçgeni."
+# kaynak: 2._Sınıf_2.1_patoloji_kemik_patolojisi_II.txt

@@ -1,0 +1,10 @@
+id: fiz_ureme_gebelik_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plasenta östrojeninin öncüsü nereden gelir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_ureme, fiz_ureme_gebelik]
+metin: "Fetal adrenal DHEA sülfattan, aromataz etkisiyle yapılır."

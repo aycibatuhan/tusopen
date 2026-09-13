@@ -1,0 +1,10 @@
+id: dah_onk_paraneoplastik_2
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PTHrP'ye bağlı humoral hiperkalsemi hangi tümörlerde öne çıkar?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_paraneoplastik]
+metin: "Skuamöz hücreli akciğer, baş-boyun, idrar yolu ve over karsinomlarında."

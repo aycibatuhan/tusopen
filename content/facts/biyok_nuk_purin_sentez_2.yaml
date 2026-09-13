@@ -1,0 +1,10 @@
+id: biyok_nuk_purin_sentez_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pürin yıkımının sırası ve son enzimi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_nukleotid, biyok_nuk_purin_sentez]
+metin: "Hipoksantin ksantine, ksantin oksidazla ürik asite."

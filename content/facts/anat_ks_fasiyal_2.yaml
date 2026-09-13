@@ -1,0 +1,10 @@
+id: anat_ks_fasiyal_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Chorda tympani hangi işlevleri taşır?
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_fasiyal]
+metin: Ön 2/3 tat duyusu; submandibular ganglionla submandibular-sublingual sekresyon.

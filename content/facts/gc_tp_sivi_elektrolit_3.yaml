@@ -1,0 +1,13 @@
+id: gc_tp_sivi_elektrolit_3
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İnsensible kayıplar ne kadardır?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_sivi_elektrolit
+metin: Yaklaşık 10 mL/kg/gün; ateşin her 1 derecesi %10 artırır.

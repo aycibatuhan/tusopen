@@ -1,0 +1,10 @@
+id: fiz_gis_mide_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En güçlü asit baskılayıcı ilaç grubu hangisidir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_mide]
+metin: "Proton pompa inhibitörleri; hidrojen-potasyum ATPaz'ı bloke eder."

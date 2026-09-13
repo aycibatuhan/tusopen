@@ -1,0 +1,11 @@
+id: hsag_ep_bias_tipleri_1
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bias (yanlılık) nedir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_epidemiyoloji, hs_ep_yanlilik_karistirici]
+metin: "Yöntembilimsel aksamadan doğan sistematik hata; örneklemin büyütülmesiyle giderilemez."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD1_Klinik_Biyoistatistiğe_Giriş__Araştırma_Yöntembilimi__Terminoloji__Bilgi__ölçüm__Hata__Bivariate_Yöntemler_(1).txt, 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD4a_Klinik_Araştırmalarda_Kalite__EK1-Veri_kalitesi__EK2-Standartlar_Randomizasyon__Körleme__Klavuzlar.txt

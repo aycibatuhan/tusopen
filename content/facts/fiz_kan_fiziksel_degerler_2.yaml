@@ -1,0 +1,11 @@
+id: fiz_kan_fiziksel_degerler_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kanın viskozitesi sudan kaç kat fazladır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_plazma]
+metin: "Vücut ısısında 2.5 santipoise ile yaklaşık 5 kat; plazma yarısı."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt

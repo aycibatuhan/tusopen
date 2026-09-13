@@ -1,0 +1,11 @@
+id: fiz_sinir_lif_sinifi_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Soğuk ve lokal anestezikler iletiyi nasıl etkiler?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_noron]
+metin: "Soğuk yavaşlatıp 0-5 C'de bloke eder; anestezikler Na+ kanalını geri dönüşümlü bloke eder."
+# kaynak: 6._Ders_1.Sinir_Liflerinin_Sınıflandırılması.txt

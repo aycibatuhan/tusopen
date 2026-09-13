@@ -1,0 +1,11 @@
+id: farm_kv_antianginal_5
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Prinzmetal (vazospastik) anjinada tercih ve kontrendike?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_antianginal]
+metin: "İlk tercih kalsiyum kanal blokerleri; beta blokerler kontrendike."
+# kaynak: 2._Sınıf_2.2_Farmakoloji_antianjinal_ilaçlar_2018sonnöğrenciii.txt, 2._Sınıf_2.2_Farmakoloji_ANTİANGİNAL_İLAÇLAR2019_öğrenci_(1).txt

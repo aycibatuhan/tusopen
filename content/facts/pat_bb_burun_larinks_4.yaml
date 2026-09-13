@@ -1,0 +1,11 @@
+id: pat_bb_burun_larinks_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "EBV nazofarinks karsinomunda dokuda nasıl araştırılır?"
+taksonomi:
+  - [ttbt, patoloji, pat_bas_boyun, pat_bb_burun_larinks]
+metin: "EBER-1 in-situ hibridizasyonu ile."
+# kaynak: 2._Sınıf_2.3_Patoloji_1-Solunum_sistemi_hastalıkları_2019.txt

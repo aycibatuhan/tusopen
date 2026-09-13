@@ -1,0 +1,11 @@
+id: anes_kristaloid_secimi_sivi_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vücut suyu kaybının sonuçları nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_sivi_kan, anes_sk_sivi_tedavisi]
+metin: "%5 kayıp belirgin susuzluk, %10 hastalık tablosu, %20 ölümcül sonuç yaratır."
+# kaynak: 4._Sınıf_Anestezi_3.txt

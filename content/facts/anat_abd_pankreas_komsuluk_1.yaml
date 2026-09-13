@@ -1,0 +1,11 @@
+id: anat_abd_pankreas_komsuluk_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Pankreas caput'u nerede yer alır?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_pankreas_dalak]
+metin: V. cava inferior ile v. renalis'in önünde, duodenum kavsinin içinde yer alır.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-YUSUF_ZEKİ_YILDIZ-Sindirim-organları-I.txt

@@ -1,0 +1,13 @@
+id: gc_tp_hemostaz_transfuzyon_1
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Restriktif transfüzyon stratejisinde Hb eşiği nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_hemostaz_transfuzyon
+metin: 7-8 g/dL (koroner arter hastalığında 8 g/dL).

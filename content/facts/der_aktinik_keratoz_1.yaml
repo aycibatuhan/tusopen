@@ -1,0 +1,11 @@
+id: der_aktinik_keratoz_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alt dudakta yerleşen aktinik keratozun adı nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_deri_tumorleri, derm_tu_prekanseroz]
+metin: "Aktinik keilittir."
+# kaynak: 5.sınıf_Dermatoloji_Prekanserözler__ZAF.txt

@@ -1,0 +1,11 @@
+id: biyok_min_cinko_bakir_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Wilson ve Menkes hastalıklarının bulguları nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_mineral_eser]
+metin: "Wilson'da bakır birikimi, Kayser-Fleischer halkası, serüloplazmin düşük; Menkes'te kırılgan kıvırcık saç."
+# kaynak: 1._Sınıf_1.2_Biyokimya_eser_element-_özlem_2018.txt

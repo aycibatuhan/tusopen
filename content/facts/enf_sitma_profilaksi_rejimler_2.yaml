@@ -1,0 +1,15 @@
+id: enf_sitma_profilaksi_rejimler_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Klorokin dirençli falciparum bölgesinde profilaksi seçenekleri nelerdir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_asilar_seyahat
+  - enf_as_seyahat
+metin: Meflokin 250 mg/hafta (2 hafta önce), doksisiklin 100 mg/gün (1-2 gün önce), Malarone (1 gün önce başlanır).
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sıtma_ve_Seyahatla_İlişkili_Enfeksiyonlar.txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Antimikkemoprofilaksison.txt

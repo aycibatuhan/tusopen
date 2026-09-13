@@ -1,0 +1,11 @@
+id: kd_pph_tanim_atoni_3
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Postpartum kanamada şok göstergeleri nelerdir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_postpartum, kd_pos_kanama]
+metin: "TA <90/60 mmHg, sistolikte 40 mmHg düşme, taşikardi, idrar <20 mL/saat."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_obstetrik_ve_jinekolojik_şok.txt

@@ -1,0 +1,11 @@
+id: anes_sepsis_tani_saat_paketi_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Septik şok tanımı nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_sepsis]
+metin: "30 mL/kg sıvı resüsitasyonuna rağmen OAB <65 mmHg sürmesi ve/veya laktat >2 mmol/L."
+# kaynak: 4._Sınıf_Anestezi_2.txt

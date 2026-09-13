@@ -1,0 +1,11 @@
+id: der_urtiker_klinik_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut ve kronik ürtiker zaman eşiği nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_urtiker_ilac, derm_ui_urtiker_anjioodem]
+metin: "6 haftadan kısa seyir akut; uzun ve haftada en az iki ataklı seyir kroniktir."
+# kaynak: 5.sınıf_Dermatoloji_u_rtiker_ders.txt

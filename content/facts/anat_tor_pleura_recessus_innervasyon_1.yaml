@@ -1,0 +1,11 @@
+id: anat_tor_pleura_recessus_innervasyon_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Pleura parietalis'in bölümleri hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_plevra]
+metin: Pars costalis, mediastinalis, diaphragmatica ve pleura cervicalis (cupula).
+# kaynak: 2._Sınıf_2.3_Anatomi_2019_Solunum_Sistemi.txt

@@ -1,0 +1,10 @@
+id: fiz_endo_tiroid_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tiroidin T4 ve T3 salgı yoğunluğu ile T3'ün gücü nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_tiroid]
+metin: "Ağırlıklı T4 üretilir; T3 az salgılanır ama üç-dört kat etkilidir."

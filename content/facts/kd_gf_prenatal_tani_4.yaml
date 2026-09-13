@@ -1,0 +1,10 @@
+id: kd_gf_prenatal_tani_4
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Koryonik villus örneklemesi ve amniyosentez zamanlaması nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_prenatal_tani]
+metin: "CVS 10-13. haftada; amniyosentez 15-20. haftada (ideal 16-18)."

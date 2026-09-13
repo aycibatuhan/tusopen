@@ -1,0 +1,11 @@
+id: mikro_rna_picorna_polio_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Polio tanısında altın standart yöntem hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_picorna]
+metin: "Nötralizasyon testi; BOS'da RT-PCR duyarlılığı yüzde 90 üzeridir."
+# kaynak: 7-Picornaviridea_2020.txt

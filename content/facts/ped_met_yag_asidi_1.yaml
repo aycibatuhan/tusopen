@@ -1,0 +1,14 @@
+id: ped_met_yag_asidi_1
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yağ asidi oksidasyon bozukluklarının tipik tablosu nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_yag_asidi_oksidasyon
+metin: Uzun açlıkta keton sentezi yapılamadığı için hipoketotik hipoglisemi; normal bebek ateşli hastalık-gecelik açlıkla kusma, letarji, nöbet, koma ile gelir.
+

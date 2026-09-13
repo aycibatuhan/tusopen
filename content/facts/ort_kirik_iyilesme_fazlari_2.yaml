@@ -1,0 +1,11 @@
+id: ort_kirik_iyilesme_fazlari_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Primer (osteonal) kırık iyileşmesi hangi koşullarda gelişir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kirik_genel, orto_kg_kirik_iyilesmesi]
+metin: "Anatomik redüksiyon ve rijid immobilizasyonla, görünür kallus olmadan."
+# kaynak: 5.sınıf_Ortopedi_Kırık_İyileşmesi.txt

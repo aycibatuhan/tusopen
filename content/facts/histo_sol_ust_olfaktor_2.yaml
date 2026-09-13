@@ -1,0 +1,14 @@
+id: histo_sol_ust_olfaktor_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Periferik sinir sisteminin tek gerçek bipolar nöronları hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_solunum
+  - histo_sol_ust
+metin: Koku hücreleri; silyaları G proteine eşleşmiş koku reseptörüdür (adenilat siklaz-cAMP yolağı).
+# kaynak: 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ-2016.txt

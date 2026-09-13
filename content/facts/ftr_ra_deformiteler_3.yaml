@@ -1,0 +1,11 @@
+id: ftr_ra_deformiteler_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RA'da ulnar deviasyonun mekanizması nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_romatoid_artrit_rehab]
+metin: "MKF eklemlerinin volar yüze subluksasyonuna bağlıdır."
+# kaynak: 5.sınıf_FTR_ROMATOİD_ARTRİT__Otomatik_kaydedilme_.txt

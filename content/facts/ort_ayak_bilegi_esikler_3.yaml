@@ -1,0 +1,11 @@
+id: ort_ayak_bilegi_esikler_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tibiofibular overlap için normal alt sınırlar nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_ayak_bilegi]
+metin: "AP görünümde 6 mm'den fazla, mortise görünümde 1 mm'den fazla."
+# kaynak: 5.sınıf_Ortopedi_AYAK_VE_AYAK_BİLEĞİ_MUAYENESİ_İNG-MKÖ.txt

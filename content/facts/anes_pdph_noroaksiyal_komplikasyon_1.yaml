@@ -1,0 +1,11 @@
+id: anes_pdph_noroaksiyal_komplikasyon_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Post-dural ponksiyon baş ağrısının tipik özelliği nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_rejyonal, anes_ra_noroaksiyal_komplikasyon]
+metin: "Dik dururken ve ayağa kalkınca artan, sırtüstü pozisyonda azalan ağrıdır."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Rejyonal_Anestezi_Ders_Mart_2022.txt

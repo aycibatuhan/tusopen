@@ -1,0 +1,10 @@
+id: anat_ks_vagus_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Vagusun parasempatik innervasyonu bağırsakta nereye kadar?
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_vagus]
+metin: Sol kolon fleksurasına kadar; distal bölüm S2-S4 parasempatikleriyle innerve edilir.

@@ -1,0 +1,11 @@
+id: fiz_kas_nmj_mekanizma_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Minyatür uç plak potansiyeli nedir ve nasıl oluşur?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_noromuskuler]
+metin: "İstirahatte saniyede bir vezikülün boşalmasıyla 0.4-0.5 mV'luk potansiyel."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_Nöromüsküler_İleti_2019.txt

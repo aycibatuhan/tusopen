@@ -1,0 +1,11 @@
+id: mikro_yersinia_pestis_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Y. enterocolitica enfeksiyonunun yaşa göre tabloları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_yersinia]
+metin: "Çocukta enterokolit; gençlerde apandisit taklidi yapan mezenterik lenfadenit; erişkinlerde ishal veya ishalsiz farenjit."
+# kaynak: Salmonella_Shigella_Yersinia_(2).txt

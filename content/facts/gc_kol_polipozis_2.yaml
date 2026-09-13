@@ -1,0 +1,14 @@
+id: gc_kol_polipozis_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 2 cm'den büyük kolorektal adenomda kanserleşme riski?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_kolon_rektum_anus
+  - gc_kol_polipozis
+metin: '%35 (<1 cm''de %1; 1-2 cm''de %10).'
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Süphan_Ertürk_KR_Polipler.txt

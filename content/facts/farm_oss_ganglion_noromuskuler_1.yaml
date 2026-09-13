@@ -1,0 +1,11 @@
+id: farm_oss_ganglion_noromuskuler_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Süksinilkolinin yıkımı ve riski?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otonom, farm_oss_ganglion_noromuskuler]
+metin: "Psödokolinesterazla 8 dakikadan kısa; halotanla malign hipertermi riski."
+# kaynak: 2._Sınıf_2.1_farmakoloji_Nöromüsküler_İleti_ilaçları_son.txt, 2._Sınıf_2.2_Farmakoloji_Otonom_SS.txt

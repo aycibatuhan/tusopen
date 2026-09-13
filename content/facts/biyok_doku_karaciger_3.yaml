@@ -1,0 +1,10 @@
+id: biyok_doku_karaciger_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Karaciğerin yabancı madde atılımı basamakları ve enzimleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_doku_organ, biyok_doku_karaciger]
+metin: "Faz 1 oksidasyon ve faz 2 konjugasyon; alkol dehidrogenaz, sitokrom P450 görev alır."

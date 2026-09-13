@@ -1,0 +1,11 @@
+id: nor_isk_kanama_nedenleri_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nontravmatik intraserebral kanamanın en sık nedeni nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_intraserebral_kanama]
+metin: "Hipertansiyon (%50); ikinci sırada serebral amiloid anjiyopati (%12)."
+# kaynak: 5.sınıf_Nöroloji_kanamalar_türkçe_2021_eylül.txt

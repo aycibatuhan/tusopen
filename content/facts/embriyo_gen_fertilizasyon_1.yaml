@@ -1,0 +1,13 @@
+id: embriyo_gen_fertilizasyon_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Fertilizasyon nerede ve ne zaman gerçekleşir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_fertilizasyon
+metin: Tuba uterina'nın ampullasında; ovulasyondan sonraki ilk 24 saat içinde.

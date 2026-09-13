@@ -1,0 +1,15 @@
+id: enf_ie_dis_profilaksi_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Diş girişiminde infektif endokardit profilaksisinin standart rejimi nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_kardiyovaskuler
+  - enf_kv_endokardit
+metin: Girişimden 30-60 dakika önce tek doz oral amoksisilin 2 g.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Antimikkemoprofilaksison.txt

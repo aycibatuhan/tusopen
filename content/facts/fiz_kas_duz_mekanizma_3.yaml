@@ -1,0 +1,11 @@
+id: fiz_kas_duz_mekanizma_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Latch köprüsü nedir ve ne avantaj sağlar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_duz]
+metin: "Defosforile çapraz köprünün uzun süre aktinden ayrılmaması; ATP harcaması 300 kat azalır."
+# kaynak: 16-Düz_Kasın_Kasılma_ve_Gevşemesinin_İyonik_Temelleri.txt, 15-Düz_Kasın_Hücresel_ve_Elektriksel_Özellikleri.txt

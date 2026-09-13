@@ -1,0 +1,10 @@
+id: pat_bob_nefrotik_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çocuklarda en sık nefrotik sendrom nedeni hangisidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_bobrek, pat_bob_nefrotik]
+metin: "Minimal değişiklik hastalığı; EM'de podosit ayak süreçleri silinir."

@@ -1,0 +1,13 @@
+id: embriyo_sis_damarlar_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ductus venosus fetal dolaşımda kanı nereye yönlendirir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_damarlar
+metin: Oksijence zengin göbek kordonu veni kanını karaciğeri aşıp inferior vena kavaya (portal kan sinüzoidlere girer).

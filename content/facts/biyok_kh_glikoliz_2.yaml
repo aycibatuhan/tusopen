@@ -1,0 +1,10 @@
+id: biyok_kh_glikoliz_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glikolizin hız kısıtlayıcı enzimi ve düzenleyicileri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_glikoliz]
+metin: "Fosfofruktokinaz-1; fruktoz-2,6-bisfosfat ve AMP uyarır, ATP ve sitrat baskılar."

@@ -1,0 +1,10 @@
+id: mikro_gnb_haemophilus_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "H. influenzae satelitizmi hangi ortamda ve nasıl görülür?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_haemophilus]
+metin: "Kanlı agarda S. aureus kolonileri çevresinde büyür; gerçek üreme çikolatalı agarda olur."

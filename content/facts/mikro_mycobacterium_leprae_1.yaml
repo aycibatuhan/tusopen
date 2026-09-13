@@ -1,0 +1,11 @@
+id: mikro_mycobacterium_leprae_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "M. leprae kültür özellikleri ve deneysel konağı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_leprae]
+metin: "İn vitro kültürü yapılamaz; en duyarlı deneysel hayvan dokuz şeritli armadillodur."
+# kaynak: Mycobacterium_leprae.txt

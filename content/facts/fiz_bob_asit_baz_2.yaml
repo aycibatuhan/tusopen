@@ -1,0 +1,10 @@
+id: fiz_bob_asit_baz_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Filtre edilen bikarbonatın yüzde kaçı, nerede ve hangi enzimle geri alınır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_asit_baz]
+metin: "Yaklaşık yüzde 85'i proksimal tübülde, karbonik anhidraz aracılığıyla."

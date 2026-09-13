@@ -1,0 +1,11 @@
+id: dah_diabetes_insipidus_tani_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Santral ve nefrojenik DI su kısıtlama testinde nasıl ayrışır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diabetes_insipidus_siadh]
+metin: "Desmopressinle artış: tam santral %50 üzeri, parsiyel %10-50, nefrojenik %10 altı."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Arka_Hipofiz_Hastalıkları.txt

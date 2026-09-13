@@ -1,0 +1,11 @@
+id: anat_art_ayak_bilek_baglari_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Ayak burkulması en sık hangi mekanizmayla olur?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_ayak_bilek]
+metin: İnversiyonda lateral lig. collaterale'nin (talofibulare anterius, calcaneofibulare, talofibulare posterius) zorlanması.
+# kaynak: 2._Sınıf_2.1_Anatomi_2.1_Alt_taraf_eklemleri_2019-20.txt

@@ -1,0 +1,11 @@
+id: anat_pel_mesane_trigonum_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Spatium prevesicale (Retzius) içinde ne bulunur?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_mesane_uretra]
+metin: Santorini venöz pleksusu; symphysis pubica ile mesane arasındadır.
+# kaynak: 3._Sınıf_3.2_Anatomi_üriner_sistem_2020.txt

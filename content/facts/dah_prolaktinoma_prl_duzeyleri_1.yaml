@@ -1,0 +1,11 @@
+id: dah_prolaktinoma_prl_duzeyleri_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Prolaktin düzeyi prolaktinoma boyutuyla nasıl ilişkilidir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_prolaktinoma]
+metin: "Mikroprolaktinomada 100-300 ng/mL; makroprolaktinomada 200-5000 ng/mL (normal 2-20)."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Fonksiyonel_Hipofiz_Adenomlar_-.txt

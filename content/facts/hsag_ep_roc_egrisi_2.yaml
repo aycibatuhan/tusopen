@@ -1,0 +1,11 @@
+id: hsag_ep_roc_egrisi_2
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Eğri altı alan (AUC) nasıl yorumlanır?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_epidemiyoloji, hs_ep_duyarlilik_ozgulluk]
+metin: "0.5 hiçbir bilgi sağlamaz, 1.0 %100 başarılı ayrımı gösterir."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD5_Tanı_testleri__duyarlılık__özgüllük__prediktif_değerler__ROC_eğrisi.txt

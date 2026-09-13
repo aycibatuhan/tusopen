@@ -1,0 +1,11 @@
+id: mikro_am_etki_mekanizmalari_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vankomisin hangi yapıya bağlanarak hücre duvar sentezini engeller?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_etki_mekanizmalari]
+metin: "D-alanin uçlarına bağlanan glikopeptid; teikoplanin de bu gruptandır."
+# kaynak: antibiyotiklerin_etki_spektrumları15.txt

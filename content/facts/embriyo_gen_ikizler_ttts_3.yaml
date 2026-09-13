@@ -1,0 +1,14 @@
+id: embriyo_gen_ikizler_ttts_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: TTTS'de veren ve alan ikizin bulguları nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_ikizler
+metin: Veren anemik, küçük ve soluk; alan büyük ve polisitemik; tedavide fetoskopik lazer ablasyonu.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_ikizler_ve_Doğum_G.Tanriverdi.txt

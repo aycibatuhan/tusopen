@@ -1,0 +1,10 @@
+id: fiz_ureme_kadin_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "LH salgı dalgası ovulasyonu kaç saatte tetikler?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_ureme, fiz_ureme_kadin]
+metin: "Orta döngü östrojen tepesi LH dalgası yapar; ovulasyon 24-36 saat içinde."

@@ -1,0 +1,11 @@
+id: dah_dka_tani_kriterleri_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "DKA tanı kriterleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diyabet_akut_komplikasyon]
+metin: "Glukoz 250 mg/dL üzeri, pH 7,3 altı, bikarbonat 15 altı, anyon açığı 12 üzeri."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Acute_complications.txt

@@ -1,0 +1,11 @@
+id: uro_renal_travma_goruntuleme_4
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Renal travmanın geç komplikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, uroloji, uro_acil_ve_travma, uro_at_renal_travma]
+metin: "Ürinom (internal stent), perinefritik abse, gecikmiş kanama (anjiyo-embolizasyon), hipertansiyon."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt

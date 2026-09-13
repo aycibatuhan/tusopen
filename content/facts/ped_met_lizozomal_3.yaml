@@ -1,0 +1,14 @@
+id: ped_met_lizozomal_3
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kiraz kırmızı beneği hangi lizozomal hastalıklarda görülür?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_lizozomal
+metin: Niemann-Pick (sfigomiyelinaz) ve Tay-Sachs (heksosaminidaz A); Tay-Sachs'ta hepatosplenomegali yoktur.
+

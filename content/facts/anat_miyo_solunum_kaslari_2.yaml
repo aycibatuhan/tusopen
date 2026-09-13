@@ -1,0 +1,11 @@
+id: anat_miyo_solunum_kaslari_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Yardımcı inspirasyon kaslarına örnekler?
+taksonomi:
+  - [ttbt, anatomi, anat_miyoloji, anat_miyo_toraks_kaslari]
+metin: Mm. scaleni (anterior-medius), m. sternocleidomastoideus, m. serratus anterior ve pectoral kaslar.
+# kaynak: 2._Sınıf_2.3_Anatomi_2019_Solunum_Sistemi.txt

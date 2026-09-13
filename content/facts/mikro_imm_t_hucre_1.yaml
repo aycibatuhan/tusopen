@@ -1,0 +1,10 @@
+id: mikro_imm_t_hucre_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CD4 ve CD8 T hücreleri hangi MHC sınıfını tanır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_t_hucre]
+metin: "CD4 MHC sınıf II, CD8 MHC sınıf I molekülleriyle sunulan peptidleri tanır."

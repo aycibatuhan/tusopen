@@ -1,0 +1,10 @@
+id: biyok_klin_bobrek_testleri_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BUN-kreatinin oranı artışı ve Bence Jones proteini neyi düşündürür?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_klinik, biyok_klin_bobrek_testleri]
+metin: "Oran artışı prerenal azotemi; Bence Jones proteini multipl miyelom düşündürür."

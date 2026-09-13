@@ -1,0 +1,11 @@
+id: anat_art_kalca_femur_basi_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Çocukta femur başı hangi arterle kanlanır?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_kalca]
+metin: Lig. capitis femoris içindeki a. capitis femoris (a. obturatoria dalı) ile.
+# kaynak: 3._Sınıf_3.3_Anatomi_ALT_TARAF_ANATOMİSİ_2021.txt

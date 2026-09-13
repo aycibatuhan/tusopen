@@ -1,0 +1,13 @@
+id: embriyo_gen_ikinci_hafta_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bilaminar diskin katmanları hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_ikinci_hafta
+metin: Üst katman epiblast, alt katman hipoblast.

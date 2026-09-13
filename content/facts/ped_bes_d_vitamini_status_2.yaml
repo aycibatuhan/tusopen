@@ -1,0 +1,15 @@
+id: ped_bes_d_vitamini_status_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: D vitamininin etkin formu ve yarı ömrü nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_rasitizm
+metin: Böbrekte 1α-hidroksilaz ile yapılan 1,25(OH)2D (kalsitriol); yarı ömrü 6-8 saattir.
+
+# kaynak: 4._Sınıf_Pediatri_Elvan_Bayramoğlu_Rikets_ve_D_vitamini_eksikliği_ders_4.txt

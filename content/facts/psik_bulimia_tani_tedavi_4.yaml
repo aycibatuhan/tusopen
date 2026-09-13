@@ -1,0 +1,11 @@
+id: psik_bulimia_tani_tedavi_4
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anoreksiya ve bulimia hangi küme kişilik özellikleriyle ilişkilidir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_yeme_uyku_cinsel, psik_yu_bulimia]
+metin: "Anoreksiya C, bulimia B kümesi."
+# kaynak: 5.sınıf_PSİKİYATRİ_Yeme_bozuklukları.txt

@@ -1,0 +1,11 @@
+id: nor_sak_tani_algoritmasi_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SAK'ta BT kanı ne zamana kadar gösterir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_sak]
+metin: "2. günden sonra görülme olasılığı azalmaya başlar."
+# kaynak: 5.sınıf_Nöroloji_kanamalar_türkçe_2021_eylül.txt

@@ -1,0 +1,11 @@
+id: nor_lems_ve_botulizm_4
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Botulizmde toksin ne yapar ve tedavinin esası nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_lambert_eaton_botulizm]
+metin: "Asetilkolin salınımını engeller; esası mekanik ventilasyondur."
+# kaynak: 5.sınıf_Nöroloji_NÖROMUSKÜLER_BİLEŞKE.txt

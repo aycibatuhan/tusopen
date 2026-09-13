@@ -1,0 +1,11 @@
+id: der_stafilokoksik_haslanmis_deri_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Haşlanmış deri sendromu kimlerde ve nasıl bulaşır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bakteriyel, derm_bk_stafilokoksik_toksin]
+metin: "Çoğunlukla yenidoğan ve bebeklerde; impetigolu aile bireylerinden bulaşır."
+# kaynak: 5.sınıf_Dermatoloji_ZK-PİYODERMA.txt

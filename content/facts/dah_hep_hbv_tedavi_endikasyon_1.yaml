@@ -1,0 +1,11 @@
+id: dah_hep_hbv_tedavi_endikasyon_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kronik hepatit B'de antiviral tedavi endikasyonu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_hepatit_b]
+metin: "HBV DNA 2000 IU/ml üzeri artı HAI 6 üzeri veya fibrozis 2 üzeri; sirozda biyopsi gerekmez."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_HBV-2021-2022.txt

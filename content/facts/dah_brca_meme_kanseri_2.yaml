@@ -1,0 +1,11 @@
+id: dah_brca_meme_kanseri_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BRCA1 ve BRCA2 tümör fenotipleri nasıl ayrışır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_meme_kanseri]
+metin: "BRCA1 büyük çoğunlukla üçlü-negatif; BRCA2 genellikle ER/PR pozitif."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_Meme_Kanseri_1.txt

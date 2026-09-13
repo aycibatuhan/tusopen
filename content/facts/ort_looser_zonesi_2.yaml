@@ -1,0 +1,11 @@
+id: ort_looser_zonesi_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteomalazide beklenen laboratuvar bulguları nelerdir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_metabolik_kemik, orto_mk_rasitizm_osteomalazi]
+metin: "Fosfor ve D vitamini düşük, PTH ve alkalin fosfataz yüksek."
+# kaynak: 5.sınıf_Ortopedi_metabolic_bone_disease.txt

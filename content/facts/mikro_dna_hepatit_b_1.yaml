@@ -1,0 +1,10 @@
+id: mikro_dna_hepatit_b_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HBV'nin genom yapısı ve polimeraz özelliği nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_hepatit_b]
+metin: "Kısmen çift sarmallı dairesel DNA; polimeraz revers transkriptaz aktivitesi gösterir."

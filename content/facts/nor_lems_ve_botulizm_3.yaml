@@ -1,0 +1,11 @@
+id: nor_lems_ve_botulizm_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "LEMS hastalarının yüzde kaçında altta yatan malinite vardır?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_lambert_eaton_botulizm]
+metin: "Yaklaşık %60, sıklıkla küçük hücreli akciğer kanseri."
+# kaynak: 5.sınıf_Nöroloji_NÖROMUSKÜLER_BİLEŞKE.txt

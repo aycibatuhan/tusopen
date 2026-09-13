@@ -1,0 +1,15 @@
+id: enf_hiv_tani_dogal_seyir_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: HIV sağlam deriden ve böcek sokmasıyla bulaşır mı?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hiv
+  - enf_hiv_tani_seyir
+metin: Hayır; günlük yaşam temaları ve sivrisinek sokmalarıyla bulaşmaz.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_HIV_enfeksiyonu_(türkçe).txt

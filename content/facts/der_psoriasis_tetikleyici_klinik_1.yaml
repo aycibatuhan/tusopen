@@ -1,0 +1,11 @@
+id: der_psoriasis_tetikleyici_klinik_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Psoriasise duyarlılık geni nerede yerleşiktir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_papuloskuamoz, derm_ps_psoriasis]
+metin: "6p kromozomunda, HLA-C lokusu yakınındadır."
+# kaynak: 5.sınıf_Dermatoloji_psoriasis.txt, 5.sınıf_Dermatoloji_ZK-Psoriasis_and_Psoriasiform_diseases.txt

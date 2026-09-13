@@ -1,0 +1,11 @@
+id: psik_sizoaffektif_tani_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şizoaffektif bozuklukta zorunlu 2 haftalık psikotik koşul nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikotik, psik_ps_sizoaffektif]
+metin: "Duygudurum epizodlarının bulunmadığı dönemde en az 2 hafta hezeyan veya halüsinasyon."
+# kaynak: 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt

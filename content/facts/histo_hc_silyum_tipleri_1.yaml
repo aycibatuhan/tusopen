@@ -1,0 +1,14 @@
+id: histo_hc_silyum_tipleri_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hareketli silyumların düzeni ve yerleri nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_hucre
+  - histo_hc_membran
+metin: 9+2 aksonem; trakea-bronş ağacı ve tuba uterina gibi yüzeylerde mukuslu taşıma sağlarlar.
+# kaynak: 1._Sınıf_1.3_Histoloji_2-3-4._Ders_-epitel_dokusu.txt

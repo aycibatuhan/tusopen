@@ -1,0 +1,11 @@
+id: kbb_saf_ses_ortalamasi_derecelendirme_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SSO 41-55, 56-70, 71-90 ve 91+ dB hangi derecelerdir?"
+taksonomi:
+  - [ktbt, kbb, kbb_kulak_muayene_isitme, kbb_km_odyoloji]
+metin: "Hafif, orta, ileri ve çok ileri işitme kaybı."
+# kaynak: 5.sınıf_KBB_Ahmet_ATAŞ_ODYOLOJİK_kavramlar.txt

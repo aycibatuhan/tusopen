@@ -1,0 +1,10 @@
+id: mikro_imm_asiri_duyarlilik_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aşırı duyarlılık tipleri hangi mekanizmalarla sınıflanır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_asiri_duyarlilik]
+metin: "Tip I IgE anafilaksi, Tip II antikor sitotoksik, Tip III immün kompleks, Tip IV T hücresi gecikmeli."

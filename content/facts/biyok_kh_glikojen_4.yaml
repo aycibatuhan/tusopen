@@ -1,0 +1,10 @@
+id: biyok_kh_glikojen_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Cori ve Andersen hastalıklarının enzim kusurları nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_glikojen]
+metin: "Cori debranching enzim, Andersen branching enzim eksikliği; Andersen sirozla seyreder."

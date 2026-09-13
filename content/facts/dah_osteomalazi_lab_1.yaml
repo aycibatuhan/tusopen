@@ -1,0 +1,11 @@
+id: dah_osteomalazi_lab_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteomalazide laboratuvar tablosu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_osteoporoz]
+metin: "Yüksek ALP, düşük kalsiyum-fosfor, düşük idrar kalsiyumu, artmış PTH, 25-OH D 15 ng/ml altı."
+# kaynak: 4._Sınıf_Dahiliye_osteoporoz_ve_metabolik_kemik_hastalıkları_2018.txt

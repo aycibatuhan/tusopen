@@ -1,0 +1,11 @@
+id: gog_sft_reversibilite_provokasyon_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Geç reversibilite nasıl test edilir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_tani_yontemleri, gog_ty_sft]
+metin: "2-6 haftalık inhaler steroid veya ~40 mg/gün sistemik steroid; FEV1'de %12 ve 200 ml düzelme."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Kısa_Solunum_Fonksiyon_Testleri_2022-23_Ders_Bilun.txt

@@ -1,0 +1,10 @@
+id: fiz_hucre_sinyal_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "IP3 hücrede ne yapar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_sinyal]
+metin: "Endoplazmik retikulumdan kalsiyumun sitoplazmaya salınımını tetikler."

@@ -1,0 +1,11 @@
+id: dah_primer_hpt_lab_cerrahi_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hiperparatiroidizmde radyografide en erken ve özgün bulgu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hiperparatiroidi]
+metin: "El falankslarında subperiostal rezorpsiyon; kraniumda tuz-biber, brown tümörler."
+# kaynak: 4._Sınıf_Dahiliye_ders-paratiroid_hastalıkları.txt

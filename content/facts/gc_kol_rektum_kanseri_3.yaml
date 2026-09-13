@@ -1,0 +1,14 @@
+id: gc_kol_rektum_kanseri_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Alt 1/3 rektum tümöründe cerrahi seçenek?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_kolon_rektum_anus
+  - gc_kol_rektum_kanseri
+metin: Abdominoperineal rezeksiyon (Miles) ve kalıcı sigmoid kolostomi.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Serdar_Yüceyar_Rektum_Kanseri-2017rev.txt

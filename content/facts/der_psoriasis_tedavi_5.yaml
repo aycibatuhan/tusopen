@@ -1,0 +1,11 @@
+id: der_psoriasis_tedavi_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dirençli şiddetli psoriasisde hangi ajanlar devreye girer?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_papuloskuamoz, derm_ps_psoriasis]
+metin: "Biyolojik ajanlar: adalimumab, etanersept, infliksimab, ustekinumab."
+# kaynak: 5.sınıf_Dermatoloji_psoriasis.txt, 5.sınıf_Dermatoloji_ZK-Psoriasis_and_Psoriasiform_diseases.txt

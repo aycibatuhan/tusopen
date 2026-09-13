@@ -1,0 +1,11 @@
+id: dah_cppd_psodogut_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Genç veya poliartiküler CPPD olgusunda hangi nedenler taranmalıdır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_kristal_artropati]
+metin: "Hiperparatiroidizm, hemokromatoz, hipotiroidi, hipomagnezemi ve hipofosfatazi."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_kristal_artrit.txt

@@ -1,0 +1,10 @@
+id: mikro_mko_firsatci_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İmmünsüprese hastada ağız ve yemek borusunda beyaz plakaların etkeni nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_firsatci]
+metin: "Candida albicans; germ tüpü testi ve klamidospor üretimiyle tanınır."

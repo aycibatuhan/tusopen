@@ -1,0 +1,10 @@
+id: fiz_sol_surfaktan_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sürfaktan etkinliği küçük alveollerde neden fazladır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_surfaktan]
+metin: "Küçük alveollerde daha yoğun birikir, etkinliği artar."

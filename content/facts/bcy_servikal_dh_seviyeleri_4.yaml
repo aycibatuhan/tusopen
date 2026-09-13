@@ -1,0 +1,11 @@
+id: bcy_servikal_dh_seviyeleri_4
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Servikal disk hernisi cerrahisinin altın standardı ve başarısı nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_spinal_patoloji, bce_sp_disk_hernisi]
+metin: "Anterior servikal mikrodiskektomi (füzyonlu/füzyonsuz); olguların %80-95'inde tatminkar düzelme."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Spinal_Dejeneratif_Hastalıklar_O.U.txt

@@ -1,0 +1,11 @@
+id: dah_trombosit_transfuzyon_esikler_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kemik iliği biyopsisinde trombosit eşiği var mıdır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_transfuzyon]
+metin: "Yoktur; kemik iliği biyopsisi için eşik gerekmez."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Trombositopeni_4._sınıf-2020.txt

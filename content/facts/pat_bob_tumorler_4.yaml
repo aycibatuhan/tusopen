@@ -1,0 +1,10 @@
+id: pat_bob_tumorler_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "WAGR sendromunun bileşenleri nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_bobrek, pat_bob_tumorler]
+metin: "Wilms tümörü, aniridi, genitoüriner anomaliler, gelişme geriliği."

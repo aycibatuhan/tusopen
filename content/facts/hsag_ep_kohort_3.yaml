@@ -1,0 +1,11 @@
+id: hsag_ep_kohort_3
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kohort çalışması hangi hastalıklar için uygun değildir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_epidemiyoloji, hs_ep_kohort]
+metin: "Latent periodu uzun, insidans hızı düşük hastalıklar için uygun değildir."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD2__Klinik_araştırmalar__Tasarımı__Özellikleri__Sınıflama_ve_Kanıt_Güçleri.txt

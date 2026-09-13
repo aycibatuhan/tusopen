@@ -1,0 +1,11 @@
+id: dah_uremik_bulgular_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Üremik perikardit nasıl seyreder?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_kronik_bobrek]
+metin: "Fibrinli perikardit; substernal ağrı ve frotman."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_Nefrolojide_Anamnez_Alma_.txt

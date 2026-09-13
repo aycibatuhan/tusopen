@@ -1,0 +1,11 @@
+id: der_liken_planus_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Liken planusta oral tutulum sıklığı ve görünümü nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_papuloskuamoz, derm_ps_liken_planus]
+metin: "Yaklaşık yarıda ağrılı erozyonlu tutulum; mukozada Wickham çizgileri abartılıdır."
+# kaynak: 5.sınıf_Dermatoloji_psoriasis.txt, 5.sınıf_Dermatoloji_ZK-Psoriasis_and_Psoriasiform_diseases.txt

@@ -1,0 +1,11 @@
+id: anes_sepsis_tani_saat_paketi_5
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sepsisin ilk 1 saat paketi neleri içerir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_sepsis]
+metin: "Laktat, antibiyotik öncesi kültür, 1 saatte IV antibiyotik, ≤3 saatte 30 mL/kg kristaloid, vazopresör."
+# kaynak: 4._Sınıf_Anestezi_2.txt

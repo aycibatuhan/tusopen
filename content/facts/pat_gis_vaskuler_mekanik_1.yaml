@@ -1,0 +1,11 @@
+id: pat_gis_vaskuler_mekanik_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Transmural bağırsak enfarktünde en sık tıkanan damar?"
+taksonomi:
+  - [ttbt, patoloji, pat_gis, pat_gis_vaskuler_mekanik]
+metin: "Superior mezenterik arter ya da dalları."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Patoloji_GİS_5_10_haziran_2020_son.txt

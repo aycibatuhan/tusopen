@@ -1,0 +1,13 @@
+id: fiz_bob_tubuler_3
+version: 1
+status: draft
+author: ai-drafts/fizyoloji-facts
+sources:
+- Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: "Plazma glukozu eşiği aştığında idrarda ne görülür?"
+taksonomi:
+- - ttbt
+  - fizyoloji
+  - fiz_bobrek
+  - fiz_bob_tubuler
+metin: "Taşıyıcılar doyuma uğrar, idrarda glukoz görülmeye başlar."

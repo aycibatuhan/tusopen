@@ -1,0 +1,14 @@
+id: genetik_nukleozom_kromatin_paketlenmesi_3
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: H1 histonu neyi kilitler?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_dna_yapi_repasyon
+metin: Kromatozomu (166 bp, 2 tam tur).
+# kaynak: 1._Sınıf_1.2_Tıbbi_Biyoloji_DNA_Paketlenmesi_ve_Kromatin_(2017-2018_Güz-M_Güven).txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_Kromozom_Yapısı_ve_Elde_Edilmesi.txt

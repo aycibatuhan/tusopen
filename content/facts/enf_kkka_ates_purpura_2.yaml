@@ -1,0 +1,15 @@
+id: enf_kkka_ates_purpura_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Seyahat ilişkili ateşte hemorajik belirtilerin ayırıcı tanıları nelerdir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_kkka
+metin: Menenjitik olmayan meningokoksemi, leptospiroz, riketsiyal enfeksiyonlar, veba, Vibrio enfeksiyonları ve Lassa ateşi.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sıtma_ve_Seyahatla_İlişkili_Enfeksiyonlar.txt

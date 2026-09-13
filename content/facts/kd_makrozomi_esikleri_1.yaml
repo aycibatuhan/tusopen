@@ -1,0 +1,11 @@
+id: kd_makrozomi_esikleri_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Makrozomi insidansı 4000 ve 4500 g eşiklerinde kaçtır?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_fetal_komplikasyonlar, kd_fk_makrozomi]
+metin: "4000 g üzerinde ~%5 (90. persantilin üstü); 4500 g üzerinde ~%0,4."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Anormal_Doğum-AG.txt

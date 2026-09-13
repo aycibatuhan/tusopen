@@ -1,0 +1,10 @@
+id: anat_abd_duvar_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Direkt ve indirekt inguinal fıtık nereden geçer?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_duvar]
+metin: Direkt fıtık Hesselbach üçgeninden; indirekt fıtık alt epigastrik damarların lateralindeki derin halkadan.

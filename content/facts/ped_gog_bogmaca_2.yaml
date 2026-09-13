@@ -1,0 +1,15 @@
+id: ped_gog_bogmaca_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Boğmacada ayırt edici laboratuvar bulgusu nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_bogmaca
+metin: Lökositoz 15.000-45.000/mm3 (100.000'u aşabilir); formülde hücrelerin >%60'ı lenfosittir.
+
+# kaynak: 4._Sınıf_Pediatri_Haluk_Çokuğraş_bog-kab.txt

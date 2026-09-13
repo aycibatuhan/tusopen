@@ -1,0 +1,11 @@
+id: fiz_sol_yukseklik_dalis_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yüksek irtifada hiperventilasyonu hangi eşik ve mekanizma başlatır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_hipoksi_yukseklik]
+metin: "PO2 60-65 mmHg altında karotid cisimcikler; alkaloz böbrek HCO3- atılımıyla 2-5 günde dengelenir."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2019_Solunum_2._Bölüm.txt, 1._Ders_Fizyolojiye_Giriş_ve_hemoostasis.txt

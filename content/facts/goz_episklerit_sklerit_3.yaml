@@ -1,0 +1,11 @@
+id: goz_episklerit_sklerit_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Skleritte sistemik hastalık birliktelik oranı ve en sık nedeni nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_konjonktiva_kornea, goz_kk_sklerit]
+metin: "Yaklaşık %50; en sık romatoid artrit."
+# kaynak: 5.sınıf_Göz_Hastalıkları_kırmızı_göz_2.txt

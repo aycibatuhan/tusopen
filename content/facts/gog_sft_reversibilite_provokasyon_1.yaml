@@ -1,0 +1,11 @@
+id: gog_sft_reversibilite_provokasyon_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bronkodilatör reversibilite testinde pozitiflik eşiği nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_tani_yontemleri, gog_ty_sft]
+metin: "4 puf SABA sonrası 15-20 dakikada FEV1'de %12 ve 200 ml artış."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Kısa_Solunum_Fonksiyon_Testleri_2022-23_Ders_Bilun.txt

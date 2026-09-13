@@ -1,0 +1,13 @@
+id: gc_pan_adenokarsinom_4
+version: 1
+status: draft
+author: ai-drafts/gaps-onkoloji-anestezi
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Pankreas kanseri tanısında ilk seçim görüntüleme?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_pankreas
+  - gc_pan_adenokarsinom
+metin: Çok fazlı pankreas protokolü kontrastlı BT (rezekabilite + damar invazyonu).

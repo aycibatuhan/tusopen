@@ -1,0 +1,11 @@
+id: psik_narkolepsi_tetrad_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İdiopatik hipersominin belirtileri nelerdir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_yeme_uyku_cinsel, psik_yu_insomni]
+metin: "Uzamış gece uykusu ve sabah kalkmakta zorlanma, dinlendirmeyen gündüz uykululuğu; en az 1 aydır."
+# kaynak: 5.sınıf_PSİKİYATRİ_Uyku_bozuklukları.txt

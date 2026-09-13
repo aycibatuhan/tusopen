@@ -1,0 +1,10 @@
+id: anat_ae_bacak_sinirleri_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Common fibular sinir lezyonunda hangi bulgular görülür?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_bacak_sinirleri]
+metin: Ayak düşüklüğü, eversiyon kusuru ve ayak sırtında duyu kaybı.

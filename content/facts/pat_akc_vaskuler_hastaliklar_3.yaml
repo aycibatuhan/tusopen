@@ -1,0 +1,11 @@
+id: pat_akc_vaskuler_hastaliklar_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ana pulmoner arter tıkanmasının sonucu nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_vaskuler]
+metin: "Akut kor-pulmonale ve ani ölüm; sağ kalp dilatasyonu."
+# kaynak: 2._Sınıf_2.3_Patoloji_2_solunum_Hast_2019.txt

@@ -1,0 +1,11 @@
+id: kbb_schirmer_tukuruk_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Stapedial refleksin kontralateral alınamaması neyi gösterir?"
+taksonomi:
+  - [ktbt, kbb, kbb_fasiyal_sinir, kbb_fs_topografik_tani]
+metin: "Lezyonun n. stapedius dalının proksimalinde olduğunu."
+# kaynak: 5.sınıf_KBB_myener_Fasial_Sinir_ders.txt

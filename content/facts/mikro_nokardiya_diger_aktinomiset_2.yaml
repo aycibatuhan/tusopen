@@ -1,0 +1,11 @@
+id: mikro_nokardiya_diger_aktinomiset_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bakteriyel miçetomanın etkenleri ve ampirik tedavisi nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_aktinomiset_nokardiya]
+metin: "Actinomadura, Nocardiopsis ve Streptomyces; TMP-SMX ile ampirik tedavi başlanır."
+# kaynak: Nocardia__Actinomyces.txt, Corynebacterium_ve_Listeria_cinsi_bakteriler.txt

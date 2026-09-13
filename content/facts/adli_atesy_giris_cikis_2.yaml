@@ -1,0 +1,11 @@
+id: adli_atesy_giris_cikis_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mermi çıkış deliğinin özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_yara_balistik, adl_yb_atesy_rofle]
+metin: "Vurma ve silinti halkaları yoktur; boyutu çok farklı olabilir, girişle karışabilir."
+# kaynak: 5.sınıf_Adli_Tıp_ATEŞLİ_SİLAH_YARALARI_PROF._DR._GÜRSEL_ÇETİN.txt

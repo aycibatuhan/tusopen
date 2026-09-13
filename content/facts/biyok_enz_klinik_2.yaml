@@ -1,0 +1,10 @@
+id: biyok_enz_klinik_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Miyokard infarktüsünde özgünlük sırası ve reinfarkt göstergesi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_klinik]
+metin: "Troponinler öndedir; CK-MB'nin erken normalleşmesi reinfarkt ayırımında kullanılır."

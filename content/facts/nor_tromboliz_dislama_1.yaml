@@ -1,0 +1,11 @@
+id: nor_tromboliz_dislama_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "IV trombolizde zamana göre dışlama kriterleri nelerdir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_akut_tedavi]
+metin: "3 ay içinde inme/ağır kafa travması; 14 günde büyük cerrahi; 21 günde sindirim/ürogenital kanama; 48 saatte heparin."
+# kaynak: 5.sınıf_Nöroloji_Ischemic_Stroke__11.01.2023.txt, 5.sınıf_Nöroloji_nörolojik_aciller_ders.txt

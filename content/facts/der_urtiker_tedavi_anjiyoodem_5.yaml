@@ -1,0 +1,11 @@
+id: der_urtiker_tedavi_anjiyoodem_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ACE inhibitörüne bağlı anjiyoödemin aracısı nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_urtiker_ilac, derm_ui_urtiker_anjioodem]
+metin: "Bradikinin; tabloya ürtiker eşlik etmez."
+# kaynak: 5.sınıf_Dermatoloji_u_rtiker_ders.txt

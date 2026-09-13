@@ -1,0 +1,11 @@
+id: anat_pel_rektum_anal_kanal_5
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Rektum-anal kanalın kanlanması hangi arterlerle?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_rektum_anal]
+metin: A. rectalis'in superior dalı a. mesenterica inferior'dan, media dalı a. iliaca interna'dan, inferior dalı a. pudenda interna'dan gelir.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-TURAN_PEŞTAMALCI-_AbdominoPelvikOrganlar_III_KALIN_BARSAKLAR.txt

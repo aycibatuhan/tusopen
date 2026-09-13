@@ -1,0 +1,10 @@
+id: biyok_lip_beta_oksidasyon_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Her beta-oksidasyon turunun verimi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_beta_oksidasyon]
+metin: "Bir asetil-KoA, bir NADH ve bir FADH2 çıkarır."

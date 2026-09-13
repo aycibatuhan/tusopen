@@ -1,0 +1,10 @@
+id: farm_oss_adrenerjik_agonist_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yüksek doz adrenalinde damar etkisi?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otonom, farm_oss_adrenerjik_agonist]
+metin: "Alfa aracılı damar daralması baskın hale gelir."

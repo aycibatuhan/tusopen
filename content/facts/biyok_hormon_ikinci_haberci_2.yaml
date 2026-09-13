@@ -1,0 +1,11 @@
+id: biyok_hormon_ikinci_haberci_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "cAMP yolağında sinyal nasıl ilerler?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_doku_organ, biyok_doku_hormon]
+metin: "ATP'den cAMP, PKA'yı aktive eder; CREB ile transkripsiyon düzenlenir (glukagon, adrenalin)."
+# kaynak: 1._Sınıf_1.2_Biyokimya_res_2018_son.txt

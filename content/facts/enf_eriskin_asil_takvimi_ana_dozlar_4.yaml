@@ -1,0 +1,15 @@
+id: enf_eriskin_asil_takvimi_ana_dozlar_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Seronegatif erişkinde KKK ve suçiçeği aşısı nasıl uygulanır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_asilar_seyahat
+  - enf_as_eriskin_asilar
+metin: KKK 1 ay arayla 2 doz; suçiçeğinde 13 yaş üstü bağışık olmayanlara 2 doz, 4-8 hafta arayla.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Erişkinde_aşılama_staj_2021.txt

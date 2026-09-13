@@ -1,0 +1,11 @@
+id: pat_kyd_eklem_hastaliklari_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteoartritin morfolojik bulguları nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_kemik_yumusak_doku, pat_kyd_eklem]
+metin: "Kondromalazi, eburnasyon, eklem fareleri, osteofit, subkondral kist; Heberden nodülleri."
+# kaynak: 2._Sınıf_2.1_patoloji_yumuşak_doku_patolojisi-I_artritler.txt

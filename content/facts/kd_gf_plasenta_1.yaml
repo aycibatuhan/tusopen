@@ -1,0 +1,10 @@
+id: kd_gf_plasenta_1
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plasenta hormonlarını hangi hücre kitlesi üretir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_plasenta]
+metin: "Sinksiyotrofoblast; hCG korpus luteumu 8-10 hafta boyunca korur."

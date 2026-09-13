@@ -1,0 +1,11 @@
+id: adli_rapor_duzenleme_kurallari_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adli raporlar kaç nüsha düzenlenir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_prosedur_mevzuat, adl_pm_adli_rapor]
+metin: "Üç nüsha; her sayfada kişinin adı-soyadı ve hekimin parafı bulunmalıdır."
+# kaynak: 5.sınıf_Adli_Tıp_Bölüm_3_RAPORLAR_PROF._DR._ABDİ_ÖZASLAN.txt

@@ -1,0 +1,11 @@
+id: kard_gebelik_kontrendikasyon_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Biküspit aortta çap eşiklerinin gebelikte anlamı nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_ozel_durumlar, kard_od_gebelik]
+metin: "<40 mm vajinal doğum, >45 mm cerrahi onarım sonrası gebelik, >50 mm kontrendikasyon."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

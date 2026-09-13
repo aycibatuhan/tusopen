@@ -1,0 +1,11 @@
+id: farm_ota_eikozanoid_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PGI2 ve TxA2'nin karşıt etkileri nedir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otakoid_inflamasyon, farm_ota_eikozanoid]
+metin: "PGI2 endotelden, agregasyonu önler; TxA2 trombositten, agregasyon-vazokonstriksiyon."
+# kaynak: 2._Sınıf_2.2_Farmakoloji_eikozonoidleröğrenci.txt

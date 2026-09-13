@@ -1,0 +1,11 @@
+id: kd_trikomonas_vaginiti_3
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Trikomonas vaginiti tedavisi nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_genital_enfeksiyonlar, kd_ge_vajinit]
+metin: "Metronidazol 2 g oral tek doz; cinsel partner de tedavi edilir."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Genital_Flora.txt

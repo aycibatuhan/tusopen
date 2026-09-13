@@ -1,0 +1,11 @@
+id: anat_bas_yuz_tehlike_ucgeni_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Yüzün tehlike üçgeninin venlerinin özelliği nedir?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_yuz]
+metin: Kapaksızdırlar; enfeksiyon kafa içine yayılabilir.
+# kaynak: 3._Sınıf_3.3_Anatomi_YÜZÜN_TOPOGRAFİK_ve_KLİNİK_ANATOMİSİ_-_IV_18.02.2021_12_(1).txt, 3._Sınıf_3.3_Anatomi_YÜZÜN_TOPOGRAFİK_ve_KLİNİK_ANATOMİSİ_-_III_17.02.2021_12_(1).txt

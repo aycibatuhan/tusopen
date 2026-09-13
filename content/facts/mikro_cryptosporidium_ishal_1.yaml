@@ -1,0 +1,11 @@
+id: mikro_cryptosporidium_ishal_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AIDS hastasında Cryptosporidium ishali hangi CD4 düzeyinde ölümcül olur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_barsak_protozoa]
+metin: "CD4 <180 hücre/mm3 düzeyinde kolera benzeri ölümcül ishal yapar."
+# kaynak: Sindirim_kanalı_protozoonları_2.txt

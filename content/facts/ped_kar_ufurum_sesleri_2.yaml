@@ -1,0 +1,15 @@
+id: ped_kar_ufurum_sesleri_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Pansistolik ve erken diyastolik üfürüm hangi hastalıklarda duyulur?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_ufurum
+metin: 'Pansistolik: VSD, mitral ve triküspid yetersizliği; erken diyastolik: aort ve pulmoner yetersizliği.'
+
+# kaynak: 2._Sınıf_2.2_pediatri_kvmuayene2.txt

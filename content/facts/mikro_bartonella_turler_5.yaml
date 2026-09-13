@@ -1,0 +1,11 @@
+id: mikro_bartonella_turler_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bartonella cinsinin eski adı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_bartonella]
+metin: "Rochalimaea."
+# kaynak: Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

@@ -1,0 +1,11 @@
+id: uro_mesane_yuzeyel_risk_gruplari_1
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Düşük riskli yüzeyel mesane kanseri tanımı ve izlemi nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_mesane_kanseri]
+metin: "Primer soliter 3 cm altı düşük dereceli Ta (CIS yok); TUR sonrası yıllık sistoskopi."
+# kaynak: 4._Sınıf_Üroloji_mesane_kanseri-turkce.txt, 4._Sınıf_Üroloji_mesanetm.txt

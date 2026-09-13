@@ -1,0 +1,11 @@
+id: mikro_mko_mukormikoz_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mukormikozda en değerli tanı ipucu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_firsatci]
+metin: "Nazofarinks veya damakta siyah nekrotik lezyon varlığı."
+# kaynak: Fırsatçı_mantar_infeksiyonları_ve_P._jirovecii.txt

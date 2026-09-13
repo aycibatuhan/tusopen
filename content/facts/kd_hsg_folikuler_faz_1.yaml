@@ -1,0 +1,11 @@
+id: kd_hsg_folikuler_faz_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HSG hangi infertilite faktörlerini değerlendirir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_infertilite, kd_inf_tubal_uterin_faktor]
+metin: "Uterin kavite şekli ve tubal patensi; Müllerian anomaliler, Asherman, tubal oklüzyon."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Diagnostics_studies_son.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ÜYT.txt

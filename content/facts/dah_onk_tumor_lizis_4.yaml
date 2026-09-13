@@ -1,0 +1,10 @@
+id: dah_onk_tumor_lizis_4
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "TLS'de diyaliz endikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_tumor_lizis]
+metin: "Dirençli hiperkalemi, hızla ilerleyen böbrek yetmezliği veya volüm yüklenmesi."

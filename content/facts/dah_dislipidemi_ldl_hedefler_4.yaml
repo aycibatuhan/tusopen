@@ -1,0 +1,11 @@
+id: dah_dislipidemi_ldl_hedefler_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Statin, niyasin ve fibratların lipit etkileri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_dislipidemi]
+metin: "Statin LDL'yi %18-55, niyasin HDL'yi %15-35 artırır, fibrat trigliseridi %20-50 azaltır."
+# kaynak: 4._Sınıf_Dahiliye_Hyperlipidemi.txt

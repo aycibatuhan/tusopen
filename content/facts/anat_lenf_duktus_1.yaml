@@ -1,0 +1,10 @@
+id: anat_lenf_duktus_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Ductus thoracicus nereden başlar, nereye dökülür?
+taksonomi:
+  - [ttbt, anatomi, anat_lenfatik, anat_lenf_duktus]
+metin: Cisterna chyli'den (L1-L2) yükselir; sol subklavyen-IJV birleşimine dökülür.

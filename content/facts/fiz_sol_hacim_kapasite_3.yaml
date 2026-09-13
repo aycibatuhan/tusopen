@@ -1,0 +1,11 @@
+id: fiz_sol_hacim_kapasite_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vital kapasite değeri ve etkileyen faktörler nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_volumler]
+metin: "3500-6000 ml; erkekte yüksek, yaşla azalır, yüzücülerde artar."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

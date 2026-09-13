@@ -1,0 +1,10 @@
+id: dah_onk_prensipler_5
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lead time, length time bias ve overdiagnosis nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_prensipler]
+metin: "Lead time ölüm tarihini değiştirmez; length time yavaş lezyonları yakalar; overdiagnosis gereksiz tedavidir."

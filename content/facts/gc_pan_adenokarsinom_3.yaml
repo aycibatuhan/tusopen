@@ -1,0 +1,13 @@
+id: gc_pan_adenokarsinom_3
+version: 1
+status: draft
+author: ai-drafts/gaps-onkoloji-anestezi
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Trousseau sendromu nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_pankreas
+  - gc_pan_adenokarsinom
+metin: Migratör tromboflebit; pankreas kanserinin klasik bulgusu.

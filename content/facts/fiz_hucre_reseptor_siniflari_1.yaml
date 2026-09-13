@@ -1,0 +1,11 @@
+id: fiz_hucre_reseptor_siniflari_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Membran reseptörlerinin üç sınıfı hangileridir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_sinyal]
+metin: "İyon kanalı-bağlı, enzim-bağlı ve G protein-eşleşmiş reseptörler."
+# kaynak: 13-Hücreler_arası_haberleşme-I.txt

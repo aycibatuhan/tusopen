@@ -1,0 +1,10 @@
+id: fiz_gis_pankreas_safra_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tripsinojeni tripsine aktive eden enzim nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_pankreas_safra]
+metin: "İnce bağırsaktaki enterokinaz; tripsin diğer proteazları da aktive eder."

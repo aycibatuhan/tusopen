@@ -1,0 +1,11 @@
+id: mikro_tuberculosis_tani_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "M. tuberculosis'i M. bovis'ten ayıran biyokimyasal test nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_tuberculosis]
+metin: "Nitrat redüktaz aktivitesi; niasin üretimi en önemli biyokimyasal testtir."
+# kaynak: Mycobacterium_tuberculosis.txt

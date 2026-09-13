@@ -1,0 +1,11 @@
+id: mikro_tuberculosis_tani_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "68°C'de katalaz negatifliği neyi gösterir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_tuberculosis]
+metin: "M. tuberculosisi; her iki sıcaklıkta pozitiflik atipik mikobakteriyi destekler."
+# kaynak: Mycobacterium_tuberculosis.txt

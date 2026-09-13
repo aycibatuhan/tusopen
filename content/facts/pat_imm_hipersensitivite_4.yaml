@@ -1,0 +1,10 @@
+id: pat_imm_hipersensitivite_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tip IV hipersensitivitenin özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_immun, pat_imm_hipersensitivite]
+metin: "Gecikmeli, CD4-CD8 T hücre aracılı; tuberkulin testi, kontakt dermatit."

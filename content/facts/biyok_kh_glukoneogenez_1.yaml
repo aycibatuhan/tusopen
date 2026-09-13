@@ -1,0 +1,10 @@
+id: biyok_kh_glukoneogenez_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glukoneogenez nerede olur ve öncüleri nelerdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_glukoneogenez]
+metin: "Özellikle karaciğerde, uzun açlıkta böbrekte; pirüvat, laktat, gliserol, glukojenik amino asitler."

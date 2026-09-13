@@ -1,0 +1,11 @@
+id: pat_bb_burun_larinks_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sinonazal inverted papillomun nüks ve karsinom dönüşüm oranları?"
+taksonomi:
+  - [ttbt, patoloji, pat_bas_boyun, pat_bb_burun_larinks]
+metin: "Karsinoma dönüşme riski %10-15; nüks oranı %50-74."
+# kaynak: 2._Sınıf_2.3_Patoloji_1-Solunum_sistemi_hastalıkları_2019.txt

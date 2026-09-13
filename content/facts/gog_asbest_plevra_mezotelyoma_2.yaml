@@ -1,0 +1,11 @@
+id: gog_asbest_plevra_mezotelyoma_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Asbest maruziyetinde plevral plak ve asbestoz sıklığı nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_mezotelyoma]
+metin: "Plevral plak %20'ye kadar, masif fibrozis %20, asbestoz %10'un altında."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

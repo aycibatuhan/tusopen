@@ -1,0 +1,15 @@
+id: ped_neo_silverman_skoru_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- 4._Sınıf_Pediatri_Mehmet_Vural_yd_solunum_sıkıntısı-kısa.txt, 3._Sınıf_3.2_Pediatri_Yenidoğan_Primer_Bakımı.txt
+ad: Yenidoğanda solunum sıkıntısının beş bulgusu nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_solunum_sikintisi
+metin: 60/dk üzerinde taşipne, retraksiyonlar, burun kanadı solunumu, ekspiratuar inleme ve siyanoz.
+
+# kaynak: 4._Sınıf_Pediatri_Mehmet_Vural_yd_solunum_sıkıntısı-kısa.txt, 3._Sınıf_3.2_Pediatri_Yenidoğan_Primer_Bakımı.txt

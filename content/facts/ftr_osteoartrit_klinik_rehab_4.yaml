@@ -1,0 +1,11 @@
+id: ftr_osteoartrit_klinik_rehab_4
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Obez osteoartrit hastasında rehabilitasyon hedefi nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_osteoartrit]
+metin: "%5 kilo kaybı; egzersizlerin etkisi kanıt düzeyi Ia'dır."
+# kaynak: 5.sınıf_FTR_Ders_OA-ÜA-tr.txt, 5.sınıf_FTR_Olgu_dersiçi_sunumu-OA-diz_ağrısı.txt

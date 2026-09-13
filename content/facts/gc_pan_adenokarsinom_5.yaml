@@ -1,0 +1,13 @@
+id: gc_pan_adenokarsinom_5
+version: 1
+status: draft
+author: ai-drafts/gaps-onkoloji-anestezi
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Rezekebilir pankreas başı tümöründe cerrahi?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_pankreas
+  - gc_pan_adenokarsinom
+metin: Pankreatikoduodenektomi (Whipple ameliyatı).

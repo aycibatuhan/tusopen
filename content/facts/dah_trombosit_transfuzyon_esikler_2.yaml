@@ -1,0 +1,11 @@
+id: dah_trombosit_transfuzyon_esikler_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Girişim ve kanamada trombosit transfüzyon eşikleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_transfuzyon]
+metin: "Minör girişim/kanama 50.000; karaciğer biyopsisi 80.000; majör cerrahi 80-100.000 altı."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Trombositopeni_4._sınıf-2020.txt

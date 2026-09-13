@@ -1,0 +1,10 @@
+id: mikro_rna_rhabdo_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kuduz tanısında Negri cisimcikleri nerede ve nasıl görülür?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_rhabdo]
+metin: "Beyin dokusu histolojisinde sitoplazmik inklüzyon olarak; virüs kurşun biçimlidir."

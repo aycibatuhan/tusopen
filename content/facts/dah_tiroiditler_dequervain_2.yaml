@@ -1,0 +1,11 @@
+id: dah_tiroiditler_dequervain_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Riedel tiroiditi nasıl seyreder?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_tiroiditler]
+metin: "Gland tahta gibi sert ve çevre dokulara fikse; IgG4 ilişkili fibrozkleroz spektrumu."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Hipotiroidi_ve_Tiroiditler.txt

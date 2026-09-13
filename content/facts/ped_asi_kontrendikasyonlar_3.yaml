@@ -1,0 +1,15 @@
+id: ped_asi_kontrendikasyonlar_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Oral polio aşısı hangi durumlarda uygulanmamalıdır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_asilar_koruyucu
+  - ped_asi_kontrendikasyon
+metin: Hastanede yatan hastaya ve evde immün yetmezlikli kişi varken uygulanmaz; şiddetli kombine immün yetmezlikte canlı aşılar kontrendikedir.
+
+# kaynak: 3._Sınıf_3.5_Pediatri_Çocuklarda_Rutin_aşılama_ve_Temel_prensiper_-Sınıf_3.txt

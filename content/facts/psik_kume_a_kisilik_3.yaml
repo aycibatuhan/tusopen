@@ -1,0 +1,11 @@
+id: psik_kume_a_kisilik_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi kişilik bozukluğu şizofreninin genetik spektrumundadır?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_kisilik, psik_kb_a_kumesi]
+metin: "Şizotipal KB; birinci derece akrabalarda spektrum bozuklukları sıktır."
+# kaynak: 5.sınıf_PSİKİYATRİ_KİŞİLİK_BOZ_yeni.txt

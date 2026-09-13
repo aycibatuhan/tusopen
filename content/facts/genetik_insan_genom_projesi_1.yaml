@@ -1,0 +1,14 @@
+id: genetik_insan_genom_projesi_1
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İnsan Genom Projesi ne zaman başladı ve bitti?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: 1990'da başladı; taslak dizi 2001'de, tamamı 2003'te.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_9._Ders_Genetik_muh._ve_insan_genom_projesi.txt

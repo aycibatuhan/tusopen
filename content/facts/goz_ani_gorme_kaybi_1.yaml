@@ -1,0 +1,11 @@
+id: goz_ani_gorme_kaybi_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ağrısız ani görme kaybının nedenleri nelerdir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_travma, goz_tr_ani_gorme_kaybi]
+metin: "Retinal damar tıkanıklıkları, retina dekolmanı, vitreus kanaması ve iskemik optik nöropati."
+# kaynak: 5.sınıf_Göz_Hastalıkları_ANİ_KÖRLÜKLER.txt

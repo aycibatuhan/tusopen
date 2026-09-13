@@ -1,0 +1,11 @@
+id: dah_tumor_belirtecleri_psa_germ_hucre_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PSA kanser spesifik midir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_tumor_belirtecleri]
+metin: "Organ spesifiktir ama kanser spesifik değildir; prostatit, infarkt, BPH'de de yükselir."
+# kaynak: 4._Sınıf_Dahiliye_Onkoloji_Cigdem_Papila_ders_kanserde_tani.txt

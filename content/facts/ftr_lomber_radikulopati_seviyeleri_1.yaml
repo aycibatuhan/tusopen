@@ -1,0 +1,11 @@
+id: ftr_lomber_radikulopati_seviyeleri_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lomber radikülopatide köklerin anahtar kasları nelerdir?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_lomber_disk_radikulopati]
+metin: "L2 kalça fleksör, L3 diz ekstansör, L4 dorsifleksör, L5 başparmak ekstansör, S1 plantar fleksör."
+# kaynak: 5.sınıf_FTR_DİSK_HERNİLERİ.RT.txt, 5.sınıf_FTR_Bel_Ağrıları.txt

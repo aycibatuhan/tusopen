@@ -1,0 +1,11 @@
+id: mikro_mko_dimorfik_morfoloji_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Blastomyces dermatitidis'in doku formu nasıl tanınır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_sistemik]
+metin: "8-15 mikrometre, kalın refraktil duvarlı, geniş boyunla tomurcuklanan mayalar."
+# kaynak: Dimorfik_mantarlar.txt

@@ -1,0 +1,15 @@
+id: ped_bg_gorme_gelisimi_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Görme keskinliği hangi yaşta erişkin düzeyine ulaşır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_norogelisim
+metin: Fovea gelişimiyle 3 yaşta 6/6'ya ulaşır; yenidoğanda görme 6/260 iken 4-6 ayda 6/18 olur.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

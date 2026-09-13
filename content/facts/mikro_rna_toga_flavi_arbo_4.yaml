@@ -1,0 +1,11 @@
+id: mikro_rna_toga_flavi_arbo_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Batı Nil virüsü hangi döngüyle yayılır ve ne sıklıkta hastalık yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_toga_flavi]
+metin: "Kuş-Culex döngüsüyle; olguların yaklaşık yüzde 20sinde hastalık yapar."
+# kaynak: Arboviruslar.txt

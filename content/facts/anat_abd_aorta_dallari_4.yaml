@@ -1,0 +1,13 @@
+id: anat_abd_aorta_dallari_4
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: SMA sendromunda (Wilkie) duodenum nerede sıkışır?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_abdomen
+  - anat_abd_aorta_dallari
+metin: Duodenumun 3. bölümü, aorta ile a. mesenterica superior arasında sıkışır.

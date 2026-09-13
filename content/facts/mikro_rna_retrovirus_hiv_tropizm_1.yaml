@@ -1,0 +1,11 @@
+id: mikro_rna_retrovirus_hiv_tropizm_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HIV zarfının gp120 ve gp41 glikoproteinlerinin görevleri nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_retrovirus_hiv]
+metin: "gp120 CD4 ve koreseptöre bağlanır, gp41 füzyonu sağlar."
+# kaynak: 8-Retrovirüsler_2020.txt

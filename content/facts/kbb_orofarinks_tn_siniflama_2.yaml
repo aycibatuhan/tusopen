@@ -1,0 +1,11 @@
+id: kbb_orofarinks_tn_siniflama_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "N1 ve N2a nodül tanımları nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_orofarinks_kanseri]
+metin: "N1 ipsilateral tek <3 cm; N2a ipsilateral tek 3-6 cm."
+# kaynak: 5.sınıf_KBB_ORAL_KAVİTE__OROFARENKS__HİPOFARENKS_NEOPLAZİLERİ.txt

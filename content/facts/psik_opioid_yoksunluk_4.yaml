@@ -1,0 +1,11 @@
+id: psik_opioid_yoksunluk_4
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Opioid yoksunluğu tedavisinde kullanılan ilaçlar nelerdir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_madde, psik_md_opioid]
+metin: "Klondin, buprenorfin (parsiyel agonist) ve naltrekson."
+# kaynak: 5.sınıf_PSİKİYATRİ_alkolmadde_son_(2).txt

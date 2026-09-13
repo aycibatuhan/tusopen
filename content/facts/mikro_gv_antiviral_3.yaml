@@ -1,0 +1,11 @@
+id: mikro_gv_antiviral_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kronik hepatit C'de klasik antiviral kombinasyon nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_antiviral_direnc]
+metin: "Pegile interferon-alfa + ribavirin kombinasyonu."
+# kaynak: Virüslerin_çoğalması_ve_viral_infeksiyonların_tedavisi_ve_ko.txt

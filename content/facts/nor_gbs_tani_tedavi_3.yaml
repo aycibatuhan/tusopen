@@ -1,0 +1,11 @@
+id: nor_gbs_tani_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "GBS'de erken dönemde ilk seçilecek tedaviler nelerdir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_gbs]
+metin: "IVIG veya plazmaferez."
+# kaynak: 5.sınıf_Nöroloji_nörolojik_aciller_ders.txt

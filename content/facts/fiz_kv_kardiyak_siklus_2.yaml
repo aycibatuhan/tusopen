@@ -1,0 +1,10 @@
+id: fiz_kv_kardiyak_siklus_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kardiyak çıkış formülü ve normal ejeksiyon fraksiyonu nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kardiyak_siklus]
+metin: "Kalp debisi atım sayısı çarpı atım hacmi; EF yüzde 55'in üstü."

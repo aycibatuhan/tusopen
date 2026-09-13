@@ -1,0 +1,11 @@
+id: dah_dic_tani_esikler_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "DIC'de kötü prognoz işareti hangi laboratuvar değeridir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_dic]
+metin: "Fibrinojenin 100 mg/dL altına inmesi."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Yaygın_Damariçi_Pıhtılaşması-2020.txt

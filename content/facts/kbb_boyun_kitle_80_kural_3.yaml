@@ -1,0 +1,11 @@
+id: kbb_boyun_kitle_80_kural_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erişkin boyun kitlesinde ilk basamak tanısal girişim nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_boyun, kbb_by_boyun_kitlesi_yaklasim]
+metin: "İnce iğne aspirasyon biyopsisi (İİAB)."
+# kaynak: 5.sınıf_KBB_Boyun_Kitleleri_ders_notları_2016.txt

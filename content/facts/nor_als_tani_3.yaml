@@ -1,0 +1,11 @@
+id: nor_als_tani_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ALS'nin ortalama yaşam süresi nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_motor_noron]
+metin: "3-5 yıl."
+# kaynak: 5.sınıf_Nöroloji_Motor_Nöron_Hastalıkları_Nurten_Uzun_Adatepe.txt

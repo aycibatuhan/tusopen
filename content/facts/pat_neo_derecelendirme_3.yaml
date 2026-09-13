@@ -1,0 +1,10 @@
+id: pat_neo_derecelendirme_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tümör belirteçlerinin organ eşleşmeleri?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_derecelendirme]
+metin: "PSA-prostat, CEA-kolorektal, CA-125-over, CA-19-9-pankreas, AFP-karaciğer."

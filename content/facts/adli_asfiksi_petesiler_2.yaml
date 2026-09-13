@@ -1,0 +1,11 @@
+id: adli_asfiksi_petesiler_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Asfiksi peteşilerinin mekanizması nedir ve spesifik midir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_asfiksi]
+metin: "Venöz basınç artışıyla ince venüllerin yırtılması; hiçbir peteşi asfiksi için spesifik değildir."
+# kaynak: 5.sınıf_Adli_Tıp_ASFİKSİYE_BAĞLI_ÖLÜMLER_PROF._DR._İBRAHİM_ÜZÜN_PDF.txt

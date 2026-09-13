@@ -1,0 +1,11 @@
+id: mikro_imm_asi_serum_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HBV aşısı hangi şemayla yapılır ve hangi anti-HBs düzeyi koruyucudur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_asi_serum]
+metin: "0-1-6 ay şeması; anti-HBs 10 IU-ml üzeri (sağlık personelinde 100 IU-ml üzeri)."
+# kaynak: 3-Aktif_Pasif_Bağışıklama_2019.txt

@@ -1,0 +1,11 @@
+id: mikro_kan_kultur_ornek_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kan kültürü kaç set ve ne zaman alınmalıdır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_tani_yontemleri]
+metin: "En az iki set, antibiyotik başlanmadan önce ve klinik değerlendirmeden hemen sonra."
+# kaynak: klinik_mik_tanı-2.txt

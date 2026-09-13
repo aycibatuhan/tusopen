@@ -1,0 +1,11 @@
+id: ftr_otonom_disrefleksi_4
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Otonomik disreflekside acil yaklaşımın ilk adımları nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_omurilik_komplikasyonlari]
+metin: "Hastayı oturtmak, kıyafetleri gevşetmek ve ağrılı uyaranı (mesaneyi boşaltmak) gidermek."
+# kaynak: 5.sınıf_FTR_OYRehab.txt

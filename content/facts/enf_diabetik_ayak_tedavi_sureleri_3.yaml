@@ -1,0 +1,15 @@
+id: enf_diabetik_ayak_tedavi_sureleri_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Diyabetik ayak infeksiyonunda MRSA ve Pseudomonas'ı ne öngörür?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_diyabetik_ayak
+metin: 'MRSA: yakın hastane yatışı, kinolon kullanımı, diyaliz; Pseudomonas: kronik eksudatif ülser, yakın antibiyotik kullanımı.'
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_diyabetik_ayak_dersi_2021.txt, 5.sınıf_Enfeksiyon_Hastalıkları_DYDİ_2021Neşe_Saltoğlu.txt

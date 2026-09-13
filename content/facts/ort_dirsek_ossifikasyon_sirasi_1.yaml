@@ -1,0 +1,11 @@
+id: ort_dirsek_ossifikasyon_sirasi_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dirsek ossifikasyon merkezlerinin görülme sırası nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kirik_genel, orto_kg_cocuk_kiriklari]
+metin: "Kapitellum (1 yaş), proksimal radius, medial epikondil, troklea, olekranon, lateral epikondil."
+# kaynak: 5.sınıf_Ortopedi_Ortopedi_ve_Travmatoloji_de_Radyolojik_Değerlendirme.txt

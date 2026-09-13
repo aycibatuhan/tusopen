@@ -1,0 +1,11 @@
+id: der_pitriazis_versikolor_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pitriazis versikolorde Wood ışığı bulgusu nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_pitriazis_versikolor]
+metin: "Sarı-yeşil floresans görülür."
+# kaynak: 5.sınıf_Dermatoloji_SUPERFICIAL_FUNGAL_INFECTIONS.txt

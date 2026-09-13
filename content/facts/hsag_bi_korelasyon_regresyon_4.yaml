@@ -1,0 +1,11 @@
+id: hsag_bi_korelasyon_regresyon_4
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Durbin-Watson değeri nasıl yorumlanır?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_korelasyon_regresyon]
+metin: "2 hataların bağımsız olduğunu gösterir; 1'den küçük veya 3'ten büyük ilişki işaret eder."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_Korelasyon.txt, 3._Sınıf_3.3_Biyoistatistik_regresyon.txt

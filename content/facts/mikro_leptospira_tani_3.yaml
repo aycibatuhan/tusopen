@@ -1,0 +1,11 @@
+id: mikro_leptospira_tani_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Leptospira kültüründe hangi besiyerleri ve koşullar kullanılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_spiroket, mikro_spi_leptospira]
+metin: "EMJH ve Fletcher; %12 tavşan serumu ilaveli, 30 derecede 3-20 gün inkübasyon."
+# kaynak: Spiroketler.txt

@@ -1,0 +1,11 @@
+id: mikro_dna_parvovirus_b19_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemolitik hastalıkta B19 hangi tehlikeli tabloya yol açar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_parvovirus]
+metin: "Retikülositopenili ciddi aplastik kriz; eritroid seri durur."
+# kaynak: Adenovirus_parvo.txt

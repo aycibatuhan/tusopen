@@ -1,0 +1,11 @@
+id: anat_tor_arcus_aortae_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Truncus brachiocephalicus hangi dallara ayrılır?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_buyuk_damarlar]
+metin: Sağ tarafta a. subclavia dextra ve a. carotis communis dextra'ya.
+# kaynak: 1._Sınıf_1.1_Anatomi_2018.10.01__Dolaşım_Sistemi.txt

@@ -1,0 +1,13 @@
+id: anat_noro_beyin_damarlari_3
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Berry (sakküler) anevrizmaların en sık yeri?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_noroanatomi
+  - anat_noro_beyin_damarlari
+metin: Anterior communicating arter birleşimleridir.

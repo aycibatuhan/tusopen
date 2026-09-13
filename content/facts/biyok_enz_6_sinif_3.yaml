@@ -1,0 +1,11 @@
+id: biyok_enz_6_sinif_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kinazlar ve proteazlar hangi enzim sınıfındadır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_siniflama]
+metin: "Kinazlar ATP'nin terminal fosfatını aktaran transferaz; proteaz-lipaz-fosfataz hidrolazdır."
+# kaynak: 1._Sınıf_1.2_Biyokimya_CTF_12_Enzmlr_gnl_özllklr_frnd_v.2018.txt, 1._Sınıf_1.2_Biyokimya_Enzimler_2018_Tıp.txt

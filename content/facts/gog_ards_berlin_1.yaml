@@ -1,0 +1,11 @@
+id: gog_ards_berlin_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ARDS Berlin tanım kriterleri nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_solunum_yetmezligi, gog_sy_ards]
+metin: "Bir hafta içinde başlangıç, kalp yetmezliği-sıvı yüklenmesiyle açıklanamayan solunum yetersizliği, bilateral opasiteler."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Solnum_yetmezliği__Oksijen_tedavisi.txt

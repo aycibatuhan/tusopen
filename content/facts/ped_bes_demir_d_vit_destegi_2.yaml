@@ -1,0 +1,15 @@
+id: ped_bes_demir_d_vit_destegi_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bebeklere profilaktik demir desteği nasıl verilir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_eser_element
+metin: Günde 1-2 mg/kg demir, 4-12. aylar arasında verilir; 9. ayda hemoglobin kontrolü önerilir.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_YAPAY_ve_KARIŞIK_BESLENME-TAMAMLAYICI_BESİNLER-OKUL_ÇOCUĞU_VER_ADOLESAN_BESLENMESİ-_Sınıf_4.txt

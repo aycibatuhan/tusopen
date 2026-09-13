@@ -1,0 +1,10 @@
+id: farm_oss_alfa_bloker_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Feokromositoma ameliyat öncesi hazırlıkta tercih?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otonom, farm_oss_alfa_bloker]
+metin: "Fenoksibenzamin; geri döndürülemez alfa blokaj."

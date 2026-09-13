@@ -1,0 +1,13 @@
+id: histo_sind_karaciger_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Portal üçlünün bileşenleri hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sindirim
+  - histo_sind_karaciger
+metin: Porta venülden gelen besince zengin kan, hepatik arter ve safra kanalcığı.

@@ -1,0 +1,15 @@
+id: ped_kar_tga_fallot_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: TGA'nın klinik ve radyolojik bulguları nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_siyanotik
+metin: Doğumda başlayan belirgin siyanoz-takipne, S2 tek, üfürüm çoğunlukla yok; telede yumurta biçimli kalp.
+
+# kaynak: 4._Sınıf_Pediatri_Reyhan_Dedeoğlu_Siyanotik_Kalp_hastalıkları_16_Eylül-2021_R.txt

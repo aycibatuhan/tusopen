@@ -1,0 +1,11 @@
+id: kbb_epistaksis_kiesselbach_tampon_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anterior epistaksislerin çoğu hangi bölgeden kaynaklanır?"
+taksonomi:
+  - [ktbt, kbb, kbb_burun, kbb_bn_epistaksis]
+metin: "Septumun ön kısmı, Little bölgesindeki Kiesselbach pleksusu."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

@@ -1,0 +1,11 @@
+id: fiz_kan_ozmotik_frajilite_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemoliz mekanizmaları hangi biçimlerde gerçekleşir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_eritrosit]
+metin: "Membran harabiyetiyle (hemositoliz), ozmotik şişmeyle ve izotonik solüt geçişiyle."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt

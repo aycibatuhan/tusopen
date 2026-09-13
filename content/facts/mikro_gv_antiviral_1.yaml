@@ -1,0 +1,11 @@
+id: mikro_gv_antiviral_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HSV ve VZV tedavisinin temel antiviral ilacı hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_antiviral_direnc]
+metin: "Asiklovir; HSV tip 1-2 ve VZV-nin temel tedavisidir."
+# kaynak: Virüslerin_çoğalması_ve_viral_infeksiyonların_tedavisi_ve_ko.txt

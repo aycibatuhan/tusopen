@@ -1,0 +1,11 @@
+id: gog_tkp_curb65_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CURB-65 skoruna göre tedavi yeri nasıl seçilir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_toplum_pnomoni]
+metin: "0-1 evde, 2 hastane gözetimi, 3-5 yoğun bakım değerlendirmesi."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_pnömoni.txt

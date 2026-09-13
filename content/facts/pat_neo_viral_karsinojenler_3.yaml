@@ -1,0 +1,11 @@
+id: pat_neo_viral_karsinojenler_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HPV'nin E6 ve E7 proteinleri neyi hedefler?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_karsinojenler]
+metin: "E6: p53 ve p21; E7: pRb-E2F yolu."
+# kaynak: 1._Sınıf_1.4_Patoloji_iremonur_kimyasal_viral_karsinogenez.txt

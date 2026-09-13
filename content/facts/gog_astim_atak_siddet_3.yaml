@@ -1,0 +1,11 @@
+id: gog_astim_atak_siddet_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Astım atağında IV magnezyum ne zaman ve nasıl verilir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_obstruktif, gog_ob_astim_atak]
+metin: "FEV1 %25-30 altında ve yanıt vermeyen erişkinde 2 g, 20-30 dakikalık infüzyon."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Astım_I_ve_II_staj_dersi_2022-23.txt

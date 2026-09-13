@@ -1,0 +1,11 @@
+id: bcy_lomber_dh_kauda_1
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lomber disk hernisinin en sık yaş dönemi ve seviyeleri nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_spinal_patoloji, bce_sp_disk_hernisi]
+metin: "3. ve 4. dekatta; en sık L5-S1 ve L4-5 seviyeleri."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Spinal_Dejeneratif_Hastalıklar_O.U.txt

@@ -1,0 +1,11 @@
+id: mikro_bacillus_anthracis_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "B. anthracis, B. cereus'tan hangi laboratuvar özellikleriyle ayrılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_bacillus]
+metin: "Hareketsizdir, 10 U/ml penisilinli besiyerinde üremez, hemoliz yapmaz, gama fajlarına duyarsızdır."
+# kaynak: Bacillus_cinsi.txt

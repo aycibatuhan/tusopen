@@ -1,0 +1,11 @@
+id: mikro_imm_asi_serum_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Polisakkarit pnömokok aşısı (pnömo-23) neden 2 yaş altında korumaz?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_asi_serum]
+metin: "T-bağımsız yanıttır; bellek gelişmez, koruma 3-5 yıl sürer."
+# kaynak: 3-Aktif_Pasif_Bağışıklama_2019.txt

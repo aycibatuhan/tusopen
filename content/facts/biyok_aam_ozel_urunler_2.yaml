@@ -1,0 +1,10 @@
+id: biyok_aam_ozel_urunler_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Triptofandan neler sentezlenir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_ozel_urunler]
+metin: "Serotonin, melatonin ve niasin."

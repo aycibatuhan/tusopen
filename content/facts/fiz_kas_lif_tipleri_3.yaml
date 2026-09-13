@@ -1,0 +1,11 @@
+id: fiz_kas_lif_tipleri_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Efor süresine göre kas enerji sistemleri sırası nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_iskelet]
+metin: "Kısa eforlarda fosfojen (kreatin fosfat), sonra glikojen-laktik, sürekli eforda aerobik."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_Kas_fizyolojisi_2._ve_3._Ders_2019.txt

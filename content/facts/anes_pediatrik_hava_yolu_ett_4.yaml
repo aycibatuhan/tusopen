@@ -1,0 +1,11 @@
+id: anes_pediatrik_hava_yolu_ett_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çocukta kan hacmi yaşa göre ne kadardır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_ozel_hasta, anes_oh_pediatrik]
+metin: "Doğumda ~90, çocuklukta 80, 10'lu yaşlarda 70 mL/kg."
+# kaynak: 4._Sınıf_Anestezi_1.txt

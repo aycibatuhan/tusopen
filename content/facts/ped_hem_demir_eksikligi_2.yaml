@@ -1,0 +1,15 @@
+id: ped_hem_demir_eksikligi_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Demir eksikliği anemisi nasıl tedavi edilir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_hematoloji
+  - ped_hem_demir_eksikligi
+metin: Elementel demir günde 3-5 mg/kg, 3-5 ay süreyle; yanıtsızlıkta malabsorpsiyon, uyumsuzluk ve süregen kan kaybı araştırılır.
+
+# kaynak: 4._Sınıf_Pediatri_Hilmi_Apak_2021-dersNutrisyonel_Anemiler.txt

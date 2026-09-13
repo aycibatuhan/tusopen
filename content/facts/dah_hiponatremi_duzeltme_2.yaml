@@ -1,0 +1,11 @@
+id: dah_hiponatremi_duzeltme_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kronik semptomatik hiponatremide düzeltme sınırları nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_hiponatremi]
+metin: "Saatte 1-1,5 mmol/L, 24 saatte 8-12 mmol/L; hızlısı santral pontin miyelinoliz yapar."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_S-V-VE_2.txt

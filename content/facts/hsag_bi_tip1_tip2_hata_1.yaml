@@ -1,0 +1,11 @@
+id: hsag_bi_tip1_tip2_hata_1
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tip I hata nedir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_hipotez_testi]
+metin: "Sıfır hipotezinin gerçekte doğru olduğu halde reddedilmesi; yapılma olasılığı alfa'dır (0.01-0.05)."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_3._hipotez_testleri_1.txt, 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD1_Klinik_Biyoistatistiğe_Giriş__Araştırma_Yöntembilimi__Terminoloji__Bilgi__ölçüm__Hata__Bivariate_Yöntemler_(1).txt

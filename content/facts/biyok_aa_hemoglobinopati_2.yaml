@@ -1,0 +1,10 @@
+id: biyok_aa_hemoglobinopati_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Elektroforezde HbS nasıl göç eder?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_hemoglobinopati]
+metin: "HbA'dan daha yavaş; heterozigotlarda iki bant birlikte görülür."

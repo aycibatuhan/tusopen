@@ -1,0 +1,11 @@
+id: adli_letal_dozlar_3
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Etilen glikol zehirlenmesinde karakteristik bulgular nelerdir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_klinik_adli_durumlar, adl_kd_zehirlenme_adli]
+metin: "Kalsiyum oksalat kristalleri, böbrek yetmezliği, diffüz karaciğer hasarı."
+# kaynak: 5.sınıf_Adli_Tıp_ADLİ_TOKSİKOLOJİ_PROF._DR._İBRAHİM_ÜZÜN.txt, 5.sınıf_Adli_Tıp_TCK_YARALAR_PROF._DR._GÜRSEL_ÇETİN.txt

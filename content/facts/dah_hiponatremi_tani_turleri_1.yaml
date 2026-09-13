@@ -1,0 +1,11 @@
+id: dah_hiponatremi_tani_turleri_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hiponatremide semptom eşiği hangi sodyum değeridir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_hiponatremi]
+metin: "125 mmol/L üzerinde genellikle asemptomatik; altında serebral ödem bulguları görülür."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_S-V-VE_1.txt, 3._Sınıf_3.2_İç_Hastalıkları_S-V-VE_2.txt

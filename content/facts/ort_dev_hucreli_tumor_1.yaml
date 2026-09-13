@@ -1,0 +1,11 @@
+id: ort_dev_hucreli_tumor_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dev hücreli kemik tümörü hangi bölgeye yerleşir ve hangi yaşta görülür?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kemik_tumorleri, orto_kt_dev_hucreli]
+metin: "Epifiz-diafiz birleşiminde epifizi tutar; 3. dekatta görülür."
+# kaynak: 5.sınıf_Ortopedi_Selim_Kemik_Tümörleri.txt

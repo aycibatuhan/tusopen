@@ -1,0 +1,11 @@
+id: goz_aakg_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut açı kapanması glokomunun mekanizması nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_glokom, goz_gl_aci_kapanmasi]
+metin: "Pupiller blokla aközün arka kamaradan ön kamaraya geçişinin engellenmesidir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_AKUT_AÇI_KAPANMASI_GLOKOMU.txt, 5.sınıf_Göz_Hastalıkları_kırmızı_göz_2.txt

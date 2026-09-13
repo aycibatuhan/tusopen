@@ -1,0 +1,11 @@
+id: kard_pe_wells_instabilite_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Stabil şüpheli PEde Wells skoru nasıl yorumlanır?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_aort_periferik, kard_ap_venoz_tromboembolizm]
+metin: "0-4 puan olası değil (D-dimer <500 ng/mL dışlar); ≥5 puan olası, BT pulmoner anjiyografi."
+# kaynak: 5.sınıf_Kardiyoloji_Pulmoner_emboli_dersim_2021.txt

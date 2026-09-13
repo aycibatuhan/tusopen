@@ -1,0 +1,11 @@
+id: dah_primer_hpt_lab_cerrahi_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Primer hiperparatiroidizmin en sık etyolojisi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hiperparatiroidi]
+metin: "Soliter adenom (%80)."
+# kaynak: 4._Sınıf_Dahiliye_ders-paratiroid_hastalıkları.txt

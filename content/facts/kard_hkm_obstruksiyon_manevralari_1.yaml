@@ -1,0 +1,11 @@
+id: kard_hkm_obstruksiyon_manevralari_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HKMde LV çıkım yolu obstrüksiyonunun tanımı nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kardiyomiyopati, kard_km_hipertrofik]
+metin: "Aortaya göre >30 mmHg'yi aşan basınç farkının ventrikül içinde oluşmasıdır."
+# kaynak: 5.sınıf_Kardiyoloji_2022_Kalp_kası_hastalıkları_-2_-_Doç.Dr.Burçak_KILIÇKIRAN_AVCI.txt

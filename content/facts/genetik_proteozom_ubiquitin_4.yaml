@@ -1,0 +1,14 @@
+id: genetik_proteozom_ubiquitin_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Proteozomun yapısı nasıldır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_gen_ekspresyonu
+metin: 20S silindirik çekirdek ve iki ucundaki 19S regülatör halkalar.
+# kaynak: 1._Sınıf_1.2_Tıbbi_Biyoloji_Lizozom_Lizozomal_Hastalıklar_ve_Proteozom_(2018-19_Güz-M_Güven).txt

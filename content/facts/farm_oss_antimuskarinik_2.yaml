@@ -1,0 +1,10 @@
+id: farm_oss_antimuskarinik_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Atropinin önemli kontrendikasyonları?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otonom, farm_oss_antimuskarinik]
+metin: "Dar açılı glokom ve prostat hipertrofisi."

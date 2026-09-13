@@ -1,0 +1,11 @@
+id: mikro_brucella_tani_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Brucella şüphesinde kemik iliği kültürü ne zaman ve neden istenir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_brucella]
+metin: "Seroloji ve kültür negatifken şüphe sürerse; duyarlılığı %90'ın üzerindedir."
+# kaynak: Brucella_cinsi_bakteriler.txt

@@ -1,0 +1,11 @@
+id: bcy_sah_rekanama_1
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Subaraknoid kanamanın insidansı ve anevrizmayla ilişkisi nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_vaskuler_patoloji, bce_va_anevrizma_sah]
+metin: "İnsidans 7/100.000/yıl; ~%90 anevrizma kaynaklı; erişkinlerin ~%1'inde anevrizma, ailesel geçiş ~%15."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Serebrovasküler_Hastalıklar_-_Dr._Barış_Küçükyürük_(1).txt

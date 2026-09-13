@@ -1,0 +1,11 @@
+id: mikro_gb_kultur_besiyeri_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "S. aureus için hem seçici hem ayırt edici besiyeri hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_tani_yontemleri]
+metin: "Mannitol tuzlu agar; fermente edenleri sarıya boyar."
+# kaynak: bakteri_metabolizma__kültür__tanımlama.txt

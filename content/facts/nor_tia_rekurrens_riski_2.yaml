@@ -1,0 +1,11 @@
+id: nor_tia_rekurrens_riski_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "TIA sonrası inme riski nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_tia]
+metin: "30 günde %3-10, 1 yılda %5-14, 5 yılda %25-40."
+# kaynak: 5.sınıf_Nöroloji_Ischemic_Stroke__11.01.2023.txt

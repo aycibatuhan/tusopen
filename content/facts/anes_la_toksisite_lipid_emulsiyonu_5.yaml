@@ -1,0 +1,11 @@
+id: anes_la_toksisite_lipid_emulsiyonu_5
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "LA kaynaklı konvülsiyonda hangi ilaçlar kullanılır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_rejyonal, anes_ra_lokal_anestezikler]
+metin: "Midazolam 0.05-0.1, propofol 0.5-1.5 veya tiyopental 1-2 mg/kg."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_LA_Ders_FA_Eylül_2021.txt

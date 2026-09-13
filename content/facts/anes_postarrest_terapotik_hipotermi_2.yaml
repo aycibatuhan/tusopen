@@ -1,0 +1,11 @@
+id: anes_postarrest_terapotik_hipotermi_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Terapötik hipotermiye gecikme sınırı nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_resusitasyon, anes_rs_post_arrest]
+metin: "Arrest sonrası 8 saate kadar gecikse bile etkindir; geri ısıtma yavaş yapılır."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Kardiyopulmner_resüsitasyon4_sınıf_ders.txt

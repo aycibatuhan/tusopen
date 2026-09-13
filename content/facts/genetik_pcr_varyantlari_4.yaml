@@ -1,0 +1,14 @@
+id: genetik_pcr_varyantlari_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: RT-PCR nasıl çalışır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: RNA'dan cDNA sentezi, sonra standart PCR; mRNA/viral RNA ölçümünde duyarlı.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_D_3-GENETİK_TANI_YÖNTEMLERİ.txt

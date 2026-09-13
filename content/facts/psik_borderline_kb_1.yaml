@@ -1,0 +1,11 @@
+id: psik_borderline_kb_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Borderline kişilik bozukluğunun temel özelliği nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_kisilik, psik_kb_b_kumesi]
+metin: "Benlik imajı, kişilerarası ilişkiler ve duygulanımda yaygın instabilite."
+# kaynak: 5.sınıf_PSİKİYATRİ_KİŞİLİK_BOZ_yeni.txt

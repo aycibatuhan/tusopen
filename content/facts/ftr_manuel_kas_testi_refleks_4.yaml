@@ -1,0 +1,11 @@
+id: ftr_manuel_kas_testi_refleks_4
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Babinski eşdeğerleri hangi reflekslerdir?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_eklem_hareket]
+metin: "Oppenheim, Chaddock, Gordon, Schaeffer; üst ekstremitede Hoffmann."
+# kaynak: 5.sınıf_FTR_OmurgaFM.txt

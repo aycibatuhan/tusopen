@@ -1,0 +1,15 @@
+id: enf_erkek_uretrit_tani_esigi_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Gonokokal üretrit ile NGU klinik olarak nasıl ayrışır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_cinsel_yolla
+  - enf_cy_uretrit_servisit
+metin: Gonokokal 2-7 günde ani başlar, bol sarı akıntı; NGU 10-21 günde dereceli, az açık renkli akıntı.
+
+# kaynak: 3._Sınıf_3.2_Enfeksiyon_hastalıkları_STD_Cerrahpasa_2020_3.sınıf.txt

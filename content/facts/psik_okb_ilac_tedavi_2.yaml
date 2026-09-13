@@ -1,0 +1,11 @@
+id: psik_okb_ilac_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "OKB'de ilaç tedavisinde belirgin iyileşme süresi nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_okb_travma, psik_ot_okb]
+metin: "Genellikle 4-6 hafta; bir kısmında 10-12 hafta."
+# kaynak: 5.sınıf_PSİKİYATRİ_okb-ptsb_ve_ilişkili_bozukluklar.txt

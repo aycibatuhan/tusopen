@@ -1,0 +1,11 @@
+id: pls_yanik_yuzde_hesabi_1
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erişkinde dokuzlar kuralına göre yanık yüzdeleri nedir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yanik, pce_ya_derecelendirme]
+metin: "Baş %9, her üst ekstremite %9; her alt ekstremite %18; gövde ön-arka %18; perine %1."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Yanık-DERS-2020.txt

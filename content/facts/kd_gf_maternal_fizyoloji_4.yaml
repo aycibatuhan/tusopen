@@ -1,0 +1,10 @@
+id: kd_gf_maternal_fizyoloji_4
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebelikte kreatinin ve üre düzeyleri neden düşer?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_maternal_fizyoloji]
+metin: "Renal plazma akımı ve GFR ~%50 arttığı için; fizyolojik glukozüri normaldir."

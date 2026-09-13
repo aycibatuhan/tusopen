@@ -1,0 +1,11 @@
+id: bcy_kib_normal_degerler_1
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Monro-Kellie doktrinine göre kafa içi hacim paydaşları nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_intrakraniyal_basinc, bce_ib_artmasi_ve_tedavi]
+metin: "Beyin ~%80 (1400 mL), kan ~%10 (150 mL), BOS ~%10 (150 mL)."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Ödemi_ve_KİBAS_S.T.txt

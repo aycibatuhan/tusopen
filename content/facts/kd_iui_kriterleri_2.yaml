@@ -1,0 +1,11 @@
+id: kd_iui_kriterleri_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "IUI hCG enjeksiyonundan kaç saat sonra uygulanır?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_infertilite, kd_inf_yardimci_ureme]
+metin: "32-42 saat sonra; tercihen tek doz olarak 36. saatte."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ART.txt

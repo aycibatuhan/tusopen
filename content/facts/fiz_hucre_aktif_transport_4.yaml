@@ -1,0 +1,11 @@
+id: fiz_hucre_aktif_transport_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sekonder aktif transport enerjisini nereden alır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_membran]
+metin: "Na+-K+ ATPaz'ın kurduğu sodyum gradyanından; SGLT ve Na+-Ca++ antiportu örnek."
+# kaynak: 11-Membran_transport_mekanizmaları.txt

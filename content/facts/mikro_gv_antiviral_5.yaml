@@ -1,0 +1,11 @@
+id: mikro_gv_antiviral_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mesleki maruziyette HIV kemoprofilaksisinde hangi kombinasyon kullanılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_antiviral_direnc]
+metin: "AZT + lamivudin + proteaz inhibitörü."
+# kaynak: Virüslerin_çoğalması_ve_viral_infeksiyonların_tedavisi_ve_ko.txt

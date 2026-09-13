@@ -1,0 +1,11 @@
+id: bcy_kibas_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mannitol dozu ve kullanım ilkesi nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_intrakraniyal_basinc, bce_ib_artmasi_ve_tedavi]
+metin: "Herniasyon gibi akut durumlarda 0,25-1 g/kg bolus (yüksek doz 1,4); proflaktik kullanılmaz."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Ödemi_ve_KİBAS_S.T.txt

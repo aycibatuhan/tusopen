@@ -1,0 +1,13 @@
+id: anat_ks_cekirdekler_3
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: N. trigeminus, fasiyal ve vestibulokoklear pons'tan nereden çıkar?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_kranial_sinirler
+  - anat_ks_cekirdekler
+metin: Trigeminus ponsun lateral yüzünden; fasiyal-vestibulokoklear ponto-medüller açıdan çıkar.

@@ -1,0 +1,18 @@
+id: gog_gina_gold_2
+version: 1
+status: draft
+author: ai-drafts/gogus
+sources:
+- GINA 2024 ve GOLD 2024 strateji raporları — referans adı olarak listelendi; metin projenin özgün
+  yazımıdır
+ad: "Astımda SABA tek başına kurtarıcı olarak önerilir mi?"
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_astim
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_koah
+metin: "Önerilmez; alevlenme ve ölüm riskini artırır."

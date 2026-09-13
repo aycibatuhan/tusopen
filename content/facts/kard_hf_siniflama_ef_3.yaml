@@ -1,0 +1,11 @@
+id: kard_hf_siniflama_ef_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Killip sınıflaması nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_patofizyoloji]
+metin: "I: KY bulgusu yok; II: raller-S3; III: akut akciğer ödemi; IV: kardiyojenik şok."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

@@ -1,0 +1,14 @@
+id: genetik_line_sine_transpozonlar_5
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: LINE-1 retrotranspozisyonu kaç hastalıkta saptanmıştır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_dna_yapi_repasyon
+metin: 25'ten fazla; NF1 vakalarının yaklaşık 1/250'sinde olabilir.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_4._Ders_Gen_aileleri_DGA.txt

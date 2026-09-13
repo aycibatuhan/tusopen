@@ -1,0 +1,11 @@
+id: uro_rcc_patolojik_alt_tipler_4
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Berrak hücreli RCC hangi gen mutasyonuyla ilişkilidir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_renal_hucre]
+metin: "VHL gen (kromozom 3p) mutasyonuyla."
+# kaynak: 4._Sınıf_Üroloji_Böbrek_Tümörleri.txt, 4._Sınıf_Üroloji_böbrek_tm_radyoloji.txt, 3._Sınıf_3.2_Üroloji_Üroonkolojiye_Giriş_-_Doç._Dr._Çetin_DEMİRDAĞ.txt

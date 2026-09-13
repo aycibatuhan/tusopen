@@ -1,0 +1,11 @@
+id: mikro_leptospira_tani_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Leptospiroz serolojisinde referans yöntem hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_spiroket, mikro_spi_leptospira]
+metin: "Mikroaglutinasyon testi (MAT); ELISA ve IFAT destekler."
+# kaynak: Spiroketler.txt

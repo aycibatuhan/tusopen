@@ -1,0 +1,10 @@
+id: biyok_aa_hemoglobinopati_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Orak hücre anemisinde amino asit değişikliği nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_hemoglobinopati]
+metin: "Beta globin 6. pozisyondaki glutamik asit, nokta mutasyonla valinle değişmiştir."

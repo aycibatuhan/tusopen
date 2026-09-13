@@ -1,0 +1,11 @@
+id: dah_hyperkalemi_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hiperkalemide EKG bulguları hangi düzeylerde gelişir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_potasyum]
+metin: "6-7'de sivri T, 7-8'de P küçülmesi ve PR uzaması, 8-9'da geniş QRS, 9 üzeri sine wave."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_HIPERV_1.txt

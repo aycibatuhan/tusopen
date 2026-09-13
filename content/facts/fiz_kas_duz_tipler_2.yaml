@@ -1,0 +1,11 @@
+id: fiz_kas_duz_tipler_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "GİS organlarında yavaş dalga frekansları kaçtandır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_duz]
+metin: "Mide 4, duodenum 12, distal ileum 8, çekum 2, sigmoid 6/dk."
+# kaynak: 15-Düz_Kasın_Hücresel_ve_Elektriksel_Özellikleri.txt, 16-Düz_Kasın_Kasılma_ve_Gevşemesinin_İyonik_Temelleri.txt

@@ -1,0 +1,11 @@
+id: anat_art_sinovial_yapi_ve_tipler_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Discus, meniscus ve labrumun ortak görevi nedir?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_eklem_tipleri]
+metin: Yüz uyuşmazlığını gideren eklem içi yapılardır.
+# kaynak: 1._Sınıf_1.1_Anatomi_EKLEMLER_HAKKINDA_GENEL_BİLGİ_-Uyumluluk_Modu-.txt, 2._Sınıf_2.1_Anatomi_2-1_-_Genel_Eklem_Bilgisi.txt, 1._Sınıf_1.1_Anatomi_---2018.09.27__Lokomotor_Sistem-2_3.txt

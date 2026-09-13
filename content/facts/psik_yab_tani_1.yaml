@@ -1,0 +1,11 @@
+id: psik_yab_tani_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yaygın anksiyete bozukluğunun süre ölçütü nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_anksiyete, psik_an_yaygin]
+metin: "En az 6 ay süren, kontrol edilmesi güç ve yaygın kaygı."
+# kaynak: 5.sınıf_PSİKİYATRİ_ANKSİYETE_BOZUKLUKLARI_(yeni).txt

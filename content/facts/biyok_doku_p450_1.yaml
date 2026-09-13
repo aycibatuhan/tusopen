@@ -1,0 +1,11 @@
+id: biyok_doku_p450_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sitokrom P450'nin reaksiyon tipi ve oksijen kaderi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_doku_organ, biyok_doku_karaciger]
+metin: "Hemli monooksijenaz; oksijenin bir atomu substrata girer, diğeri NADPH ile su olur."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Biolojik_oksidasyon_2018.txt, 1._Sınıf_1.2_Biyokimya_Ezel_Uslu_Oksidatif_Fosforilasyon_Bio_ox_2017_EZEL_USLU.txt

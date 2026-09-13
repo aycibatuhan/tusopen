@@ -1,0 +1,11 @@
+id: fiz_sinir_lif_sinifi_5
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dejenere sinirde ileti kaybı sırası ve rejenerasyon hızı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_noron]
+metin: "A, B, C sırasıyla kayıp; Schwann hücresi günde 1 mm büyür."
+# kaynak: 6._Ders_1.Sinir_Liflerinin_Sınıflandırılması.txt

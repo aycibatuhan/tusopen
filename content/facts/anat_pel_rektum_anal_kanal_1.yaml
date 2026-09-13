@@ -1,0 +1,11 @@
+id: anat_pel_rektum_anal_kanal_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Rektum nerede başlar, kaç cm'dir ve Houston plikaları?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_rektum_anal]
+metin: S3'te sigmoidin devamı, son 10-15 cm; üç Houston plikası, en büyüğü sağda (Kohlrausch).
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-TURAN_PEŞTAMALCI-_AbdominoPelvikOrganlar_III_KALIN_BARSAKLAR.txt

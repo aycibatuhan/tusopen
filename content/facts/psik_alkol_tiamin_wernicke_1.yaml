@@ -1,0 +1,11 @@
+id: psik_alkol_tiamin_wernicke_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipoglisemi için dextroz vermeden önce hangi ilaç uygulanmalıdır?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_madde, psik_md_alkol]
+metin: "Tiamin."
+# kaynak: 5.sınıf_PSİKİYATRİ_alkolmadde_son_(2).txt

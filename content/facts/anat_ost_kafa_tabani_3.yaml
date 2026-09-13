@@ -1,0 +1,10 @@
+id: anat_ost_kafa_tabani_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Hipoglossal kanaldan kim çıkar?
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_kafa_tabani]
+metin: Yalnızca n. hypoglossus (XII) çıkar.

@@ -1,0 +1,11 @@
+id: farm_kan_antikoagulan_5
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Varfarin kanamasında acil yaklaşım?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kan, farm_kan_antikoagulan]
+metin: "K vitamini (fitonadion); gecikmede taze donmuş plazma."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.4_Farmakoloji_2.4_Farmakoloji_02_Antikoagülan_İlaçlar.Sibel_ÖZYAZGAN..txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.4_Farmakoloji_2.4_Farmakoloji_02_Hemostatik_İlaçlar..Sibel_ÖZYAZGAN.txt

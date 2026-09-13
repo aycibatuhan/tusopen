@@ -1,0 +1,11 @@
+id: uro_uretra_travma_kateter_yasagi_3
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Retrograd üretrografide teknik nasıldır?"
+taksonomi:
+  - [ktbt, uroloji, uro_acil_ve_travma, uro_at_uretra_yaralanmasi]
+metin: "Fossa navikularisten balon 1-2 ml şişirilir, %30-50 kontrast verilir, oblik filmler çekilir."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt, 4._Sınıf_Üroloji_böbrek_tm_radyoloji.txt

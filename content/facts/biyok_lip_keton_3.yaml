@@ -1,0 +1,10 @@
+id: biyok_lip_keton_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alkolik ve diyabetik ketoasidozda glukoz farkı nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_keton]
+metin: "Alkolikte glukoz normal-hafif yüksek; diyabetik ketoasidozda belirgin yükselir."

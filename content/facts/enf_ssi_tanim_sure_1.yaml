@@ -1,0 +1,15 @@
+id: enf_ssi_tanim_sure_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Cerrahi alan enfeksiyonu hangi süreler içinde tanınır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_cerrahi_alan
+metin: Girişimden sonra 30 gün; implant yerleştirilen olgularda 1 yıl içinde.
+
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Pınar_Kocael_Cerrahi_enfeksiyonlar_ve_antibiyotik_kullanımı.txt

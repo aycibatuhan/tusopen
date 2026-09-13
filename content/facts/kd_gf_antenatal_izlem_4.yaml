@@ -1,0 +1,10 @@
+id: kd_gf_antenatal_izlem_4
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rh negatif anne adayına anti-D ne zaman verilir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_antenatal_izlem]
+metin: "Profilaktik olarak 28. gebelik haftasında."

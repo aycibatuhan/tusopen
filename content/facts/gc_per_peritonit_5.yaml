@@ -1,0 +1,14 @@
+id: gc_per_peritonit_5
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Pelvik apse hangi yoldan drene edilir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_periton_retroperiton
+  - gc_per_peritonit
+metin: Rektal veya vajinal yoldan.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Sinan_Çarkman_PERİTONİT_ve_İNTRAABDOMİNAL_ABSELER_(pdf.io).txt

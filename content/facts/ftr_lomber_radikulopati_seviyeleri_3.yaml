@@ -1,0 +1,11 @@
+id: ftr_lomber_radikulopati_seviyeleri_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Düz bacak kaldırma ve femoral sinir germe testleri neyi gösterir?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_lomber_disk_radikulopati]
+metin: "Lasegue L5-S1 disk hernisini; femoral germe üst lomber kök irritasyonunu."
+# kaynak: 5.sınıf_FTR_DİSK_HERNİLERİ.RT.txt, 5.sınıf_FTR_Bel_Ağrıları.txt

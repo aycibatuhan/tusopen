@@ -1,0 +1,10 @@
+id: biyok_kh_fruktoz_galaktoz_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Galaktozemide kataraktı yapan metabolit nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_fruktoz_galaktoz]
+metin: "Biriken galaktitol lensi hasarlar."

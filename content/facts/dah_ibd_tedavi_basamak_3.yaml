@@ -1,0 +1,11 @@
+id: dah_ibd_tedavi_basamak_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "IBD'de anti-TNF direncinde ne yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_ulseratif_kolit]
+metin: "Doz artışı veya başka biyolojik: anti-integrin, IL-12/23 blokörü, tofasitinib."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_IBD.lecture_2020-4.class_AFC-son.txt

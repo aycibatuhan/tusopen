@@ -1,0 +1,13 @@
+id: histo_sol_alveol_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Alveol yüzeyinin büyük bölümünü döşeyen hücreler hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_solunum
+  - histo_sol_alveol
+metin: Tip I pneumositler; yassı hücreler, gaz değişimini kolaylaştırır.

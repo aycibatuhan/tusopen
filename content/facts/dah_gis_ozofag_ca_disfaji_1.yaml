@@ -1,0 +1,11 @@
+id: dah_gis_ozofag_ca_disfaji_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Orta yaş üstünde ilerleyici disfaji neyi düşündürür?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_ozofajit]
+metin: "Aksi kanıtlanana kadar özofagus kanserini."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_Özofagus_Hastalıkları-4.Sınıf-Prof.Dr.Murat_TUNCER_.txt

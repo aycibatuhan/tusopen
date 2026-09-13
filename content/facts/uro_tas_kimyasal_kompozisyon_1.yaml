@@ -1,0 +1,11 @@
+id: uro_tas_kimyasal_kompozisyon_1
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En sık üriner taş cinsi ve oranı nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_tas_hastaligi, uro_tas_metabolik_arastirma]
+metin: "Tek başına kalsiyum oksalat %52; kalsiyum fosfatın payı %13, ikisinin karışımı %15."
+# kaynak: 4._Sınıf_Üroloji_Ders_5-UROLITHIASIS-_Bulent_Onal.txt, 3._Sınıf_3.2_Üroloji_Urolithiasis.txt

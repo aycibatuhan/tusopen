@@ -1,0 +1,14 @@
+id: gc_mide_bariatrik_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bariatrik cerrahinin en ciddi erken komplikasyonları?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_mide_duodenum
+  - gc_mide_bariatrik
+metin: Anastomoz kaçağı (en sık ölüm nedeni) ve pulmoner emboli (~%1).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Kağan_Zengin_(Morbid_obezite)_4.Türk..txt

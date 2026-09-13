@@ -1,0 +1,13 @@
+id: gc_tp_onkolojik_prensipler_4
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sentinel lenf nodu nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_onkolojik_prensipler
+metin: Primer tümörün lenfatik drenajını ilk alan nod; negatifse ileri lenfadenektomi gerekmez.

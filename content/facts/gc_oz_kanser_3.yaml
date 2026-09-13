@@ -1,0 +1,14 @@
+id: gc_oz_kanser_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Özofagus kanseri evrelemede en değerli tetkik?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ozofagus
+  - gc_oz_kanser
+metin: Endosonografi (EUS); invazyon derinliği ve lenf nodunu BT'den iyi gösterir.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Faik_Özçelik_OEZOFAGUS_KANSERI_2017.txt

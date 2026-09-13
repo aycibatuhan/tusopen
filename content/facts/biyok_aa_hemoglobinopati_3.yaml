@@ -1,0 +1,10 @@
+id: biyok_aa_hemoglobinopati_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HbS mutasyonu neden bazı bölgelerde sık kalır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_hemoglobinopati]
+metin: "Heterozigotluk sıtmaya karşı koruyucu; dengeleyici polimorfizm örneğidir."

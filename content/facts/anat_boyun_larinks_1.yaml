@@ -1,0 +1,10 @@
+id: anat_boyun_larinks_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Larinksin tamamını saran tek halka hangisidir?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_larinks]
+metin: Krikoid kıkırdak; C6 düzeyinde, altında trakea başlar.

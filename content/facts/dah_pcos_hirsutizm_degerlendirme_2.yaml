@@ -1,0 +1,11 @@
+id: dah_pcos_hirsutizm_degerlendirme_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Polikistik over morfolojisi USG'de nasıl tanımlanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_pkos_hirsutizm]
+metin: "Over başına 2-9 mm çapta 20'den fazla folikül veya volüm 10 cm3 üzeri."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Kadın_Reprodüktif_Sistem_Hst.txt

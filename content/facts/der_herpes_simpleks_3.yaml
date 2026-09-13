@@ -1,0 +1,11 @@
+id: der_herpes_simpleks_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yenidoğan dissemine herpes infeksiyonu nasıl bulaşır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_viral, derm_vr_herpes]
+metin: "Çoğunlukla HSV tip II ile doğum sırasında anneden; ölümle sonuçlanabilir."
+# kaynak: 5.sınıf_Dermatoloji_viral_yeni.txt

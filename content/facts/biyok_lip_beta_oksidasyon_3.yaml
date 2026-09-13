@@ -1,0 +1,10 @@
+id: biyok_lip_beta_oksidasyon_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Orta zincirli asil-KoA dehidrojenaz eksikliği tablosu nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_beta_oksidasyon]
+metin: "Açlıkta hipoketotik hipoglisemi; açlık sonrası ani ölüm riski taşır."

@@ -1,0 +1,11 @@
+id: nor_kume_ba_tani_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Küme baş ağrısında atak sıklığı nasıl değişir?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_kume]
+metin: "Gün aşırı 1'den günde 8'e kadar."
+# kaynak: 5.sınıf_Nöroloji_2020_Primer_BA_yeni.txt

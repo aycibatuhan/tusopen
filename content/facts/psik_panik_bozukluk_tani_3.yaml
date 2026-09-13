@@ -1,0 +1,11 @@
+id: psik_panik_bozukluk_tani_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Panik ataklar tipik olarak ne sıklıkta tekrarlar?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_anksiyete, psik_an_panik]
+metin: "Haftada 2-3 kez."
+# kaynak: 5.sınıf_PSİKİYATRİ_ANKSİYETE_BOZUKLUKLARI_(yeni).txt

@@ -1,0 +1,11 @@
+id: mikro_rna_calici_noro_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Norovirüs epidemik gastroenteritler için hangi adla bilinir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_calici_noro]
+metin: "'Kış kusma hastalığı'; belirgin kusma ile hafif ishal yapar."
+# kaynak: Adenovirus_parvo.txt

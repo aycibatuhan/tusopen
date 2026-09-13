@@ -1,0 +1,11 @@
+id: anat_tor_pleura_recessus_innervasyon_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Pleuranın duyu innervasyonu bölgeye göre nasıldır?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_plevra]
+metin: Costalis intercostal, mediastinalis-diaphragmatica frenik; visceralis otonom ve ağrısızdır.
+# kaynak: 2._Sınıf_2.3_Anatomi_2019_Solunum_Sistemi.txt

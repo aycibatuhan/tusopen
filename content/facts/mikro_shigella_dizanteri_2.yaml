@@ -1,0 +1,11 @@
+id: mikro_shigella_dizanteri_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Shiga toksini hangi mekanizmayla etki eder?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_shigella]
+metin: "60S ribozomal alt birimine bağlanarak protein sentezini geri dönüşümsüz durdurur."
+# kaynak: Salmonella_Shigella_Yersinia_(2).txt

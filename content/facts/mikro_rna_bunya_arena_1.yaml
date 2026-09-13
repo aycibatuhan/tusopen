@@ -1,0 +1,11 @@
+id: mikro_rna_bunya_arena_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kırım-Kongo kanamalı ateşinin ailesi ve vektörü nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_bunya_arena]
+metin: "Bunyaviridae-Nairovirus; vektör Hyalomomma kenesidir."
+# kaynak: Arenavirus_Hantavirus_ve_Filoviruslar.txt, Arboviruslar.txt

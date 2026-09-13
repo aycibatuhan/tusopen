@@ -1,0 +1,10 @@
+id: biyok_mol_translasyon_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Genetik kodun dejenereliği ne demektir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_translasyon]
+metin: "Birden fazla kodonun aynı amino asiti kodlaması; çoğunlukla üçüncü bazdan kaynaklanır."

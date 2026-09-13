@@ -1,0 +1,13 @@
+id: embriyo_gen_ucuncu_hafta_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Gastrulasyon nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_ucuncu_hafta
+metin: Epiblast hücrelerinin primitif çizgiden göç ederek ektoderm, mezoderm ve endodermi oluşturması.

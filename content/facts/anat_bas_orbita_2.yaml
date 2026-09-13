@@ -1,0 +1,10 @@
+id: anat_bas_orbita_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Superior orbital fissureden hangi sinirler orbitaya girer?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_orbita]
+metin: III, IV, VI ve V1 sinirleri girer.

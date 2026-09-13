@@ -1,0 +1,19 @@
+id: ped_toks_parasetamol_1
+version: 1
+status: draft
+author: ai-drafts/toksikoloji-antidot
+sources:
+- Amerikan Akademik Klinik Toksikoloji (AACT) parasetamol pozisyon bildirileri — referans olarak listelendi, metin özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: Parasetamol zehirlenmesinde hepatotoksik mekanizma nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_zehirlenmeler
+metin: NAPQI metaboliti glutatyon depolarını tüketince merkezi lobüler hepatik nekroz gelişir; ilk 24 saat hasta çoğu kez iyidir.
+tus_gecmisi:
+- tus-2015-ilkbahar-ttbt-101
+- tus-2020-ilkbahar-ktbt-53
+- tus-2020-ilkbahar-ktbt-54
+

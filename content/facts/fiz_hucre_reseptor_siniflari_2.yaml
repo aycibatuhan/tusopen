@@ -1,0 +1,11 @@
+id: fiz_hucre_reseptor_siniflari_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnsülin reseptörü hangi sınıftır ve hangi yolağı kullanır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_sinyal]
+metin: "Katalitik tirozin kinaz; dimerizasyon ve Ras-MAP kinaz yolağıyla gen transkripsiyonunu düzenler."
+# kaynak: 13-Hücreler_arası_haberleşme-I.txt

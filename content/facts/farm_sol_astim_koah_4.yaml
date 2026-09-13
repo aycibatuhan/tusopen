@@ -1,0 +1,11 @@
+id: farm_sol_astim_koah_4
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Omalizumab hangi kriterde kullanılır?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_solunum, farm_sol_astim_koah]
+metin: "Şiddetli allerjik astım; total IgE 30-700 IU/mL."
+# kaynak: 2._Sınıf_2.3_farmakoloji_ASTMA_2018_____renci.txt

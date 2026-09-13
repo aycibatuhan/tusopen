@@ -1,0 +1,11 @@
+id: bcy_sah_tani_komplikasyon_3
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SAK'a bağlı hidrosefalinin sıklığı ve tedavisi nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_vaskuler_patoloji, bce_va_anevrizma_sah]
+metin: "Başvuruda %20; önce erken eksternal ventriküler drenaj, ~%40'ta kalıcı VP şant."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Serebrovasküler_Hastalıklar_-_Dr._Barış_Küçükyürük_(1).txt

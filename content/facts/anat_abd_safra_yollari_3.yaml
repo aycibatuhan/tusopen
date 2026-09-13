@@ -1,0 +1,11 @@
+id: anat_abd_safra_yollari_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: A. cystica çoğunlukla nereden çıkar?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_karaciger]
+metin: A. hepatica propria'nın sağ dalından (%70).
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-_YUSUF_ZEKİ_YILDIZ-_Sindirim_organları_-II.txt

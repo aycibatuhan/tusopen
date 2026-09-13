@@ -1,0 +1,14 @@
+id: genetik_cift_zincir_kirik_tamiri_3
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Nonhomolog uç birleştirmede (NHEJ) ne olur?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_dna_yapi_repasyon
+metin: Kırık uçlar doğrudan kaynaştırılır; sık baz kaybı olur.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_6._Ders_Mutasyonlar-DNA_Tamiri_M_Güven.txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_İleri_Hücre_Biyolojisi_Dersi_(Kanser).txt

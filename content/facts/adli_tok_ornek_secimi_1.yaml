@@ -1,0 +1,11 @@
+id: adli_tok_ornek_secimi_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut zehirlenmede primer incelenecek örnek hangisidir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_klinik_adli_durumlar, adl_kd_zehirlenme_adli]
+metin: "Kan; femoral venden alınır, öldürücü doz kan için verilir."
+# kaynak: 5.sınıf_Adli_Tıp_ADLİ_TOKSİKOLOJİ_PROF._DR._İBRAHİM_ÜZÜN.txt

@@ -1,0 +1,11 @@
+id: adli_somatik_ve_beyin_olumu_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Somatik ölüm nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_sekli]
+metin: "Solunum, dolaşım ve beyin fonksiyonlarının geri dönüşümsüz kaybı; hukuken ölüm kararı tanımıdır."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_-_TEMEL_KAVRAMLAR_PROF._DR._SERMET_KOÇ.txt

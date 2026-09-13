@@ -1,0 +1,11 @@
+id: anes_transfuzyon_hb_esikleri_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Açılmış kan nasıl kullanılmalıdır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_sivi_kan, anes_sk_transfuzyon]
+metin: "Oda sıcaklığında 4 saat içinde; kullanılmayacaksa 30 dakika içinde buzdolabına döndürülür."
+# kaynak: 4._Sınıf_Anestezi_2.txt, 4._Sınıf_Anestezi_KAN_VE_KAN_ÜRÜNLERİ_TRANSFÜZYONLARI.txt

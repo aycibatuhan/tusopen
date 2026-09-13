@@ -1,0 +1,11 @@
+id: ftr_manuel_kas_testi_refleks_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kas germe reflekslerinde derecelendirme nasıldır?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_eklem_hareket]
+metin: "1+ azalmış, 2+ normal, 3+ artmış; 0 yok, 4 klonus."
+# kaynak: 5.sınıf_FTR_OmurgaFM.txt

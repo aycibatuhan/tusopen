@@ -1,0 +1,15 @@
+id: enf_tetanoz_yara_profilaksi_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 3 doz aşı almış hastada yaralanmada aşı tekrarı ne zaman gerekir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_isirik_yaralari
+metin: Tetanojenik yarada son dozdan 5 yıl, tetanojenik olmayanda 10 yıl geçtiyse tek doz; TIG gerekmez.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

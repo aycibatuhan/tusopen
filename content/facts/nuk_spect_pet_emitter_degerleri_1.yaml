@@ -1,0 +1,11 @@
+id: nuk_spect_pet_emitter_degerleri_1
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tc-99m, I-123 ve I-131'in yarı ömür ve foton enerjileri nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_temel, nt_tm_goruntuleme_cihazlari]
+metin: "Tc-99m 6 saat/140 keV; I-123 13 saat/159 keV; I-131 8 gün/364 keV."
+# kaynak: 5.sınıf_Nükleer_Tıp_CTF_Staj-intro_send.txt, 5.sınıf_Nükleer_Tıp_CTF_Staj-tümörsintigrafisi-2022.txt, 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

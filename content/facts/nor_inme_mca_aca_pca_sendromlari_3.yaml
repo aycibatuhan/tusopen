@@ -1,0 +1,11 @@
+id: nor_inme_mca_aca_pca_sendromlari_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PCA infarktının bulguları nelerdir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_inme_sendromlari]
+metin: "Karşıda homonim hemianopi, kortikal körlük, prosopagnozi; talamik ağrı (Dejerine-Roussy)."
+# kaynak: 5.sınıf_Nöroloji_lokalizasyon_ders_notu.txt, 5.sınıf_Nöroloji_Ischemic_Stroke__11.01.2023.txt

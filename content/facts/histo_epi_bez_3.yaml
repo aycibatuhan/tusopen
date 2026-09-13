@@ -1,0 +1,13 @@
+id: histo_epi_bez_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Holokrin salgı nedir ve örneği hangisidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_epitel
+  - histo_epi_bez
+metin: Hücre tümüyle yıkılarak salgıya dönüşür; sebase bez.

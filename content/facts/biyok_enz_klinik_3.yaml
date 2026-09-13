@@ -1,0 +1,10 @@
+id: biyok_enz_klinik_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut pankreatitte yükselen enzimler hangileridir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_klinik]
+metin: "Amilaz ve özellikle lipaz."

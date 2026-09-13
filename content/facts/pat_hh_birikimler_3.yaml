@@ -1,0 +1,10 @@
+id: pat_hh_birikimler_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alfa-1-antitripsin eksikliğinde hepatositlerde ne birikir?"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_birikimler]
+metin: "PAS pozitif granüller."

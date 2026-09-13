@@ -1,0 +1,11 @@
+id: hsag_bi_logrank_cox_1
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Log-rank testi ne yapar?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_sagkalim]
+metin: "İki veya daha çok grubun sağkalım oranlarını tüm zaman kesitlerinde karşılaştırır."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD7_Sağkalım_analizi_(Life_Table__Kaplan-Meier__Logrank__Cox_Regresyonu).txt

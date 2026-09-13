@@ -1,0 +1,11 @@
+id: ftr_bel_agrisi_kirmizi_bayraklar_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nonspesifik bel ağrısında rutin direk grafi önerilir mi?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_mekanik_bel_agrisi]
+metin: "Önerilmez; gereksiz radyasyona ve bulguya dayanmayan tedavilere yol açar."
+# kaynak: 5.sınıf_FTR_Bel_Ağrıları.txt

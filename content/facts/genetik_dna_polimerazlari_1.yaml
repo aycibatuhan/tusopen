@@ -1,0 +1,14 @@
+id: genetik_dna_polimerazlari_1
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: E. coli'de replikasyonun ana polimerazı hangisidir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_dna_yapi_repasyon
+metin: Pol III.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_5.Ders_DNA_Replikasyonu_(M_Güven_2018-2019).txt

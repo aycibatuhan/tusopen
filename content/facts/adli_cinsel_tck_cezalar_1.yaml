@@ -1,0 +1,11 @@
+id: adli_cinsel_tck_cezalar_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "TCK 102'de basit cinsel saldırının ceza aralığı nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_klinik_adli_durumlar, adl_kd_cinsel_suc_muayene]
+metin: "5-10 yıl; organ veya cisim sokulmada ceza 12 yıldan az olamaz."
+# kaynak: 5.sınıf_Adli_Tıp_CİNSEL_SALDIRI_DOÇ._DR._BERNA_ŞENEL_ERASLAN.txt

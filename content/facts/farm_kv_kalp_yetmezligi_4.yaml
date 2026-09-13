@@ -1,0 +1,11 @@
+id: farm_kv_kalp_yetmezligi_4
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Milrinon ve levosimendan nasıl etki eder?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_kalp_yetmezligi]
+metin: "Milrinon PDE inhibisyonu; levosimendan troponini kalsiyuma duyarlılaştırır."
+# kaynak: 2._Sınıf_2.2_Farmakoloji_27.11_Congestive_heart_failure.txt

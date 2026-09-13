@@ -1,0 +1,12 @@
+id: der_bcc_shk_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BHK ve SHK'nın temel tedavisi nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_deri_tumorleri, derm_tu_bazal_hucreli]
+  - [ktbt, dermatoloji, derm_deri_tumorleri, derm_tu_skuamoz]
+metin: "Cerrahi çıkarımdır."
+# kaynak: 5.sınıf_Dermatoloji_zk_DERİ_KANSERLERİ.txt

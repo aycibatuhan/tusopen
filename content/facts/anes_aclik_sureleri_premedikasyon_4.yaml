@@ -1,0 +1,11 @@
+id: anes_aclik_sureleri_premedikasyon_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ketaminin oral ve intramusküler sedasyon dozları nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_preoperatif, anes_pre_aclik_premedikasyon]
+metin: "Oral 6-10 mg/kg; intramusküler sedasyon dozu 3-4 mg/kg'dır."
+# kaynak: 4._Sınıf_Anestezi_1.txt

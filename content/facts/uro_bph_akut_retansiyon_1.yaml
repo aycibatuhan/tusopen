@@ -1,0 +1,11 @@
+id: uro_bph_akut_retansiyon_1
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erkekte akut üriner retansiyonun başta gelen nedeni nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_bph, uro_bph_komplikasyonlar]
+metin: "BPH'dır (prostat kanseri, üretra darlığı, prostat absesi de retansiyon yapar)."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt

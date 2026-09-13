@@ -1,0 +1,11 @@
+id: pat_neo_kimyasal_karsinojenler_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnisiasyonun özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_karsinojenler]
+metin: "Kalıcı DNA mutasyonu; hızlı, irreversibl, en az bir siklus gerekir."
+# kaynak: 1._Sınıf_1.4_Patoloji_iremonur_kimyasal_viral_karsinogenez.txt

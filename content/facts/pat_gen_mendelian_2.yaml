@@ -1,0 +1,10 @@
+id: pat_gen_mendelian_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Otozomal resesif hastalıklarda defekt çoğunlukla nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_genetik, pat_gen_mendelian]
+metin: "Enzim işlev kaybı."

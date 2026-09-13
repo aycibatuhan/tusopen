@@ -1,0 +1,10 @@
+id: pat_dam_vaskulit_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kawasaki hastalığının riski nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_kan_damarlari, pat_dam_vaskulit]
+metin: "Çocuklarda koroner anevrizma."

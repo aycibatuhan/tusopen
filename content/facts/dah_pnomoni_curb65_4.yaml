@@ -1,0 +1,11 @@
+id: dah_pnomoni_curb65_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Legionella pnömonisini düşündüren laboratuvar bulguları nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gogus, dah_gog_pnomoni]
+metin: "Hiponatremi, bradikardi, karaciğer enzim yüksekliği ve LDH yükselmesi."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_PNÖMONİLER_2.txt

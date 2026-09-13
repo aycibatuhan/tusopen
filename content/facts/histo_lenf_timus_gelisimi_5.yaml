@@ -1,0 +1,14 @@
+id: histo_lenf_timus_gelisimi_5
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: DiGeorge sendromunda ne olur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_lenfoid
+  - histo_lenf_timus
+metin: 3. faringeal cep kusuruyla timus gelişemez; T hücre prekürsörleri farklılaşamaz.
+# kaynak: 2._Sınıf_2.4_1.vize_Histoloji_İMMÜN_SİSTEM-2018.txt

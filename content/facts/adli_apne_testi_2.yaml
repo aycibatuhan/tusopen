@@ -1,0 +1,11 @@
+id: adli_apne_testi_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Apne testi nasıl uygulanır?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_sekli]
+metin: "Ventilasyon kesilir, trakeadan en az 8-10 dakika 6 L/dk oksijen verilir."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_-_TEMEL_KAVRAMLAR_PROF._DR._SERMET_KOÇ.txt

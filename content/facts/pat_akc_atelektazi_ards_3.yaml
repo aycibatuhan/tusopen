@@ -1,0 +1,11 @@
+id: pat_akc_atelektazi_ards_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi atelektazi tipi irreversibldır?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_atelektazi_ards]
+metin: "Kontraksiyon atelektazisi; lokal/yaygın akciğer fibrozisine bağlıdır."
+# kaynak: 2._Sınıf_2.3_Patoloji_2_solunum_Hast_2019.txt

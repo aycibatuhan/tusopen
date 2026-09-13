@@ -1,0 +1,11 @@
+id: mikro_rickettsia_tifus_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Epidemik (bit) tifüsünün etkeni, rezervuarı ve vektörü nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_rickettsia]
+metin: "R. prowazekii; rezervuar insan, vektör vücut bitidir; bulaş dışkıyla olur, ısırmayla bulaşmaz."
+# kaynak: Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

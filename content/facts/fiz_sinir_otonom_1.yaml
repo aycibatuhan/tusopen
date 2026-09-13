@@ -1,0 +1,10 @@
+id: fiz_sinir_otonom_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sempatik sistemin çıkışı ve postgangliyonik transmitteri nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_otonom]
+metin: "Torakolombar çıkışlı, postgangliyonikler noradrenalin salgılar; ter bezleri kolinerjik istisnadır."

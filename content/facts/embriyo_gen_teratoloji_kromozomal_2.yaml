@@ -1,0 +1,14 @@
+id: embriyo_gen_teratoloji_kromozomal_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Trizomi 18 ve trizomi 13 sıklıkları nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_teratoloji
+metin: Yaklaşık 1:5000 ve 1:20000; her ikisinde erken bebeklik kaybı beklenir.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_2.GAMETOGENEZ-I.txt

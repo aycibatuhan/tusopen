@@ -1,0 +1,15 @@
+id: ped_gog_tbc_tdt_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tüberkülin testinde pozitiflik eşikleri nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_tuberkuloz
+metin: BCG aşılanmamış çocukta ≥10 mm, aşılanmışta ≥15 mm, immünsüpresif hastada ≥5 mm endürasyon.
+
+# kaynak: 4._Sınıf_Pediatri_Ayşe_Ayzıt_Kılınç_tbc_ders_4._sınıf_.txt

@@ -1,0 +1,10 @@
+id: anat_ae_bacak_sinirleri_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Obturator sinir lezyonu ne yapar?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_bacak_sinirleri]
+metin: Uyluk addüksiyon kaybı; adduktor grubunu innerve eder.

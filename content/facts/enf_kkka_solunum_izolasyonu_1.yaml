@@ -1,0 +1,15 @@
+id: enf_kkka_solunum_izolasyonu_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: KKKA'da hangi girişimlerde solunum izolasyonu alınmalıdır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_kkka
+metin: Entübasyon, resüsitasyon, aspirasyon ve nazogastrik sonda takma gibi aerosol oluşturan girişimlerde.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

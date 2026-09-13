@@ -1,0 +1,13 @@
+id: gc_tp_preoperatif_2
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Düzeltilmiş kardiyak risk indeksinin öngörücüleri?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_preoperatif
+metin: Yüksek riskli cerrahi, İKH, KYH, SVO, insülin bağımlı DM, kreatinin >2 mg/dL.

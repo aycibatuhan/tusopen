@@ -1,0 +1,14 @@
+id: gc_oz_perforasyon_kostik_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Korozif yaralanmada geç dönem komplikasyonları?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ozofagus
+  - gc_oz_perforasyon
+metin: Korozif darlık, reflü özofajit ve kanser.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_İhsan_Taşçı_Esophageal_other_diseases_türkçe_30.8.20.txt

@@ -1,0 +1,11 @@
+id: kbb_tonsillektomi_abse_sonrasi
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Peritonsiller apse geçiren hastada elektif tonsillektomi ne zaman önerilir?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_tonsillektomi]
+metin: "6-8 hafta sonra; akut dönemde sıcak tonsillektomi de seçenektir."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt, 5.sınıf_KBB_derin_boyun_enfeksiyonları.txt, 5.sınıf_KBB_2-TONSİL_FARENKS_VE_ADENOİD_BÖLGENİN_ENFEKSİYONLARI.txt

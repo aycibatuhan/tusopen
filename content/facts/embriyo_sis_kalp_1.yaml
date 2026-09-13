@@ -1,0 +1,13 @@
+id: embriyo_sis_kalp_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kalbin septumlarını hangi yapılar oluşturur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_kalp
+metin: Kulakçıklarda septum primum ve sekundum; karıncıklarda interventriküler septum; geçitte endokardiyal yastıklar.

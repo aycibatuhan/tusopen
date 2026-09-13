@@ -1,0 +1,14 @@
+id: embriyo_gen_ikinci_hafta_anormal_implantasyon_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ektopik gebeliklerin en sık yerleşim yeri neresidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_ikinci_hafta
+metin: Tuba uterina; gebeliklerin ~%2'si ektopiktir, %95'ten fazlası tubada, en sık ampulla.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_gelişimin_ikinci_haftası_bilaminar_germ_diski.txt

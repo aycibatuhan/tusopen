@@ -1,0 +1,15 @@
+id: enf_tetanoz_yara_profilaksi_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Aşısı <3 doz veya bilinmeyen hastada tetanoz profilaksisi nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_isirik_yaralari
+metin: Her yarada aşı yapılır; tetanojenik yaraya TIG (250 IU IM) eklenir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

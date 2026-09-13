@@ -1,0 +1,15 @@
+id: enf_febril_notropeni_tanim_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Febril nötropenide odak bulguları hangi mantarları düşündürür?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_immunsuprese
+  - enf_im_febril_notropeni
+metin: Halo/hilal işareti Aspergillus; rinoserebral tutulum mukormikoz; karaciğer-dalak lezyonları ve deri nodülleri Candida.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Sistemlere_göre_sık_enfeksiyonlar.txt

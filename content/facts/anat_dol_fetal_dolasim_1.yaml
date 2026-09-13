@@ -1,0 +1,10 @@
+id: anat_dol_fetal_dolasim_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Fetusta göbek veni kanı alt vena kavaya nasıl ulaşır?
+taksonomi:
+  - [ttbt, anatomi, anat_dolasim, anat_dol_fetal_dolasim]
+metin: Ductus venosus'tan geçerek alt vena kavaya boşalır.

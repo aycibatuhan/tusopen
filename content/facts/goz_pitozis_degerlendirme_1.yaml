@@ -1,0 +1,11 @@
+id: goz_pitozis_degerlendirme_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kenar refleks uzaklığı (MRD) normalde kaç mm'dir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_kapak_lakrimal, goz_kl_pitozis]
+metin: "4-4,5 mm; azalması pitozisi gösterir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kapak_Hastalıkları.txt

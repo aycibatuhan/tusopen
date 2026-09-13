@@ -1,0 +1,15 @@
+id: ped_bes_anne_sutu_bilesim_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Anne sütünün enerjisi ve protein kompozisyonu nasıldır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_anne_sutu
+metin: 100 ml'de ~70 kcal; proteinin %60'ı whey, %40'ı kazeindir (kolostrumda 90:10).
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_Doğal_Beslenme-Sınıf_4.txt

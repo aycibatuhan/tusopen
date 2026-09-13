@@ -1,0 +1,11 @@
+id: ort_tibia_plato_schatzker_4
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tibia plato kırığında posttravmatik artrozu belirleyen nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_tibia_plato]
+metin: "Eklem depresyonunun derecesi değil aksiyel hizanın korunması."
+# kaynak: 5.sınıf_Ortopedi_proksimal_tibia_ve_patella_frk.txt

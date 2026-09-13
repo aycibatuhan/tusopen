@@ -1,0 +1,11 @@
+id: fiz_kan_hb_degerleri_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "1 gram hemoglobin kaç mililitre oksijen taşır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_hemoglobin]
+metin: "1.34 ml; yüzde 97 satüre 100 ml arteryel kan 20 ml O2 içerir."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt, 2._Sınıf_2.4_2.vize_fizyoloji_KAN_FİZYOLOJİSİ_TÜRKÇE_GRUBU.2020.txt

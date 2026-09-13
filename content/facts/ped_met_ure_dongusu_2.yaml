@@ -1,0 +1,14 @@
+id: ped_met_ure_dongusu_2
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: En sık üre döngüsü bozukluğu ve orotik asidüri ayırımı nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_ure_dongusu
+metin: OTC eksikliği (X-bağlı), orotik asidüri artar; CPS-1 eksikliğinde orotik asit normaldir.
+

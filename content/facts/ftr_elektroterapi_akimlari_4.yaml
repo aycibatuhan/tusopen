@@ -1,0 +1,11 @@
+id: ftr_elektroterapi_akimlari_4
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "TENS'in kontrendikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, ftr, ftr_fizik_tedavi_ajanlari, ftr_fa_elektroterapi]
+metin: "Kalp pili, karotis sinüs üzerine elektrot, gebelikte karın bölgesine uygulama."
+# kaynak: 5.sınıf_FTR_Fizik_tedavi_modaliteleri.txt

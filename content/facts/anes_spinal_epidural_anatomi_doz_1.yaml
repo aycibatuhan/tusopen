@@ -1,0 +1,11 @@
+id: anes_spinal_epidural_anatomi_doz_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erişkinde spinal kord nerede sonlanır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_rejyonal, anes_ra_spinal]
+metin: "L1 vertebra hizasında (çocukta L3); ponksiyon düzeyi Tuffier çizgisiyle belirlenir."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Rejyonal_Anestezi_Ders_Mart_2022.txt

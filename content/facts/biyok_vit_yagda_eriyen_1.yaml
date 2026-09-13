@@ -1,0 +1,10 @@
+id: biyok_vit_yagda_eriyen_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "A vitamininin görevi ve eksikliğin ilk bulgusu nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_yagda_eriyen]
+metin: "Rodopsinin 11-cis retinal bölümünü oluşturur; eksikliği gece körlüğüyle başlar."

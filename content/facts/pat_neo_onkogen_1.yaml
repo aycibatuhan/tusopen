@@ -1,0 +1,10 @@
+id: pat_neo_onkogen_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnsan tümörlerinde en sık onkogen değişikliği nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_onkogen]
+metin: "RAS nokta mutasyonları."

@@ -1,0 +1,11 @@
+id: dah_hemokromatoz_tani_flebotomi_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemokromatoziste flebotomi planı nasıldır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_wilson_hemokromatoz]
+metin: "16-24 ay haftada 1-2 kez 500 ml; sonra ömür boyu yılda 4-8 flebotomi."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_METABOLİK_KARACİĞER_HASTALIKLARI.txt

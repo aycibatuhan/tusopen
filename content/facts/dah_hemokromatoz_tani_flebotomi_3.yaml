@@ -1,0 +1,11 @@
+id: dah_hemokromatoz_tani_flebotomi_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemokromatozisin klasik üçlüsü nedir ve ne zaman gelişir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_wilson_hemokromatoz]
+metin: "Siroz, diyabet, deri hiperpigmentasyonu; ancak 45 yaş sonrası geç dönemde."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_METABOLİK_KARACİĞER_HASTALIKLARI.txt

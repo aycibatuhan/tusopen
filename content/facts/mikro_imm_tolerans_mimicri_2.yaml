@@ -1,0 +1,11 @@
+id: mikro_imm_tolerans_mimicri_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Moleküler mimicri öz toleransı nasıl kırar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_tolerans_otoimmunite]
+metin: "Mikroorganizma ile konak arasında moleküler benzeşme; örneğin S. pyogenes M proteini-kalp miyozini benzerliği."
+# kaynak: 4-Mikroorganizma_Otoimmünite_2019.txt, 2-Antijen_tanıma_2019.txt

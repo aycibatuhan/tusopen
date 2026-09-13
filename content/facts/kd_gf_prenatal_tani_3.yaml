@@ -1,0 +1,10 @@
+id: kd_gf_prenatal_tani_3
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Maternal serum AFP yüksekliği neye işaret eder?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_prenatal_tani]
+metin: "Açık nöral tüp defekti, anensefali ve karın duvarı defektleri."

@@ -1,0 +1,13 @@
+id: embriyo_sis_damarlar_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Fetal dolaşım geçitleri ne zaman kapanır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_damarlar
+metin: Doğumda akciğer dolaşımı devreye girince; kapanmama konjenital kalp-damar anomalisi yapar.

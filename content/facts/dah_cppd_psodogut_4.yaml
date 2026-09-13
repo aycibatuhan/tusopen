@@ -1,0 +1,11 @@
+id: dah_cppd_psodogut_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CPPD atağında tedavi seçenekleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_kristal_artropati]
+metin: "NSAİİ, intraartiküler kortikosteroid ve kolşisin."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_kristal_artrit.txt

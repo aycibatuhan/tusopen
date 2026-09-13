@@ -1,0 +1,11 @@
+id: adli_tck_dis_puanlari_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Diş kaybı puanları hangi sınırlarda işlev kaybı sayılır?"
+taksonomi:
+  - [ktbt, adli_tip, adl_yara_balistik, adl_yb_yasam_belirtileri]
+metin: "15-30 toplam sürekli zayıflama; 30'u aşma işlevin yitirilmesi."
+# kaynak: 5.sınıf_Adli_Tıp_TCK_YARALAR_PROF._DR._GÜRSEL_ÇETİN.txt

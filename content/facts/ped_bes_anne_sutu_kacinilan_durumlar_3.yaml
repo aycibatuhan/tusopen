@@ -1,0 +1,15 @@
+id: ped_bes_anne_sutu_kacinilan_durumlar_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sitomegalovirus, hepatit B ve suçiçeği geçiren annede emzirme yasak mıdır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_anne_sutu
+metin: Hayır; özel önlemlerle emzirmeye izin verilir.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_Doğal_Beslenme-Sınıf_4.txt

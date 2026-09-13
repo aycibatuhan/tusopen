@@ -1,0 +1,11 @@
+id: kard_trombolitik_kontrendikasyon_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Trombolizin görece kontrendikasyonu nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_reperfuzyon]
+metin: "Dirençli hipertansiyon (>180/110 mmHg)."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

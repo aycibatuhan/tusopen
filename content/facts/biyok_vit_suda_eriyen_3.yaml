@@ -1,0 +1,10 @@
+id: biyok_vit_suda_eriyen_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "B6'nın kofaktörlüğü ve izoniazid ilişkisi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_suda_eriyen]
+metin: "Transaminasyonun kofaktörüdür; izoniazid kullananlara ek olarak verilir."

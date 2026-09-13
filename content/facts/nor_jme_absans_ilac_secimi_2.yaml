@@ -1,0 +1,11 @@
+id: nor_jme_absans_ilac_secimi_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "JME'nin tedavisinde seçilen ilaçlar hangileridir?"
+taksonomi:
+  - [ktbt, noroloji, noro_epilepsi, noro_ep_tedavi]
+metin: "Valproat, topiramat ve levetirasetam."
+# kaynak: 5.sınıf_Nöroloji_staj_tedavi_2022_o_g_renci_kopya.txt

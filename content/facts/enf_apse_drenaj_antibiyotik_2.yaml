@@ -1,0 +1,15 @@
+id: enf_apse_drenaj_antibiyotik_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Apsede antibiyotik endikasyonu sayılan bulgular hangileridir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_selulit_erizipel
+metin: Ateş >38 veya <36°C, nabız >90/dk, solunum >24/dk, lökositoz >12.000 veya lökopeni <400/μL, hızlı ilerleyen enfeksiyon, yaygın selülit, yüz-genital yerleşim.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_DYDİ_2021Neşe_Saltoğlu.txt

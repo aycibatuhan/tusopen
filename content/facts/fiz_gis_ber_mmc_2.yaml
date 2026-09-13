@@ -1,0 +1,11 @@
+id: fiz_gis_ber_mmc_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mide, duodenum ve ileumda yavaş dalga frekansları kaçtır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_motilite]
+metin: "Midede 3-4, duodenumda 12, ileumda 8-9/dk."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_1._Ders_GIS_Nöral_Kontrolü_Sibel_2020.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_10.İNCE_VE_KALIN_BAĞIRSAK_HAREKETLERİ__İNCE_VE_KALIN_BAĞIRSAK_SALGILARI_4.4.2020_sae.txt

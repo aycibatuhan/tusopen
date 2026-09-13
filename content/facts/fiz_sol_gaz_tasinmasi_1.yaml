@@ -1,0 +1,10 @@
+id: fiz_sol_gaz_tasinmasi_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kandaki oksijenin yüzde kaçı hemoglobine bağlı taşınır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_gaz_tasinmasi]
+metin: "Yüzde 98'den fazlası; bir gram Hb yaklaşık 1.34 ml O2 bağlar."

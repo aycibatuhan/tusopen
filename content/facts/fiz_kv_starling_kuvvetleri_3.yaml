@@ -1,0 +1,11 @@
+id: fiz_kv_starling_kuvvetleri_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ortalama net filtrasyon basıncı ve sıvı miktarı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_mikrodolasim]
+metin: "0.3 mmHg; dakikada yaklaşık 2 ml lenfatiklere gider."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Arteriyel_dolaşım__Kapiller_sistem__Lenfa.txt

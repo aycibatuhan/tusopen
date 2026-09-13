@@ -1,0 +1,11 @@
+id: ort_dev_hucreli_tumor_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dev hücreli tümörde akciğer metastazı ve küretaj sonrası nüks oranları nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kemik_tumorleri, orto_kt_dev_hucreli]
+metin: "Akciğer metastazı %1-2; küretaj sonrası lokal nüks %10-40."
+# kaynak: 5.sınıf_Ortopedi_Selim_Kemik_Tümörleri.txt

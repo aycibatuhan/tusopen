@@ -1,0 +1,14 @@
+id: embriyo_gen_fertilizasyon_temposu_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İmplantasyon hangi günde başlar?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_fertilizasyon
+metin: Blastosist gelişiminin yaklaşık 6. gününde endometriyum epiteline tutunarak.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_GELİŞİMİN_1.HAFTASI.txt

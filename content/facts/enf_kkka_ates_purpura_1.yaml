@@ -1,0 +1,15 @@
+id: enf_kkka_ates_purpura_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kırsal bölgede yazın ateş ve purpura hangi hastalığı düşündürür?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_kkka
+metin: Kırım-Kongo kanamalı ateşini; kene teması sorgulanır, hastane YB'li hastaneye acil sevk edilir.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sıtma_ve_Seyahatla_İlişkili_Enfeksiyonlar.txt

@@ -1,0 +1,10 @@
+id: fiz_ureme_kadin_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ovulasyon sonrası endometriyumu sekretuar evrede tutan nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_ureme, fiz_ureme_kadin]
+metin: "Korpus luteumun progesteron salgısı."

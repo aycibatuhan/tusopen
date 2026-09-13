@@ -1,0 +1,11 @@
+id: mikro_rna_corona_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SARS-CoV'un 2002-2003 salgınında hayvan ara konağı neydi?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_corona]
+metin: "Nalburunlu yarasadan misk kedisi aracılığıyla insana geçti; ölüm yüzde 10."
+# kaynak: 9-Rubella__Orthomyxo__Paramyxo__Corona_2020.txt

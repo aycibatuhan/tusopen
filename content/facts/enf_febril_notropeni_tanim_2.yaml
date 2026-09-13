@@ -1,0 +1,15 @@
+id: enf_febril_notropeni_tanim_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Febril nötropenide ilk saatlerde nasıl yaklaşılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_immunsuprese
+  - enf_im_febril_notropeni
+metin: Kültürler alındıktan sonra Pseudomonas'ı kapsayan ampirik geniş spektrumlu antibiyotik başlanır.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Sistemlere_göre_sık_enfeksiyonlar.txt

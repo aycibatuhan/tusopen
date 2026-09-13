@@ -1,0 +1,11 @@
+id: pls_parkland_formulu_3
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Parkland sıvısının zaman dağılımı nasıldır?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yanik, pce_ya_resusitasyon]
+metin: "Toplamın yarısı ilk 8 saatte; kalan dörtte birler sonraki iki 8 saatlik dilimde verilir."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Yanık-DERS-2020.txt

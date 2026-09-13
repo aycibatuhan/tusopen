@@ -1,0 +1,11 @@
+id: mikro_yersinia_pestis_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Veba pire ısırmasının klinik formları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_yersinia]
+metin: "Hıyarcık (bubonik) veba, akciğer vebası ve veba sepsisi."
+# kaynak: Salmonella_Shigella_Yersinia_(2).txt

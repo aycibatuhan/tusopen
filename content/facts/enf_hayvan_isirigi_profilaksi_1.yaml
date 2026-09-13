@@ -1,0 +1,15 @@
+id: enf_hayvan_isirigi_profilaksi_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kedi, köpek ve insan ısırıklarının önemli etkenleri kimlerdir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_isirik_yaralari
+metin: 'Kedi/köpek: Pasteurella multocida; köpek: Capnocytophaga; insan ısırığı: Eikenella corrodens.'
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_DYDİ_2021Neşe_Saltoğlu.txt

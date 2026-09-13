@@ -1,0 +1,11 @@
+id: anat_abd_pankreas_komsuluk_5
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Ductus pancreaticus major (Wirsung) nereye açılır?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_pankreas_dalak]
+metin: Ductus choledochus ile birleşerek Vater ampullasına açılır.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-YUSUF_ZEKİ_YILDIZ-Sindirim-organları-I.txt

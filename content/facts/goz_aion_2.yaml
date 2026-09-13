@@ -1,0 +1,11 @@
+id: goz_aion_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Arteritik AION'da ESR düzeyi ve tipik semptomlar nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_norooftalmoloji, goz_no_iskemik_optik_noropati]
+metin: "ESR 60 mm/saat üzeri; 60 yaş üstünde çene kladikasyonu ve baş ağrısı (%85)."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Optik_Sinir_Hastalıkları.txt, 5.sınıf_Göz_Hastalıkları_ANİ_KÖRLÜKLER.txt

@@ -1,0 +1,11 @@
+id: kard_perikardit_tani_tedavi_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut perikardit tanı kriterleri nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_endokardit_miyokard_perikard, kard_em_akut_perikardit]
+metin: "Dört bulgudan ikisi: tipik ağrı, frotman, yeni EKG değişiklikleri, efüzyon."
+# kaynak: 5.sınıf_Kardiyoloji_Perikard_Hastalıkları_-_Prof.Dr.İbrahim_Keleş.txt

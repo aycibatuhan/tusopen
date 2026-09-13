@@ -1,0 +1,10 @@
+id: kd_gf_prenatal_tani_1
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "11-14. hafta kombine testte Down sendromu paterni nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_prenatal_tani]
+metin: "NT artar, β-hCG yükselir, PAPP-A düşer; trizomi 18'de biyokimyasal belirteçler düşer."

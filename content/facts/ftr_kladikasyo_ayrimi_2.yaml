@@ -1,0 +1,11 @@
+id: ftr_kladikasyo_ayrimi_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vasküler kladikasyoda nabızlar ve ağrının ilişkisi nasıldır?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_spinal_stenoz]
+metin: "Nabızlar azalmış veya alınmaz; ağrı yürümeyle başlar, ayakta durmakla geçer."
+# kaynak: 5.sınıf_FTR_Bel_Ağrıları.txt

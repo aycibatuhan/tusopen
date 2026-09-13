@@ -1,0 +1,11 @@
+id: fiz_kv_baroreseptor_refleks_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uzun vadeli kan basıncı kontrolü nasıl sağlanır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_arter_basinci]
+metin: "RAAS, ADH, ANP ve böbrek sıvı atılımıyla."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Kısa_süreli_Kan_Basıncı_Regülasyonu.txt

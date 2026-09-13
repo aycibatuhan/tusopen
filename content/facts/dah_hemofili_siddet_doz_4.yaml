@@ -1,0 +1,11 @@
+id: dah_hemofili_siddet_doz_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "1 ünite/kg faktör plazma düzeyini ne kadar yükseltir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_hemofili]
+metin: "FVIII yaklaşık %2, FIX %1; FIX dağılma hacmi iki katıdır."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Hemofili_ve_vonWillebrand_Hastalığı.mcemar.4.sınıf.2020.txt

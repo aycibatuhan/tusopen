@@ -1,0 +1,15 @@
+id: ped_asi_kontrendikasyonlar_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi durumlar aşıyı erteleyen önlem durumlarıdır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_asilar_koruyucu
+  - ped_asi_kontrendikasyon
+metin: Orta-ağır hastalık; DaBT sonrası 40,5°C üzeri ateş, ilk 3 günde konvülsiyon, 3 saatten uzun inatçı tiz ağlama öyküsü.
+
+# kaynak: 3._Sınıf_3.5_Pediatri_Çocuklarda_Rutin_aşılama_ve_Temel_prensiper_-Sınıf_3.txt

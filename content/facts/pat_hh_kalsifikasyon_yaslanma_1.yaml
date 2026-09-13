@@ -1,0 +1,10 @@
+id: pat_hh_kalsifikasyon_yaslanma_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Distrofik kalsifikasyon nerede gelişir?"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_kalsifikasyon_yaslanma]
+metin: "Kalsiyum düzeyi normalken ölü-hasarlı dokularda (aterom plak, nekroz, yabancı cisim)."

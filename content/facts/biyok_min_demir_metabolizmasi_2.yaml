@@ -1,0 +1,11 @@
+id: biyok_min_demir_metabolizmasi_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Demir emilimini kolaylaştıran ve engelleyen etkenler nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_mineral_eser]
+metin: "Mide asidi ve askorbik asit ferroz forma indirger; oksalat-fitat-fosfat engeller."
+# kaynak: 1._Sınıf_1.2_Biyokimya_eser_element-_özlem_2018.txt, 1._Sınıf_1.1_Biyokimya_2018.10.25__Serum_Proteinleri_İmmunoglobulinler__Akut_faz_reaktanları.txt

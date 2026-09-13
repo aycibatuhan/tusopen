@@ -1,0 +1,11 @@
+id: kd_eylem_uzama_esikleri_4
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Eylemde patolojik sekonder duraklama tanımı nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_dogum, kd_dog_distosi]
+metin: "Dilatasyonda 2 saatlik, inişte 1 saatlik ilerleme duraklaması."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Anormal_Doğum-AG.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_T3dogum.txt

@@ -1,0 +1,11 @@
+id: nor_lems_ve_botulizm_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lambert-Eaton sendromunda kas gücü nasıl değişir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_lambert_eaton_botulizm]
+metin: "İlk kontraksiyonda zayıf, tekrarlayan hareketle geçici güçlenir (fasilitasyon)."
+# kaynak: 5.sınıf_Nöroloji_NÖROMUSKÜLER_BİLEŞKE.txt

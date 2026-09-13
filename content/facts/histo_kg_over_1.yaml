@@ -1,0 +1,13 @@
+id: histo_kg_over_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Overde folikül gelişim aşamaları hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kadin_genital
+  - histo_kg_over
+metin: Primordial folikül, primer folikül, sekonder folikül ve olgun Graaf folikülü.

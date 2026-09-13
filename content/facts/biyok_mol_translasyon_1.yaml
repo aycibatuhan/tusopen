@@ -1,0 +1,10 @@
+id: biyok_mol_translasyon_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Genetik kodun özellikleri, başlama ve sonlanma kodonları nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_translasyon]
+metin: "Triplet, spesifik, dejenere, evrensel; AUG başlar, UAA-UAG-UGA sonlandırır."

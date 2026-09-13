@@ -1,0 +1,11 @@
+id: uro_prostat_aktif_izlem_abt_5
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Maksimal androjen blokaj nasıl sağlanır?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_prostat_kanseri]
+metin: "Orşiektomi veya LH-RH agonistine antiandrojen eklenerek; orşiektomi ile LH-RH agonisti eklenmez."
+# kaynak: 4._Sınıf_Üroloji_PROSTATEkanserturkce-dönüştürüldü.txt

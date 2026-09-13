@@ -1,0 +1,11 @@
+id: mikro_rna_hepatit_c_d_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HCV-de quasispecies türüştürmenin mekanizması nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_hepatit_c_d]
+metin: "RNA-ya bağımlı RNA polimerazda hata düzeltme yokluğu; 7 genotip vardır."
+# kaynak: 10-Viral_Hepatitler_2020.txt

@@ -1,0 +1,11 @@
+id: dah_vwd_tipler_tedavi_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "vWD'de hangi durumlarda faktör konsantresi gerekir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_trombosit_fonksiyon]
+metin: "Tip 2-3, aktif kanama, cerrahi veya DDAVP'ye yanıtsız tip 1."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Hemofili_ve_vonWillebrand_Hastalığı.mcemar.4.sınıf.2020.txt

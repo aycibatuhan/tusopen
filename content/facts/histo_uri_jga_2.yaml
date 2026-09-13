@@ -1,0 +1,13 @@
+id: histo_uri_jga_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Renin kan basıncını nasıl düzenler?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_uriner
+  - histo_uri_jga
+metin: Angiotensin kaskadını başlatarak.

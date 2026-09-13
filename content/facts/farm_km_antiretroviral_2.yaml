@@ -1,0 +1,10 @@
+id: farm_km_antiretroviral_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Antiretroviral temel sınıflar hangileridir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kemoterapotik, farm_km_antiretroviral]
+metin: "Ters transkriptaz, proteaz, integraz ve giriş inhibitörleri."

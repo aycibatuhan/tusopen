@@ -1,0 +1,11 @@
+id: dah_kronik_mezenterik_iskemi_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kronik mezenterik iskemi tanısı nasıl konur?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_iskemik_barsak]
+metin: "Üç splanşnik arterden en az ikisinde kritik darlık/oklüzyonun anjiyografik gösterimi."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_mesenteric_ischemia-lecture_4.class_2020_AFC2-son.txt

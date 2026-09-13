@@ -1,0 +1,11 @@
+id: fiz_hucre_feedback_mekanizmalari_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sinirsel ve hormonal düzenlemenin hız-süre farkı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_homeostaz]
+metin: "Sinirsel hızlı-kısa süreli; hormonal yavaş-yaygın-uzun süreli."
+# kaynak: 1._Ders_Fizyolojiye_Giriş_ve_hemoostasis.txt

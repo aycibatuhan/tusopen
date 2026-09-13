@@ -1,0 +1,15 @@
+id: ped_bes_anne_sutu_bilesim_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kolostrum ne kadar süre salgılanır ve nelerden zengindir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_anne_sutu
+metin: İlk 5 günde salgılanır; protein, IgA ve çinko bakımından zengindir.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_Doğal_Beslenme-Sınıf_4.txt

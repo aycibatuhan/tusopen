@@ -1,0 +1,15 @@
+id: ped_acil_dehid_dereceleri_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hipernatremik dehidratasyon neden kolayca gözden kaçar?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_sivi_tedavisi
+metin: Hücre içi sıvı dışarı çekildiğinden intravasküler hacim korunur, bulgular kayıptan hafiftir.
+
+# kaynak: 4._Sınıf_Pediatri_Sinem_Oral_Cebeci_4sınıf-dehid-slayt.txt

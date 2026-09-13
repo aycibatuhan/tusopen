@@ -1,0 +1,10 @@
+id: anat_miyo_omuz_kol_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Supraspinatus ve infraspinatus hangi sinirle innerve edilir?
+taksonomi:
+  - [ttbt, anatomi, anat_miyoloji, anat_miyo_omuz_kol]
+metin: N. suprascapularis; subskapularis üst ve alt subskapular sinirlerle innerve edilir.

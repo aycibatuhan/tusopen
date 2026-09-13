@@ -1,0 +1,11 @@
+id: adli_tck_yasamsal_tehlike_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yaşamı tehlikeye sokan durumun tanımı nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_yara_balistik, adl_yb_yasam_belirtileri]
+metin: "Olay anında yaşamın mutlak surette tehlikeye girmesi; klinik tanıdır, iyileşme değiştirmez."
+# kaynak: 5.sınıf_Adli_Tıp_TCK_YARALAR_PROF._DR._GÜRSEL_ÇETİN.txt

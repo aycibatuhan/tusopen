@@ -1,0 +1,11 @@
+id: kd_obstetrik_sepsis_sirs_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "2016 sepsis tanımı ve septik şok kriterleri nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_postpartum, kd_pos_endometrit]
+metin: "Sepsis: SOFA ≥2 artış (mortalite ~%10); şok: vazopressör + laktat >2 mmol/L."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_obstetrik_ve_jinekolojik_şok.txt

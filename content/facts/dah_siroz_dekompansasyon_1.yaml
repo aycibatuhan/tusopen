@@ -1,0 +1,11 @@
+id: dah_siroz_dekompansasyon_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sirozda dekompansasyon nasıl tanımlanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_siroz]
+metin: "Asit, varis kanaması, ensefalopati veya sarılıktan en az birinin ortaya çıkması."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_KARACİĞER_SİROZU.txt

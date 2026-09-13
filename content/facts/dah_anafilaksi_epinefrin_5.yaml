@@ -1,0 +1,11 @@
+id: dah_anafilaksi_epinefrin_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anafilakside serum triptazı ne kadar süre yüksek kalır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_alerji_immunoloji, dah_alj_anafilaksi]
+metin: "3 saate kadar; histamin yalnızca 15 dakika-1 saat saptanır."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_ANAFLAKSİ-_VE_AKUT_ALLERJİK_REAKSİYONLAR.txt

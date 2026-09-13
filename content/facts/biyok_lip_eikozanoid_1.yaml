@@ -1,0 +1,10 @@
+id: biyok_lip_eikozanoid_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Arakidonik asit hangi yollarla hangi ürünlere ayrılır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_eikozanoid]
+metin: "Siklooksijenaz yoluyla prostaglandin-tromboksan; 5-lipoksijenaz yoluyla lökotrien."

@@ -1,0 +1,11 @@
+id: ftr_manuel_kas_testi_refleks_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Manuel kas testinde 3 derece ne anlama gelir?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_eklem_hareket]
+metin: "Yer çekimine karşı tam hareket ama dirence gelememektir."
+# kaynak: 5.sınıf_FTR_OmurgaFM.txt

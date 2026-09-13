@@ -1,0 +1,11 @@
+id: dah_hiponatremi_duzeltme_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kronik asemptomatik hiponatremide yaklaşım nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_hiponatremi]
+metin: "Sıvı kısıtlaması temel; gerekirse vaptanlar. Hipervolemide loop diüretik, tiyazidden kaçın."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_S-V-VE_2.txt

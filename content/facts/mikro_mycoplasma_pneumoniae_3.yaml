@@ -1,0 +1,11 @@
+id: mikro_mycoplasma_pneumoniae_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "M. pneumoniae hangi adezyon antijeniyle nereye tutunur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_mycoplasma]
+metin: "P1 antijeniyle silyalı solunum epitelini ve eritrosit I antijenini hedefler."
+# kaynak: 3-_Helico_(Tanı__Tedavi__Korunma)___Mycoplasma.txt

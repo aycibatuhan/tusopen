@@ -1,0 +1,11 @@
+id: anat_bas_meatus_paranazal_acilim_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Doğumda olmayan paranazal sinüsler hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_burun_paranazal]
+metin: Sinus frontalis ve sphenoidalis; sırasıyla 6 ve 4 yaşta radyolojik görünür.
+# kaynak: 2._Sınıf_2.1_Anatomi_baş_bütünü.txt, 2._Sınıf_2.3_Anatomi_2019_Solunum_Sistemi.txt

@@ -1,0 +1,14 @@
+id: gc_kc_abse_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Piyojenik karaciğer apsesinde antibiyotik süresi?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_karaciger
+  - gc_kc_abse
+metin: En az 8 hafta IV (gram negatif + anaerob); %80-90 iyileşme.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Ender_Dulundu_CTF_Kist_hidatik_abse_parazit_Ders.txt

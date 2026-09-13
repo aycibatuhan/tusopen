@@ -1,0 +1,11 @@
+id: dah_cppd_psodogut_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CPPD'nin en sık klinik tipi hangisidir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_kristal_artropati]
+metin: "Psödoartroz (tip C ve D), olguların %50'si."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_kristal_artrit.txt

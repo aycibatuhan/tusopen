@@ -1,0 +1,11 @@
+id: kbb_orofarinks_tn_siniflama_5
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Okült metastaz riski %20'nin üzerinde tümörde boyun yönetimi nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_orofarinks_kanseri]
+metin: "Elektif boyun diseksiyonu radyoterapiden önce tercih edilir."
+# kaynak: 5.sınıf_KBB_ORAL_KAVİTE__OROFARENKS__HİPOFARENKS_NEOPLAZİLERİ.txt

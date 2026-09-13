@@ -1,0 +1,11 @@
+id: dah_poliuri_oliguri_esikler_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anüriye yol açabilen durumlar nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_bobrek_degerlendirme]
+metin: "Bilateral renal arter tromboz-embolisi, akut kortikal nekroz, bilateral üreter obstrüksiyonu."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_Nefrolojide_Anamnez_Alma_.txt, 3._Sınıf_3.2_İç_Hastalıkları_Poliüri_ve_Oligüri.txt

@@ -1,0 +1,11 @@
+id: hsag_bi_dagilim_olcutleri_3
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çeyrek sapma nasıl hesaplanır?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_tanimlayici_istatistik]
+metin: "Birinci ve üçüncü çeyreklik farkının yarısıdır."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_1.Merkezi_Eğilim_ve_Dağılım_Ölçüleri.txt, 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD4a_Klinik_Araştırmalarda_Kalite__EK1-Veri_kalitesi__EK2-Standartlar_Randomizasyon__Körleme__Klavuzlar.txt

@@ -1,0 +1,11 @@
+id: fiz_kan_hb_degerleri_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemoglobin düzeyi erkek, kadın ve yenidoğanda kaçtır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_hemoglobin]
+metin: "Erkekte 14-16, kadında 12-14, yenidoğanda yaklaşık 19 g/dL."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt, 2._Sınıf_2.4_2.vize_fizyoloji_KAN_FİZYOLOJİSİ_TÜRKÇE_GRUBU.2020.txt

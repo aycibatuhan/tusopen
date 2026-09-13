@@ -1,0 +1,11 @@
+id: gog_masif_hemoptizi_esikler_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemoptizide kanamanın kaynağı çoğunlukla hangi arterdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_klinik_sorunlar, gog_dk_hemoptizi]
+metin: "Bronşiyal arter (~%90); hasta kanayan tarafa yatırılır, hava yolu önce gelir."
+# kaynak: 2._Sınıf_2.3_Göğüs_hastalıkları_Öksürük_balgam_hemoptizi_ders.txt, 5.sınıf_Göğüs_Hastalıkları_Solunum_Yolu_Acilleri.txt

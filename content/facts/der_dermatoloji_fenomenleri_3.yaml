@@ -1,0 +1,11 @@
+id: der_dermatoloji_fenomenleri_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yonga fenomeni hangi hastalığa özgüdür?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_temel, derm_tm_tani_yontemleri]
+metin: "Tinea versicolorda kazıntıyla epidermisin yonga gibi kalkmasıdır."
+# kaynak: 5.sınıf_Dermatoloji_DERİNİN_ELEMANTER_LEZYONLARI__ZAF.txt, 5.sınıf_Dermatoloji_psoriasis.txt, 5.sınıf_Dermatoloji_ZK-Paraziter_hastalıklar10.txt

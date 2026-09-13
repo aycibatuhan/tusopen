@@ -1,0 +1,11 @@
+id: gog_kan_gazi_hipoksemi_hiperkapni_4
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alveol-arter O2 gradyanının normal değeri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_tani_yontemleri, gog_ty_kan_gazi]
+metin: "Yaklaşık 5 mmHg; yaşla 2,5 artı 0,21 çarpı yaş formülüyle artar."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Kısa_Solunum_Fonksiyon_Testleri_2022-23_Ders_Bilun.txt, 5.sınıf_Göğüs_Hastalıkları_Solnum_yetmezliği__Oksijen_tedavisi.txt

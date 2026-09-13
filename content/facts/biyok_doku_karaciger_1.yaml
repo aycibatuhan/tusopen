@@ -1,0 +1,10 @@
+id: biyok_doku_karaciger_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Karaciğer açlıkta kan glukozunu nasıl korur?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_doku_organ, biyok_doku_karaciger]
+metin: "Glikojenoliz ve glukoneojenezle; uzun açlıkta keton üretimine geçer."

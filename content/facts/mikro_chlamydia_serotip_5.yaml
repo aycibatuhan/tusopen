@@ -1,0 +1,11 @@
+id: mikro_chlamydia_serotip_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nonkomplike genital chlamydia enfeksiyonunda tedavi nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_chlamydia]
+metin: "Azitromisin tek doz (%98 iyileşme) veya doksisiklin 7 gün."
+# kaynak: 4-_Chlamydia.txt

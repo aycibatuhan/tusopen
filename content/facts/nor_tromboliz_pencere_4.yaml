@@ -1,0 +1,11 @@
+id: nor_tromboliz_pencere_4
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnmede kan şekeri ne zaman ve neye indirilmelidir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_akut_tedavi]
+metin: "180 mg/dl üzerinde insülin; ideal aralık 140-180 mg/dl."
+# kaynak: 5.sınıf_Nöroloji_Ischemic_Stroke__11.01.2023.txt, 5.sınıf_Nöroloji_nörolojik_aciller_ders.txt

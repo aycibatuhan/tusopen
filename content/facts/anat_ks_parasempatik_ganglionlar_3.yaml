@@ -1,0 +1,11 @@
+id: anat_ks_parasempatik_ganglionlar_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Lakrimal bezin parasempatik innervasyonu hangi yolla olur?
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_parasempatik_ganglion]
+metin: VII'nin n. petrosus major'u ile ganglion pterygopalatinum'a gelen liflerince.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-YUSUF_ZEKİ_YILDIZ-Sindirim-organları-I.txt

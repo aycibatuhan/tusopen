@@ -1,0 +1,11 @@
+id: adli_co_zehirlenmesi_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CO zehirlenmesinde yaşamsal tehlike ölütleri nelerdir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_klinik_adli_durumlar, adl_kd_zehirlenme_adli]
+metin: "Bilinç bozukluğu, HbCO %20 üstü, hiperbarik oksijen gereksinimi, 4 saatten uzun oksijen tedavisi."
+# kaynak: 5.sınıf_Adli_Tıp_ADLİ_TOKSİKOLOJİ_PROF._DR._İBRAHİM_ÜZÜN.txt, 5.sınıf_Adli_Tıp_TCK_YARALAR_PROF._DR._GÜRSEL_ÇETİN.txt

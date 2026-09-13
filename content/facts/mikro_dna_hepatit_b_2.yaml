@@ -1,0 +1,10 @@
+id: mikro_dna_hepatit_b_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HBV'de IgM tipi anti-HBc neyi gösterir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_hepatit_b]
+metin: "Akut enfeksiyonu; HBsAg enfeksiyon varlığını, anti-HBs bağışıklığı gösterir."

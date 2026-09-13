@@ -1,0 +1,11 @@
+id: anat_abd_duodenum_klinik_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Peptik ülserin en sık görüldüğü duodenum bölümü hangisidir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_ince_barsak]
+metin: Bulbus duodeni; 1. bölümün intraperitoneal ilk 2,5-3 cm'si, asitli kimusla ilk karşılaşır.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-TURAN_PEŞTAMALCI-_AbdominoPelvikOrganlar_II_İNCE_BARSAKLAR.txt

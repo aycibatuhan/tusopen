@@ -1,0 +1,11 @@
+id: nor_bos_fizyolojisi_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal BOS hacmi ne kadardır?"
+taksonomi:
+  - [ktbt, noroloji, noro_muayene_tani, noro_mt_bos]
+metin: "150 ml; 25-30 ml'si ventriküler sistemdedir."
+# kaynak: 5.sınıf_Nöroloji_2020_Sekonder_BA.txt

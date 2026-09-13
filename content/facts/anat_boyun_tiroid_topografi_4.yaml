@@ -1,0 +1,11 @@
+id: anat_boyun_tiroid_topografi_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Tiroidektomide alt kutupta hangi yapılar risk altındadır?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_tiroid_paratiroid]
+metin: A. thyroidea inferior ve trakeoözofageal olukta n. laryngeus recurrens.
+# kaynak: 3._Sınıf_3.3_Anatomi_Tiroid-paratiroid_anatomisi.txt, 3._Sınıf_3.3_Anatomi_3-3_Boyun_Topografik_Anatomisi.txt, 3._Sınıf_3.4_Anatomi_ENDOKRİN_SİSTEM_ÖĞRENCİ_versiyonu_2021_DrMY_(2).txt

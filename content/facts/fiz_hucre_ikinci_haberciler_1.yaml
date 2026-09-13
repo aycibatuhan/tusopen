@@ -1,0 +1,11 @@
+id: fiz_hucre_ikinci_haberciler_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi reseptörler adenilil siklazı uyarır, hangileri inhibe eder?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_sinyal]
+metin: "Gs-bağlılar (beta-adrenerjik, ACTH, TSH, PTH, glukagon, ADH-V2) uyarır; Gi-bağlılar (alfa-2, M2) inhibe eder."
+# kaynak: 14-Hücreler_arası_haberleşme-2.txt, 13-Hücreler_arası_haberleşme-I.txt

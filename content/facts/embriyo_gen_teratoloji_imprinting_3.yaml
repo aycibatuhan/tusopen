@@ -1,0 +1,14 @@
+id: embriyo_gen_teratoloji_imprinting_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Anneden gelen 15q11-q13 mikrodelesyonu hangi sendromu yapar?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_teratoloji
+metin: Angelman sendromu; konuşamama ve uygunsuz kahkaha atma.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_gelişimin_ikinci_haftası_bilaminar_germ_diski.txt, 1._Sınıf_1.3_Embriyoloji_2.GAMETOGENEZ-I.txt

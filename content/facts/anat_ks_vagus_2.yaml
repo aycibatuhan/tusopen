@@ -1,0 +1,10 @@
+id: anat_ks_vagus_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Sol rekurrent laringeal sinir nereden döner?
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_vagus]
+metin: Aort arkının altından; sağ sinir subklavyen arterin altından döner.

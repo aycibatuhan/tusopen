@@ -1,0 +1,11 @@
+id: pls_greft_tutma_evreleri_4
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Deri greftinin tutmadığı doku yüzeyleri hangileridir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yara_ve_doku, pce_yd_greft_ve_flap]
+metin: "Periostsız kemik, perikondriumsuz kıkırdak, paratenonsuz tendon, perinöryumsuz sinir."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Greftler_ve_Flepler.txt

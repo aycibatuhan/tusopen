@@ -1,0 +1,11 @@
+id: nuk_paratiroid_mibi_iki_faz_1
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Paratiroid sintigrafisinin standart tekniği nedir ve nasıl yorumlanır?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_endokrin, nt_en_paratiroid]
+metin: "Tc-99m MIBI iki fazlı teknik; adenom erken görüntüde tutar, geç görüntüde persistan kalırken normal tiroid azalır."
+# kaynak: 5.sınıf_Nükleer_Tıp_Endokrin_Sistemde_Nükleer_Tıp_Uyg.txt

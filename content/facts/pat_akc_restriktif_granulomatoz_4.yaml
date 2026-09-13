@@ -1,0 +1,11 @@
+id: pat_akc_restriktif_granulomatoz_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Goodpasture sendromunda antikorlar hangi yapıları hedefler?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_restriktif]
+metin: "Alveol ve glomerül bazal membranı; difüz alveolar kanama, proliferatif glomerülonefrit."
+# kaynak: 2._Sınıf_2.3_Patoloji_6-Solunum_sistemi_hastalıkları_2019.txt

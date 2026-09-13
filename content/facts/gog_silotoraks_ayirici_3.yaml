@@ -1,0 +1,11 @@
+id: gog_silotoraks_ayirici_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şilotoraksların yarısını oluşturan travma dışı nedenler nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_silotoraks]
+metin: "Mediasten maligniteleri ve duktus torasikus obstrüksiyonu; sıvı sağda toplanır."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

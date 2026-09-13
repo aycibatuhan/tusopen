@@ -1,0 +1,10 @@
+id: farm_mss_sedatif_hipnotik_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Benzodiyazepinlerin mekanizması nedir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_mss, farm_mss_sedatif_hipnotik]
+metin: "GABA-A'nın ayrı bölgesine bağlanır; klorür kanalı açılma sıklığı artar."

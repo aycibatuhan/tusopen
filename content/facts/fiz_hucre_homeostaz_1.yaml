@@ -1,0 +1,10 @@
+id: fiz_hucre_homeostaz_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Toplam vücut suyu vücut ağırlığının yüzde kaçı ve nasıl bölünür?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_homeostaz]
+metin: "Yaklaşık yüzde 60; üçte ikisi hücre içi, üçte biri hücre dışı."

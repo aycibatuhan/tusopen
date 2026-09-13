@@ -1,0 +1,10 @@
+id: biyok_enz_inhibisyon_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rekabetçi inhibisyonda Vmax ve Km nasıl değişir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_inhibisyon]
+metin: "Maksimum hız değişmez, Km artar; yüksek substrat etkiyi yok eder."

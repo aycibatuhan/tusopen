@@ -1,0 +1,11 @@
+id: gog_silikoz_pnomokonyoz_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Silikozis formları hangi maruziyet sürelerinde görülür?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_pnomokonyoz]
+metin: "Akut birkaç ay-5 yıl, akselere 5-10 yıl, kronik en az 10 yıl."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Meslek_hastalıkları_ders_(2).txt

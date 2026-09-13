@@ -1,0 +1,11 @@
+id: kbb_temporal_kemik_kirigi_tipleri_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Temporal kırık sonrası acil cerrahi endikasyonu nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_ic_kulak, kbb_ik_temporal_kemik_kirigi]
+metin: "Hemen gelişen tam (komplet) periferik fasial paralizi."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

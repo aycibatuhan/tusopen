@@ -1,0 +1,14 @@
+id: embriyo_gen_teratoloji_kromozomal_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Spontan düşüklerde en sık kromozom anomalileri hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_teratoloji
+metin: 45,X (Turner), triploidi ve trizomi 16; nondisjunction 35 yaş üzeri annelerde artar.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_2.GAMETOGENEZ-I.txt

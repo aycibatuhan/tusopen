@@ -1,0 +1,11 @@
+id: ort_femur_boynu_garden_pauwels_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Garden sınıflaması femur boyun kırığını kaç tipte toplar?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_femur_boynu]
+metin: "Dört tip: inkömplet, deplase olmayan, kısmen deplase, tam deplase."
+# kaynak: 5.sınıf_Ortopedi_FEMUR_KIRIKLARI.txt

@@ -1,0 +1,11 @@
+id: farm_kv_antihipertansif_4
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Minoksidilin özellikleri nedir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_antihipertansif]
+metin: "Karaciğerde sülfata aktifleşen potasyum kanal açıcısı; refrakter-malign hipertansiyon."
+# kaynak: 2._Sınıf_2.2_Farmakoloji_ANTİHİPERTANSİF_İLAÇLAR.txt

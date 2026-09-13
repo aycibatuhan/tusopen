@@ -1,0 +1,11 @@
+id: gog_plevra_sivi_analizi_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plevral glikozda anormal ve RA-ampiyem eşikleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_efuzyon]
+metin: "60 mg/dl altı anormal; romatoid artritte 30, ampiyemde 40 altı."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

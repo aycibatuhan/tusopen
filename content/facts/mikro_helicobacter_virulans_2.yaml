@@ -1,0 +1,11 @@
+id: mikro_helicobacter_virulans_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "H. pylori CagA, hücreye hangi sistemle verilir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_campylobacter_helicobacter]
+metin: "Cag patojenite adasının kodladığı Tip IV sekresyon sistemiyle (CagA 120 kD)."
+# kaynak: 2-_Helico_(Etiyoloji_Patogenez)_yeni.txt

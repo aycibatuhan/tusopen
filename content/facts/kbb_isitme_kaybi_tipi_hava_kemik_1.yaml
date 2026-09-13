@@ -1,0 +1,11 @@
+id: kbb_isitme_kaybi_tipi_hava_kemik_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İletim tipi işitme kaybında odyogram bulgusu nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_kulak_muayene_isitme, kbb_km_isitme_kaybi_tipleri]
+metin: "Hava-kemik aralığı 5 dB'yi aşar; kemik yol normaldir."
+# kaynak: 5.sınıf_KBB_Ahmet_ATAŞ_ODYOLOJİK_kavramlar.txt

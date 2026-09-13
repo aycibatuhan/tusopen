@@ -1,0 +1,14 @@
+id: embriyo_gen_ikinci_hafta_anormal_implantasyon_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Blastosist servikse yerleşirse ne olur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_ikinci_hafta
+metin: Plasenta previa; 2. trimesterde hayatı tehdit eden kanamalarla seyreder (normal yerleşim ön/arka duvar).
+# kaynak: 1._Sınıf_1.3_Embriyoloji_gelişimin_ikinci_haftası_bilaminar_germ_diski.txt

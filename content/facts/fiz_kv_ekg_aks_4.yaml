@@ -1,0 +1,11 @@
+id: fiz_kv_ekg_aks_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Elektriksel aksın normal değeri ve sapma anlamları nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kalp_elektrofizyoloji]
+metin: "Yaklaşık +59 (-30 ile +110); sola kayma LVH, +170 üstü RVH düşündürür."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Elektrokardiyogram._2019-2020.txt

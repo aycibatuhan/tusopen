@@ -1,0 +1,11 @@
+id: kd_gnrh_pulsatil_sekresyonu_3
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "LH ve FSH'nin alfa alt ünitesi hangi hormonlarla ortaktır?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_ureme_fizyolojisi, kd_uf_hipotalamus_hipofiz_over]
+metin: "hCG ve TSH ile; özgüllüğü beta alt ünite belirler, FSH yarılanması uzundur."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_MENSTRUEL_SI_KLUS.txt

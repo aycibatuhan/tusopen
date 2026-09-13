@@ -1,0 +1,11 @@
+id: kard_tamponad_beck_pulsus_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kaç mL perikardiyal sıvı tamponad yapabilir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_endokardit_miyokard_perikard, kard_em_perikardiyal_efuzyon_tamponad]
+metin: "Hızlı toplanan 100-200 mL yeterli; yavaş toplanan 1-2 L tamponad yapmayabilir."
+# kaynak: 5.sınıf_Kardiyoloji_Perikard_Hastalıkları_-_Prof.Dr.İbrahim_Keleş.txt

@@ -1,0 +1,10 @@
+id: anat_pel_perine_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Perinenin üçgenlerinde hangi yapılar yer alır?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_perine]
+metin: Anal üçgende dış anal sfinkter; ürogenital üçgende derin transvers perine kası ve dış üretral sfinkter.

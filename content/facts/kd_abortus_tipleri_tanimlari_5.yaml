@@ -1,0 +1,11 @@
+id: kd_abortus_tipleri_tanimlari_5
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Döllenmeden 10-14 gün sonra görülen fizyolojik kanama nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_erken_gebelik, kd_eg_abortus]
+metin: "İmplantasyon kanaması; dışlama tanısıdır."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Gebelikte_Kanama_28.11.2020.txt

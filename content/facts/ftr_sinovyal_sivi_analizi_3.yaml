@@ -1,0 +1,11 @@
+id: ftr_sinovyal_sivi_analizi_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Monoartrite yaklaşımın temel kuralı nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_kristal_artropatiler]
+metin: "Aksi kanıtlanana kadar septik artrit gibi kabul edilip erken tedavi edilir."
+# kaynak: 5.sınıf_FTR_Monoartritler.txt, 5.sınıf_FTR_ROMATOİD_ARTRİT__Otomatik_kaydedilme_.txt, 5.sınıf_FTR_Pratik-vaka_sunumu.txt

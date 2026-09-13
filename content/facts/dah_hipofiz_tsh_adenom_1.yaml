@@ -1,0 +1,11 @@
+id: dah_hipofiz_tsh_adenom_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tirotoksikozda TSH'nin de yüksek olduğu tablo nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipofiz_adenom]
+metin: "TSH salgılayan hipofiz adenomu; alfa-alt birim yükselir."
+# kaynak: 4._Sınıf_Dahiliye_ön_hipofiz_hastalıkları.txt

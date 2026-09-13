@@ -1,0 +1,10 @@
+id: mikro_par_sestod_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Taenia türleri hangi etlerle ve hangi larva evresiyle bulaşır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_sestod]
+metin: "T. saginata sığır, T. solium domuz etinde sistiserkus larvasıyla bulaşır."

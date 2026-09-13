@@ -1,0 +1,11 @@
+id: psik_panik_bozukluk_tani_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Panik bozuklukta atak sonrası en az 1 ay süren durum nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_anksiyete, psik_an_panik]
+metin: "Beklenti anksiyetesi (yeni atak korkusu) veya davranış değişikliği."
+# kaynak: 5.sınıf_PSİKİYATRİ_ANKSİYETE_BOZUKLUKLARI_(yeni).txt

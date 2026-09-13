@@ -1,0 +1,11 @@
+id: kd_makrozomi_esikleri_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Makrozomide en önemli sorun ve riskleri nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_fetal_komplikasyonlar, kd_fk_makrozomi]
+metin: "Omuz distosisi; perinatal kayıp %7'ye, fetal distres %16'ya ulaşabilir."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Anormal_Doğum-AG.txt

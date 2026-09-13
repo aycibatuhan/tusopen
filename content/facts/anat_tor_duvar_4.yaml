@@ -1,0 +1,10 @@
+id: anat_tor_duvar_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Yüzen kaburgalar hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_duvar]
+metin: 11. ve 12. kaburgalar; ön uçları bulunmaz.

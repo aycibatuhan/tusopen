@@ -1,0 +1,11 @@
+id: mikro_leptospira_tani_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Leptospirozis kuluçka dönemi ve bulaş kaynağı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_spiroket, mikro_spi_leptospira]
+metin: "Kuluçka 3-30 gün; kemirici idrarıyla kontamine sulardan bulaşır."
+# kaynak: Spiroketler.txt

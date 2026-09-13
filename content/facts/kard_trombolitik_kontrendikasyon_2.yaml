@@ -1,0 +1,11 @@
+id: kard_trombolitik_kontrendikasyon_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Trombolizin diğer kesin kontrendikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_reperfuzyon]
+metin: "Son 1 ay majör travma/cerrahi/kafa travması, Gİ kanama, kanama diyatezi, ileri karaciğer yetmezliği."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

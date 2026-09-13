@@ -1,0 +1,14 @@
+id: genetik_adezyon_kaybi_metastaz_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: beta2-integrin mutasyonu hangi hastalığa yol açar?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_mutasyon_turleri
+metin: Lökosit adezyon yetmezliği (LAD); tekrarlayan bakteriyel enfeksiyonlara eğilim.
+# kaynak: 1._Sınıf_1.2_Tıbbi_Biyoloji_Adezyonmo2018_güz_.txt, 1._Sınıf_1.2_Tıbbi_Biyoloji_ECM-2018.txt

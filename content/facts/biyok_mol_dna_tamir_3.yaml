@@ -1,0 +1,10 @@
+id: biyok_mol_dna_tamir_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İki iplikli kırılmalar nasıl onarılır, BRCA nerede görevlidir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_dna_tamir]
+metin: "Homolog rekombinasyon veya uç birleştirmeyle; BRCA homolog yolda, mutasyonu meme-over riski."

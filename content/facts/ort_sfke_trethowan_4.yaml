@@ -1,0 +1,11 @@
+id: ort_sfke_trethowan_4
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnstabil femur başı epifiz kaymasında postoperatif avasküler nekroz oranı nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_sfke]
+metin: "%47'ye ulaşır; kayma miktarı prognozu belirler."
+# kaynak: 5.sınıf_Ortopedi_aksayan_çocuk.txt

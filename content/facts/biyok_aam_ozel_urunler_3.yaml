@@ -1,0 +1,10 @@
+id: biyok_aam_ozel_urunler_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glisin, glutamat ve argininin metabolik ürünleri nelerdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_ozel_urunler]
+metin: "Glisin hem ve pürine girer; glutamattan GABA, argininden nitrik oksit yapılır."

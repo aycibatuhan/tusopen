@@ -1,0 +1,11 @@
+id: gog_ampiyem_ph_drenaj_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Malign plevral sıvıda düşük pH neyi gösterir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_ampiyem]
+metin: "Kötü prognozu ve plöredezise yanıtsızlığı."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

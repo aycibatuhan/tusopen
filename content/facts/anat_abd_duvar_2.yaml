@@ -1,0 +1,10 @@
+id: anat_abd_duvar_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: İnguinal kanal erkekte ve kadında neyi taşır?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_duvar]
+metin: Erkekte spermatik kordu, kadında yuvarlak ligamenti taşır.

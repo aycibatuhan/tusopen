@@ -1,0 +1,10 @@
+id: mikro_par_barsak_protozoa_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Amiplik kolitte bağırsak duvarında hangi lezyon oluşur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_barsak_protozoa]
+metin: "Flask biçimli ülserler."

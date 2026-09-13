@@ -1,0 +1,11 @@
+id: dah_ibd_uc_cd_ayirim_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mukozal granülom saptanınca hangi hastalık önce düşünülmelidir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_crohn]
+metin: "İntestinal tüberküloz; granülom Crohn'da ~%15, tüberkülozda ~%100."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_IBD.lecture_2020-4.class_AFC-son.txt

@@ -1,0 +1,11 @@
+id: anat_ks_parasempatik_ganglionlar_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Gl. parotideanın parasempatik sekretomotor yolu nasıldır?
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_parasempatik_ganglion]
+metin: IX → n. tympanicus → n. petrosus minor → ganglion oticum → n. auriculotemporalis (V3) ile beze ulaşır.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-YUSUF_ZEKİ_YILDIZ-Sindirim-organları-I.txt

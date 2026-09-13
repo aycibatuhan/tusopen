@@ -1,0 +1,10 @@
+id: mikro_hi_chlamydia_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Chlamydia hücre duvarının ayırt edici özelliği nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_chlamydia]
+metin: "Peptidoglikansızdır; zorunlu hücre içi bakteridir."

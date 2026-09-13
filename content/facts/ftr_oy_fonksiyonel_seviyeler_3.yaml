@@ -1,0 +1,11 @@
+id: ftr_oy_fonksiyonel_seviyeler_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tetrapleji ve parapleji hangi segment yaralanmalarında olur?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_omurilik_yaralanmasi]
+metin: "Tetrapleji C2-T1, parapleji T2-S5 segment yaralanmalarında."
+# kaynak: 5.sınıf_FTR_OYRehab.txt

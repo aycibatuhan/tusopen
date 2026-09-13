@@ -1,0 +1,14 @@
+id: histo_sol_brons_kulchitsky_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tipik solunum epitelinde hangi hücre tipleri bulunur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_solunum
+  - histo_sol_brons
+metin: Prizmatik silyalı, goblet, fırçamsı, bazal ve Kulchitsky hücreleri.
+# kaynak: 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ-2016.txt, 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ-II.txt

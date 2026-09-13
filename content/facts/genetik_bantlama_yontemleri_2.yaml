@@ -1,0 +1,14 @@
+id: genetik_bantlama_yontemleri_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Rutin G bantlamada haploid set kaç bant gösterir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_sitogenetik
+  - tbg_sg_karyotip_analizi
+metin: Yaklaşık 400; prometafaz yüksek çözünürlüklü bantlamada ~850.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_Kromozom_Yapısı_ve_Elde_Edilmesi.txt

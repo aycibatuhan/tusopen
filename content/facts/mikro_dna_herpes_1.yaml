@@ -1,0 +1,10 @@
+id: mikro_dna_herpes_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HSV-1 ve HSV-2 latensi hangi ganglionlarda kurar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_herpes]
+metin: "HSV-1 trigeminal, HSV-2 sakral gangliyonlarda latens yapar."

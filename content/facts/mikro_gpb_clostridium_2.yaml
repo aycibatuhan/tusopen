@@ -1,0 +1,10 @@
+id: mikro_gpb_clostridium_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Botulinum toksini hangi mekanizmayla flasid felç yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_clostridium]
+metin: "Nöromüsküler plakta asetilkolin salınımını bloke eder."

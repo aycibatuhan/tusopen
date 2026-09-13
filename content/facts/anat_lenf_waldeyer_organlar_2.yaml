@@ -1,0 +1,11 @@
+id: anat_lenf_waldeyer_organlar_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Waldeyer halkası kaç ve hangi tonsillalardan oluşur?
+taksonomi:
+  - [ttbt, anatomi, anat_lenfatik, anat_lenf_organlar]
+metin: 'Altı tonsilla: pharyngea (1), tubaria (2), palatina (2) ve lingualis (1).'
+# kaynak: 1._Sınıf_1.1_Anatomi_2018.10.01__Dolaşım_Sistemi.txt, 2._Sınıf_2.2_anatomi_lenfatik_sistem_öğrenci.txt

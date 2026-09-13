@@ -1,0 +1,10 @@
+id: anat_noro_gorme_yolu_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Homonim hemianopi hangi lezyonlarda görülür?
+taksonomi:
+  - [ttbt, anatomi, anat_noroanatomi, anat_noro_gorme_yolu]
+metin: Optik traktus veya radyasyon lezyonlarında, karşı tarafta.

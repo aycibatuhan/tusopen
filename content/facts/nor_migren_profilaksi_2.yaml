@@ -1,0 +1,11 @@
+id: nor_migren_profilaksi_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Migren profilaksisinin etkinliği ne zaman değerlendirilir, tedavi ne kadar sürer?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_migren]
+metin: "Etkinlik en erken 1 ayda; tedavi 6 ay sürdürülüp yavaş kesilir."
+# kaynak: 5.sınıf_Nöroloji_2020_Primer_BA_yeni.txt

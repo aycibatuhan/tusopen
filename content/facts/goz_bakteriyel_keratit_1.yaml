@@ -1,0 +1,11 @@
+id: goz_bakteriyel_keratit_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sağlam kornea epiteline enfeksiyon yapabilen bakteriler hangileridir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_konjonktiva_kornea, goz_kk_bakteriyel_keratit]
+metin: "Neisseria gonorrhoeae, Corynebacterium diphtheriae, Listeria ve Haemophilus türleri."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kornea_Hastalıkları_01_06_2020.txt, 5.sınıf_Göz_Hastalıkları_kırmızı_göz_2.txt

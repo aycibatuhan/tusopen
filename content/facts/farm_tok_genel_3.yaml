@@ -1,0 +1,11 @@
+id: farm_tok_genel_3
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İlaç alerjisinde en sık tip ve mekanizma?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_toksikoloji, farm_tok_genel]
+metin: "Tip I anafilaktik; küçük moleküller hapten olarak kovalent bağlanır."
+# kaynak: 1._Sınıf_1.4_Farmakoloji_İlaçların_Toksik_Tesirleri_öğrenci.txt

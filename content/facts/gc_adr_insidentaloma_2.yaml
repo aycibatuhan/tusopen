@@ -1,0 +1,14 @@
+id: gc_adr_insidentaloma_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Düşük doz deksametazon testinde kortizol eşikleri?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_adrenal_endokrin
+  - gc_adr_insidentaloma
+metin: <1,8 µg/dL ekarte eder; >5 µg/dL tanısaldır.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Varol_Çelik_ADRENAL_HASTALIKLARI_2020.txt

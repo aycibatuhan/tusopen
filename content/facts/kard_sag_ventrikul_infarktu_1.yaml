@@ -1,0 +1,11 @@
+id: kard_sag_ventrikul_infarktu_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sağ ventrikül infarktünde EKG tanısı nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_stemi]
+metin: "Sağ prekordiyal V4R derivasyonunda ST yükselmesi; inferior Mİlerin ~yarısına eşlik eder."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

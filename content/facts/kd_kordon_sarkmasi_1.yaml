@@ -1,0 +1,11 @@
+id: kd_kordon_sarkmasi_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kordon sarkmasının sıklığı ve risk faktörleri nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_dogum, kd_dog_kord_sarkmasi]
+metin: "Sıklık %0,2-0,6; yatkınlık yaratanlar: erken membran rüptürü, prezentasyon anomalileri ve prematürite."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Anormal_Doğum-AG.txt

@@ -1,0 +1,15 @@
+id: ped_bg_gorme_gelisimi_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İşitme gelişiminde sesin yönü ne zaman lokalize edilir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_norogelisim
+metin: 5-8 ay arasında; objektif işitme testleri OAE ve ABR'dir.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

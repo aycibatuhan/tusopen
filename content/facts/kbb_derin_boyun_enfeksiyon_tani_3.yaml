@@ -1,0 +1,11 @@
+id: kbb_derin_boyun_enfeksiyon_tani_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ludwig anjininde trakeotomi ihtiyacı oranı nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_boyun, kbb_by_derin_boyun_enfeksiyon]
+metin: "Yaklaşık %75 (derin boyun enfeksiyonlarında yaklaşık %20)."
+# kaynak: 5.sınıf_KBB_derin_boyun_enfeksiyonları.txt

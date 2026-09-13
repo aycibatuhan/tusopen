@@ -1,0 +1,14 @@
+id: embriyo_sis_vucut_boslugu_solom_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İntraembriyonik sölom lateral mezodermi nasıl ayırır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_vucut_boslugu
+metin: Somatopleura ve splanknopleura olarak ikiye ayırır.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_EMBRİYONİK_DÖNEMIIR.txt, 1._Sınıf_1.3_Embriyoloji_EMBRİYONİK_DÖNEM-IR.txt

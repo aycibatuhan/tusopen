@@ -1,0 +1,11 @@
+id: psik_hezeyanli_bozukluk_tipleri_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi sanrısal bozukluk tipi eş cinayetine kadar gidebilir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikotik, psik_ps_sanrisal]
+metin: "Kıskançlık tipi."
+# kaynak: 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt

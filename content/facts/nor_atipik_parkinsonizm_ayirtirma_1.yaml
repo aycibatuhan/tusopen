@@ -1,0 +1,11 @@
+id: nor_atipik_parkinsonizm_ayirtirma_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Atipik parkinsonizm sendromlarının ortak özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, noroloji, noro_hareket_bozukluklari, noro_hb_atipik_parkinsonizm]
+metin: "Hızlı progresyon, tremorun olmayışı/geri planda olması, levodopa yanıtının yetersizliği."
+# kaynak: 5.sınıf_Nöroloji_Hipokinetik_Hareket_Bozuklukları_dr_g_kiziltan.txt

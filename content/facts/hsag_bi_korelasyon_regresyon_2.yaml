@@ -1,0 +1,11 @@
+id: hsag_bi_korelasyon_regresyon_2
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Regresyon denkleminde eğim (b) neyi ifade eder?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_korelasyon_regresyon]
+metin: "X bir birim arttığında bağımlı değişkende beklenen değişimi."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_Korelasyon.txt, 3._Sınıf_3.3_Biyoistatistik_regresyon.txt

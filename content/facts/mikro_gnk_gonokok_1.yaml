@@ -1,0 +1,10 @@
+id: mikro_gnk_gonokok_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gonokok kültürü neden seçici besiyeri ve CO2 ister?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_kok, mikro_gnk_gonokok]
+metin: "Nemliliğini hızla yitirir; Thayer-Martin besiyerine ekilir, CO2 artırılmış ortamda inkübe edilir."

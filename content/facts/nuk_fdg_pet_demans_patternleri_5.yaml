@@ -1,0 +1,11 @@
+id: nuk_fdg_pet_demans_patternleri_5
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Demanslı hastaların yüzde kaçının nedeni Alzheimer hastalığıdır?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_noroloji, nt_nr_beyin_pet]
+metin: "%50-60."
+# kaynak: 5.sınıf_Nükleer_Tıp_Santral_Sinir_Sitemi_22-23.txt

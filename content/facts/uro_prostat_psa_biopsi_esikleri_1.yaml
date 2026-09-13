@@ -1,0 +1,11 @@
+id: uro_prostat_psa_biopsi_esikleri_1
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Prostat biyopsi endikasyonu veren PSA bulguları nelerdir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_prostat_kanseri]
+metin: "PSA >10 ng/ml, PSA hızlanması >0.75 ng/ml, serbest PSA oranının <%20 olması."
+# kaynak: 4._Sınıf_Üroloji_PROSTATEkanserturkce-dönüştürüldü.txt, 3._Sınıf_3.2_Üroloji_Üroonkolojiye_Giriş_-_Doç._Dr._Çetin_DEMİRDAĞ.txt

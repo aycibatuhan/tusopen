@@ -1,0 +1,13 @@
+id: anat_ks_cekirdekler_2
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tek dorsal (arkadan) çıkış yapan kranial sinir?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_kranial_sinirler
+  - anat_ks_cekirdekler
+metin: N. troklearis; tentoriumun arkasından çıkar.

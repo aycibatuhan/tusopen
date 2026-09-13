@@ -1,0 +1,11 @@
+id: mikro_kan_kultur_ornek_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Balgam örneğinin kabul kriteri nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_tani_yontemleri]
+metin: "Her x100 alanda 25ten fazla lökosit ve 10dan az yassı epitel hücresi."
+# kaynak: klinik_mik_tanı-2.txt

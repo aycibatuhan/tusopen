@@ -1,0 +1,11 @@
+id: nor_isk_kanama_nedenleri_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İntraserebral kanamaların lokalizasyon dağılımı nasıldır?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_intraserebral_kanama]
+metin: "%90 supratentoryel (putamen, lobal, talamus), %10 infratentoryel."
+# kaynak: 5.sınıf_Nöroloji_kanamalar_türkçe_2021_eylül.txt

@@ -1,0 +1,13 @@
+id: histo_deri_epidermis_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Parlak katman nerede görülür?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_deri
+  - histo_deri_epidermis
+metin: Yalnızca avuç içi ve taban gibi kalın deride.

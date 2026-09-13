@@ -1,0 +1,10 @@
+id: pat_meme_karsinom_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Üçlü negatif meme kanserinde en sık mutasyon?"
+taksonomi:
+  - [ttbt, patoloji, pat_meme, pat_meme_karsinom]
+metin: "TP53; BRCA1 taşıyıcılarında sık görülür."

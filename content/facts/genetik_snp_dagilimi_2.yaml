@@ -1,0 +1,14 @@
+id: genetik_snp_dagilimi_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ortalama kaç bazda bir SNP düşer?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_populasyon_genetigi
+metin: Her 1331 bazda bir.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_D_2-Genetik_yapıda_normal_ve_anormal_varyasyonlar.txt

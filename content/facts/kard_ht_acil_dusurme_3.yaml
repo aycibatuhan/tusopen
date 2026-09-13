@@ -1,0 +1,11 @@
+id: kard_ht_acil_dusurme_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut aort diseksiyonunda kan basıncı hedefi nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_hipertansiyon, kard_ht_aciller]
+metin: "SKB 120 ve kalp hızı 60/dak altına (esmolol + nitroprussid/nitrogliserin)."
+# kaynak: 5.sınıf_Kardiyoloji_Hipertansiyon__Hakan_Karpuz__2020.txt

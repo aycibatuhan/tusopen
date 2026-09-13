@@ -1,0 +1,11 @@
+id: mikro_imm_dogal_tlr_pamp_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Doğal bağışıklıkta tanınan PAMP örnekleri ve ana reseptörleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_dogal]
+metin: "LPS, taikoik asit, fungal glikan, viral çift iplikli RNA; TLR ailesi, NOD ve CD14."
+# kaynak: Doğal_bağışıklık__mikropların_tanınması__mikropların_doğal_bağışıklıktan_kaçışı.txt, Hücre_aracılığı_ile_bağışık_yanıt.txt, 1-Antijen_yakalama_2020.txt

@@ -1,0 +1,11 @@
+id: mikro_mycoplasma_pneumoniae_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kültürlenebilen en küçük mikroorganizma hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_mycoplasma]
+metin: "M. pneumoniae (0.1-0.3 µm; 0.45 µm filtreden geçer)."
+# kaynak: 3-_Helico_(Tanı__Tedavi__Korunma)___Mycoplasma.txt

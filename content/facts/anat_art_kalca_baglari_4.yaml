@@ -1,0 +1,11 @@
+id: anat_art_kalca_baglari_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Zona orbicularis ne yapar?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_kalca]
+metin: Kapsülün derin sirküler lifleri; femur başının çıkmasını engeller.
+# kaynak: 2._Sınıf_2.1_Anatomi_2.1_Alt_taraf_eklemleri_2019-20.txt

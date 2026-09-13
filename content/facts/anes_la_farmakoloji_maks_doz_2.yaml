@@ -1,0 +1,11 @@
+id: anes_la_farmakoloji_maks_doz_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bupivakainin maksimum dozu nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_rejyonal, anes_ra_lokal_anestezikler]
+metin: "3 mg/kg'dır (pKa 8.1; %95.6 proteine bağlı)."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_LA_Ders_FA_Eylül_2021.txt

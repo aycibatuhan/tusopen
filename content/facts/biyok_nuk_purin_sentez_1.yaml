@@ -1,0 +1,10 @@
+id: biyok_nuk_purin_sentez_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "De novo pürin sentezinin hız kısıtlayıcı enzimi ve dallanması nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_nukleotid, biyok_nuk_purin_sentez]
+metin: "PRPP amidotransferaz; IMP molekülünden AMP ve GMP'ye dallanır."

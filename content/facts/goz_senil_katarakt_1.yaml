@@ -1,0 +1,11 @@
+id: goz_senil_katarakt_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Senil katarakt sıklığı yaşla nasıl değişir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_lens, goz_ln_senil_katarakt]
+metin: "65-74 yaş arasında %50, 75 yaş üzerinde %70-90."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Lens_Hastalıkları_-_2.txt

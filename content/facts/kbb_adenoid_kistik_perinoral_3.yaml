@@ -1,0 +1,11 @@
+id: kbb_adenoid_kistik_perinoral_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uzun süredir var olan parotis kitlesinin ani büyümesi neyi düşündürür?"
+taksonomi:
+  - [ktbt, kbb, kbb_tukuruk_bezleri, kbb_tb_malign_tumorler]
+metin: "Karsinoma ex pleomorfik adenomu."
+# kaynak: 5.sınıf_KBB_myener_Tükrük_Bezi_Hastalıkları_ders.txt

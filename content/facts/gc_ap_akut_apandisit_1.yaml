@@ -1,0 +1,14 @@
+id: gc_ap_akut_apandisit_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akut apandisitin klasik klinik sıralaması nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_apendiks
+  - gc_ap_akut_apandisit
+metin: Anoreksi; viseral ağrı periumblikal başlar, sağ alt kadrana lokalize olur.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Süphan_Ertürk_A._App.txt

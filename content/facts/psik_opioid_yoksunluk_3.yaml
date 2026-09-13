@@ -1,0 +1,11 @@
+id: psik_opioid_yoksunluk_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Opioid intoksikasyonunda naloksan dozu nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_madde, psik_md_opioid]
+metin: "0,4-0,8 mg IV; damar yolu yoksa 2 mg IM."
+# kaynak: 5.sınıf_PSİKİYATRİ_alkolmadde_son_(2).txt

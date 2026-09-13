@@ -1,0 +1,15 @@
+id: ped_gis_age_ors_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi durumlarda ORS verilemez?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gastroenteroloji
+  - ped_gis_akut_gastroenterit
+metin: Ağır dehidratasyon, aşırı kusma, saatte ≥10 ml/kg ishal, glukoz intoleransı, ileus şüphesi, stupor-koma.
+
+# kaynak: 4._Sınıf_Pediatri_Sinem_Oral_Cebeci_4sınıf-dehid-slayt.txt

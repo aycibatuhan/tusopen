@@ -1,0 +1,11 @@
+id: dah_dka_tedavi_esikleri_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "DKA çözülme kriterleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diyabet_akut_komplikasyon]
+metin: "Glukoz 200 mg/dL altı, bikarbonat 18 mEq/L üzeri, venöz pH 7,3 üzeri."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Acute_complications.txt

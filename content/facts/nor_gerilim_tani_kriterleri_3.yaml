@@ -1,0 +1,11 @@
+id: nor_gerilim_tani_kriterleri_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gerilim tipi baş ağrısının ağrı özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_gerilim]
+metin: "Basınç/sıkışma/künt, iki taraflı, hafif-orta şiddet, eforla artmaz (en az 2/4)."
+# kaynak: 5.sınıf_Nöroloji_2020_Primer_BA_yeni.txt

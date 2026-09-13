@@ -1,0 +1,15 @@
+id: enf_asilama_genel_kurallar_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: IVIG veya kan ürünü alan hastada canlı virüs aşısı ne zaman yapılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_asilar_seyahat
+  - enf_as_eriskin_asilar
+metin: En az 3 ay sonra; aşı önce yapıldıysa antikor içeren ürün 2 hafta sonra verilir.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Erişkinde_aşılama_staj_2021.txt

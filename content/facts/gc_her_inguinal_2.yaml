@@ -1,0 +1,14 @@
+id: gc_her_inguinal_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Femoral herni hangi cinsiyette sıktır?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_herni
+  - gc_her_inguinal
+metin: Ameliyat edilenlerin %70'i kadındır (tüm fıtıkların %3-5'i).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Berat_Apaydın_KASIK_FITIĞI_2020.txt, 4._Sınıf_Genel_Cerrahi_2_Pınar_Kocael_Karın_duvarı_fıtıkları.txt

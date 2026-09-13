@@ -1,0 +1,11 @@
+id: kard_wct_vt_olasiligi_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "VTyi en spesifik ayırt eden bulgu nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_aritmiler, kard_ar_ventrikuler_tasikardi]
+metin: "AV/VA disosiasyonu; capture ve fusion beatler de destekler."
+# kaynak: 5.sınıf_Kardiyoloji_Aritmi_Ders_Cerrahpas_a_2021-22.txt, 5.sınıf_Kardiyoloji_EKG_Örnekleri.txt

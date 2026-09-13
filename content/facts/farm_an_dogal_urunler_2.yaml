@@ -1,0 +1,11 @@
+id: farm_an_dogal_urunler_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vinkristinin doz-kısıtlayıcı toksisitesi?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_antineoplastik, farm_an_dogal_urunler]
+metin: "Periferik nöropati; erken işaret Achilles refleks kaybı."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.4_Farmakoloji_2.4_Farmakoloji_04_Antineoplastikler..Sibel_ÖZYAZGAN.txt, 2._Sınıf_2.3_farmakoloji_AC_KLT_-_1.txt

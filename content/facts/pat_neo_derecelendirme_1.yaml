@@ -1,0 +1,10 @@
+id: pat_neo_derecelendirme_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Derecelendirme neyi değerlendirir?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_derecelendirme]
+metin: "Histolojik benzerlik ve mitoz sayısını."

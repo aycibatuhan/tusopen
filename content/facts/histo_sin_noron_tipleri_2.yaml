@@ -1,0 +1,14 @@
+id: histo_sin_noron_tipleri_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Dorsal kök gangliyon hücreleri hangi nöron tipidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sinir
+  - histo_sin_noron
+metin: Psödounipolar; tek uzantısından T şeklinde ayrılan duyusal hücreler, embriyolojik kökeni bipolar.
+# kaynak: 1._Sınıf_1.3_Histoloji_Sinir_Dokusu_Histolojisi-1_Dr.GamzeTanrıverdi.txt

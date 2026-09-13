@@ -1,0 +1,11 @@
+id: adli_yalanci_olum_lazarus_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yalancı ölümde kişi en az ne kadar izlenmelidir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_sekli]
+metin: "En az 40 dakika; resüstasyon ve gerekli girişimler sürdürülmelidir."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_-_TEMEL_KAVRAMLAR_PROF._DR._SERMET_KOÇ.txt, 5.sınıf_Adli_Tıp_ÖLÜM_BELİRTİLERİ_-_1_PROF._DR._SERMET_KOÇ.txt

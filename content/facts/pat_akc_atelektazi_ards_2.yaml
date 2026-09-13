@@ -1,0 +1,11 @@
+id: pat_akc_atelektazi_ards_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kompresif atelektazide akciğer ve mediasten nereye itilir?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_atelektazi_ards]
+metin: "Plevra boşluğu eksüda-tümör-kan-hava ile dolunca sağlam tarafa itilir."
+# kaynak: 2._Sınıf_2.3_Patoloji_2_solunum_Hast_2019.txt

@@ -1,0 +1,11 @@
+id: pat_gis_kolorektal_kanser_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Amsterdam kriterleri nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_gis, pat_gis_kolorektal_kanser]
+metin: "Üç aile üyesinde kolorektal kanser (biri 50 yaş altı), iki jenerasyon."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Patoloji_GİS_6_11_haz_2020.txt

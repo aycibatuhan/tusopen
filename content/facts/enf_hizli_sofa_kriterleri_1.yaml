@@ -1,0 +1,15 @@
+id: enf_hizli_sofa_kriterleri_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hızlı SOFA (qSOFA) kriterleri hangileridir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_sepsis
+  - enf_sp_sepsis_tanim
+metin: Solunum sayısı ≥22/dk, şuur bozukluğu varlığı ve sistolik tansiyon ≤100 mmHg.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sepsise_Yaklaşım_3._sınıf_Türkçe.txt

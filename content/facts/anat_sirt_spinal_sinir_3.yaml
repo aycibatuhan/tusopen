@@ -1,0 +1,10 @@
+id: anat_sirt_spinal_sinir_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Servikal sinirler vertebradan nasıl çıkar?
+taksonomi:
+  - [ttbt, anatomi, anat_sirt_omurga, anat_sirt_spinal_sinir]
+metin: C1-C7 aynı numaralı vertebranın üstünden; C8 ve altındakiler altından çıkar.

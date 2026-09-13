@@ -1,0 +1,11 @@
+id: pls_parkland_formulu_5
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Resüsitasyon izleminde idrar atımı hedefleri nedir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yanik, pce_ya_resusitasyon]
+metin: "Çocukta 1 cc/kg/saat; erişkinde 30-50 cc/saat."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Yanık-DERS-2020.txt

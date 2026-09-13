@@ -1,0 +1,11 @@
+id: fiz_sol_difuzyon_dlco_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akciğerin difüzyon alanı, membran kalınlığı ve O2 difüzyon kapasitesi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_gaz_degisimi]
+metin: "300 milyon alveol, 70-80 m2, membran 0.2-0.5 mikrometre; O2 kapasitesi 21 ml/mmHg/dk."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2019_Solunum_2._Bölüm.txt, 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

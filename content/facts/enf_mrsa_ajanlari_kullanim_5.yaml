@@ -1,0 +1,15 @@
+id: enf_mrsa_ajanlari_kullanim_5
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Teikoplanin hangi infeksiyonlarda kullanılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_antibiyotik_yonetimi
+metin: Bakteremi, osteomiyelit ve yumuşak doku infeksiyonları; yükleme dozu gerekir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt

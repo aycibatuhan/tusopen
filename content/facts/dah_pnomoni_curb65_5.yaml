@@ -1,0 +1,11 @@
+id: dah_pnomoni_curb65_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Atipik pnömonilerde tedavi süreleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gogus, dah_gog_pnomoni]
+metin: "Legionella 14-21 gün; Mycoplasma ile C. pneumoniae'de 10-14 gün; pnömokok 7-10 gün."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_PNÖMONİLER_2.txt

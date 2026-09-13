@@ -1,0 +1,15 @@
+id: ped_bg_noromotor_basamaklar_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 15-18 aylık çocukta beklenen gelişim nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_norogelisim
+metin: '15 ay: yardımsız yürüme, 2 küp dizer; 18 ay: 3 küp dizer, ~10 kelime konuşur.'
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

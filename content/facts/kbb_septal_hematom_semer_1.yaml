@@ -1,0 +1,11 @@
+id: kbb_septal_hematom_semer_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Septal hematoma drenaj yapılmazsa sonuç nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_burun, kbb_bn_septum]
+metin: "Abseleşme, kıkırdak nekrozu ve semer burun deformitesi."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

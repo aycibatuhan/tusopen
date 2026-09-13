@@ -1,0 +1,11 @@
+id: gog_koah_alevlenme_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hastanede KOAH alevlenmesi tedavisi nasıl yapılır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_obstruktif, gog_ob_koah_alevlenme]
+metin: "Prednizolon 5 gün boyunca 30-40 mg/gün, ağızdan ya da IV; nebulize salbutamol ile ipratropiyum eklenir."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_KOAH_I-II.txt

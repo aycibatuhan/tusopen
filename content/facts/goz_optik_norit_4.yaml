@@ -1,0 +1,11 @@
+id: goz_optik_norit_4
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Optik nörit sonrası iyileşme ve multipl skleroz gelişme oranları nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_norooftalmoloji, goz_no_optik_norit]
+metin: "Olguların %90'ında iyileşme; %50'sinde multipl skleroz gelişir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Optik_Sinir_Hastalıkları.txt, 5.sınıf_Göz_Hastalıkları_ANİ_KÖRLÜKLER.txt

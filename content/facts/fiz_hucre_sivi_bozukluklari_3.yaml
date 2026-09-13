@@ -1,0 +1,11 @@
+id: fiz_hucre_sivi_bozukluklari_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipoozmotik hacim daralmasında protein ve hematokrit nasıl değişir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_homeostaz]
+metin: "İkisi de artar (örnek: adrenal yetmezlik, aldosteron eksikliği)."
+# kaynak: 4-5._Ders_2-ICF_ve_ECF_Arasında_Sıvı_Değişimi.txt

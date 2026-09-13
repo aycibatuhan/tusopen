@@ -1,0 +1,15 @@
+id: enf_diabetik_ayak_pedis_sinif_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: PEDIS/IDSA sınıflaması infeksiyon şiddetini nasıl belirler?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_diyabetik_ayak
+metin: 'Hafif: ≤2 cm eritem, deri altıyla sınırlı; orta: >2 cm veya derin yapı tutulumu; ağır: SIRS kriterlerinden en az ikisi.'
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_diyabetik_ayak_dersi_2021.txt

@@ -1,0 +1,11 @@
+id: kbb_epiglottit_krup_ayirimi_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Krupu epiglottitten ayıran özellikler nelerdir?"
+taksonomi:
+  - [ktbt, kbb, kbb_larinks, kbb_lr_akut_larenjit_krup]
+metin: "Viral, genellikle 2 yaş altı, hafif ateş, disfaji yok."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

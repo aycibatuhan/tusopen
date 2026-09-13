@@ -1,0 +1,11 @@
+id: dah_gut_tani_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gutun en sık yerleşim yeri neresidir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_gut]
+metin: "Birinci metatarsfalangeal eklem (%76)."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_kristal_artrit.txt

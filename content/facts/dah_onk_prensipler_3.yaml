@@ -1,0 +1,10 @@
+id: dah_onk_prensipler_3
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Türkiye'de serviks kanseri taraması nasıl yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_prensipler]
+metin: "30-65 yaşta 5 yılda bir HPV DNA testi."

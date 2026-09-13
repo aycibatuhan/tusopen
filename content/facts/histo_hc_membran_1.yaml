@@ -1,0 +1,13 @@
+id: histo_hc_membran_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İnce bağırsak enterositlerindeki fırça kenarı hangi yapıdır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_hucre
+  - histo_hc_membran
+metin: Mikrovilluslar; aktin filamentlerine dayalı, hareketsiz uzantılar, emilim yüzeyini genişletir.

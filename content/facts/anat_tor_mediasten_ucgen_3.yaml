@@ -1,0 +1,11 @@
+id: anat_tor_mediasten_ucgen_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: N. phrenicus radix pulmonis'in neresinden geçer?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_mediasten]
+metin: Önünden geçer; perikard-plevra arası pericardiacophrenik damarlarla iner.
+# kaynak: 3._Sınıf_3.3_Anatomi_TORAKS_25_ŞUBAT_2020-2021.txt

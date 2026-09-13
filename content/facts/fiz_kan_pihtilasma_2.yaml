@@ -1,0 +1,10 @@
+id: fiz_kan_pihtilasma_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fibrini çapraz bağlayan faktör hangisidir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_pihtilasma]
+metin: "Trombin fibrinojeni fibrine çevirir; faktör 13 çapraz bağlar."

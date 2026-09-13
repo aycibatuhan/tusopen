@@ -1,0 +1,11 @@
+id: ftr_inme_iyilesme_brunnstrom_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Brunnstrom değerlendirmesi kaç evreden oluşur?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_inme]
+metin: "Altı evre; flask dönemden tam istemli koordinasyona doğru ilerler."
+# kaynak: 5.sınıf_FTR_İnmeRehab.txt

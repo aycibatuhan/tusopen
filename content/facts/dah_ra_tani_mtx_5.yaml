@@ -1,0 +1,11 @@
+id: dah_ra_tani_mtx_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anti-TNF öncesi latent tüberküloz taraması nasıl yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_romatoid_artrit]
+metin: "TST 5 mm ve üzeri pozitif sayılır; 9 ay INH verilir."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_RomatoidArtrit_Nisan2020.txt

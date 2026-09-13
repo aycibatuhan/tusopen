@@ -1,0 +1,11 @@
+id: psik_beden_dismorfik_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Beden dismorfik bozukluğun tedavisi nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_okb_travma, psik_ot_beden_dismorfik]
+metin: "Yüksek doz SSRI ve BDT birlikte."
+# kaynak: 5.sınıf_PSİKİYATRİ_okb-ptsb_ve_ilişkili_bozukluklar.txt

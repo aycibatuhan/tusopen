@@ -1,0 +1,11 @@
+id: mikro_gb_toksin_karsilastirma_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ekzotoksinin endotoksinden temel farkları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_toksinler]
+metin: "Protein yapılı, çok güçlü toksik etkili, toksoid aşıya dönüştürülebilir."
+# kaynak: Endotoksin-Ekzotoksin.txt, Bakteri_ve_İnsan.txt

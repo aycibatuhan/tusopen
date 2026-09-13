@@ -1,0 +1,10 @@
+id: fiz_sol_ventilasyon_perfuzyon_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şant ve ölü boşluk ne demektir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_ventilasyon_perfuzyon]
+metin: "Ventilasyonsuz bölge şant, perfüzyonsuz bölge ölü boşluk; şant O2'ye zayıf yanıt verir."

@@ -1,0 +1,14 @@
+id: ped_met_aminoasit_5
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Alkaptonüri ve sistinürinin tabloları nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_aminoasit
+metin: 'Alkaptonüri: havayla kararan idrar ve okronoz; sistinüri: tekrarlayan sistin taşları.'
+

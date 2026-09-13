@@ -1,0 +1,14 @@
+id: histo_kas_diyad_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İnterkalar diskteki üç bağlantı yapısı hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kas
+  - histo_kas_kalp
+metin: Fasya adherens, makula adherens (desmozom) ve neksus (gap junction).
+# kaynak: 1._Sınıf_1.3_Histoloji_KAS_DOKUSU_HİSTOLOJİSİ.txt

@@ -1,0 +1,13 @@
+id: histo_sind_karaciger_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Lobülde kan ve safra akım yönleri nasıldır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sindirim
+  - histo_sind_karaciger
+metin: Kan sinusoidlerden sentral vene; safra ters yönde lobülden dışarıya taşınır.

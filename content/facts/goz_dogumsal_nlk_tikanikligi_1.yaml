@@ -1,0 +1,11 @@
+id: goz_dogumsal_nlk_tikanikligi_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Doğumsal nazolakrimal kanal tıkanıklığının anatomik nedeni nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_kapak_lakrimal, goz_kl_lakrimal]
+metin: "Hasner valvinin açılmaması; sulanma 3-4 haftada başlar."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Lakrimal_Sistem_Hastalıkları....txt

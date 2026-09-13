@@ -1,0 +1,11 @@
+id: pat_neo_displazi_derecelendirme_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Metastazdan sonra en güvenilir benign-malign ayrım parametresi?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_nomenklatur]
+metin: "İnvazyon."
+# kaynak: 1._Sınıf_1.4_Patoloji_neoplazi_giriş-2019.txt

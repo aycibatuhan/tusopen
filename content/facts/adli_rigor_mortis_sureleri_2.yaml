@@ -1,0 +1,11 @@
+id: adli_rigor_mortis_sureleri_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ortam sıcaklığı ölü sertliğini nasıl etkiler?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_zamani]
+metin: "10°C'nin altında yavaşlar, 4-5°C'nin altında durur, 20-36°C arasında hızlanır."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_BELİRTİLERİ_-_2_PROF._DR._SERMET_KOÇ.txt

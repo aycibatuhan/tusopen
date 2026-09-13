@@ -1,0 +1,11 @@
+id: fiz_sol_yukseklik_dalis_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dalışta azot narkozu hangi derinliklerde etkili olur?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_hipoksi_yukseklik]
+metin: "Her 10 metre basınç 1 atm artar; narkoz 45 metrede başlar, 80 metrede engeller."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2019_Solunum_2._Bölüm.txt, 1._Ders_Fizyolojiye_Giriş_ve_hemoostasis.txt

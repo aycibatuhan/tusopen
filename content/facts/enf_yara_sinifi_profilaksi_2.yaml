@@ -1,0 +1,15 @@
+id: enf_yara_sinifi_profilaksi_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi cerrahi yaralarda antibiyotik profilaksisi verilir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_profilaksi
+metin: Temiz yarada gerekmez (protez/mesh ve yüksek risk istisna); temiz-kontamine ve kontaminateda verilir, kirli-enfektede tedavidir.
+
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Pınar_Kocael_Cerrahi_enfeksiyonlar_ve_antibiyotik_kullanımı.txt

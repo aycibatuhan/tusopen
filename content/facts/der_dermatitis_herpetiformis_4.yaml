@@ -1,0 +1,11 @@
+id: der_dermatitis_herpetiformis_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dermatitis herpetiformisin spesifik ilacı ve dozu nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_dermatitis_herpetiformis]
+metin: "Dapson; 25-50 mg/gün başlanıp 100 mg/gün idame, glutensiz diyet de şarttır."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

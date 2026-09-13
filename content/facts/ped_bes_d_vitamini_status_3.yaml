@@ -1,0 +1,15 @@
+id: ped_bes_d_vitamini_status_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Serum 25(OH)D eşiklerine göre eksiklik, yetersizlik ve yeterlilik nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_rasitizm
+metin: Eksiklik <12 ng/mL, yetersizlik 12-20 ng/mL, yeterlilik >20 ng/mL.
+
+# kaynak: 4._Sınıf_Pediatri_Elvan_Bayramoğlu_Rikets_ve_D_vitamini_eksikliği_ders_4.txt

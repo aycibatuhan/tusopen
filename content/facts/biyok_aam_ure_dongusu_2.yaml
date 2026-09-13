@@ -1,0 +1,10 @@
+id: biyok_aam_ure_dongusu_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Üre döngüsü enzim eksikliklerinin ortak tablosu nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_ure_dongusu]
+metin: "Kan amonyağında yükselme ve hızla ilerleyen nörolojik bozulma."

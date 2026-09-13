@@ -1,0 +1,11 @@
+id: anes_asa_siniflamasi_mortalite_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Goldman indeksinde en yüksek puanlı kalem nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_preoperatif, anes_pre_asa_risk]
+metin: "S3 gallopu veya juguler venöz dolgunluk (11 puan); 6 ay içindeki Mİ 10 puandır."
+# kaynak: 4._Sınıf_Anestezi_1.txt

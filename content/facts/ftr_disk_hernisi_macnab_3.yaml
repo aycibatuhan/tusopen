@@ -1,0 +1,11 @@
+id: ftr_disk_hernisi_macnab_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vertikal yükün yüzde kaçı diske biner?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_lomber_disk_radikulopati]
+metin: "Yaklaşık %80'i diske, %20'si pedikül-faset kompleksine."
+# kaynak: 5.sınıf_FTR_DİSK_HERNİLERİ.RT.txt

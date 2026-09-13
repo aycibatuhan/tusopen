@@ -1,0 +1,11 @@
+id: dah_addison_tani_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bazal ACTH düzeyi adrenal yetmezliğin kaynağını nasıl ayırır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_addison]
+metin: "ACTH 50 pg/mL üzerinde primer, düşük ACTH sekonder (hipofizer) kaynağı düşündürür."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_hipokortizolizm.txt

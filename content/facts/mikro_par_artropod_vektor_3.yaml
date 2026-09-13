@@ -1,0 +1,11 @@
+id: mikro_par_artropod_vektor_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Insecta ve Arachnida sınıfları nasıl ayırt edilir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_artropod]
+metin: "Insecta'da 3 çift bacak ve anten; Arachnida'da 4 çift bacak, anten yok."
+# kaynak: Artropodların_yapıları_ve_genel_özellikleri.txt

@@ -1,0 +1,10 @@
+id: pat_neo_invazyon_metastaz_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Krukenberg tümörü hangi yayılım tipiyle oluşur?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_invazyon_metastaz]
+metin: "Transkoelomik; mide karsinomunun overlere yayılımı."

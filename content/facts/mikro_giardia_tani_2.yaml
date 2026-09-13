@@ -1,0 +1,11 @@
+id: mikro_giardia_tani_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Giardia emilim bozukluğunda öne çıkan eksiklikler nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_barsak_protozoa]
+metin: "Özellikle yağ ve A vitamini emilim kusuru."
+# kaynak: Sindirim_kanalı_protozoonları_2.txt

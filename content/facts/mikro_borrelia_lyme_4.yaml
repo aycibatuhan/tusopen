@@ -1,0 +1,11 @@
+id: mikro_borrelia_lyme_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nöroborelioz ve kronik artrit-deri lezyonları hangi Borrelia türleriyle özdeşleşmiştir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_spiroket, mikro_spi_borrelia]
+metin: "B. garinii nöroborelioz, B. afzelii artrit ve deri lezyonları yapar."
+# kaynak: Spiroketler.txt

@@ -1,0 +1,11 @@
+id: ftr_fibromiyalji_kriterleri_4
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "EULAR 2016'ya göre fibromiyaljide tek güçlü öneri nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_fibromiyalji]
+metin: "Egzersiz; kanıt düzeyi Ia."
+# kaynak: 5.sınıf_FTR_Ders_Yum_doku_rom-ÜA-tr.txt, 5.sınıf_FTR_Olgu_dersiçi_sunum-_yaygın_ağrı.txt

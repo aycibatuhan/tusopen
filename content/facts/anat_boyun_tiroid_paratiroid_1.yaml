@@ -1,0 +1,11 @@
+id: anat_boyun_tiroid_paratiroid_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Yalnız endokrin salgı yapan en büyük bez hangisidir?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_tiroid_paratiroid]
+metin: Tiroid bezi; esas hormonları T3 ve T4'tür.
+# kaynak: 1._Sınıf_1.1_Anatomi_2018.10.23__Endokrin_Sistem_1.1_2018-19.txt

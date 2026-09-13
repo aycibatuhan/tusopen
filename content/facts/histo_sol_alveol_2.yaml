@@ -1,0 +1,13 @@
+id: histo_sol_alveol_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Surfaktanı salgılayan hücre hangisidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_solunum
+  - histo_sol_alveol
+metin: Tip II pneumosit; lamellar cisimciklerdeki fosfolipid surfaktan yüzey gerilimini düşürerek çökmeyi önler.

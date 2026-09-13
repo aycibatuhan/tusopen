@@ -1,0 +1,11 @@
+id: mikro_imm_tolerans_mimicri_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Guillain-Barré ve ankilozan spondilite mimicriyle yol açan etkenler hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_tolerans_otoimmunite]
+metin: "C. jejuni LOS-un gangliozit benzerliği; K. pneumoniae antijeninin HLA-B27 benzerliği."
+# kaynak: 4-Mikroorganizma_Otoimmünite_2019.txt, 2-Antijen_tanıma_2019.txt

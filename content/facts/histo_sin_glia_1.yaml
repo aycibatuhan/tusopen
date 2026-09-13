@@ -1,0 +1,13 @@
+id: histo_sin_glia_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Oligodendrositlerin miyelinleşme özelliği nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sinir
+  - histo_sin_glia
+metin: MSS'de miyelin kılıfı yapar; tek hücre birden çok aksonun segmentlerini sarabilir.

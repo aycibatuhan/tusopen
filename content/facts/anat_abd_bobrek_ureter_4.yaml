@@ -1,0 +1,11 @@
+id: anat_abd_bobrek_ureter_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Üreterin üç darlık noktası hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_bobrek_ureter]
+metin: Pelvis renalis birleşimi (2 mm), pelvis minor girişi (4 mm) ve pars intramuralis (1,5 mm).
+# kaynak: 3._Sınıf_3.2_Anatomi_üriner_sistem_2020.txt

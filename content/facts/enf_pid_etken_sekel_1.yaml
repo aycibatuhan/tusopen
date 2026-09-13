@@ -1,0 +1,15 @@
+id: enf_pid_etken_sekel_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: PID'de etken dağılımı nasıldır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_cinsel_yolla
+  - enf_cy_pid
+metin: C. trachomatis %30; N. gonorrhoeae %25-50; mikst aerob-anaerob bakteriler %25-60.
+
+# kaynak: 3._Sınıf_3.2_Enfeksiyon_hastalıkları_STD_Cerrahpasa_2020_3.sınıf.txt

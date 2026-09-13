@@ -1,0 +1,11 @@
+id: gog_hkp_vip_tanim_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hastane pnömonisi tanısı nasıl desteklenir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_hastane_pnomoni]
+metin: "Grafide yeni infiltrasyonun ateş-lökositozla birleşmesi; CPIS 6 puan üstü lehinedir."
+# kaynak: 2._Sınıf_2.3_Göğüs_hastalıkları_pnömoni_ders_3.txt

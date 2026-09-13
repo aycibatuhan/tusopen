@@ -1,0 +1,11 @@
+id: anat_pel_pelvik_giris_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Pelvik giriş arkadan öne hangi yapılarla sınırlıdır?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_pelvik_duvar]
+metin: Symphysis pubica, linea terminalis, promontorium ve ala ossis sacri.
+# kaynak: 3._Sınıf_3.3_Anatomi_Pelvis_Anatomisi_ve_Kliniği_2020-21.txt

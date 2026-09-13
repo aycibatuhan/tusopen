@@ -1,0 +1,14 @@
+id: embriyo_sis_sindirim_anomaliler_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hirschsprung hangi tıkanıklığın en sık nedenidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_sindirim
+metin: Yenidoğan kalın barsak tıkanıklıklarının.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_Sisteminin_Gelişimi-II.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_Sisteminin_Gelişimi-I.txt

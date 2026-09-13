@@ -1,0 +1,11 @@
+id: fiz_kan_hb_degerleri_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HbF'nin oksijen ilgisi neden HbA'dan yüksektir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_hemoglobin]
+metin: "2,3-DPG'ye affinitesi düşük olduğundan; O2 ilgisi yaklaşık yüzde 50 fazladır."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt, 2._Sınıf_2.4_2.vize_fizyoloji_KAN_FİZYOLOJİSİ_TÜRKÇE_GRUBU.2020.txt

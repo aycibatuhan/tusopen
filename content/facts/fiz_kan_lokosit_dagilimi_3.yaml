@@ -1,0 +1,11 @@
+id: fiz_kan_lokosit_dagilimi_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi lökositler alerjide, hangisi paraziter hastalıkta artar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_lokosit]
+metin: "Eozinofil ve bazofil alerjide; eozinofil ayrıca paraziter hastalıklarda artar."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt, 2._Sınıf_2.4_1.vize_Fizyoloji_Doğal_bağışıklık_ve_inflamasyon__2020_CTF_TÜRKÇE_GRUBU.txt

@@ -1,0 +1,11 @@
+id: dah_hep_hbv_tedavi_endikasyon_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebelikte kronik HBV'de tenofovir ne zaman başlanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_hepatit_b]
+metin: "24-28. haftalarda; HBV DNA düzeyi 200.000 IU/ml'yi veya HBsAg 4 log10'u aştığında başlanır."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_HBV-2021-2022.txt

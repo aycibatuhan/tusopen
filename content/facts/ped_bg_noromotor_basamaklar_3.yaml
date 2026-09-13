@@ -1,0 +1,15 @@
+id: ped_bg_noromotor_basamaklar_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 10-12 aylık bebekte beklenen gelişim nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_norogelisim
+metin: '10 ay: cımbız tutuşu, adıyla tepki; 12 ay: tutulunca yürüme, 2-4 anlamlı kelime.'
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

@@ -1,0 +1,11 @@
+id: pat_gis_vaskuler_mekanik_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mukozal-mural bağırsak infarktünün nedeni ve görünümü?"
+taksonomi:
+  - [ttbt, patoloji, pat_gis, pat_gis_vaskuler_mekanik]
+metin: "Hipoperfüzyon; multifokal atlamalı tutulum, seroza normal."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Patoloji_GİS_5_10_haziran_2020_son.txt

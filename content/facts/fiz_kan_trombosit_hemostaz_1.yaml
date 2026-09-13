@@ -1,0 +1,10 @@
+id: fiz_kan_trombosit_hemostaz_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Primer hemostazda trombositler kollajene hangi faktörle yapışır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_trombosit_hemostaz]
+metin: "Von Willebrand faktörü aracılığıyla; önce vazospazm sonra trombosit tıkacı oluşur."

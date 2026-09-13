@@ -1,0 +1,11 @@
+id: goz_aion_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "NAION'da görme alanı kaybının tipik biçimi nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_norooftalmoloji, goz_no_iskemik_optik_noropati]
+metin: "Altitudinaldir; ani, ağrısız, uyanınca fark edilen monoküler kayıp."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Optik_Sinir_Hastalıkları.txt, 5.sınıf_Göz_Hastalıkları_ANİ_KÖRLÜKLER.txt

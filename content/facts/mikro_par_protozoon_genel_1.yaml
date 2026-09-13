@@ -1,0 +1,11 @@
+id: mikro_par_protozoon_genel_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Protozoonlarda trofozoit ve kist evrelerinin farkı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_genel]
+metin: "Trofozoit beslenen-çoğalan hareketli evre; kist kalın çeperli, dış ortama dirençli, besin almayan evredir."
+# kaynak: Protozoon_ve_Helmintlerin_Genel_Özellikleri.txt

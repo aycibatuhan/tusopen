@@ -1,0 +1,11 @@
+id: der_pemfigus_klinik_tipler_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İlaç kaynaklı pemfigusun özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_pemfigus]
+metin: "D-penisilamin ve kaptopril; foliaseus tipinde, sülfidrillilerde ilaç kesilince geriler."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

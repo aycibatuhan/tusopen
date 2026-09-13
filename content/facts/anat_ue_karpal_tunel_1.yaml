@@ -1,0 +1,10 @@
+id: anat_ue_karpal_tunel_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Karpal tünelde kaç tendon ve hangi sinir vardır?
+taksonomi:
+  - [ttbt, anatomi, anat_ust_ekstremite, anat_ue_karpal_tunel]
+metin: 9 tendon (4 FDS, 4 FDP, flexor pollicis longus) ve n. medianus.

@@ -1,0 +1,11 @@
+id: der_uyuz_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uyuzda döküntü bulaşmadan ne kadar sonra çıkar?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_skabiyez_pedikuloz]
+metin: "10-30 gün sonra; tip IV hipersensitiviteye bağlıdır."
+# kaynak: 5.sınıf_Dermatoloji_ZK-Paraziter_hastalıklar10.txt

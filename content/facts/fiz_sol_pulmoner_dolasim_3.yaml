@@ -1,0 +1,11 @@
+id: fiz_sol_pulmoner_dolasim_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lokal alveoler hipoksi pulmoner damarlarda ne yapar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_ventilasyon_perfuzyon]
+metin: "Arterioler vazokonstriksiyon; kanı iyi vantile alveollere yönlendirir, yaygında hipertansiyon yapar."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

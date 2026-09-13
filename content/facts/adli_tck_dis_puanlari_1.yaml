@@ -1,0 +1,11 @@
+id: adli_tck_dis_puanlari_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "TCK'da diş kayıplarının puan değerleri nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_yara_balistik, adl_yb_yasam_belirtileri]
+metin: "Kesici 4, kanin 4,5, birinci-ikinci molar 3, premolar 3, üçüncü molar 0,5 puan."
+# kaynak: 5.sınıf_Adli_Tıp_TCK_YARALAR_PROF._DR._GÜRSEL_ÇETİN.txt

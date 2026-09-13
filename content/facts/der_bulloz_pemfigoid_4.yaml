@@ -1,0 +1,11 @@
+id: der_bulloz_pemfigoid_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Büllöz pemfigoidde öncelikli tedavi nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_pemfigoid]
+metin: "Güçlü topikal kortikosteroidler öncelikli; generalize olursa oral kortikosteroid günlük 0.5-1 mg/kg."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

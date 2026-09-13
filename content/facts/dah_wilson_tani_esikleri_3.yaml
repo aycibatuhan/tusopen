@@ -1,0 +1,11 @@
+id: dah_wilson_tani_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "30 yaş altında hemolitik anemi ve siroz birlikteliğinde hangi hastalık düşünülmeli?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_wilson_hemokromatoz]
+metin: "Wilson hastalığı; olguların %15'i hemolitik krizle prezente olur."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_METABOLİK_KARACİĞER_HASTALIKLARI.txt

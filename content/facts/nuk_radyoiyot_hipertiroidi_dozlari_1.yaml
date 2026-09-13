@@ -1,0 +1,11 @@
+id: nuk_radyoiyot_hipertiroidi_dozlari_1
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Benign tiroid hastalıklarında radyoiyot doz kademeleri nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_endokrin, nt_en_radyoiyot_tedavi]
+metin: "Genel aralık 6-30 mCi; küçük bez-hafif tirotoksikoz 5-10, orta boy bez 10-15, büyük bez-şiddetli tirotoksikoz 15-20 mCi."
+# kaynak: 5.sınıf_Nükleer_Tıp_radionuclide_therapy_psma_eklenmiş.txt, 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

@@ -1,0 +1,10 @@
+id: kd_gf_plasenta_5
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plasental bariyerden geçen immünoglobulin hangisidir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_plasenta]
+metin: "IgG; yenidoğana pasif immünite sağlar, IgM geçmez."

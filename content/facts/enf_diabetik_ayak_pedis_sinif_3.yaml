@@ -1,0 +1,15 @@
+id: enf_diabetik_ayak_pedis_sinif_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Diyabetik ayak yarasında kültür örneği nasıl alınır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_diyabetik_ayak
+metin: Sürüntü alınmaz; debritman sonrası biyopsi veya küretajla en az iki derin doku örneği.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_diyabetik_ayak_dersi_2021.txt

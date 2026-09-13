@@ -1,0 +1,11 @@
+id: ftr_ra_deformiteler_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RA'da kuğu boynu deformitesi nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_romatoid_artrit_rehab]
+metin: "MKF fleksiyon kontraktürü, PIF hiperekstansiyonu ve DIF hiperfleksiyonudur."
+# kaynak: 5.sınıf_FTR_ROMATOİD_ARTRİT__Otomatik_kaydedilme_.txt

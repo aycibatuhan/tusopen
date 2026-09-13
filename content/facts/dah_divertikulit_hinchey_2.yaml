@@ -1,0 +1,11 @@
+id: dah_divertikulit_hinchey_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hinchey evreleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_divertikuler]
+metin: "I perikolik abse, II pelvik/retroperitoneal abse, III irinli peritonit, IV fekal peritonit."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_GIS_Polipleri_ve_Divertiküler_hastalık_TUR.txt

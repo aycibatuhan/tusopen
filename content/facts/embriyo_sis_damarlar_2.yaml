@@ -1,0 +1,13 @@
+id: embriyo_sis_damarlar_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ductus arteriosus fetal dolaşımda kanı nereye yönlendirir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_damarlar
+metin: Pulmoner arterden aortaya.

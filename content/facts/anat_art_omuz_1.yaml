@@ -1,0 +1,10 @@
+id: anat_art_omuz_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Vücudun en hareketli, en az stabil ekleminin en sık çıkık tipi?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_omuz]
+metin: Anteroinferior; aksiller sinir ve posterior sirkumfleks humeral arter risk altındadır.

@@ -1,0 +1,15 @@
+id: ped_gog_bogmaca_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Boğmacada en bulaşıcı dönem hangisidir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_bogmaca
+metin: Kataral dönem; süt çocuklarında klasik nöbet yerine apne epizotları görülür.
+
+# kaynak: 4._Sınıf_Pediatri_Haluk_Çokuğraş_bog-kab.txt

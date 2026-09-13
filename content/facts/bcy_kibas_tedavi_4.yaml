@@ -1,0 +1,11 @@
+id: bcy_kibas_tedavi_4
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hiperventilasyonun KİBAS'taki yeri ve hedef PaCO2 nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_intrakraniyal_basinc, bce_ib_artmasi_ve_tedavi]
+metin: "Vazokonstriksiyonla KİB düşürür ama iskemi yapabilir; yalnız cerrahi öncesi akut dönemde geçici, hedef PaCO2 ~30 mmHg."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Ödemi_ve_KİBAS_S.T.txt

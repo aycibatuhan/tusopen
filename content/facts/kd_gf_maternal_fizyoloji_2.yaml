@@ -1,0 +1,10 @@
+id: kd_gf_maternal_fizyoloji_2
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Supin hipotansiyon sendromu gebelikte nasıl oluşur?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_maternal_fizyoloji]
+metin: "Uterusun vena cava'yı kompresyonuyla; kardiyak output %30-50 artmıştır."

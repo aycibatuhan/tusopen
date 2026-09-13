@@ -1,0 +1,11 @@
+id: dah_ibd_uc_cd_ayirim_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sigara ÜK ve Crohn seyrini nasıl etkiler?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_crohn]
+metin: "Ülseratif kolitte düzeltir, Crohn'da ağırlaştırır."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_IBD.lecture_2020-4.class_AFC-son.txt

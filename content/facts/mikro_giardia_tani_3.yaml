@@ -1,0 +1,11 @@
+id: mikro_giardia_tani_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Giardia tanısında yoğunlaştırma yöntemleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_barsak_protozoa]
+metin: "Formol-eter çöktürmesi ve çinko sülfat yüzdürmesi."
+# kaynak: Sindirim_kanalı_protozoonları_2.txt

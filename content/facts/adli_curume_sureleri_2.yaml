@@ -1,0 +1,11 @@
+id: adli_curume_sureleri_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çürümenin en erken makroskopik belirtisi nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_zamani]
+metin: "Sağ alt kadranda (ilioçekal bölge) sülfohemoglobine bağlı yeşil leke."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_BELİRTİLERİ_-_2_PROF._DR._SERMET_KOÇ.txt

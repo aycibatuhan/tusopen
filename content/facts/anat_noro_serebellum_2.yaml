@@ -1,0 +1,13 @@
+id: anat_noro_serebellum_2
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Spinoserebellum (anterior lob ve vermis) neyi düzenler?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_noroanatomi
+  - anat_noro_serebellum
+metin: Postür ve yürüyüşü düzenler.

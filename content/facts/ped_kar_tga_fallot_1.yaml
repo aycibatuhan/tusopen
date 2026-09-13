@@ -1,0 +1,15 @@
+id: ped_kar_tga_fallot_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yenidoğan döneminin en sık siyanotik kalp hastalığı hangisidir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_siyanotik
+metin: Büyük damar transpozisyonu; iki dolaşım paralel çalışır, karışım sağlayan defekt (ASD-VSD-PDA) gerekir.
+
+# kaynak: 4._Sınıf_Pediatri_Reyhan_Dedeoğlu_Siyanotik_Kalp_hastalıkları_16_Eylül-2021_R.txt

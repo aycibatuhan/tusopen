@@ -1,0 +1,11 @@
+id: mikro_dna_parvovirus_b19_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Parvovirüs B19 hangi reseptörle hangi hücreleri enfekte eder?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_parvovirus]
+metin: "P antijeni reseptörüyle mitotik aktif eritroid seri öncüllerini enfekte eder ve litik enfeksiyon yapar."
+# kaynak: Adenovirus_parvo.txt

@@ -1,0 +1,13 @@
+id: anat_ks_cekirdekler_4
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Okulomotorius ve hipoglossus beyin yüzeyinden nereden çıkar?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_kranial_sinirler
+  - anat_ks_cekirdekler
+metin: Okulomotorius interpedinküler fossadan; hipoglossus medullanın ön yüzünden (preoliv).

@@ -1,0 +1,11 @@
+id: kd_over_rezervi_esikleri_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Azalmış over rezervi laboratuvar eşikleri nelerdir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_infertilite, kd_inf_degerlendirme]
+metin: "AMH ≤1,5 ng/mL, AFC ≤4, siklus 2-3. gün FSH >8,9 IU/L."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ART.txt

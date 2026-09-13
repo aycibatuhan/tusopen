@@ -1,0 +1,15 @@
+id: ped_end_dka_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: DKA'da sıvı ve insülin tedavisi nasıl başlanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_endokrinoloji
+  - ped_end_diyabet
+metin: Önce 1 saatte 10-20 ml/kg SF; defisit 48 saatte yerine konur (hafif-orta %5, ağır %10); insülin, hacim sağlanınca (1-2. saatte) 0,05-0,1 ünite/kg/saat.
+
+# kaynak: 4._Sınıf_Pediatri_HND_SUNUM_dka_(1)8.10.txt

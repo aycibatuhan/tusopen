@@ -1,0 +1,27 @@
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-81
+- tus-2014-sonbahar-ktbt-87
+- tus-2015-ilkbahar-ktbt-83
+- tus-2018-ilkbahar-ktbt-82
+- tus-2019-ilkbahar-ktbt-81
+- tus-2019-ilkbahar-ktbt-82
+- tus-2019-sonbahar-ktbt-81
+- tus-2020-ilkbahar-ktbt-81
+- tus-2020-ilkbahar-ktbt-82
+- tus-2020-sonbahar-ktbt-81
+id: gc_meme_yardimci_4
+version: 1
+status: draft
+author: ai-drafts/genel_cerrahi-meme
+sources:
+- NCCN Breast Cancer Screening and Diagnosis guideline (2024-2025) — referans olarak listelendi, metin projesi özgün yazımdır
+- USPSTF Breast Cancer Screening recommendation (2024 güncellemesi) — referans olarak listelendi, metin projesi özgün yazımdır
+- 'NCCN Genetic/Familial High-Risk Assessment: Breast, Ovarian, and Pancreatic (v2.2024) — referans olarak listelendi, metin projesi özgün yazımdır'
+- T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü, Kadınlarda Meme Kanseri Taramaları Ulusal Standartları (KETEM) — referans olarak listelendi, metin projesi özgün yazımdır
+ad: USPSTF 2024 mamografi tarama önerisi nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_meme
+  - gc_meme_tarama
+metin: 40-74 yaş arasında iki yılda bir mamografi (B önerisi).

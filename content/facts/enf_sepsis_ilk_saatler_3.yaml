@@ -1,0 +1,15 @@
+id: enf_sepsis_ilk_saatler_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sepsis resüsitasyonunun hedefleri nelerdir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_sepsis
+  - enf_sp_sepsis_tedavi
+metin: OAB ≥65 mmHg, santral venöz basınç 8 mmHg, santral venöz O2 satürasyonu %70 ve laktatın normale dönmesi.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sepsise_Yaklaşım_3._sınıf_Türkçe.txt

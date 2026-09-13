@@ -1,0 +1,11 @@
+id: anes_anafilaksi_adrenalin_dozlari_5
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "IV adrenalin anafilaksta nasıl kullanılmalıdır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_anafilaksi]
+metin: "Yalnızca deneyimli hekimlerce; erişkinde 50 µg bolusla başlanmalıdır."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Hipotermi_Suda_boğulma_Anaflaksi.txt

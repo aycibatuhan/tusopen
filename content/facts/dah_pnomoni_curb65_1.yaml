@@ -1,0 +1,11 @@
+id: dah_pnomoni_curb65_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CURB-65 indeksi hangi beş ölçütü içerir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gogus, dah_gog_pnomoni]
+metin: "Konfüzyon, üre 42,8 mg/dL üzeri, solunum 30/dk üzeri, KB 90/60 altı, 65 yaş üzeri."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_PNÖMONİLER_2.txt

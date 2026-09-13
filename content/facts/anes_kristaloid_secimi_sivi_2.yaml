@@ -1,0 +1,11 @@
+id: anes_kristaloid_secimi_sivi_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çocuklarda sıvı idamede 4-2-1 kuralı nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_sivi_kan, anes_sk_sivi_tedavisi]
+metin: "İlk 10 kg için 4, ikinci 10 kg için 2, kalan kilo için 1 mL/kg/saat."
+# kaynak: 4._Sınıf_Anestezi_3.txt

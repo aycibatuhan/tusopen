@@ -1,0 +1,11 @@
+id: kard_hky_ilac_basamaklari_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "KYde MRA ekleme eşiği nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_ilac_tedavisi]
+metin: "Semptomatik ve LVEF <%35 seyreden hastaya eklenir."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

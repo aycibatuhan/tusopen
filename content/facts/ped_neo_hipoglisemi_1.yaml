@@ -1,0 +1,15 @@
+id: ped_neo_hipoglisemi_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yenidoğan hipoglisemi tanım eşiği nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_hipoglisemi
+metin: Yaş farkı gözetmeksizin plazma glikozunun 40 mg/dl altına inmesi.
+
+# kaynak: 4._Sınıf_Pediatri_Ersin_Ulu_yenidoğan_metabolik_sorunları_kopya.txt

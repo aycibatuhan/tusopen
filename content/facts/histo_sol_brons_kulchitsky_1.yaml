@@ -1,0 +1,14 @@
+id: histo_sol_brons_kulchitsky_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Trakea iskeletini ne oluşturur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_solunum
+  - histo_sol_brons
+metin: 16-20 adet C şeklinde hiyalin kıkırdak halka; serbest uçlar arkada m. trakealis ile birleşir.
+# kaynak: 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ-2016.txt, 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ-II.txt

@@ -1,0 +1,11 @@
+id: adli_maserasyon_fotus_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Maserasyon nedir ve kaç saat sonra belirlenir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_zamani]
+metin: "Uterusta amnion sıvısı içinde aseptik otolitik değişim; en az 6-8 saat gerekli."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_BELİRTİLERİ_-_2_PROF._DR._SERMET_KOÇ.txt

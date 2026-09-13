@@ -1,0 +1,11 @@
+id: goz_hipertansif_retinopati_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Salus arazı hipertansif retinopatinin hangi grade'inde görülür?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_hipertansif_retinopati]
+metin: "Grade 2'de; fokal arteryol daralmasıyla birlikte."
+# kaynak: 5.sınıf_Göz_Hastalıkları_damar_hastalıkları.txt, 5.sınıf_Göz_Hastalıkları_DISEASES_OF_VITREOUS_AND_RETINA.txt

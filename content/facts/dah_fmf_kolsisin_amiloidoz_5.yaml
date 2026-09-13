@@ -1,0 +1,11 @@
+id: dah_fmf_kolsisin_amiloidoz_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "TRAPS'ı FMF'den ayıran özellik nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_fmf]
+metin: "Ataklar 5 gün-3 hafta sürer; proksimalden distale gezen psödosellülit."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_Otoinflamatuar_ve_Ailesel_Akdeniz_Ateşi.txt

@@ -1,0 +1,15 @@
+id: ped_neo_rds_ttn_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: TTN'nin risk faktörleri ve grafisi nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_solunum_sikintisi
+metin: Elektif sezaryen, hızlı travay, maternal diyabet ve astım; grafide perihiler dolgunluk ve minör fissürde sıvı.
+
+# kaynak: 4._Sınıf_Pediatri_Mehmet_Vural_yd_solunum_sıkıntısı-kısa.txt

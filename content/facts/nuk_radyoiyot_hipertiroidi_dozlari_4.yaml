@@ -1,0 +1,11 @@
+id: nuk_radyoiyot_hipertiroidi_dozlari_4
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Radyoiyot tedavisi sonrası gebelik için kaç ay beklenmelidir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_endokrin, nt_en_radyoiyot_tedavi]
+metin: "4-6 ay."
+# kaynak: 5.sınıf_Nükleer_Tıp_radionuclide_therapy_psma_eklenmiş.txt, 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

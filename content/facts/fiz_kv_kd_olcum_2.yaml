@@ -1,0 +1,11 @@
+id: fiz_kv_kd_olcum_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fick yöntemiyle kalp debisi nasıl hesaplanır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kalp_debisi]
+metin: "Dakikalık O2 tüketiminin arteriovenöz O2 farkına bölümü; 250/5 = 5 L/dk."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_5-6_Eksitasyon_ve_Kalp_Debisi.txt

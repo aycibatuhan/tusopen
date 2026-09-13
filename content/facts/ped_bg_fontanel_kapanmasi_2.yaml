@@ -1,0 +1,15 @@
+id: ped_bg_fontanel_kapanmasi_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ön fontanelin geç veya erken kapanması neyi düşündürür?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: Geç kapanma hipotiroidi, hidrosefali ve raşitizmde; erken kapanma kraniyosinostozu düşündürür.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

@@ -1,0 +1,14 @@
+id: histo_kas_distrofin_dmd_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Becker musküler distrofisi DMD'den nasıl ayrılır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kas
+  - histo_kas_iskelet
+metin: Aynı genin daha hafif bozukluğu; belirtiler 12 yaş civarında, yürüme kaybı 25-30 yaşlara uzar.
+# kaynak: 1._Sınıf_1.3_Histoloji_KAS_DOKUSU_HİSTOLOJİSİ.txt, 2._Sınıf_2.1_Histoloji_KAS_SİSTEMİ_GELİŞİMİ.txt

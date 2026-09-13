@@ -1,0 +1,11 @@
+id: anat_art_kalca_femur_basi_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Nelaton çizgisi hangi noktaları birleştirir?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_kalca]
+metin: Spina iliaca anterior superior, trochanter major tepesi ve tuber ischiadicum; trochanter üstüne çıkarsa çıkık.
+# kaynak: 3._Sınıf_3.3_Anatomi_ALT_TARAF_ANATOMİSİ_2021.txt

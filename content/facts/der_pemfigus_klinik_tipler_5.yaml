@@ -1,0 +1,11 @@
+id: der_pemfigus_klinik_tipler_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pemfigus tedavisinin temel taşı ve başlangıç dozu nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_pemfigus]
+metin: "Sistemik kortikosteroidler; 1-2 mg/kg/gün."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

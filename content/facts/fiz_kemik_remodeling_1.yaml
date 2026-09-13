@@ -1,0 +1,11 @@
+id: fiz_kemik_remodeling_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kemik tiplerinin oranları ve trabeküler kemiğin avantajı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_kalsiyum]
+metin: "Kortikal yüzde 75-80, trabeküler 20-25; trabeküler yüzey alanı 5 kat, Ca homeostazına hızlı."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_NuranKemik_Ders_Eylül_2019.txt

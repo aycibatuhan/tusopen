@@ -1,0 +1,11 @@
+id: bcy_beyin_odemi_tipleri_2
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sitotoksik beyin ödeminin mekanizması ve tutulum özelliği nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_intrakraniyal_basinc, bce_ib_beyin_odemi]
+metin: "Kan-beyin bariyeri sağlam; Na-K pompası bozulur, hücre içi Na ve su birikir, gri madde tutulur."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Ödemi_ve_KİBAS_S.T.txt

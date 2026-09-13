@@ -1,0 +1,15 @@
+id: ped_gis_age_ors_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İdame fazında her dışkı için ORS miktarı nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gastroenteroloji
+  - ped_gis_akut_gastroenterit
+metin: <2 yaşta 50-100 ml, >2 yaşta 100-200 ml; anne sütü ve formül beslenmesi kesilmez.
+
+# kaynak: 4._Sınıf_Pediatri_Sinem_Oral_Cebeci_4sınıf-dehid-slayt.txt

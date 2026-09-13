@@ -1,0 +1,11 @@
+id: ort_klavikula_kirigi_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klavikula kırığında cerrahi endikasyonlar nelerdir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_ust_ekstremite_travma, orto_ue_klavikula_skapula]
+metin: "Deplase distal uç kırığı, açık kırık, nörovasküler hasar, cilt bütünlüğünün tehlikeye girmesi."
+# kaynak: 5.sınıf_Ortopedi_Omuz_ve_Dirsek_Yaralanmaları.txt, 5.sınıf_Ortopedi_Ortopedi_ve_Travmatoloji_de_Radyolojik_Değerlendirme.txt

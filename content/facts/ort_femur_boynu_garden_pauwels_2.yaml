@@ -1,0 +1,11 @@
+id: ort_femur_boynu_garden_pauwels_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pauwels sınıflamasında kırık hattı açıları nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_femur_boynu]
+metin: "Tip 1: 0-30 derece, Tip 2: 30-50 derece, Tip 3: 50 derece üzeri; açı arttıkça instabilite artar."
+# kaynak: 5.sınıf_Ortopedi_FEMUR_KIRIKLARI.txt

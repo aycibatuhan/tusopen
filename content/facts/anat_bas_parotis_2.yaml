@@ -1,0 +1,10 @@
+id: anat_bas_parotis_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Parotis bezi içindeki yapılar dıştan içe nasıl dizilir?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_parotis]
+metin: N. facialis (VII), retromandibular ven ve a. carotis externa.

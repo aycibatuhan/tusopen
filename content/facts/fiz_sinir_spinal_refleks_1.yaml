@@ -1,0 +1,10 @@
+id: fiz_sinir_spinal_refleks_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Germe refleksinin ark yapısı nasıldır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_spinal_refleks]
+metin: "Tek sinapslı, iki nöronlu; Ia afferenti doğrudan alfa motor nöronla sinaps yapar."

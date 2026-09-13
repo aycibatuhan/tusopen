@@ -1,0 +1,11 @@
+id: pat_neo_viral_karsinojenler_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "EBV'nin reseptörü hangisidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_karsinojenler]
+metin: "B lenfositlerinde CD21."
+# kaynak: 1._Sınıf_1.4_Patoloji_iremonur_kimyasal_viral_karsinogenez.txt

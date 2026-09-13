@@ -1,0 +1,10 @@
+id: biyok_kh_pentoz_fosfat_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "G6PD eksikliğinde hemolizi tetikleyenler ve yayma bulgusu nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_pentoz_fosfat]
+metin: "Bakla, sulfa ilaçlar, antimalaryaller; eritrosit yaymasında Heinz cisimcikleri görülür."

@@ -1,0 +1,11 @@
+id: anat_sirt_lp_batson_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Lumbal ponksiyonda crista iliaca çizgisi neyi gösterir?
+taksonomi:
+  - [ttbt, anatomi, anat_sirt_omurga, anat_sirt_medulla_zarlar]
+metin: L4 processus spinosus'unu; iğne L3-L4 veya L4-L5 aralığından sokulur.
+# kaynak: 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_1.txt, 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_2.txt

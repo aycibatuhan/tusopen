@@ -1,0 +1,11 @@
+id: mikro_am_duyarlilik_testleri_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MIC ve MBC tanımları nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_duyarlilik]
+metin: "MIC üremeyi inhibe eden, MBC organizmayı öldüren en düşük konsantrasyondur."
+# kaynak: Antibiyotik_direnci_ve_önemi15.txt

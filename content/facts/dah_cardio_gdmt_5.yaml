@@ -1,0 +1,22 @@
+id: dah_cardio_gdmt_5
+version: 1
+status: draft
+author: ai-drafts/kardiyoloji
+sources:
+- AHA/ACC/HFSA 2022 Kalp Yetmezliği Rehberi (Circulation, Heidenreich ve ark.) — referans olarak listelendi,
+  metin projesi özgün yazımdır
+- ESC 2021 Kalp Yetmezliği Rehberi + 2023 Odaklanmış Güncelleme (McDonagh ve ark., Eur Heart J) — referans
+  olarak listelendi
+- PARADIGM-HF (NEJM 2014), DAPA-HF (NEJM 2019), EMPEROR-Reduced (NEJM 2020), EMPEROR-Preserved (NEJM 2021),
+  DELIVER (NEJM 2022) çalışmaları — referans olarak listelendi
+ad: "Loop diüretiklerin HFrEF mortalitesine etkisi var mıdır?"
+taksonomi:
+- - ktbt
+  - kardiyoloji
+  - kard_kalp_yetmezligi
+  - kard_ky_ilac_tedavisi
+- - ktbt
+  - dahiliye
+  - dah_kardiyovaskuler
+  - dah_kv_kalp_yetmezligi
+metin: "Konjesyonu çözer ama dört sütunun aksine mortaliteyi değiştirmez."

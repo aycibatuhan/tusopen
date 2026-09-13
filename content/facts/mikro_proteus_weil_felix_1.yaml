@@ -1,0 +1,11 @@
+id: mikro_proteus_weil_felix_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Proteus enfeksiyonları hangi idrar taşı türünü oluşturur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_klebsiella_proteus]
+metin: "Magnezyum-amoniyum-fosfat (strüvit) taşları; alkali idrarla birlikte."
+# kaynak: Ecoli_ve_enter.txt, Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

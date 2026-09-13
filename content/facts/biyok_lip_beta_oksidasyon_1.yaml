@@ -1,0 +1,10 @@
+id: biyok_lip_beta_oksidasyon_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uzun zincirli yağ asitleri mitokondriye nasıl girer ve nasıl düzenlenir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_beta_oksidasyon]
+metin: "Karnitin taşıyıcısıyla; CPT-1 malonil-CoA ile baskılanarak sentez-yıkım eşzamanlılığı önlenir."

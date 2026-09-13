@@ -1,0 +1,10 @@
+id: dah_onk_paraneoplastik_3
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klasik paraneoplastik nörolojik sendrom eşleşmeleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_paraneoplastik]
+metin: "Lambert-Eaton: anti-VGCC, küçük hücreli akciğer; anti-Yo: serebellar, over; anti-Hu: limbik, küçük hücreli akciğer."

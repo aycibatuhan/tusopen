@@ -1,0 +1,14 @@
+id: gc_meme_kanser_cerrahi_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Meme kanserinde en önemli prognostik faktör?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_meme
+  - gc_meme_kanser_cerrahi
+metin: Aksiller lenf nodu metastazı.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Pınar_Kocael_Meme_Kanseri_Tedavisi.txt

@@ -1,0 +1,10 @@
+id: fiz_endo_tiroid_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ani yüksek iyot yüklenmesinin geçici hormon baskılanmasına verilen ad nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_tiroid]
+metin: "Wolff-Chaikoff etkisi."

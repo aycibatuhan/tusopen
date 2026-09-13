@@ -1,0 +1,15 @@
+id: enf_sifiliz_evre_sureleri_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sifilizde tedavi yanıtının izlemi nasıl yapılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_cinsel_yolla
+  - enf_cy_sifiliz
+metin: 'Non-treponemal testlerle: erken sifilizde 6. ve 12. aylarda, geç sifilizde 6-12-24. aylarda titre kontrolü.'
+
+# kaynak: 3._Sınıf_3.2_Enfeksiyon_hastalıkları_STD_Cerrahpasa_2020_3.sınıf.txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Ates__ve_do_ku_ntu__3.sınıf_(2).txt

@@ -1,0 +1,11 @@
+id: mikro_imm_sitokinler_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "IFN-gama'nın bağışıklıktaki temel görevi nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_sitokinler]
+metin: "Makrofaj aktivasyon faktörü olarak hücre içi enfeksiyonların kontrolü."
+# kaynak: Hücre_aracılığı_ile_bağışık_yanıt.txt, Doğal_bağışıklık__mikropların_tanınması__mikropların_doğal_bağışıklıktan_kaçışı.txt, Mantarlara_karşı_immünite.txt

@@ -1,0 +1,10 @@
+id: pat_pan_tumorler_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pankreas karsinomunda en sık mutasyon nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_pankreas, pat_pan_tumorler]
+metin: "KRAS (%90'dan fazla); TP53 ve CDKN2A inaktivasyonu eşlik eder."

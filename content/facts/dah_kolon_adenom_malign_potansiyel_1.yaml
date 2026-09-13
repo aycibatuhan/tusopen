@@ -1,0 +1,11 @@
+id: dah_kolon_adenom_malign_potansiyel_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adenomdan karsinoma dönüşüm ortalama ne kadar sürer?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_polip_kolorektal]
+metin: "Yaklaşık 7 yıl; adenomların yalnızca 20'de 1'i veya daha azı ilerler."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_GIS_Polipleri_ve_Divertiküler_hastalık_TUR.txt

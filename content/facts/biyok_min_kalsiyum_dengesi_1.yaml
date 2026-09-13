@@ -1,0 +1,11 @@
+id: biyok_min_kalsiyum_dengesi_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plazma kalsiyumunun fraksiyon dağılımı nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_mineral_eser]
+metin: "Yüzde 50 iyonize, 40 proteine bağlı (80'i albumine), 10 kompleks."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Ca__Mg__P_tıp_dersi2018.txt

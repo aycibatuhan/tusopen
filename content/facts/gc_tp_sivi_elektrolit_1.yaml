@@ -1,0 +1,13 @@
+id: gc_tp_sivi_elektrolit_1
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Holliday-Segar idame sıvı hesabı nasıl yapılır?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_sivi_elektrolit
+metin: İlk 10 kg'a 4, ikinci 10 kg'a 2, her ek kg'a 1 mL/saat.

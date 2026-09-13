@@ -1,0 +1,11 @@
+id: mikro_mikobakteri_atipik_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AIDS'te sık karşılaşılan tüberküloz dışı mikobakteri grubu hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_atipik]
+metin: "M. avium kompleksi (M. avium-intracellulare); KOAH-kronik bronşitte de hastalık yapar."
+# kaynak: Mycobacterium_leprae.txt, Mycobacterium_tuberculosis.txt

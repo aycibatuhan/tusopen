@@ -1,0 +1,10 @@
+id: farm_mss_opioid_3
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Opioid aşırı dozunun antidotu?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_mss, farm_mss_opioid]
+metin: "Naloksan; mu reseptöründe rekabetçi antagonist, etkisi kısa."

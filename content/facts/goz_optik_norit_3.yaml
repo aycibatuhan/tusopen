@@ -1,0 +1,11 @@
+id: goz_optik_norit_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Optik nöitte önerilen steroid protokolü nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_norooftalmoloji, goz_no_optik_norit]
+metin: "3 gün IV metilprednizolon (250 mg x 4/gün), ardından 11 gün oral 1 mg/kg/gün."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Optik_Sinir_Hastalıkları.txt, 5.sınıf_Göz_Hastalıkları_ANİ_KÖRLÜKLER.txt

@@ -1,0 +1,11 @@
+id: biyok_hs_kan_ph_tampon_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemoglobin ve albüminin tamponluk özellikleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_hucre_su, biyok_hs_su_ph]
+metin: "Hb monomerinde 9 histidin; albümin 16 histidinle bikarbonat dışı tamponun yüzde 95'i."
+# kaynak: 1._Sınıf_1.2_Biyokimya_2018.11.08__tampon_sis.2018.txt

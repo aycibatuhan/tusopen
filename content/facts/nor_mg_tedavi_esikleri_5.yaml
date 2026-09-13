@@ -1,0 +1,11 @@
+id: nor_mg_tedavi_esikleri_5
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yaşamı tehdit eden MG krizinde hangi tedaviler kullanılır?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_miyastenia]
+metin: "IVIG veya plazmaferez; MuSK MG'de plazmaferez daha etkili olabilir."
+# kaynak: 5.sınıf_Nöroloji_NÖROMUSKÜLER_BİLEŞKE.txt

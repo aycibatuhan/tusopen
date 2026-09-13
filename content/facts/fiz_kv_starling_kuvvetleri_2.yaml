@@ -1,0 +1,11 @@
+id: fiz_kv_starling_kuvvetleri_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kapiller ve interstisyel hidrostatik basınç değerleri nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_mikrodolasim]
+metin: "Arteriol ucunda 30-40, venol ucunda 10-15; interstisyel -6 mmHg (beyin-böbrek istisna)."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Arteriyel_dolaşım__Kapiller_sistem__Lenfa.txt

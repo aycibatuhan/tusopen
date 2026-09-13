@@ -1,0 +1,11 @@
+id: mikro_vibrio_tani_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vibrio kültüründe TCBS agarda koloni renkleri ne anlama gelir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_vibrio]
+metin: "Sukroz fermente eden O1 sarı, V. parahaemolyticus yeşil koloni verir."
+# kaynak: Vibrio1.txt

@@ -1,0 +1,11 @@
+id: bcy_servikal_stenoz_2
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Spondilotik değişiklikler hangi yaş gruplarında ne sıklıkta bulunur?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_spinal_patoloji, bce_sp_spinal_stenoz]
+metin: "25 yaş popülasyonun ~%10'unda; 65 yaş popülasyonun ~%95'inde."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Spinal_Dejeneratif_Hastalıklar_O.U.txt

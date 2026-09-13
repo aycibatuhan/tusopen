@@ -1,0 +1,10 @@
+id: kd_gf_plasenta_2
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "hPL'nin gebelikte temel metabolik etkisi nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_plasenta]
+metin: "İnsülin antagonizması; gestasyonel diyabet zeminini hazırlayan insülin direncine katkı."

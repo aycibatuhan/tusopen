@@ -1,0 +1,11 @@
+id: kard_hkm_obstruksiyon_manevralari_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HKMde üfürümü azaltan manevralar nelerdir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kardiyomiyopati, kard_km_hipertrofik]
+metin: "Çömelme/bacak yükseltme (preload artışı) ve handgrip (afterload artışı)."
+# kaynak: 5.sınıf_Kardiyoloji_2022_Kalp_kası_hastalıkları_-2_-_Doç.Dr.Burçak_KILIÇKIRAN_AVCI.txt

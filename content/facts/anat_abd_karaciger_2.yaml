@@ -1,0 +1,10 @@
+id: anat_abd_karaciger_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Porta hepatis'e yapılar nasıl girer?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_karaciger]
+metin: Portal ven en arkada; onun önünde hepatic arter ve koledok girer.

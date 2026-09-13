@@ -1,0 +1,10 @@
+id: biyok_klin_bobrek_testleri_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yaşlılarda kreatinin değeri neden yanıltıcıdır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_klinik, biyok_klin_bobrek_testleri]
+metin: "Kas kütlesine bağlı; filtrasyon düşükken kreatinin normal görünebilir."

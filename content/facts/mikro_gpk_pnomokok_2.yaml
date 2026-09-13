@@ -1,0 +1,10 @@
+id: mikro_gpk_pnomokok_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pnömokok tiplendirmesi hangi yöntemle yapılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_kok, mikro_gpk_pnomokok]
+metin: "Kapsül şişmesi (Quellung) reaksiyonuyla."

@@ -1,0 +1,10 @@
+id: pat_dam_vaskulit_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dev hücreli (temporal) arteritte biyopside ne görülür?"
+taksonomi:
+  - [ttbt, patoloji, pat_kan_damarlari, pat_dam_vaskulit]
+metin: "Granülomatöz vaskülit ve elastik laminanın parçalanması."

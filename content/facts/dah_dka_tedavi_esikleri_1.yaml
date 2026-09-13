@@ -1,0 +1,11 @@
+id: dah_dka_tedavi_esikleri_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "DKA'da potasyum 3,3 mEq/L altındaysa ne yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diyabet_akut_komplikasyon]
+metin: "İnsülin durdurulup saatte 20-30 mEq potasyum verilir."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Acute_complications.txt

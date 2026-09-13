@@ -1,0 +1,11 @@
+id: gog_mediasten_kitle_vkss_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mediasten bölgelerine göre tipik kitleler hangileridir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_neoplazi, gog_neo_mediastinal]
+metin: "Ön: dört T (timus, teratom, lenfoma, tiroid); orta: üç A; arka: nörojenik tümörler."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_mediasten_hastalıkları.txt, 5.sınıf_Göğüs_Hastalıkları_Solunum_Yolu_Acilleri.txt

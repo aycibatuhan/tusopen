@@ -1,0 +1,10 @@
+id: pat_imm_otoimmun_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SLE'nin en ağır böbrek tutulumu hangisidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_immun, pat_imm_otoimmun]
+metin: "Difüz proliferatif glomerulonefrit."

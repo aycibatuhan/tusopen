@@ -1,0 +1,10 @@
+id: biyok_aa_plazma_proteinleri_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serum protein elektroforezinde bantlar ve poliklonal artış yeri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_plazma_proteinleri]
+metin: "Albümin, alfa 1, alfa 2, beta, gamma; poliklonal artış gamma bölgesinde."

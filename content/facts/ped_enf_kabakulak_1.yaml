@@ -1,0 +1,15 @@
+id: ped_enf_kabakulak_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kabakulakta kuluçka süresi ve bulaştırıcılık dönemi nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_enfeksiyon
+  - ped_enf_kabakulak
+metin: Kuluçka 16-18 gün (12-25); bulaştırıcılık ilk 5 gün boyunca sürer.
+
+# kaynak: 4._Sınıf_Pediatri_Haluk_Çokuğraş_bog-kab.txt

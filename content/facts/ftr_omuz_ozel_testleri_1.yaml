@@ -1,0 +1,11 @@
+id: ftr_omuz_ozel_testleri_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Neer ve Hawkins testlerinin duyarlılık-özgüllük özelliği nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_kas_iskelet_muayene]
+metin: "Yüksek duyarlılıkla ancak düşük özgüllükle kullanılır."
+# kaynak: 5.sınıf_FTR_üst_ekstremite_muayene_dersi_son.txt, 5.sınıf_FTR_Enson_Omuz_Ağrıları.txt

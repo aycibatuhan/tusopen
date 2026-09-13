@@ -1,0 +1,11 @@
+id: kbb_eom_gozlem_ve_tup_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dil-konuşma gerilemeyen çocuktaki efüzyonlu otitte ilk 3 ay ne yapılır?"
+taksonomi:
+  - [ktbt, kbb, kbb_orta_kulak, kbb_ok_efuzyonlu_otit]
+metin: "Gözlem önerilir; bu sürede rutin işitme değerlendirmesi gerekmez."
+# kaynak: 5.sınıf_KBB_Deniz_Hoca_Ders_3._ORTA_KULAK_ENFEKSI_YO_Z_HASTALIKLARI.txt

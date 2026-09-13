@@ -1,0 +1,11 @@
+id: anat_pss_spinal_sinir_kok_rami_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Ön dal pleksusları ve kökleri?
+taksonomi:
+  - [ttbt, anatomi, anat_periferik_otonom, anat_pss_spinal_sinir_yapisi]
+metin: Cervicalis (C1-C4), brachialis (C5-T1), lumbalis (L1-L4) ve sacralis.
+# kaynak: 2._Sınıf_2.1_Anatomi_2.1._Periferik_sinir_sistemi_2018-19.txt, 1._Sınıf_1.1_Anatomi_2018.10.10__Sinir_Sistemi-2_(PSS).txt

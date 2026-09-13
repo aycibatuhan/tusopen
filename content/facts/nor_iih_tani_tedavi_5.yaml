@@ -1,0 +1,11 @@
+id: nor_iih_tani_tedavi_5
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "IIH tedavisinde kullanılan seçenekler nelerdir?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_idiopatik_intrakranial]
+metin: "LP, asetazolamid, topiramat ve gerekirse şant."
+# kaynak: 5.sınıf_Nöroloji_2020_Sekonder_BA.txt

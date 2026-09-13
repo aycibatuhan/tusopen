@@ -1,0 +1,11 @@
+id: mikro_am_direnc_mekanizmalari_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MRSA'nın penisiline direncinin temel mekanizması nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_direnc]
+metin: "Düşük afiniteli PBP2a ile hedef bölge değişikliği; VRE'de de hedef değişimi vardır."
+# kaynak: Antibiyotik_direnci_ve_önemi15.txt

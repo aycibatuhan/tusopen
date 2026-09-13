@@ -1,0 +1,11 @@
+id: dah_hemokromatoz_tani_flebotomi_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemokromatoziste tanıya yöneltan ve kesinleştiren eşikler nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_wilson_hemokromatoz]
+metin: "Transferrin doygunluğu %60 üzeri yöneltir; karaciğer demiri 2,5 mg/g üzeri kesinleştirir."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_METABOLİK_KARACİĞER_HASTALIKLARI.txt

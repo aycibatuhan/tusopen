@@ -1,0 +1,11 @@
+id: mikro_imm_sitokinler_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "TH17 hücreleri hangi sitokinle gelişir ve ne yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_sitokinler]
+metin: "IL-23 (IL-6+TGF-beta) ile gelişir; IL-17 ve IL-22 üreterek nötrofil-makrofaj çekimini başlatır."
+# kaynak: Hücre_aracılığı_ile_bağışık_yanıt.txt, Doğal_bağışıklık__mikropların_tanınması__mikropların_doğal_bağışıklıktan_kaçışı.txt, Mantarlara_karşı_immünite.txt

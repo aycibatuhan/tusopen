@@ -1,0 +1,10 @@
+id: fiz_kv_kalp_debisi_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kontraktilite artışı atım hacmini nasıl etkiler?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kalp_debisi]
+metin: "Aynı ön yükte daha büyük atım hacmi üretilir."

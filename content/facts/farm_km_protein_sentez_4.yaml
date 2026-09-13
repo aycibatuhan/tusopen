@@ -1,0 +1,10 @@
+id: farm_km_protein_sentez_4
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kloramfenikolün ciddi riski nedir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kemoterapotik, farm_km_protein_sentez]
+metin: "Aplastik anemi."

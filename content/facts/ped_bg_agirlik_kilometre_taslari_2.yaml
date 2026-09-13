@@ -1,0 +1,15 @@
+id: ped_bg_agirlik_kilometre_taslari_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Miad bebek kaç gram doğar ve ilk günlerde tartısının kaçını kaybeder?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: ~3300 g doğar; ilk 3-4 günde doğum tartısının %5-6'sını kaybeder.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

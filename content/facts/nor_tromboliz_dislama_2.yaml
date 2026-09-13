@@ -1,0 +1,11 @@
+id: nor_tromboliz_dislama_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "IV trombolizde laboratuvar dışlama eşikleri nelerdir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_akut_tedavi]
+metin: "Trombosit <100.000, INR >1,7, aPTT >1,5×normal; glukoz >400 veya <50 mg/dl."
+# kaynak: 5.sınıf_Nöroloji_Ischemic_Stroke__11.01.2023.txt, 5.sınıf_Nöroloji_nörolojik_aciller_ders.txt

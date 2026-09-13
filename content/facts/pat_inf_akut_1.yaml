@@ -1,0 +1,10 @@
+id: pat_inf_akut_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut inflamasyonda ilk 6-24 saatin hakim hücresi?"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_akut]
+metin: "Nötrofil granülosit; 24-48 saatte makrofajlar baskınlaşır."

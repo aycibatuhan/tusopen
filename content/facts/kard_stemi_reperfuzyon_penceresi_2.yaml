@@ -1,0 +1,11 @@
+id: kard_stemi_reperfuzyon_penceresi_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PKG yapmayan hastanede tromboliz kararı nasıl verilir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_reperfuzyon]
+metin: "PKG merkezine ulaşım-transfer süresi 120 dakikayı aşacaksa tromboliz verilir."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

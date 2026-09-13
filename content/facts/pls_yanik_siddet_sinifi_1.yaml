@@ -1,0 +1,11 @@
+id: pls_yanik_siddet_sinifi_1
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Küçük yanığın ölçütleri ve tedavi biçimi nedir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yanik, pce_ya_derecelendirme]
+metin: "Erişkinde %15'e, çocukta %10'a kadar II. derece; her iki yaşta %2'ye kadar III. derece; ayaktan tedavi edilir."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Yanık-DERS-2020.txt

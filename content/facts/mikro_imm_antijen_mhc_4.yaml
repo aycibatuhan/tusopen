@@ -1,0 +1,11 @@
+id: mikro_imm_antijen_mhc_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çapraz antijen sunumunu hangi hücre yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_antijen_mhc]
+metin: "Dendritik hücreler; yuttukları viral-tümöral antijenleri MHC-I ile CD8+'a sunar."
+# kaynak: 1-Antijen_yakalama_2020.txt, 2-Antijen_tanıma_2019.txt, Hücre_aracılığı_ile_bağışık_yanıt.txt

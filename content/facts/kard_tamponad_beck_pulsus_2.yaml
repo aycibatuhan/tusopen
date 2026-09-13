@@ -1,0 +1,11 @@
+id: kard_tamponad_beck_pulsus_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pulsus paradoksus tanımı nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_endokardit_miyokard_perikard, kard_em_perikardiyal_efuzyon_tamponad]
+metin: "Inspiryumda sistemik arter basıncının >10 mmHg düşmesidir."
+# kaynak: 5.sınıf_Kardiyoloji_Perikard_Hastalıkları_-_Prof.Dr.İbrahim_Keleş.txt

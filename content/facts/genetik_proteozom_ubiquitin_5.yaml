@@ -1,0 +1,14 @@
+id: genetik_proteozom_ubiquitin_5
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi viral protein E3 özelliği gösterir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_gen_ekspresyonu
+metin: Human papilloma virus E6.
+# kaynak: 1._Sınıf_1.2_Tıbbi_Biyoloji_Lizozom_Lizozomal_Hastalıklar_ve_Proteozom_(2018-19_Güz-M_Güven).txt

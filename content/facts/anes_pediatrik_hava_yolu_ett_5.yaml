@@ -1,0 +1,11 @@
+id: anes_pediatrik_hava_yolu_ett_5
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Doğumda hemoglobinin kaçında HbF vardır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_ozel_hasta, anes_oh_pediatrik]
+metin: "%80'i HbF'dir; 3-5 ayda HbA ile yer değiştirir."
+# kaynak: 4._Sınıf_Anestezi_1.txt

@@ -1,0 +1,11 @@
+id: dah_tip1dm_otoantikor_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Diyabetli baba mı anne mi çocuğa daha yüksek risk taşır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diyabet_siniflama]
+metin: "Baba %6,1; anne %2,0."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Tip1DM.txt

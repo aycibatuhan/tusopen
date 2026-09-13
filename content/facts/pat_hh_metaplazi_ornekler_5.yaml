@@ -1,0 +1,11 @@
+id: pat_hh_metaplazi_ornekler_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Epiteliyal metaplazilerin malignite açısından önemi?"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_adaptasyon]
+metin: "Reversibldır ancak prekanseröz kabul edilir."
+# kaynak: 1._Sınıf_1.4_Patoloji_2-CTF_hücre_ölümü.txt

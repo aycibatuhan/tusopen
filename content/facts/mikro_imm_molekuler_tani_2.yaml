@@ -1,0 +1,11 @@
+id: mikro_imm_molekuler_tani_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sinyal amplifikasyonu ile hedef amplifikasyonu farkı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_serolojik_testler]
+metin: "Sinyal amplifikasyonu (b-DNA, hybrid capture) nükleik asidi çoğaltmadan yakalar; hedef amplifikasyon artırır."
+# kaynak: Pratik_Tr.txt

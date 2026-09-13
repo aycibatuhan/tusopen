@@ -1,0 +1,11 @@
+id: mikro_am_direnc_mekanizmalari_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Karbapenemleri parçalayan beta-laktamaz örnekleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_direnc]
+metin: "Karbapenemazlar, örneğin NDM-1; aminoglikozidleri fosfotransferazlar değiştirir."
+# kaynak: Antibiyotik_direnci_ve_önemi15.txt

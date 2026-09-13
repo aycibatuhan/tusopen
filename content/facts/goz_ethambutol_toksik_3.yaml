@@ -1,0 +1,11 @@
+id: goz_ethambutol_toksik_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alkol-tütün ambliyopisi tedavisi nasıl yapılır?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_sistemik_ilac, goz_si_ilac_toksisitesi]
+metin: "10 hafta boyunca haftada 1000 mikrogram hidroksikobalamin enjeksiyonu."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Optik_Sinir_Hastalıkları.txt

@@ -1,0 +1,13 @@
+id: anat_endo_hipofiz_4
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hipofiz hipotalamusa nasıl bağlanır?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_endokrin
+  - anat_endo_hipofiz
+metin: Infundibulum sapı ile bağlanır.

@@ -1,0 +1,11 @@
+id: pls_yanik_derece_iyilesme_2
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "I. derece yanığın klinik özellikleri ve iyileşme süresi nedir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yanik, pce_ya_derecelendirme]
+metin: "Tipik güneş yanığı; ağrı-ödem-eritemle seyreder, 4-7 günde iz bırakmadan iyileşir."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Yanık-DERS-2020.txt

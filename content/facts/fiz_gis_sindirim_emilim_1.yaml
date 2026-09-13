@@ -1,0 +1,10 @@
+id: fiz_gis_sindirim_emilim_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Besin sindirim ürünlerinin emilimi esas olarak nerede gerçekleşir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_sindirim_emilim]
+metin: "İnce bağırsakta, villus ve mikrovillus yüzeyinde."

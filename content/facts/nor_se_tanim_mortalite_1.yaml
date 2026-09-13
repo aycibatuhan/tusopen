@@ -1,0 +1,11 @@
+id: nor_se_tanim_mortalite_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Status epileptikusun operasyonel tanımı nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_epilepsi, noro_ep_status]
+metin: "5 dakikadan uzun nöbet; veya bilinç düzelmeden tekrarlayan ≥2 nöbet."
+# kaynak: 5.sınıf_Nöroloji_staj_tedavi_2022_o_g_renci_kopya.txt

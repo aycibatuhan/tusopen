@@ -1,0 +1,11 @@
+id: dah_fena_bunkr_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "FENa prerenal azotemi ile ATN'yi nasıl ayırır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_akut_bobrek_hasari]
+metin: "FENa 1 altı volüm kaybını, 1 üzeri akut tübüler nekrozu destekler."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_S-V-VE_2.txt

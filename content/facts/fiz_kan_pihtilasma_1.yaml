@@ -1,0 +1,10 @@
+id: fiz_kan_pihtilasma_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pıhtılaşmanın iç ve dış yolları hangi faktörle başlar, hangi testlerle izlenir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_pihtilasma]
+metin: "İç yol faktör 12 (aPTT); dış yol doku faktörü (PT); faktör 10'da birleşir."

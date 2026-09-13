@@ -1,0 +1,11 @@
+id: kbb_tonsillofarenjit_ara_penisilin_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ARA epidemilerde ve endemik olgularda gelişme oranı nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_tonsillit_farenjit]
+metin: "Epidemide %3, endemik olgularda %0,3 (yalnız tonsillit sonrası)."
+# kaynak: 5.sınıf_KBB_2-TONSİL_FARENKS_VE_ADENOİD_BÖLGENİN_ENFEKSİYONLARI.txt

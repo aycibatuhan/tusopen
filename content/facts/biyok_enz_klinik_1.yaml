@@ -1,0 +1,10 @@
+id: biyok_enz_klinik_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Karaciğer hasarında en özgün enzim ve alkolik işaret nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_klinik]
+metin: "ALT en özgün; AST'nin belirgin yüksekliği alkolik karaciğer hastalığını düşündürür."

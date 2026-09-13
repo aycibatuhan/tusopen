@@ -1,0 +1,11 @@
+id: dah_kolestaz_ilk_adim_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ALP yükselmesinde kolestaz yorumu nasıl yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_kc_testleri]
+metin: "ALP 4-10 kat artabilir; 3 kat altı özgün değildir, GGT 5 kat üzeri daha değerlidir."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Dahiliye_İBRAHİM_HATEMİ-kolestaz_ve_sarılıklar.txt

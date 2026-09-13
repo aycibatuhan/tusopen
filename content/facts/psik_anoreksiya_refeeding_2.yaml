@@ -1,0 +1,11 @@
+id: psik_anoreksiya_refeeding_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anoreksiyada yeniden besleme nasıl yapılmalıdır?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_yeme_uyku_cinsel, psik_yu_anoreksiya]
+metin: "Yavaş kilo restorasyonu, sık elektrolit ölçümü ve tiamin desteğiyle."
+# kaynak: 5.sınıf_PSİKİYATRİ_Yeme_bozuklukları.txt

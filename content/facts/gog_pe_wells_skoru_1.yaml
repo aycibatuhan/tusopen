@@ -1,0 +1,11 @@
+id: gog_pe_wells_skoru_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Wells skorunda kriterlerin puanları nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_vaskuler, gog_vas_pulmoner_emboli]
+metin: "DVT bulgusu ve düşük alternatif tanı 3'er; nabız 100 üstü, immobilizasyon-cerrahi, eski öykü 1,5'er; hemoptizi-kanser 1'er."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_PULMONER_EMBOLİ_2022_ders.txt

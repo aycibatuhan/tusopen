@@ -1,0 +1,11 @@
+id: fiz_kas_kalp_ozellikler_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kalp kasında SR kalsiyum salınımı nasıl tetiklenir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_kalp]
+metin: "Hücre dışından giren Ca++'nın yüzde 10-20'si riyanodin reseptörlerini uyarır."
+# kaynak: 17-18.1.Kalp_Kasının_Hücresel_ve_Elektriksel_Özellikleri__Kasılma_ve_Gevşemesinin_İyonik_Temelleri.txt, 2._Sınıf_2.2_Fizyoloji_Kalp_1._ders.txt

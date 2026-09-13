@@ -1,0 +1,13 @@
+id: gc_tp_postoperatif_komplikasyon_4
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Paralitik ileus ne kadar sürede çözülür?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_postoperatif_komplikasyon
+metin: Genellikle 3-5 günde; süreyi aşarsa mekanik obstrüksiyon/kaçak dışlanır.

@@ -1,0 +1,11 @@
+id: fiz_hucre_tonisite_ozmolalite_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipertonik çözeltilerin hücre hacmi üzerine etkisi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_membran]
+metin: "Hücreleri büzer; izotonikler değiştirmez, hipotonikler şişirir."
+# kaynak: 4-5._Ders_2-ICF_ve_ECF_Arasında_Sıvı_Değişimi.txt, 11-Membran_transport_mekanizmaları.txt

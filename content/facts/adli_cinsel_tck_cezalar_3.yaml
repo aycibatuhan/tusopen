@@ -1,0 +1,11 @@
+id: adli_cinsel_tck_cezalar_3
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "15 yaşını tamamlamamış çocukla cinsel davranış suç mudur?"
+taksonomi:
+  - [ktbt, adli_tip, adl_klinik_adli_durumlar, adl_kd_cinsel_suc_muayene]
+metin: "Rıza olsa bile suçtur; TCK 104'te 15 yaşını bitirmişle ilişki 2-5 yıl."
+# kaynak: 5.sınıf_Adli_Tıp_CİNSEL_SALDIRI_DOÇ._DR._BERNA_ŞENEL_ERASLAN.txt

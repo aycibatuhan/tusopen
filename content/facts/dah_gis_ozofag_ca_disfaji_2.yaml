@@ -1,0 +1,11 @@
+id: dah_gis_ozofag_ca_disfaji_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Özofagus kanserlerinin çoğunluğu hangi tip ve risk faktörüyledir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_ozofajit]
+metin: "%90-95 skuamöz hücreli; alkol ve sigara güçlü ilişkilidir."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_Özofagus_Hastalıkları-4.Sınıf-Prof.Dr.Murat_TUNCER_.txt

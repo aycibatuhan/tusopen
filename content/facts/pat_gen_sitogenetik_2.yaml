@@ -1,0 +1,10 @@
+id: pat_gen_sitogenetik_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klinefelter sendromunun bulguları nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_genetik, pat_gen_sitogenetik]
+metin: "47,XXY; testis atrofisi, jinekomasti, kısırlık."

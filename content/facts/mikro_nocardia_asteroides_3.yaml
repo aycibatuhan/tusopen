@@ -1,0 +1,11 @@
+id: mikro_nocardia_asteroides_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nokardiyozda hematojen yayılımın en sık sonucu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_aktinomiset_nokardiya]
+metin: "Hastaların yaklaşık 1/3'ünde beyin apsesi gelişir."
+# kaynak: Nocardia__Actinomyces.txt

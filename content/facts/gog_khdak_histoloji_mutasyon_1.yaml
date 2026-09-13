@@ -1,0 +1,11 @@
+id: gog_khdak_histoloji_mutasyon_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Küçük hücreli dışı akciğer kanserinde histolojik dağılım nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_neoplazi, gog_neo_kucuk_hucreli_disi]
+metin: "Adenokarsinom %40, epidermoid %25, büyük hücreli %10; küçük hücreli ~%15."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer_Kanseri_Dönem_5-29.08.2022.txt

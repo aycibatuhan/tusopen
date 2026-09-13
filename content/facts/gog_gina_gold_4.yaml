@@ -1,0 +1,18 @@
+id: gog_gina_gold_4
+version: 1
+status: draft
+author: ai-drafts/gogus
+sources:
+- GINA 2024 ve GOLD 2024 strateji raporları — referans adı olarak listelendi; metin projenin özgün
+  yazımıdır
+ad: "GOLD 2024'te başlangıç tedavisi gruplara göre nedir?"
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_astim
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_koah
+metin: "A'da bronkodilatör, B ve E'de LABA+LAMA; eozinofil 300 ve üzerinde ICS'li üçlü."

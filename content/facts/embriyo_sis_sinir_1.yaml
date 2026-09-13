@@ -1,0 +1,13 @@
+id: embriyo_sis_sinir_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Nöral tüpün beş beyin vezikülü hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_sinir
+metin: Telensefalon, diencefalon, mezensefalon, metensefalon ve miyelensefalon.

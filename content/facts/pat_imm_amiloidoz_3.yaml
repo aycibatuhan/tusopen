@@ -1,0 +1,10 @@
+id: pat_imm_amiloidoz_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AL amiloidozun öncül proteini nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_immun, pat_imm_amiloidoz]
+metin: "Plazma hücre neoplazilerinde immünglobulin hafif zincirleri."

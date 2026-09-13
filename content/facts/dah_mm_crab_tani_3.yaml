@@ -1,0 +1,11 @@
+id: dah_mm_crab_tani_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Multipl miyelom tanısı için kemik iliği eşiği nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_multipl_miyelom]
+metin: "%10 ve üzeri klonal plazma hücresi veya biyopsiyle plazmasitom."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_mm_dersi_10122021.txt

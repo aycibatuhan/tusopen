@@ -1,0 +1,14 @@
+id: histo_kan_granulositer_seri_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Miyeloblasttan dolaşıma katılan olgun nötrofile kadar geçen süre?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kan_hematopoez
+  - histo_kan_kemik_iligi
+metin: Yaklaşık 10-14 gün.
+# kaynak: 1._Sınıf_1.3_Histoloji_Hematopoez_G.TANRIVERDİ.txt

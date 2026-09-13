@@ -1,0 +1,15 @@
+id: enf_herpes_ensefalit_asil_tani_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Dünyada en sık görülen ölümcül sporadik ensefalit hangisidir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_mss
+  - enf_mss_ensefalit
+metin: Herpes ensefalitidir (HSV-1).
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt

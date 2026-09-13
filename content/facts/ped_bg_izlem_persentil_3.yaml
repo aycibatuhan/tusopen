@@ -1,0 +1,15 @@
+id: ped_bg_izlem_persentil_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Beslenme yetersizliğinin ilk uyarı işareti nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: Tartı artışının duraklaması; boy büyüme hızının düşmesi bunu izler.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜMENİN_DEĞERLENDİRİLMESİ_ve_İZLENMESİ-Sınıf_4.txt

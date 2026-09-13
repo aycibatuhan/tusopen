@@ -1,0 +1,14 @@
+id: genetik_od_risk_danismanlik_1
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Eksik penetranslı AD kalıtımda taşıyanın aktarma olasılığı?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_danismanlik
+metin: '%50; bulgu göstermese de mutant alleli aktarabilir.'
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_Genetik_Danışma_TÜRKÇE.txt

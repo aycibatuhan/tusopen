@@ -1,0 +1,11 @@
+id: der_urtiker_klinik_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ürtikerde tek kabarıklık ne kadar sürede kaybolur?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_urtiker_ilac, derm_ui_urtiker_anjioodem]
+metin: "24 saatten kısa sürede, yerinde iz bırakmadan kaybolur."
+# kaynak: 5.sınıf_Dermatoloji_u_rtiker_ders.txt

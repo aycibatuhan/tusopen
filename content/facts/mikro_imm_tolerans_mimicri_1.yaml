@@ -1,0 +1,11 @@
+id: mikro_imm_tolerans_mimicri_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Merkezi ve periferik immün tolerans mekanizmaları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_tolerans_otoimmunite]
+metin: "Merkezi: timus-kemik iliğinde silme; periferik: anerji, Treg baskılaması, aktivasyona bağlı apoptoz."
+# kaynak: 4-Mikroorganizma_Otoimmünite_2019.txt, 2-Antijen_tanıma_2019.txt

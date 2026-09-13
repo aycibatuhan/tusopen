@@ -1,0 +1,44 @@
+id: anat_endo_hipofiz_3
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Adenohipofiz ve nörohipofiz nereden gelişir?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_endokrin
+  - anat_endo_hipofiz
+metin: Adenohipofiz Rathke kesesinden, nörohipofiz nöroektodermden; ADH-oksitosin arka lobta depolanır.
+gorsel:
+  dosya: 1806_The_Hypothalamus-Pituitary_Complex.jpg
+  kaynak: https://commons.wikimedia.org/wiki/File:1806_The_Hypothalamus-Pituitary_Complex.jpg
+  lisans: CC BY 3.0
+  yazar: OpenStax College (Anatomy & Physiology, Connexions)
+  etiketler:
+  - ad: Talamus
+    x: 62
+    y: 49
+    w: 19
+    h: 10
+  - ad: Hipotalamus
+    x: 55
+    y: 59
+    w: 13
+    h: 12
+  - ad: İnfundibulum (hipofiz sapı)
+    x: 55
+    y: 68
+    w: 9
+    h: 9
+  - ad: Adenohipofiz (ön lob)
+    x: 49
+    y: 73
+    w: 8
+    h: 8
+  - ad: Nörohipofiz (arka lob)
+    x: 55
+    y: 77
+    w: 7
+    h: 8

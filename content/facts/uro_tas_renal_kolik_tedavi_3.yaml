@@ -1,0 +1,11 @@
+id: uro_tas_renal_kolik_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Renal kolihte girişim endikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, uroloji, uro_tas_hastaligi, uro_tas_renal_kolik]
+metin: "Yanıt vermeyen ağrı, inatçı ateş, fonksiyon bozulması; double-J stent veya nefrostomi."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt, 4._Sınıf_Üroloji_Ders_5-UROLITHIASIS-_Bulent_Onal.txt

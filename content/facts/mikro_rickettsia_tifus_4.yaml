@@ -1,0 +1,11 @@
+id: mikro_rickettsia_tifus_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rickettsia enfeksiyonlarında referans serolojik yöntem ve tedavi nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_rickettsia]
+metin: "Mikroimmünofloresan (MIF) referans yöntemdir; tedavide tetrasiklin."
+# kaynak: Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

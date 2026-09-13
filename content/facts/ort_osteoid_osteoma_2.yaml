@@ -1,0 +1,11 @@
+id: ort_osteoid_osteoma_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteoid osteomada nidusun direkt grafi görünümü nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kemik_tumorleri, orto_kt_benign]
+metin: "Kortekste 2-5 mm'lik yuvarlak radyolüsent odak; çevresinde skleroz."
+# kaynak: 5.sınıf_Ortopedi_Selim_Kemik_Tümörleri.txt

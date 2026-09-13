@@ -1,0 +1,13 @@
+id: histo_sin_miyelin_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ranvier boğumları nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sinir
+  - histo_sin_miyelin
+metin: Miyelinli liflerde akson zarının yalnızca dış ortama açık olduğu aralıklar.

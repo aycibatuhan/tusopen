@@ -1,0 +1,10 @@
+id: fiz_gis_hormonlar_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sekretin nereden salgılanır ve neyi uyarır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_hormonlar]
+metin: "Duodenumdaki S hücrelerinden; pankreas bikarbonat salgısını uyarır."

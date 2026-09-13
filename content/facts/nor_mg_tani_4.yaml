@@ -1,0 +1,11 @@
+id: nor_mg_tani_4
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MG'de timektomi ne zaman zorunludur?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_miyastenia]
+metin: "Timoma saptandığında (hastaların %10-15'inde)."
+# kaynak: 5.sınıf_Nöroloji_NÖROMUSKÜLER_BİLEŞKE.txt

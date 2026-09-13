@@ -1,0 +1,11 @@
+id: farm_an_hormonal_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tamoksifenin mekanizması ve kullanımı?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_antineoplastik, farm_an_hormonal]
+metin: "Östrojen reseptöründe kompetitif blok; premenopozal-postmenopozal metastatik meme kanseri."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.4_Farmakoloji_2.4_Farmakoloji_04_Antineoplastikler..Sibel_ÖZYAZGAN.txt

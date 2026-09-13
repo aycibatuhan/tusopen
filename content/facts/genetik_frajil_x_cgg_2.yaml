@@ -1,0 +1,14 @@
+id: genetik_frajil_x_cgg_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Frajil X'te premutasyon kaç CGG tekrarıdır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_mendelian_kalitim
+metin: 55-200; tam mutasyon 200'den fazla, normal 5-44.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_1_Mendeliyan_Hastalıklar_2020_2021.txt, 3._Sınıf_3.2_Tıbbi_genetik_2_Non-Mendeliyen_Hastalıklar_2020.txt, 3._Sınıf_3.2_Tıbbi_genetik_Frajil-X_Tıp_Öğr.2020.txt

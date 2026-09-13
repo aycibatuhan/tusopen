@@ -1,0 +1,14 @@
+id: gc_adr_feokromositoma_5
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Feokromositoma hipertansif krizinde hangi ilaç kullanılır?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_adrenal_endokrin
+  - gc_adr_feokromositoma
+metin: Fentolamin (alternatif nitroprussid).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Varol_Çelik_ADRENAL_HASTALIKLARI_2020.txt

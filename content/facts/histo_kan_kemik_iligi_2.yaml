@@ -1,0 +1,13 @@
+id: histo_kan_kemik_iligi_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Megakaryosit olgunlaşmasını hangi hormon düzenler?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kan_hematopoez
+  - histo_kan_kemik_iligi
+metin: Trombopoietin; tek megakaryosit binlerce trombosit üretebilir.

@@ -1,0 +1,14 @@
+id: gc_meme_jinekomasti_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kaç yaş altındaki jinekomasti malignite açısından dikkat gerektirir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_meme
+  - gc_meme_ozel_durumlar
+metin: 10 yaş altı.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Osman_Baran_Tortum_selim_meme_hastalıkları_7-8_ocak_2019.txt

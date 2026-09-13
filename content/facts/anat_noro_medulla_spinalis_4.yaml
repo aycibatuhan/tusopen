@@ -1,0 +1,10 @@
+id: anat_noro_medulla_spinalis_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Yetişkinde medulla spinalis hangi düzeyde sonlanır?
+taksonomi:
+  - [ttbt, anatomi, anat_noroanatomi, anat_noro_medulla_spinalis]
+metin: L1-L2 düzeyinde; altında kauda equina kökleri bulunur.

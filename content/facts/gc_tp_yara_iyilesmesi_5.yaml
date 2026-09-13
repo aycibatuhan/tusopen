@@ -1,0 +1,13 @@
+id: gc_tp_yara_iyilesmesi_5
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kolajen hidroksilasyonu için hangi vitamin gerekir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_yara_iyilesmesi
+metin: C vitamini (sentez için çinko gerekir).

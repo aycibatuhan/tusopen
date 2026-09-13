@@ -1,0 +1,11 @@
+id: kard_pah_vazoreaktivite_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vazoreaktivite testinin pozitif yanıt ölçütü nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_pulmoner_hipertansiyon, kard_ph_pah_tedavi]
+metin: "Kalp debisi korunurken mPAB'nin >10 mmHg azalıp <40 mmHg'ye inmesidir."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

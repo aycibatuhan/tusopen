@@ -1,0 +1,11 @@
+id: anat_bas_pterygopalatina_baglanti_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Fossa pterygopalatina hangi kemikler arasındadır ve içeriği nedir?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_pterigopalatin]
+metin: Maxilla, os palatinum ve os sphenoidale arasında; a. maxillaris uç dalları, n. maxillaris, ganglion pterygopalatinum.
+# kaynak: 2._Sınıf_2.1_Anatomi_baş_bütünü.txt

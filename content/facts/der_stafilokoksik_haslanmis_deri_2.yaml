@@ -1,0 +1,11 @@
+id: der_stafilokoksik_haslanmis_deri_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Haşlanmış deri sendromunda ayrışma düzeyi neresidir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bakteriyel, derm_bk_stafilokoksik_toksin]
+metin: "Stratum spinosum-granülozum düzeyi (yüzeyel); Grup 2 stafilokok ekzotoksinine bağlıdır."
+# kaynak: 5.sınıf_Dermatoloji_ZK-PİYODERMA.txt

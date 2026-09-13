@@ -1,0 +1,10 @@
+id: fiz_hucre_membran_potansiyeli_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sodyum-potasyum pompası her turda ne taşır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_membran_potansiyeli]
+metin: "Üç sodyumu dışarı, iki potasyumu içeri; iyon gradyanlarını yeniler."

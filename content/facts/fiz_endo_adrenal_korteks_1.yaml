@@ -1,0 +1,10 @@
+id: fiz_endo_adrenal_korteks_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adrenal korteksin zonları ve salgıladıkları hormonlar nelerdir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_adrenal_korteks]
+metin: "Zona glomerüloza aldosteron (RAAS), fasikülata kortizol, retikülaris androjen (ACTH)."

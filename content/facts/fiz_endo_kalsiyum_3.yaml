@@ -1,0 +1,10 @@
+id: fiz_endo_kalsiyum_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aktif D vitamini bağırsakta ne yapar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_kalsiyum]
+metin: "Kalsiyum ve fosfat emilimini artırır."

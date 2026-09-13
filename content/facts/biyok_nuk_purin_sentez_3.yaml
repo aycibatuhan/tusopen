@@ -1,0 +1,10 @@
+id: biyok_nuk_purin_sentez_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipoksantin-guanin fosforiboziltransferaz eksikliği ne yapar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_nukleotid, biyok_nuk_purin_sentez]
+metin: "Geri dönüşüm yolunu çökertir; Lesch-Nyhan sendromu görülür."

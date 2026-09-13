@@ -1,0 +1,10 @@
+id: biyok_aam_hem_sentez_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hem sentezinin hız kısıtlayıcı enzimi ve kofaktörü nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_hem_sentez]
+metin: "Mitokondriyel ALA sentaz; glisin + süksinil-KoA, kofaktör piridoksal fosfat."

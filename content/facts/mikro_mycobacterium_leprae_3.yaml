@@ -1,0 +1,11 @@
+id: mikro_mycobacterium_leprae_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tüberküloid ve lepramatöz lepranın ayırt edici bulguları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_leprae]
+metin: "Tüberküloid: az basil, tam duyu kaybı, lepromin pozitif; lepramatöz: bol basil, aslan yüzü, lepromin negatif."
+# kaynak: Mycobacterium_leprae.txt

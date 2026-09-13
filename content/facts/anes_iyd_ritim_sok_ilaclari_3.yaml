@@ -1,0 +1,11 @@
+id: anes_iyd_ritim_sok_ilaclari_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İYDde amiodaron şeması nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_resusitasyon, anes_rs_ileri_yasam]
+metin: "3. şok sonrasında 300 mg IV; gerekiyorsa 3-5 dakika içinde 150 mg ile tekrarlanır."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Kardiyopulmner_resüsitasyon4_sınıf_ders.txt

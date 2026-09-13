@@ -1,0 +1,10 @@
+id: fiz_gis_sindirim_emilim_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Demir, B12 ve safra asitleri nerede emilir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_sindirim_emilim]
+metin: "Demir duodenumda ferrous biçimde; B12 ve safra asitleri terminal ileumda."

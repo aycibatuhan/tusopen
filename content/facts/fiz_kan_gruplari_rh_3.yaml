@@ -1,0 +1,11 @@
+id: fiz_kan_gruplari_rh_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RhoGAM ne zaman ve hangi süre içinde uygulanır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_gruplari]
+metin: "İlk Rh(+) bebek doğumundan sonra ilk 72 saat içinde."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt

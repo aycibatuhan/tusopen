@@ -1,0 +1,11 @@
+id: ort_looser_zonesi_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Raşitizm ve osteomalazide psödokırık (Looser zonları) nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_metabolik_kemik, orto_mk_rasitizm_osteomalazi]
+metin: "Kompresyon tarafında gelişen psödokırık; erişkinde Milkman kırığı adını alır."
+# kaynak: 5.sınıf_Ortopedi_metabolic_bone_disease.txt

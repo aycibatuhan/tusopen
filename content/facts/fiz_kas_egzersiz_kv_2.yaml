@@ -1,0 +1,11 @@
+id: fiz_kas_egzersiz_kv_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Neden izometrik egzersiz kardiyak risk bakımından yüksektir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_egzersiz]
+metin: "Kasılma damarları sıkıştırır, diyastolik basınç hızla artar, kalbin O2 ihtiyacı çok artar."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Egzersiz___Kroner.txt, 2._Sınıf_2.3_Fizyoloji_2019_Solunum_2._Bölüm.txt

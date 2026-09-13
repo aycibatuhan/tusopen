@@ -1,0 +1,15 @@
+id: ped_bes_fosfopenik_rasitizm_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: D vitamini dirençli raşitizm tip 2'nin klasik bulgusu nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_rasitizm
+metin: Olguların yaklaşık üçte ikisinde alopesi; yüksek doz kalsitriol + kalsiyum gerekir.
+
+# kaynak: 4._Sınıf_Pediatri_Elvan_Bayramoğlu_Rikets_ve_D_vitamini_eksikliği_ders_4.txt

@@ -1,0 +1,11 @@
+id: nuk_mps_iskemi_infarkt_ayrimi_2
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MPS'te stres nasıl sağlanır ve radyonüklid ne zaman enjekte edilir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_kardiyak, nt_kd_miyokard_perfuzyon]
+metin: "Egzersizde hedef kalp hızının %85'i aşıldığında; yapılamazsa adenozin, dipiridamol, dobutamin veya regadenoson ile farmakolojik stres."
+# kaynak: 5.sınıf_Nükleer_Tıp_MPS_Türkçe_22-23.txt

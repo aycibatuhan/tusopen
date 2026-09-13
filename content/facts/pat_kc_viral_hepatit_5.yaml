@@ -1,0 +1,10 @@
+id: pat_kc_viral_hepatit_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hepatit D ve E'nin özellikleri nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_karaciger_safra, pat_kc_viral_hepatit]
+metin: "D, HBV'ye bağımlı ve fulminan riski artırır; E gebelerde fulminan olabilir."

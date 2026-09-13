@@ -1,0 +1,15 @@
+id: enf_gonokokal_artrit_tablo_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Non-gonokokal bakteriyel septik artritte en sık eklem yerleşimi neresidir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_septik_artrit_protez
+metin: Diz (%40-50) ve kalça.
+
+# kaynak: 2._Sınıf_2.1_Enfeksiyon_septik_artrit_ve_osteomyelit_2019.txt

@@ -1,0 +1,14 @@
+id: histo_lenf_timus_gelisimi_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kan-timus bariyerini hangi hücreler oluşturur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_lenfoid
+  - histo_lenf_timus
+metin: Korteksteki tip I epitelioretiküler hücreler; sürekli kapiller kalın bazal laminası ve perivasküler bağ dokusuyla desteklenir.
+# kaynak: 2._Sınıf_2.4_1.vize_Histoloji_İMMÜN_SİSTEM-2018.txt

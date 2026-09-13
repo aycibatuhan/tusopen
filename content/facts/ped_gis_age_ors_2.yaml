@@ -1,0 +1,15 @@
+id: ped_gis_age_ors_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Rehidrasyon fazında ORS dozları nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gastroenteroloji
+  - ped_gis_akut_gastroenterit
+metin: Hafif olguda 4 saatte 50 ml/kg, orta derecede 4 saatte 100 ml/kg ORS; ilk saatteki hedef 10-15 ml/kg.
+
+# kaynak: 4._Sınıf_Pediatri_Sinem_Oral_Cebeci_4sınıf-dehid-slayt.txt

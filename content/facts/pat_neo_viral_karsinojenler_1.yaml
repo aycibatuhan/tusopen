@@ -1,0 +1,11 @@
+id: pat_neo_viral_karsinojenler_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Genital siğil yapan HPV tipleri hangileridir?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_karsinojenler]
+metin: "Düşük riskli tip 6 ve 11."
+# kaynak: 1._Sınıf_1.4_Patoloji_iremonur_kimyasal_viral_karsinogenez.txt

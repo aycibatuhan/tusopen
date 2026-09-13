@@ -1,0 +1,11 @@
+id: biyok_min_diger_eser_elementler_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kromun insülin ilişkisi ve eksiklik sonucu nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_mineral_eser]
+metin: "Glukoz tolerans faktörü olarak reseptör bağlanmasını kolaylaştırır; eksikliği ateroskleroz yapar."
+# kaynak: 1._Sınıf_1.2_Biyokimya_eser_element-_özlem_2018.txt, 1._Sınıf_1.2_Biyokimya_VİTAMİNLER_2018.txt

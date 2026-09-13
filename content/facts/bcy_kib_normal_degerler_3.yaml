@@ -1,0 +1,11 @@
+id: bcy_kib_normal_degerler_3
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serebral perfüzyon basıncı nasıl hesaplanır ve hedefi nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_intrakraniyal_basinc, bce_ib_artmasi_ve_tedavi]
+metin: "CPP = MAP - KİB; 60-80 mmHg üzerinde tutulmalıdır."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Ödemi_ve_KİBAS_S.T.txt

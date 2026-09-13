@@ -1,0 +1,10 @@
+id: mikro_gpb_corynebacterium_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Difteri toksin geni nasıl taşınır ve nasıl saptanır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_corynebacterium]
+metin: "Bakteriyofaj taşır; toksin üretimi Elek testiyle, tox geni PCR ile saptanır."

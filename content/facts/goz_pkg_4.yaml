@@ -1,0 +1,11 @@
+id: goz_pkg_4
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Primer konjenital glokomda öncelikli tedavi nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_glokom, goz_gl_konjenital]
+metin: "Gonyotomi ve trabekülotomi gibi açı cerrahileri."
+# kaynak: 5.sınıf_Göz_Hastalıkları_konjenital_glokom_Türkçe__OZCAN_OCAKOGLU_.txt

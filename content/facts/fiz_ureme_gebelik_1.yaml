@@ -1,0 +1,10 @@
+id: fiz_ureme_gebelik_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebelikte progesteron üretimi ilk dönemde kime bağlıdır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_ureme, fiz_ureme_gebelik]
+metin: "hCG korpus luteumu 8-10 hafta sürdürür; sonra plasenta devralır."

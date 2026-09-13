@@ -1,0 +1,15 @@
+id: enf_sitma_profilaksi_rejimler_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Klorokin duyarlı bölgede sıtma kemoprofilaksisi nasıl yapılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_asilar_seyahat
+  - enf_as_seyahat
+metin: Klorokin 500 mg haftada bir; geziye 1-2 hafta önce başlanır, dönüşten sonra 4 hafta devam edilir.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sıtma_ve_Seyahatla_İlişkili_Enfeksiyonlar.txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Antimikkemoprofilaksison.txt

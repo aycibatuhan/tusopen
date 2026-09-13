@@ -1,0 +1,11 @@
+id: kard_af_antikoagulasyon_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CHA2DS2-VASc skoruna göre antikoagülasyon eşikleri nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_aritmiler, kard_ar_atriyal_fibrilasyon]
+metin: "0: gerekmez; erkek 1/kadın 2: Sınıf IIb; erkek ≥2/kadın ≥3: Sınıf I."
+# kaynak: 5.sınıf_Kardiyoloji_Aritmi_Ders_Cerrahpas_a_2021-22.txt

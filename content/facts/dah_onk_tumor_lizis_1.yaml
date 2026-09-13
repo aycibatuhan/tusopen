@@ -1,0 +1,10 @@
+id: dah_onk_tumor_lizis_1
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Laboratuvar tümör lizis sendromu eşiği nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_tumor_lizis]
+metin: "K >6, fosfor 6,5 üzeri, kalsiyum 7 altı, ürik asit 8 üzeri; en az ikisi."

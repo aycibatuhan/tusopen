@@ -1,0 +1,15 @@
+id: enf_kan_kulturu_kontaminant_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kan kültürü ne zaman ve kaç set alınır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_genel_yaklasim
+  - enf_gy_tani_yontemleri
+metin: Antibiyotik başlanmadan önce, klinik değerlendirmeden hemen sonra; tercihen iki set, stabil olmayan hastada geciktirilmez.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Sistemlere_göre_sık_enfeksiyonlar.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotik_2019.txt

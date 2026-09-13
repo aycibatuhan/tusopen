@@ -1,0 +1,15 @@
+id: ped_acil_sivi_idame_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Holliday-Segar'da 20 kg üstü çocuğun idame sıvısı nasıl hesaplanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_sivi_tedavisi
+metin: 1500 ml/gün + 20 kg üzeri her kg için 20 ml/gün (60 ml/saat + her ek kg için 1 ml/saat).
+
+# kaynak: 4._Sınıf_Pediatri_Sinem_Oral_Cebeci_4sınıf-dehid-slayt.txt

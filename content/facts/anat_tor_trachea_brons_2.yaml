@@ -1,0 +1,11 @@
+id: anat_tor_trachea_brons_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Sağ ve sol ana bronşun ölçüleri?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_ozofagus_trakea]
+metin: Sağ 2,5 cm, 1,5 cm çap, 25°; sol 5 cm, 1 cm çap, 40° açı ile.
+# kaynak: 2._Sınıf_2.3_Anatomi_2019_Solunum_Sistemi.txt

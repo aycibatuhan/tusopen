@@ -1,0 +1,11 @@
+id: anat_dol_carotis_end_arter_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: End-arter (terminal arter) örnekleri hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_dolasim, anat_dol_arter_genel]
+metin: A. lienalis, a. renalis, a. hepatica propria, a. bronchialis, aa. jejunales, a. centralis retinae ve beyin arterlerinin central dalları.
+# kaynak: 1._Sınıf_1.1_Anatomi_2018.10.01__Dolaşım_Sistemi.txt, 2._Sınıf_2.2_anatomi_2002-Anatomi-_Dolasim_sis.ve_Kalp-Ders_PPT-_16.10.2014.txt

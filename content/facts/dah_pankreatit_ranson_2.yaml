@@ -1,0 +1,11 @@
+id: dah_pankreatit_ranson_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut pankreatitte 48 saat içindeki kötü prognoz bulguları nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_akut_pankreatit]
+metin: "Hematokritte %10 düşme, BUN 5 mg artış, PO2 60 altı, kalsiyum 8 altı, baz eksiği 4 üzeri, 6 L sıvı kaybı."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_Akut_ve_kronik_pankreatitler-4.Sınıf-Prof.Dr.Murat_TUNCER.txt

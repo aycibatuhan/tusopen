@@ -1,0 +1,15 @@
+id: enf_purulan_menenjit_acil_tedavi_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Pürülan menenjit kuşkusunda acilde ne yapılmalıdır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_mss
+  - enf_mss_akut_bakteriyel_menenjit
+metin: Hasta merkeze gönderilmeden önce 30 dakika içinde seftriakson 2x2 g/gün IV başlanmalıdır.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Anamnez_FM.txt

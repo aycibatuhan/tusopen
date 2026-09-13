@@ -1,0 +1,11 @@
+id: dah_divertikulit_hinchey_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Divertikülit atağından sonra kolonoskopi ne zaman ve neden yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_divertikuler]
+metin: "3 hafta sonra; altta yatan kolorektal kanseri ekarte etmek için."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_GIS_Polipleri_ve_Divertiküler_hastalık_TUR.txt

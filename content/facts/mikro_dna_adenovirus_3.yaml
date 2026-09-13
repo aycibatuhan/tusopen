@@ -1,0 +1,11 @@
+id: mikro_dna_adenovirus_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çocuklarda viral gastroenteritlerde rotavirüsten sonraki etken nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_adenovirus]
+metin: "Adenovirüs F grubu 40 ve 41 serotipleri ikinci sıradadır."
+# kaynak: Adenovirus_parvo.txt

@@ -1,0 +1,15 @@
+id: ped_kar_tga_fallot_5
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Fallot hipoksik nöbeti nasıl tedavi edilir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_siyanotik
+metin: Diz-göğüs pozisyonu, 0,2 mg/kg morfin, 0,1 ile 0,2 mg/kg arası propranolol ve sodyum bikarbonat.
+
+# kaynak: 4._Sınıf_Pediatri_Reyhan_Dedeoğlu_Siyanotik_Kalp_hastalıkları_16_Eylül-2021_R.txt

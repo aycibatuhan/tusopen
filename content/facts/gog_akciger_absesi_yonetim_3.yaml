@@ -1,0 +1,11 @@
+id: gog_akciger_absesi_yonetim_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akciğer absesinde antibiyotik tedavisi nasıl yapılır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_aspirasyon_abse]
+metin: "Penisilin veya klindamisinle 6-8 hafta; mortalite %10'un altına iner."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer.absesi.V.txt

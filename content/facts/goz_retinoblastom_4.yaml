@@ -1,0 +1,11 @@
+id: goz_retinoblastom_4
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Retinoblastomda en sık ikinci malignite nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_retinoblastom]
+metin: "Osteosarkom; özellikle eksternal radyoterapi alan germline mutasyonlularda."
+# kaynak: 5.sınıf_Göz_Hastalıkları_goz_ıcı_tumorleri.txt

@@ -1,0 +1,14 @@
+id: embriyo_gen_plasenta_villus_evreleri_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tersiyer (kalıcı) villus nasıl oluşur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_plasenta_zarlar
+metin: 3. haftanın sonunda villus içi mezodermden kan damarları ve kan hücreleri farklılaşmasıyla.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_Gastrulasyon_(Trilaminer_Germ_Diski)-2016.txt, 1._Sınıf_1.3_Embriyoloji_gelişimin_ikinci_haftası_bilaminar_germ_diski.txt

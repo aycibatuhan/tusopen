@@ -1,0 +1,15 @@
+id: enf_hepatit_kulucka_sureleri_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akut viral hepatitte transaminazlar ne kadar yükselir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_viral_hepatit
+  - enf_vh_hepatit_a_e
+metin: 8-10 kat artar; ALT AST'den yüksektir, alkalen fosfataz artışı 3 katın altında kalır.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Viralhepatitler_(5.sınıf).txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Enfeksiyon_Viral_Hepatitler_-FEHMİ_TABAK.txt

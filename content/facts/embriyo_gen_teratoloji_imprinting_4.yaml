@@ -1,0 +1,14 @@
+id: embriyo_gen_teratoloji_imprinting_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Barr cisimciği nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_teratoloji
+metin: Somatik hücrelerde DNA metilasyonuyla susturulan, yoğunlaşmış inaktif X kromozomu.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_gelişimin_ikinci_haftası_bilaminar_germ_diski.txt, 1._Sınıf_1.3_Embriyoloji_2.GAMETOGENEZ-I.txt

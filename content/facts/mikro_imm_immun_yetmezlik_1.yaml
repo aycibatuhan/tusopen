@@ -1,0 +1,10 @@
+id: mikro_imm_immun_yetmezlik_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bruton agamaglobulinemisinin moleküler defekti nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_immun_yetmezlik]
+metin: "X'e bağlı tyrosine kinase (Btk) gen defekti; olgun B lenfositler yoktur."

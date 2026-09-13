@@ -1,0 +1,15 @@
+id: enf_septik_artrit_tani_esik_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sinovyal sıvıda lökosit kaç olursa septik artrit olasılığı yüksektir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_septik_artrit_protez
+metin: 100.000/mm3 üzerindeyse olasılık yüksektir.
+
+# kaynak: 2._Sınıf_2.1_Enfeksiyon_septik_artrit_ve_osteomyelit_2019.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Kemik-eklem_enfeksiyonları-2015-son.txt

@@ -1,0 +1,11 @@
+id: der_pitriazis_versikolor_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pitriazis versikolorde hipopigmentasyonun mekanizması nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_pitriazis_versikolor]
+metin: "Dikarboksilik asitlerin tirozinaz inhibisyonu ve melanosit sitotoksisitesi."
+# kaynak: 5.sınıf_Dermatoloji_SUPERFICIAL_FUNGAL_INFECTIONS.txt

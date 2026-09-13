@@ -1,0 +1,11 @@
+id: gog_light_kriterleri_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Light kriterleri nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_efuzyon]
+metin: "Sıvı/serum protein >0,5; LDH oranı >0,6 ya da sıvı LDH serum üst sınırının 2/3'ünü aşarsa eksüda."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

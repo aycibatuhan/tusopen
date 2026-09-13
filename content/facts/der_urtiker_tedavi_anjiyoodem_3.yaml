@@ -1,0 +1,11 @@
+id: der_urtiker_tedavi_anjiyoodem_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Herediter anjiyoödemin temel özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_urtiker_ilac, derm_ui_urtiker_anjioodem]
+metin: "C1 esteraz inhibitör eksikliği, otozomal dominant; hiç ürtikerle eşlik etmez; tarama testi düşük C4."
+# kaynak: 5.sınıf_Dermatoloji_u_rtiker_ders.txt

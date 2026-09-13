@@ -1,0 +1,10 @@
+id: biyok_aam_aa_bozukluklari_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klasik fenilketonürinin enzim kusuru ve laboratuvar bulgusu nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_aa_bozukluklari]
+metin: "Fenilalanin hidroksilaz eksikliği; fenilalanin yükselir, tirozin düşük kalır."

@@ -1,0 +1,11 @@
+id: goz_crvo_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İskemik CRVO'da rubeozis iridis gelişme oranı ve zamanı nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_retinal_ven_tikanikligi]
+metin: "Olguların %50'sinde 2-4 ay içinde gelişir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_ANİ_KÖRLÜKLER.txt, 5.sınıf_Göz_Hastalıkları_damar_hastalıkları.txt

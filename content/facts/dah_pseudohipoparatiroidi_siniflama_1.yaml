@@ -1,0 +1,11 @@
+id: dah_pseudohipoparatiroidi_siniflama_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Psödohipoparatiroidi tip 1 ve tip 2 nasıl ayrışır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipoparatiroidi]
+metin: "Tip 1'de PTH'a cAMP yanıtı yok; tip 2'de cAMP normal, fosfatürik yanıt gelişmez."
+# kaynak: 4._Sınıf_Dahiliye_ders-paratiroid_hastalıkları.txt

@@ -1,0 +1,11 @@
+id: pls_tendon_tamir_el_3
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tendon greftinde donör tendon sırası nedir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_el_cerrahisi, pce_el_tendon_yaralanmalari]
+metin: "En sık palmaris longus; sonra plantaris ve ayakta orta üç parmağın ekstansör tendonları."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_El_Cerrahisi.txt, 5.sınıf_PLASTİK_CERRAHİ_Greftler_ve_Flepler.txt

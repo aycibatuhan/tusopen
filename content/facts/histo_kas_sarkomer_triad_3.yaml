@@ -1,0 +1,14 @@
+id: histo_kas_sarkomer_triad_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: A bandının ortasındaki açık H bandını ne böler?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kas
+  - histo_kas_iskelet
+metin: M çizgisi.
+# kaynak: 1._Sınıf_1.3_Histoloji_KAS_DOKUSU_HİSTOLOJİSİ.txt

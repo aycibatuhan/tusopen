@@ -1,0 +1,10 @@
+id: fiz_sol_ventilasyon_perfuzyon_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ventilasyon-perfüzyon oranı apeks ve bazda nasıl değişir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_ventilasyon_perfuzyon]
+metin: "Apekste yüksek, bazda düşük; akciğer ortalaması 0.8."

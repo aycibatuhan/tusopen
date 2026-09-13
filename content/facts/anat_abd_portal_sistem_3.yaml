@@ -1,0 +1,10 @@
+id: anat_abd_portal_sistem_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Portal hipertansiyonda en kanamaya eğilimli varisler?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_portal_sistem]
+metin: Özofageal varisler.

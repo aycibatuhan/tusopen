@@ -1,0 +1,11 @@
+id: der_kontakt_dermatit_ayirici_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Allerjik kontakt dermatitin mekanizması ve zamanlaması nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_egzema, derm_eg_kontakt]
+metin: "Tip IV gecikmiş hipersensitivite; duyarlanma 7-21 gün, bulgular temastan 24-48 saat sonra."
+# kaynak: 5.sınıf_Dermatoloji_ekzema_ders_ZAF.txt

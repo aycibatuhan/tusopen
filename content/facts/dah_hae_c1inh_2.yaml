@@ -1,0 +1,11 @@
+id: dah_hae_c1inh_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Herediter anjioödem hangi tedavilere yanıt vermez?"
+taksonomi:
+  - [ktbt, dahiliye, dah_alerji_immunoloji, dah_alj_urtiker_anjioodem]
+metin: "Antihistaminikler, kortikosteroidler ve adrenalin faydasızdır."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_ANAFLAKSİ-_VE_AKUT_ALLERJİK_REAKSİYONLAR.txt

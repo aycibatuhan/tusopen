@@ -1,0 +1,11 @@
+id: dah_primer_hpt_lab_cerrahi_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Primer hiperparatiroidizmde beklenen laboratuvar tablosu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hiperparatiroidi]
+metin: "Ca 10,4 mg/dL üzeri, fosfor 2,8 altı, PTH 85 pg/ml üzeri; hiperkloremik metabolik asidoz eşlik edebilir."
+# kaynak: 4._Sınıf_Dahiliye_ders-paratiroid_hastalıkları.txt

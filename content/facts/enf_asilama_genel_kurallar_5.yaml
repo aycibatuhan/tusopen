@@ -1,0 +1,15 @@
+id: enf_asilama_genel_kurallar_5
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Aşılar hangi sıcaklıkta saklanır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_asilar_seyahat
+  - enf_as_eriskin_asilar
+metin: 2-8°C'de; suçiçeği ve zona aşıları -15°C altında.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Erişkinde_aşılama_staj_2021.txt

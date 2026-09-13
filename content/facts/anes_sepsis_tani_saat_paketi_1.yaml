@@ -1,0 +1,11 @@
+id: anes_sepsis_tani_saat_paketi_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sepsisin SOFA tanı ölçütü nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_sepsis]
+metin: "SOFA skorundaki ≥2 puanlık akut artış sepsis kabul edilir."
+# kaynak: 4._Sınıf_Anestezi_2.txt

@@ -1,0 +1,11 @@
+id: ftr_osteoartrit_klinik_rehab_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "60 yaşta osteoartrit bulgularının sıklığı nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_osteoartrit]
+metin: "%80'de radyografik bulgu, %40 klinik ağrılı OA; 30 yaşta semptomatik hastalık %3."
+# kaynak: 5.sınıf_FTR_Ders_OA-ÜA-tr.txt, 5.sınıf_FTR_Olgu_dersiçi_sunumu-OA-diz_ağrısı.txt

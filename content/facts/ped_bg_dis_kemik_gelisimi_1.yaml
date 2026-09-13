@@ -1,0 +1,15 @@
+id: ped_bg_dis_kemik_gelisimi_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İlk süt dişi hangisidir ve süt dişlenmesi ne zaman tamamlanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_dis_kemik_yasi
+metin: Alt orta kesici, 5-9 ayda sürer; süt dişlenmesi 30 ayda 20 dişle tamamlanır.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

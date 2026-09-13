@@ -1,0 +1,11 @@
+id: goz_amd_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AREDS sınıflamasında drusen boyut eşikleri nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_yasa_bagli_makula]
+metin: "Küçük 63 mikron altı, orta 63-124 mikron, büyük 125 mikron ve üzeri."
+# kaynak: 5.sınıf_Göz_Hastalıkları_MAKULA_HASTALIKLARI.txt, 5.sınıf_Göz_Hastalıkları_DISEASES_OF_VITREOUS_AND_RETINA.txt

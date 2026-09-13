@@ -1,0 +1,11 @@
+id: mikro_gv_tani_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sinsitya ve dev hücre sitopatik etkisi hangi virüslerde görülür?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_tani]
+metin: "RSV, HSV, CMV ve kızamıkta görülür."
+# kaynak: yeni-2018-virüslerın_genel_özellikleri.txt

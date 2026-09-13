@@ -1,0 +1,11 @@
+id: psik_hezeyanli_bozukluk_tipleri_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sanrısal bozukluk tanısı için hezeyan süresi nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikotik, psik_ps_sanrisal]
+metin: "En az 1 ay (hezeyanlar sistematize ve nonbizardır)."
+# kaynak: 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt

@@ -1,0 +1,11 @@
+id: psik_akut_stres_uyum_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut stres bozukluğunun süre ölçütü nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_okb_travma, psik_ot_akut_stres_uyum]
+metin: "En az 3 gün sürer, 1 ayı geçmez; aşarsa PTSB olur."
+# kaynak: 5.sınıf_PSİKİYATRİ_okb-ptsb_ve_ilişkili_bozukluklar.txt

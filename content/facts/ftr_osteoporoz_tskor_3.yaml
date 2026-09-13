@@ -1,0 +1,11 @@
+id: ftr_osteoporoz_tskor_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kemik yoğunluğundaki 1 SD düşüş kırık riskini nasıl etkiler?"
+taksonomi:
+  - [ktbt, ftr, ftr_metabolik_kemik, ftr_mk_osteoporoz]
+metin: "2-3 kat artırır; kalça kırığı sonrası ilk yıl mortalite %25."
+# kaynak: 5.sınıf_FTR_OSTEOPOROZ.txt

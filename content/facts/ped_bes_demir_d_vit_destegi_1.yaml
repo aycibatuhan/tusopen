@@ -1,0 +1,15 @@
+id: ped_bes_demir_d_vit_destegi_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Süt çocuğuna D vitamini desteği nasıl yapılır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_eser_element
+metin: Doğumdan hemen sonra 400 IU/gün; 1 yaşından sonra 600 IU/gün ve çocukluk boyunca.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_YAPAY_ve_KARIŞIK_BESLENME-TAMAMLAYICI_BESİNLER-OKUL_ÇOCUĞU_VER_ADOLESAN_BESLENMESİ-_Sınıf_4.txt

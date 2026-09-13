@@ -1,0 +1,11 @@
+id: anat_abd_omentum_hepatoduodenale_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Lig. hepatoduodenale'nin serbest kenarında hangi yapılar seyreder?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_periton]
+metin: Ductus choledochus, a. hepatica propria ve v. portae hepatis bulunur.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-SELMAN_DEMİRCİ-peritonveabdomen.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-_YUSUF_ZEKİ_YILDIZ-_Sindirim_organları_-II.txt

@@ -1,0 +1,11 @@
+id: dah_ibd_tedavi_basamak_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anti-TNF tedavinin önemli riskleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_ulseratif_kolit]
+metin: "Tüberküloz reaktivasyonu ve fırsatçı enfeksiyonlar."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_IBD.lecture_2020-4.class_AFC-son.txt

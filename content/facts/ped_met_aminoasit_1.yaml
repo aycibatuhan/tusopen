@@ -1,0 +1,14 @@
+id: ped_met_aminoasit_1
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Fenilketonürinin eksikliği, bulguları ve diyet kuralı nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_aminoasit
+metin: Fenilalanin hidroksilaz eksikliği; zeka geriliği, nöbet, fare teri kokusu, hipopigmentasyon; düşük fenilalaninli diyette tirozin esansiyel amino asittir.
+

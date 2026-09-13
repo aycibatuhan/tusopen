@@ -1,0 +1,11 @@
+id: ort_paget_hastaligi_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Paget hastalığı nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_metabolik_kemik, orto_mk_paget]
+metin: "Kemik rezorpsiyonu ile bozuk (dizorganize) kemik yapımının bir arada görüldüğü remodelasyon hastalığıdır."
+# kaynak: 5.sınıf_Ortopedi_metabolic_bone_disease.txt

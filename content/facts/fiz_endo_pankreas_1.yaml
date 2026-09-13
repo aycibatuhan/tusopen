@@ -1,0 +1,10 @@
+id: fiz_endo_pankreas_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnsülin kas ve yağ dokusunda glukoz alımını hangi mekanizmayla hızlandırır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_pankreas]
+metin: "GLUT4 taşıyıcısının hücre yüzeyine taşınmasını sağlayarak."

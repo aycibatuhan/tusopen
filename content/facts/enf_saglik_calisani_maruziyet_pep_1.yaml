@@ -1,0 +1,15 @@
+id: enf_saglik_calisani_maruziyet_pep_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sağlık çalışanında HIV maruziyetinde profilaksi nasıl yapılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hastane_enfeksiyonlari
+  - enf_he_saglik_calisani
+metin: Üçlü rejim (tenofovir+emtrisitabin+dolutegravir) 4 hafta sürer; ilk 1-2 saatte, en geç 72. saatte başlanır.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

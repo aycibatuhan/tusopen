@@ -1,0 +1,15 @@
+id: enf_bakterisidal_bakteriostatik_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bakterisidal antibiyotik grubu hangileridir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_ampirik_tedavi
+metin: Beta-laktamlar, aminoglikozidler, vankomisin, florokinolonlar ve metronidazol.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotik_2019.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Kemik-eklem_enfeksiyonları-2015-son.txt

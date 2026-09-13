@@ -1,0 +1,11 @@
+id: dah_osteoporoz_dexa_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Teriparatid ve denosumab dozları nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_osteoporoz]
+metin: "Teriparatid 20 µg/gün sc en fazla 2 yıl; denosumab 60 mg 6 ayda bir."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_kalsiyumhomeostazivemetabolikkemik.txt

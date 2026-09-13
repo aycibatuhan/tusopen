@@ -1,0 +1,11 @@
+id: gog_ipf_uip_tani_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İPF'de UIP paterninin HRCT bulguları nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_ipf]
+metin: "Periferik-subplevral retikülasyon, traksiyon bronşiektazisi, balpeteği; ince inspiratuar raller %90 üstü."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_İdyopatik_Pulmoner_Fibrozis.txt

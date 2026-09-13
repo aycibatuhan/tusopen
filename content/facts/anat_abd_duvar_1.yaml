@@ -1,0 +1,10 @@
+id: anat_abd_duvar_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: İnguinal kanalın derin ve yüzeysel halkaları nereden yapılır?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_duvar]
+metin: Derin halka transversalis fasyadan, yüzeysel halka dış oblik aponevrozdan yapılır.

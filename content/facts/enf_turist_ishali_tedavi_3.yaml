@@ -1,0 +1,15 @@
+id: enf_turist_ishali_tedavi_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Güneydoğu Asya ve Hindistan'da turist ishalinde tercih edilen ilaç nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_asilar_seyahat
+  - enf_as_seyahat
+metin: Azitromisin 1 g tek doz; kinolona dirençli Campylobacter jejuni yaygındır.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sıtma_ve_Seyahatla_İlişkili_Enfeksiyonlar.txt

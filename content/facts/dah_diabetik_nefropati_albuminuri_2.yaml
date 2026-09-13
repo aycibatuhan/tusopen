@@ -1,0 +1,11 @@
+id: dah_diabetik_nefropati_albuminuri_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Diyabetik nefropatide ACE inhibitörü veya ARB ne zaman başlanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_diyabetik_nefropati]
+metin: "Albüminüri 30 mg/gün üzeri gebe olmayan hastada; hiperkalemi ve renovasküler hastalığa dikkat."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Bo_brek.txt

@@ -1,0 +1,11 @@
+id: biyok_siklus_faz_siklin_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CDK inhibitör proteinleri nelerdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_hucre_siklusu]
+metin: "p15, p16, p21, p27; tümör baskılayıcı gen ürünleridir."
+# kaynak: 1._Sınıf_1.3_Biyokimya_Kanser_ve_Onkogenler_2019.txt

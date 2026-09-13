@@ -1,0 +1,11 @@
+id: mikro_salmonella_tifo_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tifoya karşı kullanılan aşılar ve etkinlikleri nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_salmonella]
+metin: "Oral atenüe Ty21a ve parenteral Vi polisakkarid; etkinlik yüzde 50-80."
+# kaynak: Salmonella_Shigella_Yersinia_(2).txt

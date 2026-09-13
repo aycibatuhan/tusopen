@@ -1,0 +1,11 @@
+id: kard_hky_ilac_basamaklari_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Düşük EFli KKYde temel ilaç kombinasyonu nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_ilac_tedavisi]
+metin: "ACEİ/ARNI, SGLT2 inhibitörü (diyabetten bağımsız) ve beta bloker."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

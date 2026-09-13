@@ -1,0 +1,10 @@
+id: anat_ae_bacak_sinirleri_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: En sık yaralanan alt ekstremite siniri hangisidir?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_bacak_sinirleri]
+metin: N. fibularis communis (peroneal); fibula boynunda yüzeyel seyreder.

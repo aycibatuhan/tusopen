@@ -1,0 +1,14 @@
+id: histo_sind_tukuruk_bezleri_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Parotisin salgı tipi ve kanalı nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sindirim
+  - histo_sind_tukuruk
+metin: Tamamen seröz, dallanmış tübüloasiner; Stensen kanalı ikinci üst molar dişin hizasına boşalır.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_sistemi_Tükrük_bezleri__Pankreas.txt

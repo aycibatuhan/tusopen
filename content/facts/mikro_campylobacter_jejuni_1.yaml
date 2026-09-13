@@ -1,0 +1,11 @@
+id: mikro_campylobacter_jejuni_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dünyada en sık bakteriyel gastroenterit etkeni hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_campylobacter_helicobacter]
+metin: "Campylobacter jejuni; %5 oksijenli mikroaerofilik, 42-43 derecede üreyen termofiliktir."
+# kaynak: 1-_İmmünoloji_Campylobacter_Arcobacter.txt

@@ -1,0 +1,11 @@
+id: dah_addison_tani_tedavi_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Addison'da tipik laboratuvar tablosu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_addison]
+metin: "Na 130 mEq/L altı, K 5 mEq/L üstü, HCO3 15-20 mEq/L'ye düşmüş, üre yüksek."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_hipokortizolizm.txt

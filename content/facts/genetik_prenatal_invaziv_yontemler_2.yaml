@@ -1,0 +1,14 @@
+id: genetik_prenatal_invaziv_yontemler_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Amniyosentez hangi haftalarda ve kaç ml alınır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: 14-20. haftalarda; yaklaşık 20 ml amniyon sıvısı.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_4_Prenatal_Genetik_Tanı_2020_2021.txt

@@ -1,0 +1,11 @@
+id: mikro_par_trematod_genel_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Trematodların morfolojik ve biyolojik özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_trematod]
+metin: "Yaprak biçimli hermafrodit; kapaklı yumurta, kirpikli embriyon, salyangoz ara konağı."
+# kaynak: Protozoon_ve_Helmintlerin_Genel_Özellikleri.txt

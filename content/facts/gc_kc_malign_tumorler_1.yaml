@@ -1,0 +1,14 @@
+id: gc_kc_malign_tumorler_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: HCC vakalarının yüzde kaçı siroz zemininde gelişir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_karaciger
+  - gc_kc_malign_tumorler
+metin: '%90; HCC''lerin %70-80''inde HBV pozitiftir.'
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Mehmet_Velidedeoğlu_Karaciğer_Tümörleri_2020.txt

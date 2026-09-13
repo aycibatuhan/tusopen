@@ -1,0 +1,10 @@
+id: anat_miyo_cigneme_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Çiğneme kaslarının innervasyonu nereden gelir?
+taksonomi:
+  - [ttbt, anatomi, anat_miyoloji, anat_miyo_cigneme]
+metin: Bütün çiğneme kasları mandibular sinir (V3) ile innerve edilir.

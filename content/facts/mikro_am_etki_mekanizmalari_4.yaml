@@ -1,0 +1,11 @@
+id: mikro_am_etki_mekanizmalari_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kinolonlar ve rifampisin hangi enzimleri inhibe eder?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_etki_mekanizmalari]
+metin: "Kinolonlar DNA topoizomerazı, rifampisin RNA polimerazı inhibe eder."
+# kaynak: antibiyotiklerin_etki_spektrumları15.txt

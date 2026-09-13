@@ -1,0 +1,14 @@
+id: genetik_rb_p53_tumor_supresorler_5
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: p53 apoptozu hangi genle yönlendirir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_mutasyon_turleri
+metin: Bax ekspresyonu ile; p21 döngüyü, GADD45 tamiri yönetir.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_Hücre_Döngüsünü_Kontrol_Eden_Genler_II_(M_Güven_2018-2019_Bahar).txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_İleri_Hücre_Biyolojisi_Dersi_(Kanser).txt, 1._Sınıf_1.2_Tıbbi_Biyoloji_HÜCREYİ_GÖRÜNTÜLEME_YÖNTEMLERİ2018.txt

@@ -1,0 +1,11 @@
+id: adli_boyun_basinc_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tam asıda telem yukarısında peteşi beklenir mi?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_asfiksi]
+metin: "Beklenmez; arteryel sistem de oklüde olduğu için staz ve peteşi yoktur."
+# kaynak: 5.sınıf_Adli_Tıp_ASFİKSİYE_BAĞLI_ÖLÜMLER_PROF._DR._İBRAHİM_ÜZÜN_PDF.txt

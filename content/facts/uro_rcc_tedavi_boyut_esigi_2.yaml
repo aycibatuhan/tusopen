@@ -1,0 +1,11 @@
+id: uro_rcc_tedavi_boyut_esigi_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Von Hippel-Lindau hastasında RCC tedavi kuralı nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_renal_hucre]
+metin: "3 cm kuralına göre nefron koruyucu tedavi uygulanır."
+# kaynak: 4._Sınıf_Üroloji_böbrek_tm_radyoloji.txt, 4._Sınıf_Üroloji_Böbrek_Tümörleri.txt

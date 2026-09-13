@@ -1,0 +1,14 @@
+id: genetik_cinsiyet_anoploidi_siklik_5
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Trizomi X (47,XXX) hangi sıklıkta görülür?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_sitogenetik
+  - tbg_sg_numerik_aberrasyonlar
+metin: 900-1000 canlı doğumda bir.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_3_Kromozom_anomalileri_2021.txt

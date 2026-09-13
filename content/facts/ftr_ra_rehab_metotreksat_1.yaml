@@ -1,0 +1,11 @@
+id: ftr_ra_rehab_metotreksat_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RA'da ilk seçilen DMARD ve hedef dozu nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_romatoid_artrit_rehab]
+metin: "Metotreksat; 5-10 mg/hafta başlanır, en geç 6 haftada 15-25 mg/haftaya çıkılır."
+# kaynak: 5.sınıf_FTR_ROMATOİD_ARTRİT__Otomatik_kaydedilme_.txt

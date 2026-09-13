@@ -1,0 +1,11 @@
+id: nor_sak_tani_algoritmasi_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İkinci BT de negatifse LP'nin negatif kalma olasılığı nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_sak]
+metin: "%97; ancak %3 pozitiflik LP'yi kaçınılmaz kılar."
+# kaynak: 5.sınıf_Nöroloji_kanamalar_türkçe_2021_eylül.txt

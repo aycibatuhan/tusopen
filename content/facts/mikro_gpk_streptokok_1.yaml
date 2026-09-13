@@ -1,0 +1,10 @@
+id: mikro_gpk_streptokok_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Streptokoklarda kanlı agar hemoliz sınıflaması nasıldır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_kok, mikro_gpk_streptokok]
+metin: "Alfa kısmi, beta tam, gama hemoliz yok."

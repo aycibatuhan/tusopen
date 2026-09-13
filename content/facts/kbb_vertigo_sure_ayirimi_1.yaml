@@ -1,0 +1,11 @@
+id: kbb_vertigo_sure_ayirimi_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "10-30 saniyelik vertigo atakları hangi hastalığı düşündürür?"
+taksonomi:
+  - [ktbt, kbb, kbb_ic_kulak, kbb_ik_vertigo_yaklasim]
+metin: "BPPV; dakikalar-saatler Meniere, günler-haftalar vestibüler nörinit."
+# kaynak: 5.sınıf_KBB_myener_vest_sistem.txt

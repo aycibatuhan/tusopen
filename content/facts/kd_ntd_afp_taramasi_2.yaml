@@ -1,0 +1,11 @@
+id: kd_ntd_afp_taramasi_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MSAFP taramasının saptama ve yalancı pozitiflik oranları nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_prenatal_tani]
+metin: "Saptama %75-90 arası; yalancı pozitiflik %1-5."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Obstetride_Tanısal_Testler_ve_Metodlar26.11.2018.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_T3Antenatal_takip.txt

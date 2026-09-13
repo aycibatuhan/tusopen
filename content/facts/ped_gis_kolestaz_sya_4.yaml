@@ -1,0 +1,15 @@
+id: ped_gis_kolestaz_sya_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Biliyer atrezide cerrahi zamanlama ve başarı ilişkisi nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gastroenteroloji
+  - ped_gis_kolestaz
+metin: İlk 2 ay içinde, 60 günden önce opere edilirse başarı %80; edilmeyenlerde ortalama yaşam süresi 10 ay.
+
+# kaynak: 4._Sınıf_Pediatri_Ömer_Beşer_Kolestaz.txt

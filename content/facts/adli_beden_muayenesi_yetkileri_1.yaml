@@ -1,0 +1,11 @@
+id: adli_beden_muayenesi_yetkileri_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İç beden muayenesi ve kan-doku örneği hangi makamla yapılır?"
+taksonomi:
+  - [ktbt, adli_tip, adl_prosedur_mevzuat, adl_pm_adli_rapor]
+metin: "Yalnızca savcı, hakim veya mahkeme kararıyla; dış beden muayenesi kolluk kararıyla."
+# kaynak: 5.sınıf_Adli_Tıp_Bölüm_3_RAPORLAR_PROF._DR._ABDİ_ÖZASLAN.txt, 5.sınıf_Adli_Tıp_CİNSEL_SALDIRI_DOÇ._DR._BERNA_ŞENEL_ERASLAN.txt

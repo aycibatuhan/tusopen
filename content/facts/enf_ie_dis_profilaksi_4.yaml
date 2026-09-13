@@ -1,0 +1,15 @@
+id: enf_ie_dis_profilaksi_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Gastrointestinal ve genitoüriner girişimlerde IE profilaksisi gerekir mi?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_kardiyovaskuler
+  - enf_kv_endokardit
+metin: Rutin önerilmez; enfeksiyon eşlik ediyorsa rejim enterokokları kapsamalıdır.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Antimikkemoprofilaksison.txt

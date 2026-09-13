@@ -1,0 +1,11 @@
+id: goz_ambliyopi_4
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ambliyopi tedavisinin ilk adımı ve kapama kriteri nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_sasilik_pediatrik, goz_sp_ambliyopi]
+metin: "Önce kırma kusuru düzeltilir; gözler arasında 2 sıra fark varsa kapama yapılır."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Şaşılık.DERS_-_Kopya.txt

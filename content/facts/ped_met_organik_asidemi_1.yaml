@@ -1,0 +1,14 @@
+id: ped_met_organik_asidemi_1
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Metilmalonik ve propionik asidemi nasıl ayrışır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_organik_asidemi
+metin: 'Metilmalonik: metilmalonil-CoA mutaz eksikliği, bazı formlar B12''ye yanıt; propionik: propionil-CoA karboksilaz eksikliği.'
+

@@ -1,0 +1,11 @@
+id: fiz_hucre_aktif_transport_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "H+-K+ ATPaz nerede bulunur ve neden elektriksel nötrdür?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_membran]
+metin: "Mide parietal ve böbrek interkale hücrelerinde; 1H+/1K+ taşıdığı için nötr."
+# kaynak: 11-Membran_transport_mekanizmaları.txt

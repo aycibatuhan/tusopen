@@ -1,0 +1,11 @@
+id: ort_ayak_bilegi_esikler_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ayak bileği mortise grafisi hangi pozisyonda çekilir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_ayak_bilegi]
+metin: "20 derece iç rotasyonda çekilir."
+# kaynak: 5.sınıf_Ortopedi_AYAK_VE_AYAK_BİLEĞİ_MUAYENESİ_İNG-MKÖ.txt

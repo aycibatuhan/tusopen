@@ -1,0 +1,11 @@
+id: hsag_ep_kesitsel_calisma_2
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kesitsel çalışmanın temel dezavantajı nedir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_epidemiyoloji, hs_ep_kesitsel]
+metin: "Etken ve sonuç aynı anda değerlendirildiğinden güvenli neden-sonuç bağıntısı kurulamaz."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD2__Klinik_araştırmalar__Tasarımı__Özellikleri__Sınıflama_ve_Kanıt_Güçleri.txt

@@ -1,0 +1,10 @@
+id: mikro_rna_rhabdo_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kuduz virüsünün yapısal özellikleri nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_rhabdo]
+metin: "Zarflı, tek iplikçikli negatif polariteli RNA'lı rhabdovirüs; periferal sinirlerle SSS'ye ilerler."

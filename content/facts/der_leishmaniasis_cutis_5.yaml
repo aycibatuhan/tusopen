@@ -1,0 +1,11 @@
+id: der_leishmaniasis_cutis_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kutanöz leishmaniasis tedavisi nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_leishmaniasis]
+metin: "5 değerli antimon bileşikleri (sodyum stiboglukonat, meglumin antimonat) ve kriyoterapi."
+# kaynak: 5.sınıf_Dermatoloji_ZK-Paraziter_hastalıklar10.txt

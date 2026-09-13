@@ -1,0 +1,11 @@
+id: uro_tas_renal_kolik_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "5 mm altı taşlarda spontan düşme oranı nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_tas_hastaligi, uro_tas_renal_kolik]
+metin: "Hidrasyon ve medikal tedaviyle yaklaşık %95; METte alfa blokerler ve KKB yer alır."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt, 4._Sınıf_Üroloji_Ders_5-UROLITHIASIS-_Bulent_Onal.txt

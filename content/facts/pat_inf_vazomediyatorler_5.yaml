@@ -1,0 +1,11 @@
+id: pat_inf_vazomediyatorler_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Araşidonik asit basamaklarını kimler bloke eder?"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_mediatorler]
+metin: "Steroidler AA'nın serbestleşmesini, NSAİİ siklooksijenazı bloke eder."
+# kaynak: 1._Sınıf_1.4_Patoloji_3-CTF_inflamasyon.txt

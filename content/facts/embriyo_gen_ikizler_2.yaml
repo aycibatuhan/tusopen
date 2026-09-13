@@ -1,0 +1,13 @@
+id: embriyo_gen_ikizler_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Monozigot ikizlerde 4-8. gün arası bölünme hangi düzeni verir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_ikizler
+metin: Tek koryon ve iki amniyon kesesi.

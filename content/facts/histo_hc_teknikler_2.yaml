@@ -1,0 +1,13 @@
+id: histo_hc_teknikler_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Eozin hangi yapıları hangi renge boyar?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_hucre
+  - histo_hc_teknikler
+metin: Asidik boyadır; proteince zengin sitoplazmayı pembe boyar (asidofilik/eozinofilik).

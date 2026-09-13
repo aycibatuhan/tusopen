@@ -1,0 +1,11 @@
+id: dah_pseudohipoparatiroidi_siniflama_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Psödohipoparatiroidi tip 1a'nın bulguları nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipoparatiroidi]
+metin: "Gsalfa allel kaybı; Albright herediter osteodistrofi ve TSH/gonadotropin direnci."
+# kaynak: 4._Sınıf_Dahiliye_ders-paratiroid_hastalıkları.txt

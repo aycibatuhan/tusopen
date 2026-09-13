@@ -1,0 +1,11 @@
+id: dah_anafilaksi_epinefrin_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anafilakside birinci basamak tedavi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_alerji_immunoloji, dah_alj_anafilaksi]
+metin: "Oksijen ve epinefrin 0,01 mg/kg SC/IM; erişkinde en fazla 0,3 mg."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_ANAFLAKSİ-_VE_AKUT_ALLERJİK_REAKSİYONLAR.txt

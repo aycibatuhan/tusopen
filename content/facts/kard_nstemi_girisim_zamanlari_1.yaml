@@ -1,0 +1,11 @@
+id: kard_nstemi_girisim_zamanlari_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "NSTEMIde GRACE skoruna göre risk grupları nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_nstemi]
+metin: "<109 düşük, 109-140 orta, ≥140 yüksek risk (erken revaskülarizasyon)."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

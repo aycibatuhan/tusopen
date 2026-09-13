@@ -1,0 +1,11 @@
+id: hsag_bi_korelasyon_regresyon_1
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Korelasyon katsayısı neyi gösterir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_korelasyon_regresyon]
+metin: "İki değişken arasındaki doğrusal ilişkinin yönünü ve şiddetini; -1 ile +1 arasındadır."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_Korelasyon.txt, 3._Sınıf_3.3_Biyoistatistik_regresyon.txt

@@ -1,0 +1,10 @@
+id: fiz_kan_pihtilasma_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "K vitaminine bağlı sentezlenen faktörler hangileridir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_pihtilasma]
+metin: "2, 7, 9 ve 10. faktörler; fibrinolizi plazmin yapar."

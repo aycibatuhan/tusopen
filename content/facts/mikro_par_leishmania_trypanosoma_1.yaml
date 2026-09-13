@@ -1,0 +1,10 @@
+id: mikro_par_leishmania_trypanosoma_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Leishmania'nın vektörü ve insan dokusundaki formu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_leishmania_trypanosoma]
+metin: "Kum sineği (Phlebotomus); makrofaj içinde amastigot formda bulunur."

@@ -1,0 +1,15 @@
+id: ped_acil_dehid_dereceleri_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi dehidratasyon tipi en yaygın ve en iyi prognozludur?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_sivi_tedavisi
+metin: İzonatremik tip; kayıpların %70-80'ini oluşturur.
+
+# kaynak: 4._Sınıf_Pediatri_Sinem_Oral_Cebeci_4sınıf-dehid-slayt.txt

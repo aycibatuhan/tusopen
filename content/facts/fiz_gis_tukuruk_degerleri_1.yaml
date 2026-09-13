@@ -1,0 +1,11 @@
+id: fiz_gis_tukuruk_degerleri_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Günlük tükürük miktarı ve bezlere göre dağılımı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_tukuruk_yutma]
+metin: "800-1500 ml; submandibular yüzde 70, parotid 25, sublingual 5."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_SİBEL_AKYOL-Ağızda_Mekanik_ve_Kimyasal_sindirim__Tükürük_salgısı_ve_fonksiyonları.txt

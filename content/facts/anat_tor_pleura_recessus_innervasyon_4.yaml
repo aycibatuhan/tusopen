@@ -1,0 +1,11 @@
+id: anat_tor_pleura_recessus_innervasyon_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Recessus costodiaphragmaticus nedir?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_plevra]
+metin: Derin inspiryumda akciğer kenarının girdiği potansiyel boşluk (costomediastinalis de vardır).
+# kaynak: 2._Sınıf_2.3_Anatomi_2019_Solunum_Sistemi.txt

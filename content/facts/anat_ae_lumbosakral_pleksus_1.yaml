@@ -1,0 +1,10 @@
+id: anat_ae_lumbosakral_pleksus_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Lumbal pleksus hangi köklerden kurulur ve ne verir?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_lumbosakral_pleksus]
+metin: L1-L4'ten femoral (L2-L4), obturator (L2-L4) ve lateral femoral kutanöz sinirler.

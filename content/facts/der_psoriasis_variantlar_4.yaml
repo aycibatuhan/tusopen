@@ -1,0 +1,11 @@
+id: der_psoriasis_variantlar_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Psoriatik artritte klinik formların sıklığı nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_papuloskuamoz, derm_ps_psoriasis]
+metin: "Asimetrik oligo/mono ve simetrik poliartrit %30-50; aksiyel tutulum yaklaşık %5."
+# kaynak: 5.sınıf_Dermatoloji_psoriasis.txt, 5.sınıf_Dermatoloji_ZK-Psoriasis_and_Psoriasiform_diseases.txt

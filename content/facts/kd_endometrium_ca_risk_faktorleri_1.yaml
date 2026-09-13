@@ -1,0 +1,11 @@
+id: kd_endometrium_ca_risk_faktorleri_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Endometrium kanserinde medyan tanı yaşı nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_jinekolojik_onkoloji, kd_jo_endometrium_kanseri]
+metin: "60; hastaların ~%5'i 40 yaş altında, %20-25'i menopoz öncesinde."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Gynecologic_cancer_2019.txt

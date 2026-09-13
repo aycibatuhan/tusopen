@@ -1,0 +1,10 @@
+id: fiz_hucre_membran_potansiyeli_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dinlenik membran potansiyeli kaç milivolt ve başlıca kaynağı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_membran_potansiyeli]
+metin: "-70 ile -90 mV; sızıntı potasyum kanallarıyla K çıkışı en büyük katkı."

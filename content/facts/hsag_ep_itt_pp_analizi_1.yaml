@@ -1,0 +1,11 @@
+id: hsag_ep_itt_pp_analizi_1
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ITT analizinin temel ilkesi nedir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_arastirma_etik, hs_ae_arastirma_planlama]
+metin: "Her katılımcı hiçbir gerekçe ayırt edilmeden ilk randomize edildiği grupta analiz edilir."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD4b_Bilimsel_Araştırmaların_Sonuçlarının_Sunumunda_Gözlemlerin_Değerlendirilmesi.txt

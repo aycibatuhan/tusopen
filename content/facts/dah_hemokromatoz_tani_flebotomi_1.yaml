@@ -1,0 +1,11 @@
+id: dah_hemokromatoz_tani_flebotomi_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Herediter hemokromatozisin sorumlu geni ve mutasyonu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_wilson_hemokromatoz]
+metin: "6. kromozom kısa kolunda HFE geni; en sık C282Y mutasyonu."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_METABOLİK_KARACİĞER_HASTALIKLARI.txt

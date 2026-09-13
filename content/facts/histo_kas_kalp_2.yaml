@@ -1,0 +1,13 @@
+id: histo_kas_kalp_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Miyokard infarktında hasar nasıl onarılır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kas
+  - histo_kas_kalp
+metin: Mitotik kapasite yok denecek kadar az; hasar bölgesi bağ dokusuyla onarılır.

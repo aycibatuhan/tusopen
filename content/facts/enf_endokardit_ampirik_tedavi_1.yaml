@@ -1,0 +1,15 @@
+id: enf_endokardit_ampirik_tedavi_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akut ve subakut infektif endokarditin başlıca etkenleri kimdir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_kardiyovaskuler
+  - enf_kv_endokardit
+metin: Akutta S. aureus (tedavisiz 2 ayda %100 mortalite); subakutta viridans streptokoklar.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Sistemlere_göre_sık_enfeksiyonlar.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

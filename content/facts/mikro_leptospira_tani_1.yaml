@@ -1,0 +1,11 @@
+id: mikro_leptospira_tani_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Leptospira mikroskopide nasıl görüntülenir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_spiroket, mikro_spi_leptospira]
+metin: "Karanlık alan incelemesiyle; adi mikroskopta görünmez, iki ucu kıvrık ince (0.1 µm) spirokettir."
+# kaynak: Spiroketler.txt

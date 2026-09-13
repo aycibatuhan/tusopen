@@ -1,0 +1,10 @@
+id: fiz_bob_gfr_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "GFR ölçümünün altın standardı hangi maddenin klirensidir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_gfr]
+metin: "İnülin klirensi; serum kreatini pratik yaklaşımı sağlar."

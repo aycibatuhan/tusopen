@@ -1,0 +1,11 @@
+id: nuk_spect_pet_emitter_degerleri_3
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pozitron yayan ajanların ortak görüntüleme özelliği nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_temel, nt_tm_goruntuleme_cihazlari]
+metin: "Annihilasyonla 180 derece zıt yönde 511 keV enerjili iki gama fotonu üretir."
+# kaynak: 5.sınıf_Nükleer_Tıp_CTF_Staj-intro_send.txt, 5.sınıf_Nükleer_Tıp_CTF_Staj-tümörsintigrafisi-2022.txt, 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

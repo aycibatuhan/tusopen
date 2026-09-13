@@ -1,0 +1,11 @@
+id: anes_aclik_sureleri_premedikasyon_5
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi yaş altında farmakolojik premedikasyon genellikle gerekmez?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_preoperatif, anes_pre_aclik_premedikasyon]
+metin: "6 aydan küçüklerde genellikle gerekmez."
+# kaynak: 4._Sınıf_Anestezi_1.txt

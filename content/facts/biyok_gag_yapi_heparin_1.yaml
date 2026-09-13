@@ -1,0 +1,11 @@
+id: biyok_gag_yapi_heparin_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glikozaminoglikanların genel yapısı ve negatif yük kaynağı nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_glikoprotein_gag]
+metin: "Tekrarlayan disakkarit (amino şeker + üronik asit); yük karboksil ve sülfat gruplarından."
+# kaynak: 1._Sınıf_1.1_Biyokimya____2018.10.09__Proteoglikanlar_ve_Glikozaminoglikanlar.txt

@@ -1,0 +1,11 @@
+id: mikro_cryptosporidium_ishal_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C. parvum'un genotipleri bulaş yönünden nasıl ayrılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_barsak_protozoa]
+metin: "Genotip 1 insandan insana, Genotip 2 hayvanlardan insana bulaşır."
+# kaynak: Sindirim_kanalı_protozoonları_2.txt

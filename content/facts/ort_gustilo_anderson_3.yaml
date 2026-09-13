@@ -1,0 +1,11 @@
+id: ort_gustilo_anderson_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gustilo-Anderson Tip IIIC neyi ifade eder?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kirik_genel, orto_kg_acik_kirik]
+metin: "Arteriyel hasarın varlığını; amputasyon oranı %25'tir."
+# kaynak: 5.sınıf_Ortopedi_AÇIK_KIRIKLAR.txt

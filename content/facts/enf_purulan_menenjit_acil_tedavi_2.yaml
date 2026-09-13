@@ -1,0 +1,15 @@
+id: enf_purulan_menenjit_acil_tedavi_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bakteriyel menenjitte deksametazon dozu ve süresi nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_mss
+  - enf_mss_akut_bakteriyel_menenjit
+metin: 0.15 mg/kg, 4x1/gün IV, 4 gün süreyle eklenebilir.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Anamnez_FM.txt

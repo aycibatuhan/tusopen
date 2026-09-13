@@ -1,0 +1,10 @@
+id: biyok_lip_keton_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Keton cisimleri hangileridir ve ne zaman üretilir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_keton]
+metin: "Aseton, asetoasetat, beta-hidroksibütirat; açlık, kontrolsüz diyabet ve alkol kullanımında."

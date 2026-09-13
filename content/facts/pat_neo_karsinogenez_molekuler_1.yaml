@@ -1,0 +1,11 @@
+id: pat_neo_karsinogenez_molekuler_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Protoonkogen ve tümör süpresör genlerin kalıtım farkı?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_karsinogenez]
+metin: "Onkogen dominant (tek alel yeterli); süpresör resesif (iki alel hasarlı)."
+# kaynak: 1._Sınıf_1.4_Patoloji_Neoplazi-ek-Mehmet_Sar.txt

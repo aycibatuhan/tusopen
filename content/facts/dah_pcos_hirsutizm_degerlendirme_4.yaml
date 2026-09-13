@@ -1,0 +1,11 @@
+id: dah_pcos_hirsutizm_degerlendirme_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi androjen düzeyleri androjen üreten tümör araştırması gerektirir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_pkos_hirsutizm]
+metin: "Testosteronun 200 ng/dL (normal üst sınır 3 kat) aşması veya DHEA-S 7 µg/mL üzeri."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Kadın_Reprodüktif_Sistem_Hst.txt

@@ -1,0 +1,11 @@
+id: psik_ekt_endikasyonlar_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Katatoni tanısı için kaç psikomotor özellik gerekir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_duygudurum, psik_dd_ekt]
+metin: "12 özellikten en az üçü."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt, 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt

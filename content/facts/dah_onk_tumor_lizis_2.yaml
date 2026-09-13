@@ -1,0 +1,10 @@
+id: dah_onk_tumor_lizis_2
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tümör lizis profilaksisi ne zaman ve nasıl yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_tumor_lizis]
+metin: "Tedaviden 24-48 saat önce; 3 L/m2/gün hidrasyon, allopurinol veya rasburikaz."

@@ -1,0 +1,11 @@
+id: nor_temporal_arterit_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dev hücreli arterit hangi yaşta ve hangi cinsiyette sık görülür?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_sekonder]
+metin: "50 yaş ve üzerinde; kadınlarda daha sık."
+# kaynak: 5.sınıf_Nöroloji_2020_Sekonder_BA.txt

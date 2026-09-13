@@ -1,0 +1,10 @@
+id: pat_gis_ibh_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ülseratif kolitin yayılım özelliği nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_gis, pat_gis_ibh]
+metin: "Rektumdan proksimale kesintisiz, mukozayla sınırlı; toksik megakolon riski."

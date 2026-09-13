@@ -1,0 +1,11 @@
+id: anes_sok_siniflama_egdt_5
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şok indeksi eşiği ve anlamı nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_sok_vazopressor]
+metin: "Kalp hızı/SAB ≥1.0; volüm kaybının %20-30'una işaret eder."
+# kaynak: 4._Sınıf_Anestezi_2.txt

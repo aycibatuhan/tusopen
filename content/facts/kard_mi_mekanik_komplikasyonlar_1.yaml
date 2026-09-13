@@ -1,0 +1,11 @@
+id: kard_mi_mekanik_komplikasyonlar_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mİnin mekanik komplikasyonları ne zaman görülür?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_mi_komplikasyonlari]
+metin: "Genellikle ilk 24 saatte ya da 3-5. günlerde; primer PKG rüptür riskini azaltır."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

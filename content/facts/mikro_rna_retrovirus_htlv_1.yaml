@@ -1,0 +1,11 @@
+id: mikro_rna_retrovirus_htlv_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HTLV-1'in lösemogenezi hangi proteinle nasıl olur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_retrovirus_hiv]
+metin: "Tax proteini IL-2 ve IL-2R genlerini transaktive eder; lösemi yaklaşık 30 yılda gelişir."
+# kaynak: 8-Retrovirüsler_2020.txt

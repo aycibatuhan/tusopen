@@ -1,0 +1,11 @@
+id: dah_klinefelter_sendromu_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klinefelter sendromunun tipik laboratuvar bulguları nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipogonadizm]
+metin: "FSH orantısız yüksek, azoospermi ve infertilite."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Erkek_Reprodüktif_Sistem_Hst.txt

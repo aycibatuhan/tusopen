@@ -1,0 +1,14 @@
+id: embriyo_gen_embriyonik_germ_turevleri_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Adrenal bezin iki farklı kökeni nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_embriyonik_donem
+metin: Korteks mezodermden, medulla nöral krestten gelişir.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_EMBRİYONİK_DÖNEM-IR.txt, 1._Sınıf_1.3_Embriyoloji_EMBRİYONİK_DÖNEMIIR.txt, 1._Sınıf_1.3_Histoloji_2-3-4._Ders_-epitel_dokusu.txt

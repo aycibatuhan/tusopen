@@ -1,0 +1,11 @@
+id: uro_torsiyon_iskemi_penceresi_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Prehn belirtisi torsiyonda nasıldır?"
+taksonomi:
+  - [ktbt, uroloji, uro_acil_ve_travma, uro_at_testis_torsiyonu]
+metin: "Negatiftir; skrotumun elevasyonu ağrıyı azaltmaz."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt

@@ -1,0 +1,15 @@
+id: ped_kar_obstruktif_lezyonlar_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ventrikül çıkış yolu darlıkları hangi tip üfürüm yapar?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_obstruktif_lezyonlar
+metin: Ejeksiyon (diamond) tipi sistolik üfürüm; şiddeti darlık ciddiyetiyle artar.
+
+# kaynak: 4._Sınıf_Pediatri_Funda_Öztunç_AK_türkçe.txt, 2._Sınıf_2.2_pediatri_asiyanotikKH_türkçe.txt

@@ -1,0 +1,11 @@
+id: der_liken_planus_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şiddetli liken planusta en iyi sonuç hangi tedavide alınır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_papuloskuamoz, derm_ps_liken_planus]
+metin: "Sistemik asitretin (25-50 mg/gün); gerekirse PUVA eklenir."
+# kaynak: 5.sınıf_Dermatoloji_psoriasis.txt, 5.sınıf_Dermatoloji_ZK-Psoriasis_and_Psoriasiform_diseases.txt

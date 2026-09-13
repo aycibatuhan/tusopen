@@ -1,0 +1,14 @@
+id: gc_pan_akut_pankreatit_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akut pankreatit olgularının kaçı safra taşı/alkol kaynaklı?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_pankreas
+  - gc_pan_akut_pankreatit_cerrahi
+metin: '%80-90.'
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Ender_Dulundu_Acute_Pancreatitis_CTF_Ders_.txt

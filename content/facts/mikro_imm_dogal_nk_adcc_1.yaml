@@ -1,0 +1,11 @@
+id: mikro_imm_dogal_nk_adcc_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "NK hücreleri hedef hücreyi nasıl tanır ve öldürür?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_dogal]
+metin: "MHC-I eksikliğini saptar; KIR sinyali kesilince perforin-granzim ve FasL-Fas ile apoptozise götürür."
+# kaynak: Hücre_aracılığı_ile_bağışık_yanıt.txt, Humoral_bağışık_yanıt_ve_antikorlar.txt

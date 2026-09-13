@@ -1,0 +1,10 @@
+id: farm_pd_doz_yanit_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Eğri sağa kaydığında ilacın gücü nasıl değişir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakodinamik, farm_pd_doz_yanit]
+metin: "Yarı etkin doz büyür; güç azalır."

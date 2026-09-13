@@ -1,0 +1,10 @@
+id: mikro_imm_antikor_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plasentadan geçen ve serumda en bol antikor hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_antikor]
+metin: "IgG; sekonder immün yanıtın ana ürünüdür."

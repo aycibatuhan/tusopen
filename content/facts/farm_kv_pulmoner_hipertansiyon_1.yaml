@@ -1,0 +1,11 @@
+id: farm_kv_pulmoner_hipertansiyon_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Epoprostenol nedir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_pulmoner_hipertansiyon]
+metin: "Prostasiklin (PGI2) analogu; vazodilatasyon-antiagregan, treprostinille kullanılır."
+# kaynak: 2._Sınıf_2.2_Farmakoloji_eikozonoidleröğrenci.txt, 2._Sınıf_2.2_Farmakoloji_ANTİANGİNAL_İLAÇLAR2019_öğrenci_(1).txt, 2._Sınıf_2.2_Farmakoloji_27.11_Congestive_heart_failure.txt

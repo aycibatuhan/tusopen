@@ -1,0 +1,11 @@
+id: anat_tor_arcus_aortae_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Arcus aortae soldan sağa hangi dalları verir?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_buyuk_damarlar]
+metin: Truncus brachiocephalicus, a. carotis communis sinistra ve a. subclavia sinistra.
+# kaynak: 1._Sınıf_1.1_Anatomi_2018.10.01__Dolaşım_Sistemi.txt

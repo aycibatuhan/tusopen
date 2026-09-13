@@ -1,0 +1,11 @@
+id: psik_ayrilma_kaygisi_sure_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çocuk ve ergenlerde ayrılma kaygısının süre ölçütü nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_anksiyete, psik_an_ayrilma]
+metin: "En az 4 hafta (erişkinlerde 6 ay)."
+# kaynak: 5.sınıf_PSİKİYATRİ_ANKSİYETE_BOZUKLUKLARI_(yeni).txt

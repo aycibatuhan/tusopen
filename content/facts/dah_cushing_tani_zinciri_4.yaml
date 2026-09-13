@@ -1,0 +1,11 @@
+id: dah_cushing_tani_zinciri_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Cushing hastalığını doğrulayan altın standart yöntem nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_cushing]
+metin: "Petrosal sinüs/periferik ACTH oranı bazalde 2'nin, CRH sonrası 3'ün üzerinde."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Fonksiyonel_Hipofiz_Adenomlar_-.txt, 3._Sınıf_3.4_İç_hastalıkları_hiperkortizolizm.txt

@@ -1,0 +1,11 @@
+id: ftr_otonom_disrefleksi_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Otonomik disrefleksi tanı eşiği nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_omurilik_komplikasyonlari]
+metin: "Kan basıncının başlangıç değerine göre 20-40 mmHg yükselmesi."
+# kaynak: 5.sınıf_FTR_OYRehab.txt

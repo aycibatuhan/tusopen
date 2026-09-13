@@ -1,0 +1,11 @@
+id: dah_ami_sma_dagilimi_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut mezenterik iskeminin en sık nedeni nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_iskemik_barsak]
+metin: "SMA embolisi (%50); ardından nonoklüzif mezenterik iskemi (%30) gelir."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_mesenteric_ischemia-lecture_4.class_2020_AFC2-son.txt

@@ -1,0 +1,11 @@
+id: gog_tnm8_t_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "T4 kategorisindeki invazyonlar hangileridir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_neoplazi, gog_neo_evreleme]
+metin: "Karina, diyafragma, mediasten, kalp, büyük damarlar, trakea, rekürren laringeal sinir, vertebra."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer_Kanseri_Dönem_5-29.08.2022.txt

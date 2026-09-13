@@ -1,0 +1,11 @@
+id: adli_yalanci_olum_lazarus_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lazarus fenomeni nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_sekli]
+metin: "Resüsitasyon kesildikten sonra dolaşımın kendiliğinden dönmesi; en az 10 dakika izlem önerilir."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_-_TEMEL_KAVRAMLAR_PROF._DR._SERMET_KOÇ.txt, 5.sınıf_Adli_Tıp_ÖLÜM_BELİRTİLERİ_-_1_PROF._DR._SERMET_KOÇ.txt

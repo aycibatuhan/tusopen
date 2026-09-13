@@ -1,0 +1,11 @@
+id: anat_ae_poplitea_paket_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Popliteal damar-sinir paketi derinden yüzeye nasıl dizilir?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_popliteal_fossa]
+metin: A. poplitea, v. poplitea ve n. tibialis düzeninde yerleşir.
+# kaynak: 3._Sınıf_3.3_Anatomi_ALT_TARAF_ANATOMİSİ_2021.txt

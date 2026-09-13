@@ -1,0 +1,11 @@
+id: mikro_dna_papilloma_polyoma_jcbk_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "JC ve BK virüsü tanısında idrar sitolojisi bulgusu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_papilloma_polyoma]
+metin: "Decoy (aldatıcı) hücrelerin görülmesi; doğrulama PCR ile yapılır."
+# kaynak: Papilloma_ve_Polyomaviruslar.txt

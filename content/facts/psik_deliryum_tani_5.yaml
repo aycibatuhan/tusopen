@@ -1,0 +1,11 @@
+id: psik_deliryum_tani_5
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alt neden düzeltildikten sonra deliryum ne zaman düzelir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_norokognitif, psik_nk_deliryum]
+metin: "Genellikle 3-7 günde."
+# kaynak: 5.sınıf_PSİKİYATRİ_biliselbozukluk24.10.19Son_2.txt

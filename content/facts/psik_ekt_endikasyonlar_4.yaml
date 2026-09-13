@@ -1,0 +1,11 @@
+id: psik_ekt_endikasyonlar_4
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi EKT uygulamasında kognitif yan etkiler daha belirgindir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_duygudurum, psik_dd_ekt]
+metin: "Bilateral uygulamada (anterograd ve retrograd amnezi)."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt, 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt

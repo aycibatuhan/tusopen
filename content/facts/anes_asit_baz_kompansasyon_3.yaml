@@ -1,0 +1,11 @@
+id: anes_asit_baz_kompansasyon_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Solunumsal asidozda HCO3 kompanzasyon kuralı nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_sivi_kan, anes_sk_asit_baz]
+metin: "PaCO2'deki her 10 mmHg artış için akutta 1, kronikte 4 mEq/L yükselir."
+# kaynak: 4._Sınıf_Anestezi_2.txt, 4._Sınıf_Anestezi_Özlem_asit_baz.txt

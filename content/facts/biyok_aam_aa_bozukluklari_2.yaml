@@ -1,0 +1,10 @@
+id: biyok_aam_aa_bozukluklari_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tedavi edilmeyen fenilketonürinin bulguları nelerdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_aa_bozukluklari]
+metin: "Zeka geriliği, nöbet, açık ten, idrarda fare kokusu; düşük fenilalaninli diyet önler."

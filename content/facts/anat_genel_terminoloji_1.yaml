@@ -1,0 +1,10 @@
+id: anat_genel_terminoloji_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Anatomik pozisyonda avuçlar hangi yöne bakar?
+taksonomi:
+  - [ttbt, anatomi, anat_genel, anat_genel_terminoloji]
+metin: Öne bakar; bu yüzden önkolda radius dışta, ulna içta kabul edilir.

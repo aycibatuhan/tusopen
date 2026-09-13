@@ -1,0 +1,13 @@
+id: histo_kas_kalp_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kalp kası hücresinin ayırt edici özellikleri nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kas
+  - histo_kas_kalp
+metin: Tek çekirdekli, çizgili ve dallıdır; interkalar disklerle elektriksel bağlantı kurar.

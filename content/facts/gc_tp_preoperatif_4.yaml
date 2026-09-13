@@ -1,0 +1,13 @@
+id: gc_tp_preoperatif_4
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Warfarin ve klopidogrel ne zaman kesilir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_preoperatif
+metin: Warfarin ~5 gün, klopidogrel 5-7 gün önce (aspirin çoğunda sürdürülür).

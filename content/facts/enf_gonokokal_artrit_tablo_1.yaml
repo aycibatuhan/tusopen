@@ -1,0 +1,15 @@
+id: enf_gonokokal_artrit_tablo_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Genç erişkinde tenosinovit-döküntü-artrit üçlüsü neyi düşündürür?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_septik_artrit_protez
+metin: Gonokoksemiyi; ateş, poliartralji, el ve parmaklarda tenosinovit, çok sayıda döküntü ve asimetrik tutulum.
+
+# kaynak: 2._Sınıf_2.1_Enfeksiyon_septik_artrit_ve_osteomyelit_2019.txt

@@ -1,0 +1,11 @@
+id: dah_mpn_jak2_tedavi_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "JAK2 V617F mutasyonu hangi MPN'de ne sıklıkta pozitiftir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_polisitemi]
+metin: "PV'de %95-97; esansiyel trombositoz ve primer miyelofibrozda %50-60."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_MPN-Except_CML_-_AEE_2021.txt

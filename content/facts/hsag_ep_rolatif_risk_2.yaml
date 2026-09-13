@@ -1,0 +1,11 @@
+id: hsag_ep_rolatif_risk_2
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RR<1 ne anlama gelir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_epidemiyoloji, hs_ep_risk_olcutleri]
+metin: "Etken koruyucudur (negatif ilişki); RR>1 hastalığı artırır."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD6_Göreli_Risk_ölçütleri_(RR__OR__AR__vb).txt

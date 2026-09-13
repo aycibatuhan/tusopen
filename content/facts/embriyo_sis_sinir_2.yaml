@@ -1,0 +1,13 @@
+id: embriyo_sis_sinir_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Nöral tüp kapanma kusurlarının bilinen nedeni nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_sinir
+metin: Folat eksikliği; kusurlar anensefali ve spina bifida yapar.

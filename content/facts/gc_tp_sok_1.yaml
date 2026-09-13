@@ -1,0 +1,13 @@
+id: gc_tp_sok_1
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: ATLS'de şok sınıf 3'te kan kaybı ne kadardır?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_sok
+metin: '%30-40 (1500-2000 mL).'

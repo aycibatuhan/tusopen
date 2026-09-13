@@ -1,0 +1,11 @@
+id: pat_neo_kimyasal_karsinojenler_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aflatoksin B1'e bağlı HCC'de karakteristik p53 mutasyonu?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_karsinojenler]
+metin: "Kodon 249'da G:C'den T:A'ya transversiyon (ser 249)."
+# kaynak: 1._Sınıf_1.4_Patoloji_iremonur_kimyasal_viral_karsinogenez.txt

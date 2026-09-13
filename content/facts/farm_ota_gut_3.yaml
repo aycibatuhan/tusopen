@@ -1,0 +1,11 @@
+id: farm_ota_gut_3
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ksantin oksidaz inhibitörleri ve etkileşim?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otakoid_inflamasyon, farm_ota_gut]
+metin: "Allopurinol (pürinli), febuksostat; allopurinol 6-merkaptopurin toksisitesini artırır."
+# kaynak: 2._Sınıf_2.1_farmakoloji_NSAİİ_ve_Antigut_özet_2019.txt

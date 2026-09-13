@@ -1,0 +1,10 @@
+id: farm_oss_beta_bloker_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Propranololün özellikleri nedir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otonom, farm_oss_beta_bloker]
+metin: "Beta1-beta2 birlikte blok; astımı alevlendirebilir."

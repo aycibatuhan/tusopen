@@ -1,0 +1,11 @@
+id: gog_hkp_vip_tanim_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Geç ventilatör ilişkili pnömonide beklenen etkenler hangileridir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_hastane_pnomoni]
+metin: "P. aeruginosa, Acinetobacter baumannii ve S. aureus (MRSA dahil)."
+# kaynak: 2._Sınıf_2.3_Göğüs_hastalıkları_pnömoni_ders_3.txt

@@ -1,0 +1,11 @@
+id: mikro_imm_asi_serum_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Canlı atenüe aşıların ortak özellikleri ve kontrendikasyonları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_asi_serum]
+metin: "Tek dozla uzun süreli hücresel-humoral yanıt, adjuvan gerekmez; gebelere ve immünsüprese verilmez."
+# kaynak: 3-Aktif_Pasif_Bağışıklama_2019.txt

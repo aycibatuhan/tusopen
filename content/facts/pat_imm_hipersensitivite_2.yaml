@@ -1,0 +1,10 @@
+id: pat_imm_hipersensitivite_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tip II hipersensitivitenin mekanizması ve örnekleri?"
+taksonomi:
+  - [ttbt, patoloji, pat_immun, pat_imm_hipersensitivite]
+metin: "IgG-IgM hücre yüzeyi antijenine; otoimmün hemolitik anemi, Goodpasture."

@@ -1,0 +1,11 @@
+id: mikro_kan_kultur_ornek_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi örnekler bakteriyolojik incelemede işlenmez?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_tani_yontemleri]
+metin: "Kolon içeriği, kusmuk, Foley sondası ve 24 saatlik idrar."
+# kaynak: klinik_mik_tanı-2.txt

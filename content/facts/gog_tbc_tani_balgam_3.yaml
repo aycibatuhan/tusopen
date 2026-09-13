@@ -1,0 +1,11 @@
+id: gog_tbc_tani_balgam_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tüberküloz tanısında kaç balgam örneği alınır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_tuberkuloz_tani]
+metin: "En az 3; kültür pozitifliği ~%90, yayma pozitifliği %65."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_2019-2020_TBC_Dersi_30.08.2022-2-Klinik_Lab.txt, 2._Sınıf_2.3_Göğüs_hastalıkları_TB_2._Sınıf_Ders_2019-2020_sb.txt

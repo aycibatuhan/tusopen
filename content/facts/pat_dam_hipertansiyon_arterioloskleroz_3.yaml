@@ -1,0 +1,11 @@
+id: pat_dam_hipertansiyon_arterioloskleroz_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hyalin arterioloskleroz hangi durumlarla birlikte görülür?"
+taksonomi:
+  - [ttbt, patoloji, pat_kan_damarlari, pat_dam_hipertansiyon]
+metin: "Yaşlılık, hafif hipertansiyon ve diyabet; benign nefrosklerozun majör formu."
+# kaynak: 1._Sınıf_1.4_Patoloji_hemodinamik_iremonur..txt

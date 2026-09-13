@@ -1,0 +1,11 @@
+id: gog_kan_gazi_hipoksemi_hiperkapni_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipoksemi derecelendirme eşikleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_tani_yontemleri, gog_ty_kan_gazi]
+metin: "PaO2 80 altı hipoksemi; 60-80 hafif, 40-60 orta, 40 altı ağır."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Kısa_Solunum_Fonksiyon_Testleri_2022-23_Ders_Bilun.txt, 5.sınıf_Göğüs_Hastalıkları_Solnum_yetmezliği__Oksijen_tedavisi.txt

@@ -1,0 +1,11 @@
+id: anes_asit_baz_kompansasyon_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Arter kan gazının normal değerleri nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_sivi_kan, anes_sk_asit_baz]
+metin: "pH 7.35-7.45, PaCO2 35-45 mmHg, HCO3 22-26 mmol/L, baz açığı ±2 mmol/L."
+# kaynak: 4._Sınıf_Anestezi_2.txt, 4._Sınıf_Anestezi_Özlem_asit_baz.txt

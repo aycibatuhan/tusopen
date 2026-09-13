@@ -1,0 +1,11 @@
+id: fiz_kv_koroner_ozellikleri_5
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Miyokard infarktüsünde kana geçen belirteçler hangileridir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_ozel_dolasimlar]
+metin: "Troponin I, troponin T ve CK-MB."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Egzersiz___Kroner.txt

@@ -1,0 +1,15 @@
+id: ped_bes_fosfopenik_rasitizm_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Fosfopenik raşitizmde ikincil hiperparatiroidi neden yoktur?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_rasitizm
+metin: Serum kalsiyumu normal olduğundan ikincil hiperparatiroidi gelişmez.
+
+# kaynak: 4._Sınıf_Pediatri_Elvan_Bayramoğlu_Rikets_ve_D_vitamini_eksikliği_ders_4.txt

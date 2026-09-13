@@ -1,0 +1,10 @@
+id: pat_inf_granulomatoz_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Langhans dev hücresinde çekirdekler nasıl dizilir?"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_granulomatoz]
+metin: "Hücre kenarında at nalı düzeninde."

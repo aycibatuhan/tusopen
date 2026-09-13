@@ -1,0 +1,15 @@
+id: enf_bos_bakteriyel_viral_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tüberküloz menenjitte BOS bulguları nelerdir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_mss
+  - enf_mss_bos_bulgulari
+metin: Berrak-ksantokromik; <1.000/mm3 lenfositik, glukoz <%40, protein >45 mg/dL.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt

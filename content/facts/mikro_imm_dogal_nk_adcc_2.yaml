@@ -1,0 +1,11 @@
+id: mikro_imm_dogal_nk_adcc_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ADCC tanımı ve NK hücresindeki reseptörü nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_dogal]
+metin: "Antikorla kaplı hedefleri CD16 (Fc gamma RIII) üzerinden tanıyıp öldürmedir."
+# kaynak: Hücre_aracılığı_ile_bağışık_yanıt.txt, Humoral_bağışık_yanıt_ve_antikorlar.txt

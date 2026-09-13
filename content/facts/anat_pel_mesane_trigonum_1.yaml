@@ -1,0 +1,11 @@
+id: anat_pel_mesane_trigonum_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Mesanenin normal ve zorlama kapasitesi?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_mesane_uretra]
+metin: Ortalama 250 mL; zorlamayla 500 mL'ye ulaşabilir.
+# kaynak: 3._Sınıf_3.2_Anatomi_üriner_sistem_2020.txt

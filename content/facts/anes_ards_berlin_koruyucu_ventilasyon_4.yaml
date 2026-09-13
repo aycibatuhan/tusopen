@@ -1,0 +1,11 @@
+id: anes_ards_berlin_koruyucu_ventilasyon_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Koruyucu ventilasyonda gaz değişimi hedefleri nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_ards]
+metin: "PaO2 ≥60 mmHg, SaO2 ≥%90 ve pH ≥7.25-7.30."
+# kaynak: 4._Sınıf_Anestezi_3.txt

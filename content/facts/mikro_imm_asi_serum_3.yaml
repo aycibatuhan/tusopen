@@ -1,0 +1,11 @@
+id: mikro_imm_asi_serum_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Konjuge polisakkarit aşıların (PCV, Hib) avantajı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_asi_serum]
+metin: "Protein taşıyıcı T hücre yanıtını açar; 2. aydan itibaren uygulanır."
+# kaynak: 3-Aktif_Pasif_Bağışıklama_2019.txt

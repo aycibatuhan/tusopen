@@ -1,0 +1,15 @@
+id: ped_gog_tbc_tedavi_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: TBC tedavisinde karaciğer toksisitede ilaç kesme eşiği nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_tuberkuloz
+metin: AST/ALT normalin 5 katını (hepatit bulgusuyla 3 katını) veya bilirubin 1,5 mg/dl'yi aşarsa ilaçlar kesilir.
+
+# kaynak: 4._Sınıf_Pediatri_Ayşe_Ayzıt_Kılınç_tbc_ders_4._sınıf_.txt

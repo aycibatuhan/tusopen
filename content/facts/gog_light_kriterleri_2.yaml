@@ -1,0 +1,11 @@
+id: gog_light_kriterleri_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Eksüdayı destekleyen kolesterol ve albumin gradyan eşikleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_efuzyon]
+metin: "Plevral kolesterol 60 mg/dl üstü (oran 0,3 üstü); albumin gradyanı 1,2 g/dl altı."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

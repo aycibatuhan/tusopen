@@ -1,0 +1,11 @@
+id: dah_fmf_kolsisin_amiloidoz_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AA amiloidoz için yüksek risk profili FMF'de nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_fmf]
+metin: "M694V homozigotluk, erkek cinsiyet, aile öyküsü; izlemede 24 saatlik idrar proteini."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_Otoinflamatuar_ve_Ailesel_Akdeniz_Ateşi.txt

@@ -1,0 +1,11 @@
+id: ftr_oy_prognoz_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Travmatik paraplejide yürüme oranları düzeye göre nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_omurilik_yaralanmasi]
+metin: "İnkomplette %80; komplette T1-T8'de %0, T9-T11'de %10, T12 düzeyi ve altında %50."
+# kaynak: 5.sınıf_FTR_OYRehab.txt

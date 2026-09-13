@@ -1,0 +1,11 @@
+id: uro_testis_orsiektomi_evreleme_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Testis tümöründe evre II alt grupları nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_testis_tumorleri]
+metin: "IIA <2 cm, IIB 2-5 cm, IIC >5 cm retroperitoneal tutulum; III supradiafragmatik/viseral."
+# kaynak: 4._Sınıf_Üroloji_Testis_tm_sunum_MHG.txt, 3._Sınıf_3.2_Üroloji_Üroonkolojiye_Giriş_-_Doç._Dr._Çetin_DEMİRDAĞ.txt

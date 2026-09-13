@@ -1,0 +1,11 @@
+id: gog_astim_atak_siddet_4
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Astım atağında acilden çıkış için PEF-FEV1 eşiği nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_obstruktif, gog_ob_astim_atak]
+metin: "1 saat sonunda %60-80'e yükselmişse çıkış düşünülür; %60 altında yoğun bakım konsülte edilir."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Astım_I_ve_II_staj_dersi_2022-23.txt

@@ -1,0 +1,14 @@
+id: gc_kol_divertikulit_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Batı toplumunda divertikül en sık nerede yerleşir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_kolon_rektum_anus
+  - gc_kol_divertikulit
+metin: Sigmoid kolonda (edinsel); Afrika-Asya'da sağ kolon (konjenital).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Faik_Özçelik_Kolonun_Divertiküler_Hastalığı.txt

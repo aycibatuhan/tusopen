@@ -1,0 +1,14 @@
+id: gc_meme_kanser_cerrahi_5
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: SLNB yanlış negatifliği kaç nodülde düşer?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_meme
+  - gc_meme_kanser_cerrahi
+metin: 3 nodülde %1 (tek nodülde %10); sentinel bulunamazsa aksiller diseksiyon.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Pınar_Kocael_Meme_Kanseri_Tedavisi.txt

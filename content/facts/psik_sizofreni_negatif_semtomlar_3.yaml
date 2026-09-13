@@ -1,0 +1,11 @@
+id: psik_sizofreni_negatif_semtomlar_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sosyal uyarının azlığı ve aşırı uyarım hangi belirtileri artırır?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikotik, psik_ps_sizofreni]
+metin: "Azlık negatif belirtileri; aşırı uyarım pozitif belirtileri ve relapsı artırır."
+# kaynak: 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt

@@ -1,0 +1,15 @@
+id: ped_kar_obstruktif_lezyonlar_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ciddi koarktasyonlu bebek nasıl başvurur ve nasıl yönetilir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_obstruktif_lezyonlar
+metin: İlk 6 haftada beslenme güçlüğü, kilo alamama, kalp yetmezliği/şok; PGE1 infüzyonuyla duktus açık tutulur.
+
+# kaynak: 4._Sınıf_Pediatri_Funda_Öztunç_AK_türkçe.txt, 2._Sınıf_2.2_pediatri_asiyanotikKH_türkçe.txt

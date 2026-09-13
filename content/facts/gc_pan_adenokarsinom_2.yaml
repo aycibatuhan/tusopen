@@ -1,0 +1,13 @@
+id: gc_pan_adenokarsinom_2
+version: 1
+status: draft
+author: ai-drafts/gaps-onkoloji-anestezi
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Courvoisier işareti nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_pankreas
+  - gc_pan_adenokarsinom
+metin: Palpe edilebilir, ağrısız genişlemiş safra kesesi.

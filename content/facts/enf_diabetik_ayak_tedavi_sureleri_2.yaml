@@ -1,0 +1,15 @@
+id: enf_diabetik_ayak_tedavi_sureleri_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Diyabetik ayakta kemik tutulumunda tedavi süresi nasıl belirlenir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_diyabetik_ayak
+metin: Debridman sonrası enfekte doku kalmadıysa 5 gün; enfekte kemik kaldıysa toplam 4-6 hafta, cerrahi yapılamadıysa en az 3 ay.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_diyabetik_ayak_dersi_2021.txt, 5.sınıf_Enfeksiyon_Hastalıkları_DYDİ_2021Neşe_Saltoğlu.txt

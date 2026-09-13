@@ -1,0 +1,15 @@
+id: dah_gis_hpylori_rejim_5
+version: 1
+status: draft
+author: ai-drafts/dahiliye-5
+sources:
+- ACG kılavuzu — Treatment of Helicobacter pylori Infection (Am J Gastroenterol 2024, Chey ve ark.)
+- Maastricht VI (Fortaza) H. pylori uzlaşısı 2022
+- AAFP 2023 peptik ülser derlemesi
+ad: "H. pylori eradikasyonu nasıl ve ne zaman doğrulanır?"
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_gastroenteroloji
+  - dah_gis_peptik_ulser
+metin: "Tedaviden en az 4 hafta sonra üre nefes veya dışkı antijen testi; antikor testi kullanılmaz."

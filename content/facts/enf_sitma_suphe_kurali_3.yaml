@@ -1,0 +1,15 @@
+id: enf_sitma_suphe_kurali_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sıtma tanısında kan yayması nasıl kullanılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_sitma
+metin: İnce ve kalın yayma acilen hazırlanır; negatifse 12-24 saat arayla tanı konana dek tekrarlanır.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sıtma_ve_Seyahatla_İlişkili_Enfeksiyonlar.txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt

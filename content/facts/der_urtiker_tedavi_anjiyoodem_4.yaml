@@ -1,0 +1,11 @@
+id: der_urtiker_tedavi_anjiyoodem_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Herediter anjiyoödem akut atak tedavisi nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_urtiker_ilac, derm_ui_urtiker_anjioodem]
+metin: "IV C1 esteraz inhibitörü, ikatibant veya ekalantid; antihistaminik-steroid-adrenalin etkisizdir."
+# kaynak: 5.sınıf_Dermatoloji_u_rtiker_ders.txt

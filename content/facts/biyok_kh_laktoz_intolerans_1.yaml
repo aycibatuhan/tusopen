@@ -1,0 +1,11 @@
+id: biyok_kh_laktoz_intolerans_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En yaygın karbonhidrat sindirim bozukluğu ve nedeni nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_sindirim]
+metin: "Laktoz intoleransı; bağırsak laktaz enzimi eksikliğine bağlıdır."
+# kaynak: 1._Sınıf_1.1_Biyokimya____2018.10.04__Monosakkaritler__Glikozidler__Oligosakkaritler.txt

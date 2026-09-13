@@ -1,0 +1,11 @@
+id: biyok_immunglobulin_siniflar_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En bol immunoglobulin ve plasentadan geçen sınıf nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_plazma_proteinleri]
+metin: "IgG (yüzde 75); plasentadan geçebilen tek sınıf; IgG3 komplemanı tetikler."
+# kaynak: 1._Sınıf_1.1_Biyokimya_2018.10.25__Serum_Proteinleri_İmmunoglobulinler__Akut_faz_reaktanları.txt

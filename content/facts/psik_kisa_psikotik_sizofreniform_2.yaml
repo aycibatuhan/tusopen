@@ -1,0 +1,11 @@
+id: psik_kisa_psikotik_sizofreniform_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şizofreniform bozukluğun süre ölçütü ve ayırt edici özelliği nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikotik, psik_ps_kisa_psikotik]
+metin: "1-6 ay; şizofreniden daha iyi seyreder, affektif hastalıklara benzer."
+# kaynak: 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt

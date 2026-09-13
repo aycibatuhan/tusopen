@@ -1,0 +1,11 @@
+id: anat_abd_mide_yapi_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Mide duvarının kas katmanları nasıl dizilmiştir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_mide]
+metin: Dışta longitudinal, ortada sirküler (sphincter pylori), içte oblik lifler.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-_TURAN_PEŞTAMALCI-_SYSTEMA_DIGESTORIUM_AbdominoPelvikOrganlar_I_MİDE.txt

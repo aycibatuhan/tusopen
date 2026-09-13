@@ -1,0 +1,11 @@
+id: fiz_kan_hb_degerleri_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erişkin hemoglobin çeşitlerinin oranları ve HbA1c'nin özelliği nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_hemoglobin]
+metin: "HbA1 yüzde 97-99, HbA2 1-3, HbF 1'in altında; HbA1c'de valine glukoz bağlanıp diyabette artar."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt, 2._Sınıf_2.4_2.vize_fizyoloji_KAN_FİZYOLOJİSİ_TÜRKÇE_GRUBU.2020.txt

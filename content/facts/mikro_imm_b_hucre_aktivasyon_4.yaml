@@ -1,0 +1,11 @@
+id: mikro_imm_b_hucre_aktivasyon_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Primer ve sekonder humoral yanıtın farkları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_b_hucre]
+metin: "Primer 7-10 günde IgM ağırlıklı; sekonder bellek B hücreleriyle 10-50 kat fazla, yüksek afinite IgG."
+# kaynak: 2-Antijen_tanıma_2019.txt, Humoral_bağışık_yanıt_ve_antikorlar.txt

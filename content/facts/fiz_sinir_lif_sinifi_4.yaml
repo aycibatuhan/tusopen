@@ -1,0 +1,11 @@
+id: fiz_sinir_lif_sinifi_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hücre dışı kalsiyum artışı uyarılabilirliği nasıl etkiler?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_noron]
+metin: "Membranın Na+ geçirgenliğini azaltarak uyarılabilirliği düşürür."
+# kaynak: 6._Ders_1.Sinir_Liflerinin_Sınıflandırılması.txt

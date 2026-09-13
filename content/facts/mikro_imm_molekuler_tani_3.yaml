@@ -1,0 +1,11 @@
+id: mikro_imm_molekuler_tani_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Düşük antikor aviditesi neyi gösterir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_serolojik_testler]
+metin: "Primer (akut) enfeksiyonu."
+# kaynak: Pratik_Tr.txt

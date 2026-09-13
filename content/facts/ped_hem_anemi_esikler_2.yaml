@@ -1,0 +1,15 @@
+id: ped_hem_anemi_esikler_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Çocukta MCV alt ve üst normal sınırı nasıl hesaplanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_hematoloji
+  - ped_hem_anemi_yaklasim
+metin: Alt sınır ~70 fL + yaş (yıl); üst sınır ~84 + 0,6 x yaş.
+
+# kaynak: 4._Sınıf_Pediatri_Hilmi_Apak_2021-dersNutrisyonel_Anemiler.txt

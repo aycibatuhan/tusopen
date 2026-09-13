@@ -1,0 +1,10 @@
+id: pat_ug_prostat_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Prostat karsinomunun metastaz yeri ve takip belirteçleri?"
+taksonomi:
+  - [ttbt, patoloji, pat_alt_uriner_erkek_genital, pat_ug_prostat]
+metin: "Lomber vertebralara osteoblastik; PSA ve asit fosfataz."

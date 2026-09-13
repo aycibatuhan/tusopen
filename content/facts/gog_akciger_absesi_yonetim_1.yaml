@@ -1,0 +1,11 @@
+id: gog_akciger_absesi_yonetim_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akciğer absesinin en sık mekanizması ve etkenleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_aspirasyon_abse]
+metin: "Aspirasyon; ağız florasi anaerobları, genellikle mikst, yerleşim bağımlı segmentlerde."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer.absesi.V.txt

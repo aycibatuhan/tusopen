@@ -1,0 +1,19 @@
+id: ped_toks_parasetamol_4
+version: 1
+status: draft
+author: ai-drafts/toksikoloji-antidot
+sources:
+- Amerikan Akademik Klinik Toksikoloji (AACT) parasetamol pozisyon bildirileri — referans olarak listelendi, metin özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: Parasetamol zehirlenmesinin klinik fazları nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_zehirlenmeler
+metin: İlk 24 saatte bulantı-kusma; 24-72 saatte AST ve INR yükselmesi; ardından fulminan hepatik yetmezlik ya da iyileşme.
+tus_gecmisi:
+- tus-2015-ilkbahar-ttbt-101
+- tus-2020-ilkbahar-ktbt-53
+- tus-2020-ilkbahar-ktbt-54
+

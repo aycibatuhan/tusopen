@@ -1,0 +1,11 @@
+id: mikro_bacillus_cereus_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "B. cereus ishal formu hangi mekanizma ve saatte ortaya çıkar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_bacillus]
+metin: "Yaklaşık 18 saatte adenilat siklazı uyaran enterotoksinle sulu, kansız diyare."
+# kaynak: Bacillus_cinsi.txt

@@ -1,0 +1,11 @@
+id: mikro_enterobacteriaceae_antijenler_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Enterobacteriaceae'nin O, H ve K antijenlerinin yapısı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_enterobacteriaceae_genel]
+metin: "O: dış membran polisakkaridi (IgM), H: flagella proteini (IgG), K: kapsül polisakkaridi."
+# kaynak: Ecoli_ve_enter.txt, Salmonella_Shigella_Yersinia_(2).txt

@@ -1,0 +1,10 @@
+id: farm_pd_reseptorler_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İyon kanalına bağlı reseptörün yanıt süresi?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakodinamik, farm_pd_reseptorler]
+metin: "Milisaniyeler; sinir-kas iletiminde çalışır."

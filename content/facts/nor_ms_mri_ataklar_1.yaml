@@ -1,0 +1,11 @@
+id: nor_ms_mri_ataklar_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klinik izole sendromda başlangıç MR'ı pozitifse ikinci atak riski nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_demiyelinizan, noro_dy_ms]
+metin: "5 yılda %65, 10 yılda %83, 14 yılda %88."
+# kaynak: 5.sınıf_Nöroloji_Multipl_Skleroz.txt

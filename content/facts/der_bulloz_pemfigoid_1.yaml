@@ -1,0 +1,11 @@
+id: der_bulloz_pemfigoid_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Büllöz pemfigoidde immünflöresan bulgusu nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_pemfigoid]
+metin: "Bazal membran boyunca lineer IgG birikimiyle subepidermal ayrışma olur."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

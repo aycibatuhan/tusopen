@@ -1,0 +1,11 @@
+id: gog_tkp_tedavi_sureleri_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pnömoni tedavisinde beklenen yanıt ölçütleri nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_toplum_pnomoni]
+metin: "48-72 saatte klinik düzelme; CRP 4 günde %50 düşer, lökosit 4 güne kadar düzelir."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_pnömoni.txt

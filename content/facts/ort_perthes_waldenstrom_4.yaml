@@ -1,0 +1,11 @@
+id: ort_perthes_waldenstrom_4
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Perthes hastalığında kalça ağrısı nereye yansıyabilir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_perthes]
+metin: "Dize; aksama ve eklem hareket kısıtlılığı ile birliktedir."
+# kaynak: 5.sınıf_Ortopedi_aksayan_çocuk.txt

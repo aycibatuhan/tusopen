@@ -1,0 +1,11 @@
+id: biyok_apoptoz_kaspaz_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kaspazların özellikleri ve sonuç etkisi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_hucre_siklusu]
+metin: "Sistein proteazları aspartat bölgesinden keser; DNAaz aktivasyonuyla DNA fragmantasyonu oluşturur."
+# kaynak: 1._Sınıf_1.3_Biyokimya_Kanser_ve_Onkogenler_2019.txt

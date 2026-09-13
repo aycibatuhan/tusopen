@@ -1,0 +1,15 @@
+id: enf_dokuntu_patogonomonik_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Koplik lekesi, eritema kronikum migrans ve ektima gangrenosum hangi hastalıklarda görülür?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_genel_yaklasim
+  - enf_gy_ates_patogenezi
+metin: Sırasıyla kızamık, Lyme hastalığı ve Pseudomonas aeruginosa sepsisinde.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Ates__ve_do_ku_ntu__3.sınıf_(2).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Anamnez_FM.txt

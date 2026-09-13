@@ -1,0 +1,10 @@
+id: biyok_aa_kollajen_elastin_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C vitamini eksikliğinde kollajen hasarı ne yapar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_kollajen_elastin]
+metin: "Olgun kollajen yapılamaz; tablo skorbutla sonuçlanır."

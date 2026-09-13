@@ -1,0 +1,11 @@
+id: dah_tiroiditler_dequervain_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Postpartum tiroidit nasıl bir seyir gösterir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_tiroiditler]
+metin: "Tirotoksikoz-hipotiroidi evreli, kendini sınırlayan; immün rebound sonucu gelişir."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Hipotiroidi_ve_Tiroiditler.txt

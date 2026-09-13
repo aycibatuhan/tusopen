@@ -1,0 +1,11 @@
+id: mikro_par_trematod_genel_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nematodların ayırt edici özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_trematod]
+metin: "Uzun silindirik vücut, dişiler büyük, erkeğin arka ucu kıvrık, yumurtalar kapaksız."
+# kaynak: Protozoon_ve_Helmintlerin_Genel_Özellikleri.txt

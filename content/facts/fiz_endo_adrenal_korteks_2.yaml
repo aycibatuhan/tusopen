@@ -1,0 +1,10 @@
+id: fiz_endo_adrenal_korteks_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aldosteron distal tübül ve toplayıcı kanalda ne yapar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_adrenal_korteks]
+metin: "Sodyum geri emilimini artırır, potasyum ve hidrojen atılımını uyarır."

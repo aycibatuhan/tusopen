@@ -1,0 +1,11 @@
+id: anat_miyo_sirt_kaslar_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Erector spinae grubu lateralden mediale nasıl dizilir?
+taksonomi:
+  - [ttbt, anatomi, anat_miyoloji, anat_miyo_sirt_kaslari]
+metin: M. iliocostalis, m. longissimus, m. spinalis; otokton kasların tümü arka dallarla innerve edilir.
+# kaynak: 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_1.txt

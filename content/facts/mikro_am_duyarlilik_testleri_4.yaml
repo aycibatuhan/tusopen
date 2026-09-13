@@ -1,0 +1,11 @@
+id: mikro_am_duyarlilik_testleri_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Disk difüzyon testi nasıl yorumlanır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_duyarlilik]
+metin: "İnhibisyon zonu çapına göre kategorik: duyarlı, orta, dirençli."
+# kaynak: Antibiyotik_direnci_ve_önemi15.txt

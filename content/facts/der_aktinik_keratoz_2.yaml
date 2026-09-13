@@ -1,0 +1,11 @@
+id: der_aktinik_keratoz_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aktinik keratozların yüzde kaçı skuamöz hücreli karsinoma ilerler?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_deri_tumorleri, derm_tu_prekanseroz]
+metin: "%1-20'si (yaklaşık %10-15); riskli yerleşimler dudak, kulak, saçlı deridir."
+# kaynak: 5.sınıf_Dermatoloji_Prekanserözler__ZAF.txt

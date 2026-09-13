@@ -1,0 +1,12 @@
+id: der_bcc_shk_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Skuamöz hücreli karsinomun oranı ve davranışı nasıldır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_deri_tumorleri, derm_tu_bazal_hucreli]
+  - [ktbt, dermatoloji, derm_deri_tumorleri, derm_tu_skuamoz]
+metin: "Yaklaşık %16; 2-3 ayda 1 cm çapaya ulaşacak hızda ülserleşir, %10 metastaz yapar."
+# kaynak: 5.sınıf_Dermatoloji_zk_DERİ_KANSERLERİ.txt

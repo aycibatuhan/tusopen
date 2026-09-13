@@ -1,0 +1,14 @@
+id: genetik_mitokondriyal_kalitim_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: mtDNA neden maternal kalıtılır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_mendelian_kalitim
+metin: Spermden gelen mtDNA payı, zigottakinin yalnızca 1/10.000'idir.
+# kaynak: 1._Sınıf_1.2_Tıbbi_Biyoloji_Mitokondri_(M_Güven_2018-2019_Güz).txt

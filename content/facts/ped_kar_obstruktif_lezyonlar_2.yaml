@@ -1,0 +1,15 @@
+id: ped_kar_obstruktif_lezyonlar_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Aort koarktasyonunda tanıyı düşündüren bulgular nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_obstruktif_lezyonlar
+metin: Üst ekstremite hipertansiyonu, zayıf/almayan femoral nabız ve kol-bacak kan basıncı farkı.
+
+# kaynak: 4._Sınıf_Pediatri_Funda_Öztunç_AK_türkçe.txt, 2._Sınıf_2.2_pediatri_asiyanotikKH_türkçe.txt

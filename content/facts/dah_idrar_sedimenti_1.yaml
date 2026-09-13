@@ -1,0 +1,11 @@
+id: dah_idrar_sedimenti_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Silendir tipleri hangi hastalıkları düşündürür?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_bobrek_degerlendirme]
+metin: "Lökosit: piyelonefrit/interstisyel nefrit; epitelyal: ATN; balmumu: ileri yetmezlik; yağ: nefrotik sendrom."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_DRARIN_2.txt

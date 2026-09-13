@@ -1,0 +1,11 @@
+id: gog_pulmoner_ht_tani_esikleri_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BT'de pulmoner hipertansiyonu destekleyen bulgular nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_vaskuler, gog_vas_pulmoner_hipertansiyon]
+metin: "Ana pulmoner arter 29 mm üstü veya PA-asant aorta oranı 1 üstü."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_PULMONER_HİPERTANSİYON_2022.txt

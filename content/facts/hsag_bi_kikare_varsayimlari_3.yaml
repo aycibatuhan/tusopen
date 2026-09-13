@@ -1,0 +1,11 @@
+id: hsag_bi_kikare_varsayimlari_3
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ki-kare tablosunda serbestlik derecesi nasıl bulunur?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_ki_kare]
+metin: "(Satır sayısı-1) çarpı (sütun sayısı-1); 2x2'de alfa=0.05 için kritik değer 3.841."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_ki-KareANALİZİ.txt, 3._Sınıf_3.3_Biyoistatistik_Hipotez_Testleri_GENEL.txt

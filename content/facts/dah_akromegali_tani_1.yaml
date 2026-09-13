@@ -1,0 +1,11 @@
+id: dah_akromegali_tani_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akromegali tanısı hangi testlerle kesinleşir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_akromegali]
+metin: "100 gr OGTT'de GH baskılanamaz (nadir GH 1 µg/L üzeri) ve IGF-1 yaşa göre yüksektir."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Fonksiyonel_Hipofiz_Adenomlar_-.txt

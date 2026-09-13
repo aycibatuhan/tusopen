@@ -1,0 +1,11 @@
+id: goz_diyabetik_retinopati_4
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Diyabetik hastalarda yasal körlüğün önde gelen nedeni nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_diyabetik_retinopati]
+metin: "Makula ödemi."
+# kaynak: 5.sınıf_Göz_Hastalıkları_damar_hastalıkları.txt, 5.sınıf_Göz_Hastalıkları_DISEASES_OF_VITREOUS_AND_RETINA.txt

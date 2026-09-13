@@ -1,0 +1,11 @@
+id: anat_ost_vertebra_klinik_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Foramen transversarium'lardan neler geçer?
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_vertebra]
+metin: A. ve v. vertebralis geçer.
+# kaynak: 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_2.txt

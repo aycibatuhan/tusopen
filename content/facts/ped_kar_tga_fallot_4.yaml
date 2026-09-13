@@ -1,0 +1,15 @@
+id: ped_kar_tga_fallot_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Fallot tetralojisinin dört bileşeni nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_siyanotik
+metin: Geniş VSD, sağ ventrikül çıkış darlığı, dekstrapozisyonlu aorta ve sağ ventrikül hipertrofisi.
+
+# kaynak: 4._Sınıf_Pediatri_Reyhan_Dedeoğlu_Siyanotik_Kalp_hastalıkları_16_Eylül-2021_R.txt

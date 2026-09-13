@@ -1,0 +1,11 @@
+id: mikro_rna_retrovirus_hiv_tropizm_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HIV'in CCR5 ve CXCR4 tropizmleri bulaş yolunu nasıl belirler?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_retrovirus_hiv]
+metin: "CCR5 (R5) cinsel temasta, CXCR4 (X4) kan yoluyla bulaşır; X4 T hücrelerinde sinsitya yapar."
+# kaynak: 8-Retrovirüsler_2020.txt

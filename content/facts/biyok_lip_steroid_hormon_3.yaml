@@ -1,0 +1,10 @@
+id: biyok_lip_steroid_hormon_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "21-hidroksilaz eksikliğinin tanı belirteci ve klinik tablosu nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_steroid_hormon]
+metin: "17-hidroksiprogesteron yüksek bulunur; tuz kaybı şokla gelen yenidoğanda akılda tutulur."

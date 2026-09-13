@@ -1,0 +1,14 @@
+id: gc_tir_nodul_fnab_5
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Pediatrik tiroid nodülünde malign olasılık?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_bas_boyun_tiroid
+  - gc_tir_nodul
+metin: Erişkinin 4 katı; %40-60 servikal lenf nodu metastazı eşlik eder.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Serkan_Teksöz_GUATR-TİROİDİTLER.txt, 4._Sınıf_Genel_Cerrahi_2_Serkan_Teksöz_Tiroid_Kanserleri_2020.txt, 3._Sınıf_3.4_Genel_cerrahi_thyroid_sunu_ST-animasyonlu_TÜRKÇE.txt

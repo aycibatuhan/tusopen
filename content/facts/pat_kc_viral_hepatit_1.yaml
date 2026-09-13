@@ -1,0 +1,10 @@
+id: pat_kc_viral_hepatit_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HBsAg ve anti-HBs pozitifliği neyi gösterir?"
+taksonomi:
+  - [ttbt, patoloji, pat_karaciger_safra, pat_kc_viral_hepatit]
+metin: "Yüzey antijeni taşıyıcılığı; antikoru bağışıklığı gösterir."

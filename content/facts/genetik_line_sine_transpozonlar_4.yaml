@@ -1,0 +1,14 @@
+id: genetik_line_sine_transpozonlar_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: LINE-1'in Faktör VIII genine insersiyonu ne yapar?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_dna_yapi_repasyon
+metin: Hemofili A (bağımsız iki mutajenik insersiyon).
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_4._Ders_Gen_aileleri_DGA.txt

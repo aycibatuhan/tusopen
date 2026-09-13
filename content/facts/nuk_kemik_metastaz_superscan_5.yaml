@@ -1,0 +1,11 @@
+id: nuk_kemik_metastaz_superscan_5
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipertrofik pulmoner osteoartropatinin triadı ve kemik sintigrafisinde görülüşü nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_kemik, nt_km_metastaz]
+metin: "Periostit, çomak parmak, ağrılı artropati; uzun kemiklerin medial-lateral kenarlarında lineer tutulum yapar (akciğer kanseri)."
+# kaynak: 5.sınıf_Nükleer_Tıp_Kemik_Sintigrafisi-Nükleer_Tıp_staj-_5._sınıf_(1).txt

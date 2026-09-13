@@ -1,0 +1,11 @@
+id: dah_akalazya_miyenterik_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akalazyanın altta yatan patolojik nedeni nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_ozofagus_motilite]
+metin: "Auerbach (miyenterik) pleksus ganglion hücrelerinin dejenerasyonu ve sayıca azalması."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_Özofagus_Hastalıkları-4.Sınıf-Prof.Dr.Murat_TUNCER_.txt

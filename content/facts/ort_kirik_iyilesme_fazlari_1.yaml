@@ -1,0 +1,11 @@
+id: ort_kirik_iyilesme_fazlari_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kırık iyileşmesinin fazları nelerdir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kirik_genel, orto_kg_kirik_iyilesmesi]
+metin: "İnflamasyon, tamir ve remodelasyon fazları."
+# kaynak: 5.sınıf_Ortopedi_Kırık_İyileşmesi.txt

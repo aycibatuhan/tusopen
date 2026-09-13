@@ -1,0 +1,11 @@
+id: dah_kll_tani_fenotip_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "KLL'nin immünfenotipi ve tipik yayma bulgusu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_kll]
+metin: "CD5, CD19, CD23(+), soluk yüzey immünglobulini; Gumprecht (smudge) hücreleri."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_KML-KLL_Türkçe_-_AEE_2021.txt

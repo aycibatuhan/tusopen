@@ -1,0 +1,14 @@
+id: genetik_ailevi_hiperkolesterolemi_3
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bir LDL partikülü kaç kolesterol ester taşır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_mendelian_kalitim
+metin: Yaklaşık 1500 kolesterol ester; zarfında ApoB-100 bulunur.
+# kaynak: 1._Sınıf_1.2_Tıbbi_Biyoloji_Endositoz_(2018-19_Güz-M_Güven).txt, 1._Sınıf_1.2_Tıbbi_Biyoloji_GOLGİ_kompleks_2018_CTF.txt

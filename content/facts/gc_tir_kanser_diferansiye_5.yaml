@@ -1,0 +1,14 @@
+id: gc_tir_kanser_diferansiye_5
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Papiller ve folliküler karsinomda 5 yıllık sağkalım?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_bas_boyun_tiroid
+  - gc_tir_kanser
+metin: Papiller %93, folliküler %85.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Serkan_Teksöz_Tiroid_Kanserleri_2020.txt

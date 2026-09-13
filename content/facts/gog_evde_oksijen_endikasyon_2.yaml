@@ -1,0 +1,11 @@
+id: gog_evde_oksijen_endikasyon_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PaO2 56-59 mmHg'de oksijen tedavisi için ek koşullar nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_solunum_yetmezligi, gog_sy_oksijen_tedavisi]
+metin: "P pulmonale, hematokrit %56 üstü polisitemi, sağ kalp yetmezliği ödemi veya pulmoner hipertansiyon."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Solnum_yetmezliği__Oksijen_tedavisi.txt

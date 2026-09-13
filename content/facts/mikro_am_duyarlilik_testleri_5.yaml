@@ -1,0 +1,11 @@
+id: mikro_am_duyarlilik_testleri_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rutinde kullanılan otomatize duyarlılık sistemleri hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_duyarlilik]
+metin: "Vitek ve ATB; genotipik yöntemler PCR, sekans ve DNA problarıdır."
+# kaynak: Antibiyotik_direnci_ve_önemi15.txt

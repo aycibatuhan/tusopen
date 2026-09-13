@@ -1,0 +1,14 @@
+id: ped_met_lizozomal_4
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Pompe hastalığının eksikliği ve tablosu nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_lizozomal
+metin: Asidik maltaz (alfa-glukosidaz) eksikliği; lizozomal glikojen birikimi hipotonik bebekte hipertrofik kardiyomiyopati.
+

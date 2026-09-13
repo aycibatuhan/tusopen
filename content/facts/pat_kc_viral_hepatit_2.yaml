@@ -1,0 +1,10 @@
+id: pat_kc_viral_hepatit_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yeni hepatit B enfeksiyonunu gösteren antikor hangisidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_karaciger_safra, pat_kc_viral_hepatit]
+metin: "Çekirdek antijenine karşı IgM (anti-HBc IgM)."

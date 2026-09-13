@@ -1,0 +1,14 @@
+id: embriyo_sis_kalp_gelisim_temposu_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sinüs venozusun boynuzları neye dönüşür?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_kalp
+metin: Sağ boynuz sinüs venarum'u (sağ atriumun düz kısmı); sol boynuz koroner sinüs ve oblik veni.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_EMBRİYONİK_DÖNEMIIR.txt, 2._Sınıf_2.2_Histoloji_KVS_gelişimi_G._Tanrıverdi.2019.txt

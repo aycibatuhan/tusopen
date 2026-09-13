@@ -1,0 +1,11 @@
+id: kd_vulvovajinal_kandidiazis_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kandidiazis için predispozan faktörler nelerdir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_genital_enfeksiyonlar, kd_ge_vajinit]
+metin: "Diabetes mellitus, antibiyotik kullanımı, gebelik ve hücresel immünitedeki düşüklük."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Genital_Flora.txt

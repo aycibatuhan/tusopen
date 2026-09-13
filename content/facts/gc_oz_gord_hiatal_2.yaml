@@ -1,0 +1,14 @@
+id: gc_oz_gord_hiatal_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: LA grade D özofajit tanımı nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ozofagus
+  - gc_oz_gord_hiatal
+metin: Sirkumferansın %75'inden fazlasını kapsayan erozyonlar.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Emin_Köse_GÖRH.txt

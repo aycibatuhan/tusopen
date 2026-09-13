@@ -1,0 +1,14 @@
+id: gc_kol_hemoroid_5
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Milligan-Morgan ve Ferguson hemoroidektomilerin farkı?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_kolon_rektum_anus
+  - gc_kol_hemoroid
+metin: Milligan-Morgan açık, Ferguson kapalı tekniktir.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Asiye_Perek_A.Perek_(hemoroid_4.Sın.Türkçe).txt

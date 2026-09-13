@@ -1,0 +1,11 @@
+id: ftr_kladikasyo_ayrimi_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nörojenik ve vasküler kladikasyoda yokuş etkisi nasıl ayrılır?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_spinal_stenoz]
+metin: "Nörojenikte yokuş inerken ağrı artar; vaskülerde yokuş çıkarken ağrılıdır."
+# kaynak: 5.sınıf_FTR_Bel_Ağrıları.txt

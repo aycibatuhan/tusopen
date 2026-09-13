@@ -1,0 +1,11 @@
+id: gog_sft_obstruksiyon_restriksiyon_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Değişken ekstra ve intratorasik obstrüksiyonda FIF50-FEF50 oranı nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_tani_yontemleri, gog_ty_sft]
+metin: "Ekstratorasikte 1 üstü, intratorasikte 1 altı; fiks obstrüksiyonda her iki akım düzleşir."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Kısa_Solunum_Fonksiyon_Testleri_2022-23_Ders_Bilun.txt

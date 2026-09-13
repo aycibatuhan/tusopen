@@ -1,0 +1,11 @@
+id: fiz_kas_motor_unite_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnervasyon oranı hassas ve kaba kuvvet kaslarında nasıldır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_iskelet]
+metin: "Hassas kaslarda küçük (göz 1:1, parmak 1:10), kaba kuvvette büyük (sırt 1:100)."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_Kas_fizyolojisi_2._ve_3._Ders_2019.txt

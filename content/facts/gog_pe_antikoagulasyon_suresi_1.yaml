@@ -1,0 +1,11 @@
+id: gog_pe_antikoagulasyon_suresi_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pulmoner embolide başlangıç antikoagülasyonu nasıl planlanır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_vaskuler, gog_vas_pulmoner_emboli]
+metin: "Heparin en az 5 gün (UFH'de aPTT 1,5-2,5 kat); warfarinle INR 2,0-3,0."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_PULMONER_EMBOLİ_2022_ders.txt

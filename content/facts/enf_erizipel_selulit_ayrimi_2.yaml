@@ -1,0 +1,15 @@
+id: enf_erizipel_selulit_ayrimi_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Erizipel ve selülitin başlıca etkenleri kimlerdir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_selulit_erizipel
+metin: Erizipelde A grubu beta-hemolitik streptokok; selülitte S. aureus ve beta-hemolitik streptokoklar.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_DYDİ_2021Neşe_Saltoğlu.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Sistemlere_göre_sık_enfeksiyonlar.txt

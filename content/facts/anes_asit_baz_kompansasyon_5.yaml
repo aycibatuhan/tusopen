@@ -1,0 +1,11 @@
+id: anes_asit_baz_kompansasyon_5
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Arter laktatı hangi değerde şoku gösterir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_sivi_kan, anes_sk_asit_baz]
+metin: "Normal laktat 0,4 ile 1,4 mmol/L'dir; 4 mmol/L üstü şoku gösterir."
+# kaynak: 4._Sınıf_Anestezi_2.txt, 4._Sınıf_Anestezi_Özlem_asit_baz.txt

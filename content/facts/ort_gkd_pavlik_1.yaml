@@ -1,0 +1,11 @@
+id: ort_gkd_pavlik_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ortolani ve Barlow testleri neyi gösterir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_gkd]
+metin: "Ortolani redüksiyon hissi, Barlow dislokasyon hissi verir."
+# kaynak: 5.sınıf_Ortopedi_Gelişimsel_kalça_displazisi.txt

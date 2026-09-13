@@ -1,0 +1,11 @@
+id: dah_diabetes_insipidus_tani_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Poliüri tanım eşiği nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diabetes_insipidus_siadh]
+metin: "Solüt diürezi olmaksızın 50 ml/kg/gün veya 3500 ml üzeri idrar."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Arka_Hipofiz_Hastalıkları.txt

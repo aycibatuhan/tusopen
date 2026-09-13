@@ -1,0 +1,11 @@
+id: mikro_chlamydia_pneumoniae_psittaci_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C. pneumoniae'nin eski adı ve serotip durumu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_chlamydia]
+metin: "Eski adı TWAR; tek serotipli, yalnızca insan patojenidir."
+# kaynak: 4-_Chlamydia.txt

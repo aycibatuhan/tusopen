@@ -1,0 +1,11 @@
+id: mikro_cryptosporidium_ishal_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "1993 ABD Cryptosporidium salgını neden kaynak suyundan oldu?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_barsak_protozoa]
+metin: "Klora direnci ve su filtrelerinden geçişiyle 400.000 kişi enfekte oldu."
+# kaynak: Sindirim_kanalı_protozoonları_2.txt

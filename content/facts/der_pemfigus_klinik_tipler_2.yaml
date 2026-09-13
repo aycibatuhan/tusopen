@@ -1,0 +1,11 @@
+id: der_pemfigus_klinik_tipler_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pemfigus vejetans nerede görülür?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_pemfigus]
+metin: "Aksilla ve kasık gibi büyük büklüm yerlerinde bül sonrası vejetan kitleler gelişir."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

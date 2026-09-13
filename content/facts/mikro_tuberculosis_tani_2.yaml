@@ -1,0 +1,11 @@
+id: mikro_tuberculosis_tani_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "M. tuberculosis Löwenstein-Jensen'de ne zaman ürer?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_tuberculosis]
+metin: "Yayma pozitif balgamda 2-3 hafta, negatif örneklerde 4-8 haftada."
+# kaynak: Mycobacterium_tuberculosis.txt

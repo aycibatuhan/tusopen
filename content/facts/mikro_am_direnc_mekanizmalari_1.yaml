@@ -1,0 +1,11 @@
+id: mikro_am_direnc_mekanizmalari_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bakterilerin antibiyotiğe direncinde dört ana mekanizma hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_direnc]
+metin: "Geçirgenlikte azalma (porin kaybı), parçalayıcı enzimler, hedef bölge değişikliği ve efüks pompaları."
+# kaynak: Antibiyotik_direnci_ve_önemi15.txt

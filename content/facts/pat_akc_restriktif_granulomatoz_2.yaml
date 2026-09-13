@@ -1,0 +1,11 @@
+id: pat_akc_restriktif_granulomatoz_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sarkoidoz granülomlarında hangi cisimcikler görülür?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_restriktif]
+metin: "Schaumann (protein-kalsiyum) ve asteroid cisimcikleri."
+# kaynak: 2._Sınıf_2.3_Patoloji_6-Solunum_sistemi_hastalıkları_2019.txt

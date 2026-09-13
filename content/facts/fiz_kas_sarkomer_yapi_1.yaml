@@ -1,0 +1,11 @@
+id: fiz_kas_sarkomer_yapi_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kalın filamentin yapısal özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_iskelet]
+metin: "Her miyozin-II'de 2 ağır, 4 hafif zincir; baş ATPaz; 200'den fazla miyozin."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_Kas_fizyolojisi_1.Ders_2019.txt

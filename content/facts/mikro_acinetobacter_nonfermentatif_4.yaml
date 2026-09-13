@@ -1,0 +1,11 @@
+id: mikro_acinetobacter_nonfermentatif_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dezenfektanlarla salgın yapan ve TMP-SMX ile tedavi edilen hastane etkeni hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_pseudomonas]
+metin: "Stenotrophomonas maltophilia; fırsatçı bir hastane etkenidir, tedavisi TMP-SMX-tir."
+# kaynak: nf.txt

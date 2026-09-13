@@ -1,0 +1,11 @@
+id: anat_abd_duodenum_klinik_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Vater ampullası duodenuma nerede açılır?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_ince_barsak]
+metin: Ostium pyloricumdan 10 cm ilerideki papilla duodeni major'a; Oddi sfinkteri kontrolünde.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-TURAN_PEŞTAMALCI-_AbdominoPelvikOrganlar_II_İNCE_BARSAKLAR.txt

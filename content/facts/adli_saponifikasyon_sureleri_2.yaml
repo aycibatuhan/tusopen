@@ -1,0 +1,11 @@
+id: adli_saponifikasyon_sureleri_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Suda ve toprakta sabunlaşma süreleri ve renkleri nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_zamani]
+metin: "Suda 1 yılda beyaz-gri, toprakta 3 yılda sarı-kahverengimsi."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_BELİRTİLERİ_-_2_PROF._DR._SERMET_KOÇ.txt

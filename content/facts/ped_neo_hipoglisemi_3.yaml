@@ -1,0 +1,15 @@
+id: ped_neo_hipoglisemi_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Semptomatik yenidoğan hipoglisemisinde nörolojik hasar riski kaçtır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_hipoglisemi
+metin: '%30-50''ye ulaşır; olguların >%80''i asemptomatiktir.'
+
+# kaynak: 4._Sınıf_Pediatri_Ersin_Ulu_yenidoğan_metabolik_sorunları_kopya.txt

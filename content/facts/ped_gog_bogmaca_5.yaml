@@ -1,0 +1,15 @@
+id: ped_gog_bogmaca_5
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yenidoğanları boğmacadan korumak için ne önerilir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_bogmaca
+metin: 'Koza yöntemi: yakın temaslıların ve anne adayının aşılanması.'
+
+# kaynak: 4._Sınıf_Pediatri_Haluk_Çokuğraş_bog-kab.txt

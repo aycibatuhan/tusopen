@@ -1,0 +1,11 @@
+id: psik_antisosyal_kb_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Antisosyal kişilik bozukluğunda erkek-kadın oranı nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_kisilik, psik_kb_b_kumesi]
+metin: "3/1."
+# kaynak: 5.sınıf_PSİKİYATRİ_KİŞİLİK_BOZ_yeni.txt

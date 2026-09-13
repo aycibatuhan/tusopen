@@ -1,0 +1,11 @@
+id: gog_kronik_oksuruk_nedenler_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Öksürük süreye göre nasıl sınıflanır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_klinik_sorunlar, gog_dk_kronik_oksuruk]
+metin: "Akut 3 haftanın altı, subakut 3-8 hafta, kronik 8 haftanın üstü."
+# kaynak: 2._Sınıf_2.3_Göğüs_hastalıkları_Öksürük_balgam_hemoptizi_ders.txt

@@ -1,0 +1,10 @@
+id: anat_tor_duvar_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Torasentez kaburganın neresine yakın yapılır?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_duvar]
+metin: Üst kenara yakın; VAN oluğun alt kenarında üstten alta dizilidir.

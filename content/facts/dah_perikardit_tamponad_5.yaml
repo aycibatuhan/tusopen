@@ -1,0 +1,11 @@
+id: dah_perikardit_tamponad_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hızlı biriken perikardiyal efüzyon ne kadar hacimde tamponad yapabilir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_kardiyovaskuler, dah_kv_perikardit]
+metin: "100-200 ml; yavaş biriken 1-2 litre yapmayabilir."
+# kaynak: 2._Sınıf_2.2_kardiyoloji_27perikardit_8_söm.txt

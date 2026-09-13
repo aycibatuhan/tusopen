@@ -1,0 +1,11 @@
+id: kd_aub_emb_endikasyonlari_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "45 yaş üstü ovulatuar disfonksiyonlu AUB'de endometrial biyopsi gerekli mi?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_amenore_bozukluklar, kd_am_anormal_uterin_kanama]
+metin: "Endikedir; amacı hiperplazi ve endometrium kanserini dışlamaktır."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ANORMAL_UTERUS_KANAMALARI.txt

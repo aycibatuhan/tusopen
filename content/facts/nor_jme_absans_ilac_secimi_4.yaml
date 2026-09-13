@@ -1,0 +1,11 @@
+id: nor_jme_absans_ilac_secimi_4
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fokal nöbetlerde hangi antiepileptik kullanılamaz?"
+taksonomi:
+  - [ktbt, noroloji, noro_epilepsi, noro_ep_tedavi]
+metin: "Ethosüksimid; monoterapi önce değerlendirilmelidir."
+# kaynak: 5.sınıf_Nöroloji_staj_tedavi_2022_o_g_renci_kopya.txt

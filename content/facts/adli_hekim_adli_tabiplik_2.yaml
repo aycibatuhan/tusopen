@@ -1,0 +1,11 @@
+id: adli_hekim_adli_tabiplik_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adli muayenede uyulması gereken temel kurallar nelerdir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_prosedur_mevzuat, adl_pm_bilirkisilik]
+metin: "Aydınlatılmış onam, zarar vermemek, bulguların kaydı, delillerin muhafazası, işkencenin ihbarı."
+# kaynak: 5.sınıf_Adli_Tıp_Bölüm_3_RAPORLAR_PROF._DR._ABDİ_ÖZASLAN.txt

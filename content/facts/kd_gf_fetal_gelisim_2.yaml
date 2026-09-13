@@ -1,0 +1,10 @@
+id: kd_gf_fetal_gelisim_2
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fetal dolaşımdaki üç şant hangileridir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_fetal_gelisim]
+metin: "Ductus venosus, foramen ovale ve ductus arteriosus."

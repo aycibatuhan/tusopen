@@ -1,0 +1,11 @@
+id: pat_akc_restriktif_granulomatoz_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipersensitivite pnömonisi ne zaman ve hangi mekanizmayla gelişir?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_restriktif]
+metin: "Organik tozdan 4-8 saat sonra; tip III ve tip IV mekanizmayla."
+# kaynak: 2._Sınıf_2.3_Patoloji_6-Solunum_sistemi_hastalıkları_2019.txt

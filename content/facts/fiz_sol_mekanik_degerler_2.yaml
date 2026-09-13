@@ -1,0 +1,11 @@
+id: fiz_sol_mekanik_degerler_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Toplam elastik geri çekmenin bileşen dağılımı nasıldır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_mekanik]
+metin: "Üçte biri doku elastik, üçte ikisi yüzey gerilim kuvvetlerindendir."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

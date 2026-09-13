@@ -1,0 +1,15 @@
+id: ped_hem_anemi_esikler_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: WHO'ya göre çocuk ve gebelikte anemi eşiği nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_hematoloji
+  - ped_hem_anemi_yaklasim
+metin: 0,5-6 yaş Hb <11 g/dl, 6-14 yaş <12 g/dl, gebelikte <11 g/dl.
+
+# kaynak: 4._Sınıf_Pediatri_Hilmi_Apak_2021-dersNutrisyonel_Anemiler.txt

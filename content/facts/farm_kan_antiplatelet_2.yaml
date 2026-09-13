@@ -1,0 +1,11 @@
+id: farm_kan_antiplatelet_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tiklopidin ve klopidogrelin mekanizması?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kan, farm_kan_antiplatelet]
+metin: "ADP reseptör bloğu; GP IIb/IIIa aktivasyonu önlenir, tiklopidin nötropeni."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.4_Farmakoloji_2.4_Farmakoloji_03_Trombolitik_İlaçlar.Sibel_ÖZYAZGAN..txt

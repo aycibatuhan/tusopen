@@ -1,0 +1,15 @@
+id: ped_enf_ates_tanim_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sıtma ritimleri Plasmodium türlerine göre nasıldır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_enfeksiyon
+  - ped_enf_ates_yaklasim
+metin: Falciparum 24 saatte (quotidien), vivax/ovale 48 saatte (tersiyan), malariae 72 saatte (quartan).
+
+# kaynak: 3._Sınıf_3.5_Pediatri_Ateş.txt

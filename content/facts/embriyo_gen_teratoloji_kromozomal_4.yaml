@@ -1,0 +1,14 @@
+id: embriyo_gen_teratoloji_kromozomal_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yaşayabilen tek monozomi hangisidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_teratoloji
+metin: Turner sendromu (45,X); fetusların %98'i kendiliğinden düşer.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_2.GAMETOGENEZ-I.txt

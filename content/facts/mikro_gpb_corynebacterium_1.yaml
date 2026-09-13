@@ -1,0 +1,10 @@
+id: mikro_gpb_corynebacterium_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C. diphtheriae'de metakromatik granüller nasıl gösterilir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_corynebacterium]
+metin: "Löffler serum besiyerinde; Albert veya Neisser boyasıyla."

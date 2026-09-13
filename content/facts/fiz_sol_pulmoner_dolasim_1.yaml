@@ -1,0 +1,11 @@
+id: fiz_sol_pulmoner_dolasim_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pulmoner arter basınç değerleri ve dolaşım karakteri nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_ventilasyon_perfuzyon]
+metin: "25/10 mmHg, ortalama 15, kapiller 7; yüksek akım-düşük dirençli."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

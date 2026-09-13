@@ -1,0 +1,10 @@
+id: biyok_lip_kolesterol_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kolesitiramin reçineleri LDL'yi nasıl düşürür?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_kolesterol]
+metin: "Safra asidini bağırsakta yakalayıp atar; karaciğer kolesterol sentezine itilir, LDL düşer."

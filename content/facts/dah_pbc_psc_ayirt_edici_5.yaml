@@ -1,0 +1,11 @@
+id: dah_pbc_psc_ayirt_edici_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PSC'nin önemli riski ve medyan yaşam süresi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_pbc_psc]
+metin: "Kolanjiokarsinom riski artmıştır; medyan yaşam süresi 9-12 yıl."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Dahiliye_İBRAHİM_HATEMİ-kolestaz_ve_sarılıklar.txt

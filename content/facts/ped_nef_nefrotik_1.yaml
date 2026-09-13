@@ -1,0 +1,15 @@
+id: ped_nef_nefrotik_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Çocukta nefrotik sendrom kriterleri nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_nefroloji
+  - ped_nef_nefrotik
+metin: Proteinüri ≥1 g/m2/gün (40 mg/m2/saat), <2,5 g/dl hipoalbuminemi, ödem ve hiperkolesterolemi.
+
+# kaynak: 4._Sınıf_Pediatri_Ayşe_Ağbaş_Nefrotik_sendrom_dersi.txt

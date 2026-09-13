@@ -1,0 +1,11 @@
+id: der_dermatitis_herpetiformis_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dermatitis herpetiformiste gluten enteropatisi sıklığı?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_dermatitis_herpetiformis]
+metin: "Hastaların %90'ında; ancak yalnızca %20'sinde bağırsak semptomları bulunur."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

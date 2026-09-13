@@ -1,0 +1,11 @@
+id: pat_hem_mpn_pv_et_pmf_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Polisitemia vera'nın kemik iliği ve genetik bulgusu?"
+taksonomi:
+  - [ttbt, patoloji, pat_hematopoetik, pat_hem_kronik_losemi_mpn]
+metin: "Panmiyelozis; olguların %97'sinde JAK2 nokta mutasyonu."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.4_patoloji_Hilal_Akı_hematopathology-turkce.txt

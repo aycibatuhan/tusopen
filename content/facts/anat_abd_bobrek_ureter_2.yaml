@@ -1,0 +1,11 @@
+id: anat_abd_bobrek_ureter_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Renal hilumda yapılar önden arkaya nasıl sıralanır?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_bobrek_ureter]
+metin: Önden arkaya v. renalis, a. renalis ve pelvis renalis sıralanır.
+# kaynak: 3._Sınıf_3.2_Anatomi_üriner_sistem_2020.txt

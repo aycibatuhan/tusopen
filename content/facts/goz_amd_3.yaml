@@ -1,0 +1,11 @@
+id: goz_amd_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Eksudatif (yaş) AMD'nin tedavisi nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_yasa_bagli_makula]
+metin: "Anti-VEGF enjeksiyonları, fotodinamik tedavi veya lazer fotokoagülasyon."
+# kaynak: 5.sınıf_Göz_Hastalıkları_MAKULA_HASTALIKLARI.txt, 5.sınıf_Göz_Hastalıkları_DISEASES_OF_VITREOUS_AND_RETINA.txt

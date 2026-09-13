@@ -1,0 +1,11 @@
+id: biyok_hb_bohr_bpg_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bohr etkisi nedir ve neyi kolaylaştırır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_hemoglobin_miyoglobin]
+metin: "H+ ve CO2 oksijen ilgisini azaltır; dokuya oksijen salınımını kolaylaştırır."
+# kaynak: 1._Sınıf_1.1_Biyokimya_2018.10.23__Myoglobin-Hb_2018.txt

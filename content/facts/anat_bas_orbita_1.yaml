@@ -1,0 +1,10 @@
+id: anat_bas_orbita_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Canalis opticus'tan hangi yapılar geçer?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_orbita]
+metin: N. opticus ve a. ophthalmica geçer.

@@ -1,0 +1,11 @@
+id: gog_tkp_curb65_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CURB-65 skoru hangi parametrelerden oluşur?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_toplum_pnomoni]
+metin: "Konfüzyon, üre 7 mmol/l üstü, solunum 30/dk üstü, SKB 90 (DT 60) altı, 65 yaş üstü."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_pnömoni.txt

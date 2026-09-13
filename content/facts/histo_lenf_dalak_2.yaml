@@ -1,0 +1,13 @@
+id: histo_lenf_dalak_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yaşlanmış eritrositler dalakta nerede ayıklanır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_lenfoid
+  - histo_lenf_dalak
+metin: Kırmızı pulpada; sinüzoidler ve splenik kordlardaki makrofajlarca.

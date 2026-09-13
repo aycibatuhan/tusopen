@@ -1,0 +1,11 @@
+id: kard_pht_hemodinamik_tanim_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pulmoner hipertansiyonun güncel hemodinamik tanımı nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_pulmoner_hipertansiyon, kard_ph_siniflama]
+metin: "Sağ kalp kateterizasyonuyla dinlenmede ortalama PAB >20 mmHg (eski eşik ≥25)."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

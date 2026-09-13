@@ -1,0 +1,50 @@
+id: anat_tor_koroner_1
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sol koroner arterin ana dalları?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_toraks
+  - anat_tor_koroner
+metin: Ön inen (LAD) ve sirkumfleks; LAD septum ve sol ventrikül ön duvarını besler.
+gorsel:
+  dosya: Coronary_arteries.svg
+  kaynak: https://commons.wikimedia.org/wiki/File:Coronary_arteries.svg
+  lisans: CC BY-SA 3.0
+  yazar: Patrick J. Lynch, medical illustrator (original); Fred the Oyster (vector); Mikael Häggström,
+    M.D. (adaptation and labeling)
+  etiketler:
+  - ad: Aort kökü
+    x: 14
+    y: 17
+    w: 9
+    h: 6
+  - ad: Sağ koroner arter (RCA)
+    x: 4
+    y: 41
+    w: 19
+    h: 9
+  - ad: Ön inen arter (LAD)
+    x: 71
+    y: 37
+    w: 22
+    h: 12
+  - ad: Sol sirkumfleks arter
+    x: 71
+    y: 56
+    w: 18
+    h: 9
+  - ad: Sol marjinal arter
+    x: 71
+    y: 65
+    w: 22
+    h: 9
+  - ad: Sağ marjinal arter
+    x: 4
+    y: 72
+    w: 19
+    h: 8

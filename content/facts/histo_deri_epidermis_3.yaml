@@ -1,0 +1,13 @@
+id: histo_deri_epidermis_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kornifiye katman hücrelerinin özellikleri nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_deri
+  - histo_deri_epidermis
+metin: Çekirdeksizdir ve keratinle doludur.

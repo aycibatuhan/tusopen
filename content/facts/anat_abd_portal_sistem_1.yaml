@@ -1,0 +1,10 @@
+id: anat_abd_portal_sistem_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: V. portae hepatis nasıl oluşur?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_portal_sistem]
+metin: V. mesenterica superior ile v. splenica, pankreas boynunun arkasında birleşerek.

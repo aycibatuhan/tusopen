@@ -1,0 +1,11 @@
+id: anat_ost_vertebra_klinik_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: C1, C2 ve C7'nin ayırt edici özellikleri?
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_vertebra]
+metin: C1'de spinöz çıkıntı yok, C2'de dens axis, C7 vertebra prominens.
+# kaynak: 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_2.txt

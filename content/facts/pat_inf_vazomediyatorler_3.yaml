@@ -1,0 +1,11 @@
+id: pat_inf_vazomediyatorler_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serotonini kaynakları ve etkisi nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_mediatorler]
+metin: "Trombosit-enterokromaffin hücreler; vazokonstriksiyon, karsinoid sendrom mediyatörü."
+# kaynak: 1._Sınıf_1.4_Patoloji_3-CTF_inflamasyon.txt

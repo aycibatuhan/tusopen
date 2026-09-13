@@ -1,0 +1,15 @@
+id: ped_nef_nefrotik_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Nefrotik sendromda biyopsi olmadan tedaviye ne zaman başlanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_nefroloji
+  - ped_nef_nefrotik
+metin: 1-10 yaş, sistemik hastalık yok, saf nefrotik tablo; oral prednizolon 2 mg/kg/gün (60 mg/m2) tek doz sabah.
+
+# kaynak: 4._Sınıf_Pediatri_Ayşe_Ağbaş_Nefrotik_sendrom_dersi.txt

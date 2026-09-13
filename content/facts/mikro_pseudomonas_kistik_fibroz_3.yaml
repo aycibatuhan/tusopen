@@ -1,0 +1,11 @@
+id: mikro_pseudomonas_kistik_fibroz_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Diabetiklerde kemik yapıyı haraplayan dış kulak yolu enfeksiyonunun etkeni kimdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_pseudomonas]
+metin: "P. aeruginosa; malign otitis externa yapar, 'yüzücü kulağı' da tablosudur."
+# kaynak: nf.txt

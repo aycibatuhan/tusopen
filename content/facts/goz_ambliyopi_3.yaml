@@ -1,0 +1,11 @@
+id: goz_ambliyopi_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ambliyopi tanısında görme keskinliği kriteri nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_sasilik_pediatrik, goz_sp_ambliyopi]
+metin: "Diğer göze göre 2 sıra veya daha fazla azalmadır."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Şaşılık.DERS_-_Kopya.txt

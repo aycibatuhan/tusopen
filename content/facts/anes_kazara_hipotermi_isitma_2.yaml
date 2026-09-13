@@ -1,0 +1,11 @@
+id: anes_kazara_hipotermi_isitma_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipoterminin şiddet dereceleri nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_hipotermi]
+metin: "Ciddi 30°C altı, modere 30-32°C, hafif 32-35°C."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Hipotermi_Suda_boğulma_Anaflaksi.txt

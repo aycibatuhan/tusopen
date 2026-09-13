@@ -1,0 +1,11 @@
+id: der_uyuz_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uyuzda akarlar en sık nerede bulunur?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_skabiyez_pedikuloz]
+metin: "Erişkin olguların %85'inde el ve bileklerdedir; kaşıntı gece şiddetlenir."
+# kaynak: 5.sınıf_Dermatoloji_ZK-Paraziter_hastalıklar10.txt

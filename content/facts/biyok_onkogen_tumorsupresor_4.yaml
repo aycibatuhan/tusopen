@@ -1,0 +1,11 @@
+id: biyok_onkogen_tumorsupresor_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "p53 ve Rb'nin kromozom yerleri ve görevleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_hucre_siklusu]
+metin: "p53 (17p) genomun bekçisi; Rb (13q14) E2F'yi bağlar; BRCA1/2, APC ilişkili."
+# kaynak: 1._Sınıf_1.3_Biyokimya_Kanser_ve_Onkogenler_2019.txt

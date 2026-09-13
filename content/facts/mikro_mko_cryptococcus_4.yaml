@@ -1,0 +1,11 @@
+id: mikro_mko_cryptococcus_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C. neoformans'ın var. grubii ve var. gattii kaynakları nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_firsatci]
+metin: "Grubii (serotip A) güvercin dışkısı; gattii (B+C) ökaliptus kabuğu."
+# kaynak: Candida__C.neoformans_ve_diğer_maya_mantarları.txt, Mantarlara_karşı_immünite.txt

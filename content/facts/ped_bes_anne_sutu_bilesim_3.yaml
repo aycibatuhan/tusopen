@@ -1,0 +1,15 @@
+id: ped_bes_anne_sutu_bilesim_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Anne sütünün böbrek solüt yükü inek sütüne göre nasıldır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_anne_sutu
+metin: Belirgin düşüktür (~80'e karşılık ~220 mosm).
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_Doğal_Beslenme-Sınıf_4.txt

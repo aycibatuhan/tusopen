@@ -1,0 +1,13 @@
+id: gc_tp_hemostaz_transfuzyon_5
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akut hemolitik transfüzyon reaksiyonu bulguları?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_hemostaz_transfuzyon
+metin: İlk 15 dakikada ateş, bel ağrısı, hemoglobinüri (ABO uyuşmazlığı).

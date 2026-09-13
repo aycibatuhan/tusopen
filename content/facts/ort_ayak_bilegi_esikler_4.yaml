@@ -1,0 +1,11 @@
+id: ort_ayak_bilegi_esikler_4
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tibiofibular clear space normal üst sınırı nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_ayak_bilegi]
+metin: "AP ve mortise görünümde 6 mm'den az olmalıdır."
+# kaynak: 5.sınıf_Ortopedi_AYAK_VE_AYAK_BİLEĞİ_MUAYENESİ_İNG-MKÖ.txt

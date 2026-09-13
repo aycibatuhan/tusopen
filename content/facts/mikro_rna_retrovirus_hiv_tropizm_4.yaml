@@ -1,0 +1,11 @@
+id: mikro_rna_retrovirus_hiv_tropizm_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut retroviral sendromda viral yük ve antijen düzeyi nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_retrovirus_hiv]
+metin: "HIV-RNA 10^7-10^8 kopya-ml seviyesine çıkar; p24 pozitifleşir."
+# kaynak: 8-Retrovirüsler_2020.txt

@@ -1,0 +1,11 @@
+id: der_psoriasis_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Siklosporin psoriasisde nasıl kullanılır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_papuloskuamoz, derm_ps_psoriasis]
+metin: "2.5-5 mg/kg/gün, böbrek fonksiyonu izlenerek; kesimden sonra 3-4 ayda hızlı nüks."
+# kaynak: 5.sınıf_Dermatoloji_psoriasis.txt, 5.sınıf_Dermatoloji_ZK-Psoriasis_and_Psoriasiform_diseases.txt

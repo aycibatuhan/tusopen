@@ -1,0 +1,13 @@
+id: histo_dol_damarlar_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kan-beyin bariyerini sağlayan kapiller tipi hangisidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_dolasim
+  - histo_dol_damarlar
+metin: Sürekli kapillerler (en yaygın tip; endotel hücreleri sıkı bitişiktir).

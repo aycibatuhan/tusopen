@@ -1,0 +1,10 @@
+id: pat_akc_tumorler_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi akciğer karsinomu PTHrP ile hiperkalsemi yapabilir?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_tumorler]
+metin: "Skuamöz hücreli karsinom (merkezî yerleşimli)."

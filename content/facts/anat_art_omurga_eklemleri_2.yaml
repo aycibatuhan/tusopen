@@ -1,0 +1,11 @@
+id: anat_art_omurga_eklemleri_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Başın evet tarzı fleksiyon-ekstansiyonu hangi eklemle olur?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_omurga_eklem]
+metin: Art. atlantooksipitalis; condylar tiptedir.
+# kaynak: 2._Sınıf_2.1_Anatomi_2-1_-_Genel_Eklem_Bilgisi.txt, 1._Sınıf_1.1_Anatomi_---2018.09.27__Lokomotor_Sistem-2_3.txt, 1._Sınıf_1.1_Anatomi_EKLEMLER_HAKKINDA_GENEL_BİLGİ_-Uyumluluk_Modu-.txt

@@ -1,0 +1,11 @@
+id: kbb_tiroglossal_kist_sistrunk_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tiroglossal duktus kistinde tipik hareket bulgusu nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_boyun, kbb_by_konjenital_kitleler]
+metin: "Dilin çıkarılmasıyla kitlenin vertikal hareket etmesi."
+# kaynak: 5.sınıf_KBB_Boyun_Kitleleri_ders_notları_2016.txt

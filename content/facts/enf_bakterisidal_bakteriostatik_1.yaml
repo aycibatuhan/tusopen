@@ -1,0 +1,15 @@
+id: enf_bakterisidal_bakteriostatik_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sepsis ve pürülan menenjitte bakterisidal mi bakteriostatik mi seçilir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_ampirik_tedavi
+metin: Bakterisidal; sepsis, pürülan menenjit, infektif endokardit ve febril nötropenide seçilmelidir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotik_2019.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Kemik-eklem_enfeksiyonları-2015-son.txt

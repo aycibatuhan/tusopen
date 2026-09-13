@@ -1,0 +1,11 @@
+id: gog_bag_dokusu_akciger_tablo_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Romatoid artritte akciğer tutulum sıklığı ve en sık bulgu nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_bag_dokusu]
+metin: "Yaklaşık %50; en sık bulgu bronşektazi (hastaların ~%25'i)."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_sistemik_hastalıklar_ve_akciğer_ders.txt

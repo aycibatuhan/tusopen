@@ -1,0 +1,11 @@
+id: dah_vwd_tipler_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "von Willebrand hastalığı tipleri nasıl ayrışır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_trombosit_fonksiyon]
+metin: "Tip 1 kantitatif (antijen≈aktivite), tip 2 kalitatif (aktivite düşük), tip 3'te tümü %10 altı."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Hemofili_ve_vonWillebrand_Hastalığı.mcemar.4.sınıf.2020.txt

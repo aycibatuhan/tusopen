@@ -1,0 +1,11 @@
+id: bcy_subdural_kanama_3
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Subdural hematomin başvurudaki nörolojik tablosu epidurale göre nasıldır?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_kafa_travmasi, bce_kt_subdural_kanama]
+metin: "Belirgin daha kötüdür."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Kafa_Travması_F.Ö.txt

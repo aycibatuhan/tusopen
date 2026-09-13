@@ -1,0 +1,11 @@
+id: psik_nms_tani_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "NMS belirtileri ne zaman başlar ve tedavisiz ne kadar sürer?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikofarmakoloji, psik_pf_nms]
+metin: "24-72 saat içinde başlar; tedavi edilmezse 10-14 gün sürer."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt

@@ -1,0 +1,14 @@
+id: gc_ib_obstruksiyon_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tam obstrüksiyonda medikal tedaviyle ne kadar beklenir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ince_barsak
+  - gc_ib_obstruksiyon
+metin: 12-24 saat; süre aşılırsa mortalite belirgin artar.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Faik_Özçelik__BAĞIRSAK_TIKANIKLIKLARI-2022__dosyasını_sizinle_paylaşıyorum.txt

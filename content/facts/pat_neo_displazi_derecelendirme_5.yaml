@@ -1,0 +1,11 @@
+id: pat_neo_displazi_derecelendirme_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnvazyon hızında en dirençli doku hangisidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_nomenklatur]
+metin: "Kıkırdak; sonra kompakt kollajenli membran-tendon-eklem kapsülü."
+# kaynak: 1._Sınıf_1.4_Patoloji_neoplazi_giriş-2019.txt

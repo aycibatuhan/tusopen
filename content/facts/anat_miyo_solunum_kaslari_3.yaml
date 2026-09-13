@@ -1,0 +1,11 @@
+id: anat_miyo_solunum_kaslari_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Zorlu ekspirasyonda hangi kaslar devreye girer?
+taksonomi:
+  - [ttbt, anatomi, anat_miyoloji, anat_miyo_toraks_kaslari]
+metin: M. latissimus dorsi, karın ön duvar kasları, m. serratus posterior inferior ve m. quadratus lumborum.
+# kaynak: 2._Sınıf_2.3_Anatomi_2019_Solunum_Sistemi.txt

@@ -1,0 +1,14 @@
+id: gc_tr_iah_aks_esikleri_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İntraabdominal hipertansiyon basınç eşiği nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_travma
+  - gc_tr_hasar_kontrol
+metin: 12 mmHg üzeri (normal intraabdominal basınç 0-5 mmHg).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Sinan_Çarkman_abdominal_kompartman_sendromu.txt

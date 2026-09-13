@@ -1,0 +1,11 @@
+id: fiz_kas_duz_mekanizma_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Düz kasta ACh kasılma ve NO gevşeme yolları nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_duz]
+metin: "ACh fosfolipaz C-IP3 ile SR'dan Ca++ salar; NO-cGMP-protein kinaz G gevşeme yapar."
+# kaynak: 16-Düz_Kasın_Kasılma_ve_Gevşemesinin_İyonik_Temelleri.txt, 15-Düz_Kasın_Hücresel_ve_Elektriksel_Özellikleri.txt

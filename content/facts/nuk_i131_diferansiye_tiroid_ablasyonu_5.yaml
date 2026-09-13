@@ -1,0 +1,11 @@
+id: nuk_i131_diferansiye_tiroid_ablasyonu_5
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "I-131 tedavisinde taburculuk koşulu ve iyot atılım hızı nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_radyonuklid_tedavi, nt_rt_tiroid_kanseri]
+metin: "Doz hızının 30 mikrosivert/saatin altına inmesi; tiroidektomili hasta iyodu ilk 24 saatte %65-70 atar."
+# kaynak: 5.sınıf_Nükleer_Tıp_radionuclide_therapy_psma_eklenmiş.txt, 5.sınıf_Nükleer_Tıp_CTF_Staj-tümörsintigrafisi-2022.txt, 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

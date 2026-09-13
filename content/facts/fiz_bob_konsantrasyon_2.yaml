@@ -1,0 +1,10 @@
+id: fiz_bob_konsantrasyon_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ADH toplayıcı kanalda hangi reseptör ve kanal üzerinden etki eder?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_konsantrasyon]
+metin: "V2 reseptörüyle akuaporin-2 kanallarını hücre yüzeyine yerleştirir."

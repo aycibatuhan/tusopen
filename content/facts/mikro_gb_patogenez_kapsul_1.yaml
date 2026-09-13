@@ -1,0 +1,11 @@
+id: mikro_gb_patogenez_kapsul_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bakteriyel adezyon gram pozitif ve negatiflerde hangi yapılarla olur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_patogenez]
+metin: "Gram pozitiflerde lipoteikoik asit, gram negatiflerde pili aracılığıyla olur."
+# kaynak: Bakteri_ve_İnsan.txt

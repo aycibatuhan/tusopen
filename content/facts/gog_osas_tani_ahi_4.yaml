@@ -1,0 +1,11 @@
+id: gog_osas_tani_ahi_4
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Epworth uykululuk ölçeğinde anlamlı eşik nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_uyku, gog_uy_osas]
+metin: "10 puan ve üzeri gündüz aşırı uykululuğu anlamlı kılar."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_osas_ders_Ersan.txt

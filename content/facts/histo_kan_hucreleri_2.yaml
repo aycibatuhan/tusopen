@@ -1,0 +1,13 @@
+id: histo_kan_hucreleri_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Eritrosit zar proteinlerinde hangi antijenik yapılar taşınır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kan_hematopoez
+  - histo_kan_hucreleri
+metin: ABO ve Rh kan gruplarının antijenik yapıları.

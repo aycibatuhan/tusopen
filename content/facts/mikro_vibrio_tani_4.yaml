@@ -1,0 +1,11 @@
+id: mikro_vibrio_tani_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "El Tor biyotipi klasik biyotipten nasıl ayrılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_vibrio]
+metin: "Hemoliz, Voges-Proskauer pozitifliği ve polimiksin B direnciyle."
+# kaynak: Vibrio1.txt

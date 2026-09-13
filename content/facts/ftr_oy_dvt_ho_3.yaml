@@ -1,0 +1,11 @@
+id: ftr_oy_dvt_ho_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ortostatik hipotansiyonun tanım eşiği nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_omurilik_komplikasyonlari]
+metin: "3 dakika içinde sistolikte en az 20, diastolikte en az 10 mmHg düşme."
+# kaynak: 5.sınıf_FTR_OYRehab.txt

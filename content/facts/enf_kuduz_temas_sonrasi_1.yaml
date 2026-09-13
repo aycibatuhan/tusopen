@@ -1,0 +1,15 @@
+id: enf_kuduz_temas_sonrasi_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kuduz riskli yara nasıl temizlenir ve dikiş nasıl planlanır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_isirik_yaralari
+metin: Su-sabunla yıkanır, virüsidal antiseptikle silinir; dikiş atılmamalı, zorunluysa RIG sonrası en az 1 saat beklenerek atılmalıdır.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Antimikkemoprofilaksison.txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Erişkinde_aşılama_staj_2021.txt

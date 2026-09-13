@@ -1,0 +1,13 @@
+id: anat_endo_hipofiz_1
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Büyüyen hipofiz adenomu görme alanında ne yapar?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_endokrin
+  - anat_endo_hipofiz
+metin: 'Optik kiasmayı aşağıdan basarak bitemporal hemianopi yapar (yukarıdan baskı: kraniyofarenjiyom örüntüsü).'

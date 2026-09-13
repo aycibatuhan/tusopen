@@ -1,0 +1,11 @@
+id: psik_hezeyanli_bozukluk_tipleri_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sanrısal bozuklukta en yaygın ve en seyrek tipler hangileridir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikotik, psik_ps_sanrisal]
+metin: "En yaygın persekütör; en seyrek erotomanik ve somatik."
+# kaynak: 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt

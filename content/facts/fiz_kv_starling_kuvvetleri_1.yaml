@@ -1,0 +1,11 @@
+id: fiz_kv_starling_kuvvetleri_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plazma onkotik basıncı ve albuminin payı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_mikrodolasim]
+metin: "28 mmHg; yaklaşık 21.8 mmHg'sı albuminden, protein toplamı 7.3 g/100 ml."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Arteriyel_dolaşım__Kapiller_sistem__Lenfa.txt

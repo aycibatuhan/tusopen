@@ -1,0 +1,11 @@
+id: kbb_bppv_dix_hallpike_epley_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BPPV tedavisinde kullanılan repozisyon manevraları hangileridir?"
+taksonomi:
+  - [ktbt, kbb, kbb_ic_kulak, kbb_ik_bppv]
+metin: "Epley ve Semont manevraları."
+# kaynak: 5.sınıf_KBB_myener_vest_sistem.txt, 5.sınıf_KBB_KBB_acilleri.txt

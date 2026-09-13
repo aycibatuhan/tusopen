@@ -1,0 +1,11 @@
+id: nuk_fdg_pet_onkoloji_4
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "FDG PET/BT'nin duyarlılığının düşük olduğu evreleme alanı hangisidir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_onkoloji_pet, nt_on_fdg_pet]
+metin: "Kraniyal (beyin) evreleme; duyarlılık yalnızca yaklaşık %60-70."
+# kaynak: 5.sınıf_Nükleer_Tıp_CTF_Staj-tümörsintigrafisi-2022.txt

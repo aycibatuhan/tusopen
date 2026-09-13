@@ -1,0 +1,14 @@
+id: embriyo_sis_sindirim_anomaliler_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Meckel divertikülünün temel özellikleri nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_sindirim
+metin: Vitellin (omfalomezenterik) kanalın %2 kişide kalıcı kalması; erkeklerde iki kat sık, inflamasyonu apendisit taklit eder.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_Sisteminin_Gelişimi-II.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_Sisteminin_Gelişimi-I.txt

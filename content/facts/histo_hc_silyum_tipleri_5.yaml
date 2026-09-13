@@ -1,0 +1,14 @@
+id: histo_hc_silyum_tipleri_5
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kartagener sendromunun temel kusuru ve bulguları nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_hucre
+  - histo_hc_membran
+metin: Dinein kollarının yapısal eksikliği; kronik solunum yolu enfeksiyonları, erkek infertilitesi, olguların %50'sinde situs inversus.
+# kaynak: 1._Sınıf_1.3_Histoloji_2-3-4._Ders_-epitel_dokusu.txt

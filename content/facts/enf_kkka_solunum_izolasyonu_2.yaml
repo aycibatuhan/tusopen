@@ -1,0 +1,15 @@
+id: enf_kkka_solunum_izolasyonu_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: KKKA kenesiyle temas edenler nasıl izlenir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_kkka
+metin: Maruziyet sonrası 2 hafta boyunca günlük ateş ölçümü ve haftalık hemogram ile.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

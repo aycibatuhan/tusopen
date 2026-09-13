@@ -1,0 +1,14 @@
+id: genetik_realtime_pcr_ct_3
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: TaqMan hangi tip sistemdir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: Hidroliz probuyla spesifik sinyal veren sistem.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_D_3-GENETİK_TANI_YÖNTEMLERİ.txt

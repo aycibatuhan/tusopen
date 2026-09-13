@@ -1,0 +1,11 @@
+id: mikro_chlamydia_pneumoniae_psittaci_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C. pneumoniae atipik pnömonilerin yüzde kaçını yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_chlamydia]
+metin: "Atipik pnömonilerin %8'ini, toplum kökenli pnömonilerin %9-15'ini yapar."
+# kaynak: 4-_Chlamydia.txt

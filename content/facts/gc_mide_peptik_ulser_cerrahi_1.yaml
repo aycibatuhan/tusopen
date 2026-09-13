@@ -1,0 +1,14 @@
+id: gc_mide_peptik_ulser_cerrahi_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Arka duvar duodenal ülser kanaması hangi arterden?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_mide_duodenum
+  - gc_mide_peptik_ulser_cerrahi
+metin: Gastroduodenal arterden (perforasyon ön duvar ülserinde gelişir).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Ceyhun_Oral_PEPTİK_ÜLSER_08.09.2008.txt

@@ -1,0 +1,11 @@
+id: kard_stemi_reperfuzyon_penceresi_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Trombolizin en etkin olduğu dönem nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_reperfuzyon]
+metin: "İlk 3 saatte; tercih edilen yöntem yine primer PKG'dir."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

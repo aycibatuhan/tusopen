@@ -1,0 +1,11 @@
+id: kard_ht_acil_dusurme_4
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Eklampsi ve ciddi preeklampside KB hedefi nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_hipertansiyon, kard_ht_aciller]
+metin: "SKB 160 ve DKB 105 mmHg altına; labetalol/nikardipin + magnezyum sülfat."
+# kaynak: 5.sınıf_Kardiyoloji_Hipertansiyon__Hakan_Karpuz__2020.txt

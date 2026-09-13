@@ -1,0 +1,10 @@
+id: farm_pk_emilim_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Biyoyararlanım nedir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakokinetik, farm_pk_emilim]
+metin: "Verilen ilaç miktarının değişmeden dolaşıma geçen oranı."

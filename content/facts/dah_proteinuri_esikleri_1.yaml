@@ -1,0 +1,11 @@
+id: dah_proteinuri_esikleri_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fizyolojik proteinüri sınırı nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_bobrek_degerlendirme]
+metin: "Erişkinde 150 mg/gün altı."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_DRARIN_2.txt

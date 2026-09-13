@@ -1,0 +1,11 @@
+id: goz_paag_tani_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal santral kornea kalınlığı nedir ve tonometriyi nasıl etkiler?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_glokom, goz_gl_primer_acik_acili]
+metin: "Yaklaşık 520-550 mikron; 600 üstü GİB'i yüksek, 500 altı düşük gösterir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_GLOKOM-ÖĞRENCİ_DERSİ_2015.txt

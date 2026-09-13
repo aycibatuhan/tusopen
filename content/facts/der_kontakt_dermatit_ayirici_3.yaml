@@ -1,0 +1,11 @@
+id: der_kontakt_dermatit_ayirici_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Allerjik kontakt dermatitte tanı testi nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_egzema, derm_eg_kontakt]
+metin: "Yama testi (patch test); irritasyon yapmayan konsantrasyonda sağlam deriye uygulanır."
+# kaynak: 5.sınıf_Dermatoloji_ekzema_ders_ZAF.txt

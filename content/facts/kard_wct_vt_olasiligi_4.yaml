@@ -1,0 +1,11 @@
+id: kard_wct_vt_olasiligi_4
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Torsades de pointes tedavisi nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_aritmiler, kard_ar_ventrikuler_tasikardi]
+metin: "IV magnezyum uygulanır."
+# kaynak: 5.sınıf_Kardiyoloji_Aritmi_Ders_Cerrahpas_a_2021-22.txt, 5.sınıf_Kardiyoloji_EKG_Örnekleri.txt

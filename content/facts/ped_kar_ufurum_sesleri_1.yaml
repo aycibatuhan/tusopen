@@ -1,0 +1,15 @@
+id: ped_kar_ufurum_sesleri_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: S3 ve S4 kalp sesleri çocukta nasıl yorumlanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_ufurum
+metin: S3 2-8 yaş arasında normal bulgudur; S4 duyulduğunda daima patolojiktir.
+
+# kaynak: 2._Sınıf_2.2_pediatri_kvmuayene2.txt

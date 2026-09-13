@@ -1,0 +1,10 @@
+id: pat_kc_viral_hepatit_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hepatit B'de yüksek infektiviteyi ne işaret eder?"
+taksonomi:
+  - [ttbt, patoloji, pat_karaciger_safra, pat_kc_viral_hepatit]
+metin: "E antijeni (HBeAg) pozitifliği."

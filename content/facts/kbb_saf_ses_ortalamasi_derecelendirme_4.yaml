@@ -1,0 +1,11 @@
+id: kbb_saf_ses_ortalamasi_derecelendirme_4
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Odyometri ölçümüne hangi frekanstan başlanır?"
+taksonomi:
+  - [ktbt, kbb, kbb_kulak_muayene_isitme, kbb_km_odyoloji]
+metin: "1000 Hz'den; rutin aralık 125-8000 Hz."
+# kaynak: 5.sınıf_KBB_Ahmet_ATAŞ_ODYOLOJİK_kavramlar.txt

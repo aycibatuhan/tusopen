@@ -1,0 +1,11 @@
+id: anes_iyd_ritim_sok_ilaclari_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İYDde ilk defibrilasyon şoku enerjisi nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_resusitasyon, anes_rs_ileri_yasam]
+metin: "Bifazikte 150-200 J (monofazikte 360 J); ardından 2 dakika aralıksız CPR."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Kardiyopulmner_resüsitasyon4_sınıf_ders.txt

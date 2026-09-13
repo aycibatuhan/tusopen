@@ -1,0 +1,11 @@
+id: nor_mg_tedavi_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MG'de prednizolon maksimum dozu ve erken dönem riski nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_miyastenia]
+metin: "Maksimum 1 mg/kg/gün (60 mg); ilk 1 hafta-10 günde geçici zaaf artışı."
+# kaynak: 5.sınıf_Nöroloji_NÖROMUSKÜLER_BİLEŞKE.txt

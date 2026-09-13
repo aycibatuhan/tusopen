@@ -1,0 +1,14 @@
+id: histo_sol_brons_kulchitsky_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kulchitsky (K) hücreleri hangi sistemin üyesidir ve ne salgılar?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_solunum
+  - histo_sol_brons
+metin: Diffüz nöroendokrin (APUD/DNES) sistem; somatostatin, serotonin ve bombesin benzeri peptitler, hipoksiye duyarlıdır.
+# kaynak: 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ-2016.txt, 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ-II.txt

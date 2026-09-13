@@ -1,0 +1,11 @@
+id: dah_hep_hbv_seroloji_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HBsAg pozitifliği 6 aydan uzun sürerse ne kabul edilir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_hepatit_b]
+metin: "Enfeksiyon kronik hepatit B kabul edilir."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_HBV-2021-2022.txt

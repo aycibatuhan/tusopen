@@ -1,0 +1,10 @@
+id: anat_art_diz_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Mutsuz üçlü (unhappy triad) hangi yapıları içerir?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_diz]
+metin: ACL, MCL ve medial menisküs hasarını birlikte tanımlar.

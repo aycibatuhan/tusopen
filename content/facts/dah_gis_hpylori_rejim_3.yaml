@@ -1,0 +1,15 @@
+id: dah_gis_hpylori_rejim_3
+version: 1
+status: draft
+author: ai-drafts/dahiliye-5
+sources:
+- ACG kılavuzu — Treatment of Helicobacter pylori Infection (Am J Gastroenterol 2024, Chey ve ark.)
+- Maastricht VI (Fortaza) H. pylori uzlaşısı 2022
+- AAFP 2023 peptik ülser derlemesi
+ad: "Klasik PPI-klaritromisinli üçlü tedavi neden terk edildi?"
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_gastroenteroloji
+  - dah_gis_peptik_ulser
+metin: "Klaritromisin direnci pek çok ülkede %20-30 düzeyine ulaştığı için."

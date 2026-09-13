@@ -1,0 +1,11 @@
+id: gog_osas_tani_ahi_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipopne tanım kriterleri nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_uyku, gog_uy_osas]
+metin: "10 saniye ve üzeri, akımın %30 üstü azalması ve satürasyonda %3-4 düşüş."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_osas_ders_Ersan.txt

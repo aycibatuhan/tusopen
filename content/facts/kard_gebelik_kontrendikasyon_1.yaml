@@ -1,0 +1,11 @@
+id: kard_gebelik_kontrendikasyon_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebelikte aort dilatasyonu kontrendikasyon eşikleri nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_ozel_durumlar, kard_od_gebelik]
+metin: "Marfan/HTAD >45 mm; biküspit kapak ve Fallot >50 mm; Turner ASI >25 mm/m²."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

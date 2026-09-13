@@ -1,0 +1,11 @@
+id: fiz_hucre_ap_dereceli_farklar_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dereceli potansiyeller ile aksiyon potansiyelinin temel farkı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_membran_potansiyeli]
+metin: "Dereceliler ligand-kapılı, uyarıyla artan, toplamsal, refraktörsüz; AP voltaj-kapılı, hep-hiç, refraktörlü."
+# kaynak: 10-Eksitasyon_olayları._(2._Ders)_SİBEL.txt, 12-.Uyarılmanın_İyonik_Temelleri_SIBEL_25.Subat.2019.txt

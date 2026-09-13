@@ -1,0 +1,11 @@
+id: pls_yanik_acil_girisimler_2
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kapiller geri dolumun 2 saniyeyi aşması ne gösterir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yanik, pce_ya_resusitasyon]
+metin: "Hipovolemiyi veya o ekstremitede eskarotomi ihtiyacını."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Yanık-DERS-2020.txt

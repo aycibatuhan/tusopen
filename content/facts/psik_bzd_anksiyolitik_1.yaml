@@ -1,0 +1,11 @@
+id: psik_bzd_anksiyolitik_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Benzodiazepinler hangi reseptöre bağlanır?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_anksiyete, psik_an_anksiyolitik_tedavi]
+metin: "GABA-A reseptörü; klorür kanallarını açar."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt, 5.sınıf_PSİKİYATRİ_ANKSİYETE_BOZUKLUKLARI_(yeni).txt

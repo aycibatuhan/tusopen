@@ -1,0 +1,11 @@
+id: dah_ssc_antikor_ayirim_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Skleroderma renal krizinin tedavisi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_skleroderma]
+metin: "ACE inhibitörleri."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_Skleroderma_23_Şubat_2021.txt

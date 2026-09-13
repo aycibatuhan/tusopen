@@ -1,0 +1,11 @@
+id: anes_tyd_kompresyon_parametreleri_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "KPR sırasında yeterli tidal volüm ne kadardır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_resusitasyon, anes_rs_temel_yasam]
+metin: "Tidal volüm 500-600 mL civarında (kg başına 6-7 mL); hiperventilasyon venöz dönüşü azaltır."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Kardiyopulmner_resüsitasyon4_sınıf_ders.txt

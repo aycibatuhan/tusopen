@@ -1,0 +1,10 @@
+id: fiz_kan_hemoglobin_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bir hemoglobin molekülü en çok kaç oksijen taşır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_hemoglobin]
+metin: "Dört; her heme grubundaki ferrous demir bir oksijen bağlar."

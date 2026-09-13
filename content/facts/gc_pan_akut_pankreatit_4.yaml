@@ -1,0 +1,14 @@
+id: gc_pan_akut_pankreatit_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akut pankreatitte ilk kontrastlı BT ne zaman çekilir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_pankreas
+  - gc_pan_akut_pankreatit_cerrahi
+metin: Yatıştan 5-7 gün sonra (tanı-takipte altın standart).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Ender_Dulundu_Acute_Pancreatitis_CTF_Ders_.txt

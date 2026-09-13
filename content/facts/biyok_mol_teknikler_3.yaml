@@ -1,0 +1,10 @@
+id: biyok_mol_teknikler_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RFLP analizi ne için kullanılır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_teknikler]
+metin: "Restriksiyon enzimi kesim uzunluk farklarıyla hastalık allelinin izlenmesinde."

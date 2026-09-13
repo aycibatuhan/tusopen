@@ -1,0 +1,10 @@
+id: pat_kg_serviks_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Servikal lezyonların en sık geliştiği bölge neresidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_kadin_genital, pat_kg_serviks]
+metin: "Skuamokolonar kavşak (transformasyon bölgesi); Pap taraması buradan örneklemdir."

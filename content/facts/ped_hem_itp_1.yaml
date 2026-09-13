@@ -1,0 +1,15 @@
+id: ped_hem_itp_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Çocukluk çağı ITP'de tanıyı destekleyen ve dışlayan bulgular nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_hematoloji
+  - ped_hem_itp
+metin: Sağlıklı çocukta ani purpura; trombosit <150.000, diğer diziler normal; lenfadenopati ve hepatosplenomegali olmamalıdır.
+
+# kaynak: 4._Sınıf_Pediatri_Hilmi_Apak_2021_hemostaz-1.txt

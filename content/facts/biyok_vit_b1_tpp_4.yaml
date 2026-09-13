@@ -1,0 +1,11 @@
+id: biyok_vit_b1_tpp_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tiamin eksikliğinin laboratuvar göstergesi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_suda_eriyen]
+metin: "Eritrosit transketolaz aktivitesi ölçümü; karbonhidrat zengini beslenenlerde ihtiyaç artar."
+# kaynak: 1._Sınıf_1.2_Biyokimya_VİTAMİNLER_2018.txt

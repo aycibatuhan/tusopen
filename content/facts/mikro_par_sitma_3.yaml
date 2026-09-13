@@ -1,0 +1,10 @@
+id: mikro_par_sitma_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "P. falciparum eritrositlerde nasıl ayırt edilir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_sitma]
+metin: "Bir eritrositte birden çok halka formu görülmesiyle; ateş nöbetleri düzensiz aralıklarla tekrarlar."

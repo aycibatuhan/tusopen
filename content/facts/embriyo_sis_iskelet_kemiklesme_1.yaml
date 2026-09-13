@@ -1,0 +1,14 @@
+id: embriyo_sis_iskelet_kemiklesme_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Vücutta ilk kemikleşmeye başlayan kemik hangisidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_iskelet_kas
+metin: Klavikula; membranöz kemikleşmeyle gelişir.
+# kaynak: 2._Sınıf_2.1_Histoloji_iskelet_sistemi_gelişimi.txt

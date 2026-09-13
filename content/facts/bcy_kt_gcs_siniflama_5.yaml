@@ -1,0 +1,11 @@
+id: bcy_kt_gcs_siniflama_5
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipotansiyonun ağır kafa travmasında mortaliteye etkisi nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_kafa_travmasi, bce_kt_agir_hby]
+metin: "Mortalite %27'den %60'a çıkar; hipotansiyon + hipoksi birlikteliğinde %75."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Kafa_Travması_F.Ö.txt

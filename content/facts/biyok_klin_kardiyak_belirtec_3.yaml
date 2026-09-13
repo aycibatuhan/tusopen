@@ -1,0 +1,10 @@
+id: biyok_klin_kardiyak_belirtec_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Myoglobinin avantajı ve dezavantajı nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_klinik, biyok_klin_kardiyak_belirtec]
+metin: "Erken yükselir ama iskelet kasından da çıktığı için özgün değildir."

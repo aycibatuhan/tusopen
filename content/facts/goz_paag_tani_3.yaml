@@ -1,0 +1,11 @@
+id: goz_paag_tani_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnce santral kornea glokom için ne anlama gelir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_glokom, goz_gl_primer_acik_acili]
+metin: "Bağımsız bir risk faktörüdür."
+# kaynak: 5.sınıf_Göz_Hastalıkları_GLOKOM-ÖĞRENCİ_DERSİ_2015.txt

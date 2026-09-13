@@ -1,0 +1,10 @@
+id: anat_dol_fetal_dolasim_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Fetusta ductus arteriosus kanı nereye yönlendirir?
+taksonomi:
+  - [ttbt, anatomi, anat_dolasim, anat_dol_fetal_dolasim]
+metin: Pulmoner arterdeki kanı aortaya yönlendirir.

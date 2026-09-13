@@ -1,0 +1,11 @@
+id: nuk_hida_biliar_atrezi_2
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal hepatobiliyer sintigrafide safra kesesi ve bağırsak aktivitesi ne zaman izlenir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_gis_hepatobiliyer, nt_gh_hepatobiliyer]
+metin: "Safra kesesi ilk yarım saat içinde, bağırsak ilk saat içinde."
+# kaynak: 5.sınıf_Nükleer_Tıp_GiS_2022_eylül_send.txt

@@ -1,0 +1,11 @@
+id: anat_art_dirsek_kompozit_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Pronasyon-supinasyon hangi yapılarla gerçekleşir?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_dirsek]
+metin: Radioulnaris proximalis, membrana interossea ve radioulnaris distalis birlikte.
+# kaynak: 2._Sınıf_2.1_Anatomi_2-1_-_Üst_taraf_eklemleri.txt, 1._Sınıf_1.1_Anatomi_---2018.09.27__Lokomotor_Sistem-2_3.txt

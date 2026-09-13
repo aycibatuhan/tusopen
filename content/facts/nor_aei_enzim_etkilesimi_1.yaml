@@ -1,0 +1,11 @@
+id: nor_aei_enzim_etkilesimi_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Antiepileptiklerden enzim indükleyenler hangileridir?"
+taksonomi:
+  - [ktbt, noroloji, noro_epilepsi, noro_ep_tedavi]
+metin: "Karbamazepin, fenitoin, fenobarbital ve pirimidon."
+# kaynak: 5.sınıf_Nöroloji_staj_tedavi_2022_o_g_renci_kopya.txt

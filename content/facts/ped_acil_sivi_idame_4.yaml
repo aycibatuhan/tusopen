@@ -1,0 +1,15 @@
+id: ped_acil_sivi_idame_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: IV sıvı tedavisinin üç bileşeni nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_sivi_tedavisi
+metin: Defisit (dehidratasyonun tamamlanması), idame (belirgin olmayan kayıplar + idrar) ve replasman (devam eden patolojik kayıplar).
+
+# kaynak: 4._Sınıf_Pediatri_Sinem_Oral_Cebeci_4sınıf-dehid-slayt.txt

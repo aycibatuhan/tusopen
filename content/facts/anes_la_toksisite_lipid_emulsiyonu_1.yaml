@@ -1,0 +1,11 @@
+id: anes_la_toksisite_lipid_emulsiyonu_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "LA toksisitesinin erken SSS bulguları nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_rejyonal, anes_ra_lokal_anestezikler]
+metin: "Ağız çevresinde karıncalanma, metalik tat, baş dönmesi ve tremor; ilerleyen dönemde konvülsiyon."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_LA_Ders_FA_Eylül_2021.txt

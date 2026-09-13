@@ -1,0 +1,11 @@
+id: kd_kisa_serviks_preterm_riski_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çok kısa servikste erken doğum riski ne kadar artar?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_preterm_postterm, kd_pp_preterm_eylem]
+metin: "34. haftadan önce 8-40 kata kadar artar (yaklaşık <15-20 mm)."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_T3Antenatal_takip.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Obstetride_Tanısal_Testler_ve_Metodlar26.11.2018.txt

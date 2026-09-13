@@ -1,0 +1,11 @@
+id: goz_pkg_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anestezi altında ölçülen GİB konjenital glokomda nasıl yorumlanır?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_glokom, goz_gl_konjenital]
+metin: "15 mmHg üzerinde şüphe, 20 mmHg üzerinde yüksek olasılık (normal 10-12)."
+# kaynak: 5.sınıf_Göz_Hastalıkları_konjenital_glokom_Türkçe__OZCAN_OCAKOGLU_.txt

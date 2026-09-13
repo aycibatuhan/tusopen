@@ -1,0 +1,11 @@
+id: ort_osteokondroma_enkondroma_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteokondromada sekonder kondrosarkomu düşündüren kıkırdak şapka kalınlığı nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kemik_tumorleri, orto_kt_benign]
+metin: "Erişkinde 1 cm'den kalın olması."
+# kaynak: 5.sınıf_Ortopedi_Selim_Kemik_Tümörleri.txt

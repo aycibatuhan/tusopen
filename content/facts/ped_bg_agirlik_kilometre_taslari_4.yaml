@@ -1,0 +1,15 @@
+id: ped_bg_agirlik_kilometre_taslari_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 1-6 yaş ve 7-12 yaş çocukta ağırlık formülü nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: 1-6 yaşta (yaş×2)+8; 7-12 yaşta (yaş×7)/2 kg.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

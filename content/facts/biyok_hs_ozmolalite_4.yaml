@@ -1,0 +1,11 @@
+id: biyok_hs_ozmolalite_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glukoz ve ürenin mmol-mg/dL dönüşümü nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_hucre_su, biyok_hs_su_ph]
+metin: "1 mmol/L glukoz 18 mg/dL, üre 6 mg/dL'ye karşılıktır."
+# kaynak: 1._Sınıf_1.2_Biyokimya_2018.11.06_Su_ve_su_metabolizması-_MK-2018.txt

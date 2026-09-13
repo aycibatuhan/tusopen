@@ -1,0 +1,11 @@
+id: dah_gut_tani_tedavi_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gut tanısı nasıl konur?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_gut]
+metin: "Sinovyal sıvıda veya tofüste nötrofil içindeki monosodyum ürat kristalleriyle."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_kristal_artrit.txt

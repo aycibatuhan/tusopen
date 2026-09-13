@@ -1,0 +1,11 @@
+id: ort_gecici_sinovit_esikler_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Geçici sinovit tipik olarak hangi yaşta ve hangi öyküyle görülür?"
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_gecici_sinovit]
+metin: "3-8 yaşta ani aksamayla; geçirilmiş üst solunum yolu enfeksiyonu öyküsü tipiktir."
+# kaynak: 5.sınıf_Ortopedi_aksayan_çocuk.txt

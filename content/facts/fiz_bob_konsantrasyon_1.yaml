@@ -1,0 +1,10 @@
+id: fiz_bob_konsantrasyon_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Henle kulpu medullada hipertonik gradyanı hangi mekanizmayla kurar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_konsantrasyon]
+metin: "Karşı akım çarpanı; çıkan kol sodyum, potasyum ve kloru aktif geri alır."

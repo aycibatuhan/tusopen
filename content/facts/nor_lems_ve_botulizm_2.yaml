@@ -1,0 +1,11 @@
+id: nor_lems_ve_botulizm_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lambert-Eaton sendromunda hangi antikorlar %90 pozitiftir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_lambert_eaton_botulizm]
+metin: "Voltaja bağımlı kalsiyum kanal antikorları."
+# kaynak: 5.sınıf_Nöroloji_NÖROMUSKÜLER_BİLEŞKE.txt

@@ -1,0 +1,11 @@
+id: der_elementer_boyut_esikleri_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "1-2 cm ve üzeri kabarık lezyona ne denir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_temel, derm_tm_elemanter_lezyonlar]
+metin: "Plak; papülden derinliği ve palpe edilebilirliğiyle ayrılan ise nodüldür."
+# kaynak: 5.sınıf_Dermatoloji_DERİNİN_ELEMANTER_LEZYONLARI__ZAF.txt, 3._Sınıf_3.0_SEMPTOMLAR_VE_DERMATOLOJİK_UYGULAMALAR.txt

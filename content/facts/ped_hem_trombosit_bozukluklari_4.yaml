@@ -1,0 +1,15 @@
+id: ped_hem_trombosit_bozukluklari_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Wiskott-Aldrich sendromunun özellikleri nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_hematoloji
+  - ped_hem_hemofili_vwd
+metin: X'e bağlı; küçük trombositli trombositopeni, ekzema, tekrarlayan sinopulmoner infeksiyonlar; ilk bulgu süt çocuğunda kanlı ishal.
+
+# kaynak: 4._Sınıf_Pediatri_Hilmi_Apak_2021_hemostaz-1.txt

@@ -1,0 +1,11 @@
+id: gog_sft_reversibilite_provokasyon_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Spirometri öncesi ilaç kesme süreleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_tani_yontemleri, gog_ty_sft]
+metin: "SABA 4-6 saat, SAMA 12, LABA 24, ultra-LABA 36, LAMA 36-48 saat."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Kısa_Solunum_Fonksiyon_Testleri_2022-23_Ders_Bilun.txt

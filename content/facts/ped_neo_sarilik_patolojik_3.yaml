@@ -1,0 +1,15 @@
+id: ped_neo_sarilik_patolojik_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İkter hangi bilirubin düzeyinde görülür ve nasıl ilerler?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_sarilik
+metin: Total bilirubin 5-6 mg/dl'yi aştığında; kranialden kaudale doğru ilerler.
+
+# kaynak: 4._Sınıf_Pediatri_Zeynep_Alp_Ünkar_Neonatal_Hiperbilirubinemi.txt

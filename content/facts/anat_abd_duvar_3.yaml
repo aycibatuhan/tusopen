@@ -1,0 +1,10 @@
+id: anat_abd_duvar_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Hesselbach üçgeninin sınırları nelerdir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_duvar]
+metin: Medialde rectus abdominis, lateralde alt epigastrik damarlar, altta inguinal ligament.

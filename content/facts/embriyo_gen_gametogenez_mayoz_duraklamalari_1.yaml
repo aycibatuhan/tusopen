@@ -1,0 +1,14 @@
+id: embriyo_gen_gametogenez_mayoz_duraklamalari_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Primer oositler mayozun hangi evresinde durur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_gametogenez
+metin: Diploten evresinde; 40 yıldan uzun bekleyebilir, ileri anne yaşında nondisjunction artar.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_GAMETOGENEZ_II.txt, 1._Sınıf_1.3_Embriyoloji_GELİŞİMİN_1.HAFTASI.txt

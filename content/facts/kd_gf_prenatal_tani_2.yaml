@@ -1,0 +1,10 @@
+id: kd_gf_prenatal_tani_2
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dörtlü testte Down sendromunda belirteç paterni nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_prenatal_tani]
+metin: "hCG yüksek, östriyol ve AFP düşüktür; test AFP, hCG, östriyol, inhibin-A'dan oluşur."

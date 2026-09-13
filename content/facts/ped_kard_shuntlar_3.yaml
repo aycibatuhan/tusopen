@@ -1,0 +1,24 @@
+id: ped_kard_shuntlar_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-kardiy
+sources:
+- Pediatri kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+- 'Merck Manual Professional, Congenital Cardiovascular Anomalies; StatPearls: Tetralogy of Fallot, VSD, Eisenmenger Syndrome'
+ad: Duktus bağımlı obstrüktif lezyonlarda acil yaklaşım nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_asiyanotik
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_siyanotik
+metin: Koarktasyon ve aort darlığında duktus kapanınca şok; prostaglandin E1 ile duktus açık tutulur.
+tus_gecmisi:
+- tus-2013-sonbahar-ktbt-56
+- tus-2016-sonbahar-ktbt-11
+- tus-2020-ilkbahar-ktbt-63
+- tus-2021-ilkbahar-ktbt-64
+

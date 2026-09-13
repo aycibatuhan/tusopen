@@ -1,0 +1,10 @@
+id: anat_ae_femoral_ucgen_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Femoral üçgen içeriği dıştan içe nasıl sıralanır?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_femoral_ucgen]
+metin: Femoral sinir, arter, ven ve lenfatikler olarak sıralanır.

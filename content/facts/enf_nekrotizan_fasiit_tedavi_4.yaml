@@ -1,0 +1,15 @@
+id: enf_nekrotizan_fasiit_tedavi_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Nekrotizan fasiitte LRINEC eşiği ve tip 1 mortalitesi nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_nekrotizan_fasiit
+metin: LRINEC 7 ve üzerindeyse düşünülmeli; tip 1'de mortalite ~%30'dur.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt, 5.sınıf_Enfeksiyon_Hastalıkları_DYDİ_2021Neşe_Saltoğlu.txt

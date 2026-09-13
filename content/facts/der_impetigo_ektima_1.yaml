@@ -1,0 +1,11 @@
+id: der_impetigo_ektima_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İmpetigo kontagiozanın etkenleri kimlerdir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bakteriyel, derm_bk_impetigo_folikulit]
+metin: "Beta hemolitik streptokoklar ve Staphylococcus aureus; bal rengi krutlar tipiktir."
+# kaynak: 5.sınıf_Dermatoloji_ZK-PİYODERMA.txt, 5.sınıf_Dermatoloji_DERİNİN_ELEMANTER_LEZYONLARI__ZAF.txt

@@ -1,0 +1,11 @@
+id: ort_skolyoz_cobb_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İskelet olgunluğu tamamlanmamış skolyozda Cobb açısına göre tedavi eşikleri nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_omurga, orto_om_skolyoz]
+metin: "20 derece altı egzersiz-takip, 20-40 derece egzersiz artı korse, 40 derece üzeri cerrahi."
+# kaynak: 5.sınıf_Ortopedi_SKOLYOZ.txt

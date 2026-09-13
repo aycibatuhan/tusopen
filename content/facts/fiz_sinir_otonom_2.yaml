@@ -1,0 +1,10 @@
+id: fiz_sinir_otonom_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Parasempatik sistemin anatomik ve kimyasal özellikleri nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_otonom]
+metin: "Kraniosakral çıkışlı; uzun pregangliyonik, kısa postgangliyonik lifler, asetilkolin kullanır."

@@ -1,0 +1,11 @@
+id: biyok_doku_p450_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mikrozomal P450 nerede görev yapar ve nasıl indüklenir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_doku_organ, biyok_doku_karaciger]
+metin: "Karaciğer ve bağırsakta ilaç-ksenobiyotik hidroksilasyonu; fenobarbital sentezini indükler."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Biolojik_oksidasyon_2018.txt, 1._Sınıf_1.2_Biyokimya_Ezel_Uslu_Oksidatif_Fosforilasyon_Bio_ox_2017_EZEL_USLU.txt

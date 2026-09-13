@@ -1,0 +1,13 @@
+id: anat_tor_koroner_2
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sağ koroner arter hangi dalları verir?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_toraks
+  - anat_tor_koroner
+metin: Sinüs ve AV düğüm dallarını; sağ koroner olukta ilerler.

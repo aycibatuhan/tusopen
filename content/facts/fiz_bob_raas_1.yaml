@@ -1,0 +1,10 @@
+id: fiz_bob_raas_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Jukstaglomerüler hücrelerin renin salgılamasını uyaran üç etken nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_raas]
+metin: "Perfüzyon düşmesi, makula densa sodyum klor yükünün azalması, sempatik beta-1 uyarı."

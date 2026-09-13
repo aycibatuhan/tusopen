@@ -1,0 +1,15 @@
+id: ped_nef_nefrotik_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Nefrotik sendromda steroide yanıt ve direnç nasıl kabul edilir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_nefroloji
+  - ped_nef_nefrotik
+metin: Yanıt genellikle ilk 3 haftada proteinürinin kaybolması; 4. hafta sonunda yanıt yoksa dirençli kabul edilir.
+
+# kaynak: 4._Sınıf_Pediatri_Ayşe_Ağbaş_Nefrotik_sendrom_dersi.txt

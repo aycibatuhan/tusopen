@@ -1,0 +1,11 @@
+id: dah_pbc_psc_ayirt_edici_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PSC hangi hastalıkla en sık birliktedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_pbc_psc]
+metin: "Özellikle ülseratif kolit olan inflamatuar barsak hastalığı; %70-90."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Dahiliye_İBRAHİM_HATEMİ-kolestaz_ve_sarılıklar.txt

@@ -1,0 +1,11 @@
+id: biyok_plazma_tasiyici_proteinler_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alfa1-antitripsin elastazı nasıl inhibe eder, sigara ne yapar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_plazma_proteinleri]
+metin: "358. pozisyondaki metiyonin üzerinden; sigara oksitleyerek etkisizleştirir, amfizem yol açar."
+# kaynak: 1._Sınıf_1.1_Biyokimya_2018.10.25__Serum_Proteinleri_İmmunoglobulinler__Akut_faz_reaktanları.txt

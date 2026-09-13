@@ -1,0 +1,11 @@
+id: anat_pel_funiculus_spermaticus_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Funiculus spermaticus'ta en arka ve en kalın yapı hangisidir?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_erkek_genital]
+metin: Ductus deferens; plexus pampiniformis de içeride yer alır.
+# kaynak: 3._Sınıf_3.2_Anatomi_CTF_3.2_Erkek_genital_sistemi_2020-21_(1).txt, 3._Sınıf_3.3_Anatomi_karın_topografisi_A_ÖĞRENCİ_2021_MY.txt

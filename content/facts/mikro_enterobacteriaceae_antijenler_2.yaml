@@ -1,0 +1,11 @@
+id: mikro_enterobacteriaceae_antijenler_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Laktoz fermentasyonu hangi besiyerlerinde neyi ayırt ettirir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_enterobacteriaceae_genel]
+metin: "MacConkey, EMB, Endo; E. coli ve Klebsiella pozitif, Salmonella-Shigella-Proteus negatif."
+# kaynak: Ecoli_ve_enter.txt, Salmonella_Shigella_Yersinia_(2).txt

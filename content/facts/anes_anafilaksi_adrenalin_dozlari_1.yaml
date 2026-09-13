@@ -1,0 +1,11 @@
+id: anes_anafilaksi_adrenalin_dozlari_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anafilaksta birinci basamak tedavi nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_anafilaksi]
+metin: "Hızlı intramusküler adrenalin (10 µg/kg, en fazla 0.5 mg; 5 dakikada tekrarlanabilir)."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Hipotermi_Suda_boğulma_Anaflaksi.txt

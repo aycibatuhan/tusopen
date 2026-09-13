@@ -1,0 +1,11 @@
+id: mikro_rna_hepatit_e_gebe_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HEV tanısı nasıl konur ve aşısı var mıdır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_hepatit_a_e]
+metin: "ELISA ile HEV-IgM ve IgG, serum-dışkıda RT-PCR; etkin aşısı yoktur."
+# kaynak: 10-Viral_Hepatitler_2020.txt

@@ -1,0 +1,11 @@
+id: der_aktinik_keratoz_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aktinik keratozda saha tedavisinde hangi ajanlar kullanılır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_deri_tumorleri, derm_tu_prekanseroz]
+metin: "%0.5-5 5-fluorourasil (günde iki kez, 2-4 hafta); %5 imikimod haftada 3 kez 12 hafta (%84 kür)."
+# kaynak: 5.sınıf_Dermatoloji_Prekanserözler__ZAF.txt

@@ -1,0 +1,11 @@
+id: mikro_gb_kultur_besiyeri_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kapnofiller neyi ister ve örnekleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_tani_yontemleri]
+metin: "Yüzde 5-10 CO2 isterler; B. abortus ve gonokok kapnofildir."
+# kaynak: bakteri_metabolizma__kültür__tanımlama.txt

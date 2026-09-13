@@ -1,0 +1,11 @@
+id: anes_pediatrik_hava_yolu_ett_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çocukta endotrakeal tüp iç çapı formülleri nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_ozel_hasta, anes_oh_pediatrik]
+metin: "Kafsız tüp (yaş/4)+4; kaflı tüp (yaş/4)+3."
+# kaynak: 4._Sınıf_Anestezi_1.txt

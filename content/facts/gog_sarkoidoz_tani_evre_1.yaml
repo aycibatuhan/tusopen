@@ -1,0 +1,11 @@
+id: gog_sarkoidoz_tani_evre_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sarkoidozun radyolojik evreleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_sarkoidoz]
+metin: "0 normal; I BHL; II BHL ve infiltrasyon; III yalnız infiltrasyon; IV irreversibl fibrozis."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Sarkoidoz.txt

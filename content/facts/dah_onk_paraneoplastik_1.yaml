@@ -1,0 +1,10 @@
+id: dah_onk_paraneoplastik_1
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Küçük hücreli akciğer kanserinde hangi endokrin paraneoplastik sendromlar görülür?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_paraneoplastik]
+metin: "SIADH (hiponatremi) ve ektopik ACTH (Cushing)."

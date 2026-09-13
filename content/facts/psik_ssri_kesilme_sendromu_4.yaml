@@ -1,0 +1,11 @@
+id: psik_ssri_kesilme_sendromu_4
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yaşlılarda SSRI'lara bağlı hiponatremi mekanizması nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_duygudurum, psik_dd_antidepresan_tedavi]
+metin: "Uygunsuz ADH salınımı."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt

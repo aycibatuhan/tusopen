@@ -1,0 +1,14 @@
+id: gc_sy_kolelitiazis_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bouveret sendromu nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_safra_yollari
+  - gc_sy_kolelitiazis
+metin: Taşın duodenumdan çıkarıldığı safra taşı ileusu formu.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Vedat_Durgun_Safra_taşları_ve_komplikasyonları.txt

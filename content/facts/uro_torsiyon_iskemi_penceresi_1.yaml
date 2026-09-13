@@ -1,0 +1,11 @@
+id: uro_torsiyon_iskemi_penceresi_1
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Testis torsiyonunda irreversibl iskemi süresi nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_acil_ve_travma, uro_at_testis_torsiyonu]
+metin: "4 saat içinde başlar; kurtarılma şansı torsiyon süresiyle ters orantılıdır."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt

@@ -1,0 +1,11 @@
+id: anes_ards_berlin_koruyucu_ventilasyon_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Koruyucu ventilasyonda soluk hacmi ve basınç sınırları nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_ards]
+metin: "6 mL/kg tahmini vücut ağırlığı; inspirasyon basınçları ≤30 cmH2O."
+# kaynak: 4._Sınıf_Anestezi_3.txt

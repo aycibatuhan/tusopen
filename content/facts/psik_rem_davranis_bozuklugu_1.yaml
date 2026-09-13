@@ -1,0 +1,11 @@
+id: psik_rem_davranis_bozuklugu_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "REM uyku davranış bozukluğunda temel patoloji nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_yeme_uyku_cinsel, psik_yu_insomni]
+metin: "REM'e özgü atoninin kaybı; rüyalar motor davranışla dışa vurulur."
+# kaynak: 5.sınıf_PSİKİYATRİ_Uyku_bozuklukları.txt

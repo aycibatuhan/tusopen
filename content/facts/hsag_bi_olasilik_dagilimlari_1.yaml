@@ -1,0 +1,11 @@
+id: hsag_bi_olasilik_dagilimlari_1
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Binom dağılımın ortalama ve varyansı nedir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_dagilimlar]
+metin: "Ortalama Np, varyans Npq; standart sapma Npq'nun kareköküdür."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_4.Olasilik_Dagilimlari.txt

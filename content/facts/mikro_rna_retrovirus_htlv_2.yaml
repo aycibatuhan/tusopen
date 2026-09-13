@@ -1,0 +1,11 @@
+id: mikro_rna_retrovirus_htlv_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ATL'deki malign hücrelere neden 'çiçek hücreleri' denir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_retrovirus_hiv]
+metin: "Malign hücreler pleomorfiktir; hastalar tedaviye rağmen 1 yıl içinde kaybedilir."
+# kaynak: 8-Retrovirüsler_2020.txt

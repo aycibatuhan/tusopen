@@ -1,0 +1,19 @@
+id: ped_toks_parasetamol_3
+version: 1
+status: draft
+author: ai-drafts/toksikoloji-antidot
+sources:
+- Amerikan Akademik Klinik Toksikoloji (AACT) parasetamol pozisyon bildirileri — referans olarak listelendi, metin özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: N-asetilsisteinin ideal başlama penceresi nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_zehirlenmeler
+metin: İlk 8 saat; bu pencerede karaciğer yetmezliği pratikte görülmez, 24 saatten geç bile yararlıdır.
+tus_gecmisi:
+- tus-2015-ilkbahar-ttbt-101
+- tus-2020-ilkbahar-ktbt-53
+- tus-2020-ilkbahar-ktbt-54
+

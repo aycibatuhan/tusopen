@@ -1,0 +1,10 @@
+id: kd_gf_fetal_gelisim_5
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fetal hemoglobinin erişkin hemoglobinden farkı nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_fetal_gelisim]
+metin: "Daha yüksek oksijen affinitesine sahiptir."

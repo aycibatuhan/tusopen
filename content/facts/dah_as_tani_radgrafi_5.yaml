@@ -1,0 +1,11 @@
+id: dah_as_tani_radgrafi_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ankilozan spondilitte tedavi basamakları nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_ankilozan_spondilit]
+metin: "Aksiyelde NSAİİ ve egzersiz; periferikte salazoprin/metotreksat; dirençte TNF-alfa inhibitörü veya anti-IL-17."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_Spondiloartritler.txt

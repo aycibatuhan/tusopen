@@ -1,0 +1,11 @@
+id: fiz_sol_yukseklik_dalis_5
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Oksijen toksisitesinin akut ve kronik eşikleri nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_hipoksi_yukseklik]
+metin: "4 atm üstü alveoler PO2 konvülzyon yapar; 1 atm 12 saat kronik toksisite."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2019_Solunum_2._Bölüm.txt, 1._Ders_Fizyolojiye_Giriş_ve_hemoostasis.txt

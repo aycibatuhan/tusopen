@@ -1,0 +1,11 @@
+id: kbb_orofarinks_tn_siniflama_4
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Orofarinks karsinomlarının histolojik dağılımı nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_orofarinks_kanseri]
+metin: "%90 skuamöz hücreli; yarısından fazlasında tanı anında servikal metastaz."
+# kaynak: 5.sınıf_KBB_ORAL_KAVİTE__OROFARENKS__HİPOFARENKS_NEOPLAZİLERİ.txt

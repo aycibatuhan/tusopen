@@ -1,0 +1,11 @@
+id: mikro_rna_toga_flavi_rubella_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rubella tanısında IgG avidite testi neyi ayırt eder?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_toga_flavi]
+metin: "Düşük avidite primer enfeksiyonu, yüksek avidite reenfeksiyonu işaret eder."
+# kaynak: 9-Rubella__Orthomyxo__Paramyxo__Corona_2020.txt

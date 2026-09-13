@@ -1,0 +1,11 @@
+id: dah_ssc_antikor_ayirim_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CREST bileşenleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_skleroderma]
+metin: "Kalsinozis, Raynaud, özofageal dismotilite, sklerodaktili, telanjiektazi (sınırlı tip)."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_Skleroderma_23_Şubat_2021.txt

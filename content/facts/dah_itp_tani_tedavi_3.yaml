@@ -1,0 +1,11 @@
+id: dah_itp_tani_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ITP'de başlangıç tedavisi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_trombositopeni]
+metin: "Prednizon 1 mg/kg veya pulse deksametazon 40 mg x 4 gün."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Trombositopeni_4._sınıf-2020.txt

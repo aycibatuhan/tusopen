@@ -1,0 +1,11 @@
+id: nor_als_tani_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ALS tanısını dışlayan bulgular hangileridir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_motor_noron]
+metin: "Görme kaybı, duyu kusuru, sfinkter ve otonom bozukluk."
+# kaynak: 5.sınıf_Nöroloji_Motor_Nöron_Hastalıkları_Nurten_Uzun_Adatepe.txt

@@ -1,0 +1,14 @@
+id: genetik_sentromer_kinetokor_yapisi_1
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İnsan sentromerinde hangi DNA tekrarı vardır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_sitogenetik
+  - tbg_sg_karyotip_analizi
+metin: Yaklaşık 171 bp alfa-satellit tekrarları (1-5 milyon bp).
+# kaynak: 1._Sınıf_1.2_Tıbbi_Biyoloji_Kromatin_ve_Kromozom_Yapısı_(2018-19_Güz-M_Güven).txt

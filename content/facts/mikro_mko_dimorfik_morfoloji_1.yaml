@@ -1,0 +1,11 @@
+id: mikro_mko_dimorfik_morfoloji_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Histoplasma'nın küf ve doku formları nasıl görünür?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_sistemik]
+metin: "Pürüzlü, patlamış mısır görünümünde 8-14 mikrometre makrokonidi; makrofaj içinde 2-4 mikrometre oval maya."
+# kaynak: Dimorfik_mantarlar.txt

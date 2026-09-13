@@ -1,0 +1,11 @@
+id: der_herpes_simpleks_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HSVde ilk bulaşın kaçında klinik belirti gelişmez?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_viral, derm_vr_herpes]
+metin: "Yaklaşık %99'unda; virüs omuriliğin arka kök ganglionlarında latent kalır."
+# kaynak: 5.sınıf_Dermatoloji_viral_yeni.txt

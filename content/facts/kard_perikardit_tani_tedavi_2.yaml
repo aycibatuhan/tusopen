@@ -1,0 +1,11 @@
+id: kard_perikardit_tani_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Perikardit evre 1 EKG bulgusu nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_endokardit_miyokard_perikard, kard_em_akut_perikardit]
+metin: "Yaygın 2-5 mm ST yükselmesi ve PR depresyonu."
+# kaynak: 5.sınıf_Kardiyoloji_Perikard_Hastalıkları_-_Prof.Dr.İbrahim_Keleş.txt

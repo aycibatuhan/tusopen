@@ -1,0 +1,11 @@
+id: biyok_hb_mb_fark_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Demirin yükseltgenmesi hangi formları oluşturur?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_hemoglobin_miyoglobin]
+metin: "Metmiyoglobin ve metemoglobin; bu formlar oksijen bağlayamaz."
+# kaynak: 1._Sınıf_1.1_Biyokimya_2018.10.23__Myoglobin-Hb_2018.txt

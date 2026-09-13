@@ -1,0 +1,11 @@
+id: gog_ipf_uip_tani_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İPF'de kötü prognoz göstergeleri nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_ipf]
+metin: "Yürüme testinde desatürasyon %88'e inmesi; FVC %10, DLCO %15 kayıp; sağkalım 3,2-5 yıl."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_İdyopatik_Pulmoner_Fibrozis.txt

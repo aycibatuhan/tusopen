@@ -1,0 +1,11 @@
+id: der_dermatofitoz_tani_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Saçlı deri dermatofitozunda temel tedavi nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_dermatofitoz]
+metin: "Sistemik antimikotikler (terbinafin); topikal yalnızca destekleyicidir."
+# kaynak: 5.sınıf_Dermatoloji_SUPERFICIAL_FUNGAL_INFECTIONS.txt

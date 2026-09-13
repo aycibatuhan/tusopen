@@ -1,0 +1,11 @@
+id: adli_tok_ornek_secimi_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Toksikolojide idrar örneği ne zaman değerlidir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_klinik_adli_durumlar, adl_kd_zehirlenme_adli]
+metin: "Kalitatif analizde, metabolit saptamada, birikimli maddelerde ve kronik kullanımın kanıtında."
+# kaynak: 5.sınıf_Adli_Tıp_ADLİ_TOKSİKOLOJİ_PROF._DR._İBRAHİM_ÜZÜN.txt

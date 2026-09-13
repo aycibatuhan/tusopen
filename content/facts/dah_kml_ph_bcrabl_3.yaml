@@ -1,0 +1,11 @@
+id: dah_kml_ph_bcrabl_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "KML evre eşikleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_kml]
+metin: "Akselere: blast >%15 veya bazofil ≥%20; blastik kriz: blast >%20."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_KML-KLL_Türkçe_-_AEE_2021.txt

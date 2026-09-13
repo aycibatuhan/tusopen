@@ -1,0 +1,10 @@
+id: anes_ga_evreler_4
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Anesteziyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BIS'te genel cerrahi için hedef aralık nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_genel_anestezi, anes_ga_evreler]
+metin: "40-60 aralığı hedeflenir (skala 0-100; uyanık 100, izoelektrik EEG 0)."

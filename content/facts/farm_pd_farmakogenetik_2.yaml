@@ -1,0 +1,11 @@
+id: farm_pd_farmakogenetik_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CYP2D6 yavaş metabolizöründe kodein ve imipramin?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakodinamik, farm_pd_farmakogenetik]
+metin: "Kodein morfine dönüşemez (etki yok); imipramin düzeyi 50 kata artabilir."
+# kaynak: 1._Sınıf_1.4_Farmakoloji_FARMAKOGENETİKöğrenci.txt

@@ -1,0 +1,11 @@
+id: kbb_sialolityazis_submandibuler_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sialolityazis vakalarının yüzde kaçı submandibuler bezdedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_tukuruk_bezleri, kbb_tb_sialadenit]
+metin: "Yaklaşık %80; yemekle ağrılı şişlik tipiktir."
+# kaynak: 5.sınıf_KBB_myener_Tükrük_Bezi_Hastalıkları_ders.txt

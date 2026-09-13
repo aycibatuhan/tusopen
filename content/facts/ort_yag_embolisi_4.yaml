@@ -1,0 +1,11 @@
+id: ort_yag_embolisi_4
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Travma sonrası pulmoner emboli ne zaman daha sıktır?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kirik_genel, orto_kg_yag_embolisi]
+metin: "5 günden sonra; omurilik yaralanmalı hastalarda daha sıktır."
+# kaynak: 5.sınıf_Ortopedi_Complications_.txt, 5.sınıf_Ortopedi_mkö_MULTİTRAVMALI_HASTAYA_YAKLAŞIM_ing.txt

@@ -1,0 +1,11 @@
+id: bcy_beyin_odemi_tipleri_3
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hidrostatik beyin ödemi nasıl oluşur?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_intrakraniyal_basinc, bce_ib_beyin_odemi]
+metin: "Akut malign hipertansiyonda (sistolik TA >160 mmHg) kapillerlere basınç yansımasıyla."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Ödemi_ve_KİBAS_S.T.txt

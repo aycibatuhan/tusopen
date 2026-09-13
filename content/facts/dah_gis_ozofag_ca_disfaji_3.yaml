@@ -1,0 +1,11 @@
+id: dah_gis_ozofag_ca_disfaji_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Özofagus kanserinde yerleşime göre tedavi nasıl seçilir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_ozofajit]
+metin: "Üst üçlüde radyoterapi, alt üçlüde cerrahi."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_Özofagus_Hastalıkları-4.Sınıf-Prof.Dr.Murat_TUNCER_.txt

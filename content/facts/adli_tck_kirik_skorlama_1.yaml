@@ -1,0 +1,11 @@
+id: adli_tck_kirik_skorlama_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kemik kırıkları hayat fonksiyonlarına göre nasıl sınıflanır?"
+taksonomi:
+  - [ktbt, adli_tip, adl_yara_balistik, adl_yb_yasam_belirtileri]
+metin: "Hafif (1), orta (2-3), ağır (4-5-6); kırık cezayı yarı oranında artırır."
+# kaynak: 5.sınıf_Adli_Tıp_TCK_YARALAR_PROF._DR._GÜRSEL_ÇETİN.txt

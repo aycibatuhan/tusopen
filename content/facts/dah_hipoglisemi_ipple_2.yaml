@@ -1,0 +1,11 @@
+id: dah_hipoglisemi_ipple_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nedeni açıklanamayan hipoglisemide standart tetkik nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipoglisemi]
+metin: "72 saatlik uzamış açlık testi; 6 saatte bir glukoz, insülin, C-peptid."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Hipoglisemiler.txt

@@ -1,0 +1,11 @@
+id: hsag_bi_sagkalim_yontemleri_3
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kaplan-Meier yönteminin özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_sagkalim]
+metin: "Her olay anında kestirim yapar, basamaklı eğri üretir; küçük örneklemlerde güvenlidir."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD7_Sağkalım_analizi_(Life_Table__Kaplan-Meier__Logrank__Cox_Regresyonu).txt

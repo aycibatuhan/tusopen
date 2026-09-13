@@ -1,0 +1,11 @@
+id: adli_istismar_yanik_yasi_3
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Temas yanığında istismar ipucu nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_klinik_adli_durumlar, adl_kd_cocuk_istismari]
+metin: "Lezyon sınırları belirgindir ve kullanılan nesnenin biçimine uygundur."
+# kaynak: 5.sınıf_Adli_Tıp_ÇOCUK_İSTİSMARI_VE_İHMALİ_DOÇ._DR._BERNA_ŞENEL_ERASLAN.txt

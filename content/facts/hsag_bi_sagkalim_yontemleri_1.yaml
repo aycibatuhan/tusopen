@@ -1,0 +1,11 @@
+id: hsag_bi_sagkalim_yontemleri_1
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sağkalım analizinde sansürlü (censored) olgu kimdir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_sagkalim]
+metin: "Olayı göstermeyen olgu: başka nedenle sonuca erişen, kaybedilen veya izlemde olan."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD7_Sağkalım_analizi_(Life_Table__Kaplan-Meier__Logrank__Cox_Regresyonu).txt

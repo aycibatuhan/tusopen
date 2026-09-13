@@ -1,0 +1,11 @@
+id: ort_femur_diafiz_kankaybi_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Distal femur kırığında distal fragman hangi yöne deplase olur?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_femur_cisim]
+metin: "Quadriceps ve gastrocnemius çekimiyle posteriora; damar-sinir yaralanması riski taşır."
+# kaynak: 5.sınıf_Ortopedi_FEMUR_KIRIKLARI.txt, 5.sınıf_Ortopedi_Ortopedi_ve_Travmatoloji_de_Radyolojik_Değerlendirme.txt

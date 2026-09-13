@@ -1,0 +1,13 @@
+id: histo_sin_miyelin_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Saltatuvar iletimin avantajları nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sinir
+  - histo_sin_miyelin
+metin: Aksiyon potansiyeli boğumdan boğuma atlar; çok daha hızlıdır ve enerjiden tasarruf sağlar.

@@ -1,0 +1,11 @@
+id: kbb_epistaksis_kiesselbach_tampon_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Posterior nazal tampon konan hasta nasıl yönetilir?"
+taksonomi:
+  - [ktbt, kbb, kbb_burun, kbb_bn_epistaksis]
+metin: "Hospitalize edilir; tampon 48-72 saat sonra çıkarılır."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

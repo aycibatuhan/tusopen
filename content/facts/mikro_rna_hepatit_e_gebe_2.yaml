@@ -1,0 +1,11 @@
+id: mikro_rna_hepatit_e_gebe_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HEV kuluçka dönemi ne kadardır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_hepatit_a_e]
+metin: "2-9 hafta (ortalama 6 hafta); kendiliğinden iyileşir."
+# kaynak: 10-Viral_Hepatitler_2020.txt

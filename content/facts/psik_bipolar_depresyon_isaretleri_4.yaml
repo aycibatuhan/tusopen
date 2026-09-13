@@ -1,0 +1,11 @@
+id: psik_bipolar_depresyon_isaretleri_4
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Unipolar depresyonu düşündüren özellikler nelerdir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_duygudurum, psik_dd_bipolar]
+metin: "25 yaş üstü başlangıç, 6 aydan uzun epizod, ailede bipolar öyküsü yokluğu."
+# kaynak: 5.sınıf_PSİKİYATRİ_duygudurumbozuklukları-5.sınıf_yeniii.txt

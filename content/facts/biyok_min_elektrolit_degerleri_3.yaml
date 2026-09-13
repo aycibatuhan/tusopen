@@ -1,0 +1,11 @@
+id: biyok_min_elektrolit_degerleri_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hücre dışının ve içinin ana katyonları ile iç potasyum değeri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_mineral_eser]
+metin: "Sodyum hücre dışı, potasyum hücre içi ana katyon; iç K 130-180 mEq/L."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Na__K__Cl_tıp_dersi_2015-2016_2018.txt, 1._Sınıf_1.2_Biyokimya_2018.11.06_Su_ve_su_metabolizması-_MK-2018.txt

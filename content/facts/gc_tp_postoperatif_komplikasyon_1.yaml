@@ -1,0 +1,13 @@
+id: gc_tp_postoperatif_komplikasyon_1
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Anastomoz kaçağı ne zaman ve nasıl prezente olur?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_postoperatif_komplikasyon
+metin: Ameliyattan 5-7 gün sonra; yeni ateş, taşikardi, lokalize ağrı.

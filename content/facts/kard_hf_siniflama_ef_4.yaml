@@ -1,0 +1,11 @@
+id: kard_hf_siniflama_ef_4
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AHA/ACC kalp yetmezliği evrelemesinin özelliği nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_patofizyoloji]
+metin: "A-D evreleri yalnızca ileriye doğru ilerler, hiçbir zaman geri dönmez."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

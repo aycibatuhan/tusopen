@@ -1,0 +1,11 @@
+id: nuk_hida_biliar_atrezi_4
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kolesistektomi sonrası safka sızıntısının sintigrafik bulgusu nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_gis_hepatobiliyer, nt_gh_hepatobiliyer]
+metin: "Operasyon bölgesinde tutulumun belirmesi ve artması."
+# kaynak: 5.sınıf_Nükleer_Tıp_GiS_2022_eylül_send.txt

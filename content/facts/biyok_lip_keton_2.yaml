@@ -1,0 +1,10 @@
+id: biyok_lip_keton_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Karaciğer ürettiği ketonları neden kullanamaz?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_keton]
+metin: "Tiyoforaz enzimi yoktur; beyin uzun açlıkta ketondan enerji alır."

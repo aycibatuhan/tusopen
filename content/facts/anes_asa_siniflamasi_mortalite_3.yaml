@@ -1,0 +1,11 @@
+id: anes_asa_siniflamasi_mortalite_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ASA sınıflarına göre perioperatif mortalite nasıl değişir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_preoperatif, anes_pre_asa_risk]
+metin: "Sınıfla artar: I ~%1.2, II %5.4, III %11.4, IV %10.9."
+# kaynak: 4._Sınıf_Anestezi_1.txt

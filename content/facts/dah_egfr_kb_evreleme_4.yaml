@@ -1,0 +1,11 @@
+id: dah_egfr_kb_evreleme_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi eGFR formülü her iki aralıkta daha doğrudur?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_kronik_bobrek]
+metin: "CKD-EPI; Cockcroft-Gault 60 ml/dk üstünde, MDRD yüksek GFR'de yanıltır."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_RENALF_1.txt, 3._Sınıf_3.4_İç_hastalıkları_Bo_brek.txt

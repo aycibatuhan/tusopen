@@ -1,0 +1,11 @@
+id: biyok_oxfos_kemiosmoz_po_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "NADH ve FADH2 başına pompalanan proton sayısı nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_biyoenerjetik, biyok_be_oksidatif_fosforilasyon]
+metin: "NADH kaynağında 10, süksinat (FADH2) kaynağında 6 proton pompalanır."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Ezel_Uslu_Oksidatif_Fosforilasyon_ATP_EZEL_USLU.txt, 1._Sınıf_1.2_Biyokimya_Ezel_Uslu_Oksidatif_Fosforilasyon_Solunum_Zinciri_2016_EZEL_USLU.txt

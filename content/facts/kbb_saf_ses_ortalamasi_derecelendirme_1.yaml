@@ -1,0 +1,11 @@
+id: kbb_saf_ses_ortalamasi_derecelendirme_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Saf ses ortalaması hangi frekansların ortalamasıdır?"
+taksonomi:
+  - [ktbt, kbb, kbb_kulak_muayene_isitme, kbb_km_odyoloji]
+metin: "500, 1000 ve 2000 Hz hava yolu eşiklerinin."
+# kaynak: 5.sınıf_KBB_Ahmet_ATAŞ_ODYOLOJİK_kavramlar.txt

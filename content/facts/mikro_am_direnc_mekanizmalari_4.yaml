@@ -1,0 +1,11 @@
+id: mikro_am_direnc_mekanizmalari_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vankomisine doğal olarak dirençli bakteri grupları hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_direnc]
+metin: "Gram negatifler (dış membran) vankomisine, hücre duvarsız mikoplazmalar beta-laktamlara doğal dirençlidir."
+# kaynak: Antibiyotik_direnci_ve_önemi15.txt

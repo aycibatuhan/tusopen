@@ -1,0 +1,11 @@
+id: hsag_ep_olgu_kontrol_2
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Olgu-kontrol çalışmasında rölatif risk neden hesaplanamaz?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_epidemiyoloji, hs_ep_vaka_kontrol]
+metin: "İnsidans hesaplanamadığından; yerine odds oranı kullanılır."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD2__Klinik_araştırmalar__Tasarımı__Özellikleri__Sınıflama_ve_Kanıt_Güçleri.txt, 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD6_Göreli_Risk_ölçütleri_(RR__OR__AR__vb).txt

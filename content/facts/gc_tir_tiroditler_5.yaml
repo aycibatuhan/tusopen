@@ -1,0 +1,14 @@
+id: gc_tir_tiroditler_5
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akut süpüratif tiroiditin nedeni nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_bas_boyun_tiroid
+  - gc_tir_nodul
+metin: Bakteriyel/fungal enfeksiyon; ağrı, ateş, hassasiyet.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Serkan_Teksöz_GUATR-TİROİDİTLER.txt

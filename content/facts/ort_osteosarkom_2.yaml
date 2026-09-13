@@ -1,0 +1,11 @@
+id: ort_osteosarkom_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteosarkom olgularının yüzde kaçı diz çevresinde yerleşir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kemik_tumorleri, orto_kt_osteosarkom]
+metin: "%70'i; distal femur, proksimal tibia ve proksimal fibula metafizleri."
+# kaynak: 5.sınıf_Ortopedi_habıs_kemık_tümörlerı.txt

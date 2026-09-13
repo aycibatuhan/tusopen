@@ -1,0 +1,11 @@
+id: goz_ethambutol_toksik_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Etambutol toksisitesinde tarama gereken günlük doz eşiği nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_sistemik_ilac, goz_si_ilac_toksisitesi]
+metin: "15 mg/kg'ı aşan dozlarda; erken bulgu kırmızı-yeşil renk görme bozukluğudur."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Optik_Sinir_Hastalıkları.txt

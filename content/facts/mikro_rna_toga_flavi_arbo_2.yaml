@@ -1,0 +1,11 @@
+id: mikro_rna_toga_flavi_arbo_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sarı hummanın kentsel ve orman döngüleri nasıldır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_toga_flavi]
+metin: "Kentsel form Aedes aegypti ile insandan insana; orman formu maymun-orman sivrisineği döngüsüyle."
+# kaynak: Arboviruslar.txt

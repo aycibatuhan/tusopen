@@ -1,0 +1,11 @@
+id: gog_khdak_histoloji_mutasyon_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Transtorasik iğne aspirasyonunun tanı oranı ve komplikasyonu nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_neoplazi, gog_neo_kucuk_hucreli_disi]
+metin: "%80-95; en sık komplikasyon pnömotoraks (%22-42)."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer_Kanseri_Dönem_5-29.08.2022.txt

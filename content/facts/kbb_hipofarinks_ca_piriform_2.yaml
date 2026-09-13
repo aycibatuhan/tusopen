@@ -1,0 +1,11 @@
+id: kbb_hipofarinks_ca_piriform_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipofarinks kanserlerinde klinik servikal lenfadenopati oranı nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_hipofarinks]
+metin: "%70 (erken lenf metastazı tipiktir)."
+# kaynak: 5.sınıf_KBB_ORAL_KAVİTE__OROFARENKS__HİPOFARENKS_NEOPLAZİLERİ.txt

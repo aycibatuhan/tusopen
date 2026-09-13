@@ -1,0 +1,11 @@
+id: ftr_osteoporoz_tskor_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yerleşmiş osteoporoz tanımı nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_metabolik_kemik, ftr_mk_osteoporoz]
+metin: "-2.5 altı T skoruyla birlikte frajilite kırığının varlığıdır."
+# kaynak: 5.sınıf_FTR_OSTEOPOROZ.txt

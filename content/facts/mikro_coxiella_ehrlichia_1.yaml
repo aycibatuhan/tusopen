@@ -1,0 +1,11 @@
+id: mikro_coxiella_ehrlichia_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Q humması etkeni rickettsialardan bulaşma yönünden nasıl ayrılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_coxiella_ehrlichia]
+metin: "C. burnetii vektör gerektirmez; enfekte koyun-keçi-sığır doğum artıkları ve çiğ sütten aerosol veya sindirim yoluyla bulaşır."
+# kaynak: Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

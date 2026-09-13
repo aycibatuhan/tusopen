@@ -1,0 +1,11 @@
+id: der_urtiker_klinik_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Soğuk ürtikerinin tanısında hangi test kullanılır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_urtiker_ilac, derm_ui_urtiker_anjioodem]
+metin: "Buz testi kullanılır."
+# kaynak: 5.sınıf_Dermatoloji_u_rtiker_ders.txt

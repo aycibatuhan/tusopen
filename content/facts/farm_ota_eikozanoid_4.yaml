@@ -1,0 +1,11 @@
+id: farm_ota_eikozanoid_4
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glokomda PGF2α analogları ve yan etkileri?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otakoid_inflamasyon, farm_ota_eikozanoid]
+metin: "Latanoprost-travoprost-bimatoprost; iris pigmentasyonu, kirpik büyümesi."
+# kaynak: 2._Sınıf_2.2_Farmakoloji_eikozonoidleröğrenci.txt

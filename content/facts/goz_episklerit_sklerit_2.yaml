@@ -1,0 +1,11 @@
+id: goz_episklerit_sklerit_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Episkleritin klinik özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_konjonktiva_kornea, goz_kk_sklerit]
+metin: "Ağrısız, tekrarlayıcı, sektörel; genellikle 2 hafta içinde kendiliğinden geriler."
+# kaynak: 5.sınıf_Göz_Hastalıkları_kırmızı_göz_2.txt

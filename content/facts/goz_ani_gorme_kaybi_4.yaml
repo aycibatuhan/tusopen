@@ -1,0 +1,11 @@
+id: goz_ani_gorme_kaybi_4
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Geçici binoküler görme kaybı neye işaret eder?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_travma, goz_tr_ani_gorme_kaybi]
+metin: "Daima ileri derece internal karotid tıkanıklığına veya oksipital lob iskemisine."
+# kaynak: 5.sınıf_Göz_Hastalıkları_ANİ_KÖRLÜKLER.txt

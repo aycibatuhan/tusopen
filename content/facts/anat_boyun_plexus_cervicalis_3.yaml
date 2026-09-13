@@ -1,0 +1,11 @@
+id: anat_boyun_plexus_cervicalis_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: N. phrenicus'un kökleri ve innerve ettiği yapı?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_sinirler]
+metin: C3-C4-C5 kaynaklıdır; diyaframı innerve eder, ağrı omuza yansıyabilir.
+# kaynak: 2._Sınıf_2.1_Anatomi_2.1._Periferik_sinir_sistemi_2018-19.txt, 1._Sınıf_1.1_Anatomi_2018.10.10__Sinir_Sistemi-2_(PSS).txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-_YUSUF_ZEKİ_YILDIZ-_Sindirim_organları_-II.txt

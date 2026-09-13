@@ -1,0 +1,11 @@
+id: fiz_sol_mekanik_degerler_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dinlenimde intraplevral, alveolar ve transpulmoner basınçlar kaçtır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_mekanik]
+metin: "İntraplevral -5, alveolar 0, transpulmoner +5; inspirasyonda alveolar -1 cmH2O."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

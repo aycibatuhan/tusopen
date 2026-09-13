@@ -1,0 +1,10 @@
+id: kd_gf_plasenta_4
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Amniyon sıvısı 2. trimesterden itibaren esas kaynağı nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_plasenta]
+metin: "Fetal idrar ve akciğer sıvısı; volüm 34. haftada 800 mL zirve."

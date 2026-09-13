@@ -1,0 +1,11 @@
+id: nuk_radyasyon_guvenligi_doz_limitleri_3
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fetus dozu 100 mSv'yi aşarsa ne yapılır?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_temel, nt_tm_radyasyon_guvenligi]
+metin: "Abortus değerlendirmesi kriteridir."
+# kaynak: 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

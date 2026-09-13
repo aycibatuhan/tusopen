@@ -1,0 +1,11 @@
+id: mikro_par_protozoon_genel_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Protozoon şubeleri hareket organellerine göre nasıl ayrılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_genel]
+metin: "Yalancı ayaklılar (Sarcodina), kamçılılar (Mastigophora), kirpikliler (Ciliophora) ve Apicomplexa."
+# kaynak: Protozoon_ve_Helmintlerin_Genel_Özellikleri.txt

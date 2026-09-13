@@ -1,0 +1,11 @@
+id: psik_ptsb_tedavi_4
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BDT uygulanan PTSB hastasına hangi ilaç verilmemelidir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_okb_travma, psik_ot_tssb]
+metin: "Benzodiazepinler (bilişsel işlevleri bozar)."
+# kaynak: 5.sınıf_PSİKİYATRİ_okb-ptsb_ve_ilişkili_bozukluklar.txt

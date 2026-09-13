@@ -1,0 +1,11 @@
+id: kard_stemi_ekg_esikleri_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "STEMI tanısında V2-V3 ST yükselme eşikleri nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_stemi]
+metin: "40 yaş altı erkek >2.5 mm, 40 üstü erkek >2 mm, kadın ≥1.5 mm; diğer derivasyonlar ≥1 mm."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

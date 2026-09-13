@@ -1,0 +1,11 @@
+id: fiz_kas_lif_tipleri_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kas hipertrofisinde ne değişir, hiperplazi nerede görülür?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_iskelet]
+metin: "Hücre sayısı değişmez, miyofibril ve çap artar; hiperplazi uterus gibi bazı düz kaslarda."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_Kas_fizyolojisi_2._ve_3._Ders_2019.txt

@@ -1,0 +1,11 @@
+id: pls_yanik_derece_iyilesme_3
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yüzeyel II. derece yanığın görünümü ve iyileşme süresi nedir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yanik, pce_ya_derecelendirme]
+metin: "Islak, parlak, büllük; 10-14 günde (4 haftaya uzayabilir) çok az nedbeyle kapanır."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Yanık-DERS-2020.txt

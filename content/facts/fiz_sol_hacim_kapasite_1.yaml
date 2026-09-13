@@ -1,0 +1,11 @@
+id: fiz_sol_hacim_kapasite_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dinlenimde soluk hacmi, frekans ve alveollere ulaşan hava nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_volumler]
+metin: "500 ml, 12-15/dk; alveollere ulaşan taze hava yaklaşık 350 ml."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

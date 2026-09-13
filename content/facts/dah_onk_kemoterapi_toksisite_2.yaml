@@ -1,0 +1,10 @@
+id: dah_onk_kemoterapi_toksisite_2
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Doksorubisin kardiyotoksisitesi nasıldır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_kemoterapi_toksisite]
+metin: "Kümülatif doza bağlı irreversibl dilate kardiyomiyopati; üst sınır ~450-550 mg/m2."

@@ -1,0 +1,10 @@
+id: fiz_sinir_sinaps_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Presinaptik terminalde transmitter boşalmasını ne başlatır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_sinaps]
+metin: "Aksiyon potansiyeliyle açılan voltaja duyarlı Ca++ kanallarından kalsiyum girişi."

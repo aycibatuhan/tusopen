@@ -1,0 +1,11 @@
+id: anat_abd_omentum_hepatoduodenale_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Omentum minus hangi iki ligamente ayrılır?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_periton]
+metin: Lig. hepatogastricum ve lig. hepatoduodenale olarak ikiye ayrılır.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-SELMAN_DEMİRCİ-peritonveabdomen.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-_YUSUF_ZEKİ_YILDIZ-_Sindirim_organları_-II.txt

@@ -1,0 +1,11 @@
+id: dah_trombosit_transfuzyon_esikler_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bir trombosit süspansiyonu hastada sayıyı ne kadar yükseltir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_transfuzyon]
+metin: "Random donör ~5.000/mm3; aferez trombositi 40-80.000/mm3 artırır."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Trombositopeni_4._sınıf-2020.txt

@@ -1,0 +1,11 @@
+id: mikro_imm_b_hucre_aktivasyon_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "B hücresine ikinci aktivasyon sinyalini hangi bağlantı verir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_b_hucre]
+metin: "C3d'nin CR2-CD19-CD81 koreseptör kompleksine bağlanması."
+# kaynak: 2-Antijen_tanıma_2019.txt, Humoral_bağışık_yanıt_ve_antikorlar.txt

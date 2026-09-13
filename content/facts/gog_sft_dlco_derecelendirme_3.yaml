@@ -1,0 +1,11 @@
+id: gog_sft_dlco_derecelendirme_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "DLCO hangi durumlarda düşer, hangilerinde artar?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_tani_yontemleri, gog_ty_sft]
+metin: "Amfizem, İAH, pulmoner HT, PE, anemide düşer; alveoler hemoraji, polisitemi, gebelikte artar."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Kısa_Solunum_Fonksiyon_Testleri_2022-23_Ders_Bilun.txt

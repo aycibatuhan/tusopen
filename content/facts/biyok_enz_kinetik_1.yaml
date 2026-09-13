@@ -1,0 +1,10 @@
+id: biyok_enz_kinetik_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Km nedir ve düşük Km ne anlama gelir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_kinetik]
+metin: "Vmax'ın yarısına ulaştığı substrat derişimi; düşük Km yüksek afinite gösterir."

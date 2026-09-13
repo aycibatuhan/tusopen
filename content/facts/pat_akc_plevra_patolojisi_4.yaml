@@ -1,0 +1,11 @@
+id: pat_akc_plevra_patolojisi_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Malign mezotelyoma hangi maruziyetle ilişkilidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_plevra]
+metin: "Asbest; asbest-sigara birlikteliği riski %7-10'a yükseltir."
+# kaynak: 2._Sınıf_2.3_Patoloji_Akciğer_tümörleri___plevra_2019.txt

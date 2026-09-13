@@ -1,0 +1,11 @@
+id: mikro_nocardia_asteroides_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nokardiyoz tedavisinde temel ilaç nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_aktinomiset_nokardiya]
+metin: "Sulfonamidler (TMP-SMX); süre 6 hafta veya daha uzundur."
+# kaynak: Nocardia__Actinomyces.txt

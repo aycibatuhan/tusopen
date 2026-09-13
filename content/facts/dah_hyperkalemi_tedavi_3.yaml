@@ -1,0 +1,11 @@
+id: dah_hyperkalemi_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hiperkalemide tedavi sırası nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_potasyum]
+metin: "Önce IV kalsiyum, sonra insülin-glikoz; kalıcı uzaklaştırma reçine veya hemodiyaliz."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_HIPERV_1.txt

@@ -1,0 +1,11 @@
+id: dah_as_tani_radgrafi_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Düz grafide ankilozan spondilit için sakroiliit eşiği nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_ankilozan_spondilit]
+metin: "Bilateral grade 2 veya tek taraflı grade 3 sakroiliit yeterlidir."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_Spondiloartritler.txt

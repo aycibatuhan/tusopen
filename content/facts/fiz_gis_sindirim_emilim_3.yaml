@@ -1,0 +1,10 @@
+id: fiz_gis_sindirim_emilim_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fruktoz, glukoz ve galaktoz hangi taşıyıcılarla hücreye girer?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_sindirim_emilim]
+metin: "Fruktoz GLUT5 ile; glukoz ve galaktoz sodyumla SGLT1 taşıyıcısıyla."

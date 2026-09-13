@@ -1,0 +1,10 @@
+id: mikro_imm_immun_yetmezlik_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bruton agamaglobulinemisinin klinik bulgusu ve aşı kısıtı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_immun_yetmezlik]
+metin: "Tekrarlayan bakteriyel sinüsopulmoner ve bağırsak enfeksiyonları; canlı aşılar önerilmez."

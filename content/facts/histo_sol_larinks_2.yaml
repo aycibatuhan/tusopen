@@ -1,0 +1,14 @@
+id: histo_sol_larinks_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Gerçek ve yalancı ses telleri hangi epitle döşelidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_solunum
+  - histo_sol_ust
+metin: Gerçek (vokal) teller çok katlı yassı; yalancı (vestibüler) teller solunum tipi epitle.
+# kaynak: 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ-II.txt

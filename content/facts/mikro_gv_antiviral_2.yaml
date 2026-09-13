@@ -1,0 +1,11 @@
+id: mikro_gv_antiviral_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RSV enfeksiyonunda kullanılan spesifik ajanlar hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_antiviral_direnc]
+metin: "Palivizumab (monoklonal antikor) ve aerosol ribavirin; yüksek riskli çocuklarda."
+# kaynak: Virüslerin_çoğalması_ve_viral_infeksiyonların_tedavisi_ve_ko.txt

@@ -1,0 +1,14 @@
+id: embriyo_sis_iskelet_somitler_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Somitlerin bölgesel dağılımı nasıldır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_iskelet_kas
+metin: 4 çift oksipital, 8 çift servikal, 12 çift torasik, 5 çift lumbar, 5 çift sakral ve 8-10 çift koksigeal.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_EMBRİYONİK_DÖNEM-IR.txt, 2._Sınıf_2.1_Histoloji_iskelet_sistemi_gelişimi.txt, 2._Sınıf_2.1_Histoloji_KAS_SİSTEMİ_GELİŞİMİ.txt

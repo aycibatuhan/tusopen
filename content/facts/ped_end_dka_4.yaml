@@ -1,0 +1,15 @@
+id: ped_end_dka_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: DKA'nın en korkulan komplikasyonu ve tedavisi nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_endokrinoloji
+  - ped_end_diyabet
+metin: Serebral ödem (%0,4-1, mortalite %20-30); 0,5-1 g/kg %20 mannitol veya 2,5-5 ml/kg %3 NaCl.
+
+# kaynak: 4._Sınıf_Pediatri_HND_SUNUM_dka_(1)8.10.txt

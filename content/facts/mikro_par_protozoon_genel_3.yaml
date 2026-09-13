@@ -1,0 +1,11 @@
+id: mikro_par_protozoon_genel_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Monoksen ve heteroksen parazit ne demektir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_genel]
+metin: "Tek konak yeterliyse monoksen (Ascaris); ara ve son konak gerekiyorsa heteroksendir."
+# kaynak: Protozoon_ve_Helmintlerin_Genel_Özellikleri.txt

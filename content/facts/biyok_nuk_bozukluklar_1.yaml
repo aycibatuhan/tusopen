@@ -1,0 +1,10 @@
+id: biyok_nuk_bozukluklar_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gutun nedeni ve allopurinolün hedefi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_nukleotid, biyok_nuk_bozukluklar]
+metin: "Ürik asidin eklemlerde kristalleşmesi; allopurinol ksantin oksidazı baskılar."

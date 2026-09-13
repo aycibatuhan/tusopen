@@ -1,0 +1,11 @@
+id: psik_d2_blok_oranlari_5
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Atipik antipsikotik özellik neyle ilişkilidir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikofarmakoloji, psik_pf_ekstrapiramidal]
+metin: "Yüksek 5-HT2A/D2 oranı, düşük D2 afinitesi, aripiprazolda parsiyel agonizm."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt, 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt

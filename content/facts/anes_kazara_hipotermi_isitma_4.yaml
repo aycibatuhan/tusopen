@@ -1,0 +1,11 @@
+id: anes_kazara_hipotermi_isitma_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipoterminde aktif ısıtma hızı ne olmalıdır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_hipotermi]
+metin: "0.5-2°C/saat olmalıdır."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Hipotermi_Suda_boğulma_Anaflaksi.txt

@@ -1,0 +1,10 @@
+id: anat_pss_sempatik_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Postganglionik sempatik liflerin nörotransmitteri?
+taksonomi:
+  - [ttbt, anatomi, anat_periferik_otonom, anat_pss_sempatik]
+metin: Noradrenalin; preganglionik uçlar nikotinik reseptörlere asetilkolin salgılar.

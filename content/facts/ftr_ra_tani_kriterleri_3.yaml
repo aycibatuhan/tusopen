@@ -1,0 +1,11 @@
+id: ftr_ra_tani_kriterleri_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "2010 ACR/EULAR sınıflamasında tanı için gereken puan nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_romatoid_artrit_rehab]
+metin: "Toplam 6/10 puan ve üzeri."
+# kaynak: 5.sınıf_FTR_ROMATOİD_ARTRİT__Otomatik_kaydedilme_.txt

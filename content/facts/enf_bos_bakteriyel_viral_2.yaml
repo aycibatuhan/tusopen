@@ -1,0 +1,15 @@
+id: enf_bos_bakteriyel_viral_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Viral menenjitte BOS nasıl değişir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_mss
+  - enf_mss_bos_bulgulari
+metin: Berrak; <1.000/mm3 lenfositik hücreler, glukoz >%40 korunur, protein değişkendir.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt

@@ -1,0 +1,11 @@
+id: kard_akut_ky_ilk_dakikalar_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut KKYde yoğun bakım yatış kriterleri nelerdir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_akut]
+metin: "SaO2 <%90, solunum sayısı >25/dk, kalp hızı <40 veya >130/dk, SKB <90 mmHg."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

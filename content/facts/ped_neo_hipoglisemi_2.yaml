@@ -1,0 +1,15 @@
+id: ped_neo_hipoglisemi_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yenidoğan hipoglisemisinde tedavi nasıl yapılır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_hipoglisemi
+metin: Asemptomatikte erken enteral besleme, 25 mg/dl altında glikoz infüzyonu (bolus verilmez); semptomatikte %10 glikoz 2 ml/kg + 6-8 mg/kg/dk.
+
+# kaynak: 4._Sınıf_Pediatri_Ersin_Ulu_yenidoğan_metabolik_sorunları_kopya.txt

@@ -1,0 +1,11 @@
+id: mikro_gv_tani_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Embriyonlu yumurtada virüsler hangi keselere hangi günlerde verilir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_tani]
+metin: "Sarı keseye kuduz 6-7, amniyotik keseye kabakulak 8-9, koryoallantoik keseye influenza 9-11. günde."
+# kaynak: yeni-2018-virüslerın_genel_özellikleri.txt

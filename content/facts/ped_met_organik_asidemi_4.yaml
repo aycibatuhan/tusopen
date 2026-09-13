@@ -1,0 +1,14 @@
+id: ped_met_organik_asidemi_4
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Organik asidemilerde tanı ve tedavinin temeli nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_organik_asidemi
+metin: Plazma asilkarnitin profili ve idrar organik asit analizi; açlıktan kaçınma, protein kısıtlaması ve L-karnitin replasmanı.
+

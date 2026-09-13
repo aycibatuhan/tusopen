@@ -1,0 +1,10 @@
+id: farm_kv_hipolipidemik_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Statinlerin mekanizması nedir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_hipolipidemik]
+metin: "HMG-CoA redüktaz inhibisyonu; LDL reseptör artışıyla kandaki LDL düşer."

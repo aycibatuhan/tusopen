@@ -1,0 +1,11 @@
+id: kbb_vkp_tiroidektomi_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tek taraflı vokal kord paralizisinde tedavi yaklaşımı nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_larinks, kbb_lr_vokal_kord_paralizisi]
+metin: "Genellikle cerrahi gerekmez; medializasyon (enjeksiyon, tip I tiroplasti) uygulanabilir."
+# kaynak: 5.sınıf_KBB_VC_paralizi.txt, 5.sınıf_KBB_KBB_acilleri.txt

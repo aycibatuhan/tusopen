@@ -1,0 +1,10 @@
+id: farm_kv_diuretik_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kıvrım diüretiklerin yan etkileri?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_diuretik]
+metin: "Hipokalemi, metabolik alkalez ve kulak toksisitesi."

@@ -1,0 +1,11 @@
+id: biyok_enz_zimojen_aktivasyon_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Zimojen nedir, nasıl aktive olur?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_regulasyon]
+metin: "İnaktif öncül enzim; proteolitik peptid bağı kopmasıyla geri dönüşsüz aktive olur."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Enzim_Aktivitesinin_düzenlenmesi_2018.txt, 1._Sınıf_1.2_Biyokimya_CTF_12_Enzmlr_gnl_özllklr_frnd_v.2018.txt

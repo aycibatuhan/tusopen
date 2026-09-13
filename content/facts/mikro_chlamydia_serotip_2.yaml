@@ -1,0 +1,11 @@
+id: mikro_chlamydia_serotip_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fitz-Hugh-Curtis sendromu nedir ve BT'de nasıl görünür?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_chlamydia]
+metin: "PID komplikasyonu perihepatit; BT'de karaciğer kenarında 'keman teli' görüntüsü."
+# kaynak: 4-_Chlamydia.txt

@@ -1,0 +1,11 @@
+id: mikro_mycoplasma_pneumoniae_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mycoplasma pneumoniae neden beta-laktamlara doğal dirençlidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_mycoplasma]
+metin: "Hücre duvarı hiçbir koşulda oluşturmaz; Gram ile de boyanmaz."
+# kaynak: 3-_Helico_(Tanı__Tedavi__Korunma)___Mycoplasma.txt

@@ -1,0 +1,11 @@
+id: kbb_pleomorfik_adenom_parotis_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pleomorfik adenomda enükleasyon sonrası nüks oranı nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_tukuruk_bezleri, kbb_tb_benign_tumorler]
+metin: "%30'a ulaşır; tedavi parotidektomidir."
+# kaynak: 5.sınıf_KBB_myener_Tükrük_Bezi_Hastalıkları_ders.txt

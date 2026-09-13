@@ -1,0 +1,11 @@
+id: kbb_toae_dpoae_tarama_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "TOAE hangi şiddete kadar eşik bilgisi verir?"
+taksonomi:
+  - [ktbt, kbb, kbb_kulak_muayene_isitme, kbb_km_yenidogan_isitme]
+metin: "Yaklaşık 30 dB'e kadar; üzerindeki kayıpta elde edilemez."
+# kaynak: 5.sınıf_KBB_Ahmet_ATAŞ_ODYOLOJİK_kavramlar.txt

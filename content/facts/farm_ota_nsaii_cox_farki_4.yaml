@@ -1,0 +1,11 @@
+id: farm_ota_nsaii_cox_farki_4
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Reye sendromu hangi ilaçla ilişkilidir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otakoid_inflamasyon, farm_ota_nsaii]
+metin: "Aspirin; viral infeksiyonlu çocuklarda kısıtlı kullanılır."
+# kaynak: 2._Sınıf_2.1_farmakoloji_NSAİİ_ve_Antigut_özet_2019.txt

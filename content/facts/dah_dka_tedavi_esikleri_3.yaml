@@ -1,0 +1,11 @@
+id: dah_dka_tedavi_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "DKA'da bikarbonat ne zaman endikedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diyabet_akut_komplikasyon]
+metin: "Yalnızca pH 6,9 altı dekompanse asidozda veya şok varlığında; erken kullanım hipokalemi yapar."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Acute_complications.txt

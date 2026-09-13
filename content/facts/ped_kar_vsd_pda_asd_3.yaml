@@ -1,0 +1,15 @@
+id: ped_kar_vsd_pda_asd_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: ASD'nin sıklığı ve tipik özellikleri nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_asiyanotik
+metin: İzole %5-10 (1550'de 1); kızlarda iki kat sıktır, en sık sekundum tipidir.
+
+# kaynak: 2._Sınıf_2.2_pediatri_asiyanotikKH_türkçe.txt, 4._Sınıf_Pediatri_Funda_Öztunç_pda_-asd_türkce.txt

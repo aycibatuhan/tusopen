@@ -1,0 +1,10 @@
+id: anat_genel_terminoloji_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Sagital, koronal ve transvers düzlemler vücudu nasıl ayırır?
+taksonomi:
+  - [ttbt, anatomi, anat_genel, anat_genel_terminoloji]
+metin: Sagital sağ-sol, koronal ön-arka, transvers üst-alt bölümlere ayırır.

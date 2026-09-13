@@ -1,0 +1,11 @@
+id: kard_avnrt_tani_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Paroksismal SVTlerin en sık formu hangisidir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_aritmiler, kard_ar_supraventrikuler_tasikardi]
+metin: "AV nodal reentran taşikardi (yaklaşık %60-65)."
+# kaynak: 5.sınıf_Kardiyoloji_Aritmi_Ders_Cerrahpas_a_2021-22.txt, 5.sınıf_Kardiyoloji_EKG_Örnekleri.txt

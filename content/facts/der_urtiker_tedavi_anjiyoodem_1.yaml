@@ -1,0 +1,11 @@
+id: der_urtiker_tedavi_anjiyoodem_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut ürtikerde nedenlerin dağılımı nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_urtiker_ilac, derm_ui_urtiker_anjioodem]
+metin: "Gıdalar %1, ilaçlar %9, üst solunum yolu infeksiyonları %40; geri kalan %50 idiyopatiktir."
+# kaynak: 5.sınıf_Dermatoloji_u_rtiker_ders.txt

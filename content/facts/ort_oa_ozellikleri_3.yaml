@@ -1,0 +1,11 @@
+id: ort_oa_ozellikleri_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteoartrit en sık hangi eklemlerde görülür?"
+taksonomi:
+  - [ktbt, ortopedi, orto_eklem_dejeneratif, orto_ek_osteoartrit]
+metin: "Yük taşıyan eklemler: en sık diz, sonra kalça; el parmak eklemleri de klasiktir."
+# kaynak: 5.sınıf_Ortopedi_Degenerative_Joint_Disease_GK.txt

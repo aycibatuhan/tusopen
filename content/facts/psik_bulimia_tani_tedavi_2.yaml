@@ -1,0 +1,11 @@
+id: psik_bulimia_tani_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tekrarlayan kusmanın tipik fiziksel bulguları nelerdir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_yeme_uyku_cinsel, psik_yu_bulimia]
+metin: "El sırtında Russell belirtisi, dental erozyon, parotis hipertrofisi."
+# kaynak: 5.sınıf_PSİKİYATRİ_Yeme_bozuklukları.txt

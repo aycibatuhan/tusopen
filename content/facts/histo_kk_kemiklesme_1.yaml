@@ -1,0 +1,13 @@
+id: histo_kk_kemiklesme_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kafatasının yassı kemikleri hangi kemikleşmeyle oluşur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kikirdak_kemik
+  - histo_kk_kemiklesme
+metin: Intramembranöz kemikleşmeyle; mezenkimal doku doğrudan kemik hücrelerine dönüşür.

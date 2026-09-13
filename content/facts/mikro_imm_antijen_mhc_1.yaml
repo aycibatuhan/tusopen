@@ -1,0 +1,11 @@
+id: mikro_imm_antijen_mhc_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ekzojen ve endojen antijenler hangi MHC ile hangi T hücresine sunulur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_antijen_mhc]
+metin: "Ekzojen MHC-II ile CD4+'a, endojen MHC-I ile CD8+'a sunulur."
+# kaynak: 1-Antijen_yakalama_2020.txt, 2-Antijen_tanıma_2019.txt, Hücre_aracılığı_ile_bağışık_yanıt.txt

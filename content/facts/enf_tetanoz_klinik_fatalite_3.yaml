@@ -1,0 +1,15 @@
+id: enf_tetanoz_klinik_fatalite_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tetanozda at kaynaklı antiserum yerine neden TIG verilir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_isirik_yaralari
+metin: At kaynaklı antiserum fataliteyi artırdığından insan kaynaklı TIG tercih edilmelidir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

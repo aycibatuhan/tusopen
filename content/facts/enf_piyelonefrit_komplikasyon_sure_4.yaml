@@ -1,0 +1,15 @@
+id: enf_piyelonefrit_komplikasyon_sure_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Erkekte pyelonefrite yaklaşım nasıldır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_uriner
+  - enf_ur_piyelonefrit
+metin: Tek bir atağı dahi komplike İYE kabul edilir, kolaylaştırıcı faktör araştırılır.
+
+# kaynak: 3._Sınıf_3.2_Enfeksiyon_hastalıkları_üriner_infeksiyon_3._sınıf.txt

@@ -1,0 +1,11 @@
+id: dah_htn_siniflama_esikler_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Diyabetik hastada hedef kan basıncı nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_kardiyovaskuler, dah_kv_hipertansiyon_yonetimi]
+metin: "130/80 mmHg altı."
+# kaynak: 2._Sınıf_2.2_kardiyoloji_2.Sınıf-HİPERTANSİYON.txt

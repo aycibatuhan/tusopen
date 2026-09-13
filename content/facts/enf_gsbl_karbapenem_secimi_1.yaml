@@ -1,0 +1,15 @@
+id: enf_gsbl_karbapenem_secimi_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: ESBL üreten E. coli ve Klebsiella infeksiyonlarında güvenilir seçenek nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_direnc
+metin: Karbapenemler (meropenem, imipenem, ertapenem); sefalosporinler ve inhibitörlü penisilinler güvenilir değildir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotik_2019.txt

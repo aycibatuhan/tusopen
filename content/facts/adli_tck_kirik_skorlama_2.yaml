@@ -1,0 +1,11 @@
+id: adli_tck_kirik_skorlama_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Birden fazla kırıkta toplam derece nasıl hesaplanır?"
+taksonomi:
+  - [ktbt, adli_tip, adl_yara_balistik, adl_yb_yasam_belirtileri]
+metin: "Her kırığın derecesinin karesi toplanır, karekökü alınır; 0,5 üstü küsürat üst derece."
+# kaynak: 5.sınıf_Adli_Tıp_TCK_YARALAR_PROF._DR._GÜRSEL_ÇETİN.txt

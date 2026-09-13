@@ -1,0 +1,13 @@
+id: gc_tp_yara_iyilesmesi_4
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hipertrofik skar ve keloid farkı nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_yara_iyilesmesi
+metin: Hipertrofik yara sınırları içinde kalır; keloid bunları aşar.

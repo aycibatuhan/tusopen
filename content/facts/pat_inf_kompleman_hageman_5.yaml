@@ -1,0 +1,11 @@
+id: pat_inf_kompleman_hageman_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MAC (C5b-C9) defekti hangi infeksiyonlara yatkınlık yapar?"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_mediatorler]
+metin: "Tekrarlayan Neisseria infeksiyonları."
+# kaynak: 1._Sınıf_1.4_Patoloji_3-CTF_inflamasyon.txt

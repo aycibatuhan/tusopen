@@ -1,0 +1,11 @@
+id: mikro_gv_patogenez_onkogenik_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HBsAg taşıyıcılığı hepatosellüler karsinom riskini kaç kat artırır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_patogenez]
+metin: "100 kat; HBV X proteini p53'ün DNA'ya bağlanmasını engeller."
+# kaynak: onkogenik_virüsler.txt, 8-Retrovirüsler_2020.txt

@@ -1,0 +1,10 @@
+id: mikro_gnb_salmonella_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Salmonella'da Kligler demir agar bulgusu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_salmonella]
+metin: "Eğimde alkali, dipte asit ve gaz; H2S pozitiftir."

@@ -1,0 +1,15 @@
+id: ped_bg_vki_rebound_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: VKİ hangi yaşından itibaren hesaplanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: 2 yaşından itibaren; çocukluk obezitesinde en güvenilir noninvazif tanı aracıdır.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜMENİN_DEĞERLENDİRİLMESİ_ve_İZLENMESİ-Sınıf_4.txt

@@ -1,0 +1,13 @@
+id: anat_tor_ileti_sistemi_3
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: AV düğüm nerede bulunur?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_toraks
+  - anat_tor_ileti_sistemi
+metin: Koch üçgeninde, interatrial septumun altında.

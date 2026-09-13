@@ -1,0 +1,15 @@
+id: enf_turist_ishali_tedavi_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Turist ishalinde antimikrobiyal tedavi nasıl verilir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_asilar_seyahat
+  - enf_as_seyahat
+metin: Günde 4'ten fazla dışkılama, yüksek ateş, kan/mukus/püy varlığında siprofloksasin 500 mg 2x1, 3 gün veya rifaksimin 200 mg 3x1, 3 gün.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sıtma_ve_Seyahatla_İlişkili_Enfeksiyonlar.txt

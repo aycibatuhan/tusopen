@@ -1,0 +1,11 @@
+id: adli_livor_mortis_sureleri_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Karbonmonoksit zehirlenmesinde ölü lekesi rengi nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_zamani]
+metin: "Kırmızı-pembe; siyanür, soğuk ve suda boğulmada da kırmızı-pembedir."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_BELİRTİLERİ_-_2_PROF._DR._SERMET_KOÇ.txt

@@ -1,0 +1,11 @@
+id: der_uyuz_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uyuz tedavisinde permetrin ve ivermektin şeması nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_skabiyez_pedikuloz]
+metin: "Permetrin %5, 8-12 saat (gebelikte 2 saat); ivermektin 200 mcg/kg tek doz."
+# kaynak: 5.sınıf_Dermatoloji_ZK-Paraziter_hastalıklar10.txt

@@ -1,0 +1,11 @@
+id: der_kontakt_dermatit_ayirici_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kontakt dermatitlerin kaçını irritan tiptir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_egzema, derm_eg_kontakt]
+metin: "%80'i; immunolojik olmayan sitotoksik inflamasyondur, ilk temastan itibaren gelişebilir."
+# kaynak: 5.sınıf_Dermatoloji_ekzema_ders_ZAF.txt

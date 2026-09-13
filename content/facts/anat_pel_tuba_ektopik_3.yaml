@@ -1,0 +1,11 @@
+id: anat_pel_tuba_ektopik_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Tuba uterina kaç cm uzunluktadır?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_kadin_genital]
+metin: 10-14 cm'dir; lig. latum uteri'nin üst sınırını oluşturur.
+# kaynak: 3._Sınıf_3.2_Anatomi_CTF_3.2_Kadın_genital_sistemi_2020-21.txt

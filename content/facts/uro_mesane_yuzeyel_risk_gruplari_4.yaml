@@ -1,0 +1,11 @@
+id: uro_mesane_yuzeyel_risk_gruplari_4
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Re-TUR endikasyonları ve zamanlaması nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_mesane_kanseri]
+metin: "Detrusor kası yoksa, rezeksiyon inkompleteyse, tüm T1lerde; ilk TUR'dan 14-42 gün sonra."
+# kaynak: 4._Sınıf_Üroloji_mesane_kanseri-turkce.txt, 4._Sınıf_Üroloji_mesanetm.txt

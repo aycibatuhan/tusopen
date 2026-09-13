@@ -1,0 +1,11 @@
+id: biyok_vit_k_gla_warfarin_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteokalsin nasıl aktifleşir, sentezi kim düzenler?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_yagda_eriyen]
+metin: "K vitamini bağımlı karboksilasyonla; sentezi 1,25-dihidroksikolekalsiferol düzenler."
+# kaynak: 1._Sınıf_1.2_Biyokimya_VİTAMİNLER_2018.txt

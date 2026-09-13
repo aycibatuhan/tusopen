@@ -1,0 +1,15 @@
+id: enf_cerrahi_profilaksi_zamanlama_5
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Beta-laktam allerjisinde cerrahi profilakside hangi ilaç seçilir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_profilaksi
+metin: Major cerrahi ve MRSA/MRSE kuşkusunda vankomisin.
+
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Pınar_Kocael_Cerrahi_enfeksiyonlar_ve_antibiyotik_kullanımı.txt

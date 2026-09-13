@@ -1,0 +1,11 @@
+id: anat_boyun_tiroid_paratiroid_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Paratiroid bezler nerede yer alır?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_tiroid_paratiroid]
+metin: Genellikle dört adettir; tiroid loblarının arkasında yer alır.
+# kaynak: 1._Sınıf_1.1_Anatomi_2018.10.23__Endokrin_Sistem_1.1_2018-19.txt

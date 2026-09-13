@@ -1,0 +1,11 @@
+id: goz_retinoblastom_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rb geni hangi kromozomdadır ve tümör gelişimi nasıl açıklanır?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_retinoblastom]
+metin: "13. kromozomun uzun kolunda; iki vuruş (two-hit) hipoteziyle."
+# kaynak: 5.sınıf_Göz_Hastalıkları_goz_ıcı_tumorleri.txt

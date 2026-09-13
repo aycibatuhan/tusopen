@@ -1,0 +1,11 @@
+id: ort_gkd_pavlik_4
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "GKD tedavisinde 6. aydan sonra ne yapılır?"
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_gkd]
+metin: "6-18 ayda kapalı/açık redüksiyon ve alçı; 18 aydan sonra osteotomiler."
+# kaynak: 5.sınıf_Ortopedi_Gelişimsel_kalça_displazisi.txt

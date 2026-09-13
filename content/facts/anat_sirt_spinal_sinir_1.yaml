@@ -1,0 +1,10 @@
+id: anat_sirt_spinal_sinir_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: 7 servikal vertebra varken neden 8 servikal sinir vardır?
+taksonomi:
+  - [ttbt, anatomi, anat_sirt_omurga, anat_sirt_spinal_sinir]
+metin: C8 adlı vertebra yoktur; C1 kökü de deri duyu taşımaz.

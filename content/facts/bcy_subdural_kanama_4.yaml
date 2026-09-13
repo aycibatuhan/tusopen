@@ -1,0 +1,11 @@
+id: bcy_subdural_kanama_4
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Subdural hematomin mortalitesi nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_kafa_travmasi, bce_kt_subdural_kanama]
+metin: "%50-60'lara kadar çıkabilir; epidural hematomdan çok daha yüksektir."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Kafa_Travması_F.Ö.txt

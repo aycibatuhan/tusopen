@@ -1,0 +1,11 @@
+id: uro_rcc_tedavi_boyut_esigi_3
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Böbrek kitlesinde ilk seçenek görüntüleme nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_renal_hucre]
+metin: "Kontrastlı BT; kontrast tutan solid lezyonların %80'i malignittir."
+# kaynak: 4._Sınıf_Üroloji_böbrek_tm_radyoloji.txt, 4._Sınıf_Üroloji_Böbrek_Tümörleri.txt

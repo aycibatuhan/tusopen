@@ -1,0 +1,11 @@
+id: nor_tromboliz_pencere_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut inmede IV rtPA dozu ve zaman penceresi nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_akut_tedavi]
+metin: "4,5 saat içinde 0,9 mg/kg (maks 90 mg); %10 bolus, 1 saat infüzyon."
+# kaynak: 5.sınıf_Nöroloji_Ischemic_Stroke__11.01.2023.txt, 5.sınıf_Nöroloji_nörolojik_aciller_ders.txt

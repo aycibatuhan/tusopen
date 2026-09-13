@@ -1,0 +1,10 @@
+id: biyok_lip_eikozanoid_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "NSAİ ilaçlar ve aspirin hangi enzimleri etkiler?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_eikozanoid]
+metin: "NSAİ siklooksijenazı baskılar; aspirin tromboksan A2 sentezini kalıcı engeller."

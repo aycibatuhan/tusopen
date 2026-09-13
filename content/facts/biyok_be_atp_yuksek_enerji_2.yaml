@@ -1,0 +1,11 @@
+id: biyok_be_atp_yuksek_enerji_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Transfer potansiyeli en yüksek bileşik ve takipçileri kimdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_biyoenerjetik, biyok_be_termodinamik]
+metin: "Fosfoenolpirüvat; karbamoil fosfat, 1,3-bifosfogliserat ve kreatin fosfat izler."
+# kaynak: 1._Sınıf_1.2_Biyokimya_CTF_11_Bynrjtk_st_frndly2018.txt, 1._Sınıf_1.1_Biyokimya____2018.09.25__Biyokimyasal_Reaksiyonlar.txt

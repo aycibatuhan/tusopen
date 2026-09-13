@@ -1,0 +1,11 @@
+id: pat_imm_fagosit_defektleri_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Chédiak-Higashi sendromunun genetik ve hücresel bulgusu?"
+taksonomi:
+  - [ttbt, patoloji, pat_immun, pat_imm_immun_yetmezlik]
+metin: "LYST gen mutasyonu; dev lizozomlar."
+# kaynak: 1._Sınıf_1.4_Patoloji_3-CTF_inflamasyon.txt

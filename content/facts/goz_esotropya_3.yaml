@@ -1,0 +1,11 @@
+id: goz_esotropya_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal AC/A oranı nedir ve patolojik eşik kaçtır?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_sasilik_pediatrik, goz_sp_ezotropya]
+metin: "Her 1 dioptri akomodasyona 3-5 prizm dioptir konverjans; oran 6 ve üzeri patolojiktir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Şaşılık.DERS_-_Kopya.txt

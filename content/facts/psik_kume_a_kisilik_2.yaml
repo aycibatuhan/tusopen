@@ -1,0 +1,11 @@
+id: psik_kume_a_kisilik_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şizotipal kişilik bozukluğunu belirgin kılan özellikler nelerdir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_kisilik, psik_kb_a_kumesi]
+metin: "Düşünce-davranış garipliği, büyüsel inanışlar, referans fikirleri (hezeyansız)."
+# kaynak: 5.sınıf_PSİKİYATRİ_KİŞİLİK_BOZ_yeni.txt

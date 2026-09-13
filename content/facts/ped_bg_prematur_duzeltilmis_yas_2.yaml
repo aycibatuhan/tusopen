@@ -1,0 +1,15 @@
+id: ped_bg_prematur_duzeltilmis_yas_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Düzeltilmiş kronolojik yaş nasıl hesaplanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: Kronolojik yaştan (40 - gestasyonel hafta) çıkarılarak hesaplanır.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜMENİN_DEĞERLENDİRİLMESİ_ve_İZLENMESİ-Sınıf_4.txt

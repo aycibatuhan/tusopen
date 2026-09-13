@@ -1,0 +1,11 @@
+id: kd_pelvis_darlik_tipleri_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Orta pelvis darlığında çaplar ve kontrendikasyonlar nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_dogum, kd_dog_pelvis_prezentasyon]
+metin: "Interspinöz <8 cm veya TÇ+PSC toplamı <13,5; oksitosin, vakum, forseps kontrendike."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Anormal_Doğum-AG.txt

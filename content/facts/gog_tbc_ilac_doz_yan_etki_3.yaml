@@ -1,0 +1,11 @@
+id: gog_tbc_ilac_doz_yan_etki_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pirazinamidin dozu ve yan etkisi nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_tuberkuloz_tedavi]
+metin: "20-30 mg/kg (maks 2 g); hiperürisemi ve artralji."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_2019-2020_TBC_Dersi_30.08.2022-3-Tedavi.txt

@@ -1,0 +1,11 @@
+id: mikro_imm_asi_serum_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HBsAg taşıyıcı annenin bebeğine HBIg ne zaman ve ne kadar verilir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_asi_serum]
+metin: "Doğumdan sonraki 12 saat içinde 100 IU."
+# kaynak: 3-Aktif_Pasif_Bağışıklama_2019.txt

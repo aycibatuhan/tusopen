@@ -1,0 +1,11 @@
+id: uro_bph_akut_retansiyon_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut prostatit varlığında retansiyon tedavisi nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_bph, uro_bph_komplikasyonlar]
+metin: "Üretral kateterden kaçınılır, suprapubik kateter tercih edilir."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt

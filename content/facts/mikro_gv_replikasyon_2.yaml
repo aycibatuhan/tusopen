@@ -1,0 +1,11 @@
+id: mikro_gv_replikasyon_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sitoplazmada replike olan RNA virüslerinin istisnaları hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_replikasyon]
+metin: "İnfluenza ve retrovirüsler; transkripsiyon-replikasyon için çekirdeği kullanırlar."
+# kaynak: Virüslerin_çoğalması_ve_viral_infeksiyonların_tedavisi_ve_ko.txt, yeni-2018-virüslerın_genel_özellikleri.txt

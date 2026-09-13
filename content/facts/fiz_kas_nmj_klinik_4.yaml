@@ -1,0 +1,11 @@
+id: fiz_kas_nmj_klinik_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lambert-Eaton sendromunda antikor hedefi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_noromuskuler]
+metin: "Presinaptik voltaj kapılı Ca++ kanalları; Ca girişi ve transmitter salınımı azalır."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_Nöromüsküler_İleti_2019.txt

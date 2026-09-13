@@ -1,0 +1,11 @@
+id: der_uyuz_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uyuzun spesifik bulguları nelerdir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_skabiyez_pedikuloz]
+metin: "5-15 mm eğri çizgili gri sillon ve vezikül perle; dişi akar stratum korneumda tünel kazar."
+# kaynak: 5.sınıf_Dermatoloji_ZK-Paraziter_hastalıklar10.txt

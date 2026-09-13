@@ -1,0 +1,11 @@
+id: der_leishmaniasis_cutis_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kutanöz leishmaniasisin taşıyıcısı ve inkübasyonu nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_leishmaniasis]
+metin: "Phlebotomus (tatarcık); ortalama inkübasyon 2 ay (2 hafta-2 yıl)."
+# kaynak: 5.sınıf_Dermatoloji_ZK-Paraziter_hastalıklar10.txt

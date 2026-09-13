@@ -1,0 +1,11 @@
+id: dah_anafilaksi_epinefrin_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anafilakside tedaviye yanıt vermeyen olguda ne denenebilir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_alerji_immunoloji, dah_alj_anafilaksi]
+metin: "1 mg IV glukagon."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_ANAFLAKSİ-_VE_AKUT_ALLERJİK_REAKSİYONLAR.txt

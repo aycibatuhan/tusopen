@@ -1,0 +1,11 @@
+id: nor_isk_penumbra_esikleri_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Elektriksel ve membran yetmezliği eşikleri kaç ml/100 g/dk'dır?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_iskemik_inme]
+metin: "20'nin altında elektriksel, 10'un altında membran yetmezliği (geri dönüşsüz hasar)."
+# kaynak: 5.sınıf_Nöroloji_Ischemic_Stroke__11.01.2023.txt

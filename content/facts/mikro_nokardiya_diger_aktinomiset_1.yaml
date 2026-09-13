@@ -1,0 +1,11 @@
+id: mikro_nokardiya_diger_aktinomiset_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rhodococcus equi kolonisi nasıl görünür ve kimlerde hastalık yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_aktinomiset_nokardiya]
+metin: "Aerobik kültürde dört günde somon pembesi pigment; çiftçi-veterinerlerde ve immünsüprese HIV olgularında pnömoni."
+# kaynak: Nocardia__Actinomyces.txt, Corynebacterium_ve_Listeria_cinsi_bakteriler.txt

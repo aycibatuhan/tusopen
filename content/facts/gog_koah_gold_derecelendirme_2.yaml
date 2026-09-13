@@ -1,0 +1,11 @@
+id: gog_koah_gold_derecelendirme_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "GOLD hava akımı kısıtlılığı dereceleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_obstruktif, gog_ob_koah]
+metin: "GOLD 1: FEV1 %80 ve üzeri; 2: %50-79; 3: %30-49; 4: %30 altı."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_KOAH_I-II.txt

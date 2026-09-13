@@ -1,0 +1,11 @@
+id: gog_silikoz_pnomokonyoz_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Silikozis tüberküloz riskini ne kadar artırır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_pnomokonyoz]
+metin: "Reaktivasyonu yaklaşık 30 kat; yumurta kabuğu hilus kalsifikasyonu tipiktir."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Meslek_hastalıkları_ders_(2).txt

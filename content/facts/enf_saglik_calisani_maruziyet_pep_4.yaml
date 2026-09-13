@@ -1,0 +1,15 @@
+id: enf_saglik_calisani_maruziyet_pep_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Perkütan ve mukozal maruziyette yara bakımı nasıl yapılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hastane_enfeksiyonlari
+  - enf_he_saglik_calisani
+metin: Perkütanda su-sabunla yıkanıp alkolle silinir; mukozal maruziyette steril su ile irrige edilir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

@@ -1,0 +1,15 @@
+id: ped_bg_noromotor_basamaklar_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 3 aylık bebek hangi motor beceriyi kazanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_norogelisim
+metin: Yüzüstü yatarken başını ve göğsünü kaldırır.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

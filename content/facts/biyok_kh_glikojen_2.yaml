@@ -1,0 +1,10 @@
+id: biyok_kh_glikojen_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "McArdle hastalığının enzim kusuru ve bulguları nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_glikojen]
+metin: "Kas fosforilaz eksikliği; eforla kramp ve idrarda miyoglobin atılımı."

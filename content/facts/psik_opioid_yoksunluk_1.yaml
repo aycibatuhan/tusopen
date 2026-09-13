@@ -1,0 +1,11 @@
+id: psik_opioid_yoksunluk_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Opioid yoksunluk belirtileri hangi saatte belirginleşir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_madde, psik_md_opioid]
+metin: "12-16 saat içinde (terleme, burun akıntısı, pupil dilatasyonu, piloereksiyon)."
+# kaynak: 5.sınıf_PSİKİYATRİ_alkolmadde_son_(2).txt

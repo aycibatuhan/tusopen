@@ -1,0 +1,11 @@
+id: ftr_oy_fonksiyonel_seviyeler_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Komplet yaralanmada ambulasyon hedefleri düzeye göre nasıl sıralanır?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_omurilik_yaralanmasi]
+metin: "T2-T9 egzersiz amaçlı, T10-L2 ev içinde, L3-S5 toplum içinde yürüme."
+# kaynak: 5.sınıf_FTR_OYRehab.txt

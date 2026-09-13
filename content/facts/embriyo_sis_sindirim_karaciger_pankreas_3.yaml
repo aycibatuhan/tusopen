@@ -1,0 +1,14 @@
+id: embriyo_sis_sindirim_karaciger_pankreas_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hepatik hematopoez ne zaman başlar?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_sindirim
+metin: 6. haftada; 12. haftada üretilen safra mekonyuma koyu yeşil renk verir.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_Sisteminin_Gelişimi-I.txt

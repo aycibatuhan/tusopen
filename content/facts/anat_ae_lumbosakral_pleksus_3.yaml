@@ -1,0 +1,10 @@
+id: anat_ae_lumbosakral_pleksus_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Üst gluteal sinir lezyonu ne yapar?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_lumbosakral_pleksus]
+metin: Trendelenburg işaretine yol açar.

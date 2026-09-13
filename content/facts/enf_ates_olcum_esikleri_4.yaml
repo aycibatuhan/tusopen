@@ -1,0 +1,15 @@
+id: enf_ates_olcum_esikleri_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi vücut ısıları hipertermi ve kalıcı beyin hasarı eşiğidir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_genel_yaklasim
+  - enf_gy_ates_patogenezi
+metin: 41°C üzeri hipertermi; 42°C üzeri beyinde kalıcı hasara yol açar.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Ateş_patogenez_ve_Klinik_Tipleri_3._sınıf.txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Anamnez_FM.txt

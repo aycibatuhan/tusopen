@@ -1,0 +1,10 @@
+id: fiz_gis_mide_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gastrik asit salgısının fazlara göre dağılımı nasıldır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_mide]
+metin: "Yüzde 60 gastrik, yüzde 30 sefalik, yüzde 10 intestinal fazda."

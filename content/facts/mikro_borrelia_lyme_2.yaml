@@ -1,0 +1,11 @@
+id: mikro_borrelia_lyme_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lyme evre I'inde karakteristik deri lezyonu ve sıklığı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_spiroket, mikro_spi_borrelia]
+metin: "Eritema kronikum migrans, hastaların %93'ünde; bu evrede kültür kolaydır."
+# kaynak: Spiroketler.txt

@@ -1,0 +1,10 @@
+id: farm_kv_diuretik_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kıvrım diüretiklerinin hedef taşıyıcısı?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_diuretik]
+metin: "Henle çıkan kalın kolundaki sodyum-potasyum-klorür taşıyıcısı."

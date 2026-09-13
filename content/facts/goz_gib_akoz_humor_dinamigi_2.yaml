@@ -1,0 +1,11 @@
+id: goz_gib_akoz_humor_dinamigi_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aköz hümörün ana dışakım yolu nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_glokom, goz_gl_fizyoloji]
+metin: "Trabeküler ağ örgüsü-Schlemm kanalı-venöz sistem; uveoskleral yol da katkı verir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_GLOKOM-ÖĞRENCİ_DERSİ_2015.txt

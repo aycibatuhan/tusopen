@@ -1,0 +1,11 @@
+id: gog_bag_dokusu_akciger_tablo_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SLE'de en sık akciğer bulgusu nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_bag_dokusu]
+metin: "Plörit (~%50); sıvıda C3-C4 düşer, ANA ve LE hücresi pozitif."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_sistemik_hastalıklar_ve_akciğer_ders.txt

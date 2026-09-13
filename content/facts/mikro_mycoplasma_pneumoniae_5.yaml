@@ -1,0 +1,11 @@
+id: mikro_mycoplasma_pneumoniae_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "M. pneumoniae'de soğuk aglutinin titre eşiği ve çapraz reaksiyonlar nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_mycoplasma]
+metin: "Glikolipidlere karşı soğuk aglutinin ≥1/128 destekleyicidir; EBV, CMV ve adenovirüsle çapraz reaksiyon verir."
+# kaynak: 3-_Helico_(Tanı__Tedavi__Korunma)___Mycoplasma.txt

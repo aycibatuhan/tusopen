@@ -1,0 +1,10 @@
+id: pat_inf_granulomatoz_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Granülom nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_granulomatoz]
+metin: "Epitelyoid makrofaj-dev hücrelerinin lenfositlerle çevrelendiği fokal agregat."

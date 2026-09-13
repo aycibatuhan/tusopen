@@ -1,0 +1,11 @@
+id: anat_art_kalca_femur_basi_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Collum femoris kırığı neden baş nekrozuna yol açar?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_kalca]
+metin: Femur başını besleyen damarlar collum'dan dolanıp gelir; kırık kanlanmayı bozar.
+# kaynak: 3._Sınıf_3.3_Anatomi_ALT_TARAF_ANATOMİSİ_2021.txt

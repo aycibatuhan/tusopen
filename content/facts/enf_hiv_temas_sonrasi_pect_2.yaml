@@ -1,0 +1,15 @@
+id: enf_hiv_temas_sonrasi_pect_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: HIV yüksek riskli temasta hangi profilaksi rejimi verilir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hiv
+  - enf_hiv_temas_profilaksi
+metin: Üçlü antiretroviral ajanlı genişletilmiş profilaksi hemen başlanmalıdır.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_HIV_enfeksiyonu_(türkçe).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Antimikkemoprofilaksison.txt, 3._Sınıf_3.2_Enfeksiyon_hastalıkları_STD_Cerrahpasa_2020_3.sınıf.txt

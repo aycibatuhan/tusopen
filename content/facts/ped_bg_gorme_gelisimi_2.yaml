@@ -1,0 +1,15 @@
+id: ped_bg_gorme_gelisimi_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bebekte geçici şaşılık ne zamana kadar fizyolojiktir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_norogelisim
+metin: İlk 3 ay içindeki geçici şaşılık fizyolojiktir; sonrasında patolojiktir.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

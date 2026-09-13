@@ -1,0 +1,11 @@
+id: mikro_bacillus_anthracis_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şarbon toksin bileşenlerinin etkileri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_bacillus]
+metin: "Ödem faktörü adenilat siklaz etkisiyle sıvı çıkışını artırır, letal faktör hücre üremesini baskılar."
+# kaynak: Bacillus_cinsi.txt

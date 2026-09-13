@@ -1,0 +1,11 @@
+id: dah_hipokalemi_replasman_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "IV potasyum replasmanında hız sınırları nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_potasyum]
+metin: "Saatte 10 mmol güvenli; 20 mmol'e kadar santral venöz yol ve EKG izlemi, 20 aşılmaz."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_HIPERV_1.txt

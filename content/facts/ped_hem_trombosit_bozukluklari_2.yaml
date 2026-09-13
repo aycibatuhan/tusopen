@@ -1,0 +1,15 @@
+id: ped_hem_trombosit_bozukluklari_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Glanzmann trombastenisinin defekti ve bulgusu nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_hematoloji
+  - ped_hem_hemofili_vwd
+metin: Otosomal resesif GP IIb/IIIa (fibrinojen reseptörü) eksikliği; agregasyon hiç olmaz.
+
+# kaynak: 4._Sınıf_Pediatri_Hilmi_Apak_2021_hemostaz-1.txt

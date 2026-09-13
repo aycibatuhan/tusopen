@@ -1,0 +1,11 @@
+id: mikro_mko_mikotoksinler_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Okratoksin A'nın hedef organı ve ilişkili hastalığı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_genel]
+metin: "Nefrotoksiktir; Balkan endemik nefropatisiyle ilişkilendirilmiştir."
+# kaynak: Mikotoksinler.txt

@@ -1,0 +1,11 @@
+id: kard_nstemi_girisim_zamanlari_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "NSTEMIde yüksek riskli hastada anjiyografi süresi nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_nstemi]
+metin: "24 saat içinde (GRACE ≥140; hastane içi ölüm >%2)."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

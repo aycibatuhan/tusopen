@@ -1,0 +1,11 @@
+id: psik_alzheimer_4a_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alzheimer hastalığında temel etkilenen nörotransmiter sistemi nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_norokognitif, psik_nk_demans_psikiyatrik]
+metin: "Kolinerjik sistem."
+# kaynak: 5.sınıf_PSİKİYATRİ_biliselbozukluk24.10.19Son_2.txt

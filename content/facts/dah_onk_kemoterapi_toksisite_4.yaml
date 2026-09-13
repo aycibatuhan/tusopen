@@ -1,0 +1,10 @@
+id: dah_onk_kemoterapi_toksisite_4
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi ilaçların pulmoner toksisitesi (pnömonit/fibrozis) vardır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_kemoterapi_toksisite]
+metin: "Bleomisin, busulfan, mitomisin C ve gemsitabin."

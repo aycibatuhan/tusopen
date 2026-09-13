@@ -1,0 +1,15 @@
+id: ped_neo_sarilik_patolojik_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yenidoğan sarılığında patolojiklik ölçütleri nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_sarilik
+metin: Günde >5 mg/dl artış, 95. persentil, uzamış sarılık (term 14, preterm 21 gün), direkt bilirubin yüksekliği, hasta görünüm.
+
+# kaynak: 4._Sınıf_Pediatri_Zeynep_Alp_Ünkar_Neonatal_Hiperbilirubinemi.txt

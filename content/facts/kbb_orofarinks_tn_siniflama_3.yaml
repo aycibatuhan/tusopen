@@ -1,0 +1,11 @@
+id: kbb_orofarinks_tn_siniflama_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "N2b, N2c ve N3 nodül tanımları nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_orofarinks_kanseri]
+metin: "N2b ipsilateral çok sayıda <6 cm; N2c bilateral; N3 >6 cm."
+# kaynak: 5.sınıf_KBB_ORAL_KAVİTE__OROFARENKS__HİPOFARENKS_NEOPLAZİLERİ.txt

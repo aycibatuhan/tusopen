@@ -1,0 +1,11 @@
+id: fiz_gis_enterik_sinir_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Peristaltik reflekste bolusun oral ve anal tarafında ne olur?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_motilite]
+metin: "Oral tarafta kasılma (asetilkolin, P maddesi), anal tarafta gevşeme (NO, VIP, ATP)."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_1._Ders_GIS_Nöral_Kontrolü_Sibel_2020.txt

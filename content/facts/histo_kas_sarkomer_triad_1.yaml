@@ -1,0 +1,14 @@
+id: histo_kas_sarkomer_triad_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sarkomer nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kas
+  - histo_kas_iskelet
+metin: Bitişik iki Z çizgisi arasındaki çizgili kasın temel kasılma birimi.
+# kaynak: 1._Sınıf_1.3_Histoloji_KAS_DOKUSU_HİSTOLOJİSİ.txt

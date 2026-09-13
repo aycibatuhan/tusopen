@@ -1,0 +1,11 @@
+id: psik_bipolar_antidepresan_monoterapi_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bipolar I bozukluğun yaşam boyu sıklığı ve cinsiyet dağılımı nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_duygudurum, psik_dd_bipolar]
+metin: "Yaklaşık %1; cinsiyetler eşit etkilenir."
+# kaynak: 5.sınıf_PSİKİYATRİ_duygudurumbozuklukları-5.sınıf_yeniii.txt

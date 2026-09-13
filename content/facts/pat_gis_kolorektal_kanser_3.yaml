@@ -1,0 +1,11 @@
+id: pat_gis_kolorektal_kanser_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lynch sendromunda en sık sorumlu genler hangileridir?"
+taksonomi:
+  - [ttbt, patoloji, pat_gis, pat_gis_kolorektal_kanser]
+metin: "MLH1 (3p21) ve MSH2 (2p22) germline mutasyonları."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Patoloji_GİS_6_11_haz_2020.txt

@@ -1,0 +1,11 @@
+id: dah_perikardit_tamponad_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut perikardit tanı kriterleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_kardiyovaskuler, dah_kv_perikardit]
+metin: "Dört bulgudan ikisi: perikardiyal ağrı, frotman, yeni EKG bulguları, efüzyon."
+# kaynak: 2._Sınıf_2.2_kardiyoloji_27perikardit_8_söm.txt

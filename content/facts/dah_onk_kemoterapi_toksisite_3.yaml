@@ -1,0 +1,10 @@
+id: dah_onk_kemoterapi_toksisite_3
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Trastuzumabın kardiyotoksisitesi antrasiklinden nasıl ayrışır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_kemoterapi_toksisite]
+metin: "Dozdan bağımsız ve reversibldir; antrasiklin kümülatif ve irreversibldir."

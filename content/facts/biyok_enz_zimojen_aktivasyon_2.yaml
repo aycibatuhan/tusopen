@@ -1,0 +1,11 @@
+id: biyok_enz_zimojen_aktivasyon_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tripsinojeni aktive eden ve tripsinin aktive ettikleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_regulasyon]
+metin: "Enteropeptidaz tripsinojeni tripsine; tripsin kimotripsinojen, proelastaz, prokarboksipeptidazları aktive eder."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Enzim_Aktivitesinin_düzenlenmesi_2018.txt, 1._Sınıf_1.2_Biyokimya_CTF_12_Enzmlr_gnl_özllklr_frnd_v.2018.txt

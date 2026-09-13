@@ -1,0 +1,10 @@
+id: mikro_rna_picorna_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Picornavirüs ailesinin yapısal özellikleri nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_picorna]
+metin: "Zarfsız, tek iplikçikli pozitif polariteli RNA-lı küçük virüslerdir."

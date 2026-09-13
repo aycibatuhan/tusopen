@@ -1,0 +1,11 @@
+id: dah_hae_c1inh_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Herediter anjioödemde mediyatör ve kalıtım nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_alerji_immunoloji, dah_alj_urtiker_anjioodem]
+metin: "Histamin değil bradikinin; C1 inhibitör eksikliği, otozomal dominant."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_ANAFLAKSİ-_VE_AKUT_ALLERJİK_REAKSİYONLAR.txt

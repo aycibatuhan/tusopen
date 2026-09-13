@@ -1,0 +1,11 @@
+id: dah_mm_crab_tani_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Multipl miyelom CRAB eşikleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_multipl_miyelom]
+metin: "Kalsiyum üst-sınır 1 mg/dL üzeri veya 11 üstü; kreatinin 2 üstü; Hb 10 altı; kemik lezyonları."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_mm_dersi_10122021.txt

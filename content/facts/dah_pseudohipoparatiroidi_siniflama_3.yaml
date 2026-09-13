@@ -1,0 +1,11 @@
+id: dah_pseudohipoparatiroidi_siniflama_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PPHH ve psödohipoparatiroidi tip 1b nasıl seyreder?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipoparatiroidi]
+metin: "Tip 1b'de Gsalfa defekti ve AHO yok; PPHH'de biyokimya normal, yalnız AHO var."
+# kaynak: 4._Sınıf_Dahiliye_ders-paratiroid_hastalıkları.txt

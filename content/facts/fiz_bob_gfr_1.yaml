@@ -1,0 +1,10 @@
+id: fiz_bob_gfr_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sağlıklı yetişkinde normal glomerüler filtrasyon hızı kaçtır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_gfr]
+metin: "Dakikada yaklaşık 120-125 mililitre."

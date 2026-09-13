@@ -1,0 +1,11 @@
+id: bcy_lomber_dh_kauda_3
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Disk hernisinin morfolojik sınıflaması nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_spinal_patoloji, bce_sp_disk_hernisi]
+metin: "Bulging, protrüzyon, ekstrüzyon, sekestrasyon."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Spinal_Dejeneratif_Hastalıklar_O.U.txt

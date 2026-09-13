@@ -1,0 +1,11 @@
+id: mikro_brucella_tani_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Brucella'da Wright testinde anlamlı titre kaçtır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_brucella]
+metin: "Akut hastalıkta 1/160 ve üzeri titre anlamlıdır."
+# kaynak: Brucella_cinsi_bakteriler.txt

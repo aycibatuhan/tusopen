@@ -1,0 +1,11 @@
+id: anat_ost_yuz_lefort_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Le Fort III kırığı ne yapar?
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_yuz]
+metin: Tüm yüz iskeletini kafatasından ayıran transvers kırıktır.
+# kaynak: 3._Sınıf_3.3_Anatomi_YÜZÜN_TOPOGRAFİK_ve_KLİNİK_ANATOMİSİ_-_III_17.02.2021_12_(1).txt

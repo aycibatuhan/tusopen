@@ -1,0 +1,11 @@
+id: ort_osteoporoz_tipleri_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteoporoz tanısında tercih edilen yöntem nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_metabolik_kemik, orto_mk_osteoporoz]
+metin: "DEXA; direkt grafide kemik kaybı %30'u aşmadan bulgu görünmez."
+# kaynak: 5.sınıf_Ortopedi_metabolic_bone_disease.txt

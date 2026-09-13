@@ -1,0 +1,11 @@
+id: dah_kll_tani_fenotip_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Richter dönüşümü nasıl bir tablodur?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_kll]
+metin: "%10-15 olguda; ateş, hızla büyüyen LAP, yüksek LDH ve hiperkalsemi."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_KML-KLL_Türkçe_-_AEE_2021.txt

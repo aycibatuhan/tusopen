@@ -1,0 +1,11 @@
+id: dah_mgus_smoldering_esikler_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Smoldering myelom tanı eşikleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_mgus_waldenstrom]
+metin: "M proteini 3 g/dL üzeri veya plazma hücresi %10-60; organ hasarı yoktur."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_mm_dersi_10122021.txt

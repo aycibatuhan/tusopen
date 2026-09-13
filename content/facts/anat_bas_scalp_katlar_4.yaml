@@ -1,0 +1,11 @@
+id: anat_bas_scalp_katlar_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Scalp kanaması neden güç durdurulur?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_scalp]
+metin: Arter duvarları deri altı fibröz septalara bağlıdır; kontraksiyon yapamaz.
+# kaynak: 3._Sınıf_3.3_Anatomi_BAŞIN_TOPOGRAFİK_ve_KLİNİK_ANATOMİSİ_-_I_17.02.2021_09_(1).txt, 3._Sınıf_3.3_Anatomi_YÜZÜN_TOPOGRAFİK_ve_KLİNİK_ANATOMİSİ_-_IV_18.02.2021_12_(1).txt

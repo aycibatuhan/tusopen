@@ -1,0 +1,10 @@
+id: biyok_enz_inhibisyon_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rekabetçi olmayan inhibisyonda kinetik değişim nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_inhibisyon]
+metin: "Maksimum hız düşer, Km değişmeden kalır."

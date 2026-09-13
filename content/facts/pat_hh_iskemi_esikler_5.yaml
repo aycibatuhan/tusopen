@@ -1,0 +1,11 @@
+id: pat_hh_iskemi_esikler_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Reperfüzyon hasarının ana nedeni nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_reversibl_irreversibl]
+metin: "Serbest oksijen radikalleri; sitokrom c üzerinden apoptoz."
+# kaynak: 1._Sınıf_1.4_Patoloji_2-CTF_hücre_ölümü.txt

@@ -1,0 +1,11 @@
+id: kbb_boyun_kitle_80_kural_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erişkin boyun kitlelerinde 80'ler kuralı nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_boyun, kbb_by_boyun_kitlesi_yaklasim]
+metin: "%80 neoplastiktir; neoplastiklerin %80'i maligndir."
+# kaynak: 5.sınıf_KBB_Boyun_Kitleleri_ders_notları_2016.txt

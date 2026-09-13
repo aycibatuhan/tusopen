@@ -1,0 +1,11 @@
+id: der_psoriasis_tetikleyici_klinik_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Psoriasisde epidermal proliferasyon hızlanması nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_papuloskuamoz, derm_ps_psoriasis]
+metin: "Hücre siklusu 457 saatten 37 saate; epidermal geçiş zamanı 28 günden 3-4 güne iner."
+# kaynak: 5.sınıf_Dermatoloji_psoriasis.txt, 5.sınıf_Dermatoloji_ZK-Psoriasis_and_Psoriasiform_diseases.txt

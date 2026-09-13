@@ -1,0 +1,11 @@
+id: mikro_tuberculosis_tani_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Moleküler TB testleri neden tek başına önerilmez?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_tuberculosis]
+metin: "Duyarlılıkları kültürden düşük; ARB ve kültürle birlikte önerilir."
+# kaynak: Mycobacterium_tuberculosis.txt

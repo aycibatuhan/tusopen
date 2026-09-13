@@ -1,0 +1,11 @@
+id: dah_hep_hbv_seroloji_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HBsAg(-), anti-HBc(+), anti-HBs(+) kombinasyonu neyi gösterir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_hepatit_b]
+metin: "Geçirilmiş ve iyileşmiş enfeksiyonu."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_HBV-2021-2022.txt

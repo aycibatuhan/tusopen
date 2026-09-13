@@ -1,0 +1,11 @@
+id: kbb_sinuzit_komplikasyonlari_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Frontal kemikte Pott's puffy tumor görüntüsü neyi gösterir?"
+taksonomi:
+  - [ktbt, kbb, kbb_paranazal_sinusler, kbb_ps_sinuzit_komplikasyonlari]
+metin: "Frontal kemik osteomiyelitini (akut sinüzit komplikasyonu)."
+# kaynak: 5.sınıf_KBB_DERS_SİNÜZİTLER.txt, 5.sınıf_KBB_KBB_acilleri.txt

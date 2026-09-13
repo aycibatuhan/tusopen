@@ -1,0 +1,11 @@
+id: anes_aclik_sureleri_premedikasyon_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Midazolamın alternatif yollarla premedikasyon dozları nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_preoperatif, anes_pre_aclik_premedikasyon]
+metin: "Nazal 0.2-0.6, sublingual 0.2-0.3, rektal 0.35-1 mg/kg."
+# kaynak: 4._Sınıf_Anestezi_1.txt

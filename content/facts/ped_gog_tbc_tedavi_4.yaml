@@ -1,0 +1,15 @@
+id: ped_gog_tbc_tedavi_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: TBC'de kortikosteroid dozu ve endikasyonları nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_tuberkuloz
+metin: Prednizolon 1-2 mg/kg/gün, 2 hafta sonra 4-8 haftada azaltılarak; menenjit, miliyer TBC, endobronşiyal tutulum ve masif perikarditte.
+
+# kaynak: 4._Sınıf_Pediatri_Ayşe_Ayzıt_Kılınç_tbc_ders_4._sınıf_.txt

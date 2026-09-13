@@ -1,0 +1,11 @@
+id: goz_crao_4
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CRAO tedavisinde başlangıç müdahaleleri nelerdir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_retinal_arter_tikanikligi]
+metin: "Sırt üstü yatırma, en az 15 dakika oküler masaj, IV 500 mg asetazolamid."
+# kaynak: 5.sınıf_Göz_Hastalıkları_damar_hastalıkları.txt, 5.sınıf_Göz_Hastalıkları_ANİ_KÖRLÜKLER.txt

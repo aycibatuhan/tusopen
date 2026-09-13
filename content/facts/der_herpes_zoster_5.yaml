@@ -1,0 +1,11 @@
+id: der_herpes_zoster_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Postherpetik nevralji tedavisinde hangi ilaçlar kullanılır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_viral, derm_vr_herpes]
+metin: "Trisiklik antidepresanlar ve antikonvülzanlar."
+# kaynak: 5.sınıf_Dermatoloji_viral_yeni.txt

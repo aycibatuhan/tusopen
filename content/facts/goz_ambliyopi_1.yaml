@@ -1,0 +1,11 @@
+id: goz_ambliyopi_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ambliyopiye yol açan üç temel durum nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_sasilik_pediatrik, goz_sp_ambliyopi]
+metin: "Şaşılık, anizometropi ve deprivasyon (katarakt, pitozis)."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Şaşılık.DERS_-_Kopya.txt

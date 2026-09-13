@@ -1,0 +1,11 @@
+id: kbb_aom_amoksisilin_dozu_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AOM'da hemen oral antibiyotik gerektiren durumlar hangileridir?"
+taksonomi:
+  - [ktbt, kbb, kbb_orta_kulak, kbb_ok_akut_otitis_media]
+metin: "2 yaş altı bilateral, otoreli her yaş, 6 aydan küçük, immünsüpresyon-kraniyofasiyal anomali."
+# kaynak: 5.sınıf_KBB_Deniz_Hoca_Ders_3._ORTA_KULAK_ENFEKSI_YO_Z_HASTALIKLARI.txt

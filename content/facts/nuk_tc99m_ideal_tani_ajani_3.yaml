@@ -1,0 +1,11 @@
+id: nuk_tc99m_ideal_tani_ajani_3
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İdeal tedavi amaçlı radyofarmasötikin özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_temel, nt_tm_radyofarmasotikler]
+metin: "Effektif yarı ömür günlerce uzun; beta- ışınımı ve 1 MeV üzeri enerji."
+# kaynak: 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

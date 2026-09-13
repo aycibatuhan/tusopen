@@ -1,0 +1,10 @@
+id: biyok_vit_yagda_eriyen_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "K vitamininin görevi ve yenidoğan koruması nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_yagda_eriyen]
+metin: "Pıhtılaşma faktörlerinin gamma karboksilasyonu; yenidoğan profilaktik enjeksiyonla korunur."

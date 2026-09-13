@@ -1,0 +1,11 @@
+id: uro_bph_akut_retansiyon_4
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kronik üriner retansiyon nasıl prezente olur?"
+taksonomi:
+  - [ktbt, uroloji, uro_bph, uro_bph_komplikasyonlar]
+metin: "Ağrısız; damlama tarzı işeme, taşma tipi inkontinans ve palpable suprapubik kitle."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt

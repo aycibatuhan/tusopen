@@ -1,0 +1,11 @@
+id: ort_oa_ozellikleri_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İkincil osteoartrit nedenleri nelerdir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_eklem_dejeneratif, orto_ek_osteoartrit]
+metin: "Travma, gelişimsel kalça displazisi, enfeksiyonlar, RA/AS, gut, hemofili ve DM."
+# kaynak: 5.sınıf_Ortopedi_Degenerative_Joint_Disease_GK.txt

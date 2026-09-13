@@ -1,0 +1,15 @@
+id: enf_asemptomatik_bakteriuri_tedavi_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Asemptomatik bakteriüri tanımı için kültür kriteri nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_uriner
+  - enf_ur_sistit
+metin: 24 saat arayla alınan iki ardışık idrar kültüründe aynı bakteri ≥105 koloni/mL.
+
+# kaynak: 3._Sınıf_3.2_Enfeksiyon_hastalıkları_üriner_infeksiyon_3._sınıf.txt

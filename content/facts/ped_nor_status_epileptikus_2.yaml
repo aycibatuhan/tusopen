@@ -1,0 +1,15 @@
+id: ped_nor_status_epileptikus_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Status epileptikusta ilk basamak tedavi nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_noroloji
+  - ped_nor_status
+metin: Damar yolu varken 0,2 mg/kg IV diazepam (üst sınır 10 mg); yoksa bukkal/IM midazolam 0,2 mg/kg veya rektal 0,5 mg/kg diazepam.
+
+# kaynak: 4._Sınıf_Pediatri_Sema_Saltık_epilepsiders.txt

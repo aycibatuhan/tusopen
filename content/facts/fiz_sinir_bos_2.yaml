@@ -1,0 +1,10 @@
+id: fiz_sinir_bos_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BOS nereden geri emilir, lomber ponksiyon basıncı kaçtır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_bos]
+metin: "Araknoid villuslarla venöz sisteme; açılış basıncı 8-18 cmH2O."

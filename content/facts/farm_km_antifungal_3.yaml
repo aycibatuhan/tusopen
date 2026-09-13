@@ -1,0 +1,11 @@
+id: farm_km_antifungal_3
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Azollerin mekanizması nedir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kemoterapotik, farm_km_antifungal]
+metin: "C-14 alfa-demetilaz inhibisyonu; lanosterol-ergosterol dönüşümü engellenir (fungistatik)."
+# kaynak: 2._Sınıf_2.4_1.vize_Farmakoloji_Antifungaller_öğrenci.txt

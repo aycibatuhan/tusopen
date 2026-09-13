@@ -1,0 +1,14 @@
+id: genetik_soayaci_temel_terimler_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Konsültand kimdir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_soy_agaci_analizi
+metin: Genetik danışman tarafından bilgilendirilen kişidir.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_Genetik_Danışma_TÜRKÇE.txt

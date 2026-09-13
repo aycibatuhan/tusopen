@@ -1,0 +1,11 @@
+id: psik_ayrilma_kaygisi_sure_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ayrılma kaygısı bozukluğu tanısı için kaç ölçüt gerekir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_anksiyete, psik_an_ayrilma]
+metin: "Sekiz ölçütten en az üçü."
+# kaynak: 5.sınıf_PSİKİYATRİ_ANKSİYETE_BOZUKLUKLARI_(yeni).txt

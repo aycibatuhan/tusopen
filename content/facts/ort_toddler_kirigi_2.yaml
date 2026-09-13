@@ -1,0 +1,11 @@
+id: ort_toddler_kirigi_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Toddler kırığında direkt grafiler normal görünürse ne yapılır?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_tibia_cisim]
+metin: "Oblik grafi alınır; tedavi yaklaşık 3 haftalık alçıdır."
+# kaynak: 5.sınıf_Ortopedi_aksayan_çocuk.txt, 5.sınıf_Ortopedi_Complications_.txt

@@ -1,0 +1,11 @@
+id: fiz_kemik_remodeling_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteoklast rezorpsiyonu hangi mekanizmayla yapılır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_kalsiyum]
+metin: "H+-ATPaz proton pompalarıyla yüzeyi pH 4'e asitlendirip hidroksiapatiti eritir."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_NuranKemik_Ders_Eylül_2019.txt

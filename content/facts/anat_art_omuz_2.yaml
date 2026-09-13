@@ -1,0 +1,10 @@
+id: anat_art_omuz_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Rotator manşet kasları hangileri ve görevi nedir?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_omuz]
+metin: Supraspinatus, infraspinatus, teres minor, subskapularis; humerus başını glenoid boşluğa bastırır.

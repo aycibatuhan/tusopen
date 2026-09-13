@@ -1,0 +1,15 @@
+id: ped_neo_fototerapi_exchange_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Exchange transfüzyonda çift volüm değişimin sonucu nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_kernikterus
+metin: Eritrositlerin ~%85'i yenilenir ama bilirubin ancak ön değerinin ~%45'ine iner; işlem öncesi 1 g/kg albumin verilir.
+
+# kaynak: 4._Sınıf_Pediatri_Zeynep_Alp_Ünkar_Neonatal_Hiperbilirubinemi.txt

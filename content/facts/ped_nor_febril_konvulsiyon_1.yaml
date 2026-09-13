@@ -1,0 +1,15 @@
+id: ped_nor_febril_konvulsiyon_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Febril nöbet tanımı nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_noroloji
+  - ped_nor_febril_konvulsiyon
+metin: 6 ay-5 yaşta, SSS enfeksiyonu ve başka neden olmaksızın rektal ≥38°C ateşle gelişen, önce afebril nöbeti olmayan çocuğun nöbeti.
+
+# kaynak: 4._Sınıf_Pediatri_Sema_Saltık_Fnöbet.txt

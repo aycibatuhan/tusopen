@@ -1,0 +1,10 @@
+id: anat_tor_perikard_kalp_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Kalbin apeksi nerede palpe edilir?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_perikard_kalp]
+metin: 5. interkostal aralıkta, sol midklaviküler hat üzerinde.

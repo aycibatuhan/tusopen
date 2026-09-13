@@ -1,0 +1,10 @@
+id: mikro_par_toxoplasma_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Toxoplasma gondii'nin cinsel üremesi hangi konakta olur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_toxoplasma]
+metin: "Kedide; insanlar kistli et veya oosist bulaşmış su-gıdalarla enfekte olur."

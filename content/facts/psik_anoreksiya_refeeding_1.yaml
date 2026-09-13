@@ -1,0 +1,11 @@
+id: psik_anoreksiya_refeeding_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anoreksiyada hızlı yeniden beslemenin komplikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_yeme_uyku_cinsel, psik_yu_anoreksiya]
+metin: "Hipofosfatemi, hipokalemi, hipomagnezemi ve tiamin eksikliği."
+# kaynak: 5.sınıf_PSİKİYATRİ_Yeme_bozuklukları.txt

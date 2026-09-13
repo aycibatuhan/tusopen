@@ -1,0 +1,11 @@
+id: mikro_am_etki_mekanizmalari_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sulfonamid ve trimetoprim hangi yolun hangi basamaklarını bloke eder?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_etki_mekanizmalari]
+metin: "Folat yolu: sulfonamid pABA rekabetiyle, trimetoprim dihidrofolat redüktazı bloke eder."
+# kaynak: antibiyotiklerin_etki_spektrumları15.txt

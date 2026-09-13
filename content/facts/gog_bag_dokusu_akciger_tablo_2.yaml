@@ -1,0 +1,11 @@
+id: gog_bag_dokusu_akciger_tablo_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sistemik sklerozda akciğer tutulumu ne sıklıkta ve nasıl seyreder?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_bag_dokusu]
+metin: "%90'a varan; interstisyel hastalık (NSIP) ve pulmoner hipertansiyon öne çıkar."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_sistemik_hastalıklar_ve_akciğer_ders.txt

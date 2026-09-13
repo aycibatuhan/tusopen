@@ -1,0 +1,10 @@
+id: biyok_aam_hem_sentez_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut aralıklı porfirinin enzim kusuru ve tetikleyicisi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_hem_sentez]
+metin: "Porfobilinojen deaminaz eksikliği; barbitüratlar sitokrom P450 uyararak krizi tetikler."

@@ -1,0 +1,11 @@
+id: mikro_yersinia_pestis_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Y. enterocolitica buzdolabında saklanan gıdalardan neden bulaşır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_yersinia]
+metin: "4°C'de üreyebilen psikrofildir; kültürü CIN agar ve soğuk zenginleştirmeye dayanır."
+# kaynak: Salmonella_Shigella_Yersinia_(2).txt

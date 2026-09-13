@@ -1,0 +1,15 @@
+id: enf_hiv_tani_dogal_seyir_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: HIV tanısı nasıl konur ve doğrulanır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hiv
+  - enf_hiv_tani_seyir
+metin: ELISA tabanlı antikor tarama testleriyle konur, Western blot ile doğrulanır.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_HIV_enfeksiyonu_(türkçe).txt

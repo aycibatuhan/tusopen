@@ -1,0 +1,11 @@
+id: mikro_yersinia_pestis_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Y. pestis boyamada hangi görünümü verir ve virülans antijenleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_yersinia]
+metin: "Kutupsal boyanmayla çengelli iğne görünümü; F-1 zarf antijeni ile V ve W antijenleri."
+# kaynak: Salmonella_Shigella_Yersinia_(2).txt

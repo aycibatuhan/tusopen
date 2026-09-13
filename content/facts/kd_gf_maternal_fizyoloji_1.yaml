@@ -1,0 +1,10 @@
+id: kd_gf_maternal_fizyoloji_1
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebelikte kan hacmi ne kadar artar?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_maternal_fizyoloji]
+metin: "%40-50; plazma artışı fazla olduğundan fizyolojik dilüsyon anemisi gelişir."

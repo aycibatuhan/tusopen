@@ -1,0 +1,14 @@
+id: gc_her_umbilikal_insizyonel_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Çocuk umbilikal fıtığında cerrahi eşiği nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_herni
+  - gc_her_umbilikal_insizyonel
+metin: '>2 cm defekt veya 3-4 yaşına kadar kapanmama.'
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Pınar_Kocael_Karın_duvarı_fıtıkları.txt

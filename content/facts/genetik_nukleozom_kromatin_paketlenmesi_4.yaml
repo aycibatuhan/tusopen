@@ -1,0 +1,14 @@
+id: genetik_nukleozom_kromatin_paketlenmesi_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 30 nm solenoidin özellikleri nedir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_dna_yapi_repasyon
+metin: Her dönüşte 6 nükleozom; toplam katlanma yaklaşık 10.000 kat.
+# kaynak: 1._Sınıf_1.2_Tıbbi_Biyoloji_DNA_Paketlenmesi_ve_Kromatin_(2017-2018_Güz-M_Güven).txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_Kromozom_Yapısı_ve_Elde_Edilmesi.txt

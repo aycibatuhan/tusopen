@@ -1,0 +1,11 @@
+id: ftr_otonom_disrefleksi_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Otonomik disrefleksi hangi düzey yaralanmalarda ve ne sıklıkta görülür?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_omurilik_komplikasyonlari]
+metin: "T6 ve üzerinde; yaralanmanın ilk yılında %50-90."
+# kaynak: 5.sınıf_FTR_OYRehab.txt

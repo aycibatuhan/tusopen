@@ -1,0 +1,10 @@
+id: farm_kv_raas_ilaclari_4
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çift taraflı renal arter darlığında RAAS ilaçları?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_raas_ilaclari]
+metin: "ACE inhibitörleri ve ARB'ler kullanılmamalıdır."

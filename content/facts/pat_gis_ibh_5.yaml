@@ -1,0 +1,10 @@
+id: pat_gis_ibh_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Krohn'da B12 eksikliğinin nedeni nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_gis, pat_gis_ibh]
+metin: "Terminal ileum tutulumu."

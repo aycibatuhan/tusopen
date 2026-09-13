@@ -1,0 +1,15 @@
+id: enf_eriskin_asil_takvimi_ana_dozlar_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Erişkinde pnömokok aşısı nasıl uygulanır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_asilar_seyahat
+  - enf_as_eriskin_asilar
+metin: ≥65 yaş ve kronik hastalarda; immün normalde tek doz, risklilerde 5 yılda bir rapel.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Erişkinde_aşılama_staj_2021.txt

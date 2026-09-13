@@ -1,0 +1,10 @@
+id: biyok_hs_asit_baz_bozukluk_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Metabolik asidozda laboratuvar değişimi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_hucre_su, biyok_hs_asit_baz_bozukluk]
+metin: "Bikarbonat düşer; solunum kompanzasyonu karbondioksiti azaltır."

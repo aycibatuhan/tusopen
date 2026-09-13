@@ -1,0 +1,15 @@
+id: ped_acil_sivi_idame_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Holliday-Segar'a göre 3-10 kg bebekte günlük idame sıvısı nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_sivi_tedavisi
+metin: 100 ml/kg/gün (4 ml/kg/saat).
+
+# kaynak: 4._Sınıf_Pediatri_Sinem_Oral_Cebeci_4sınıf-dehid-slayt.txt

@@ -1,0 +1,13 @@
+id: histo_uri_jga_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Jukstaglomerüler aparatın üç bileşeni ve görevleri nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_uriner
+  - histo_uri_jga
+metin: Afferent arteriolün granüllü hücreleri (renin), distal tübülün makula densası (Na-Cl algılama), ekstraglomerüler mezangial hücreler (iletişim).

@@ -1,0 +1,10 @@
+id: mikro_gpk_pnomokok_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pnömokok viridans streptokoklardan hangi klasik testlerle ayrılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_kok, mikro_gpk_pnomokok]
+metin: "Optokin duyarlılığı ve safra tuzlarında çözünme ile."

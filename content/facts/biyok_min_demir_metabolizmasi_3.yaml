@@ -1,0 +1,11 @@
+id: biyok_min_demir_metabolizmasi_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Demirin dolaşımdaki taşıyıcısı ve doygunluk değerleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_mineral_eser]
+metin: "Transferrin iki Fe3+ taşır; doygunluk yüzde 33, TIBC 300 mikrogram/dL."
+# kaynak: 1._Sınıf_1.2_Biyokimya_eser_element-_özlem_2018.txt, 1._Sınıf_1.1_Biyokimya_2018.10.25__Serum_Proteinleri_İmmunoglobulinler__Akut_faz_reaktanları.txt

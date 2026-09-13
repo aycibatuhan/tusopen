@@ -1,0 +1,11 @@
+id: anat_ue_yuzeyel_venler_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Üst ekstremitede küçük arterlere kaç ven eşlik eder?
+taksonomi:
+  - [ttbt, anatomi, anat_ust_ekstremite, anat_ue_damarlar]
+metin: İkişer ven (vv. comitantes); büyük arterlere tek, aynı adı taşıyan ven eşlik eder.
+# kaynak: 2._Sınıf_2.2_anatomi_venler_2019_son.txt, 1._Sınıf_1.1_Anatomi_2018.10.01__Dolaşım_Sistemi.txt

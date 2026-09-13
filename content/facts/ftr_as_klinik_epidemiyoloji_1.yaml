@@ -1,0 +1,11 @@
+id: ftr_as_klinik_epidemiyoloji_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ankilozan spondilitte HLA-B27 pozitiflik oranı nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_spondiloartropati_rehab]
+metin: "Hastaların %90'ı (Türkiye'de yaklaşık %60)."
+# kaynak: 5.sınıf_FTR_Spondiloartritler_ve_Rehabilitasyonu_Dersi_Enson.txt

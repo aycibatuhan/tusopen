@@ -1,0 +1,11 @@
+id: mikro_nokardiya_diger_aktinomiset_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Whipple hastalığının etkeni ve bulguları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_aktinomiset_nokardiya]
+metin: "Tropheryma whippleii; artralji, diyare, abdominal ağrı, kilo kaybı ve deri pigmentasyon artışı."
+# kaynak: Nocardia__Actinomyces.txt, Corynebacterium_ve_Listeria_cinsi_bakteriler.txt

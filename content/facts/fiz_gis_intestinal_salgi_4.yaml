@@ -1,0 +1,11 @@
+id: fiz_gis_intestinal_salgi_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kolera dehidratasyonunda oral glikoz-sodyum çözeltisi neden işe yarar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_sindirim_emilim]
+metin: "Na+-K+ ATPaz ve Na+-glukoz kotransporterinin salgı bozukluğundan etkilenmemesi."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_10.İNCE_VE_KALIN_BAĞIRSAK_HAREKETLERİ__İNCE_VE_KALIN_BAĞIRSAK_SALGILARI_4.4.2020_sae.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_13a._EMILIM_TÜRKÇE_30.Mayıs.2020.txt

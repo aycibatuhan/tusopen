@@ -1,0 +1,11 @@
+id: anat_tor_mediasten_ucgen_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Mediasten nasıl bölümlere ayrılır?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_mediasten]
+metin: T4 alt kenarı-angulus sterni düzlemiyle superius-inferius; inferius ön, orta, arka bölümlere.
+# kaynak: 3._Sınıf_3.3_Anatomi_TORAKS_25_ŞUBAT_2020-2021.txt

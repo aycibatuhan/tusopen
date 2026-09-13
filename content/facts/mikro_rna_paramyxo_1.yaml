@@ -1,0 +1,11 @@
+id: mikro_rna_paramyxo_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kızamık virüsünün zarf proteinleri ve antijenik tip durumu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_paramyxo]
+metin: "Tek antijenik tip; hemaglutinin ve F proteini var, nöraminidaz yoktur."
+# kaynak: 9-Rubella__Orthomyxo__Paramyxo__Corona_2020.txt

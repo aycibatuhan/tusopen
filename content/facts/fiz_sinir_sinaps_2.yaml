@@ -1,0 +1,10 @@
+id: fiz_sinir_sinaps_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MSS'de en yaygın uyarıcı ve inhibitör transmitter nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_sinaps]
+metin: "Uyarıcı glutamat, inhibitör GABA'dır."

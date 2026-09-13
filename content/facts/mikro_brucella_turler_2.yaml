@@ -1,0 +1,11 @@
+id: mikro_brucella_turler_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ülkemizde en sık ve en şiddetli bruselloz etkeni hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_brucella]
+metin: "B. melitensis; fagositoza en dirençli türdür."
+# kaynak: Brucella_cinsi_bakteriler.txt

@@ -1,0 +1,10 @@
+id: biyok_mol_teknikler_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PCR nasıl çalışır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_teknikler]
+metin: "Denatürasyon, primer bağlanması ve uzama döngüleriyle; ısıya dayanıklı DNA polimeraz kullanır."

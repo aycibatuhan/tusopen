@@ -1,0 +1,11 @@
+id: biyok_enz_kofaktor_apoenzim_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Apoenzim ve holoenzim ne demektir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_siniflama]
+metin: "Protein kısmı apoenzim; kofaktörle birleşmiş aktif hal holoenzim; apoenzim inaktiftir."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Enzimler_2018_Tıp.txt, 1._Sınıf_1.2_Biyokimya_CTF_12_Enzmlr_gnl_özllklr_frnd_v.2018.txt

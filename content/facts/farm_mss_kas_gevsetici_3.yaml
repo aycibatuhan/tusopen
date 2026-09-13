@@ -1,0 +1,11 @@
+id: farm_mss_kas_gevsetici_3
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tizanidinin özellikleri nedir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_mss, farm_mss_kas_gevsetici]
+metin: "Klonidine benzer alfa2 agonisti; daha az hipotansiyon yapar."
+# kaynak: 2._Sınıf_2.1_farmakoloji_Spazmolitikler_18-19.txt

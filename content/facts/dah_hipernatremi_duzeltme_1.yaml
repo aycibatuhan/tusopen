@@ -1,0 +1,11 @@
+id: dah_hipernatremi_duzeltme_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipernatremide su defisiti nasıl hesaplanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_hipernatremi]
+metin: "0,6 x vücut ağırlığı x (gözlenen Na/140 - 1)."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_S-V-VE_2.txt

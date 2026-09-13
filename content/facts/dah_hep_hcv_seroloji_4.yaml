@@ -1,0 +1,11 @@
+id: dah_hep_hcv_seroloji_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hepatit C'nin önemli ekstrahepatik bulguları nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_hepatit_c]
+metin: "Miks kriyoglobulinemik vaskülit, B-hücreli non-Hodgkin lenfoma, sikka sendromu, PAN, immün trombositopeni."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_HCV-2021-2022.txt

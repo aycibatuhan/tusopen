@@ -1,0 +1,14 @@
+id: gc_ap_akut_apandisit_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akut apandisitte laboratuvar eşikleri nelerdir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_apendiks
+  - gc_ap_akut_apandisit
+metin: Lökosit >10.000/mm³ (%80); nötrofili >%75 (%90); CRP >0,8 mg/dL.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Süphan_Ertürk_A._App.txt

@@ -1,0 +1,18 @@
+id: gog_gina_gold_1
+version: 1
+status: draft
+author: ai-drafts/gogus
+sources:
+- GINA 2024 ve GOLD 2024 strateji raporları — referans adı olarak listelendi; metin projenin özgün
+  yazımıdır
+ad: "GINA 2024'te tercih edilen kurtarıcı ilaç nedir?"
+taksonomi:
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_astim
+- - ktbt
+  - gogus_hastaliklari
+  - gog_obstruktif
+  - gog_ob_koah
+metin: "Tüm basamaklarda ICS-formoterol; basamak 5'te LAMA ve biyolojik ajanlar."

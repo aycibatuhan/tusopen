@@ -1,0 +1,11 @@
+id: fiz_sol_yukseklik_dalis_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aklimatizasyonda hemoglobin ve hematokrit ne kadar yükselir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_hipoksi_yukseklik]
+metin: "Eritropoetin artar; Hb 15'ten 19 g/dL'ye, hematokrit yüzde 55-60'a çıkar."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2019_Solunum_2._Bölüm.txt, 1._Ders_Fizyolojiye_Giriş_ve_hemoostasis.txt

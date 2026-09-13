@@ -1,0 +1,11 @@
+id: gog_mediasten_kitle_vkss_4
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vena kava süperior sendromunun en sık nedenleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_neoplazi, gog_neo_mediastinal]
+metin: "Etyolojinin %70-85'i malignite; en sık bronş kanseri ve lenfoma."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_mediasten_hastalıkları.txt, 5.sınıf_Göğüs_Hastalıkları_Solunum_Yolu_Acilleri.txt

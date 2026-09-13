@@ -1,0 +1,11 @@
+id: fiz_hucre_reseptor_siniflari_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "JAK-STAT sistemini kullanan reseptörlerin ligandları nelerdir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_sinyal]
+metin: "GH, prolaktin, eritropoetin, sitokinler ve leptin reseptörleri."
+# kaynak: 13-Hücreler_arası_haberleşme-I.txt

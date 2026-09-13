@@ -1,0 +1,11 @@
+id: psik_klozapin_direnc_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klozapin Parkinson hastalığındaki ilaç kaynaklı psikozda neden tercih edilir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikotik, psik_ps_antipsikotik_tedavi]
+metin: "Motor belirtileri alevlendirmeden etkilidir."
+# kaynak: 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt, 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt

@@ -1,0 +1,14 @@
+id: genetik_kirik_sendromlari_tanisi_5
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Xeroderma pigmentosumda kaç gen sorumludur?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: 8 gen (XPA-XPG ve XP varyantı).
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_5_Kromozomal_Kırık_Sendromları.txt

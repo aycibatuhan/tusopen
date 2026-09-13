@@ -1,0 +1,11 @@
+id: ort_ewing_sarkomu_4
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ewing sarkomunda kemoterapi artı cerrahi ile 5 yıllık sağkalım nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kemik_tumorleri, orto_kt_ewing]
+metin: "%50-55; pelvik yerleşimde %30."
+# kaynak: 5.sınıf_Ortopedi_habıs_kemık_tümörlerı.txt

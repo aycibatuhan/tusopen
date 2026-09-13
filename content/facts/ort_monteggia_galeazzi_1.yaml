@@ -1,0 +1,11 @@
+id: ort_monteggia_galeazzi_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Monteggia yaralanması nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_ust_ekstremite_travma, orto_ue_onkol]
+metin: "Proksimal ulna kırığıyla birlikte radius başı çıkığıdır."
+# kaynak: 5.sınıf_Ortopedi_Ortopedi_ve_Travmatoloji_de_Radyolojik_Değerlendirme.txt, 5.sınıf_Ortopedi_Omuz_ve_Dirsek_Yaralanmaları.txt

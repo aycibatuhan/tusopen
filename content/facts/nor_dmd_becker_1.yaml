@@ -1,0 +1,11 @@
+id: nor_dmd_becker_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Duchenne müsküler distrofi nasıl geçer ve hangi protein eksiktir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_muskuler_distrofi]
+metin: "X'e bağlı resesif; distrofin eksikliği."
+# kaynak: 5.sınıf_Nöroloji_Kas_Hastalıkları.txt

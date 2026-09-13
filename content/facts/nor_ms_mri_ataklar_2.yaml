@@ -1,0 +1,11 @@
+id: nor_ms_mri_ataklar_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Başlangıç MR'ı negatifse ikinci atak riski nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_demiyelinizan, noro_dy_ms]
+metin: "Çok düşük: 5 yılda %3, 10 yılda %11, 14 yılda %19."
+# kaynak: 5.sınıf_Nöroloji_Multipl_Skleroz.txt

@@ -1,0 +1,11 @@
+id: hsag_ep_siklik_olcutleri_1
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Oran ile orantının farkı nedir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_epidemiyoloji, hs_ep_olcutler]
+metin: "Oranında pay paydanın içinde yer almaz; orantı kısmın bütüne payıdır (a/(a+b))."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD6_Göreli_Risk_ölçütleri_(RR__OR__AR__vb).txt, 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD2__Klinik_araştırmalar__Tasarımı__Özellikleri__Sınıflama_ve_Kanıt_Güçleri.txt

@@ -1,0 +1,11 @@
+id: dah_cushing_tani_zinciri_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "1 mg deksametazon supresyon testinde normal yanıt nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_cushing]
+metin: "Ertesi sabah kortizolünün 1,8 µg/dL'nin altına inmesidir."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Fonksiyonel_Hipofiz_Adenomlar_-.txt, 3._Sınıf_3.4_İç_hastalıkları_hiperkortizolizm.txt

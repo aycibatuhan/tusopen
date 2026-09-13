@@ -1,0 +1,11 @@
+id: mikro_rickettsia_lekeli_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çalılık tifüsünün etkeni, vektörü ve bulaş biçimi nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_rickettsia]
+metin: "Orientia tsutsugamushi; akar larvası hem vektör hem kaynaktır, transovaryal yolla aktarır."
+# kaynak: Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

@@ -1,0 +1,14 @@
+id: genetik_pcr_varyantlari_5
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hot start PCR neyi önler?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: Düşük sıcaklıklardaki özgül olmayan bağlanmayı (Taq inaktif tutulur).
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_D_3-GENETİK_TANI_YÖNTEMLERİ.txt

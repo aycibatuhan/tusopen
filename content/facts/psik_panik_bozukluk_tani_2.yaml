@@ -1,0 +1,11 @@
+id: psik_panik_bozukluk_tani_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Panik atak tanısı için kaç belirti gerekir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_anksiyete, psik_an_panik]
+metin: "En az dört belirti (çarpıntı, terleme, nefes darlığı gibi)."
+# kaynak: 5.sınıf_PSİKİYATRİ_ANKSİYETE_BOZUKLUKLARI_(yeni).txt

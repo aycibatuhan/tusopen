@@ -1,0 +1,14 @@
+id: gc_kc_benign_tumorler_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hepatik adenomun ilişkisi ve yönetimi nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_karaciger
+  - gc_kc_benign_tumorler
+metin: Oral kontraseptif; rüptür riski ve premalignite → asemptomatikte bile rezeksiyon.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Mehmet_Velidedeoğlu_Karaciğer_Tümörleri_2020.txt, 4._Sınıf_Genel_Cerrahi_2_Ender_Dulundu_CTF_Kist_hidatik_abse_parazit_Ders.txt

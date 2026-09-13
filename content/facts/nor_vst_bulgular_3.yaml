@@ -1,0 +1,11 @@
+id: nor_vst_bulgular_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "VST'de difüzyon MR normal olduğunda tanı nasıl konur?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_venoz_tromboz]
+metin: "Venöz MR anjiyografi veya DSA ile."
+# kaynak: 5.sınıf_Nöroloji_nörolojik_aciller_ders.txt

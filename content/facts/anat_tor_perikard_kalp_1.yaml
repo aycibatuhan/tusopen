@@ -1,0 +1,10 @@
+id: anat_tor_perikard_kalp_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Transvers perikard sinüsü nerede ve ne için kullanılır?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_perikard_kalp]
+metin: Aorta-pulmoner trunk ile v. cava superior arasında; kardiyak cerrahide klamp için.

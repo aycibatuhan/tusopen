@@ -1,0 +1,11 @@
+id: anat_noro_dura_sinuses_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Dura encephali'nin parçaları hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_noroanatomi, anat_noro_meninks_bos]
+metin: Falx cerebri, falx cerebelli, tentorium cerebelli, cavum trigeminale (Meckel), diaphragma sellae.
+# kaynak: 2._Sınıf_2.2_anatomi_venler_2019_son.txt

@@ -1,0 +1,11 @@
+id: nor_narkolepsi_tip1_tani_4
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Narkolepside katapleksi tedavisinde hangi ilaç ve doz kullanılır?"
+taksonomi:
+  - [ktbt, noroloji, noro_uyku_bilinc, noro_ub_narkolepsi]
+metin: "Venlafaksin 37,5-300 mg/gün veya klomipramin."
+# kaynak: 5.sınıf_Nöroloji_Uyku_Hastalıkları_5._sınıf_ders_2021.txt

@@ -1,0 +1,11 @@
+id: fiz_hucre_feedback_mekanizmalari_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pozitif geri bildirim homeostaz için neden risklidir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_homeostaz]
+metin: "İlk yanıtı güçlendirir, stabilite sağlamaz, genellikle ölümcül sonlanır; koagülasyon kaskadı hariç."
+# kaynak: 1._Ders_Fizyolojiye_Giriş_ve_hemoostasis.txt

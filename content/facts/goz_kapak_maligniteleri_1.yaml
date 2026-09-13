@@ -1,0 +1,11 @@
+id: goz_kapak_maligniteleri_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kapaklarda en sık görülen malignite hangisidir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_kapak_lakrimal, goz_kl_kapak_tumorleri]
+metin: "Bazal hücreli karsinom; yavaş büyür ve metastaz yapmaz."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kapak_Hastalıkları.txt

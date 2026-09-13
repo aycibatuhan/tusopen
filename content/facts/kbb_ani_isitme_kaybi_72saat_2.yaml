@@ -1,0 +1,11 @@
+id: kbb_ani_isitme_kaybi_72saat_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ani işitme kaybında prednizolon dozu ve süresi nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_ic_kulak, kbb_ik_ani_isitme_kaybi]
+metin: "1 mg/kg/gün oral; azaltılarak 14 günde kesilir."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

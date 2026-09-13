@@ -1,0 +1,11 @@
+id: adli_defin_ruhsati_kim_3
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adli nitelikli ölüme defin ruhsatı verilir mi?"
+taksonomi:
+  - [ktbt, adli_tip, adl_prosedur_mevzuat, adl_pm_adli_vaka_bildirimi]
+metin: "Verilmez; olay savcılığa bildirilir, bildirmeyen TCK 280 ile cezalandırılır."
+# kaynak: 5.sınıf_Adli_Tıp_DEFİN_RUHSATI_DÜZENLENMESİ_DOÇ._DR._BERNA_ŞENEL_ERASLAN.txt

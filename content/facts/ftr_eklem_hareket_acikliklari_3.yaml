@@ -1,0 +1,11 @@
+id: ftr_eklem_hareket_acikliklari_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kalça abduksiyonunun normal değeri nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_eklem_hareket]
+metin: "45 derece; adduksiyon 20-30 derecedir."
+# kaynak: 5.sınıf_FTR__Alt_ekstremite_fizik_muayenesi.txt, 5.sınıf_FTR_üst_ekstremite_muayene_dersi_son.txt, 5.sınıf_FTR_OmurgaFM.txt, 5.sınıf_FTR_DİSK_HERNİLERİ.RT.txt

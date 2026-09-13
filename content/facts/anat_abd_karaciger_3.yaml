@@ -1,0 +1,10 @@
+id: anat_abd_karaciger_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Safra kesesi fundusu hangi kosta kıkırdak düzeyindedir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_karaciger]
+metin: 9. kosta kıkırdak düzeyinde, rectus abdominis dış kenarı ile kesişim noktasında.

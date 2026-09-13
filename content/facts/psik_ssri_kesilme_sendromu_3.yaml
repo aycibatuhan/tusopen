@@ -1,0 +1,11 @@
+id: psik_ssri_kesilme_sendromu_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sitalopram ve essitalopramın doza bağımlı yan etkisi nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_duygudurum, psik_dd_antidepresan_tedavi]
+metin: "QTc uzaması."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt

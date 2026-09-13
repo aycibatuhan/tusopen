@@ -1,0 +1,14 @@
+id: genetik_hucre_dongusu_siklin_cdk_5
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Metafaz-anafaz kontrol noktası neyi denetler?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_mutasyon_turleri
+metin: Kinetokor-mikrotubül bağlanmasını; Mad2 Cdc20'yi baskılayıp APC'yi engeller.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_Hücre_Döngüsünü_Kontrol_Eden_Genler_I_(M_Güven_2018-2019_Bahar).txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_Hücre_Döngüsünü_Kontrol_Eden_Genler_II_(M_Güven_2018-2019_Bahar).txt

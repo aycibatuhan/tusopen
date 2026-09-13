@@ -1,0 +1,11 @@
+id: mikro_rna_picorna_polio_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Poliovirüs enfeksiyonlarının klinik dağılımı nasıldır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_picorna]
+metin: "Yaklaşık yüzde 90 asemptomatik; yüzde 1-2 aseptik menenjit, yüzde 0.1-2 paralitik hastalık."
+# kaynak: 7-Picornaviridea_2020.txt

@@ -1,0 +1,11 @@
+id: adli_asi_sureleri_telem_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Telem en sık hangi yerleşimde oluşur?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_asfiksi]
+metin: "%80 tiroid kıkırdak üst kenarı bölgesinde; %15 üstünde, %5 altında."
+# kaynak: 5.sınıf_Adli_Tıp_ASFİKSİYE_BAĞLI_ÖLÜMLER_PROF._DR._İBRAHİM_ÜZÜN_PDF.txt

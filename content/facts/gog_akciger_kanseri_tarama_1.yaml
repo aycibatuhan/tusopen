@@ -1,0 +1,11 @@
+id: gog_akciger_kanseri_tarama_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "LDCT akciğer kanseri taraması hangi kişilerde uygulanır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_neoplazi, gog_neo_evreleme]
+metin: "55 yaş üstü, 30 paket-yıldan fazla, aktif içen veya 15 yıldan kısa süre önce bırakan."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer_Kanseri_Dönem_5-29.08.2022.txt

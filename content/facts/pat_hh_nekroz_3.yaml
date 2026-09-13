@@ -1,0 +1,10 @@
+id: pat_hh_nekroz_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kazeöz nekroz hangi granülomların merkezindedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_nekroz]
+metin: "Tüberküloz; granüler, eozinofilik, nükleussuz görünüm."

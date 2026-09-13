@@ -1,0 +1,11 @@
+id: mikro_giardia_tani_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Giardia trofozoitinin tanımlayıcı morfolojik özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_barsak_protozoa]
+metin: "Ortadan kesik armut biçimi, iki çekirdek, dört çift kamçı, iki emme diski."
+# kaynak: Sindirim_kanalı_protozoonları_2.txt

@@ -1,0 +1,11 @@
+id: adli_apne_testi_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Beyin ölümü apne testinde pozitiflik kriteri nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_sekli]
+metin: "pCO2 60 mmHg'ye yükseldiği halde spontan solunum hareketi başlamaması."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_-_TEMEL_KAVRAMLAR_PROF._DR._SERMET_KOÇ.txt

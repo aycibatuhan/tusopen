@@ -1,0 +1,11 @@
+id: der_urtiker_tedavi_anjiyoodem_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ürtikerde ilaç tedavi basamakları nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_urtiker_ilac, derm_ui_urtiker_anjioodem]
+metin: "2. jenerasyon H1 antihistaminik (4 kata kadar doz); dirençlide steroid, 3. basamakta omalizumab."
+# kaynak: 5.sınıf_Dermatoloji_u_rtiker_ders.txt

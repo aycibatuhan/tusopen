@@ -1,0 +1,11 @@
+id: nuk_vq_sintigrafi_pe_mismatch_1
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Perfüzyon sintigrafisinde Tc-99m MAA'nın özellikleri ve verilme şekli nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_pulmoner, nt_pl_ventilasyon_perfuzyon]
+metin: "75 MBq, 60-500 bin partikül; kapillerlerde mikroemboliyle tutulur; sırtüstü hastaya, kan geri karıştırılmadan verilir."
+# kaynak: 5.sınıf_Nükleer_Tıp_Akciğer_hastalıklarında_Nükleer_Tıp_2022.txt

@@ -1,0 +1,11 @@
+id: anat_miyo_solunum_kaslari_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: İnspirasyonun temel kasları hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_miyoloji, anat_miyo_toraks_kaslari]
+metin: Diaphragma ve mm. intercostales externi'dir.
+# kaynak: 2._Sınıf_2.3_Anatomi_2019_Solunum_Sistemi.txt

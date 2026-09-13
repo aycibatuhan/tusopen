@@ -1,0 +1,11 @@
+id: gog_akciger_absesi_yonetim_4
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akciğer absesinde drenaj-cerrahi endikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_aspirasyon_abse]
+metin: "6 cm'den büyük kavite, multipl abse, bronş obstrüksiyonu, 2 haftalık antibiyotiğe rağmen süren sepsis."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer.absesi.V.txt

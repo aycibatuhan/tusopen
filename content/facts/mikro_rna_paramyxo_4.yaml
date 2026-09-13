@@ -1,0 +1,11 @@
+id: mikro_rna_paramyxo_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RSV aşı geliştirmesini engelleyen tarihsel bulgu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_paramyxo]
+metin: "İnaktive aşı sonrası vahşi tip enfeksiyonun immünpatolojik olarak çok ağır geçmesi."
+# kaynak: 9-Rubella__Orthomyxo__Paramyxo__Corona_2020.txt

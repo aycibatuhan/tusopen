@@ -1,0 +1,16 @@
+id: dah_toks_antidot_tablo_1
+version: 1
+status: draft
+author: ai-drafts/toksikoloji-antidot
+sources:
+- Amerikan Klinik Toksikoloji Koleji (ACMT) antidot kartları — referans olarak listelendi, metin özgün
+  yazımdır
+- StatPearls Toksikoloji bölümü; Ulusal Zehir Danışma Merkezi (UZEM 114) antidot listeleri
+ad: "Parasetamol, opioid ve karbon monoksit zehirlenmelerinde antidotlar nedir?"
+taksonomi:
+- [ttbt, farmakoloji, farm_toksikoloji, farm_tok_antidotlar]
+metin: "N-asetilsistein, nalokson ve %100 oksijen."
+tus_gecmisi:
+- tus-2016-sonbahar-ttbt-99
+- tus-2020-ilkbahar-ttbt-118
+- tus-2021-sonbahar-ttbt-118

@@ -1,0 +1,11 @@
+id: kard_stemi_ekg_esikleri_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sol ana/üç damar hastalığını düşündüren EKG nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_stemi]
+metin: "aVR ve/veya V1'de ST yükselmesi + 6-8 derivasyonda ≥1 mm ST çökmesi."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

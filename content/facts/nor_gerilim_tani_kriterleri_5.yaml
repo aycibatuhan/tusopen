@@ -1,0 +1,11 @@
+id: nor_gerilim_tani_kriterleri_5
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Episodik ve kronik gerilim tipi baş ağrısı nasıl ayrılır?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_gerilim]
+metin: "Episodik ayda <15 gün; kronik ayda ≥15 gün ve en az 6 ay."
+# kaynak: 5.sınıf_Nöroloji_2020_Primer_BA_yeni.txt

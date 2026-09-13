@@ -1,0 +1,11 @@
+id: mikro_rna_rhabdo_pep_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kuduz temas sonrası profilakside aşı şeması ve HRIG nasıl uygulanır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_rhabdo]
+metin: "HDCV 0-3-7-14 ve 28(-90). günlerde; HRIG risk yüksekse ısırık yarasının çevresine verilir."
+# kaynak: Rabdovirus_(kuduz).txt

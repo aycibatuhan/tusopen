@@ -1,0 +1,11 @@
+id: dah_klinefelter_sendromu_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klinefelter sendromunda testosteron replasmanı neyi düzeltmez?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipogonadizm]
+metin: "Kronik jinekomastiyi ve azoospermiyi düzeltmez."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Erkek_Reprodüktif_Sistem_Hst.txt

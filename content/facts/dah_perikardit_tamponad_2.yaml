@@ -1,0 +1,11 @@
+id: dah_perikardit_tamponad_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kardiyak tamponadın klasik (Beck) üçlüsü nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_kardiyovaskuler, dah_kv_perikardit]
+metin: "Hipotansiyon, artmış sistemik venöz basınç ve küçük-sessiz kalp."
+# kaynak: 2._Sınıf_2.2_kardiyoloji_27perikardit_8_söm.txt

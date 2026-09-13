@@ -1,0 +1,11 @@
+id: dah_ibd_uc_cd_ayirim_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ülseratif kolit ve Crohn'da enflamasyon dağılımı nasıl ayrışır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_crohn]
+metin: "ÜK mukozayla sınırlı, diffüz ve sürekli; Crohn transmural ve segmenteldir."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_IBD.lecture_2020-4.class_AFC-son.txt

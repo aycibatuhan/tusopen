@@ -1,0 +1,11 @@
+id: goz_pitozis_degerlendirme_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Levator fonksiyonu değerlerinde sınırlar nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_kapak_lakrimal, goz_kl_pitozis]
+metin: "Normal 15 mm ve üzeri, ortalama 5-11 mm, 4 mm ve altı zayıf levatordur."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kapak_Hastalıkları.txt

@@ -1,0 +1,11 @@
+id: nor_temporal_arterit_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dev hücreli arteritte tipik ağrı ve eşlik eden bulgu nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_sekonder]
+metin: "Frontotemporal, sürekli-zonklayıcı ağrı ve çiğneme klaudikasyonu."
+# kaynak: 5.sınıf_Nöroloji_2020_Sekonder_BA.txt

@@ -1,0 +1,14 @@
+id: genetik_genetik_hastalik_sikliklari_1
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Türkiye'de HbS taşıyıcılığı sıklığı nedir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_populasyon_genetigi
+metin: Genel %0,3-0,6; Çukurova'nın bazı yörelerinde %3-4,4.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_T_Tıp_Hemoglobinopatiler.txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_4._Ders_Gen_aileleri_DGA.txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_Gen_tedavisi.txt, 1._Sınıf_1.2_Tıbbi_Biyoloji_HÜCRESEL_YAŞLANMA_13.12._2018.txt, 1._Sınıf_1.2_Tıbbi_Biyoloji_Mitokondri_(M_Güven_2018-2019_Güz).txt

@@ -1,0 +1,15 @@
+id: ped_bes_anne_sutu_kurallar_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: DSÖ'nün emzirme önerileri nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_anne_sutu
+metin: İlk 1 saat içinde ilk emzirme; 6 ay yalnız anne sütü; 2 yaş ve ötesine kadar tamamlayıcı besinlerle emzirme.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_Doğal_Beslenme-Sınıf_4.txt

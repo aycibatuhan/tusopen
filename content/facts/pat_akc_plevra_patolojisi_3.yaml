@@ -1,0 +1,11 @@
+id: pat_akc_plevra_patolojisi_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "40 yaş üstü ateşsiz, bol ve hemorajik plevral effüzyon neyi düşündürür?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_plevra]
+metin: "Malignite."
+# kaynak: 2._Sınıf_2.3_Patoloji_Akciğer_tümörleri___plevra_2019.txt

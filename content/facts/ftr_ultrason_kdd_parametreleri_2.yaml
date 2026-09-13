@@ -1,0 +1,11 @@
+id: ftr_ultrason_kdd_parametreleri_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kısa dalga diatermi hangi durumlarda uygulanmaz?"
+taksonomi:
+  - [ktbt, ftr, ftr_fizik_tedavi_ajanlari, ftr_fa_derin_isitici]
+metin: "Metal implant, gebelik ve sıvı içeren bölgelerde (eklem efüzyonu, göz)."
+# kaynak: 5.sınıf_FTR_Fizik_tedavi_modaliteleri.txt

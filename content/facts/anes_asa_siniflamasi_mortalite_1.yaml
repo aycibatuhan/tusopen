@@ -1,0 +1,11 @@
+id: anes_asa_siniflamasi_mortalite_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ASA III sınıfı nasıl tanımlanır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_preoperatif, anes_pre_asa_risk]
+metin: "Kapasiteyi ciddi biçimde kısıtlamayan ağır sistemik hastalığı olan hastadır."
+# kaynak: 4._Sınıf_Anestezi_1.txt

@@ -1,0 +1,10 @@
+id: mikro_hi_chlamydia_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Chlamydia yaşam döngüsünde bulaşıcı ve çoğalan cisimcikler hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_chlamydia]
+metin: "Bulaşıcı elementer cisimcik hücreye girer, içinde çoğalan retikülat cisimciğe dönüşür."

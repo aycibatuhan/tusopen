@@ -1,0 +1,11 @@
+id: dah_cushing_tani_zinciri_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yüksek doz deksametazon testinde ne Cushing hastalığını işaret eder?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_cushing]
+metin: "Günde 8 mg, 2 gün dozla kortizolün %50'den fazla baskılanması."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Fonksiyonel_Hipofiz_Adenomlar_-.txt, 3._Sınıf_3.4_İç_hastalıkları_hiperkortizolizm.txt

@@ -1,0 +1,15 @@
+id: enf_apse_drenaj_antibiyotik_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sistemik bulgusu olmayan kutanöz apsenin primer tedavisi nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_selulit_erizipel
+metin: İnsizyon-drenaj; sistemik bulgu yoksa antibiyotik gerekmez.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_DYDİ_2021Neşe_Saltoğlu.txt

@@ -1,0 +1,11 @@
+id: mikro_bacillus_cereus_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "B. cereus'un B. anthracis'ten ayıran özellikler nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_bacillus]
+metin: "Hareketli, kapsülsüz, hemolitik; 10 U/ml penisilinli besiyerinde ürer, gama fajlara duyarlıdır."
+# kaynak: Bacillus_cinsi.txt

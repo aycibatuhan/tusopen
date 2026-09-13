@@ -1,0 +1,11 @@
+id: ftr_ultrason_kdd_parametreleri_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ultrason tedavisinde kullanılan frekans aralığı nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_fizik_tedavi_ajanlari, ftr_fa_derin_isitici]
+metin: "0,5-3,5 MHz bandında kullanılır; en sık 1, 1,5, 3 ve 0,75 MHz seçilir."
+# kaynak: 5.sınıf_FTR_Fizik_tedavi_modaliteleri.txt

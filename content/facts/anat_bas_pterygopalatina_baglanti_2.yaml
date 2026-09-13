@@ -1,0 +1,11 @@
+id: anat_bas_pterygopalatina_baglanti_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Fossa pterygopalatina orbita ve fossa infratemporalis'e nasıl bağlanır?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_pterigopalatin]
+metin: Fossa infratemporalis'e fissura pterygomaxillaris yoluyla, orbita'ya ise fissura orbitalis inferior ile bağlanır.
+# kaynak: 2._Sınıf_2.1_Anatomi_baş_bütünü.txt

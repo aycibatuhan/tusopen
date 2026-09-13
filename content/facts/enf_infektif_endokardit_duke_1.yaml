@@ -1,0 +1,15 @@
+id: enf_infektif_endokardit_duke_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Modifiye Duke kriterlerinin major ölçütleri nelerdir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_kardiyovaskuler
+  - enf_kv_endokardit
+metin: İki hemokültürde tipik etken, C. burnetii anti-faz 1 IgG >1/800, ekokardiyografide vejetasyon/abse/yeni dehisans.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Anamnez_FM.txt

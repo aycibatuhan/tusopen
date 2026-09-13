@@ -1,0 +1,11 @@
+id: dah_hipoglisemi_ipple_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipogliseminin IPPLE üçlüsü nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipoglisemi]
+metin: "Glukoz 60 mg/dL altı, hipoglisemi semptomları ve şekerle semptomların kaybolması."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Hipoglisemiler.txt

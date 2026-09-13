@@ -1,0 +1,11 @@
+id: dah_dic_tani_esikler_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "DIC için spesifik laboratuvar bulgusu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_dic]
+metin: "D-dimerin 2000 ng/mL üstündeki değerleri; normal D-dimer DIC'i ekarte eder."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Yaygın_Damariçi_Pıhtılaşması-2020.txt

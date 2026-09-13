@@ -1,0 +1,14 @@
+id: gc_oz_perforasyon_kostik_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Korozif madde hasarının yüzde kaçı özofagustadır?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ozofagus
+  - gc_oz_perforasyon
+metin: '%70 (orta bölüm %65); midede %20.'
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_İhsan_Taşçı_Esophageal_other_diseases_türkçe_30.8.20.txt

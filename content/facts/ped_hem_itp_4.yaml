@@ -1,0 +1,15 @@
+id: ped_hem_itp_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: ITP'nin kendiliğinden düzelme oranı ve adlandırma süreleri nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_hematoloji
+  - ped_hem_itp
+metin: '%80-90''ı ilk 6 ayda düzelir; ilk 3 ay akut, 3 ay-1 yıl ısrarcı, 1 yılı aşan süre kroniktir.'
+
+# kaynak: 4._Sınıf_Pediatri_Hilmi_Apak_2021_hemostaz-1.txt

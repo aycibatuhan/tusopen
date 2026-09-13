@@ -1,0 +1,10 @@
+id: pat_bob_tumorler_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Böbrek hücreli karsinomun en sık alt tipi ve moleküler olayı?"
+taksonomi:
+  - [ttbt, patoloji, pat_bobrek, pat_bob_tumorler]
+metin: "Açık hücreli tür; VHL tümör süpresör gen kaybı."

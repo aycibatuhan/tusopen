@@ -1,0 +1,10 @@
+id: anat_art_diz_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Ön ve arka çapraz ligamentler neyi engeller?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_diz]
+metin: ACL tibianın öne, PCL geride kaymasını engeller.

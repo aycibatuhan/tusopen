@@ -1,0 +1,14 @@
+id: gc_oz_kanser_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: T1a (<2 cm) özofagus kanserinde tedavi?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ozofagus
+  - gc_oz_kanser
+metin: Endoskopik mukoza rezeksiyonu.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Faik_Özçelik_OEZOFAGUS_KANSERI_2017.txt

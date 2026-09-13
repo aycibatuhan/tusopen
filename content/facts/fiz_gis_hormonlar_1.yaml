@@ -1,0 +1,10 @@
+id: fiz_gis_hormonlar_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gastrin nereden salgılanır ve neyi artırır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_hormonlar]
+metin: "Mide antrumundaki G hücrelerinden; asit salgısı ve motiliteyi artırır."

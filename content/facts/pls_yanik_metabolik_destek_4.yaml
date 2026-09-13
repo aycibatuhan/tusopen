@@ -1,0 +1,11 @@
+id: pls_yanik_metabolik_destek_4
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yanıklıda erken enteral beslenmenin yararları nelerdir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yanik, pce_ya_resusitasyon]
+metin: "Nitrojen dengesini kurar; mezenter akımını destekleyip bakteriyel translokasyon ve sepsis riskini azaltır."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Yanık-DERS-2020.txt

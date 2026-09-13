@@ -1,0 +1,11 @@
+id: anat_abd_kolon_appendiks_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Appendiksin en sık ve ikinci sık yerleşimi?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_kalin_barsak]
+metin: '%65 retroçekal; %20-30 pelvik yerleşimlidir.'
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-TURAN_PEŞTAMALCI-_AbdominoPelvikOrganlar_III_KALIN_BARSAKLAR.txt

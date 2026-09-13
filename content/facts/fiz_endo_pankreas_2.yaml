@@ -1,0 +1,10 @@
+id: fiz_endo_pankreas_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alfa ve delta adacık hücrelerinin salgıları ne yapar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_pankreas]
+metin: "Alfa glukagonla glikojenoliz ve glukoneojenezi uyarır; delta somatostatinle ikisini baskılar."

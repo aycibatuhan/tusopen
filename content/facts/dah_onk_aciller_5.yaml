@@ -1,0 +1,10 @@
+id: dah_onk_aciller_5
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nükseden hızlı sarılık veya bilateral üreter obstrüksiyonunda ne yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_onkolojik_aciller]
+metin: "Acil dekompresyon: stent, nefrostomi veya biliyer drenaj."

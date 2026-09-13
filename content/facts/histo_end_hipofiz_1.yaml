@@ -1,0 +1,13 @@
+id: histo_end_hipofiz_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Adenohipofiz hangi embriyonik kaynaktan gelişir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_endokrin
+  - histo_end_hipofiz
+metin: Ağız tabanı ektoderminin çıkıntısından; ACTH, TSH, GH gibi hormonları üretir.

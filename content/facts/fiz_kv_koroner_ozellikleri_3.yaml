@@ -1,0 +1,11 @@
+id: fiz_kv_koroner_ozellikleri_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Koroner akım hangi evrede olur, iskemide en önce neresi hasarlanır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_ozel_dolasimlar]
+metin: "Esas diyastolde; subendokardiyal bölge basınca en maruz, iskemide önce hasar görür."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Egzersiz___Kroner.txt

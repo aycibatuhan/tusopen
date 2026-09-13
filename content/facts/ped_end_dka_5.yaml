@@ -1,0 +1,15 @@
+id: ped_end_dka_5
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: DKA şiddeti nasıl sınıflanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_endokrinoloji
+  - ped_end_diyabet
+metin: pH 7,1 ve üzeri hafif-orta; pH <7,1 veya bikarbonat <5 ağır kabul edilir.
+
+# kaynak: 4._Sınıf_Pediatri_HND_SUNUM_dka_(1)8.10.txt

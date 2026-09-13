@@ -1,0 +1,11 @@
+id: nor_migren_profilaksi_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Komorbidite migren profilaksi seçimini nasıl yönlendirir?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_migren]
+metin: "Epilepside antiepileptik, depresyonda antidepresan, hipertansiyonda beta bloker."
+# kaynak: 5.sınıf_Nöroloji_2020_Primer_BA_yeni.txt

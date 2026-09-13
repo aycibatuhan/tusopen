@@ -1,0 +1,11 @@
+id: anat_miyo_sirt_kaslar_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Trapezius dışındaki yüzeyel sırt kaslarının innervasyonu?
+taksonomi:
+  - [ttbt, anatomi, anat_miyoloji, anat_miyo_sirt_kaslari]
+metin: Spinal sinirlerin ön dalları; trapezius n. accessorius ile innerve edilir.
+# kaynak: 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_1.txt

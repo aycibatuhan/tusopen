@@ -1,0 +1,11 @@
+id: mikro_proteus_weil_felix_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "P. mirabilis ve P. vulgaris indol yönünden nasıl ayrılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_klebsiella_proteus]
+metin: "P. mirabilis indol negatif, P. vulgaris indol pozitiftir."
+# kaynak: Ecoli_ve_enter.txt, Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

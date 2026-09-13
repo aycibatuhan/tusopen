@@ -1,0 +1,11 @@
+id: bcy_servikal_dh_seviyeleri_1
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Servikal disk hernisinin sıklığı ve en sık seviyeleri nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_spinal_patoloji, bce_sp_disk_hernisi]
+metin: "Servikal radikülopatisin ikinci en sık nedeni; en sık C6-7 ve C5-6."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Spinal_Dejeneratif_Hastalıklar_O.U.txt

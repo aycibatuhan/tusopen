@@ -1,0 +1,11 @@
+id: anat_abd_bobrek_ureter_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Böbrek hangi ölçülerde ve hangi vertebral düzeylerde yerleşir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_bobrek_ureter]
+metin: 10-11x5-7x2,5 cm; retroperitoneal, sağda T12-L3, solda T11-L2 düzeyindedir.
+# kaynak: 3._Sınıf_3.2_Anatomi_üriner_sistem_2020.txt

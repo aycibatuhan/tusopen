@@ -1,0 +1,11 @@
+id: mikro_rickettsia_lekeli_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kayalık Dağlar lekeli ateşinin etkeni ve döküntü özelliği nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_rickettsia]
+metin: "R. rickettsii; peteşiyal döküntü bastırınca kaybolmaz, rickettsial enfeksiyonların en ağır formudur."
+# kaynak: Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

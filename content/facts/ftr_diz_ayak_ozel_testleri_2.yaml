@@ -1,0 +1,11 @@
+id: ftr_diz_ayak_ozel_testleri_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ön çapraz bağ yetmezliği hangi testlerle değerlendirilir?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_kas_iskelet_muayene]
+metin: "Ön çekmece ve Lachman testleriyle."
+# kaynak: 5.sınıf_FTR__Alt_ekstremite_fizik_muayenesi.txt

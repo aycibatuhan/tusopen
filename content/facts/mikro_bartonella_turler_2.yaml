@@ -1,0 +1,11 @@
+id: mikro_bartonella_turler_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Siper ateşi (5 gün ateşi) hangi vektörle hangi etkenle bulaşır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_bartonella]
+metin: "B. quintana, vücut bitiyle taşınır."
+# kaynak: Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

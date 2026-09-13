@@ -1,0 +1,13 @@
+id: gc_tp_hemostaz_transfuzyon_4
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kriyopresipitat endikasyonu ve içeriği nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_hemostaz_transfuzyon
+metin: Fibrinojen <150 mg/dL; fibrinojen + faktör 8, 13, vWF içerir.

@@ -1,0 +1,11 @@
+id: ort_kompartman_fasiyotomi_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kompartman sendromunda fasiyotomi endikasyonu veren basınç eşiği nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kirik_genel, orto_kg_kompartman]
+metin: "40 mmHg üzerindeki intrakompartman basınç."
+# kaynak: 5.sınıf_Ortopedi_Complications_.txt, 5.sınıf_Ortopedi_mkö_MULTİTRAVMALI_HASTAYA_YAKLAŞIM_ing.txt

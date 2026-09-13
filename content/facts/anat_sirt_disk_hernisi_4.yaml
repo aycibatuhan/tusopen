@@ -1,0 +1,11 @@
+id: anat_sirt_disk_hernisi_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: M. tibialis anterior hangi segmentle koreledir?
+taksonomi:
+  - [ttbt, anatomi, anat_sirt_omurga, anat_sirt_kolumna]
+metin: L5; quadriceps-L3, gluteus maximus ve triceps surae-S1.
+# kaynak: 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_2.txt

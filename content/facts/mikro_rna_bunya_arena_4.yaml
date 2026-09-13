@@ -1,0 +1,11 @@
+id: mikro_rna_bunya_arena_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ebola'nın rezervuarı ve ölüm oranı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_bunya_arena]
+metin: "Rezervuar meyve yarasaları; ölüm oranı yüzde 90'a ulaşır."
+# kaynak: Arenavirus_Hantavirus_ve_Filoviruslar.txt, Arboviruslar.txt

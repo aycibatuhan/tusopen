@@ -1,0 +1,10 @@
+id: fiz_kv_hemodinami_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Laminer akımda direnç yarıçapla nasıl ilişkilidir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_hemodinami]
+metin: "Yarıçapın dördüncü kuvvetiyle ters orantılı; viskozite artışı direnci artırır."

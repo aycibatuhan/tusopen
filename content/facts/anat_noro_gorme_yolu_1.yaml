@@ -1,0 +1,10 @@
+id: anat_noro_gorme_yolu_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Optik sinir ve kiasma lezyonlarının görme alanı kaybı?
+taksonomi:
+  - [ttbt, anatomi, anat_noroanatomi, anat_noro_gorme_yolu]
+metin: Optik sinirde tek göz körlüğü; kiasmada bitemporal hemianopi.

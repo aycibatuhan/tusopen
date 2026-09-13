@@ -1,0 +1,15 @@
+id: enf_hiv_tani_dogal_seyir_5
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tedavi edilmeyen HIV'li hastalarda AIDS gelişim hızı nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hiv
+  - enf_hiv_tani_seyir
+metin: "HIV'li hastaların %50-70'inde AIDS 10-11 yılda gelişir; sonraki yıllarda yıllık ilerleme ~%5."
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_HIV_enfeksiyonu_(türkçe).txt

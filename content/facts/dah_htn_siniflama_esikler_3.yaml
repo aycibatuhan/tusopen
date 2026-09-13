@@ -1,0 +1,11 @@
+id: dah_htn_siniflama_esikler_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ambulatuvar kan basıncı tanı eşikleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_kardiyovaskuler, dah_kv_hipertansiyon_yonetimi]
+metin: "24 saatlik ortalama 130/80, gündüz 135/85, gece 120/70 mmHg."
+# kaynak: 2._Sınıf_2.2_kardiyoloji_2.Sınıf-HİPERTANSİYON.txt

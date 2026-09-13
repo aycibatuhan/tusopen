@@ -1,0 +1,15 @@
+id: enf_nozokomiyal_pnomoni_etken_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Stenotrophomonas ve Acinetobacter infeksiyonlarında tedavi yaklaşımı nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_solunum
+  - enf_sol_hastane_pnomoni
+metin: Stenotrophomonas karbapeneme doğal dirençli, kotrimoksazol ilk seçenek; Acinetobacter'de sulbaktam içeren kombinasyonlar.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Sistemlere_göre_sık_enfeksiyonlar.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt

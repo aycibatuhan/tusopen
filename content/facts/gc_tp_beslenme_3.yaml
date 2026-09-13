@@ -1,0 +1,13 @@
+id: gc_tp_beslenme_3
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Erken enteral beslenme hangi yararları sağlar?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_beslenme
+metin: İlk 24-48 saatte başlanırsa enfeksiyon, anastomoz kaçağı, yatış süresi azalır.

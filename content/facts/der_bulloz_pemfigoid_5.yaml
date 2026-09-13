@@ -1,0 +1,11 @@
+id: der_bulloz_pemfigoid_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sikatrisyel (müköz membran) pemfigoidin en sık tutulumu neresidir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_pemfigoid]
+metin: "Oral ve konjunktival mukoza; her atakta artan skatris körlüğe yol açabilir."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

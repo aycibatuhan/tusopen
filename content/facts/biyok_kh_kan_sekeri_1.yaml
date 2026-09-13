@@ -1,0 +1,10 @@
+id: biyok_kh_kan_sekeri_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Diyabet tanısında laboratuvar eşikleri nelerdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_kan_sekeri]
+metin: "Açlık glukozu 126 mg/dl, OGTT ikinci saat 200 mg/dl, HbA1c yüzde 6.5 üstü."

@@ -1,0 +1,10 @@
+id: anat_bas_orbita_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Lateral rektus ve superior oblik hangi sinirlerle innerve edilir?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_orbita]
+metin: Lateral rektus VI, superior oblik IV; kalan ekstraoküler kaslar ve levator III ile.

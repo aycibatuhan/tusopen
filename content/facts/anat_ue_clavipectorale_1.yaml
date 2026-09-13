@@ -1,0 +1,11 @@
+id: anat_ue_clavipectorale_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Trigonum clavipectorale hangi yapılar arasında yer alır?
+taksonomi:
+  - [ttbt, anatomi, anat_ust_ekstremite, anat_ue_aksilla]
+metin: Clavicula, m. deltoideus ve m. pectoralis major arasında (Mohrenheim).
+# kaynak: 3._Sınıf_3.3_Anatomi_ders_2_ust_top_deltoid_axilla_-_2021.txt

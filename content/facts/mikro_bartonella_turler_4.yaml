@@ -1,0 +1,11 @@
+id: mikro_bartonella_turler_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rickettsialardan farklı olarak Bartonella tanısında kültür neden kullanılabilir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_bartonella]
+metin: "Sentetik ortamda üretilebilirler; eritrositlere tropizm gösterir, anjiyogenezi uyarırlar."
+# kaynak: Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

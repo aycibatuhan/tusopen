@@ -1,0 +1,15 @@
+id: enf_kpc_tedavi_mik_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: KPC-Klebsiella'da meropenem MİK'i ≤64 mg/L ve kolistin duyarlıysa tedavi nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hastane_enfeksiyonlari
+  - enf_he_direncli_mikroorganizma
+metin: Yüksek doz meropenem 3x2 g + tigesiklin 2x100 mg + kolistin (veya gentamisin/fosfomisin).
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotik_2019.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt

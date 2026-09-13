@@ -1,0 +1,11 @@
+id: mikro_pseudomonas_kistik_fibroz_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kistik fibrozda en önemli bakteriyel patojen hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_pseudomonas]
+metin: "P. aeruginosa; mukoid aljinat kapsüllü kolonilerle biofilm içinde kronik kolonizasyon yapar."
+# kaynak: nf.txt

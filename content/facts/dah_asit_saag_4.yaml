@@ -1,0 +1,11 @@
+id: dah_asit_saag_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Şilöz asit tanım eşiği nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_asit_sbp]
+metin: "Süt görünümünde sıvıda trigliserid 200 mg/dL üstü (genellikle 1000 civarı)."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Dahiliye_İBRAHİM_HATEMİ-asitli_hastaya_yaklaşım_hatemi.txt

@@ -1,0 +1,11 @@
+id: kd_vulvovajinal_kandidiazis_3
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kandidiaziste vajinal pH ve whiff testi durumu nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_genital_enfeksiyonlar, kd_ge_vajinit]
+metin: "pH normal, whiff testi negatif (floranın bozulmadığının göstergesi)."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Genital_Flora.txt

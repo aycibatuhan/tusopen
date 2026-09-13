@@ -1,0 +1,11 @@
+id: anat_abd_pankreas_komsuluk_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Pankreasın tamamen intraperitoneal bölümü hangisidir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_pankreas_dalak]
+metin: Cauda pancreatis; dalağa uzanır, Langerhans adacıklarının çoğu buradadır.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-YUSUF_ZEKİ_YILDIZ-Sindirim-organları-I.txt

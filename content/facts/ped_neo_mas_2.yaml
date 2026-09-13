@@ -1,0 +1,15 @@
+id: ped_neo_mas_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Mekonyum aspirasyon sendromunun mekanizması nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_mekonyum_ttn
+metin: Ball-valve etkili hava hapsi, kimyasal inflamasyon ve surfaktan inaktivasyonu; sonuç hava kaçağı ve persistan pulmoner hipertansiyon.
+
+# kaynak: 4._Sınıf_Pediatri_Mehmet_Vural_yd_solunum_sıkıntısı-kısa.txt

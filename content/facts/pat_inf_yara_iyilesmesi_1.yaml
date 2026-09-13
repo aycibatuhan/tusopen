@@ -1,0 +1,10 @@
+id: pat_inf_yara_iyilesmesi_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Birincil ve ikincil iyileşme nasıl ayrılır?"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_yara_iyilesmesi]
+metin: "İkincilde granülasyon dokusu, yara kontraksiyonu ve yoğun skarla yavaş kapanma."

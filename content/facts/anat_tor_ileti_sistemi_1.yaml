@@ -1,0 +1,49 @@
+id: anat_tor_ileti_sistemi_1
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kalp iletim sırası nasıl ilerler?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_toraks
+  - anat_tor_ileti_sistemi
+metin: SA düğümü → AV düğümü → His demeti → dal kolları → Purkinje lifleri (kontraksiyon apeksten bazeye).
+gorsel:
+  dosya: ConductionsystemoftheheartwithouttheHeart-en.svg
+  kaynak: https://commons.wikimedia.org/wiki/File:ConductionsystemoftheheartwithouttheHeart-en.svg
+  lisans: CC BY-SA 3.0
+  yazar: Madhero88 (original); Angelito7 (SVG version)
+  etiketler:
+  - ad: Sinüs (SA) düğüm
+    x: 1
+    y: 8
+    w: 22
+    h: 7
+  - ad: Bachmann demeti
+    x: 76
+    y: 2
+    w: 17
+    h: 8
+  - ad: AV düğüm
+    x: 1
+    y: 29
+    w: 22
+    h: 13
+  - ad: His demeti
+    x: 82
+    y: 31
+    w: 16
+    h: 7
+  - ad: Dal kolları (sağ-sol)
+    x: 2
+    y: 53
+    w: 21
+    h: 13
+  - ad: Purkinje lifleri
+    x: 86
+    y: 68
+    w: 12
+    h: 13

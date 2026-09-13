@@ -1,0 +1,11 @@
+id: nor_rdb_sinuleinopati_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RDB tanılı hastalarda parkinsonizm gelişme riski nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_uyku_bilinc, noro_ub_parasomni]
+metin: "%38-52; ortalama 5-13 yıl içinde."
+# kaynak: 5.sınıf_Nöroloji_Uyku_Hastalıkları_5._sınıf_ders_2021.txt

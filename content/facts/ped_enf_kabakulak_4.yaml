@@ -1,0 +1,15 @@
+id: ped_enf_kabakulak_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kabakulakta orşit ne zaman ve ne sıklıkla gelişir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_enfeksiyon
+  - ped_enf_kabakulak
+metin: Ergenlik sonrası %20-30 oranında ve genellikle tek taraflıdır.
+
+# kaynak: 4._Sınıf_Pediatri_Haluk_Çokuğraş_bog-kab.txt

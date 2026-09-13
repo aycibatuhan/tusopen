@@ -1,0 +1,10 @@
+id: pat_kg_serviks_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En sık onkojenik HPV tipleri hangileridir?"
+taksonomi:
+  - [ttbt, patoloji, pat_kadin_genital, pat_kg_serviks]
+metin: "Tip 16 ve 18."

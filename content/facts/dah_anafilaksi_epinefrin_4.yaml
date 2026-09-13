@@ -1,0 +1,11 @@
+id: dah_anafilaksi_epinefrin_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anafilakside hasta ne kadar süre gözlem altında tutulmalıdır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_alerji_immunoloji, dah_alj_anafilaksi]
+metin: "En az 4 saat; bifazik ikinci dalga 4-8 saatte başlayabilir."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_ANAFLAKSİ-_VE_AKUT_ALLERJİK_REAKSİYONLAR.txt

@@ -1,0 +1,11 @@
+id: ftr_yuruyus_paternleri_4
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Basma fazında kuadriseps zayıflığı hangi yürüyüşe yol açar?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_yuruyus_analizi]
+metin: "Kuadriseps yürüyüşüne."
+# kaynak: 5.sınıf_FTR__Alt_ekstremite_fizik_muayenesi.txt

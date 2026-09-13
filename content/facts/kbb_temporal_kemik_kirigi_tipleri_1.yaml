@@ -1,0 +1,11 @@
+id: kbb_temporal_kemik_kirigi_tipleri_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Transvers temporal kemik kırığının sonuçları nelerdir?"
+taksonomi:
+  - [ktbt, kbb, kbb_ic_kulak, kbb_ik_temporal_kemik_kirigi]
+metin: "Sensörinöral işitme kaybı ve şiddetli vertigo; işitme genellikle düzelmez."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

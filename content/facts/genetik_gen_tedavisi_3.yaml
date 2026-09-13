@@ -1,0 +1,14 @@
+id: genetik_gen_tedavisi_3
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Adenovirüs vektörünün özellikleri nelerdir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: Epizomal; 5-10 günlük geçici ekspresyon; güçlü immun cevap oluşturabilir.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_Gen_tedavisi.txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_İleri_Hücre_Biyolojisi_Dersi_(Kanser).txt

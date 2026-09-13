@@ -1,0 +1,11 @@
+id: anat_ost_sutura_fonticulus_5
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Anterolateral ve posterolateral bıngıldaklar nerede bulunur?
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_kafatasi]
+metin: Anterolateral pterion, posterolateral asterion; doğumdan kısa süre sonra kapanır.
+# kaynak: 2._Sınıf_2.1_Anatomi_baş_bütünü.txt, 1._Sınıf_1.1_Anatomi_---2018.09.24__Lokomotor_Sistem-1.txt, 2._Sınıf_2.1_Anatomi_2.1cranium_1.txt

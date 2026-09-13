@@ -1,0 +1,13 @@
+id: anat_noro_serebellum_4
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Serebellum lezyon bulguları neden ipsilateraldır?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_noroanatomi
+  - anat_noro_serebellum
+metin: Serebellar yollar iki kez çapraz yaptığı için.

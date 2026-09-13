@@ -1,0 +1,11 @@
+id: biyok_hb_talasemi_tipleri_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Beta-talasemide hangi hemoglobin oranları yükselir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_hemoglobinopati]
+metin: "Alfa zincir artışıyla HbA2 ve HbF oranları yükselir."
+# kaynak: 1._Sınıf_1.1_Biyokimya_2018.10.23__Myoglobin-Hb_2018.txt

@@ -1,0 +1,11 @@
+id: anes_sepsis_tani_saat_paketi_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sepsiste tercih edilen vazopresör ve dozu nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_sepsis]
+metin: "Noradrenalin 0.05-2 µg/kg/dak; hedef OAB ≥65 mmHg'dir."
+# kaynak: 4._Sınıf_Anestezi_2.txt

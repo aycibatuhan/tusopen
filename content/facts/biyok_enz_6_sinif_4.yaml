@@ -1,0 +1,11 @@
+id: biyok_enz_6_sinif_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Liyaz ve ligazların özellikleri ve örnekleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_siniflama]
+metin: "Liyaz çift bağ oluşturur (tersine sentaz); ligazlara biotinli karboksilaz ve aminoasil-tRNA sentetaz girer."
+# kaynak: 1._Sınıf_1.2_Biyokimya_CTF_12_Enzmlr_gnl_özllklr_frnd_v.2018.txt, 1._Sınıf_1.2_Biyokimya_Enzimler_2018_Tıp.txt

@@ -1,0 +1,11 @@
+id: mikro_am_etki_mekanizmalari_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Daptomisin kullanımında hangi laboratuvar parametresi izlenmelidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_etki_mekanizmalari]
+metin: "CPK (kreatin fosfokinaz) artışı; daptomisin membran depolarizasyonu yapar."
+# kaynak: antibiyotiklerin_etki_spektrumları15.txt

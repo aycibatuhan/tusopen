@@ -1,0 +1,15 @@
+id: enf_fuot_sure_sinirlari_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ateş süresine göre akut, subakut ve kronik ateş nasıl sınıflanır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_genel_yaklasim
+  - enf_gy_nedeni_bilinmeyen_ates
+metin: 7 günden kısa akut, 7-21 gün subakut, 21 günden uzun kronik ateştir.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Ateş_patogenez_ve_Klinik_Tipleri_3._sınıf.txt

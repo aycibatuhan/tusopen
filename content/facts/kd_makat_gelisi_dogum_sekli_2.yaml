@@ -1,0 +1,11 @@
+id: kd_makat_gelisi_dogum_sekli_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Term tekiz makat gebelikte tercih edilen doğum şekli nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_dogum, kd_dog_makat]
+metin: "Planlı sezaryen; perinatal mortalite makatta ~18/1000, sefalikte ~6/1000."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Anormal_Doğum-AG.txt

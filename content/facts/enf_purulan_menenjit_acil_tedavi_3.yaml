@@ -1,0 +1,15 @@
+id: enf_purulan_menenjit_acil_tedavi_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ateş ve ense sertliği saptanan hastaya nasıl yaklaşılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_mss
+  - enf_mss_akut_bakteriyel_menenjit
+metin: Aksi kanıtlanana kadar menenjit bakteriyel kabul edilir; gecikme mortaliteyi artıran ana bağımsız risk faktörüdür.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Anamnez_FM.txt

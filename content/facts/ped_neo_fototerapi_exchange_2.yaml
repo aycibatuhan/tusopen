@@ -1,0 +1,15 @@
+id: ped_neo_fototerapi_exchange_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Fototerapide bilirubin nasıl izlenir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_kernikterus
+metin: 4-12 saatte bir serumdan ölçülür; 24 saatte %30-40 düşüş beklenir, bitimden sonra en az 24 saat rebound izlenir.
+
+# kaynak: 4._Sınıf_Pediatri_Zeynep_Alp_Ünkar_Neonatal_Hiperbilirubinemi.txt

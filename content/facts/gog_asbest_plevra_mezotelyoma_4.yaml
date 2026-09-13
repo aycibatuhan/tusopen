@@ -1,0 +1,11 @@
+id: gog_asbest_plevra_mezotelyoma_4
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mezotelyoma lehine plevral sıvı bulguları nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_plevra, gog_pl_mezotelyoma]
+metin: "Viskoz sıvı ve yüksek hiyalüronik asit; metastatiklerde akciğer-meme ca, lenfoma."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_STAJ_-_PLEVRA_(_2019_-_2020_).txt

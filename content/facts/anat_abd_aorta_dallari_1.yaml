@@ -1,0 +1,13 @@
+id: anat_abd_aorta_dallari_1
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Aorta abdominalis hangi vertebral düzeyde bifürke olur?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_abdomen
+  - anat_abd_aorta_dallari
+metin: L4 düzeyinde sağ ve sol a. iliaca communis'e bifürke olur.

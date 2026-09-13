@@ -1,0 +1,11 @@
+id: psik_yab_tani_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "YAB'nin yaşam boyu yaygınlığı ve cinsiyet dağılımı nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_anksiyete, psik_an_yaygin]
+metin: "%3-8; kadınlarda iki kat sıktır."
+# kaynak: 5.sınıf_PSİKİYATRİ_ANKSİYETE_BOZUKLUKLARI_(yeni).txt

@@ -1,0 +1,15 @@
+id: ped_gog_bogmaca_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Boğmacanın kuluçka süresi ve dönemleri nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_bogmaca
+metin: Kuluçka 7-10 gün (4-21); kataral (1-2 hafta), paroksismal (1-6 hafta) ve iyileşme dönemleri.
+
+# kaynak: 4._Sınıf_Pediatri_Haluk_Çokuğraş_bog-kab.txt

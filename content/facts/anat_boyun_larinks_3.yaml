@@ -1,0 +1,10 @@
+id: anat_boyun_larinks_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Rekurrent laringeal sinirler nereden döner?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_larinks]
+metin: Sol aort arkının, sağ sinir subklavyen arterin altından dönerek yukarı çıkar.

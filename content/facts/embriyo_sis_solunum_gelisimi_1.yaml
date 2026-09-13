@@ -1,0 +1,14 @@
+id: embriyo_sis_solunum_gelisimi_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Solunum sistemi hangi yapıdan gelişir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_solunum
+metin: 4. haftada ön barsağın ventral duvarının kaudalinden çıkan solunum divertikülünden (retinoik asit artışı TBX4 ekspresyonunu başlatır).
+# kaynak: 2._Sınıf_2.3_Histoloji_SOLUNUM_SİSTEMİ_EMBRİYOLOJİSİ.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_Sisteminin_Gelişimi-I.txt

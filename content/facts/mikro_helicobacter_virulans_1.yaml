@@ -1,0 +1,11 @@
+id: mikro_helicobacter_virulans_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "H. pylori'nin asidik lümende yerleşimini sağlayan enzim nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_campylobacter_helicobacter]
+metin: "Üreaz; asidik lümeni nötralize ederek mukus tabakasına yerleşmeyi sağlar."
+# kaynak: 2-_Helico_(Etiyoloji_Patogenez)_yeni.txt

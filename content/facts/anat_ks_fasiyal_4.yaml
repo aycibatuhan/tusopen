@@ -1,0 +1,10 @@
+id: anat_ks_fasiyal_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Stapedius kası hangi sinirle innerve edilir?
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_fasiyal]
+metin: N. facialis (VII) ile innerve edilir.

@@ -1,0 +1,11 @@
+id: dah_hep_hcv_daa_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SVR ne anlama gelir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_hepatit_c]
+metin: "Tedavi bitiminden 24 hafta sonra RNA negatifliği; pratikte kürdür."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_HCV-2021-2022.txt

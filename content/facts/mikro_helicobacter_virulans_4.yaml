@@ -1,0 +1,11 @@
+id: mikro_helicobacter_virulans_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "H. pylori'de antrum ve korpus yerleşiminin klinik-kanser tipi farkı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_campylobacter_helicobacter]
+metin: "Antrum: duodenal ülser ve intestinal tip; korpus: atrofik gastrit ve diffüz tip kanser."
+# kaynak: 2-_Helico_(Etiyoloji_Patogenez)_yeni.txt

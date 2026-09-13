@@ -1,0 +1,10 @@
+id: fiz_sinir_bos_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BOS nerede üretilir, günlük üretim ve toplam hacim kaçtır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_bos]
+metin: "Koroid pleksuslarda; günlük 500 ml, toplam hacim 150 ml."

@@ -1,0 +1,11 @@
+id: anat_abd_pankreas_komsuluk_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Processus uncinatus hangi damarların arkasından uzanır?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_pankreas_dalak]
+metin: Sola-yukarıya doğru a. ve v. mesenterica superior'un arkasından uzanır.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-YUSUF_ZEKİ_YILDIZ-Sindirim-organları-I.txt

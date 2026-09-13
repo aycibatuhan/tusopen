@@ -1,0 +1,11 @@
+id: anat_sirt_lp_batson_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Erişkinde omurilik ve subaraknoid aralık nereye kadar?
+taksonomi:
+  - [ttbt, anatomi, anat_sirt_omurga, anat_sirt_medulla_zarlar]
+metin: Omurilik L1-L2 diski hizasında; subaraknoid aralık S2'ye kadar (cisterna lumbalis).
+# kaynak: 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_1.txt, 3._Sınıf_3.3_Anatomi_Sırt_Anatomisi_2.txt

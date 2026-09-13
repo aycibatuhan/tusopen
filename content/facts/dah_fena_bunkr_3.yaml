@@ -1,0 +1,11 @@
+id: dah_fena_bunkr_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BUN/kreatinin oranı nerede yanıltıcı biçimde düşüktür?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_akut_bobrek_hasari]
+metin: "Malnütrisyon ve karaciğer hastalığında; üre üretimi azaldığından."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_S-V-VE_2.txt

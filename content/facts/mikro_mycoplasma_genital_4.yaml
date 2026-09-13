@@ -1,0 +1,11 @@
+id: mikro_mycoplasma_genital_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Genital mikoplazma enfeksiyonlarında ilk seçenek tedavi nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_mycoplasma]
+metin: "Doksisiklin; tetrasikline dirençte eritromisin, M. hominis dirençli tablolarda klindamisin."
+# kaynak: 3-_Helico_(Tanı__Tedavi__Korunma)___Mycoplasma.txt

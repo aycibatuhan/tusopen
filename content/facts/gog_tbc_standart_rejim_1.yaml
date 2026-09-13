@@ -1,0 +1,11 @@
+id: gog_tbc_standart_rejim_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Standart tüberküloz rejimi nasıl uygulanır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_tuberkuloz_tedavi]
+metin: "İlk 2 ay HRZE; kültür negatifleşmişse 4 ay HR."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_2019-2020_TBC_Dersi_30.08.2022-3-Tedavi.txt

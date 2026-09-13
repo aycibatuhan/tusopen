@@ -1,0 +1,11 @@
+id: gog_astim_atak_siddet_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ağır astım atağı bulguları nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_obstruktif, gog_ob_astim_atak]
+metin: "Kelimeyle konuşma, solunum >30/dk, nabız >120/dk, SaO2 <%90, PEF <%50."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Astım_I_ve_II_staj_dersi_2022-23.txt

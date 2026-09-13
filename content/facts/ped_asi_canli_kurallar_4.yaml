@@ -1,0 +1,15 @@
+id: ped_asi_canli_kurallar_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: BCG, KKK ve rutin aşıların uygulama yolları nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_asilar_koruyucu
+  - ped_asi_takvimi
+metin: BCG deri içi; KKK ve suçiçeği deri altı; diğer rutin aşılar kas içi yapılır.
+
+# kaynak: 3._Sınıf_3.5_Pediatri_Çocuklarda_Rutin_aşılama_ve_Temel_prensiper_-Sınıf_3.txt

@@ -1,0 +1,11 @@
+id: ftr_osteoporoz_tipler_korunma_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kemik formasyonunu artıran osteoporoz ilacı hangisidir?"
+taksonomi:
+  - [ktbt, ftr, ftr_metabolik_kemik, ftr_mk_osteoporoz]
+metin: "Teriparatit; bifosfonat, raloksifen ve denosumab rezorpsiyonu baskılar."
+# kaynak: 5.sınıf_FTR_OSTEOPOROZ.txt

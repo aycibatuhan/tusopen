@@ -1,0 +1,11 @@
+id: anat_abd_jejunoileum_meckel_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Radix mesenterii nereden nereye uzanır?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_ince_barsak]
+metin: Yaklaşık 15 cm; L2'nin solundan sağ art. sacroiliaca'ya uzanır, infrakolik kompartımanı ikiye böler.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-TURAN_PEŞTAMALCI-_AbdominoPelvikOrganlar_II_İNCE_BARSAKLAR.txt

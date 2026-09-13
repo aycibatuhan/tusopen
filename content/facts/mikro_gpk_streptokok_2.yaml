@@ -1,0 +1,10 @@
+id: mikro_gpk_streptokok_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "S. pyogenes'in ayırt edici özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_kok, mikro_gpk_streptokok]
+metin: "Beta hemolitik, basitrasin duyarlı, Lancefield A grubudur."

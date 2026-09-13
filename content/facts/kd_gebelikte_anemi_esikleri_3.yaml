@@ -1,0 +1,11 @@
+id: kd_gebelikte_anemi_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gestasyonel trombositopenide trombosit kaçaya kadar düşebilir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_hastaliklari, kd_gh_anemi_hematolojik]
+metin: "100.000-150.000'e; lökosit 15.000'e kadar normal kabul edilir."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_T3Antenatal_takip.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_GEBELİKTE_MATERNAL_ADAPTASYON_(yeni).txt

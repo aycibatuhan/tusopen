@@ -1,0 +1,11 @@
+id: ort_pelvis_kirigi_mortalite_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sakral kırıklarda en sık zone ve nörolojik hasar oranı nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_pelvis_kirigi]
+metin: "Zone 1 en sık (%50); nörolojik hasar %5'tir."
+# kaynak: 5.sınıf_Ortopedi_Travmatik_kalça_çıkıkları_ve_pelvis_kırıkları.txt

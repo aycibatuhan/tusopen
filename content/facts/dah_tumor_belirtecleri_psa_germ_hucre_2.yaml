@@ -1,0 +1,11 @@
+id: dah_tumor_belirtecleri_psa_germ_hucre_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serbest PSA/total PSA oranı nasıl yorumlanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_tumor_belirtecleri]
+metin: "PSA 4-10 ng/ml aralığında oran 0,15 altındaysa kanser olasılığı yüksektir."
+# kaynak: 4._Sınıf_Dahiliye_Onkoloji_Cigdem_Papila_ders_kanserde_tani.txt

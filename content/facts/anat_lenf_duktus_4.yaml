@@ -1,0 +1,10 @@
+id: anat_lenf_duktus_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Torasik duktus yaralanması ne yapar?
+taksonomi:
+  - [ttbt, anatomi, anat_lenfatik, anat_lenf_duktus]
+metin: Plevral aralıkta şilotoraks yapar.

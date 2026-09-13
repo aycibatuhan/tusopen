@@ -1,0 +1,11 @@
+id: nuk_fdg_pet_onkoloji_2
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "FDG PET/BT'nin nüks saptamadaki duyarlılığı ve özgüllüğü nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_onkoloji_pet, nt_on_fdg_pet]
+metin: "Duyarlılık %93, özgüllük %79."
+# kaynak: 5.sınıf_Nükleer_Tıp_CTF_Staj-tümörsintigrafisi-2022.txt

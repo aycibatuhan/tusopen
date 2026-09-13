@@ -1,0 +1,11 @@
+id: anat_abd_bobrek_ureter_5
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Üreter pelvis girişinde hangi damarı önden geçer?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_bobrek_ureter]
+metin: A. iliaca communis'in bifürkasyonunu önden geçer; kadında a. uterina, erkekte ductus deferens ile çaprazlaşır.
+# kaynak: 3._Sınıf_3.2_Anatomi_üriner_sistem_2020.txt

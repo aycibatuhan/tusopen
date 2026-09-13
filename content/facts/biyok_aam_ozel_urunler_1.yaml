@@ -1,0 +1,10 @@
+id: biyok_aam_ozel_urunler_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tirozinin türevleri hangi moleküllerdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_ozel_urunler]
+metin: "Katekolaminler, melanin ve tiroid hormonlarının öncüsüdür."

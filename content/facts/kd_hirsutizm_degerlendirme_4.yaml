@@ -1,0 +1,11 @@
+id: kd_hirsutizm_degerlendirme_4
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HAIR-AN sendromunda insülin eşikleri nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_amenore_bozukluklar, kd_am_hirsutizm_hiperandrojenizm]
+metin: "Bazal insülin >80 µU/mL veya stimüle insülin >300-500 µU/mL."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_HİPERANDROJENİZM-DERS_SLIDE.txt

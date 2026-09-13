@@ -1,0 +1,11 @@
+id: dah_pbc_psc_ayirt_edici_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PSC'de MRCP bulgusu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_pbc_psc]
+metin: "Multifokal darlıklar arasında normal segmentler (tespih tanesi görünümü)."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Dahiliye_İBRAHİM_HATEMİ-kolestaz_ve_sarılıklar.txt

@@ -1,0 +1,10 @@
+id: farm_km_protein_sentez_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aminoglikozidlerin mekanizması ve toksisitesi?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kemoterapotik, farm_km_protein_sentez]
+metin: "30S'ye bağlanıp okuma hatası (bakterisid); böbrek ve iç kulak toksisitesi."

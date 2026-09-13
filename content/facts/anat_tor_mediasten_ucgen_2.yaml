@@ -1,0 +1,11 @@
+id: anat_tor_mediasten_ucgen_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Ductus arteriosus üçgeninin sınırları ve içeriği?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_mediasten]
+metin: Sınırları sol a. pulmonalis, n. vagus ve n. phrenicus; içinde lig. arteriosum ile sol n. laryngeus recurrens bulunur.
+# kaynak: 3._Sınıf_3.3_Anatomi_TORAKS_25_ŞUBAT_2020-2021.txt

@@ -1,0 +1,11 @@
+id: bcy_sah_tani_komplikasyon_2
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gecikmiş serebral iskeminin zamanlaması ve önemi nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_vaskuler_patoloji, bce_va_anevrizma_sah]
+metin: "Olguların yaklaşık üçte birinde 4-14. günlerde; SAK sonrası morbiditenin birincil sebebi, klasik vazospazmdan farklıdır."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Serebrovasküler_Hastalıklar_-_Dr._Barış_Küçükyürük_(1).txt

@@ -1,0 +1,11 @@
+id: kd_gnrh_pulsatil_sekresyonu_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "GnRH puls frekansı LH ve FSH salınımını nasıl yönlendirir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_ureme_fizyolojisi, kd_uf_hipotalamus_hipofiz_over]
+metin: "Yüksek frekans LH, düşük frekans FSH sentezini uyarır."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_MENSTRUEL_SI_KLUS.txt

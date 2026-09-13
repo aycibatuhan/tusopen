@@ -1,0 +1,14 @@
+id: histo_kas_sarkomer_triad_5
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İskelet kasında triad nedir ve nerede yer alır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kas
+  - histo_kas_iskelet
+metin: Bir T tübülle iki yandaki sarkoplazmik retikulum sarnıcı; A-I kesişimi hizasında, depolarizasyonu kalsiyum salınımına çevirir.
+# kaynak: 1._Sınıf_1.3_Histoloji_KAS_DOKUSU_HİSTOLOJİSİ.txt

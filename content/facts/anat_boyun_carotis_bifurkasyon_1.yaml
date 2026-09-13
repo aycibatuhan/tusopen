@@ -1,0 +1,11 @@
+id: anat_boyun_carotis_bifurkasyon_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: A. carotis communis hangi düzeyde bifürke olur?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_damarlar]
+metin: Cartilago thyroidea üst kenarı hizasında (yaklaşık C4).
+# kaynak: 3._Sınıf_3.3_Anatomi_3-3_Boyun_Topografik_Anatomisi.txt

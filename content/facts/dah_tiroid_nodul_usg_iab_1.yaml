@@ -1,0 +1,11 @@
+id: dah_tiroid_nodul_usg_iab_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "USG'de yüksek riskli tiroid nodülünde biyopsi eşiği nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_tiroid_nodul_kanser]
+metin: "Malignite riski %70-90 üzeri; 1 cm üzerinde İİAB gerekir."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_tiroidnodullerivetiroidkanseri.txt

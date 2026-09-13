@@ -1,0 +1,11 @@
+id: dah_gord_barrett_kompl_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "GÖRH'nin en önemli komplikasyonu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_gord]
+metin: "Barrett özofagusu; adenokarsinom riski nedeniyle endoskopik izlem gerektirir."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_Özofagus_Hastalıkları-4.Sınıf-Prof.Dr.Murat_TUNCER_.txt

@@ -1,0 +1,10 @@
+id: pat_gen_depo_hastaliklari_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hurler sendromunda eksik enzim nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_genetik, pat_gen_depo_hastaliklari]
+metin: "Alfa-L-iduronidaz; glikozaminoglikanlar birikir."

@@ -1,0 +1,10 @@
+id: fiz_gis_pankreas_safra_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Safra asitleri nerede geri emilir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_pankreas_safra]
+metin: "Çoğu terminal ileumdan geri emilerek enterohepatik dolaşıma katılır."

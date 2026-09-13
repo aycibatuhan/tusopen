@@ -1,0 +1,11 @@
+id: dah_hiperkalsemi_ayirici_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hiperkalseminin en sık nedeni nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hiperparatiroidi]
+metin: "Primer hiperparatiroidizm; malignitelerle birlikte hiperkalsemilerin ~%90'ını oluşturur."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_kalsiyumhomeostazivemetabolikkemik.txt

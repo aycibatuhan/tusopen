@@ -1,0 +1,10 @@
+id: anat_miyo_cigneme_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Çeneyi kapatan çiğneme kasları hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_miyoloji, anat_miyo_cigneme]
+metin: Masseter, temporalis ve medial pterygoid; temporalis ayrıca geriye çeker.

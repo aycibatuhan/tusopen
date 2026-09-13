@@ -1,0 +1,11 @@
+id: dah_ssc_antikor_ayirim_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Skleroderma renal krizi hangi koşullarda görülür?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_skleroderma]
+metin: "Diffüz hastalıkta en az 5 yıllık öykü, anti-RNA polimeraz III pozitifliği ve günde 15 mg üstü prednizon."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_Skleroderma_23_Şubat_2021.txt

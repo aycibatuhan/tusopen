@@ -1,0 +1,11 @@
+id: kd_hirsutizm_degerlendirme_3
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nonklasik konjenital adrenal hiperplazi taramasında ne bakılır?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_amenore_bozukluklar, kd_am_hirsutizm_hiperandrojenizm]
+metin: "17-OHP, bazal veya ACTH stimülasyonlu."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_HİPERANDROJENİZM-DERS_SLIDE.txt

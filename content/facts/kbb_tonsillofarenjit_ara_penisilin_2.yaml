@@ -1,0 +1,11 @@
+id: kbb_tonsillofarenjit_ara_penisilin_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ARA'yı önlemek için penisilin kaç gün içinde başlanmalıdır?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_tonsillit_farenjit]
+metin: "Semptom başlangıcından sonraki 9 gün içinde."
+# kaynak: 5.sınıf_KBB_2-TONSİL_FARENKS_VE_ADENOİD_BÖLGENİN_ENFEKSİYONLARI.txt

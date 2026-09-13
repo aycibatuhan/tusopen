@@ -1,0 +1,11 @@
+id: dah_ust_kanama_etyoloji_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Melena kanama durduktan sonra ne kadar süre dışkıda kalabilir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_ust_kanama]
+metin: "Ortalama 3 gün."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_Gis_Kanamaları-4.Sınıf-Prof.Dr.Murat_TUNCER.txt

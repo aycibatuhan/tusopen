@@ -1,0 +1,11 @@
+id: pat_neo_nomenklatur_temel_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hamartom ile koristom nasıl ayrılır?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_nomenklatur]
+metin: "Hamartom yerinde dokuların oran bozukluğu; koristom ektopik (heterotopik) doku."
+# kaynak: 1._Sınıf_1.4_Patoloji_neoplazi_giriş-2019.txt

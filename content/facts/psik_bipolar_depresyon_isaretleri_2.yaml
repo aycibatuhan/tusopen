@@ -1,0 +1,11 @@
+id: psik_bipolar_depresyon_isaretleri_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bipolar depresyonda tipik uyku ve iştah örüntüsü nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_duygudurum, psik_dd_bipolar]
+metin: "Hipersomni ve hiperfaji."
+# kaynak: 5.sınıf_PSİKİYATRİ_duygudurumbozuklukları-5.sınıf_yeniii.txt

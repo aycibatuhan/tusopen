@@ -1,0 +1,11 @@
+id: dah_pbc_psc_ayirt_edici_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Primer biliyer kolanjitin ayırt edici laboratuvar bulgusu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_pbc_psc]
+metin: "%95'te antimitokondrial antikor (AMA) pozitifliği; IgM yüksektir, ALP öndedir."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Dahiliye_İBRAHİM_HATEMİ-kolestaz_ve_sarılıklar.txt

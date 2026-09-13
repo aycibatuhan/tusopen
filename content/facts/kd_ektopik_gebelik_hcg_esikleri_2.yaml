@@ -1,0 +1,11 @@
+id: kd_ektopik_gebelik_hcg_esikleri_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Transvaginal USG'de intrauterin kese görülebilmesi için hCG eşiği?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_erken_gebelik, kd_eg_ektopik]
+metin: "Yaklaşık 1500-2000 mIU/mL; transabdominal USG'de ~6000 mIU/mL."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Gebelikte_Kanama_28.11.2020.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_T3obsttanı.txt

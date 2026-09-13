@@ -1,0 +1,11 @@
+id: ftr_as_rehab_olcumleri_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AS'de göğüs genliği nerede ölçülür ve normal değeri nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_spondiloartropati_rehab]
+metin: "T4-meme ucu hizasında; 3 cm ve üzeri normaldir."
+# kaynak: 5.sınıf_FTR_Spondiloartritler_ve_Rehabilitasyonu_Dersi_Enson.txt, 5.sınıf_FTR_OmurgaFM.txt

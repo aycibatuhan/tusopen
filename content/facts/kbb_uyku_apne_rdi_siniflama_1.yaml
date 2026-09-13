@@ -1,0 +1,11 @@
+id: kbb_uyku_apne_rdi_siniflama_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uyku apnesinde apnenin tanımı nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_uyku_apne]
+metin: "Ağız-burun hizasında hava akımının 10 saniye durması."
+# kaynak: 5.sınıf_KBB_İRFAN_PAPİLA_ENT_OSAS_İ.P..txt

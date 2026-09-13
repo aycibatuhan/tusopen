@@ -1,0 +1,11 @@
+id: anes_sok_siniflama_egdt_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Arter laktatı hangi değerde şoku destekler?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_sok_vazopressor]
+metin: "Laktat 0 ile 2 mmol/L arası normaldir; 4 mmol/L üstü şoku destekler."
+# kaynak: 4._Sınıf_Anestezi_2.txt

@@ -1,0 +1,10 @@
+id: biyok_lip_lipoprotein_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "LDL ve HDL'nin kolesterol taşıma yönleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_lipoprotein]
+metin: "LDL periferik dokuya götürür (ateroskleroz); HDL apo A-1-LCAT ile karaciğere geri taşır."

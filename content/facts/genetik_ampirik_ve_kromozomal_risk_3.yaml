@@ -1,0 +1,14 @@
+id: genetik_ampirik_ve_kromozomal_risk_3
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Standart trizomi sonrası tekrarlama riski nedir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_danismanlik
+metin: Yaklaşık %1; de novo translokasyonda da %1.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_Genetik_Danışma_TÜRKÇE.txt

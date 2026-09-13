@@ -1,0 +1,10 @@
+id: pat_neo_invazyon_metastaz_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hematojen metastazın en sık yerleşim yerleri?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_invazyon_metastaz]
+metin: "Karaciğer ve akciğer."

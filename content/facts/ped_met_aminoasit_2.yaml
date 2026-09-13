@@ -1,0 +1,14 @@
+id: ped_met_aminoasit_2
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tip 1 tirozinemide eksiklik, tanı ve tedavi nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_aminoasit
+metin: Fumarilasetoasetaz eksikliği; succinylacetone yüksekliği tanıda esastır, nitisinon (NTBC) ile tedavi edilir.
+

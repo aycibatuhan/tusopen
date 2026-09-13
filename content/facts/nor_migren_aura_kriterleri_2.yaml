@@ -1,0 +1,11 @@
+id: nor_migren_aura_kriterleri_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aura semptomlarının süre kuralları nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_migren]
+metin: "≥5 dakika yayılım; her semptom 5-60 dakika sürer."
+# kaynak: 5.sınıf_Nöroloji_2020_Primer_BA_yeni.txt

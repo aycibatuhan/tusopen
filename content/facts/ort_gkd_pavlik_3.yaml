@@ -1,0 +1,11 @@
+id: ort_gkd_pavlik_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "GKD'de Pavlik bandajı hangi dönemde ve hangi başarıyla kullanılır?"
+taksonomi:
+  - [ktbt, ortopedi, orto_pediatrik, orto_ped_gkd]
+metin: "İlk 6 ayda; %80-100 başarı sağlar."
+# kaynak: 5.sınıf_Ortopedi_Gelişimsel_kalça_displazisi.txt

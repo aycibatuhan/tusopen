@@ -1,0 +1,11 @@
+id: ftr_oy_prognoz_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Omurilik yaralanmasında ilk nörolojik değerlendirme ne zaman yapılır?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_omurilik_yaralanmasi]
+metin: "72 saat sonra, spinal şok geçtikten sonra; şokun sürmesi kötü prognostik işarettir."
+# kaynak: 5.sınıf_FTR_OYRehab.txt

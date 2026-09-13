@@ -1,0 +1,11 @@
+id: dah_poliuri_oliguri_esikler_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Su diürezi ile solüt diürezi idrar tonusitesiyle nasıl ayrışır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_bobrek_degerlendirme]
+metin: "Su diürezi hipotonik (polidipsi, DI); solüt diürezi izotonik (glukoz, mannitol)."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_Nefrolojide_Anamnez_Alma_.txt, 3._Sınıf_3.2_İç_Hastalıkları_Poliüri_ve_Oligüri.txt

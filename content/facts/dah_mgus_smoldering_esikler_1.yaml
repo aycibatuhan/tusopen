@@ -1,0 +1,11 @@
+id: dah_mgus_smoldering_esikler_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "MGUS tanı kriterleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_mgus_waldenstrom]
+metin: "M proteini 3 g/dL altı, plazma hücresi %10 altı ve CRAB bulgusunun olmaması."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_mm_dersi_10122021.txt

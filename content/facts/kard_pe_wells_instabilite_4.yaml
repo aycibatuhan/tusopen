@@ -1,0 +1,11 @@
+id: kard_pe_wells_instabilite_4
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PEde antikoagülasyon süreleri nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_aort_periferik, kard_ap_venoz_tromboembolizm]
+metin: "En az 3 ay; idiyopatikte ömür boyu, kanserde kür sağlanana kadar."
+# kaynak: 5.sınıf_Kardiyoloji_Pulmoner_emboli_dersim_2021.txt

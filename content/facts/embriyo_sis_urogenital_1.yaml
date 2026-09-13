@@ -1,0 +1,13 @@
+id: embriyo_sis_urogenital_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Müller kanallarının gerilemesini hangi hormon sağlar?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_urogenital
+metin: Sertoli hücrelerinin salgıladığı anti-Müllerian hormon.

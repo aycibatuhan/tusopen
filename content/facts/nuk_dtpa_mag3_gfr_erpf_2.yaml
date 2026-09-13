@@ -1,0 +1,11 @@
+id: nuk_dtpa_mag3_gfr_erpf_2
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tc-99m MAG3 ve EC'nin ajan tipi ve gösterdiği fonksiyon nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_genitouriner, nt_gu_dinamik_bobrek]
+metin: "Tubüler ajanlardır; hızlı atılımlarıyla iyi kalite görüntü sağlar, plazma klirensleri ERPF'yi gösterir."
+# kaynak: 5.sınıf_Nükleer_Tıp_nefroüroloji_psma_eklenmiş.txt

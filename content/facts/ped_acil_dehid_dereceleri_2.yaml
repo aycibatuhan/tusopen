@@ -1,0 +1,15 @@
+id: ped_acil_dehid_dereceleri_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ağır dehidratasyonda bulgular nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_sivi_tedavisi
+metin: Turgor yok, mukozalar çatlamış, letarji, zayıf nabız, kapiller dolum >3 sn ve anüri.
+
+# kaynak: 4._Sınıf_Pediatri_Sinem_Oral_Cebeci_4sınıf-dehid-slayt.txt

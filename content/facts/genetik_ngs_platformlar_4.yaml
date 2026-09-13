@@ -1,0 +1,14 @@
+id: genetik_ngs_platformlar_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Nanopor dizileme diziyi nasıl okur?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: Tek zincir porlardan geçerken iyonik akım değişikliğiyle (örn. MinION).
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_D_4-_GENETİKTE_GELİŞMELER_ve_YENİ_TANI_YÖNTEMLERİ.txt

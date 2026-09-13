@@ -1,0 +1,11 @@
+id: dah_ra_tani_mtx_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Felty sendromu nasıl bir tablodur?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_romatoid_artrit]
+metin: "Kronik ağır RA'da lökopeni, bacak ülserleri, hafif splenomegali, yüksek RF."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_RomatoidArtrit_Nisan2020.txt

@@ -1,0 +1,10 @@
+id: fiz_kan_trombosit_hemostaz_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Trombosit agregasyonunu sürdüren etkenler ve aspirinin etkisi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_trombosit_hemostaz]
+metin: "ADP ve tromboksan A2 agregasyonu sürdürür; aspirin TXA2 yapımını engeller."

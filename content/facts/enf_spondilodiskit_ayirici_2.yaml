@@ -1,0 +1,15 @@
+id: enf_spondilodiskit_ayirici_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Endemik ülkede vertebral osteomiyelitte ilk dışlanması gereken etken kimdir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_osteomiyelit
+metin: Brusella; hızlı ve ucuz tanı testi Rose Bengal/Wright serolojisidir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Kemik-eklem_enfeksiyonları-2015-son.txt, 2._Sınıf_2.1_Enfeksiyon_septik_artrit_ve_osteomyelit_2019.txt

@@ -1,0 +1,11 @@
+id: kd_over_rezervi_esikleri_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebelik şansını öngören ilk belirleyici nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_infertilite, kd_inf_degerlendirme]
+metin: "Kadın yaşı; canlı doğum oranını her ART yönteminde düşürür."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ART.txt

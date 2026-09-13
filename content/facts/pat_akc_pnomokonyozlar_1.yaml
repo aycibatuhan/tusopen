@@ -1,0 +1,11 @@
+id: pat_akc_pnomokonyozlar_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Romatoid artritli kömür işçisindeki sert gri-beyaz nodüllere ne denir?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_pnomokonyoz]
+metin: "Kaplan sendromu."
+# kaynak: 2._Sınıf_2.3_Patoloji_6-Solunum_sistemi_hastalıkları_2019.txt

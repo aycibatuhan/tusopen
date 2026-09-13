@@ -1,0 +1,11 @@
+id: bcy_epidural_kanama_1
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Epidural hematom klasik olarak nasıl gelişir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_kafa_travmasi, bce_kt_epidural_kanama]
+metin: "Duranın periosteal tabakası iç tabuladan disseke olur; temporal bölgede a. meningea media yırtılır."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Kafa_Travması_F.Ö.txt

@@ -1,0 +1,11 @@
+id: ort_yag_embolisi_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yağ embolisinde ilk 72 saatin erken uyarı bulguları nelerdir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kirik_genel, orto_kg_yag_embolisi]
+metin: "Ateş ve nabız artışı, nefes darlığı, mental konfüzyon, göğüs ve konjunktival peteşiler."
+# kaynak: 5.sınıf_Ortopedi_Complications_.txt, 5.sınıf_Ortopedi_mkö_MULTİTRAVMALI_HASTAYA_YAKLAŞIM_ing.txt

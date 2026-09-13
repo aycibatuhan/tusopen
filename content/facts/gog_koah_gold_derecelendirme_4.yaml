@@ -1,0 +1,11 @@
+id: gog_koah_gold_derecelendirme_4
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "KOAH'ta arter kan gazı ne zaman istenir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_obstruktif, gog_ob_koah]
+metin: "FEV1 %40 altı, solunum yetersizliği bulgusu veya satürasyon %92 altı."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_KOAH_I-II.txt

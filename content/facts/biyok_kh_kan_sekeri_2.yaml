@@ -1,0 +1,10 @@
+id: biyok_kh_kan_sekeri_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HbA1c neyi yansıtır ve hangi durumda yanlış düşük okunur?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_kan_sekeri]
+metin: "Son üç aylık ortalama glukozu; eritrosit ömrü kısaldığında yanlış düşük okunur."

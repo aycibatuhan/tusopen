@@ -1,0 +1,10 @@
+id: fiz_bob_asit_baz_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Böbrek karbondioksitle telafi edilemeyen asit yükünü hangi biçimlerde atar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_asit_baz]
+metin: "Titrasyon asitleri ve amonyum iyonlarıyla."

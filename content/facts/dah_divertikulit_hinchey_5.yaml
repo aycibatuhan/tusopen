@@ -1,0 +1,11 @@
+id: dah_divertikulit_hinchey_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Divertikülitte elektif rezeksiyon endikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_divertikuler]
+metin: "En az iki atak, 40 yaş altında yataklı atak, komplike atak, immünsüprese hastada atak."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_GIS_Polipleri_ve_Divertiküler_hastalık_TUR.txt

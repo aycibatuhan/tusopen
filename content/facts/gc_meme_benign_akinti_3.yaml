@@ -1,0 +1,14 @@
+id: gc_meme_benign_akinti_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Patolojik meme akıntısını düşündüren özellikler?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_meme
+  - gc_meme_benign
+metin: Tek duktustan gelen, spontan ve unilateral akıntı; seröz, kanlı ya da pürülan olabilir.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Osman_Baran_Tortum_selim_meme_hastalıkları_7-8_ocak_2019.txt

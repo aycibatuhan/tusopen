@@ -1,0 +1,11 @@
+id: ort_gustilo_anderson_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gustilo-Anderson Tip I açık kırığın tanımı nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kirik_genel, orto_kg_acik_kirik]
+metin: "Yara 1 cm'den küçük, temiz ve kırık basittir."
+# kaynak: 5.sınıf_Ortopedi_AÇIK_KIRIKLAR.txt

@@ -1,0 +1,10 @@
+id: fiz_kan_hemoglobin_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Oksijen eğrisini sola kaydıran durumlar hangileridir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_hemoglobin]
+metin: "Fetal hemoglobin ve alkaloz."

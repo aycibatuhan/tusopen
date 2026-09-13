@@ -1,0 +1,13 @@
+id: gc_tp_beslenme_1
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Stres altındaki cerrahi hastada enerji ve protein ihtiyacı?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_beslenme
+metin: Enerji 25-30 kcal/kg/gün; protein 1,2-1,5 g/kg/gün.

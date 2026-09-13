@@ -1,0 +1,10 @@
+id: anat_ost_ust_ekst_kemik_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Suprakondiler kırıkta hangi arter bası riski taşır?
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_ust_ekst_kemik]
+metin: A. brachialis; Volkmann iskemik kontraktürü önemlidir.

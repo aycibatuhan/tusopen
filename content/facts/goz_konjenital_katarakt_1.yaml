@@ -1,0 +1,11 @@
+id: goz_konjenital_katarakt_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Konjenital kataraktın sıklığı ve en sık morfolojik tipi nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_lens, goz_ln_konjenital_katarakt]
+metin: "2000 canlı doğumda 1; lamellar (zonular) katarakt en sıktır."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Lens_Hastalıkları_-_2.txt

@@ -1,0 +1,10 @@
+id: farm_pk_metabolizma_4
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Enzim uyarılmasının zamanlaması?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakokinetik, farm_pk_metabolizma]
+metin: "Birkaç günde gelişir; ilaç kesildikten sonra bir süre sürer."

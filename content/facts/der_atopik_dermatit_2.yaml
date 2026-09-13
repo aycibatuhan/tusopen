@@ -1,0 +1,11 @@
+id: der_atopik_dermatit_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bebeklik atopik dermatiti hangi bölgelerde başlar?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_egzema, derm_eg_atopik]
+metin: "2-6. aylarda yanaklar, saçlı deri ve ekstansör yüzeyler; bez bölgesi korunur."
+# kaynak: 5.sınıf_Dermatoloji_ekzema_ders_ZAF.txt

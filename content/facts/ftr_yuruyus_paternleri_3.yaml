@@ -1,0 +1,11 @@
+id: ftr_yuruyus_paternleri_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hemiplejiklerde bacağın dışa yayılarak yürümesi hangi patern olarak adlandırılır?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_yuruyus_analizi]
+metin: "Oraklama (sirkümdiksiyon); ekstansör spastisitede oluşur."
+# kaynak: 5.sınıf_FTR__Alt_ekstremite_fizik_muayenesi.txt

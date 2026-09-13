@@ -1,0 +1,10 @@
+id: anat_boyun_ucgenler_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Boyun biyopsilerinde hangi sinir posterior üçgende risk altındadır?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_ucgenler]
+metin: Spinal aksesuar sinir (XI); üçgen tabanındaki levator scapulae üzerinde ilerler.

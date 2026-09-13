@@ -1,0 +1,11 @@
+id: gog_sft_dlco_derecelendirme_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal DLCO değeri ve CO'nun hemoglobin afinitesi nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_tani_yontemleri, gog_ty_sft]
+metin: "DLCO 14-25 ml/dk/mmHg; CO afinitesi O2'den yaklaşık 230 kat fazla."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Kısa_Solunum_Fonksiyon_Testleri_2022-23_Ders_Bilun.txt

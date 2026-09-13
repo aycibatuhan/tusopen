@@ -1,0 +1,11 @@
+id: ftr_elektroterapi_akimlari_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "TENS'in ağrı kesme mekanizması nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_fizik_tedavi_ajanlari, ftr_fa_elektroterapi]
+metin: "Segmental inhibisyon (kapı kontrol) ve inen yollarla endojen opioid salınımı."
+# kaynak: 5.sınıf_FTR_Fizik_tedavi_modaliteleri.txt

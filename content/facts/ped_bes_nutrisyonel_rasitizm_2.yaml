@@ -1,0 +1,15 @@
+id: ped_bes_nutrisyonel_rasitizm_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Raşitizm tedavisinde D vitamini dozları nasıldır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_rasitizm
+metin: '90 günlük tedavi: 12 ay altında 2000 IU/gün, 1-12 yaşta 3000-6000 IU, 12 yaş üstünde 6000 IU; eşlik eden kalsiyumla 30-75 mg/kg/gün.'
+
+# kaynak: 4._Sınıf_Pediatri_Elvan_Bayramoğlu_Rikets_ve_D_vitamini_eksikliği_ders_4.txt

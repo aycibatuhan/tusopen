@@ -1,0 +1,11 @@
+id: farm_kv_antihipertansif_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Beta bloker zehirlenmesinin antidotu?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_antihipertansif]
+metin: "Glukagon."
+# kaynak: 2._Sınıf_2.2_Farmakoloji_ANTİHİPERTANSİF_İLAÇLAR.txt

@@ -1,0 +1,10 @@
+id: anat_bas_parotis_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Parotis (Stensen) kanalı nereye açılır?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_parotis]
+metin: Üst 2. büyük azı dişinin karşısındaki mukozaya açılır.

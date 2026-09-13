@@ -1,0 +1,11 @@
+id: ftr_cp_prevalans_risk_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serebral palside tanı uyarı işaretleri nelerdir?"
+taksonomi:
+  - [ktbt, ftr, ftr_pediatrik_rehabilitasyon, ftr_pr_serebral_palsi]
+metin: "18. ayda yürüyememe, 8. ayda oturamama; 12. aydan öncesinde baskın el tercihi uyarıdır."
+# kaynak: 5.sınıf_FTR_PedRehab.txt

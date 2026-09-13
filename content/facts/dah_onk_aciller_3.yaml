@@ -1,0 +1,10 @@
+id: dah_onk_aciller_3
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Malign perikardiyal tamponadın tipik bulguları nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_onkolojik_aciller]
+metin: "Pulsus paradoxus, düşük nabız basıncı, EKG'de elektrik alternansı."

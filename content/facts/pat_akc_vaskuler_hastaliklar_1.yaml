@@ -1,0 +1,11 @@
+id: pat_akc_vaskuler_hastaliklar_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pulmoner embolilerin %95'inin kaynağı nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_vaskuler]
+metin: "Bacak venalarının trombozları; en sık popliteal ve daha distal büyük venalar."
+# kaynak: 2._Sınıf_2.3_Patoloji_2_solunum_Hast_2019.txt

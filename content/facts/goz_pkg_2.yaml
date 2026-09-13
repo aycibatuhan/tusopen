@@ -1,0 +1,11 @@
+id: goz_pkg_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yenidoğan kornea çapında anormallik sınırı nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_glokom, goz_gl_konjenital]
+metin: "Normal 9,5-10,5 mm; 12,5 mm'yi aşması anormaldir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_konjenital_glokom_Türkçe__OZCAN_OCAKOGLU_.txt

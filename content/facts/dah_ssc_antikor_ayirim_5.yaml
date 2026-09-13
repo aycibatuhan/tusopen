@@ -1,0 +1,11 @@
+id: dah_ssc_antikor_ayirim_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sistemik sklerozda birinci ölüm nedeni nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_skleroderma]
+metin: "Akciğer tutulumu; erken pulmoner fibrozis, geç pulmoner arter hipertansiyonu."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_Skleroderma_23_Şubat_2021.txt

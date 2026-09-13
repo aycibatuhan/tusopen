@@ -1,0 +1,10 @@
+id: pat_mss_tumorler_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Medulloblastomun özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_mss, pat_mss_tumorler]
+metin: "Çocuk serebellumu, küçük mavi yuvarlak hücre, Homer Wright rozeti, BOS yayılımı."

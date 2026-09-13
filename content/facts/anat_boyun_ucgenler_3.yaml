@@ -1,0 +1,10 @@
+id: anat_boyun_ucgenler_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Posterior boyun üçgenini hangi kas ikiye böler?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_ucgenler]
+metin: M. omohyoid; oksipital ve supraklaviküler alt üçgenlere böler.

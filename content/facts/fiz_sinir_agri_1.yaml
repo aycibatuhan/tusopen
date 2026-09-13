@@ -1,0 +1,10 @@
+id: fiz_sinir_agri_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Keskin ve künt ağrı hangi liflerle iletilir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_agri]
+metin: "Keskin ağrı miyelinli A-delta, künt ağrı miyelinsiz C lifleriyle."

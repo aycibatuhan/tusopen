@@ -1,0 +1,11 @@
+id: anes_pdph_noroaksiyal_komplikasyon_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anterior spinal arter sendromunun bulguları nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_rejyonal, anes_ra_noroaksiyal_komplikasyon]
+metin: "Üriner ve fekal inkontinens ile motor defisit; Adamkiewicz arteri T8-L1'den gelir."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Rejyonal_Anestezi_Ders_Mart_2022.txt

@@ -1,0 +1,11 @@
+id: dah_akromegali_tani_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akromegalide hangi ek tarama yapılmalı ve neden?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_akromegali]
+metin: "Kolon polipleri (%27-55) riski nedeniyle kolorektal tarama yapılmalıdır."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Fonksiyonel_Hipofiz_Adenomlar_-.txt

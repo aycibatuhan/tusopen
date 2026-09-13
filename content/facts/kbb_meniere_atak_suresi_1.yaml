@@ -1,0 +1,11 @@
+id: kbb_meniere_atak_suresi_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Meniere hastalığında vertigo atakları ne kadar sürer?"
+taksonomi:
+  - [ktbt, kbb, kbb_ic_kulak, kbb_ik_meniere]
+metin: "Dakikalar-saatler arası; tipik 1-24 saat."
+# kaynak: 5.sınıf_KBB_myener_vest_sistem.txt

@@ -1,0 +1,10 @@
+id: biyok_aam_ure_dongusu_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bazı üre döngüsü eksikliklerinde arginini yararlı kılan nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_ure_dongusu]
+metin: "Arginin döngüye yeniden girerek amonyak uzaklaştırılmasına yardımcı olur."

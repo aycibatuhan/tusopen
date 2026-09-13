@@ -1,0 +1,13 @@
+id: histo_epi_bez_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Merokrin salgının özelliği ve örnekleri nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_epitel
+  - histo_epi_bez
+metin: Hücre bütünlüğü korunur; pankreas asiner hücreleri ve ekkrin ter bezleri.

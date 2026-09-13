@@ -1,0 +1,11 @@
+id: ftr_osteoartrit_klinik_rehab_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteoartrit evrelemesi hangi sınıflamayla yapılır?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_osteoartrit]
+metin: "Kellgren-Lawrence 1-4 ile."
+# kaynak: 5.sınıf_FTR_Ders_OA-ÜA-tr.txt, 5.sınıf_FTR_Olgu_dersiçi_sunumu-OA-diz_ağrısı.txt

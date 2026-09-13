@@ -1,0 +1,11 @@
+id: uro_tas_goruntuleme_nonkontrast_bt_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Taşların kaçı düz üriner sistem grafisinde opaktır?"
+taksonomi:
+  - [ktbt, uroloji, uro_tas_hastaligi, uro_tas_renal_kolik]
+metin: "Yaklaşık %90; en iyi görülenler CaOx monohidrat ve kalsiyum fosfattır."
+# kaynak: 4._Sınıf_Üroloji_Ders_5-UROLITHIASIS-_Bulent_Onal.txt, 3._Sınıf_3.2_Üroloji_Urolithiasis.txt

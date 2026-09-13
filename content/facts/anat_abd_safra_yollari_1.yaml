@@ -1,0 +1,11 @@
+id: anat_abd_safra_yollari_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Vesica biliaris'in boyu ve hacmi nedir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_karaciger]
+metin: 8-10 cm boyunda, yaklaşık 50 mL; safrayı depolar ve konsantre eder.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-_YUSUF_ZEKİ_YILDIZ-_Sindirim_organları_-II.txt

@@ -1,0 +1,11 @@
+id: mikro_gv_patogenez_onkogenik_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HPV E6 ve E7 onkoproteinlerinin moleküler etkileri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_patogenez]
+metin: "E6AP aracılığıyla p53 yıkımını, pRb-ba bağlanıp E2F serbest bırakmayı sağlar."
+# kaynak: onkogenik_virüsler.txt, 8-Retrovirüsler_2020.txt

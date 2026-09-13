@@ -1,0 +1,11 @@
+id: anat_art_ayak_bilek_baglari_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Art. talocruralis hangi tip eklemdir?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_ayak_bilek]
+metin: Ginglymus; tibia-fibula distal uçları ve talus ile kurulur, yalnız fleksiyon-ekstansiyon yapar.
+# kaynak: 2._Sınıf_2.1_Anatomi_2.1_Alt_taraf_eklemleri_2019-20.txt

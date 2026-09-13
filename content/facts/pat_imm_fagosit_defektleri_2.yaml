@@ -1,0 +1,11 @@
+id: pat_imm_fagosit_defektleri_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lökosit adezyon defekti tip 2'nin defekti nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_immun, pat_imm_immun_yetmezlik]
+metin: "Sialyl-Lewis X (CD15); ağır mental-büyüme geriliği eklenir."
+# kaynak: 1._Sınıf_1.4_Patoloji_3-CTF_inflamasyon.txt

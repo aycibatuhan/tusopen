@@ -1,0 +1,11 @@
+id: mikro_imm_tolerans_mimicri_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kızamık sonrası ensefalopatide otoantikor hedefi nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_tolerans_otoimmunite]
+metin: "Miyelin bazik proteinine karşı otoantikorlar saptanır."
+# kaynak: 4-Mikroorganizma_Otoimmünite_2019.txt, 2-Antijen_tanıma_2019.txt

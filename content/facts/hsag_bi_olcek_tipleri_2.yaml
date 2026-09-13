@@ -1,0 +1,11 @@
+id: hsag_bi_olcek_tipleri_2
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ölçek dönüşümünde hangi yön mümkündür?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_veri_tipleri]
+metin: "Oransal veriler daha düşük düzeyli ölçeklere dönüştürülür; tersi mümkün değildir."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD1_Klinik_Biyoistatistiğe_Giriş__Araştırma_Yöntembilimi__Terminoloji__Bilgi__ölçüm__Hata__Bivariate_Yöntemler_(1).txt

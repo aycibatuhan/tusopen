@@ -1,0 +1,15 @@
+id: ped_bg_fontanel_kapanmasi_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ön ve arka fontanel ne zaman kapanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: Arka fontanel doğumda ya da ilk aylarda; ön fontanelin kapanışı 18. ay civarındadır.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

@@ -1,0 +1,15 @@
+id: ped_nor_status_epileptikus_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 2 yaş altındaki status epileptikus hastasında hangi ilaç unutulmamalıdır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_noroloji
+  - ped_nor_status
+metin: IV piridoksin 100 mg.
+
+# kaynak: 4._Sınıf_Pediatri_Sema_Saltık_epilepsiders.txt

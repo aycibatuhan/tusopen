@@ -1,0 +1,11 @@
+id: fiz_gis_karaciger_dolasim_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İstirahatte karaciğerin aldığı kalp debisi payı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_karaciger]
+metin: "Yaklaşık yüzde 25; abdominal organlarda çift kan dolaşımı olan tek organdır."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_9.SAFRANINI_OLUŞUMU_VE_SİNDİRİMDEKİ_ROLÜ_03042020_sae.txt

@@ -1,0 +1,11 @@
+id: dah_mpn_jak2_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Polisitemia verada tedavi hedefi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_polisitemi]
+metin: "Hematokrit erkekte 45, kadında 42 altına flebotomi ve düşük doz aspirin."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_MPN-Except_CML_-_AEE_2021.txt

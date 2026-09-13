@@ -1,0 +1,11 @@
+id: mikro_chlamydia_serotip_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C. trachomatis serotipleri hangi klinik tabloları yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_chlamydia]
+metin: "A, B, Ba ve C trahomu; D-K genital enfeksiyonları; L1, L2, L3 lenfogranuloma venerumu yapar."
+# kaynak: 4-_Chlamydia.txt

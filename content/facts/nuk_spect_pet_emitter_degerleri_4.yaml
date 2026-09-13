@@ -1,0 +1,11 @@
+id: nuk_spect_pet_emitter_degerleri_4
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PET ajanlarının yarı ömürleri nelerdir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_temel, nt_tm_goruntuleme_cihazlari]
+metin: "F-18 110 dk; Ga-68 68 dk; C-11 20 dk; N-13 10 dk; O-15 2 dk; Rb-82 1,2 dk."
+# kaynak: 5.sınıf_Nükleer_Tıp_CTF_Staj-intro_send.txt, 5.sınıf_Nükleer_Tıp_CTF_Staj-tümörsintigrafisi-2022.txt, 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

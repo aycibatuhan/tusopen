@@ -1,0 +1,11 @@
+id: anat_abd_kolon_appendiks_5
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Appendisit ağrısı hangi sinirle nereye yansır?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_kalin_barsak]
+metin: N. splanchnicus minor ile T10-T11'e yansır; peritoneum tutulunca McBurney noktasına yerleşir.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-TURAN_PEŞTAMALCI-_AbdominoPelvikOrganlar_III_KALIN_BARSAKLAR.txt

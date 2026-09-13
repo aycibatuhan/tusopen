@@ -1,0 +1,13 @@
+id: anat_abd_aorta_dallari_3
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Aorta abdominalisin dalları hangi üç gruba ayrılır?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_abdomen
+  - anat_abd_aorta_dallari
+metin: Ventral (sindirim kanalı), çift lateral (ürogenital ve böbrekler) ve posterior duvar dalları.

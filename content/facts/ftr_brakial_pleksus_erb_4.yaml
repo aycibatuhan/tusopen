@@ -1,0 +1,11 @@
+id: ftr_brakial_pleksus_erb_4
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yenidoğan brakial pleksus palsisinde ilk EMG ne zaman yapılır?"
+taksonomi:
+  - [ktbt, ftr, ftr_pediatrik_rehabilitasyon, ftr_pr_brakial_pleksus]
+metin: "3. haftada; avulsiyon saptanırsa cerrahi 3. ayda gündeme gelir."
+# kaynak: 5.sınıf_FTR_PedRehab.txt

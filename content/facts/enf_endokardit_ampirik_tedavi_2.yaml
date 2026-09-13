@@ -1,0 +1,15 @@
+id: enf_endokardit_ampirik_tedavi_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İnfektif endokarditte ampirik tedavi kapak tipine göre nasıl seçilir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_kardiyovaskuler
+  - enf_kv_endokardit
+metin: Doğal ve geç protez kapakta stafilokok-streptokok-enterokok; erken protez ve sağlık ilişkilide MRSA ve gram-negatifler de kapsanır.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Sistemlere_göre_sık_enfeksiyonlar.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

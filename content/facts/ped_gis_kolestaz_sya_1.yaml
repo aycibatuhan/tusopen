@@ -1,0 +1,15 @@
+id: ped_gis_kolestaz_sya_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yenidoğan kolestazı ne zaman ve nasıl tanımlanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gastroenteroloji
+  - ped_gis_kolestaz
+metin: İkter 2 haftadan fazla sürüyorsa mutlaka değerlendirilmeli; direkt bilirubin totalin %20'sini geçerse kolestazdır.
+
+# kaynak: 4._Sınıf_Pediatri_Ömer_Beşer_Kolestaz.txt

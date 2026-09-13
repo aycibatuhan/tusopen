@@ -1,0 +1,11 @@
+id: kd_icsi_endikasyonlari_3
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "IVF/ICSI'da luteal faz desteğinde temel seçenek nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_infertilite, kd_inf_yardimci_ureme]
+metin: "Progestin; hCG ile luteal destek OHSS riski nedeniyle kullanılmamalıdır."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ÜYT.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ART.txt

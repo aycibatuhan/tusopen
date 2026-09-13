@@ -1,0 +1,15 @@
+id: ped_enf_ates_tanim_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Çocukta ateş eşiği ölçüm yerine göre nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_enfeksiyon
+  - ped_enf_ates_yaklasim
+metin: Rektal ≥38°C referans (nötropenikte rektal kontrendike); aksiller 37,4, oral 37,5, timpanik 37,8°C.
+
+# kaynak: 3._Sınıf_3.5_Pediatri_Ateş.txt

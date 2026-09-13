@@ -1,0 +1,15 @@
+id: enf_kotrimoksazol_ilk_secenek_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kotrimoksazolun ilk seçenek olduğu infeksiyonlar hangileridir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_antibiyotik_yonetimi
+metin: Stenotrophomonas, Nocardia, Pneumocystis jirovecii pnömonisi ve toksoplazmoz.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt

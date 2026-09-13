@@ -1,0 +1,11 @@
+id: gog_tkp_tedavi_sureleri_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Toplum kökenli pnömonide temel antibiyotik süresi nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_toplum_pnomoni]
+metin: "Ateş düştükten sonra 1 hafta; radyolojik düzelme 2-8 hafta sürer."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_pnömoni.txt

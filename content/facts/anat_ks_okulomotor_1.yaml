@@ -1,0 +1,10 @@
+id: anat_ks_okulomotor_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Okulomotor sinir lezyonunda göz bulguları?
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_okulomotor]
+metin: Göz aşağı-dışa kayar; pitoz ve pupil dilatasyonu olur.

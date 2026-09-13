@@ -1,0 +1,10 @@
+id: biyok_vit_suda_eriyen_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pellegra üçlüsü ve nedeni nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_suda_eriyen]
+metin: "B3 eksikliği; deri döküntüsü, ishal ve demans."

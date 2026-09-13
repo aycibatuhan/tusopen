@@ -1,0 +1,11 @@
+id: gog_akciger_kanseri_tarama_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akciğer kanseri taraması hangi testle ve ne sıklıkla yapılır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_neoplazi, gog_neo_evreleme]
+metin: "Yıllık düşük doz kontrastsız toraks BT; mortalite %20 azalır."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer_Kanseri_Dönem_5-29.08.2022.txt

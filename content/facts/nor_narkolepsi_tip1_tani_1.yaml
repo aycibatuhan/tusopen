@@ -1,0 +1,11 @@
+id: nor_narkolepsi_tip1_tani_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Narkolepsi tip 1'de BOS'da hipokretin-1 eşiği nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_uyku_bilinc, noro_ub_narkolepsi]
+metin: "110 pg/ml'nin altı (laboratuvar normalinin 1/3'ü)."
+# kaynak: 5.sınıf_Nöroloji_Uyku_Hastalıkları_5._sınıf_ders_2021.txt

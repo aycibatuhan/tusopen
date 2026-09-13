@@ -1,0 +1,11 @@
+id: fiz_sol_pulmoner_dolasim_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pulmoner vazokonstriktör ve vazodilatör etkenler hangileridir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_ventilasyon_perfuzyon]
+metin: "Konstriktör: anjiyotensin II, endotelin, lökotrien; dilatör: NO, prostasiklin, beta uyarı."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

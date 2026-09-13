@@ -1,0 +1,11 @@
+id: adli_tck_yasamsal_tehlike_4
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yüzme bilmeyenin denize düşmesi tek başına yaşamsal tehlike midir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_yara_balistik, adl_yb_yasam_belirtileri]
+metin: "Hayır; su yutmasının yarattığı klinik bulguların saptanması gerekir."
+# kaynak: 5.sınıf_Adli_Tıp_TCK_YARALAR_PROF._DR._GÜRSEL_ÇETİN.txt

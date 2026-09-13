@@ -1,0 +1,11 @@
+id: mikro_mycoplasma_genital_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ureaplasma'nın enerji kaynağı diğer mikoplazmalardan nasıl ayrılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_mycoplasma]
+metin: "Üreyi kullanır; diğer mikoplazmalar glukozu kullanır."
+# kaynak: 3-_Helico_(Tanı__Tedavi__Korunma)___Mycoplasma.txt

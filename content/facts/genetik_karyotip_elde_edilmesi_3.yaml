@@ -1,0 +1,14 @@
+id: genetik_karyotip_elde_edilmesi_3
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Karyotip hazırlığında hangi fiksatif kullanılır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_sitogenetik
+  - tbg_sg_karyotip_analizi
+metin: Carnoy (3:1 metanol-asetik asit); önce 0,07 M KCl hipotonik şok.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_Kromozom_Yapısı_ve_Elde_Edilmesi.txt

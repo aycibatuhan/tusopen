@@ -1,0 +1,10 @@
+id: kd_gf_plasenta_3
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal umbilikal kordda damar yapısı nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_plasenta]
+metin: "İki arter ve bir ven; tek umbilikal arter anomalilerle ilişkilidir."

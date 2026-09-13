@@ -1,0 +1,11 @@
+id: dah_dm_kvh_hedefler_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Diyabette kronik komplikasyon taraması nasıl yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diyabet_kronik_komplikasyon]
+metin: "Retinopati için yıllık dilate göz muayenesi; nöropati için 10 gr monofilament testi."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Diyabetin_Makrovaskuler_Komplikasyonlari.txt, 3._Sınıf_3.4_İç_hastalıkları_Diyabetik_Nöropati_ve_Retinopati-3._sınıf-türkçe_tıp.txt

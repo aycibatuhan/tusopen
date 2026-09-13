@@ -1,0 +1,10 @@
+id: pat_neo_onkogen_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Philadelphia kromozomu hangi füzyon genidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_onkogen]
+metin: "BCR-ABL; kronik miyeloid lösemide."

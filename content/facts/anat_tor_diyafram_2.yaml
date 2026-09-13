@@ -1,0 +1,13 @@
+id: anat_tor_diyafram_2
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Özofageal açıklık hangi düzeyde ve ne geçirir?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_toraks
+  - anat_tor_diyafram
+metin: T10 düzeyinde; özofagus ve vagal gövdeler geçer.

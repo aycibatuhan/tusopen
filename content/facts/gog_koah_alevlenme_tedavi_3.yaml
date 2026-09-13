@@ -1,0 +1,11 @@
+id: gog_koah_alevlenme_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "KOAH alevlenme sıklığını azaltan önlemler nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_obstruktif, gog_ob_koah_alevlenme]
+metin: "Sigara bırakma, influenza ve pnömokok aşıları, pulmoner rehabilitasyon."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_KOAH_I-II.txt

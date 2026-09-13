@@ -1,0 +1,11 @@
+id: pat_akc_pnomokonyozlar_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Beriliyozis hangi hastalığa benzeyen granülomlar yapar?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_pnomokonyoz]
+metin: "Sarkoidoza çok benzeyen nonkazeifiye granülomlar."
+# kaynak: 2._Sınıf_2.3_Patoloji_6-Solunum_sistemi_hastalıkları_2019.txt

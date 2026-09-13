@@ -1,0 +1,11 @@
+id: der_dermatofitoz_tani_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tinea capitis superficialis hangi yaş grubunda sıktır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_dermatofitoz]
+metin: "3-8 yaş; erkeklerde 5-10 kat sık, adölesanlarda beklenmez."
+# kaynak: 5.sınıf_Dermatoloji_SUPERFICIAL_FUNGAL_INFECTIONS.txt

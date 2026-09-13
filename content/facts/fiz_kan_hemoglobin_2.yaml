@@ -1,0 +1,10 @@
+id: fiz_kan_hemoglobin_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Oksijen disosiyasyon eğrisini sağa kaydıran faktörler nelerdir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_hemoglobin]
+metin: "Asidoz, artan CO2, sıcaklık ve 2,3-DPG; oksijen dokuya kolay bırakılır."

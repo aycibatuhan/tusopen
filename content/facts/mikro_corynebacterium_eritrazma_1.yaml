@@ -1,0 +1,11 @@
+id: mikro_corynebacterium_eritrazma_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Eritrazmanın etkeni ve Wood ışığı bulgusu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_corynebacterium]
+metin: "Corynebacterium minutissimum; lezyonlar kırmızı, kahverengi ve menekşe renginde floresan verir."
+# kaynak: Corynebacterium_ve_Listeria_cinsi_bakteriler.txt

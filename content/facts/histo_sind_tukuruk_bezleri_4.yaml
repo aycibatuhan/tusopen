@@ -1,0 +1,14 @@
+id: histo_sind_tukuruk_bezleri_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sublingual bezin özellikleri nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sindirim
+  - histo_sind_tukuruk
+metin: Müköz ağırlıklıdır; birden çok Rivinus kanalıyla boşalır.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_sistemi_Tükrük_bezleri__Pankreas.txt

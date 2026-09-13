@@ -1,0 +1,11 @@
+id: mikro_imm_dogal_tlr_pamp_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "S. aureus A proteini ve S. pyogenes M proteini hangi savunmayı engeller?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_dogal]
+metin: "A proteini IgG'nin Fc ucuna bağlanarak opsonizasyonu, M proteini kompleman aracılı öldürmeyi engeller."
+# kaynak: Doğal_bağışıklık__mikropların_tanınması__mikropların_doğal_bağışıklıktan_kaçışı.txt, Hücre_aracılığı_ile_bağışık_yanıt.txt, 1-Antijen_yakalama_2020.txt

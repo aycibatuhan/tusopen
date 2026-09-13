@@ -1,0 +1,11 @@
+id: fiz_kas_nmj_mekanizma_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uç plak potansiyeli kaç milivolt ve güvenlik faktörü nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_noromuskuler]
+metin: "30-40 mV; EPP eşiği aşmak için gerekenin yaklaşık 3 katıdır."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_Nöromüsküler_İleti_2019.txt

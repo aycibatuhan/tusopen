@@ -1,0 +1,11 @@
+id: fiz_kan_fiziksel_degerler_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Plazma proteinlerinin dağılımı ve albuminin onkotik payı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_plazma]
+metin: "Yüzde 60 albumin (onkotik basıncın yüzde 70'i), 36 globulin, 4 pıhtılaşma."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt

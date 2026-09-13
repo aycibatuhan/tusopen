@@ -1,0 +1,11 @@
+id: ort_radius_basi_olekranon_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Humerus lateral kondil kırığında Milch tipleri hangi Salter-Harris tiplerine karşılık gelir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_ust_ekstremite_travma, orto_ue_dirsek]
+metin: "Milch tip I Salter-Harris IV'e, Milch tip II Tip II'ye karşılık gelir."
+# kaynak: 5.sınıf_Ortopedi_Omuz_ve_Dirsek_Yaralanmaları.txt, 5.sınıf_Ortopedi_Ortopedi_ve_Travmatoloji_de_Radyolojik_Değerlendirme.txt, 5.sınıf_Ortopedi_Complications_.txt

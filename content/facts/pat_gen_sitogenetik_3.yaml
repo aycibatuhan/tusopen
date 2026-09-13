@@ -1,0 +1,10 @@
+id: pat_gen_sitogenetik_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Turner sendromunun bulguları nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_genetik, pat_gen_sitogenetik]
+metin: "45,X; kısa boy, geniş ense, çizgili gonadlar, aort koarktasyonu."

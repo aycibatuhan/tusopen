@@ -1,0 +1,11 @@
+id: mikro_rna_corona_5
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "COVID-19'da aşırı inflamasyona ACE-2 etkisizleşmesi nasıl katkıda bulunur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_corona]
+metin: "ACE-2 anti-enflamatuvar özelliklidir; etkisizleşmesi aşırı inflamasyona katkıda bulunur."
+# kaynak: 9-Rubella__Orthomyxo__Paramyxo__Corona_2020.txt

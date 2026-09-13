@@ -1,0 +1,11 @@
+id: anat_ue_fossa_cubiti_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Fossa cubiti'nin içeriği lateralden medial'e nasıl dizilir?
+taksonomi:
+  - [ttbt, anatomi, anat_ust_ekstremite, anat_ue_kubital_fossa]
+metin: N. radialis, biceps tendonu, a. brachialis ve n. medianus düzeninde.
+# kaynak: 3._Sınıf_3.3_Anatomi_ders_3-4-5_ust_top_kol_onkol_-_2021.txt

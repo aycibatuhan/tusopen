@@ -1,0 +1,11 @@
+id: anat_bas_fossa_temporal_infratemporal_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Pterion hangi kemiklerin birleşimidir ve cerrahide neden önemlidir?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_temporal_infratemporal]
+metin: Frontal, parietal, temporal ve sphenoid (ala major) birleşimi; a. meningea media'ya erişim noktasıdır.
+# kaynak: 2._Sınıf_2.1_Anatomi_baş_bütünü.txt

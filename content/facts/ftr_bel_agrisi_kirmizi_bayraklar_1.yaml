@@ -1,0 +1,11 @@
+id: ftr_bel_agrisi_kirmizi_bayraklar_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bel ağrısında ileri tetkik gerektiren kırmızı bayraklar nelerdir?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_mekanik_bel_agrisi]
+metin: "50 yaş üstü ve 18 altı, ateş, gece ağrısı, kilo kaybı, eyer tarzı anestezi, inkontinans, ilerleyici nörolojik kayıp."
+# kaynak: 5.sınıf_FTR_Bel_Ağrıları.txt

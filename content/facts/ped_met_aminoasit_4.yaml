@@ -1,0 +1,14 @@
+id: ped_met_aminoasit_4
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Homosistinüride lens lüksasyonu yönü nasıl ayrışır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_aminoasit
+metin: Homosistinüride aşağı-açık yönlü, Marfan'da yukarı yönlüdür; ayrıca tromboz riski yapar.
+

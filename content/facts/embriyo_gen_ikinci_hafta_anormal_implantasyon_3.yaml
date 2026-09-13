@@ -1,0 +1,14 @@
+id: embriyo_gen_ikinci_hafta_anormal_implantasyon_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Gebeliğe bağlı anne ölümlerinin yüzde kaçı dış gebelikten sorumludur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_ikinci_hafta
+metin: Yaklaşık %9.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_gelişimin_ikinci_haftası_bilaminar_germ_diski.txt

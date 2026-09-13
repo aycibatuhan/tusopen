@@ -1,0 +1,13 @@
+id: gc_tp_hemostaz_transfuzyon_3
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Taze donmuş plazma endikasyonu ve dozu?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_hemostaz_transfuzyon
+metin: INR 1,5 üzerindeyse; 10-15 mL/kg.

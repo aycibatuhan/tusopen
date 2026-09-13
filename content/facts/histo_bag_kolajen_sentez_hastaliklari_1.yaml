@@ -1,0 +1,14 @@
+id: histo_bag_kolajen_sentez_hastaliklari_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kolajende prolin ve lizin hidroksilasyonu hangi vitamine bağlıdır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_bag_dokusu
+  - histo_bag_lifler_matriks
+metin: C vitaminine; eksikliği (skorbüt) hatalı kolajen üretimine yol açar.
+# kaynak: 1._Sınıf_1.3_Histoloji_5-6-7-8._Ders_BAĞ_DOKU_Dr.G.Tanrıverdi.txt

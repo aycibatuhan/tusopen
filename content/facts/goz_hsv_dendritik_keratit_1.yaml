@@ -1,0 +1,11 @@
+id: goz_hsv_dendritik_keratit_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HSV rekürren enfeksiyonunun tipik kornea bulgusu nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_konjonktiva_kornea, goz_kk_viral_keratit]
+metin: "Dallanan ve tabanı floroseinle boyanan dendritik ülsedir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kornea_Hastalıkları_01_06_2020.txt

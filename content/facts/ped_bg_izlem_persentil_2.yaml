@@ -1,0 +1,15 @@
+id: ped_bg_izlem_persentil_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Büyümede persentil sapmasının inceleme eşiği nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: Ardışık iki ölçümde >2 persentil sapma veya eğriler arasında >2 persentil ayrışma ayrıntılı inceleme gerektirir.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜMENİN_DEĞERLENDİRİLMESİ_ve_İZLENMESİ-Sınıf_4.txt

@@ -1,0 +1,10 @@
+id: anat_boyun_larinks_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Üst laringeal sinirin dış dalı neyi innerve eder?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_larinks]
+metin: Yalnızca krikotiroid kasını; diğer iç laringeal kaslar rekurrent laringeal sinirle.

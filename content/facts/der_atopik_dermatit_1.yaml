@@ -1,0 +1,11 @@
+id: der_atopik_dermatit_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Atopik dermatitin prevalansı nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_egzema, derm_eg_atopik]
+metin: "Erişkinlerde %2-10; çocuklukta %10-30."
+# kaynak: 5.sınıf_Dermatoloji_ekzema_ders_ZAF.txt

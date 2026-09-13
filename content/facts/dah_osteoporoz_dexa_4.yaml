@@ -1,0 +1,11 @@
+id: dah_osteoporoz_dexa_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Direkt grafide osteoporoz bulgusu ne zaman saptanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_osteoporoz]
+metin: "Ancak %30-50 kemik kaybından sonra; en iyi vertebradan değerlendirilir."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_kalsiyumhomeostazivemetabolikkemik.txt

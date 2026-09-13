@@ -1,0 +1,10 @@
+id: biyok_klin_kardiyak_belirtec_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Troponin ne zaman yükselir ve ne kadar yüksek kalır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_klinik, biyok_klin_kardiyak_belirtec]
+metin: "Ağrı başlangıcından 3-4 saat sonra yükselir; bir haftadan uzun kalır."

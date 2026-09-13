@@ -1,0 +1,14 @@
+id: gc_per_retroperitoneal_fibrozis_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Retroperitoneal fibroziste sedimentasyon yükseklik oranı?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_periton_retroperiton
+  - gc_per_retroperitoneal_fibrozis
+metin: '%90; hastaların %80''inde künt sırt-bel ağrısı vardır.'
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Kağan_Zengin_Mezenter_1_.txt

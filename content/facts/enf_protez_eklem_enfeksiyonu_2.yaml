@@ -1,0 +1,15 @@
+id: enf_protez_eklem_enfeksiyonu_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Protezli eklemde anlamlı sinovyal lökosit eşikleri nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_septik_artrit_protez
+metin: 'Doğal eklemden çok düşüktür: dizde >1700/mm3, kalçada >4200/mm3 infeksiyonu destekler.'
+
+# kaynak: 2._Sınıf_2.1_Enfeksiyon_septik_artrit_ve_osteomyelit_2019.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

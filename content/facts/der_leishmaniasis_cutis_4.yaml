@@ -1,0 +1,11 @@
+id: der_leishmaniasis_cutis_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Leishmaniasis kültür sensitiviteleri nasıl karşılaştırılır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_leishmaniasis]
+metin: "Mikrokültür 4-7 günde %83-97 sensitivite; klasik kültür %20-40."
+# kaynak: 5.sınıf_Dermatoloji_ZK-Paraziter_hastalıklar10.txt

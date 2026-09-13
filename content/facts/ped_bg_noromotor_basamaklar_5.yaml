@@ -1,0 +1,15 @@
+id: ped_bg_noromotor_basamaklar_5
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 2 yaşındaki çocuğun gelişim basamakları nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_norogelisim
+metin: Koşar, merdivenden tek ayağını kullanarak iner-çıkar, 2-3 kelimelik cümle kurar.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

@@ -1,0 +1,11 @@
+id: nor_migren_aurasiz_tani_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Migren baş ağrısının süresi ne kadardır?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_migren]
+metin: "4-72 saat."
+# kaynak: 5.sınıf_Nöroloji_2020_Primer_BA_yeni.txt

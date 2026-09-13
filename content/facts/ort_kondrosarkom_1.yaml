@@ -1,0 +1,11 @@
+id: ort_kondrosarkom_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kondrosarkomda radyolojik kalsifikasyon görünümü nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kemik_tumorleri, orto_kt_kondrosarkom_kordoma]
+metin: "Bulutsu kalsifikasyonlar içeren radyolüsent lezyon."
+# kaynak: 5.sınıf_Ortopedi_habıs_kemık_tümörlerı.txt

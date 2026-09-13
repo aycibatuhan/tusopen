@@ -1,0 +1,11 @@
+id: farm_km_genel_prensipler_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Alkollerin maksimum bakterisid derişimi?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kemoterapotik, farm_km_genel_prensipler]
+metin: "Yüzde 70; saf etanol proteinleri presipite eder."
+# kaynak: 2._Sınıf_2.4_1.vize_Farmakoloji_antiseptikler_ve_dezenfektanlar_SİBEL.txt

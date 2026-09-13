@@ -1,0 +1,14 @@
+id: embriyo_gen_ikizler_ttts_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tek koryon kesesi hangi ikizlikte görülür?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_ikizler
+metin: Yalnızca monozigotik ikizlikte; dizigotikler her zaman dikoryonik-diamniyotiktir.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_ikizler_ve_Doğum_G.Tanriverdi.txt

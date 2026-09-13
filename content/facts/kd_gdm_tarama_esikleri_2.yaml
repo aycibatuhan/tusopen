@@ -1,0 +1,11 @@
+id: kd_gdm_tarama_esikleri_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gestasyonel diyabetin temel patofizyolojisi nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_hastaliklari, kd_gh_gestasyonel_diyabet]
+metin: "hPL kaynaklı insülin direnci; yetersiz insülin sekresyonu hastalığı ortaya çıkarır."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_T3Antenatal_takip.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_preinvaziv_serviks_3_sınıf_ders-1._bölüm.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_GEBELİKTE_MATERNAL_ADAPTASYON_(yeni).txt

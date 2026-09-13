@@ -1,0 +1,11 @@
+id: mikro_mycobacterium_leprae_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "M. leprae hangi hücreyi hedefler ve kuluçkası nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_leprae]
+metin: "Periferik sinirlerin Schwann hücrelerini; kuluçka 1-10 yılı bulur."
+# kaynak: Mycobacterium_leprae.txt

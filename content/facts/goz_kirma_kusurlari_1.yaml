@@ -1,0 +1,11 @@
+id: goz_kirma_kusurlari_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gizli ve manifest hipermetropi nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_temel_muayene, goz_tm_kirma_kusurlari]
+metin: "Akomodasyonla karşılanan kısım gizli, karşılanamayan manifest; toplamı total hipermetropidir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kırma_kusurları_Prof.Dr.Akif_Özdamar.txt

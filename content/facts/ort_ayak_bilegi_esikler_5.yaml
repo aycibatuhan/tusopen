@@ -1,0 +1,11 @@
+id: ort_ayak_bilegi_esikler_5
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Syndesmosis yaralanması ayak bileği yaralanmalarında ne kadar sıktır?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_ayak_bilegi]
+metin: "Kırıksız burkulmaların %0,5'i, ayak bileği kırıklarının %13'ü."
+# kaynak: 5.sınıf_Ortopedi_AYAK_VE_AYAK_BİLEĞİ_MUAYENESİ_İNG-MKÖ.txt

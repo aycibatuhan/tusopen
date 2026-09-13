@@ -1,0 +1,14 @@
+id: gc_mide_bariatrik_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: ABD'de en sık bariatrik girişim ve kilo kaybı?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_mide_duodenum
+  - gc_mide_bariatrik
+metin: Roux-en-Y gastrik bypass; 5 yıllık ortalama %60-70.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Kağan_Zengin_(Morbid_obezite)_4.Türk..txt

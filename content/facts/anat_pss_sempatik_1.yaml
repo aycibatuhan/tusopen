@@ -1,0 +1,10 @@
+id: anat_pss_sempatik_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Sempatik sistemin çıkış düzeyi ve lif uzunlukları?
+taksonomi:
+  - [ttbt, anatomi, anat_periferik_otonom, anat_pss_sempatik]
+metin: Torakolumbal (T1-L2); preganglionik lifler kısa, postganglionik lifler uzun.

@@ -1,0 +1,15 @@
+id: enf_febril_notropeni_tanim_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Febril nötropenide antifungal tedavi ne zaman eklenir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_immunsuprese
+  - enf_im_febril_notropeni
+metin: Ateş 5-7 gün düşmezse antifungal eklenir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Sistemlere_göre_sık_enfeksiyonlar.txt

@@ -1,0 +1,10 @@
+id: biyok_vit_yagda_eriyen_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "E vitamini eksikliği ne yapar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_yagda_eriyen]
+metin: "Hemolitik anemiye yol açar."

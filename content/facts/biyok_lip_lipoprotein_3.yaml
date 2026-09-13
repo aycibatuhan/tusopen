@@ -1,0 +1,10 @@
+id: biyok_lip_lipoprotein_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lipoprotein lipaz eksikliği hangi tabloyu yapar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_lipoprotein]
+metin: "Kilomikronemili tip I hiperlipoproteinemi; pankreatit riskini yükseltir."

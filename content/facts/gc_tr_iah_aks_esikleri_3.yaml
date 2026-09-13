@@ -1,0 +1,14 @@
+id: gc_tr_iah_aks_esikleri_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İAB'de dekompresif laparotomi kararı nasıl verilir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_travma
+  - gc_tr_hasar_kontrol
+metin: İAB'nin 25 mmHg'yi aşması + oligüri-hipotansiyon-asidoz eşlik etmesi.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Sinan_Çarkman_abdominal_kompartman_sendromu.txt

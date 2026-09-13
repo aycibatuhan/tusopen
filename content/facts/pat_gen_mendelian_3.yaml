@@ -1,0 +1,10 @@
+id: pat_gen_mendelian_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "X'e bağlı resesif hastalıkta etkilenmiş erkek mutasyonu kime aktarır?"
+taksonomi:
+  - [ttbt, patoloji, pat_genetik, pat_gen_mendelian]
+metin: "Tüm kızlarına; oğullarına geçirmez."

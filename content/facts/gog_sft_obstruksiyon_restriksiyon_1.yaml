@@ -1,0 +1,11 @@
+id: gog_sft_obstruksiyon_restriksiyon_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Spirometride obstrüksiyon eşikleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_tani_yontemleri, gog_ty_sft]
+metin: "Bronkodilatör sonrası FEV1-FVC erişkinde %70 altı (GOLD), çocukta %90 altı."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Kısa_Solunum_Fonksiyon_Testleri_2022-23_Ders_Bilun.txt

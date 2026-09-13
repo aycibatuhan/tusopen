@@ -1,0 +1,10 @@
+id: farm_pk_doz_hesaplama_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yükleme dozu ne zaman verilir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakokinetik, farm_pk_doz_hesaplama]
+metin: "Yarı ömrü uzun ilaçlarda bekleme süresini kısaltmak için."

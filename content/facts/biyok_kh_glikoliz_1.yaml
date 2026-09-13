@@ -1,0 +1,10 @@
+id: biyok_kh_glikoliz_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glikolizin yeri ve verimi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_glikoliz]
+metin: "Sitoplazmada oksijensiz; bir glukozdan net iki ATP ve iki pirüvat."

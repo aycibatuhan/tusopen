@@ -1,0 +1,19 @@
+id: ped_toks_parasetamol_2
+version: 1
+status: draft
+author: ai-drafts/toksikoloji-antidot
+sources:
+- Amerikan Akademik Klinik Toksikoloji (AACT) parasetamol pozisyon bildirileri — referans olarak listelendi, metin özgün yazımdır
+- Nelson Pediatri Ders Kitabı
+ad: N-asetilsistein ne zaman başlanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_zehirlenmeler
+metin: 4 saatlik düzey Rumack-Matthew tedavi çizgisi üstündeyse; düzey yoksa, zaman belirsizse veya uzamış salımda çizgi beklemeden verilir.
+tus_gecmisi:
+- tus-2015-ilkbahar-ttbt-101
+- tus-2020-ilkbahar-ktbt-53
+- tus-2020-ilkbahar-ktbt-54
+

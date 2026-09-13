@@ -1,0 +1,11 @@
+id: nor_se_basamakli_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SE'de fenitoin ve valproik asit IV dozları nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_epilepsi, noro_ep_status]
+metin: "Fenitoin 20 mg/kg, valproik asit 40 mg/kg (maks 3000 mg)."
+# kaynak: 5.sınıf_Nöroloji_staj_tedavi_2022_o_g_renci_kopya.txt

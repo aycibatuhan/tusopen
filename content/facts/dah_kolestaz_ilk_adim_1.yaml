@@ -1,0 +1,11 @@
+id: dah_kolestaz_ilk_adim_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bilirubin ve kolestaz enzim yükselmesinde ilk tetkik nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_kc_testleri]
+metin: "Abdominal ultrasonografi; yollar dilate ise MRCP/ERCP ile obstrüksiyon netleştirilir."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Dahiliye_İBRAHİM_HATEMİ-kolestaz_ve_sarılıklar.txt

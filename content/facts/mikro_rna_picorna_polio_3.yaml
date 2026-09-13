@@ -1,0 +1,11 @@
+id: mikro_rna_picorna_polio_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Salk ve Sabin polio aşılarının temel farkları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_picorna]
+metin: "Salk inaktive kas içi, barsakta lokal immünite yapmaz; Sabin oral, immünsüprese verilmez ve virülan suşa dönebilir."
+# kaynak: 7-Picornaviridea_2020.txt

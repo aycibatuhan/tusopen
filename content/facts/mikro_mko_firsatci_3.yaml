@@ -1,0 +1,10 @@
+id: mikro_mko_firsatci_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aspergillus'un üç ana klinik tablosu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_firsatci]
+metin: "Alerjik bronkopulmoner aspergillozis, aspergilloma ve invaziv aspergilloz."

@@ -1,0 +1,10 @@
+id: anat_ue_karpal_tunel_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Ulnar sinir ve arter nereden geçer?
+taksonomi:
+  - [ttbt, anatomi, anat_ust_ekstremite, anat_ue_karpal_tunel]
+metin: Tünelin dışında, Guyon kanalından geçer.

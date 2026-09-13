@@ -1,0 +1,10 @@
+id: pat_ug_prostat_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Prostat adenokarsinomunun histolojik bulguları?"
+taksonomi:
+  - [ttbt, patoloji, pat_alt_uriner_erkek_genital, pat_ug_prostat]
+metin: "Küçük sıkışık glandüler yapılar, belirgin nükleol, perineural invazyon."

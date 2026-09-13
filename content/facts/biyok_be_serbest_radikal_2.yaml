@@ -1,0 +1,10 @@
+id: biyok_be_serbest_radikal_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Reaktif oksijen türlerini bertaraf eden enzimler hangileridir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_biyoenerjetik, biyok_be_serbest_radikal]
+metin: "Süperoksit dismutaz, katalaz ve glutatyon peroksidaz; GPx selenyum içerir."

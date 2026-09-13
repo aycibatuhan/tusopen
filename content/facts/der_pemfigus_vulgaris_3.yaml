@@ -1,0 +1,11 @@
+id: der_pemfigus_vulgaris_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pemfigus vulgariste başlangıç lezyonu genellikle nerededir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_pemfigus]
+metin: "Hemen her zaman ağızdan başlar; 2-3 ay süren lokalize dönem tanıyı geciktirir."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

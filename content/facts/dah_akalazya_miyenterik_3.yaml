@@ -1,0 +1,11 @@
+id: dah_akalazya_miyenterik_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Difüz özofagus spazmında ağrıyı ne provoke eder ve tedavisi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_ozofagus_motilite]
+metin: "Soğuk yiyecek-içecekler provoke eder; tedavide antikolinerjikler ve nitritler kullanılır."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_Özofagus_Hastalıkları-4.Sınıf-Prof.Dr.Murat_TUNCER_.txt

@@ -1,0 +1,11 @@
+id: kard_pht_hemodinamik_tanim_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Prekapiller ve postkapiller PH ayırımı nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_pulmoner_hipertansiyon, kard_ph_siniflama]
+metin: "Prekapiller PAWP ≤15 ve PVR ≥3 WU; izole postkapiller PAWP >15 ve PVR <3 WU."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

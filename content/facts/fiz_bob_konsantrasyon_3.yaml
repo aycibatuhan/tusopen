@@ -1,0 +1,10 @@
+id: fiz_bob_konsantrasyon_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İdrar ozmolalitesi ADH varlığında ve yokluğunda kaç mOsm olur?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_bobrek, fiz_bob_konsantrasyon]
+metin: "ADH ile 1200 miliosmola kadar, yokluğunda 50'nin altına iner."

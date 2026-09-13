@@ -1,0 +1,11 @@
+id: mikro_rna_calici_noro_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Norovirüs tanısı nasıl konur?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_calici_noro]
+metin: "Dışkı veya kusma örneğinde RT-PCR ile; antikor tayini tanı için uygun değildir."
+# kaynak: Adenovirus_parvo.txt

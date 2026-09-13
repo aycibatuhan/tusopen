@@ -1,0 +1,11 @@
+id: gog_sarkoidoz_tani_evre_4
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lofgren sendromu üçlüsü nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_sarkoidoz]
+metin: "Eritema nodozum, poliartrit ve bilateral hiler lenfadenopati; iyi prognoz göstergesi."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Sarkoidoz.txt

@@ -1,0 +1,11 @@
+id: anat_ue_snuffbox_guyon_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Guyon kanalı nerededir ve sıkışması ne yapar?
+taksonomi:
+  - [ttbt, anatomi, anat_ust_ekstremite, anat_ue_karpal_tunel]
+metin: Pisiforme-hamatum arasında; n. ulnaris'i taşır, sıkışmada hipotenar atrofi ve pençe el.
+# kaynak: 3._Sınıf_3.3_Anatomi_ders_3-4-5_ust_top_kol_onkol_-_2021.txt

@@ -1,0 +1,15 @@
+id: ped_end_dka_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: DKA tanısı üçlüsü nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_endokrinoloji
+  - ped_end_diyabet
+metin: Kan şekeri >200 mg/dl, pH <7,3 veya bikarbonat <15 mmol/L, belirgin ketozis (beta-hidroksibütirat ≥3 mmol/L veya idrar ketonu 2+).
+
+# kaynak: 4._Sınıf_Pediatri_HND_SUNUM_dka_(1)8.10.txt

@@ -1,0 +1,10 @@
+id: pat_hh_apoptoz_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Apoptozun iç ve dış yolakları nelerdir?"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_apoptoz]
+metin: "İç: mitokondriyal sitokrom c; dış: FAS ve TNF reseptör sinyalleri."

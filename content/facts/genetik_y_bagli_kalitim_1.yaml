@@ -1,0 +1,14 @@
+id: genetik_y_bagli_kalitim_1
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Y kromozomunun en önemli geni hangisidir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_mendelian_kalitim
+metin: SRY; erkek yönlü farklılaşmayı sağlar.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_1_Mendeliyan_Hastalıklar_2020_2021.txt

@@ -1,0 +1,10 @@
+id: fiz_kv_kalp_debisi_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Frank-Starling mekanizması neyi tanımlar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kalp_debisi]
+metin: "Diyastolde ventriküle dönen kan arttıkça lif uzar, atım hacmi artar."

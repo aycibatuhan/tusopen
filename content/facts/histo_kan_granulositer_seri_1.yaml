@@ -1,0 +1,14 @@
+id: histo_kan_granulositer_seri_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Granülositlerde azurofilik ve spesifik granüller ilk hangi evrelerde sentezlenir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kan_hematopoez
+  - histo_kan_kemik_iligi
+metin: Azurofilik (primer) granüller promiyelositte, spesifik (sekonder) granüller miyelositte.
+# kaynak: 1._Sınıf_1.3_Histoloji_Hematopoez_G.TANRIVERDİ.txt

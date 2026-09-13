@@ -1,0 +1,15 @@
+id: ped_neo_izoimmun_hemoliz_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: G6PD eksikliğinin geçiş ve tarama özelliği nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_hemolitik_hastalik
+metin: En sık eritrosit enzim defekti, X-bağlı; erkeklerde tam eksiklik, kızlarda tarama negatif olabilir.
+
+# kaynak: 4._Sınıf_Pediatri_Zeynep_Alp_Ünkar_Neonatal_Hiperbilirubinemi.txt

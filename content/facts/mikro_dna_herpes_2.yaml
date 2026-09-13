@@ -1,0 +1,10 @@
+id: mikro_dna_herpes_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Herpesvirüslerin yapısı ve latens yeri nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_dna_viruslari, mikro_dna_herpes]
+metin: "Çift iplikçikli DNA-lı zarflı virüsler; duyusal sinir gangliyonlarında latens kurarlar."

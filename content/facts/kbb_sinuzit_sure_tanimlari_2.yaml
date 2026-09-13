@@ -1,0 +1,11 @@
+id: kbb_sinuzit_sure_tanimlari_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rekürren akut sinüzit tanımı nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_paranazal_sinusler, kbb_ps_akut_sinuzit]
+metin: "Her biri 10 günden kısa ataklarla 6 ayda 3 veya yılda 4'ten fazla atak."
+# kaynak: 5.sınıf_KBB_DERS_SİNÜZİTLER.txt

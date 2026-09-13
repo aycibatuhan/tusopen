@@ -1,0 +1,11 @@
+id: dah_diabetes_insipidus_tani_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nefrojenik DI nasıl tedavi edilir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diabetes_insipidus_siadh]
+metin: "Düşük sodyum diyeti, tiyazid diüretik ve amilorid."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Arka_Hipofiz_Hastalıkları.txt

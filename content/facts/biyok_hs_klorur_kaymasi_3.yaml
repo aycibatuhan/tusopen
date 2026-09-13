@@ -1,0 +1,11 @@
+id: biyok_hs_klorur_kaymasi_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Karbondioksitin yüzde kaçı karbaminohemoglobin olarak taşınır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_hucre_su, biyok_hs_su_ph]
+metin: "Yüzde 15-20'si Hb'nin amin gruplarına karbamat olarak bağlanır."
+# kaynak: 1._Sınıf_1.2_Biyokimya_2018.11.08__tampon_sis.2018.txt

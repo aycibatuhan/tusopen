@@ -1,0 +1,15 @@
+id: enf_mrsa_ajanlari_kullanim_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Daptomisin hangi infeksiyonlarda kullanılır ve hangisinde kullanılmaz?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_antibiyotik_yonetimi
+metin: Bakteremi, endokardit, yumuşak doku infeksiyonlarında; pnömonide kullanılmaz, CK artışı (miyozit) yapabilir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt

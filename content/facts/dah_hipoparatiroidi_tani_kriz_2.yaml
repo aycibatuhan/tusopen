@@ -1,0 +1,11 @@
+id: dah_hipoparatiroidi_tani_kriz_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipokalsemili hastada fizik muayenede ilk bakılacak bulgu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipoparatiroidi]
+metin: "Boyun bölgesindeki skar izi; latent tetani Chvostek ve Trousseau ile aranır."
+# kaynak: 4._Sınıf_Dahiliye_ders-paratiroid_hastalıkları.txt

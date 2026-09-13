@@ -1,0 +1,15 @@
+id: ped_gog_tbc_tedavi_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi TBC formlarında tedavi 2 HRZE + 10 ay HR'dir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_gogus
+  - ped_gog_tuberkuloz
+metin: Kemik-eklem TBC ve TBC menenjitinde; immünsüpresiflerde idame 7-10 aya uzatılır.
+
+# kaynak: 4._Sınıf_Pediatri_Ayşe_Ayzıt_Kılınç_tbc_ders_4._sınıf_.txt

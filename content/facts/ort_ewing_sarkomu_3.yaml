@@ -1,0 +1,11 @@
+id: ort_ewing_sarkomu_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ewing sarkomunda yükselen laboratuvar bulguları nelerdir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kemik_tumorleri, orto_kt_ewing]
+metin: "Sedimentasyon ve LDH yüksekliği."
+# kaynak: 5.sınıf_Ortopedi_habıs_kemık_tümörlerı.txt

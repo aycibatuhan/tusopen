@@ -1,0 +1,11 @@
+id: fiz_kan_fiziksel_degerler_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kanın pH ve sıcaklık değerleri nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_plazma]
+metin: "pH 7.35-7.45 (venöz biraz asidik); sıcaklık yaklaşık 38 santigrat."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt

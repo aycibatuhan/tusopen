@@ -1,0 +1,11 @@
+id: nor_kume_ba_tani_4
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kronik küme baş ağrısı ne zaman kabul edilir?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_kume]
+metin: "Ağrı 12 aydan uzun sürerse veya remisyon 14 günden kısaysa."
+# kaynak: 5.sınıf_Nöroloji_2020_Primer_BA_yeni.txt

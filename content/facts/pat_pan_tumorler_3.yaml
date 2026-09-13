@@ -1,0 +1,10 @@
+id: pat_pan_tumorler_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pankreas karsinomunun en önemli risk etkeni?"
+taksonomi:
+  - [ttbt, patoloji, pat_pankreas, pat_pan_tumorler]
+metin: "Tütün tüketimi."

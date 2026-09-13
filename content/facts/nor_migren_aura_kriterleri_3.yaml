@@ -1,0 +1,11 @@
+id: nor_migren_aura_kriterleri_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Migren baş ağrısı auradan sonra ne kadar içinde başlamalıdır?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_migren]
+metin: "Aura sırasında veya sonrasındaki 60 dakika içinde."
+# kaynak: 5.sınıf_Nöroloji_2020_Primer_BA_yeni.txt

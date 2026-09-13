@@ -1,0 +1,11 @@
+id: kd_amniyotik_sivi_embolisi_tani_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Amniyotik sıvı embolisinin sıklığı ve klinik başlangıcı nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_postpartum, kd_pos_amniyotik_sivi_embolisi]
+metin: "100.000 doğumda 2-6; doğum sırasında ani kardiyovasküler kollaps, solunum yetmezliği, nöbet; DIC izler."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_obstetrik_ve_jinekolojik_şok.txt

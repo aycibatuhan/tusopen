@@ -1,0 +1,11 @@
+id: ftr_manuel_kas_testi_refleks_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Düşük refleksi ortaya çıkarmak için hangi manevra kullanılır?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_eklem_hareket]
+metin: "Jendrassik manevrasından yararlanılır."
+# kaynak: 5.sınıf_FTR_OmurgaFM.txt

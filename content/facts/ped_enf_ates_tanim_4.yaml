@@ -1,0 +1,15 @@
+id: ped_enf_ates_tanim_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Pel-Ebstein ateşi hangi hastalığın bulgusudur?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_enfeksiyon
+  - ped_enf_ates_yaklasim
+metin: Hodgkin lenfomanın nadir bulgusudur; 3-10 gün ateş ve ardından ateşsiz dönem.
+
+# kaynak: 3._Sınıf_3.5_Pediatri_Ateş.txt

@@ -1,0 +1,10 @@
+id: biyok_enz_kinetik_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Substrat derişimine göre reaksiyon sırası nasıl değişir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_enzimler, biyok_enz_kinetik]
+metin: "Düşük derişimde birinci dereceden, doygunlukta sıfırıncı dereceden kinetik."

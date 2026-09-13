@@ -1,0 +1,11 @@
+id: psik_tardif_diskinezi_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tardif diskinezi riski nasıl azaltılır?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikofarmakoloji, psik_pf_ekstrapiramidal]
+metin: "En düşük etkili doz kullanılarak."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt

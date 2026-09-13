@@ -1,0 +1,10 @@
+id: mikro_gpk_stafilokok_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "S. aureus kanlı agar ve mannitol tuzlu agarda nasıl görünür?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_kok, mikro_gpk_stafilokok]
+metin: "Beta hemoliz yapar; mannitol tuzlu agarda fermente edip kolonileri sarıya boyar."

@@ -1,0 +1,11 @@
+id: dah_hep_hbv_tedavi_endikasyon_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İmmünsüprese başlanacak hastada HBV proflaksisi kimlere gerekir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_hepatit_b]
+metin: "HBsAg(+) veya HBsAg(-)/anti-HBc(+) olanlara proflaktik antiviral düşünülür."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_HBV-2021-2022.txt

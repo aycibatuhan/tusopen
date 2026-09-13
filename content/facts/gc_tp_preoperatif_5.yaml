@@ -1,0 +1,13 @@
+id: gc_tp_preoperatif_5
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Postoperatif pulmoner komplikasyon riski nerede artar?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_preoperatif
+metin: 'Üst karın/toraks cerrahilerinde, KOAH''ta, aktif sigarada (bırakma: 4-8 hafta önce).'

@@ -1,0 +1,11 @@
+id: kbb_larinks_ca_2hafta_ses_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İki haftadan uzun süren ses kısıklığında ne yapılmalıdır?"
+taksonomi:
+  - [ktbt, kbb, kbb_larinks, kbb_lr_larinks_kanseri]
+metin: "Larenks kanseri düşünülmeli ve KBB muayenesi yapılmalıdır."
+# kaynak: 5.sınıf_KBB_LARENKS_MALİGN_TMLERİ_ABK.txt

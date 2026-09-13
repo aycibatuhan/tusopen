@@ -1,0 +1,11 @@
+id: uro_renal_travma_goruntuleme_3
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Renal travmada görüntüleme tercihi nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_acil_ve_travma, uro_at_renal_travma]
+metin: "Kontrastlı BT; USG parankim defekti ve toplayıcı sistem yaralanmasını kaçırabilir."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt

@@ -1,0 +1,15 @@
+id: ped_bg_dis_kemik_gelisimi_4
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kemik yaşı hangi grafilerle ve hangi yaşta değerlendirilir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_dis_kemik_yasi
+metin: İlk 3 ayda diz-ayak, 6 yaşa dek sol el-el bileği grafileriyle (Greulich-Pyle, Tanner-Whitehouse).
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

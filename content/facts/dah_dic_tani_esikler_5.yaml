@@ -1,0 +1,11 @@
+id: dah_dic_tani_esikler_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Antifibrinolitiklerin DIC'deki istisnası hangi durumlardır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hematoloji, dah_hem_dic]
+metin: "Akut promyelositik lösemi ve prostat kanserinde primer hiperfibrinoliz öndedir."
+# kaynak: 4._Sınıf_Dahiliye_Hematoloji_Yaygın_Damariçi_Pıhtılaşması-2020.txt

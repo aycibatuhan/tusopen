@@ -1,0 +1,11 @@
+id: dah_gord_barrett_kompl_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "GÖRH'de temel yaşam tarzı önlemleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_gord]
+metin: "Yatak başını kaldırma, yatmadan önce yememe-içmeme, sigara-alkol yasak, kilo verme."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_Özofagus_Hastalıkları-4.Sınıf-Prof.Dr.Murat_TUNCER_.txt

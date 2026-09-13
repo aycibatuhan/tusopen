@@ -1,0 +1,11 @@
+id: mikro_rna_hepatit_c_d_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HCV kan bankası taramasında hangi test kullanılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_hepatit_c_d]
+metin: "4. kuşak HCV Ab-Ag kombinasyon testi; core antijeni pencereyi 15-20 güne indirir."
+# kaynak: 10-Viral_Hepatitler_2020.txt

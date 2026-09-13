@@ -1,0 +1,15 @@
+id: enf_kotrimoksazol_ilk_secenek_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi antibiyotikler yalnızca gram-negatif veya yalnızca gram-pozitife etkilidir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_antibiyotik_yonetimi
+metin: Aztreonam, aminoglikozidler, kolistin yalnız G-; glikopeptidler, linezolid, daptomisin, fusidik asit yalnız G+.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt

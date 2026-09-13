@@ -1,0 +1,14 @@
+id: embriyo_gen_gametogenez_mayoz_duraklamalari_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Spermatogenezin süresi ve günlük üretimi nedir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_gametogenez
+metin: Pubertede başlar; spermatogonyumdan olgun sperme yaklaşık 74 gün, günde yaklaşık 300 milyon sperm.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_GAMETOGENEZ_II.txt, 1._Sınıf_1.3_Embriyoloji_GELİŞİMİN_1.HAFTASI.txt

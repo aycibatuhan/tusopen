@@ -1,0 +1,11 @@
+id: fiz_sol_difuzyon_dlco_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İstirahatte kanın kapiller geçiş süresi ve O2 denge süresi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_gaz_degisimi]
+metin: "Kapiller geçiş 0.75 sn, O2 dengelemesi 0.3 sn; O2 akımı perfüzyonla sınırlıdır."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2019_Solunum_2._Bölüm.txt, 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

@@ -1,0 +1,10 @@
+id: farm_tok_agir_metal_4
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Demir birikiminde seçilen şelatlayıcı?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_toksikoloji, farm_tok_agir_metal]
+metin: "Deferoksamin."

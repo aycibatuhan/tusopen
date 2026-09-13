@@ -1,0 +1,15 @@
+id: enf_akut_faz_crp_pct_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sepsiste prokalsitonin ne zaman yükselir ve hangi düzeye çıkar?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_genel_yaklasim
+  - enf_gy_akut_faz
+metin: CRP'den erken, 3 saat içinde yükselir; sistemik bakteriyel enfeksiyonda 20-200 ng/mL'ye çıkar.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_hast_lab.txt

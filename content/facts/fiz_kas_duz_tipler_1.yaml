@@ -1,0 +1,11 @@
+id: fiz_kas_duz_tipler_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tek üniteli ve çok üniteli düz kas farkı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_duz]
+metin: "Tek üniteli gap junction'la sinsityum, kendiliğinden kasılır; çok üniteli sinirsel uyarı gerektirir."
+# kaynak: 15-Düz_Kasın_Hücresel_ve_Elektriksel_Özellikleri.txt, 16-Düz_Kasın_Kasılma_ve_Gevşemesinin_İyonik_Temelleri.txt

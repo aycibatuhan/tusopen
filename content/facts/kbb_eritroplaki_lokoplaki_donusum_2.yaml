@@ -1,0 +1,11 @@
+id: kbb_eritroplaki_lokoplaki_donusum_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Eritroplakide malign dönüşüm oranı nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_oral_kavite_farinks, kbb_of_oral_lezyonlar]
+metin: "%50'nin üzeri; neredeyse her zaman displazi vardır."
+# kaynak: 5.sınıf_KBB_ORAL_KAVİTE__OROFARENKS__HİPOFARENKS_NEOPLAZİLERİ.txt

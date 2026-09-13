@@ -1,0 +1,11 @@
+id: kbb_pleomorfik_adenom_parotis_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Whartin tümörünün özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, kbb, kbb_tukuruk_bezleri, kbb_tb_benign_tumorler]
+metin: "Parotisin 2. sık benign tümörü; erkeklerde sık, %10 bilateral, sıcak nodül."
+# kaynak: 5.sınıf_KBB_myener_Tükrük_Bezi_Hastalıkları_ders.txt

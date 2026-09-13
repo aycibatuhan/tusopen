@@ -1,0 +1,11 @@
+id: kbb_konusma_odyometrisi_akustik_refleks_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SRT ile saf ses ortalaması arasındaki uyum koşulu nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_kulak_muayene_isitme, kbb_km_odyoloji]
+metin: "±10 dB içinde; uyumsuzluk fonksiyonel kaybı düşündürür."
+# kaynak: 5.sınıf_KBB_Ahmet_ATAŞ_ODYOLOJİK_kavramlar.txt

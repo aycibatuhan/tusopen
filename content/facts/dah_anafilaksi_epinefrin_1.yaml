@@ -1,0 +1,11 @@
+id: dah_anafilaksi_epinefrin_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anafilaksi tanısı üç koşuldan kaçının birlikteliğiyle konur?"
+taksonomi:
+  - [ktbt, dahiliye, dah_alerji_immunoloji, dah_alj_anafilaksi]
+metin: "İkisi: hava yolu obstrüksiyonu/wheezing, hipotansiyon, yaygın cilt bulguları."
+# kaynak: 4._Sınıf_Dahiliye_Genel_Dahiliye_ANAFLAKSİ-_VE_AKUT_ALLERJİK_REAKSİYONLAR.txt

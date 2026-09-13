@@ -1,0 +1,10 @@
+id: pat_end_tiroid_tumor_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kalsitonin salgılayıp amiloid stroma yapan tiroid tümörü?"
+taksonomi:
+  - [ttbt, patoloji, pat_endokrin, pat_end_tiroid_tumor]
+metin: "Medüller karsinom (C hücre, RET mutasyonu, MEN2A-2B)."

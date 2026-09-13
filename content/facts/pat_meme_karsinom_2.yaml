@@ -1,0 +1,10 @@
+id: pat_meme_karsinom_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Meme kanserinde tedavi-prognozu belirleyen moleküler gruplar?"
+taksonomi:
+  - [ttbt, patoloji, pat_meme, pat_meme_karsinom]
+metin: "ER-PR pozitifliği, HER2 amplifikasyonu, üçlü negatif (bazal benzeri) grup."

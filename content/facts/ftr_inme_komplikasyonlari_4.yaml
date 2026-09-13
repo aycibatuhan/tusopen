@@ -1,0 +1,11 @@
+id: ftr_inme_komplikasyonlari_4
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnme sonrası talamik (santral) ağrı oranı nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_inme]
+metin: "%8; sıklıkla tedaviye dirençlidir."
+# kaynak: 5.sınıf_FTR_İnmeRehab.txt

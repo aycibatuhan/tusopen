@@ -1,0 +1,14 @@
+id: gc_tir_hipertiroidi_tedavi_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Graves hastalığında öne çıkan bulgular nelerdir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_bas_boyun_tiroid
+  - gc_tir_hipertiroidi_cerrahi
+metin: Oftalmopati ve pretibial miksödem (%3-5).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Serkan_Teksöz_HİPERTİROİDİ_2020.txt

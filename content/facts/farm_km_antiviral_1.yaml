@@ -1,0 +1,11 @@
+id: farm_km_antiviral_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Asiklovirin aktifleşmesi ve önlemi?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kemoterapotik, farm_km_antiviral]
+metin: "Viral timidin kinazla mono-, konakçı kinazla trifosfata; kristal nefropati için bol su."
+# kaynak: 2._Sınıf_2.4_1.vize_Farmakoloji_ANTİVİRAL_İLAÇLAr_öğrenci.txt

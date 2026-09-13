@@ -1,0 +1,15 @@
+id: ped_bg_noromotor_basamaklar_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: 6-7 aylık bebekte beklenen gelişim basamakları nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_norogelisim
+metin: '6 ay: desteksiz kısa oturma, uzanıp yakalama, heceleme; 7 ay: yüzüstünden sırtüstüne dönme, elden ele geçirme.'
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

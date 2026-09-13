@@ -1,0 +1,10 @@
+id: mikro_rna_reo_rota_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rotavirüsün kapsit katmanları ve genom özellikleri nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_reo_rota]
+metin: "Üç katmanlı kapsit (VP2, VP6, VP7-VP4); zarfsız, çift iplikçikli ve segmentli RNA."

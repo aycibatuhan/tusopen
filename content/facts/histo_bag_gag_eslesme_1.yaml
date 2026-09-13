@@ -1,0 +1,14 @@
+id: histo_bag_gag_eslesme_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Glikozaminoglikanların tek sülfatsız üyesi hangisidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_bag_dokusu
+  - histo_bag_lifler_matriks
+metin: Hiyaluronik asittir.
+# kaynak: 1._Sınıf_1.3_Histoloji_5-6-7-8._Ders_BAĞ_DOKU_Dr.G.Tanrıverdi.txt

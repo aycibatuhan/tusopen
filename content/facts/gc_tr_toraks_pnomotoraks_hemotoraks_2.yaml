@@ -1,0 +1,14 @@
+id: gc_tr_toraks_pnomotoraks_hemotoraks_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hemotoraksta acil torakotomi endikasyonları?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_travma
+  - gc_tr_toraks
+metin: Tüpten ilk anda 1500 mL kan veya drenajın 200 mL/saat sürmesi.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Sezgin_Uludağ_Travmaya_Yaklaşım__S.Uludağ__2021..txt

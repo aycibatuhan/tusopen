@@ -1,0 +1,11 @@
+id: pls_meme_rekonstruksiyonu_3
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Doku genişleticinin olumsuz yönleri nelerdir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_rekonstruksiyon, pce_rc_meme_rekonstruksiyonu]
+metin: "Enfeksiyon, deri nekrozu, yer değiştirme, kapsül oluşumu ve sık poliklinik kontrolü gerektirmesi."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_MEME_CERRAHİSİ_for_st_AT.txt

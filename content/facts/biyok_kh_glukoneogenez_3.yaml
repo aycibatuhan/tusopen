@@ -1,0 +1,10 @@
+id: biyok_kh_glukoneogenez_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glukoz-6-fosfataz eksikliği hangi hastalığı yapar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_glukoneogenez]
+metin: "Von Gierke hastalığı; serbest glukoz karaciğerden çıkamaz."

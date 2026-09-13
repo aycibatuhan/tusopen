@@ -1,0 +1,11 @@
+id: anat_endo_pineal_melatonin_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Görüntülemede orta hat işareti olarak kullanılan pineal yapısı?
+taksonomi:
+  - [ttbt, anatomi, anat_endokrin, anat_endo_pineal]
+metin: Kalsifiye corpora arenacea (beyin kumu, acervulus cerebri); yaşla birikir.
+# kaynak: 3._Sınıf_3.4_Anatomi_ENDOKRİN_SİSTEM_ÖĞRENCİ_versiyonu_2021_DrMY_(2).txt

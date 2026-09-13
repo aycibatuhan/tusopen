@@ -1,0 +1,11 @@
+id: uro_renal_travma_goruntuleme_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Künt ve penetran travmalarda renal hasar sıklığı nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_acil_ve_travma, uro_at_renal_travma]
+metin: "%8-10'dur."
+# kaynak: 4._Sınıf_Üroloji_Ürolojik_Acillerkısa.txt

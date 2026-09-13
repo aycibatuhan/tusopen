@@ -1,0 +1,14 @@
+id: gc_tir_komplikasyonlar_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tiroid cerrahisinin en kritik erken komplikasyonu?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_bas_boyun_tiroid
+  - gc_tir_komplikasyonlar
+metin: Boyun hematomuna bağlı akut solunum sıkıntısı.
+# kaynak: 3._Sınıf_3.4_Genel_cerrahi_thyroid_sunu_ST-animasyonlu_TÜRKÇE.txt, 4._Sınıf_Genel_Cerrahi_2_Serkan_Teksöz_PARATİROİDİN_CERRAHİ_HASTALIKLARI.txt

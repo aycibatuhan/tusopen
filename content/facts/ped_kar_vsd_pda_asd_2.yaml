@@ -1,0 +1,15 @@
+id: ped_kar_vsd_pda_asd_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: PDA'nin sıklığı nedir ve prematürede ne kadar artar?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_kardiyoloji
+  - ped_kar_asiyanotik
+metin: Termde 2000-2500 canlı doğumda 1; prematürede 8/1000, 1000 g altında %85'e ulaşır.
+
+# kaynak: 2._Sınıf_2.2_pediatri_asiyanotikKH_türkçe.txt, 4._Sınıf_Pediatri_Funda_Öztunç_pda_-asd_türkce.txt

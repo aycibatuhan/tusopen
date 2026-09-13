@@ -1,0 +1,15 @@
+id: enf_dokuntu_patogonomonik_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Meningokoksemi ve dissemine gonokoksemide döküntü ateşten ne sonra çıkar?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_genel_yaklasim
+  - enf_gy_ates_patogenezi
+metin: Meningokoksemi purpuraları 1-2 saat sonra; gonokoksemi lezyonları 2-7 gün sonra.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Ates__ve_do_ku_ntu__3.sınıf_(2).txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Anamnez_FM.txt

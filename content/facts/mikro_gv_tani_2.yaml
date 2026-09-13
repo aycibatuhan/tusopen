@@ -1,0 +1,11 @@
+id: mikro_gv_tani_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nükleer ve sitoplazmik inklüzyon yapan virüsler hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_tani]
+metin: "Nükleusta HSV-VZV, sitoplazmada kuduz-çiçek, her iki bölgede kızamık-CMV."
+# kaynak: yeni-2018-virüslerın_genel_özellikleri.txt

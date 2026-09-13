@@ -1,0 +1,11 @@
+id: farm_kv_antianginal_3
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nitrat toleransı nasıl önlenir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kardiyovaskuler, farm_kv_antianginal]
+metin: "Sülfidrilli maddeleri tüketir; nitrogliserinsiz periyot, N-asetilsistein, İV 40 mikrogram/dk üstü değil."
+# kaynak: 2._Sınıf_2.2_Farmakoloji_antianjinal_ilaçlar_2018sonnöğrenciii.txt, 2._Sınıf_2.2_Farmakoloji_ANTİANGİNAL_İLAÇLAR2019_öğrenci_(1).txt

@@ -1,0 +1,11 @@
+id: nor_ph_tani_kriterleri_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Parkinson'da levodopa yanıtının destekleyici eşiği nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_hareket_bozukluklari, noro_hb_parkinson]
+metin: "İyi-mükemmel yanıt (%70-100) ve levodopayla diskinezi gelişmesi."
+# kaynak: 5.sınıf_Nöroloji_Hipokinetik_Hareket_Bozuklukları_dr_g_kiziltan.txt

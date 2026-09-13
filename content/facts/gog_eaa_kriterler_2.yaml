@@ -1,0 +1,11 @@
+id: gog_eaa_kriterler_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipersensitivite pnömonisinde esas tanı kriterleri nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_hipersensitivite]
+metin: "Uygun antijen teması, serum presipitinler, maruziyetle tetiklenen belirtiler, grafide infiltrat."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Meslek_hastalıkları_ders_(2).txt

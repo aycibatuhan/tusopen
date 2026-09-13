@@ -1,0 +1,11 @@
+id: der_urtiker_klinik_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ürtiker patogenezinin efektör hücresi ve mediyatörü nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_urtiker_ilac, derm_ui_urtiker_anjioodem]
+metin: "Mast hücresi ve histamin; yaşam boyu prevalans yaklaşık %20."
+# kaynak: 5.sınıf_Dermatoloji_u_rtiker_ders.txt

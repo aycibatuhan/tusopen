@@ -1,0 +1,11 @@
+id: psik_antisosyal_kb_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Antisosyal kişilik bozukluğu tanısı için yaş ölütleri nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_kisilik, psik_kb_b_kumesi]
+metin: "En az 18 yaş; 15 yaş öncesi başlayan davranım bozukluğu kanıtı."
+# kaynak: 5.sınıf_PSİKİYATRİ_KİŞİLİK_BOZ_yeni.txt

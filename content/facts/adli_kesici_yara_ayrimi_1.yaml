@@ -1,0 +1,11 @@
+id: adli_kesici_yara_ayrimi_1
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Künt cisim yarasının özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_yara_balistik, adl_yb_kesici_delici]
+metin: "Parçalı dudaklar, çevrede ekimoz-sıyrık, kopmamış damar-sinir köprüleri, kemikte kırık."
+# kaynak: 5.sınıf_Adli_Tıp_YARALAR_PROF._DR._GÜRSEL_ÇETİN.txt

@@ -1,0 +1,11 @@
+id: nor_se_basamakli_tedavi_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Damar yolu açıksa status epileptikusta ilk ilaç nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_epilepsi, noro_ep_status]
+metin: "IV diazepam 5-10 mg bolus (maksimum 20 mg, 5 mg/dk)."
+# kaynak: 5.sınıf_Nöroloji_staj_tedavi_2022_o_g_renci_kopya.txt

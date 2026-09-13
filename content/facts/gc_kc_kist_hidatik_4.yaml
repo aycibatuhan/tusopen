@@ -1,0 +1,14 @@
+id: gc_kc_kist_hidatik_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kist hidatikte serolojik tanı testi ve pozitifliği?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_karaciger
+  - gc_kc_kist_hidatik
+metin: ELISA %85 pozitif; eozinofili %30 hastada görülür.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Ender_Dulundu_CTF_Kist_hidatik_abse_parazit_Ders.txt

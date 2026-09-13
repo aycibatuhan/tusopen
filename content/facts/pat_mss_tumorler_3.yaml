@@ -1,0 +1,10 @@
+id: pat_mss_tumorler_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Psammom cisimcikli, kadınlarda sık iyi huylu MSS tümörü?"
+taksonomi:
+  - [ttbt, patoloji, pat_mss, pat_mss_tumorler]
+metin: "Meningiom."

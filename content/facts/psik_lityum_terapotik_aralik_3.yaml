@@ -1,0 +1,11 @@
+id: psik_lityum_terapotik_aralik_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Agresyon ve dürtüselliği azaltan anti-intihar etkisi olan tek klasik dengeleyici hangisidir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_duygudurum, psik_dd_duygudurum_dengeleyici]
+metin: "Lityum."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt, 5.sınıf_PSİKİYATRİ_duygudurumbozuklukları-5.sınıf_yeniii.txt

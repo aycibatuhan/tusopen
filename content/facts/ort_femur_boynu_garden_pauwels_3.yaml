@@ -1,0 +1,11 @@
+id: ort_femur_boynu_garden_pauwels_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Femur boyun kırığında avasküler nekroz ve kaynamama oranı nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_femur_boynu]
+metin: "Olguların %10'unda gelişir; greftleme gerekebilir."
+# kaynak: 5.sınıf_Ortopedi_FEMUR_KIRIKLARI.txt

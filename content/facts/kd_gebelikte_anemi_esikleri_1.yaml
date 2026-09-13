@@ -1,0 +1,11 @@
+id: kd_gebelikte_anemi_esikleri_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebelikte 1. ve 3. trimester anemi eşiği nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_hastaliklari, kd_gh_anemi_hematolojik]
+metin: "Hb <11 g/dL (Htc <%33); 2. trimesterde Hb <10,5 g/dL (Htc <%32)."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_T3Antenatal_takip.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_GEBELİKTE_MATERNAL_ADAPTASYON_(yeni).txt

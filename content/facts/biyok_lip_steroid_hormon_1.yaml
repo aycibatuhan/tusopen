@@ -1,0 +1,10 @@
+id: biyok_lip_steroid_hormon_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tüm steroid sentezinin giriş reaksiyonu nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_steroid_hormon]
+metin: "Kolesterolün desmolaz ile pregnenolona çevrilmesi."

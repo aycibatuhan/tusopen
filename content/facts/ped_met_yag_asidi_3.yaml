@@ -1,0 +1,14 @@
+id: ped_met_yag_asidi_3
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hangi yağ asidi oksidasyon defektinde retinopati ve nöropati vardır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_yag_asidi_oksidasyon
+metin: LCHAD/TFP eksikliğinde; HELLP veya akut yağlı karaciğer öykülü annelerin bebeklerinde defekt araştırılmalıdır.
+

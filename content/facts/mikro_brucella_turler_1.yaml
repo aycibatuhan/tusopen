@@ -1,0 +1,11 @@
+id: mikro_brucella_turler_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Brucella türlerinin rezervuar hayvanları hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_brucella]
+metin: "B. melitensis koyun-keçi, B. abortus sığır, B. suis domuz, B. canis köpektir."
+# kaynak: Brucella_cinsi_bakteriler.txt

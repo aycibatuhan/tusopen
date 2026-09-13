@@ -1,0 +1,11 @@
+id: biyok_kh_disakkarit_bag_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nişastanın bileşimi ve iyot renk tepkimesi nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_yapi]
+metin: "Amiloz yüzde 20, amilopektin 80; iyotla nişasta mavi, glikojen kırmızı."
+# kaynak: 1._Sınıf_1.1_Biyokimya____2018.10.04__Monosakkaritler__Glikozidler__Oligosakkaritler.txt, 1._Sınıf_1.1_Biyokimya____2018.09.20__Biyomoleküller_Genel_Yapısal_Özellikler.txt

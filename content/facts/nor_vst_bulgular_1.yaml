@@ -1,0 +1,11 @@
+id: nor_vst_bulgular_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serebral venöz sinüs trombozunda en sık tutulan sinüs hangisidir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_venoz_tromboz]
+metin: "Superior sagital sinüs (olguların %70'inden fazlası)."
+# kaynak: 5.sınıf_Nöroloji_nörolojik_aciller_ders.txt

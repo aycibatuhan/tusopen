@@ -1,0 +1,11 @@
+id: psik_lamotrijin_ras_2
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lamotrijinde yavaş titrasyonun amacı nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_duygudurum, psik_dd_duygudurum_dengeleyici]
+metin: "Stevens-Johnson sendromu ve toksik epidermal nekroliz riski."
+# kaynak: 5.sınıf_PSİKİYATRİ_duygudurumbozuklukları-5.sınıf_yeniii.txt, 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt

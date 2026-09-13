@@ -1,0 +1,11 @@
+id: ort_asetabulum_kalca_cikigi_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Posterior kalça çıkığında siyatik sinir yaralanması sıklığı nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_asetabulum_kalca_cikigi]
+metin: "Olguların %10-20'sinde foot drop ile eşlik eder."
+# kaynak: 5.sınıf_Ortopedi_Travmatik_kalça_çıkıkları_ve_pelvis_kırıkları.txt, 5.sınıf_Ortopedi_Complications_.txt

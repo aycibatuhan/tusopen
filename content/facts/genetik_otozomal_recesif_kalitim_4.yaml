@@ -1,0 +1,14 @@
+id: genetik_otozomal_recesif_kalitim_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Otozomal resesif hastalıklara örnekler nelerdir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_mendelian_kalitim
+metin: Kistik fibrozis, Tay-Sachs, orak hücre anemisi, talasemi.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_1_Mendeliyan_Hastalıklar_2020_2021.txt

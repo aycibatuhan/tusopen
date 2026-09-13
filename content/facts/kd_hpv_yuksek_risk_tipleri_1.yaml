@@ -1,0 +1,11 @@
+id: kd_hpv_yuksek_risk_tipleri_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serviks kanserinin en önemli yüksek riskli HPV tipleri hangileridir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_genital_enfeksiyonlar, kd_ge_hpv]
+metin: "HPV 16 ve 18; onkojenik tipler: 16, 18, 31, 33, 35 ile 39, 45, 51, 52, 56, 58, 59, 68, 73 ve 82."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_preinvaziv_serviks_3_sınıf_ders-1._bölüm.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Gynecologic_cancer_2019.txt

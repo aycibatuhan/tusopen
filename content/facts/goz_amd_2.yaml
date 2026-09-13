@@ -1,0 +1,11 @@
+id: goz_amd_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AMD'de orta evre (kategori 3) tanımı nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_yasa_bagli_makula]
+metin: "Fovea merkezini tutmayan coğrafik atrofi ya da en az bir büyük drusen."
+# kaynak: 5.sınıf_Göz_Hastalıkları_MAKULA_HASTALIKLARI.txt, 5.sınıf_Göz_Hastalıkları_DISEASES_OF_VITREOUS_AND_RETINA.txt

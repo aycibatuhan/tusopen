@@ -1,0 +1,11 @@
+id: goz_ani_gorme_kaybi_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Monoküler ve binoküler ani görme kaybı nasıl ayrılır?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_travma, goz_tr_ani_gorme_kaybi]
+metin: "Monoküler gözle ilişkili, binoküler serebral kaynaklı sorunu gösterir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_ANİ_KÖRLÜKLER.txt

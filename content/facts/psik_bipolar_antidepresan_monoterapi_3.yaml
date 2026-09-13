@@ -1,0 +1,11 @@
+id: psik_bipolar_antidepresan_monoterapi_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bipolar bozukluğa bağlı ölümlerin yüzde kaçı intihardır?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_duygudurum, psik_dd_bipolar]
+metin: "%10-15."
+# kaynak: 5.sınıf_PSİKİYATRİ_duygudurumbozuklukları-5.sınıf_yeniii.txt

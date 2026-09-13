@@ -1,0 +1,11 @@
+id: dah_tiroid_nodul_usg_iab_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fizik muayenede maligniteyi düşündüren tiroid nodül özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_tiroid_nodul_kanser]
+metin: "Sert veya fikse nodül, vokal kord paralizisi, bası bulguları, lateral servikal lenfadenopati."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_tiroidnodullerivetiroidkanseri.txt

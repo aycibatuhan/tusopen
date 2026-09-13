@@ -1,0 +1,11 @@
+id: dah_aps_tip1_tip2_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "APS tip 2'nin tipik bileşenleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_men_poliglanduler]
+metin: "Adrenal yetmezlik (~%100), otoimmün tiroid hastalığı (%70), tip 1 diyabet (%10-50)."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Erkek_Reprodüktif_Sistem_Hst.txt, 3._Sınıf_3.4_İç_hastalıkları_Kadın_Reprodüktif_Sistem_Hst.txt

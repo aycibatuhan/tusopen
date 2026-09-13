@@ -1,0 +1,15 @@
+id: enf_hiv_tani_dogal_seyir_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kan transfüzyonu ve perinatal yolla HIV bulaş riski kaçtır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hiv
+  - enf_hiv_tani_seyir
+metin: Kan transfüzyonu >%90, perinatal yolla %30-40.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_HIV_enfeksiyonu_(türkçe).txt

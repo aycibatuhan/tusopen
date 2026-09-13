@@ -1,0 +1,11 @@
+id: fiz_sol_pulmoner_dolasim_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akciğerlerdeki kan hacmi ve egzersizdeki değişimi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_ventilasyon_perfuzyon]
+metin: "Dolaşımın yüzde 10'u (500 ml); kapillerler 80 ml, egzersizde 150-200 ml."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

@@ -1,0 +1,11 @@
+id: nor_gks_koma_esikleri_2
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Somnolans, stupor ve koma nasıl ayrılır?"
+taksonomi:
+  - [ktbt, noroloji, noro_muayene_tani, noro_mt_muayene]
+metin: "Somnolans: uyaranla uyanır; stupor: güçlükle uyarılır; koma: uyandırılamaz."
+# kaynak: 5.sınıf_Nöroloji_nörolojik_aciller_ders.txt

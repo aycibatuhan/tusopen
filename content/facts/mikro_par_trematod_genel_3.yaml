@@ -1,0 +1,11 @@
+id: mikro_par_trematod_genel_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sestodların yapısal özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_trematod]
+metin: "Şerit biçimli hermafrodit; skoleks-halkalar, yumurtada 3 çift çengel."
+# kaynak: Protozoon_ve_Helmintlerin_Genel_Özellikleri.txt

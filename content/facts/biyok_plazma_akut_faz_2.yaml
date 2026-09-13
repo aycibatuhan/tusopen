@@ -1,0 +1,11 @@
+id: biyok_plazma_akut_faz_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pozitif akut faz reaktanları hangileridir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_plazma_proteinleri]
+metin: "CRP, alfa1-antitripsin, haptoglobin, alfa1-asit glikoprotein, fibrinojen, serüloplazmin, C3-C4."
+# kaynak: 1._Sınıf_1.1_Biyokimya_2018.10.25__Serum_Proteinleri_İmmunoglobulinler__Akut_faz_reaktanları.txt

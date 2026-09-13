@@ -1,0 +1,11 @@
+id: anes_la_toksisite_lipid_emulsiyonu_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "LA toksisitesinde lipid emülsiyonu şeması nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_rejyonal, anes_ra_lokal_anestezikler]
+metin: "%20 lipid; bolus 1.5 mL/kg, infüzyon 0.25 mL/kg/dak, toplam en fazla 3 mL/kg."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_LA_Ders_FA_Eylül_2021.txt

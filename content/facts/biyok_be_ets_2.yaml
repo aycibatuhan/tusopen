@@ -1,0 +1,10 @@
+id: biyok_be_ets_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Proton pompalayan kompleksler ve son elektron alıcısı nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_biyoenerjetik, biyok_be_ets]
+metin: "I, III ve IV pompalar; son alıcı oksijen, kompleks IV'te suya indirgenir."

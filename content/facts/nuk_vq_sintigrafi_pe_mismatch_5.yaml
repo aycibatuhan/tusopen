@@ -1,0 +1,11 @@
+id: nuk_vq_sintigrafi_pe_mismatch_5
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ventilasyon sintigrafisinde kullanılan ajanlar ve en iyileri nelerdir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_pulmoner, nt_pl_ventilasyon_perfuzyon]
+metin: "İnert gazlar (Xe-133 ve Kr-81m) ile işaretli aerosoller; en optimal Kr-81m, en ideal görüntü Technegas."
+# kaynak: 5.sınıf_Nükleer_Tıp_Akciğer_hastalıklarında_Nükleer_Tıp_2022.txt

@@ -1,0 +1,10 @@
+id: fiz_endo_kalsiyum_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serum kalsiyumunun normal aralığı nedir ve kaçta kaçı iyonizedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_kalsiyum]
+metin: "Yaklaşık 8,5-10,5 mg/dL; yaklaşık yarısı iyonize biçimdedir."

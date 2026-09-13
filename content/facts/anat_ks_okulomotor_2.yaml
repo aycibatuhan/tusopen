@@ -1,0 +1,10 @@
+id: anat_ks_okulomotor_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Uncal herniasyonda neden önce pupil genişler?
+taksonomi:
+  - [ttbt, anatomi, anat_kranial_sinirler, anat_ks_okulomotor]
+metin: Pupiller parasempatik lifler sinirin yüzeyel kısmında seyreder; diyabetik palside pupil korunur.

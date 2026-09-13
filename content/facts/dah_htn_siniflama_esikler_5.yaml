@@ -1,0 +1,11 @@
+id: dah_htn_siniflama_esikler_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipertansiyon tanısı için kaç vizitte ölçüm gerekir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_kardiyovaskuler, dah_kv_hipertansiyon_yonetimi]
+metin: "Oturur pozisyonda iki vizitte sistolik 140 veya diyastolik 90 üzeri yeterlidir."
+# kaynak: 2._Sınıf_2.2_kardiyoloji_2.Sınıf-HİPERTANSİYON.txt

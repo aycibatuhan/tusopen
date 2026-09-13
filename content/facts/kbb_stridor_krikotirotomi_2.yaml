@@ -1,0 +1,11 @@
+id: kbb_stridor_krikotirotomi_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Krikotirotominin en önemli komplikasyonu nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_larinks, kbb_lr_trakeotomi]
+metin: "Subglottik stenoz; merkeze ulaşınca hava yolu trakeotomiyle sağlanmalı."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

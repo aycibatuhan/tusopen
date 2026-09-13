@@ -1,0 +1,11 @@
+id: kd_semen_analizi_who_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "WHO 2010'da motilite, morfoloji, canlılık ve lökosit sınırları?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_infertilite, kd_inf_erkek_faktoru]
+metin: "Toplam motilite ≥%40, progresif ≥%32, morfoloji ≥%4, canlılık ≥%58, lökosit ≤1 milyon/mL."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ÜYT.txt

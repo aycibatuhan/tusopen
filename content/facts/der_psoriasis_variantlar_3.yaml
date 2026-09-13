@@ -1,0 +1,11 @@
+id: der_psoriasis_variantlar_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "von Zumbusch ve Barber tipi püstüler psoriasis nasıl ayrılır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_papuloskuamoz, derm_ps_psoriasis]
+metin: "von Zumbusch: generalize, sistemik bulgularla; Barber: palmoplantar, sistemik bulgusuz."
+# kaynak: 5.sınıf_Dermatoloji_psoriasis.txt, 5.sınıf_Dermatoloji_ZK-Psoriasis_and_Psoriasiform_diseases.txt

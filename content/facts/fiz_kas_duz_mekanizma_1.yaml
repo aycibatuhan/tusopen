@@ -1,0 +1,11 @@
+id: fiz_kas_duz_mekanizma_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Düz kasta kasılma ve gevşeme sırası nasıl ilerler?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kas, fiz_kas_duz]
+metin: "Ca++-kalmodulin miyozin hafif zincir kinazını aktive eder; fosfataz defosforilasyonla gevşetir."
+# kaynak: 16-Düz_Kasın_Kasılma_ve_Gevşemesinin_İyonik_Temelleri.txt, 15-Düz_Kasın_Hücresel_ve_Elektriksel_Özellikleri.txt

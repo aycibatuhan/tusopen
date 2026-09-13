@@ -1,0 +1,11 @@
+id: kbb_temporal_kemik_kirigi_tipleri_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Temporal kırıklar longitudinal ve transvers olarak nasıl sınıflanır?"
+taksonomi:
+  - [ktbt, kbb, kbb_ic_kulak, kbb_ik_temporal_kemik_kirigi]
+metin: "Petröz kemiğin uzun eksenine paralel veya dik olmalarına göre."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

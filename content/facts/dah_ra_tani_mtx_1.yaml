@@ -1,0 +1,11 @@
+id: dah_ra_tani_mtx_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RF ve anti-CCP RA'da nasıl yorumlanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_romatoid_artrit]
+metin: "%70'te pozitif ama tek başına tanı koydurmaz; yüksek titre kötü prognoz gösterir."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_RomatoidArtrit_Nisan2020.txt

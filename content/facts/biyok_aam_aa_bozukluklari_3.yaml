@@ -1,0 +1,10 @@
+id: biyok_aam_aa_bozukluklari_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BH4 eksikliğine bağlı hiperfenilalaninemide tedavi nasıl farklıdır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_metabolizma, biyok_aam_aa_bozukluklari]
+metin: "Nörotransmitter eksikliği eklenir; kofaktör BH4 desteği de gerekir."

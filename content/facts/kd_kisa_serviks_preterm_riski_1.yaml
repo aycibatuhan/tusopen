@@ -1,0 +1,11 @@
+id: kd_kisa_serviks_preterm_riski_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Transvaginal USG'de kısa serviks eşiği nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_preterm_postterm, kd_pp_preterm_eylem]
+metin: "16-24. haftada serviks uzunluğu ≤25 mm; gebelikte ortalama ~36 mm."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_T3Antenatal_takip.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Obstetride_Tanısal_Testler_ve_Metodlar26.11.2018.txt

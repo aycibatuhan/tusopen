@@ -1,0 +1,11 @@
+id: der_pemfigus_vulgaris_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pemfigus vulgaris erozyonlarının iyileşme özelliği nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_pemfigus]
+metin: "Skatris bırakmadan iyileşir; dolaşan antikor titresi aktiviteyle paraleldir."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

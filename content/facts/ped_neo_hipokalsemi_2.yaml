@@ -1,0 +1,15 @@
+id: ped_neo_hipokalsemi_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Neonatal hipokalseminin erken ve geç tipleri nasıl ayrılır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_hipokalsemi
+metin: Erken tip ilk 2-5 günde (prematürite, diyabetik anne, asfiksi, sepsis); geç tip 5-7. günden sonra (yüksek fosforlu beslenme, hipoparatiroidi).
+
+# kaynak: 4._Sınıf_Pediatri_Ersin_Ulu_yenidoğan_metabolik_sorunları_kopya.txt

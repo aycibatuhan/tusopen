@@ -1,0 +1,18 @@
+id: kd_gf_antikoag_gebelik_4
+version: 1
+status: draft
+author: ai-drafts/kadin-dogum-antikoagulasyon
+sources:
+- CHEST 2016 Antitrombotik Tedavi ve VTE Rehberi (Bates ve ark.) ve RCOG gebelikte tromboz yönetimi rehberi — referans olarak listelendi, metin projesi özgün yazımdır
+- ASH venöz tromboemboli rehberleri gebelik bölümü — referans olarak listelendi
+ad: "Emzirme döneminde hangi antikoagülanlar güvenle kullanılabilir?"
+taksonomi:
+- - ktbt
+  - kadin_dogum
+  - kd_gebelik_hastaliklari
+  - kd_gh_tromboembolizm
+- - ktbt
+  - kadin_dogum
+  - kd_gebelik_fizyolojisi
+  - kd_gf_gebelikte_ilac
+metin: "Warfarin ve heparinler; doğuma yaklaşıldığında damar yoluyla UFH'ye geçilir."

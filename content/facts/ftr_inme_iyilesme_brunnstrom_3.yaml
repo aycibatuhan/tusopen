@@ -1,0 +1,11 @@
+id: ftr_inme_iyilesme_brunnstrom_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnmada en sık görülen sinerji paternleri nelerdir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_inme]
+metin: "Üst ekstremitede fleksör, alt ekstremitede ekstansör."
+# kaynak: 5.sınıf_FTR_İnmeRehab.txt

@@ -1,0 +1,11 @@
+id: fiz_kv_ekg_dalga_sureleri_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "EKG kağıdının hız, kalibrasyon ve kalp hızı formülü nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kalp_elektrofizyoloji]
+metin: "25 mm/sn, 1 kare 0.04 sn; kalibrasyon 10 mm = 1 mV; hız 300/kare."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Elektrokardiyogram._2019-2020.txt

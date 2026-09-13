@@ -1,0 +1,14 @@
+id: gc_mide_bariatrik_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bariatrik cerrahi endikasyonundaki VKİ eşiği nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_mide_duodenum
+  - gc_mide_bariatrik
+metin: VKİ ≥40 veya 35-40 + obeziteye bağlı komorbidite (NIH 1991).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Kağan_Zengin_(Morbid_obezite)_4.Türk..txt

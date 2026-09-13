@@ -1,0 +1,11 @@
+id: bcy_servikal_stenoz_1
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal servikal spinal kanal çapı ve stenoz eşiği nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_spinal_patoloji, bce_sp_spinal_stenoz]
+metin: "Normal yaklaşık 17 mm; 12 mm altı stenoz kabul edilir."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Spinal_Dejeneratif_Hastalıklar_O.U.txt

@@ -1,0 +1,11 @@
+id: ort_skolyoz_cobb_esikleri_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İdiopatik skolyoz yaş tipleri nasıl ayrılır?"
+taksonomi:
+  - [ktbt, ortopedi, orto_omurga, orto_om_skolyoz]
+metin: "İnfantil 3 yaş altı, juvenil 3-10 yaş, adölesan 10 yaş ile iskelet olgunluğu arası."
+# kaynak: 5.sınıf_Ortopedi_SKOLYOZ.txt

@@ -1,0 +1,11 @@
+id: mikro_gb_patogenez_kapsul_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bakteri kapsülünün istisna kimyasal yapıları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_patogenez]
+metin: "B. anthracis kapsülü polipeptid, S. pyogenes kapsülü hiyalüronik asittir; çoğu polisakkarittir."
+# kaynak: Bakteri_ve_İnsan.txt

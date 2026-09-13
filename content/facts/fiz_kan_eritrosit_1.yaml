@@ -1,0 +1,10 @@
+id: fiz_kan_eritrosit_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Eritrositlerin dolaşımdaki ömrü ve yıkım yeri nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_eritrosit]
+metin: "Yaklaşık 120 gün; dalak ve karaciğer makrofajlarında parçalanır."

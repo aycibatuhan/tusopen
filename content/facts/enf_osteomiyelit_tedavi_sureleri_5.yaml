@@ -1,0 +1,15 @@
+id: enf_osteomiyelit_tedavi_sureleri_5
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Komşuluk yoluyla gelişen osteomiyelitte tedavinin esası nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_osteomiyelit
+metin: Drenaj, debridman ve yabancı cisim çıkarımı.
+
+# kaynak: 2._Sınıf_2.1_Enfeksiyon_septik_artrit_ve_osteomyelit_2019.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Kemik-eklem_enfeksiyonları-2015-son.txt

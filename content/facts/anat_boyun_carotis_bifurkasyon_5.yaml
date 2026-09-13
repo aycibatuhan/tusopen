@@ -1,0 +1,11 @@
+id: anat_boyun_carotis_bifurkasyon_5
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Trigonum caroticum'da hangi sinirler seyreder?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_damarlar]
+metin: N. hypoglossus, n. laryngeus superior, ansa cervicalis ve n. accessorius.
+# kaynak: 3._Sınıf_3.3_Anatomi_3-3_Boyun_Topografik_Anatomisi.txt

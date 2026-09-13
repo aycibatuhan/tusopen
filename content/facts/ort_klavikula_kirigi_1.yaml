@@ -1,0 +1,11 @@
+id: ort_klavikula_kirigi_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klavikula kırığı en sık nerede görülür ve temel tedavisi nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_ust_ekstremite_travma, orto_ue_klavikula_skapula]
+metin: "Orta şaftta; çoğunlukla askı veya 8 bandajı."
+# kaynak: 5.sınıf_Ortopedi_Omuz_ve_Dirsek_Yaralanmaları.txt, 5.sınıf_Ortopedi_Ortopedi_ve_Travmatoloji_de_Radyolojik_Değerlendirme.txt

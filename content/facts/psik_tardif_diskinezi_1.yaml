@@ -1,0 +1,11 @@
+id: psik_tardif_diskinezi_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tardif diskinezide hareketler ne zaman artar ve ne zaman görülmez?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikofarmakoloji, psik_pf_ekstrapiramidal]
+metin: "Uyarılma ve hareketle artar; rahatlama ve uykuda görülmez."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt

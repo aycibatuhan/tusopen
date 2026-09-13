@@ -1,0 +1,11 @@
+id: fiz_gis_karaciger_dolasim_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hepatik arter ve portal venin akım miktarları nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_karaciger]
+metin: "Hepatik arter yaklaşık 400, portal ven yaklaşık 1000 ml/dk."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_9.SAFRANINI_OLUŞUMU_VE_SİNDİRİMDEKİ_ROLÜ_03042020_sae.txt

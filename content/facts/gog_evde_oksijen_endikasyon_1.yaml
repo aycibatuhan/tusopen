@@ -1,0 +1,11 @@
+id: gog_evde_oksijen_endikasyon_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uzamış oksijen tedavisinin istirahat endikasyon eşiği nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_solunum_yetmezligi, gog_sy_oksijen_tedavisi]
+metin: "2-4 haftalık maksimal tedaviye rağmen PaO2 55 mmHg ve altı veya SaO2 %88 ve altı."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Solnum_yetmezliği__Oksijen_tedavisi.txt

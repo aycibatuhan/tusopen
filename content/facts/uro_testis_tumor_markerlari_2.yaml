@@ -1,0 +1,11 @@
+id: uro_testis_tumor_markerlari_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AFPnin yarı ömürü ve özelliği nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_testis_tumorleri]
+metin: "5-7 gün; seminomda yükselmez."
+# kaynak: 4._Sınıf_Üroloji_Testis_tm_sunum_MHG.txt, 3._Sınıf_3.2_Üroloji_Üroonkolojiye_Giriş_-_Doç._Dr._Çetin_DEMİRDAĞ.txt

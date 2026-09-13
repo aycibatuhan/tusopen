@@ -1,0 +1,11 @@
+id: hsag_ep_tarama_tani_testi_2
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tanı testinin performansı neye göre değerlendirilir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_epidemiyoloji, hs_ep_metodolojik]
+metin: "Altın standart yöntemin sonuçlarına gösterdiği uyum düzeyiyle."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD5_Tanı_testleri__duyarlılık__özgüllük__prediktif_değerler__ROC_eğrisi.txt

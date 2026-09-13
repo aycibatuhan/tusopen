@@ -1,0 +1,11 @@
+id: nuk_kemik_metastaz_superscan_1
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tc-99m MDP kemik sintigrafisinde nereye tutulur?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_kemik, nt_km_metastaz]
+metin: "Hidroksiapatit kristallerinde; tutulum kan akımı ve osteoblastik aktiviteye bağlıdır."
+# kaynak: 5.sınıf_Nükleer_Tıp_Kemik_Sintigrafisi-Nükleer_Tıp_staj-_5._sınıf_(1).txt

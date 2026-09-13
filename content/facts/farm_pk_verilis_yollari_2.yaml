@@ -1,0 +1,11 @@
+id: farm_pk_verilis_yollari_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Oral farmasötik şekillerin emilim hızı sırası?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakokinetik, farm_pk_verilis_yollari]
+metin: "Çözelti > emülsiyon > süspansiyon > kapsül > tablet."
+# kaynak: 1._Sınıf_1.4_Farmakoloji_İLAÇLARIN_UYGULAMA_YERLERİ-Ders_SUNU.txt

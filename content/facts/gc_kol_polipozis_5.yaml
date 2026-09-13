@@ -1,0 +1,14 @@
+id: gc_kol_polipozis_5
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Peutz-Jeghers sendromunun özellikleri nelerdir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_kolon_rektum_anus
+  - gc_kol_polipozis
+metin: STK11 mutasyonu; hamartom polipler + müko-kütanöz pigmentasyon; %10 kanser riski.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Süphan_Ertürk_KR_Polipler.txt

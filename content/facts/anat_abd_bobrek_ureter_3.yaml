@@ -1,0 +1,11 @@
+id: anat_abd_bobrek_ureter_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Böbreği dıştan içe saran örtüler hangileridir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_bobrek_ureter]
+metin: Capsula fibrosa, capsula adiposa, fascia renalis ve pararenal yağ dokusu.
+# kaynak: 3._Sınıf_3.2_Anatomi_üriner_sistem_2020.txt

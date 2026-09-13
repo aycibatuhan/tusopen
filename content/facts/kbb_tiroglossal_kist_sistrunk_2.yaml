@@ -1,0 +1,11 @@
+id: kbb_tiroglossal_kist_sistrunk_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tiroglossal duktus kistinin tedavisi nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_boyun, kbb_by_konjenital_kitleler]
+metin: "Sistrunk ameliyatı."
+# kaynak: 5.sınıf_KBB_Boyun_Kitleleri_ders_notları_2016.txt

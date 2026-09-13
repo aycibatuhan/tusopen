@@ -1,0 +1,11 @@
+id: goz_retinoblastom_2
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Retinoblastomda BT'de kalsifikasyon saptanma oranı nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_retinoblastom]
+metin: "%95 olguda; doku biyopsisi kontrendikedir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_goz_ıcı_tumorleri.txt

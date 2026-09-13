@@ -1,0 +1,11 @@
+id: ftr_ra_tani_kriterleri_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "1987 ACR romatoid artrit kriterleri nasıl uygulanır?"
+taksonomi:
+  - [ktbt, ftr, ftr_romatizmal, ftr_rm_romatoid_artrit_rehab]
+metin: "Yedi kriterden dördünün sağlanması tanı için yeterlidir."
+# kaynak: 5.sınıf_FTR_ROMATOİD_ARTRİT__Otomatik_kaydedilme_.txt

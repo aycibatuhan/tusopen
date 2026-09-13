@@ -1,0 +1,10 @@
+id: farm_tok_agir_metal_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ağır metallerin toksik mekanizması?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_toksikoloji, farm_tok_agir_metal]
+metin: "Enzimlerdeki tiyol gruplarına bağlanma; şelatlayıcılar kompleksle atılımı hızlandırır."

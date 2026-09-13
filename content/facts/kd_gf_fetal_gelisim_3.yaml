@@ -1,0 +1,10 @@
+id: kd_gf_fetal_gelisim_3
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fetal akciğer olgunluğu hangi haftada yeterli düzeye ulaşır?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_fetal_gelisim]
+metin: "Surfaktan 24. haftada başlar, 34-36. haftada yeterli; L/S oranı 2 üzeri."

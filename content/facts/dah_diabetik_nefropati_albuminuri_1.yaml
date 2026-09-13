@@ -1,0 +1,11 @@
+id: dah_diabetik_nefropati_albuminuri_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Albüminüri kategori eşikleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_diyabetik_nefropati]
+metin: "30 mg/g altı normal; 30-299 orta derece; 300 ve üzeri ileri derece."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Bo_brek.txt

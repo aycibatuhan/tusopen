@@ -1,0 +1,10 @@
+id: biyok_nuk_bozukluklar_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lesch-Nyhan sendromunun bulguları nelerdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_nukleotid, biyok_nuk_bozukluklar]
+metin: "Hiperürisemi, koreoatetoz, zihinsel gerilik ve kendi kendine zarar verme."

@@ -1,0 +1,13 @@
+id: gc_tp_sok_4
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sepsise bağlı şokta hedef MAP ve vazopressör?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_sok
+metin: MAP 65 mmHg üzeri; ilk seçim noradrenalin.

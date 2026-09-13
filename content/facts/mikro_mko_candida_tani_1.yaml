@@ -1,0 +1,11 @@
+id: mikro_mko_candida_tani_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C. albicans tür tanısında germ tüp deneyi nasıl yapılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_firsatci]
+metin: "İnsan serumunda 37 derecede 2-3 saatte germ tüpü aranır."
+# kaynak: Candida__C.neoformans_ve_diğer_maya_mantarları.txt, Mantarlara_karşı_immünite.txt

@@ -1,0 +1,11 @@
+id: der_atopik_dermatit_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Atopik dermatitli hastaların kaçında serum IgE yüksektir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_egzema, derm_eg_atopik]
+metin: "%80'inde; eozinofili de saptanabilir."
+# kaynak: 5.sınıf_Dermatoloji_ekzema_ders_ZAF.txt

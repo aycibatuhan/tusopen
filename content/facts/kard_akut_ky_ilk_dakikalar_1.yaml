@@ -1,0 +1,11 @@
+id: kard_akut_ky_ilk_dakikalar_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut KKYde ilk 10 dakikada ne yapılır?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_akut]
+metin: "Fizik muayeneyle tanı doğrulanır ve AMİ/iskemi ekarte edilir."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

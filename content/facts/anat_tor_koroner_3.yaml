@@ -1,0 +1,13 @@
+id: anat_tor_koroner_3
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sağ dominant dolaşım ne demektir?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_toraks
+  - anat_tor_koroner
+metin: Posterior inen arterin %80 oranında RCA'dan çıkması.

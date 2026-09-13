@@ -1,0 +1,15 @@
+id: enf_kotrimoksazol_ilk_secenek_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Fusidik asit ve rifampisin S. aureus infeksiyonunda nasıl kullanılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_antibiyotik_yonetimi
+metin: Tek başına asla kullanılmaz; kemik ve biyofilm infeksiyonlarında kombinasyon içinde değerlidir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt

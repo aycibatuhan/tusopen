@@ -1,0 +1,11 @@
+id: mikro_mko_cryptococcus_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Cryptococcus neoformans menenjit tanısında BOS boyaması nasıl yapılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_firsatci]
+metin: "Çin (Hint) mürekkebiyle boyanır; tomurcuklanan kapsüllü maya hücreleri aranır."
+# kaynak: Candida__C.neoformans_ve_diğer_maya_mantarları.txt, Mantarlara_karşı_immünite.txt

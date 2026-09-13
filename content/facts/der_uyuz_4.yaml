@@ -1,0 +1,11 @@
+id: der_uyuz_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Uyuz bulaşması için gereken temas süresi nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_skabiyez_pedikuloz]
+metin: "15-20 dakikalık yakın deriden deriye temas; akar vücut dışında 3 gün canlı kalır."
+# kaynak: 5.sınıf_Dermatoloji_ZK-Paraziter_hastalıklar10.txt

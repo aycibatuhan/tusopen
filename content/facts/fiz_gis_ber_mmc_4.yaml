@@ -1,0 +1,11 @@
+id: fiz_gis_ber_mmc_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Göç eden motor kompleksinin hızı, sıklığı ve düzenleyicisi nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_motilite]
+metin: "Yaklaşık 5 cm/dk, 90-120 dakikada bir; motilin başlatır, yemek sonlandırır."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_1._Ders_GIS_Nöral_Kontrolü_Sibel_2020.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_10.İNCE_VE_KALIN_BAĞIRSAK_HAREKETLERİ__İNCE_VE_KALIN_BAĞIRSAK_SALGILARI_4.4.2020_sae.txt

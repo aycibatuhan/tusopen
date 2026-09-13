@@ -1,0 +1,11 @@
+id: nuk_kemik_metastaz_superscan_4
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Superscan paterninin sintigrafik özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_kemik, nt_km_metastaz]
+metin: "Kemik-yumuşak doku oranı belirgin artar; böbrek aktivitesi silikleşir."
+# kaynak: 5.sınıf_Nükleer_Tıp_Kemik_Sintigrafisi-Nükleer_Tıp_staj-_5._sınıf_(1).txt

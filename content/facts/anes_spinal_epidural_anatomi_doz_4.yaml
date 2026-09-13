@@ -1,0 +1,11 @@
+id: anes_spinal_epidural_anatomi_doz_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Santral bloklarda hipotansiyon ve bradikardi nedeni nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_rejyonal, anes_ra_spinal]
+metin: "Sempatik blok (T5-L1) hipotansiyon; T1-4 kardiyoakseleratör lif bloğu bradikardi yapar."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Rejyonal_Anestezi_Ders_Mart_2022.txt

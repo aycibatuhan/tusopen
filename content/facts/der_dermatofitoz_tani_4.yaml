@@ -1,0 +1,11 @@
+id: der_dermatofitoz_tani_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Favusanın etkeni hangi dermatofittir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_fungal_parazit, derm_fp_dermatofitoz]
+metin: "Trichophyton schoenleinii; sarı-yeşil krutumsu scutulum ve skatrisyal alopesi tipiktir."
+# kaynak: 5.sınıf_Dermatoloji_SUPERFICIAL_FUNGAL_INFECTIONS.txt

@@ -1,0 +1,11 @@
+id: nor_narkolepsi_tip1_tani_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Katapleksi nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_uyku_bilinc, noro_ub_narkolepsi]
+metin: "Duygularla tetiklenen, 2 dakikadan kısa, bilinç korunmuş çizgili kas tonusu kaybı."
+# kaynak: 5.sınıf_Nöroloji_Uyku_Hastalıkları_5._sınıf_ders_2021.txt

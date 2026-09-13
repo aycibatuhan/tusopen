@@ -1,0 +1,11 @@
+id: ftr_cp_prevalans_risk_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serebral palsi prevalansı nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_pediatrik_rehabilitasyon, ftr_pr_serebral_palsi]
+metin: "Türkiye'de 4,4; dünya genelinde 1000 canlı doğumda 2-3."
+# kaynak: 5.sınıf_FTR_PedRehab.txt

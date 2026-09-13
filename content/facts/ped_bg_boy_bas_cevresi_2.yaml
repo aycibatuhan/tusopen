@@ -1,0 +1,15 @@
+id: ped_bg_boy_bas_cevresi_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Çocukta yıllık boy artışı yaşa göre kaç cm'dir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: 1-2 yaşta 10-12 cm, 2-3 yaşta 7 cm, 4-10 yaşta 5-6 cm.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜME_ve_GELİŞME-Sınıf_4.txt

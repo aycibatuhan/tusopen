@@ -1,0 +1,11 @@
+id: mikro_rna_rhabdo_pep_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kuduz inkübasyon dönemi nedir ve neyle kısalır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_rhabdo]
+metin: "20-90 gün; MSS-ye yakın, derin ve sinir bakımından zengin ısırıklarda kısalır."
+# kaynak: Rabdovirus_(kuduz).txt

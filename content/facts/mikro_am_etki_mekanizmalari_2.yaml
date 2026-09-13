@@ -1,0 +1,11 @@
+id: mikro_am_etki_mekanizmalari_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "30S ve 50S ribozomal alt birimlerine bağlanan antibiyotikler hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_etki_mekanizmalari]
+metin: "30S: aminoglikozidler, tetrasiklinler; 50S: makrolidler, linkozamidler, kloramfenikol, linezolid."
+# kaynak: antibiyotiklerin_etki_spektrumları15.txt

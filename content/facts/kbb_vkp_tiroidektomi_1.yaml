@@ -1,0 +1,11 @@
+id: kbb_vkp_tiroidektomi_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erişkin vokal kord paralizilerinin en sık nedeni nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_larinks, kbb_lr_vokal_kord_paralizisi]
+metin: "Tiroidektomiye bağlı cerrahi travma."
+# kaynak: 5.sınıf_KBB_VC_paralizi.txt, 5.sınıf_KBB_KBB_acilleri.txt

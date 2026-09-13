@@ -1,0 +1,10 @@
+id: mikro_imm_kompleman_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kompleman yollarını tetikleyen başlangıç öğeleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_kompleman]
+metin: "Klasik yol antijen-antikor kompleksi, alternatif yol mikrobik yüzey, lektin yolu mannan bağlayıcı lektin."

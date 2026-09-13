@@ -1,0 +1,11 @@
+id: der_erozyon_ulser_purpura_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Purpura diaskopide nasıl davranır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_temel, derm_tm_elemanter_lezyonlar]
+metin: "Eritem diaskopiyle kaybolmasına rağmen purpura (deri kanaması) kaybolmaz."
+# kaynak: 5.sınıf_Dermatoloji_DERİNİN_ELEMANTER_LEZYONLARI__ZAF.txt

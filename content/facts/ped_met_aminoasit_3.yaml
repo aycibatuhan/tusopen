@@ -1,0 +1,14 @@
+id: ped_met_aminoasit_3
+version: 1
+status: draft
+author: ai-drafts/gaps-fizyoloji-metabolik
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akçaağaç şurubu idrar hastalığında eksiklik ve tablo nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_metabolik
+  - ped_met_aminoasit
+metin: Dallanmış zincirli alfa-ketoasit dehidrojenaz eksikliği; akçaağaç şurubu kokulu idrarlı yenidoğan ensefalopatisi.
+

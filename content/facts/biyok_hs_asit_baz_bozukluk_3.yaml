@@ -1,0 +1,10 @@
+id: biyok_hs_asit_baz_bozukluk_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anyon açığı nasıl hesaplanır ve yüksekliği ne gösterir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_hucre_su, biyok_hs_asit_baz_bozukluk]
+metin: "Sodyumdan klor-bikarbonat toplamı çıkarılır (normal 12); laktat, ketoasit veya toksin düşündürür."

@@ -1,0 +1,11 @@
+id: anes_aclik_sureleri_premedikasyon_1
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Elektif anestezide en az açlık süreleri nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_preoperatif, anes_pre_aclik_premedikasyon]
+metin: "Berrak sıvılar 2, anne sütü 4, formül sütü-hafif yiyecekler 6, normal yiyecekler 8 saat."
+# kaynak: 4._Sınıf_Anestezi_1.txt

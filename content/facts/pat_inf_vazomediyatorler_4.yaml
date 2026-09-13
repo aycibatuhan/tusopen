@@ -1,0 +1,11 @@
+id: pat_inf_vazomediyatorler_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Başlıca kemotaktik maddeler hangileridir?"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_mediatorler]
+metin: "IL-8, C5a, lökotrien B4 ve erimiş bakteri ürünleri."
+# kaynak: 1._Sınıf_1.4_Patoloji_3-CTF_inflamasyon.txt

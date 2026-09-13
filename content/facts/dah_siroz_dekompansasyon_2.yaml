@@ -1,0 +1,11 @@
+id: dah_siroz_dekompansasyon_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sirozda kötü prognoz göstergeleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_siroz]
+metin: "Dirençli asit, ensefalopati, uzamış protrombin zamanı, albümin 2,5 altı, sodyum 120 altı."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_KARACİĞER_SİROZU.txt

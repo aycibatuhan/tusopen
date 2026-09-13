@@ -1,0 +1,11 @@
+id: fiz_kemik_remodeling_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "RANKL ve osteoprotegerin kemik döngüsünde ne yapar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_endokrin, fiz_endo_kalsiyum]
+metin: "RANKL osteoklast farklılaşmasını tetikler; OPG tuzak reseptör olarak yıkımı inhibe eder."
+# kaynak: 2._Sınıf_2.1_Fizyoloji_NuranKemik_Ders_Eylül_2019.txt

@@ -1,0 +1,11 @@
+id: pat_akc_atelektazi_ards_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ARDS'nin patolojik karşılığı nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_atelektazi_ards]
+metin: "Akut akciğer hasarı; erken dönemde alveollerde hyalen membranlar görülür."
+# kaynak: 2._Sınıf_2.3_Patoloji_2_solunum_Hast_2019.txt

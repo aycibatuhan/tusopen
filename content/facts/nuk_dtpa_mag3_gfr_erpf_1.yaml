@@ -1,0 +1,11 @@
+id: nuk_dtpa_mag3_gfr_erpf_1
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tc-99m DTPA hangi tip böbrek ajanıdır ve hangi fonksiyonu verir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_genitouriner, nt_gu_dinamik_bobrek]
+metin: "Glomerüler ajan; tamamen glomerülden filtredir, plazma klirensi doğrudan GFR verir."
+# kaynak: 5.sınıf_Nükleer_Tıp_nefroüroloji_psma_eklenmiş.txt

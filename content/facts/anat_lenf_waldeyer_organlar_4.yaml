@@ -1,0 +1,11 @@
+id: anat_lenf_waldeyer_organlar_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Thymus ne zaman geriler ve görevi nedir?
+taksonomi:
+  - [ttbt, anatomi, anat_lenfatik, anat_lenf_organlar]
+metin: Puberteye kadar 30-40 gr'a büyür, sonra geriler; T lenfosit dönüşüm yeri, timik hormon salgılar.
+# kaynak: 1._Sınıf_1.1_Anatomi_2018.10.01__Dolaşım_Sistemi.txt, 2._Sınıf_2.2_anatomi_lenfatik_sistem_öğrenci.txt

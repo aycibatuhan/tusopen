@@ -1,0 +1,11 @@
+id: der_stafilokoksik_haslanmis_deri_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Haşlanmış deri sendromunun klinik bulguları nelerdir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bakteriyel, derm_bk_stafilokoksik_toksin]
+metin: "Genel durum bozukluğu; yaygın eritem, sızıntılı yüzeyler ve geniş alanlarda soyulma."
+# kaynak: 5.sınıf_Dermatoloji_ZK-PİYODERMA.txt

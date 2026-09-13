@@ -1,0 +1,14 @@
+id: histo_sind_pleksuslar_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sindirim kanalı duvarının dört tabakası hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sindirim
+  - histo_sind_gis_duvar
+metin: Mukoza, submukoza, muskularis ve seroza/adventisya.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_sistemi_GIS_tabakalarıı_ve_özefagus.txt

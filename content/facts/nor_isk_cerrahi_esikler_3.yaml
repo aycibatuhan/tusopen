@@ -1,0 +1,11 @@
+id: nor_isk_cerrahi_esikler_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Derin yerleşimli (putaminal-talamik) kanamada cerrahi yaklaşım nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_intraserebral_kanama]
+metin: "Çoğu kez objektif yarar yoktur; derin komada girişim gereksizdir."
+# kaynak: 5.sınıf_Nöroloji_kanamalar_türkçe_2021_eylül.txt

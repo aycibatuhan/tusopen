@@ -1,0 +1,11 @@
+id: gog_tkp_tedavi_sureleri_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Etken bazlı pnömoni antibiyotik süreleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_toplum_pnomoni]
+metin: "Legionella 14-21 gün; pnömokokta 7-10 gün; Mycoplasma ile C. pneumoniae'de 10-14 gün."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_pnömoni.txt

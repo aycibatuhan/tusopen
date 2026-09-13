@@ -1,0 +1,10 @@
+id: pat_inf_granulomatoz_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yabancı cisim dev hücresinde çekirdekler nasıldır?"
+taksonomi:
+  - [ttbt, patoloji, pat_inflamasyon, pat_inf_granulomatoz]
+metin: "Düzensiz ve dağınık."

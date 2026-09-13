@@ -1,0 +1,13 @@
+id: histo_sind_barsaklar_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İnce bağırsakta mukus üreten hücreler hangileridir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sindirim
+  - histo_sind_barsaklar
+metin: Goblet hücreleri.

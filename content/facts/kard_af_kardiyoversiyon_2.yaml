@@ -1,0 +1,11 @@
+id: kard_af_kardiyoversiyon_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AF 48 saatten uzunsa kardiyoversiyon öncesi-sonrası antikoagülasyon?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_aritmiler, kard_ar_atriyal_fibrilasyon]
+metin: "Girişim öncesinde 3 hafta ve sonrasında 4 hafta antikoagülan gerekir."
+# kaynak: 5.sınıf_Kardiyoloji_Aritmi_Ders_Cerrahpas_a_2021-22.txt

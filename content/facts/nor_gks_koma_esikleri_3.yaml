@@ -1,0 +1,11 @@
+id: nor_gks_koma_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hava yolu güvenliği için entübasyon eşiği olan GKS değeri nedir?"
+taksonomi:
+  - [ktbt, noroloji, noro_muayene_tani, noro_mt_muayene]
+metin: "GKS 8 ve altı."
+# kaynak: 5.sınıf_Nöroloji_nörolojik_aciller_ders.txt

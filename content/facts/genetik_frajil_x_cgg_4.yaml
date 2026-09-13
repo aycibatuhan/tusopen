@@ -1,0 +1,14 @@
+id: genetik_frajil_x_cgg_4
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Frajil X'te tam mutasyon neden anneden geçer?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klasik_genetik
+  - tbg_kg_mendelian_kalitim
+metin: Sperm yalnız premutasyon büyüklüğünde allel taşır; baba tam mutasyonu aktarmaz.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_1_Mendeliyan_Hastalıklar_2020_2021.txt, 3._Sınıf_3.2_Tıbbi_genetik_2_Non-Mendeliyen_Hastalıklar_2020.txt, 3._Sınıf_3.2_Tıbbi_genetik_Frajil-X_Tıp_Öğr.2020.txt

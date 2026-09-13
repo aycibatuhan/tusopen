@@ -1,0 +1,11 @@
+id: dah_osteoporoz_dexa_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "DEXA'da T-skoru sınıflaması nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_osteoporoz]
+metin: "-1 üzeri normal; -1 ile -2,5 osteopeni; -2,5 ve altı osteoporoz."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_kalsiyumhomeostazivemetabolikkemik.txt

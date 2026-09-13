@@ -1,0 +1,11 @@
+id: mikro_imm_molekuler_tani_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İzotermal amplifikasyon yöntemleri hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_serolojik_testler]
+metin: "TMA, NASBA, LAMP ve RPA; termal döngü cihazı gerektirmeden hızlı sonuç verir."
+# kaynak: Pratik_Tr.txt

@@ -1,0 +1,11 @@
+id: ftr_kladikasyo_ayrimi_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nörojenik kladikasyoda ağrı nasıl başlar ve nasıl geriler?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_spinal_stenoz]
+metin: "Ayakta durma ve yürümeyle başlar; öne eğilme ve oturmayla gerilir."
+# kaynak: 5.sınıf_FTR_Bel_Ağrıları.txt

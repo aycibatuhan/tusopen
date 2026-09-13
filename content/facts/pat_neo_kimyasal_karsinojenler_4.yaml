@@ -1,0 +1,11 @@
+id: pat_neo_kimyasal_karsinojenler_4
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Prokarsinojenler nasıl aktive edilir?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_karsinojenler]
+metin: "Sitokrom P-450 ile; benzo(a)piren, aflatoksin B1, vinil klorid."
+# kaynak: 1._Sınıf_1.4_Patoloji_iremonur_kimyasal_viral_karsinogenez.txt

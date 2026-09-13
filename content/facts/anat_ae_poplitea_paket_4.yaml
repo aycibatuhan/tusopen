@@ -1,0 +1,11 @@
+id: anat_ae_poplitea_paket_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: A. poplitea nasıl oluşur ve nerede biter?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_popliteal_fossa]
+metin: Hiatus adductorius sonrası a. femoralis'in devamı; genus dalları verir, tibialis anterior-posterior'a bölünür.
+# kaynak: 3._Sınıf_3.3_Anatomi_ALT_TARAF_ANATOMİSİ_2021.txt

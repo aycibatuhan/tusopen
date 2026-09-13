@@ -1,0 +1,13 @@
+id: histo_hc_organeller_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Granüllü endoplazmik retikulumun görevi ve belirgin olduğu hücreler?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_hucre
+  - histo_hc_organeller
+metin: Dışarıya salgılanacak proteinleri sentezler; plazma hücreleri ve pankreas asiner hücrelerinde belirgindir.

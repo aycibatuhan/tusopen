@@ -1,0 +1,14 @@
+id: gc_tir_paratiroid_shpt_kanser_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Tersiyer hiperparatiroidizmin özelliği nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_bas_boyun_tiroid
+  - gc_tir_paratiroid
+metin: Bezler otonom; PTH, kalsiyum ve fosfor üçü birden yüksektir.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Serkan_Teksöz_PARATİROİDİN_CERRAHİ_HASTALIKLARI.txt

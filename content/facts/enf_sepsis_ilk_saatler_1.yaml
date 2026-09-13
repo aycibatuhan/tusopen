@@ -1,0 +1,15 @@
+id: enf_sepsis_ilk_saatler_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sepsis şüphesinde ilk saatlerde ne yapılmalıdır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_sepsis
+  - enf_sp_sepsis_tedavi
+metin: İlk 3-6 saatte laktat ölçülür; kan kültürleri alındıktan sonra ~1 saat içinde geniş spektrumlu IV antibiyotik başlanır.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sepsise_Yaklaşım_3._sınıf_Türkçe.txt

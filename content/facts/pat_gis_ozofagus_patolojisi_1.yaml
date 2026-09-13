@@ -1,0 +1,11 @@
+id: pat_gis_ozofagus_patolojisi_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sekonder akalazyanın nedeni nedir?"
+taksonomi:
+  - [ttbt, patoloji, pat_gis, pat_gis_ozofagus]
+metin: "Trypanosoma cruzi'nin (Chagas) myenterik pleksusu harap etmesi."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Patoloji_GİS_2-2_haziran_2020.txt

@@ -1,0 +1,11 @@
+id: ftr_oy_prognoz_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tetraplejide inkomplet yaralanma tiplerine göre yürüme oranları nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_omurilik_yaralanmasi]
+metin: "Dokunma duyusu korunanlarda %50, iğne duyusu korunanlarda %85, motor inkomplette %90."
+# kaynak: 5.sınıf_FTR_OYRehab.txt

@@ -1,0 +1,15 @@
+id: ped_acil_dehid_dereceleri_5
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hipernatremik dehidratasyonda sodyum düzeltme süresi nasıl belirlenir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_acil_yogun_bakim
+  - ped_acil_sivi_tedavisi
+metin: 'Na 145-157: 24 saat, 158-170: 48 saat, 171-183: 72 saat; sıvı sabit hızda, sodyum 6 saatte bir kontrol edilir.'
+
+# kaynak: 4._Sınıf_Pediatri_Sinem_Oral_Cebeci_4sınıf-dehid-slayt.txt

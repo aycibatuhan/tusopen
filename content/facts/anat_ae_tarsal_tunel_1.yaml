@@ -1,0 +1,11 @@
+id: anat_ae_tarsal_tunel_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Tarsal tünel içeriği önden arkaya nasıl sıralanır?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_ayak_anatomisi]
+metin: Tibialis posterior, flexor digitorum longus, a.-v. tibialis posterior, n. tibialis ve flexor hallucis longus.
+# kaynak: 3._Sınıf_3.3_Anatomi_ALT_TARAF_ANATOMİSİ_2021.txt

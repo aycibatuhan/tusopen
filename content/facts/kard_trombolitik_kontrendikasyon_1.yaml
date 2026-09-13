@@ -1,0 +1,11 @@
+id: kard_trombolitik_kontrendikasyon_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Trombolizin nörolojik kesin kontrendikasyonları nelerdir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_reperfuzyon]
+metin: "Herhangi dönemde kafa içi kanaması, bilinmeyen nedenli inme, son 6 ay iskemik inme, MSS hasarı/malignite."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

@@ -1,0 +1,11 @@
+id: dah_dka_tani_kriterleri_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hiperosmolar hiperglisemik durumun ayırt edici eşikleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diyabet_akut_komplikasyon]
+metin: "Glukoz 600 mg/dL üzeri, osmolalite 320 mOsm/L üzeri, minimal keton, pH 7,3 üzeri."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Acute_complications.txt

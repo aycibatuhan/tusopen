@@ -1,0 +1,10 @@
+id: anat_miyo_omuz_kol_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Abdüksiyonun ilk 15 derecesini başlatan kas?
+taksonomi:
+  - [ttbt, anatomi, anat_miyoloji, anat_miyo_omuz_kol]
+metin: M. supraspinatus; kalan hareketi deltoid üstlenir.

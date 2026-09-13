@@ -1,0 +1,11 @@
+id: ftr_fibromiyalji_kriterleri_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ACR 2010-2016 kriterlerinde hangi skorlar ve kombinasyonlar tanıyı destekler?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_fibromiyalji]
+metin: "Yaygın ağrı indeksi ve semptom şiddeti skoru; YAİ 7 üzeri+SŞ 5 üzeri veya YAİ 3-6+SŞ 9."
+# kaynak: 5.sınıf_FTR_Ders_Yum_doku_rom-ÜA-tr.txt, 5.sınıf_FTR_Olgu_dersiçi_sunum-_yaygın_ağrı.txt

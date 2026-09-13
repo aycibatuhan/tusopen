@@ -1,0 +1,11 @@
+id: biyok_tm_ca_psa_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "CA 125 hangi durumlarda yanlış yüksek çıkar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_klinik, biyok_klin_tumor_belirtec]
+metin: "Foliküler faz, siroz, hepatit ve erken gebelikte artar; erkekte istenmemelidir."
+# kaynak: 1._Sınıf_1.3_Biyokimya_TÜMÖR_MARKERLARI_REVİZE.txt

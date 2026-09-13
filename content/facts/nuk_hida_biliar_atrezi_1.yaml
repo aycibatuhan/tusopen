@@ -1,0 +1,11 @@
+id: nuk_hida_biliar_atrezi_1
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hepatobiliyer sintigrafide kullanılan radyofarmasötikler nelerdir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_gis_hepatobiliyer, nt_gh_hepatobiliyer]
+metin: "Tc-99m işaretli iminodiasetik asit türevleri (HIDA, mebrofenin); plazma albuminine %85-98 oranında bağlanır."
+# kaynak: 5.sınıf_Nükleer_Tıp_GiS_2022_eylül_send.txt

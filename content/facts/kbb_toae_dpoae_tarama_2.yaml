@@ -1,0 +1,11 @@
+id: kbb_toae_dpoae_tarama_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ototoksik ilaç izleminde tercih edilen emisyon testi nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_kulak_muayene_isitme, kbb_km_yenidogan_isitme]
+metin: "DPOAE (koklear hasarın erken saptanması)."
+# kaynak: 5.sınıf_KBB_Ahmet_ATAŞ_ODYOLOJİK_kavramlar.txt

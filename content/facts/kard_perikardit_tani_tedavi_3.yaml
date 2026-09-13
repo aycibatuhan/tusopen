@@ -1,0 +1,11 @@
+id: kard_perikardit_tani_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut perikarditte ilaç dozları nelerdir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_endokardit_miyokard_perikard, kard_em_akut_perikardit]
+metin: "Aspirin 4-8 g/gün ya da ibuprofen 400 mg, 6-8 saat arayla; rekürrenste kolşisin 1-2 mg/gün."
+# kaynak: 5.sınıf_Kardiyoloji_Perikard_Hastalıkları_-_Prof.Dr.İbrahim_Keleş.txt

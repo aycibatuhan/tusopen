@@ -1,0 +1,11 @@
+id: ftr_fibromiyalji_kriterleri_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fibromiyalji ile miyofasiyal ağrı sendromu nasıl ayrılır?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_fibromiyalji]
+metin: "MAS'ta lokal ağrı, gergin bant ve tetik nokta; FM'de yaygın ağrı ve hassas nokta."
+# kaynak: 5.sınıf_FTR_Ders_Yum_doku_rom-ÜA-tr.txt, 5.sınıf_FTR_Olgu_dersiçi_sunum-_yaygın_ağrı.txt

@@ -1,0 +1,11 @@
+id: ort_omuz_cikigi_rekurrens_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Omuz çıkıklarının yüzde kaçı öndendir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_ust_ekstremite_travma, orto_ue_omuz_cikigi]
+metin: "Yaklaşık %90'ı; zorlu abdüksiyon-eksternal rotasyonla oluşur."
+# kaynak: 5.sınıf_Ortopedi_Omuz_ve_Dirsek_Yaralanmaları.txt, 5.sınıf_Ortopedi_Complications_.txt

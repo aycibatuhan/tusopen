@@ -1,0 +1,11 @@
+id: fiz_gis_kolon_defekasyon_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kütle hareketleri ne sıklıkla ve ne zaman görülür?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_kolon]
+metin: "Günde 1-3 kez, en sık kahvaltıdan sonraki ilk 15 dakikada."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_12._Kolonda_Sindirim_ve_Diskilama.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_10.İNCE_VE_KALIN_BAĞIRSAK_HAREKETLERİ__İNCE_VE_KALIN_BAĞIRSAK_SALGILARI_4.4.2020_sae.txt

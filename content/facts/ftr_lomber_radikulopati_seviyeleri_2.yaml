@@ -1,0 +1,11 @@
+id: ftr_lomber_radikulopati_seviyeleri_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lomber köklerde refleks değişiklikleri nasıldır?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_lomber_disk_radikulopati]
+metin: "L4'te patella, S1'de aşil refleksi azalır; L5'te refleks değişikliği olmaz."
+# kaynak: 5.sınıf_FTR_DİSK_HERNİLERİ.RT.txt, 5.sınıf_FTR_Bel_Ağrıları.txt

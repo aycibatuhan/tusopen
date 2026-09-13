@@ -1,0 +1,13 @@
+id: histo_kg_over_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Primer folikülde granüloza hücreleri nasıl dizilir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kadin_genital
+  - histo_kg_over
+metin: Tek katlı kübik hale gelir.

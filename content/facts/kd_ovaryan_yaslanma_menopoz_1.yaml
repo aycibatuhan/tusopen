@@ -1,0 +1,11 @@
+id: kd_ovaryan_yaslanma_menopoz_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Doğum öncesi ve menopozda folikül havuzu kaçtır?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_ureme_fizyolojisi, kd_uf_menopoz]
+metin: "Fetal 20. haftada ~7 milyon; menopozda yaklaşık 1.000 folikül."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_kadın_yaşamının_evreleri_mahmut_öncül.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_İnsan_Üremesi.txt

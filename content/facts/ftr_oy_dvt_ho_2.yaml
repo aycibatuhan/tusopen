@@ -1,0 +1,11 @@
+id: ftr_oy_dvt_ho_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Omurilik yaralanmasında heterotopik ossifikasyon sıklığı ve yerleşimi nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_omurilik_komplikasyonlari]
+metin: "%13-57; ilk 6 ay içinde, en sık kalçada."
+# kaynak: 5.sınıf_FTR_OYRehab.txt

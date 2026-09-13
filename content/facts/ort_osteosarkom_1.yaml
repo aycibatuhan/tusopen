@@ -1,0 +1,11 @@
+id: ort_osteosarkom_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Multipl myelomdan sonra en sık habis kemik tümörü hangisidir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kemik_tumorleri, orto_kt_osteosarkom]
+metin: "Osteosarkom; 2. dekatta ve erkek/kadın 1,3/1 oranında görülür."
+# kaynak: 5.sınıf_Ortopedi_habıs_kemık_tümörlerı.txt

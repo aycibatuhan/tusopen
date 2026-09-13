@@ -1,0 +1,11 @@
+id: nuk_tc99m_ideal_tani_ajani_2
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İdeal tanı amaçlı radyofarmasötikin özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_temel, nt_tm_radyofarmasotikler]
+metin: "Effektif yarı ömür inceleme süresinin ~1,5 katı; gama ışınımı 100-250 keV; hedef organda yüksek, çevrede düşük tutulum."
+# kaynak: 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

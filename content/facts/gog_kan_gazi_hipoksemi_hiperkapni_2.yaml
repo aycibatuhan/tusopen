@@ -1,0 +1,11 @@
+id: gog_kan_gazi_hipoksemi_hiperkapni_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Solunum yetmezliğinin kan gazı eşiği ve beklenen PaO2 nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_tani_yontemleri, gog_ty_kan_gazi]
+metin: "Beklenen PaO2 ~100 eksi yaşın yarısı; SY eşiği PaO2 60 altı ve-veya PaCO2 50 üstü."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Kısa_Solunum_Fonksiyon_Testleri_2022-23_Ders_Bilun.txt, 5.sınıf_Göğüs_Hastalıkları_Solnum_yetmezliği__Oksijen_tedavisi.txt

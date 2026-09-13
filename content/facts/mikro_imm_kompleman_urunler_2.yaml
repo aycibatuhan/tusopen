@@ -1,0 +1,11 @@
+id: mikro_imm_kompleman_urunler_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nötrofilleri enfeksiyon bölgesine çeken kompleman ürünü hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_kompleman]
+metin: "C5a; güçlü kemotaktik etki gösterir."
+# kaynak: Doğal_bağışıklık__mikropların_tanınması__mikropların_doğal_bağışıklıktan_kaçışı.txt

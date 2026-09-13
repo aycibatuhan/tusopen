@@ -1,0 +1,11 @@
+id: dah_gut_tani_tedavi_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut gut atağında tedavi seçenekleri nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_romatoloji, dah_rom_gut]
+metin: "Mümkün olduğunca erken NSAİİ, kolşisin, oral/intraartiküler kortikosteroid veya ACTH."
+# kaynak: 4._Sınıf_Dahiliye_Romatoloji_kristal_artrit.txt

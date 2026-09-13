@@ -1,0 +1,14 @@
+id: gc_kol_anal_fissur_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Lateral yerleşimli anal fissür neyi düşündürür?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_kolon_rektum_anus
+  - gc_kol_anal_fissur
+metin: 'Sekonder nedeni: IBD, TBC, sifiliz, lösemi, HIV.'
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Asiye_Perek_fissür-apse4_ing.txt

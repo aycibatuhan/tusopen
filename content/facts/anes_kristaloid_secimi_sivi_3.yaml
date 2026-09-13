@@ -1,0 +1,11 @@
+id: anes_kristaloid_secimi_sivi_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Büyük hacimli %0.9 NaCl'nin riski nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_sivi_kan, anes_sk_sivi_tedavisi]
+metin: "Hiperkloremik asidoz ve dilüsyonel koagülopati yapabilir (Na ve Cl 154 mEq/L)."
+# kaynak: 4._Sınıf_Anestezi_3.txt

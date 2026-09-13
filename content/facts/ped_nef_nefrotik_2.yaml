@@ -1,0 +1,15 @@
+id: ped_nef_nefrotik_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Minimal lezyon hastalığının özellikleri nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_nefroloji
+  - ped_nef_nefrotik
+metin: Çocuk nefrotik sendromlarının ~%80'i; 1-7 yaş, E/K 2/1; elektron mikroskobunda podosit efasmanı.
+
+# kaynak: 4._Sınıf_Pediatri_Ayşe_Ağbaş_Nefrotik_sendrom_dersi.txt

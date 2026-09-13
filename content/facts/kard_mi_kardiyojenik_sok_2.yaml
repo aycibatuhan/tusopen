@@ -1,0 +1,11 @@
+id: kard_mi_kardiyojenik_sok_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kardiyojenik şokun tanı ölçütleri nelerdir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_kalp_yetmezligi, kard_ky_kardiyojenik_sok]
+metin: "Hipotansiyon <80 mmHg (>30 dk), kardiyak indeks <1.8 L/dk/m², PKTB >18 mmHg."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

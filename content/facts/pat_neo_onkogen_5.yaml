@@ -1,0 +1,10 @@
+id: pat_neo_onkogen_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "BCL2 geni nasıl etki eder ve nerede aktive olur?"
+taksonomi:
+  - [ttbt, patoloji, pat_neoplazi, pat_neo_onkogen]
+metin: "Apoptozu inhibe eder; folliküler lenfomada translokasyonla."

@@ -1,0 +1,11 @@
+id: anes_mv_endikasyon_esikleri_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ventilasyon bozukluğunda invazif MV gaz eşikleri nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_mekanik_ventilasyon]
+metin: "pH <7.25, PaCO2 >55 mmHg ve yükseliyor; VD/VT >0.6."
+# kaynak: 4._Sınıf_Anestezi_1.txt, 4._Sınıf_Anestezi_Akut_Solunum_Yetersizlikleri_DERS.txt

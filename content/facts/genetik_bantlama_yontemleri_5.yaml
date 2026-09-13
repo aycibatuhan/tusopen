@@ -1,0 +1,14 @@
+id: genetik_bantlama_yontemleri_5
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Gümüş boyama (NOR) hangi bölgeleri gösterir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_sitogenetik
+  - tbg_sg_karyotip_analizi
+metin: Akrosentriklerin satellit saplarındaki nükleolus organizatör bölgelerini.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_Kromozom_Yapısı_ve_Elde_Edilmesi.txt

@@ -1,0 +1,13 @@
+id: histo_bag_hucreler_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Mast hücresi granüllerinde hangi maddeler taşınır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_bag_dokusu
+  - histo_bag_hucreler
+metin: Histamin ve heparin; degranülasyonla akut alerjik atakta ve anafilakside salgılanır.

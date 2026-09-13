@@ -1,0 +1,10 @@
+id: farm_end_tiroid_5
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Her iki tiyoyürenin ciddi yan etkisi?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_endokrin, farm_end_tiroid]
+metin: "Agranülositoz."

@@ -1,0 +1,15 @@
+id: ped_bes_demir_d_vit_destegi_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Türkiye'de D vitamini takviye programı ne zaman başladı ve nasıl uygulanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_eser_element
+metin: 2005 yılından itibaren; yenidoğan döneminden başlanarak 1 yıl süreyle.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_YAPAY_ve_KARIŞIK_BESLENME-TAMAMLAYICI_BESİNLER-OKUL_ÇOCUĞU_VER_ADOLESAN_BESLENMESİ-_Sınıf_4.txt

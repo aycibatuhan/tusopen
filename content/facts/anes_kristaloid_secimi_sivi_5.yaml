@@ -1,0 +1,11 @@
+id: anes_kristaloid_secimi_sivi_5
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ekstrasellüler sıvı eksikliği evreleri nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_sivi_kan, anes_sk_sivi_tedavisi]
+metin: "Hafif <1.5 L (~%10), orta 1.5-2.5 L (%10-20), >2.5 L kayıp hipovolemik şok tablosu verir."
+# kaynak: 4._Sınıf_Anestezi_3.txt

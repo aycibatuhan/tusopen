@@ -1,0 +1,11 @@
+id: bcy_servikal_stenoz_5
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nörojenik klaudikasyonun özellikleri ve vasküler klaudikasyondan ayrımı nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_spinal_patoloji, bce_sp_spinal_stenoz]
+metin: "Yürüme-ayakta durmakla artar, oturup öne eğilmekle azalır; periferik nabızlar korunur."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Spinal_Dejeneratif_Hastalıklar_O.U.txt

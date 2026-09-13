@@ -1,0 +1,11 @@
+id: kd_kok_tromboz_etkinlik_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "KOK'un ideal ve klinik başarısızlık oranları nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_kontrasepsiyon, kd_kon_hormonal]
+metin: "İdeal kullanımda %0,1-0,3; klinik uygulamada %2,5-8."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Aile_Planlaması_(2).txt

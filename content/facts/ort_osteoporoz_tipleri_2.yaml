@@ -1,0 +1,11 @@
+id: ort_osteoporoz_tipleri_2
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tip II osteoporozun özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_metabolik_kemik, orto_mk_osteoporoz]
+metin: "75 yaş üzeri; kortikal ve trabeküler kemik azalır, kalça-pelvis kırıkları sıktır."
+# kaynak: 5.sınıf_Ortopedi_metabolic_bone_disease.txt

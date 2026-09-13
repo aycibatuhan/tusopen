@@ -1,0 +1,11 @@
+id: goz_kapak_maligniteleri_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Skuamöz hücreli karsinomun kapak maligniteleri içindeki payı ve davranışı nedir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_kapak_lakrimal, goz_kl_kapak_tumorleri]
+metin: "%5-10; bazal hücreli karsinomdan daha agresiftir."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kapak_Hastalıkları.txt

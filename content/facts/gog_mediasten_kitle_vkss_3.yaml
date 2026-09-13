@@ -1,0 +1,11 @@
+id: gog_mediasten_kitle_vkss_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Asemptomatik ve semptomatik mediasten lezyonlarında malignite eğilimi?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_neoplazi, gog_neo_mediastinal]
+metin: "Asemptomatik %80-90 benign; semptomatik %50 malign."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_mediasten_hastalıkları.txt, 5.sınıf_Göğüs_Hastalıkları_Solunum_Yolu_Acilleri.txt

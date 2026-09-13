@@ -1,0 +1,10 @@
+id: anat_noro_gorme_yolu_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: PCA infarktında makula neden korunur?
+taksonomi:
+  - [ttbt, anatomi, anat_noroanatomi, anat_noro_gorme_yolu]
+metin: Oksipital kutbun çift beslenmesi nedeniyle (makula sparing).

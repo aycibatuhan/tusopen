@@ -1,0 +1,10 @@
+id: anat_boyun_ucgenler_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Frenik sinir hangi kasın ön yüzünde iner?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_ucgenler]
+metin: M. scalenus anterior'un ön yüzünde iner (C3-C5).

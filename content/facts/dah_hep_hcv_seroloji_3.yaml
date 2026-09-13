@@ -1,0 +1,11 @@
+id: dah_hep_hcv_seroloji_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hepatit C'de kronikleşme oranı nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_hepatoloji, dah_hep_hepatit_c]
+metin: "%80; akut enfeksiyonların %80'i de asemptomatiktir."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_HCV-2021-2022.txt

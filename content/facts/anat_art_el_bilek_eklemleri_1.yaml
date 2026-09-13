@@ -1,0 +1,11 @@
+id: anat_art_el_bilek_eklemleri_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Art. radiocarpalis hangi tiptedir ve hangi kemiklerle kurulur?
+taksonomi:
+  - [ttbt, anatomi, anat_artroloji, anat_art_el_bilek]
+metin: Ellipsoid; radius ve discus articularis ile triquetrum, lunatum ve scaphoideum arasında (ulna katılmaz).
+# kaynak: 2._Sınıf_2.1_Anatomi_2-1_-_Üst_taraf_eklemleri.txt

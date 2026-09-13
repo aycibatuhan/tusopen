@@ -1,0 +1,11 @@
+id: kd_serviks_ca_epidemiyoloji_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serviks kanserinde ortalama tanı yaşı ve insidans pikleri?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_jinekolojik_onkoloji, kd_jo_serviks_kanseri]
+metin: "Ortalama 50 yaş; 35-40 ve 60-64 yaşlarında iki pik."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Gynecologic_cancer_2019.txt

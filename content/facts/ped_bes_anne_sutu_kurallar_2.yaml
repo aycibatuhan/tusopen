@@ -1,0 +1,15 @@
+id: ped_bes_anne_sutu_kurallar_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yeterli süt alımının güvenilir göstergeleri nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_anne_sutu
+metin: Ayda en az 500 g kazanım, 2. hafta sonunda doğum tartısının aşılması, 6 günden büyük bebekte günde en az 6 idrar.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_Doğal_Beslenme-Sınıf_4.txt

@@ -1,0 +1,15 @@
+id: ped_neo_dac_sorunlari_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Diyabetik anne çocuğunun görünümü nasıldır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_hipoglisemi
+metin: Iri (makrozomi ~%35), yağlı ve letarjik; akciğer olgunlaşması gecikir, karaciğer ve kalp büyüktür.
+
+# kaynak: 4._Sınıf_Pediatri_Ersin_Ulu_yenidoğan_metabolik_sorunları_kopya.txt

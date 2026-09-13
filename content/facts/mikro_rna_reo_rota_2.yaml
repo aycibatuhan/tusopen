@@ -1,0 +1,10 @@
+id: mikro_rna_reo_rota_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rotavirüs hangi yaş grubunda hangi mevsimde ishal yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_reo_rota]
+metin: "6-24 ay bebeklerde kış aylarında; oral canlı aşılar korur, tanı dışkıda ELISA ile."

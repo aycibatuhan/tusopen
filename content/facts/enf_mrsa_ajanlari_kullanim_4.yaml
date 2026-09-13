@@ -1,0 +1,15 @@
+id: enf_mrsa_ajanlari_kullanim_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Linezolidin kullanım alanları ve önemli yan etkisi nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_antimikrobiyal_tedavi
+  - enf_at_antibiyotik_yonetimi
+metin: Pnömoni, menenjit, kemik-yumuşak doku infeksiyonları; VRE'ye etkilidir, 2 haftadan uzun kullanımda myelosüpresyon.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt

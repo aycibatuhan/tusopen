@@ -1,0 +1,15 @@
+id: enf_ssi_tanim_sure_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Abdominal ve temiz cerrahilerde enfeksiyon riski kaçtır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_cerrahi_alan
+metin: Abdominal cerrahide %20'ye çıkar; karın dışındaki temiz ameliyatlarda %2-5.
+
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Pınar_Kocael_Cerrahi_enfeksiyonlar_ve_antibiyotik_kullanımı.txt

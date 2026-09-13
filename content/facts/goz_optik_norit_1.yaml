@@ -1,0 +1,11 @@
+id: goz_optik_norit_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Optik nöritte tipik hasta profili ve bulgular nelerdir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_norooftalmoloji, goz_no_optik_norit]
+metin: "15-45 yaş kadınlarda; göz hareketiyle artan ağrı, diskromatopsi, afferent pupiller defekt."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Optik_Sinir_Hastalıkları.txt, 5.sınıf_Göz_Hastalıkları_ANİ_KÖRLÜKLER.txt

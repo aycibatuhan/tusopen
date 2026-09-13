@@ -1,0 +1,15 @@
+id: enf_bruselloz_tani_tedavi_5
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Brusellozda tedavi neden kombinasyon halinde verilir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_zoonoz
+  - enf_zo_bruselloz
+metin: Nüksleri önlemek için hücre içine geçebilen ajanlarla kombinasyon zorunludur.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_BRUSELLOZ_3._SINIF_(1).txt

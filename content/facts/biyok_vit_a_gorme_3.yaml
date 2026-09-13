@@ -1,0 +1,11 @@
+id: biyok_vit_a_gorme_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Retinol dolaşımda nasıl taşınır, çinkonun rolü nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_yagda_eriyen]
+metin: "Retinol bağlayıcı proteinle; çinko RBP sentezini ve retinal dönüşümünü destekler."
+# kaynak: 1._Sınıf_1.2_Biyokimya_VİTAMİNLER_2018.txt

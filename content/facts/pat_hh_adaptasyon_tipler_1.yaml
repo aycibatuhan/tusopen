@@ -1,0 +1,11 @@
+id: pat_hh_adaptasyon_tipler_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipertrofi hangi hücrelerde öne çıkar?"
+taksonomi:
+  - [ttbt, patoloji, pat_hucre_hasari, pat_hh_adaptasyon]
+metin: "Mitoz kapasitesi kısıtlı çizgili kas ve miyokardda."
+# kaynak: 1._Sınıf_1.4_Patoloji_1-CTF_hücre.txt, 1._Sınıf_1.4_Patoloji_2-CTF_hücre_ölümü.txt

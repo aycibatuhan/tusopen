@@ -1,0 +1,11 @@
+id: dah_diabetik_nefropati_albuminuri_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nefropati diyabet tiplerinde ne sıklıkta ve ne zaman gelişir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_diyabetik_nefropati]
+metin: "Tip 1'de %35-40 (başlangıçtan 10 yıl sonra), tip 2'de %15-20, çoğunlukla tanı anında."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Bo_brek.txt

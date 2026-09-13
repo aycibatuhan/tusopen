@@ -1,0 +1,11 @@
+id: fiz_kv_ekg_dalga_sureleri_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "P, QRS ve PR'ın normal EKG değerleri nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kalp_elektrofizyoloji]
+metin: "P 0.08-0.11 sn; QRS 0.06-0.10 sn; PR 0.12-0.20 sn (0.20 üstü birinci derece AV blok)."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Elektrokardiyogram._2019-2020.txt

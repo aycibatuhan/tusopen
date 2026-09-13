@@ -1,0 +1,15 @@
+id: ped_neo_dac_sorunlari_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yenidoğan hiperglisemi eşiği nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_hipoglisemi
+metin: Kan şekerinin 126 mg/dl üzeri olması; genellikle spontan düzelir.
+
+# kaynak: 4._Sınıf_Pediatri_Ersin_Ulu_yenidoğan_metabolik_sorunları_kopya.txt

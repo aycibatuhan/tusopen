@@ -1,0 +1,11 @@
+id: dah_idrar_sedimenti_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Altıgen kristaller ve monohidrat kalsiyum oksalat neyi işaret eder?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_bobrek_degerlendirme]
+metin: "Altıgen sistin: sistinüri; monohidrat kalsiyum oksalat: etilen glikol zehirlenmesi."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_DRARIN_2.txt

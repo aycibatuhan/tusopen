@@ -1,0 +1,15 @@
+id: enf_sepsis_sirs_kriterleri_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: SIRS kriterleri (3T 1L) hangileridir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_sepsis
+  - enf_sp_sepsis_tanim
+metin: Ateş >38 veya <36°C, nabız >90/dk, solunum >20/dk veya PaCO2 <32 mmHg, lökosit >12.000 veya <4.000 veya çomak >%10; en az ikisi.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sepsise_Yaklaşım_3._sınıf_Türkçe.txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt

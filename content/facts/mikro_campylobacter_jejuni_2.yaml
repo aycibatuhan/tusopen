@@ -1,0 +1,11 @@
+id: mikro_campylobacter_jejuni_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C. jejuni kültüründe hangi besiyeri ve koşullar kullanılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_campylobacter_helicobacter]
+metin: "CAMPY_BAP besiyeri; membran filtrasyonu ve %5 O2 + %7-10 CO2 mikroaerofilik koşul."
+# kaynak: 1-_İmmünoloji_Campylobacter_Arcobacter.txt

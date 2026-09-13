@@ -1,0 +1,15 @@
+id: enf_ates_olcum_esikleri_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Vücut ısısı gün içinde ne zaman en düşük ve en yüksektir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_genel_yaklasim
+  - enf_gy_ates_patogenezi
+metin: Sabah 04.00-06.00'da en düşük (~37.2°C), akşam 16.00-18.00'de en yüksek (~37.7°C).
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Ateş_patogenez_ve_Klinik_Tipleri_3._sınıf.txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Anamnez_FM.txt

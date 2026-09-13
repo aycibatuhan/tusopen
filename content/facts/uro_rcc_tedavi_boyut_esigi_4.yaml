@@ -1,0 +1,11 @@
+id: uro_rcc_tedavi_boyut_esigi_4
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Metastatik RCCde tedavi nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_renal_hucre]
+metin: "Sitoredüktif radikal nefrektomi sonrası TKİ (sunitinib, sorafenib, temsirolimus)."
+# kaynak: 4._Sınıf_Üroloji_böbrek_tm_radyoloji.txt, 4._Sınıf_Üroloji_Böbrek_Tümörleri.txt

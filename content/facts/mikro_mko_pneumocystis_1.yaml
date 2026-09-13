@@ -1,0 +1,11 @@
+id: mikro_mko_pneumocystis_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pneumocystis jirovecii sınıflamada neden mantar sayılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_firsatci]
+metin: "Gen dizisi analizlerine göre Ascomycetes grubundadır; morfolojisi protozoonu andırır."
+# kaynak: Fırsatçı_mantar_infeksiyonları_ve_P._jirovecii.txt

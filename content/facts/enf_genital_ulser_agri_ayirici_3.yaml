@@ -1,0 +1,15 @@
+id: enf_genital_ulser_agri_ayirici_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: LGV'nin etkeni ve tanısal ipucu bulgusu nedir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_cinsel_yolla
+  - enf_cy_genital_ulser
+metin: C. trachomatis serovar L1-L3; evre II'de groove (oluk) işareti.
+
+# kaynak: 3._Sınıf_3.2_Enfeksiyon_hastalıkları_STD_Cerrahpasa_2020_3.sınıf.txt

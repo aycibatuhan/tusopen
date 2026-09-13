@@ -1,0 +1,11 @@
+id: mikro_mko_cryptococcus_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C. neoformans'ın kapsülü ve melanini hangi korumaları sağlar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_firsatci]
+metin: "Kapsül antifagositik; melanin reaktif oksijen türevlerinden korur ve amfoterisin B'yi bağlar."
+# kaynak: Candida__C.neoformans_ve_diğer_maya_mantarları.txt, Mantarlara_karşı_immünite.txt

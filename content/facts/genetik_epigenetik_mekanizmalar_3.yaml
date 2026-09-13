@@ -1,0 +1,14 @@
+id: genetik_epigenetik_mekanizmalar_3
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: CpG ada metilasyonu gen ekspresyonunu nasıl etkiler?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_molekuler_genetik
+  - tbg_mg_epigenetik
+metin: İçerdikleri genlerin transkripsiyon etkinliğini azaltır.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_7._ders_Gen_ekspresyonunun_kontrolü_19_şubat_2019_öğrenci.txt, 1._Sınıf_1.2_Tıbbi_Biyoloji_DNA_Paketlenmesi_ve_Kromatin_(2017-2018_Güz-M_Güven).txt, 1._Sınıf_1.2_Tıbbi_Biyoloji_HÜCRESEL_YAŞLANMA_13.12._2018.txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_İleri_Hücre_Biyolojisi_Dersi_(Kanser).txt

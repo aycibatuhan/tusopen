@@ -1,0 +1,11 @@
+id: psik_bulimia_tani_tedavi_3
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bulimia nervozada hangi ilaç ilk seçenektir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_yeme_uyku_cinsel, psik_yu_bulimia]
+metin: "SSRI'lar, özellikle fluoksetin."
+# kaynak: 5.sınıf_PSİKİYATRİ_Yeme_bozuklukları.txt

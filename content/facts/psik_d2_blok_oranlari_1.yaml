@@ -1,0 +1,11 @@
+id: psik_d2_blok_oranlari_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Antipsikotik etkinlik ve yan etkiler için D2 blokaj eşikleri nedir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_psikofarmakoloji, psik_pf_ekstrapiramidal]
+metin: "%65 etkinlik; %72 üzeri hiperprolaktinemi; %80 üzeri ekstrapiramidal sendrom."
+# kaynak: 5.sınıf_PSİKİYATRİ_2019-Psychopharmacology_(1).txt, 5.sınıf_PSİKİYATRİ_ŞİZOFRENİ_VE_DİĞER_PSİKOZLAR_(MAYIS_2021).txt

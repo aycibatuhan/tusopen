@@ -1,0 +1,15 @@
+id: ped_neo_anne_sutu_sariligi_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Anne sütü sarılığında mekanizma ve tekrarlama oranı nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_sarilik
+metin: Sütteki bir faktör UDP-glukuronil transferazı inhibe eder; aynı ailede tekrarlama %70'e ulaşır.
+
+# kaynak: 4._Sınıf_Pediatri_Zeynep_Alp_Ünkar_Neonatal_Hiperbilirubinemi.txt

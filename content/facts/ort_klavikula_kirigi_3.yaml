@@ -1,0 +1,11 @@
+id: ort_klavikula_kirigi_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Medial klavikula fizi ne zaman kapanır ve bu bölgede travmada ne beklenir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_ust_ekstremite_travma, orto_ue_klavikula_skapula]
+metin: "23-25 yaşlarında, vücutta en son kapanan fiz; çoğu sternoklaviküler çıkık değil fizyel ayrışmadır."
+# kaynak: 5.sınıf_Ortopedi_Omuz_ve_Dirsek_Yaralanmaları.txt, 5.sınıf_Ortopedi_Ortopedi_ve_Travmatoloji_de_Radyolojik_Değerlendirme.txt

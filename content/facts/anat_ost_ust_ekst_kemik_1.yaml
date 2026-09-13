@@ -1,0 +1,10 @@
+id: anat_ost_ust_ekst_kemik_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Humerusun cerrahi boynundaki kırıkta riskli yapılar?
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_ust_ekst_kemik]
+metin: Aksiller sinir ve posterior sirkumfleks humeral arter.

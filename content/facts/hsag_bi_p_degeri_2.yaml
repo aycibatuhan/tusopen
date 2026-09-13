@@ -1,0 +1,11 @@
+id: hsag_bi_p_degeri_2
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "p değerinin yorum eşikleri nasıldır?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_guven_araligi]
+metin: "p<0.05 anlamlı; p<0.01'de ileri, p<0.001'de çok ileri düzeyde anlamlı."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD1_Klinik_Biyoistatistiğe_Giriş__Araştırma_Yöntembilimi__Terminoloji__Bilgi__ölçüm__Hata__Bivariate_Yöntemler_(1).txt

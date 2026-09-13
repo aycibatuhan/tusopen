@@ -1,0 +1,14 @@
+id: genetik_bantlama_yontemleri_3
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kromozomun kısa ve uzun kolları hangi harflerle gösterilir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_sitogenetik
+  - tbg_sg_karyotip_analizi
+metin: Uzun kol için q, kısa kol için p kullanılır.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_Kromozom_Yapısı_ve_Elde_Edilmesi.txt

@@ -1,0 +1,11 @@
+id: goz_retina_dekolmani_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Retina dekolmanlı gözde GİB nasıl değişir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_retina_dekolmani]
+metin: "Genellikle karşı gözden yaklaşık 5 mmHg düşüktür."
+# kaynak: 5.sınıf_Göz_Hastalıkları_retina_dekolmanı-ing_ders.txt, 5.sınıf_Göz_Hastalıkları_DISEASES_OF_VITREOUS_AND_RETINA.txt

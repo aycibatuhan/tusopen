@@ -1,0 +1,11 @@
+id: dah_tiroid_nodul_bethesda_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tiroid nodülünde altın standart inceleme nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_tiroid_nodul_kanser]
+metin: "İnce iğne aspirasyon biyopsisi; doğruluğu yaklaşık %95."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_tiroidnodullerivetiroidkanseri.txt

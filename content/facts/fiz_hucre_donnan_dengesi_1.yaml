@@ -1,0 +1,11 @@
+id: fiz_hucre_donnan_dengesi_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gibbs-Donnan dengesine göre plazmada iyon dağılımı nasıldır?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_homeostaz]
+metin: "Geçemeyen plazma proteinleri nedeniyle katyonlar yüksek, anyonlar düşük; Cl- oranı 0.95."
+# kaynak: 2-3._Ders_1-Vücut_Sıvı_Kompartmanları.txt, 8-9-.Membran_dinlenim_potansiyeli_ve_İyon_kanalları.txt

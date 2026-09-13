@@ -1,0 +1,11 @@
+id: adli_munchausen_by_proxy_3
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fiziksel istismarda tanıya götüren kilit düşünce nedir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_klinik_adli_durumlar, adl_kd_cocuk_istismari]
+metin: "Şüphe duymak; yaralanma nedeniyle gelen her çocukta istismar ekarte edilmelidir."
+# kaynak: 5.sınıf_Adli_Tıp_ÇOCUK_İSTİSMARI_VE_İHMALİ_DOÇ._DR._BERNA_ŞENEL_ERASLAN.txt

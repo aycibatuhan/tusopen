@@ -1,0 +1,11 @@
+id: kbb_enog_dejenerasyon_esigi_4
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "EMG'de reinervasyon potansiyelleri ne zaman görünür?"
+taksonomi:
+  - [ktbt, kbb, kbb_fasiyal_sinir, kbb_fs_topografik_tani]
+metin: "Klinik düzelmeden önce, 4-6 haftada."
+# kaynak: 5.sınıf_KBB_myener_Fasial_Sinir_ders.txt

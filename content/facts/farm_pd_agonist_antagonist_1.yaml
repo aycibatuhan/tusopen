@@ -1,0 +1,10 @@
+id: farm_pd_agonist_antagonist_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Rekabetçi antagonist doz-yanıt eğrisini nasıl etkiler?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakodinamik, farm_pd_agonist_antagonist]
+metin: "Sağa kaydırır; agonist yoğunluğu artınca maksimum yanıt geri gelir."

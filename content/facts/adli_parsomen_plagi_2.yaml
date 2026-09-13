@@ -1,0 +1,11 @@
+id: adli_parsomen_plagi_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Altı ekimozlu parşömen plağı neyi gösterir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_yara_balistik, adl_yb_yasam_belirtileri]
+metin: "Travmanın ölümden kısa süre önce veya agonal dönemde yapıldığını."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_BELİRTİLERİ_-_1_PROF._DR._SERMET_KOÇ.txt

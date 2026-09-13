@@ -1,0 +1,10 @@
+id: anat_ost_ust_ekst_kemik_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Medial epikondil kırığında hangi sinir zarar görebilir?
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_ust_ekst_kemik]
+metin: N. ulnaris zarar görebilir.

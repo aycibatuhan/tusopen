@@ -1,0 +1,14 @@
+id: gc_dal_splenektomi_opsi_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Splenektomi endikasyonlarına örnekler nelerdir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_dalak
+  - gc_dal_splenektomi_endikasyon
+metin: Herediter sferositoz, majör talasemi, ITP, hipersplenizm.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Mehmet_Velidedeoğlu_Dalağın_Cerrahi_Hastalıkları.txt

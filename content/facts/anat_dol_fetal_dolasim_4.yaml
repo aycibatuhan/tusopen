@@ -1,0 +1,10 @@
+id: anat_dol_fetal_dolasim_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Doğum sonrası fetal yapıların kalıntıları nelerdir?
+taksonomi:
+  - [ttbt, anatomi, anat_dolasim, anat_dol_fetal_dolasim]
+metin: Göbek veni lig. teres, ductus venosus lig. venosum, foramen ovale fossa ovalis, ductus arteriosus lig. arteriosum.

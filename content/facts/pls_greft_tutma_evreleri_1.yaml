@@ -1,0 +1,11 @@
+id: pls_greft_tutma_evreleri_1
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Deri greftinin alıcı yatakta beslenme evreleri nelerdir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yara_ve_doku, pce_yd_greft_ve_flap]
+metin: "Plazmatik imbibisyon, inoskülasyon, neovaskülarizasyon; sırayla değil iç içe ilerler."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Greftler_ve_Flepler.txt

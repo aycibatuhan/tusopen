@@ -1,0 +1,11 @@
+id: biyok_kh_epimer_anomer_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mutarotasyon dengesinde glukoz oranları ve dönüş açısı nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_yapi]
+metin: "Yaklaşık üçte bir alfa, iki üçte beta; polarize ışığı 52 derece sağa çevirir."
+# kaynak: 1._Sınıf_1.1_Biyokimya____2018.10.02__Karbonhidrat_Yapı_ve_Sınıflandırması.txt, 1._Sınıf_1.1_Biyokimya____2018.09.20__Biyomoleküller_Genel_Yapısal_Özellikler.txt

@@ -1,0 +1,11 @@
+id: der_malign_melanom_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Melanomun deri kanseri ölümlerindeki payı nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_deri_tumorleri, derm_tu_melanom]
+metin: "Deri kanserlerinin yaklaşık %4'ü ama ölümlerinin yaklaşık %80'inden sorumludur."
+# kaynak: 5.sınıf_Dermatoloji_zk_DERİ_KANSERLERİ.txt

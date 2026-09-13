@@ -1,0 +1,11 @@
+id: gog_kronik_oksuruk_nedenler_4
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kaliteli balgam örneği ölçütleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_klinik_sorunlar, gog_dk_kronik_oksuruk]
+metin: "100 kez büyütmede her alanda lökosit 25 üstü, yassı epitel 10 altı."
+# kaynak: 2._Sınıf_2.3_Göğüs_hastalıkları_Öksürük_balgam_hemoptizi_ders.txt

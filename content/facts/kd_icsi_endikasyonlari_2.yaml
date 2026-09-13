@@ -1,0 +1,11 @@
+id: kd_icsi_endikasyonlari_2
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Oosit toplaması için hCG ne zaman ve nasıl uygulanır?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_infertilite, kd_inf_yardimci_ureme]
+metin: "E2 150-200 pg/mL/foliküle ulaşılıp iki folikül 17 mm'yi aşınca 10.000 IU hCG; OPU 36 saat sonra."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ÜYT.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_ART.txt

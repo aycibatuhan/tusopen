@@ -1,0 +1,11 @@
+id: anes_beyin_perfuzyon_basinci_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal beyin kan akımı ne kadardır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_ozel_hasta, anes_oh_norosirurji]
+metin: "50 mL/100 g/dak (gri cevher ~75, beyaz cevher 20)."
+# kaynak: 4._Sınıf_Anestezi_1.txt, 4._Sınıf_Anestezi_Travmatik_Beyin_Hasarında_Kafa_İçi_Basıncı.txt

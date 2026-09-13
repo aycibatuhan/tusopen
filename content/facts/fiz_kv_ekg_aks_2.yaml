@@ -1,0 +1,11 @@
+id: fiz_kv_ekg_aks_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "aVR derivasyonunda dalgalar neden negatiftir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kardiyovaskuler, fiz_kv_kalp_elektrofizyoloji]
+metin: "Kalbi sağ omuz konumundan izler; depolarizasyon vektörü elektroddan uzaklaşır."
+# kaynak: 2._Sınıf_2.2_Fizyoloji_Elektrokardiyogram._2019-2020.txt

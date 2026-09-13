@@ -1,0 +1,11 @@
+id: uro_rcc_anjiyomiyolipom_2
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anjiyomiyolipomda girişim eşiği nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_renal_hucre]
+metin: "4 cm'den büyüklerde embolizasyon veya parsiyel nefrektomi; gebelik kanama riskini artırır."
+# kaynak: 4._Sınıf_Üroloji_böbrek_tm_radyoloji.txt, 4._Sınıf_Üroloji_Böbrek_Tümörleri.txt

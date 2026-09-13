@@ -1,0 +1,10 @@
+id: mikro_gnb_vibrio_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kolerajen toksininin etkisiyle ishal nasıl gelişir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_vibrio]
+metin: "Adenilat siklazı aşırı uyararak cAMP yükseltir; günde 20 litreye ulaşan pirinç suyu ishali."

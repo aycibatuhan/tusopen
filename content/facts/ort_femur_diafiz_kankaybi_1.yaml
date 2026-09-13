@@ -1,0 +1,11 @@
+id: ort_femur_diafiz_kankaybi_1
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Femur şaft kırığında beklenen kan kaybı nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_alt_ekstremite_travma, orto_ae_femur_cisim]
+metin: "2-3 ünite; eşlik eden uzak kırıklar aranmalıdır."
+# kaynak: 5.sınıf_Ortopedi_FEMUR_KIRIKLARI.txt, 5.sınıf_Ortopedi_Ortopedi_ve_Travmatoloji_de_Radyolojik_Değerlendirme.txt

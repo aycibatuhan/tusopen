@@ -1,0 +1,10 @@
+id: pat_imm_otoimmun_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "SLE tanısında en spesifik antikorlar hangileridir?"
+taksonomi:
+  - [ttbt, patoloji, pat_immun, pat_imm_otoimmun]
+metin: "Anti-dsDNA ve anti-Sm."

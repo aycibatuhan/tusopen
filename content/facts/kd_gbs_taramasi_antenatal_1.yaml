@@ -1,0 +1,11 @@
+id: kd_gbs_taramasi_antenatal_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Komplike olmayan nullipar gebede antenatal kontrol sıklığı nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_antenatal_izlem]
+metin: "İlk 28 haftada 4 haftada bir, 28-36. haftalarda 2 haftada bir, sonra haftada bir."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_T3Antenatal_takip.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Obstetride_Tanısal_Testler_ve_Metodlar26.11.2018.txt

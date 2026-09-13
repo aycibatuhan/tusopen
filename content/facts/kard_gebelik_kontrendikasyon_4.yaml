@@ -1,0 +1,11 @@
+id: kard_gebelik_kontrendikasyon_4
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Siyanotik hastada gebelik için risk eşiği nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_ozel_durumlar, kard_od_gebelik]
+metin: "İstirahat SaO2 <%85 olanlar çok yüksek risk grubundadır."
+# kaynak: 5.sınıf_Kardiyoloji_PHT___Gebelik___KY_Combined.txt

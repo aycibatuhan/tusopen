@@ -1,0 +1,18 @@
+id: dah_cardio_antikoag_1
+version: 1
+status: draft
+author: ai-drafts/dahiliye-antikoagulasyon
+sources:
+- ACC/AHA/ACCP/HRS 2023 Atriyal Fibrilasyon Rehberi ve 2020 ACC Kanama Yönetimi Uzman Görüşü Yolu — referans olarak listelendi, metin projesi özgün yazımdır
+- RE-VERSE AD ve ANNEXA-4 çalışmaları — referans olarak listelendi
+ad: "Hangi durumlarda warfarin zorunludur?"
+taksonomi:
+- - ktbt
+  - dahiliye
+  - dah_hematoloji
+  - dah_hem_antikoagulan_tedavi
+- - ktbt
+  - dahiliye
+  - dah_kardiyovaskuler
+  - dah_kv_atriyal_fibrilasyon
+metin: "Mekanik kapak, orta-ileri romatizmal mitral stenoz ve antifosfolipid sendromda."

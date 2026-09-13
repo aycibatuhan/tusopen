@@ -1,0 +1,11 @@
+id: gog_eaa_kriterler_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut hipersensitivite pnömonisinde belirtiler ne zaman başlar, ne kadar sürer?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_hipersensitivite]
+metin: "Maruziyetten 4-6 saat sonra; 48-72 saat içinde kendiliğinden geriler."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Meslek_hastalıkları_ders_(2).txt

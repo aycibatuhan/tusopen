@@ -1,0 +1,11 @@
+id: gog_astim_atak_siddet_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Astım atağında temel tedavi bileşenleri nelerdir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_obstruktif, gog_ob_astim_atak]
+metin: "Kısa etkili beta-2, ipratropiyum, kontrollü oksijen (SaO2 %93-95), sistemik steroid."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Astım_I_ve_II_staj_dersi_2022-23.txt

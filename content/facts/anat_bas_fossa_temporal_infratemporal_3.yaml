@@ -1,0 +1,11 @@
+id: anat_bas_fossa_temporal_infratemporal_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Fossa infratemporalis içinde neler yer alır?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_temporal_infratemporal]
+metin: A. maxillaris, plexus venosus pterygoideus, n. mandibularis, ganglion oticum ve mm. pterygoidei.
+# kaynak: 2._Sınıf_2.1_Anatomi_baş_bütünü.txt

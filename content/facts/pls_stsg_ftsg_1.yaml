@@ -1,0 +1,11 @@
+id: pls_stsg_ftsg_1
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Split deri greftinin kalınlık türleri ve ölçüleri nedir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yara_ve_doku, pce_yd_greft_ve_flap]
+metin: "İnce 0,25-0,30 mm; orta 0,30-0,45 mm; kalın 0,45-0,70 mm."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Greftler_ve_Flepler.txt

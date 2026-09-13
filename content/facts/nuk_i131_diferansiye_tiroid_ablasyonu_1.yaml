@@ -1,0 +1,11 @@
+id: nuk_i131_diferansiye_tiroid_ablasyonu_1
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Diferansiye tiroid kanserinde I-131 ablasyon doz kademeleri nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_radyonuklid_tedavi, nt_rt_tiroid_kanseri]
+metin: "Rezidüel dokuda 100 mCi; lokal metastazda 150 mCi; soliter akciğer ve kemik metastazı 200 mCi üstü; yaygın akciğer tutulumunda 100 mCi."
+# kaynak: 5.sınıf_Nükleer_Tıp_radionuclide_therapy_psma_eklenmiş.txt, 5.sınıf_Nükleer_Tıp_CTF_Staj-tümörsintigrafisi-2022.txt, 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

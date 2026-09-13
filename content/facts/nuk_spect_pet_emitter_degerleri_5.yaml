@@ -1,0 +1,11 @@
+id: nuk_spect_pet_emitter_degerleri_5
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PET/BT ve SPECT/CT'deki düşük doz BT bileşeninin amacı nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_temel, nt_tm_goruntuleme_cihazlari]
+metin: "Atenüasyon düzeltmesi ve anatomik lokalizasyon."
+# kaynak: 5.sınıf_Nükleer_Tıp_CTF_Staj-intro_send.txt, 5.sınıf_Nükleer_Tıp_CTF_Staj-tümörsintigrafisi-2022.txt, 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

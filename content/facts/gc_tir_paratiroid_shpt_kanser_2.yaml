@@ -1,0 +1,14 @@
+id: gc_tir_paratiroid_shpt_kanser_2
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: SHPT'de cerrahi endikasyon veren kalsiyum eşikleri?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_bas_boyun_tiroid
+  - gc_tir_paratiroid
+metin: Ca×P çarpımı >70 veya serum kalsiyumu >11 mg/dL.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Serkan_Teksöz_PARATİROİDİN_CERRAHİ_HASTALIKLARI.txt

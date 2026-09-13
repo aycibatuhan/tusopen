@@ -1,0 +1,11 @@
+id: bcy_kibas_tedavi_5
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Vücut ısısının serebral metabolizmaya etkisi ve hedefi nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_intrakraniyal_basinc, bce_ib_artmasi_ve_tedavi]
+metin: "Her 1 derece artış metabolizmayı %10 artırır; ısı 37,5 derecenin altında tutulur."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Ödemi_ve_KİBAS_S.T.txt

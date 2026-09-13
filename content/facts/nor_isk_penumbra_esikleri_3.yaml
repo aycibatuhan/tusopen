@@ -1,0 +1,11 @@
+id: nor_isk_penumbra_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İskemik penumbra nedir ve nasıl gösterilir?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_iskemik_inme]
+metin: "İki eşik arasındaki kurtarılabilir doku; difüzyon-perfüzyon uyumsuzluğuyla gösterilir."
+# kaynak: 5.sınıf_Nöroloji_Ischemic_Stroke__11.01.2023.txt

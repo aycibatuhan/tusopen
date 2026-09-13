@@ -1,0 +1,14 @@
+id: embriyo_sis_kalp_konjenital_anomaliler_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Fallot tetralojisinin bileşenleri nelerdir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_kalp
+metin: Pulmoner stenoz, aortanın dekstrapozisyonu, sağ ventrikül hipertrofisi ve VSD; konotrunkal eşitsiz bölünme.
+# kaynak: 2._Sınıf_2.2_Histoloji_KVS_gelişimi_G._Tanrıverdi.2019.txt

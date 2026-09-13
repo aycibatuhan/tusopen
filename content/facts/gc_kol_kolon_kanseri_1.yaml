@@ -1,0 +1,14 @@
+id: gc_kol_kolon_kanseri_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sağ kolon kanserinin klasik prezantasyonu?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_kolon_rektum_anus
+  - gc_kol_kolon_kanseri
+metin: Açıklanamayan mikrositik hipokromik anemi ve müphem sağ üst kadran ağrısı.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Ceyhun_Oral_Kolon_Kanseri.txt

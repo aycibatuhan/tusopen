@@ -1,0 +1,11 @@
+id: dah_dislipidemi_ldl_hedefler_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Risk faktörü olmayan kişide LDL hedefi kaçtır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_dislipidemi]
+metin: "160 mg/dL altı; iki ve daha fazla risk faktöründe 130 altıdır."
+# kaynak: 4._Sınıf_Dahiliye_Hyperlipidemi.txt

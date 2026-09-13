@@ -1,0 +1,11 @@
+id: nuk_tiroid_sintigrafi_nodul_riski_2
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klasik tiroid sintigrafisi protokolü nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_endokrin, nt_en_tiroid_sintigrafi]
+metin: "5 mCi Tc-99m IV sonrası 20. dakikada pinhole kollimatörle anterior ve oblik planar görüntüler."
+# kaynak: 5.sınıf_Nükleer_Tıp_Endokrin_Sistemde_Nükleer_Tıp_Uyg.txt, 5.sınıf_Nükleer_Tıp_PRATİK_Endokrin_PET.txt

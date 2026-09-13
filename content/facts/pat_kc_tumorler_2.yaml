@@ -1,0 +1,11 @@
+id: pat_kc_tumorler_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hepatik adenomun histolojik anahtarı ve riski?"
+taksonomi:
+  - [ttbt, patoloji, pat_karaciger_safra, pat_kc_tumorler]
+metin: "Portal alan ve santral ven yokluğu; subkapsüler rüptür riski."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Patoloji_Karaciğer_Pancreas.txt

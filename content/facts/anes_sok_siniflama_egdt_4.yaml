@@ -1,0 +1,11 @@
+id: anes_sok_siniflama_egdt_4
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kardiyojenik şok kaçta miyokard hasarıyla gelişir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_yogun_bakim, anes_yb_sok_vazopressor]
+metin: "Genellikle kitlenin >%40'ının hasarıyla; sıklıkla sol ana dal veya LAD tıkanıklığı."
+# kaynak: 4._Sınıf_Anestezi_2.txt

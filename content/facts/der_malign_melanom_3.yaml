@@ -1,0 +1,11 @@
+id: der_malign_melanom_3
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Melanomda klinik şüpheli lezyonda hangi kural kullanılır?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_deri_tumorleri, derm_tu_melanom]
+metin: "ABCD kuralı kullanılır."
+# kaynak: 5.sınıf_Dermatoloji_zk_DERİ_KANSERLERİ.txt

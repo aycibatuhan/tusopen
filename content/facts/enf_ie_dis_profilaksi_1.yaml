@@ -1,0 +1,15 @@
+id: enf_ie_dis_profilaksi_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İnfektif endokardit profilaksisi hangi hastalara önerilir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_kardiyovaskuler
+  - enf_kv_endokardit
+metin: 'Yalnızca en yüksek risklilere: protez kapak, geçirmiş IE, konjenital siyanotik kalp hastalığı, transplant sonrası valvülopati.'
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Antimikkemoprofilaksison.txt

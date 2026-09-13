@@ -1,0 +1,11 @@
+id: anat_ae_saphena_venleri_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: V. saphena magna ve parva nereye dökülür?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_damarlar]
+metin: Magna v. femoralis'e (medial malleol arkasında, n. saphenus ile); parva v. poplitea'ya (lateral malleol arkasında, n. suralis ile).
+# kaynak: 2._Sınıf_2.2_anatomi_venler_2019_son.txt

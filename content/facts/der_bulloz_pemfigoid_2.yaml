@@ -1,0 +1,11 @@
+id: der_bulloz_pemfigoid_2
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Büllöz pemfigoidde bülün tavanı nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_pemfigoid]
+metin: "Epidermisin tamamı; büller gergin ve kolay patlamaz."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

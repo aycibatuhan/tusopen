@@ -1,0 +1,11 @@
+id: ftr_fibromiyalji_kriterleri_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ACR 1990 fibromiyalji kriterleri nedir?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_fibromiyalji]
+metin: "Üç ayı aşan yaygın ağrı ve 18 hassas noktadan en az 11'inde palpasyonla ağrı."
+# kaynak: 5.sınıf_FTR_Ders_Yum_doku_rom-ÜA-tr.txt, 5.sınıf_FTR_Olgu_dersiçi_sunum-_yaygın_ağrı.txt

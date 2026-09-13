@@ -1,0 +1,10 @@
+id: pat_gen_atipik_kalitim_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mitokondriyal DNA mutasyonları nasıl kalıtılır?"
+taksonomi:
+  - [ttbt, patoloji, pat_genetik, pat_gen_atipik_kalitim]
+metin: "Yalnızca anneden; MELAS ve MERRF örnekleri."

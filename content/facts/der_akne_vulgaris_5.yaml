@@ -1,0 +1,11 @@
+id: der_akne_vulgaris_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İlaç kaynaklı akneiform erüpsiyonun karakteristikleri nelerdir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_akne_sebase, derm_ak_akne_vulgaris]
+metin: "Monomorfizm, akne yaşının dışında başlangıç ve ilacın kesilmesiyle lezyonların gerilemesi."
+# kaynak: 5.sınıf_Dermatoloji_Akne_ve_benzer_dermatozlar.txt, 5.sınıf_Dermatoloji_acne_and_related_disorders.txt

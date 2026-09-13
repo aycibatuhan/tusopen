@@ -1,0 +1,11 @@
+id: gog_tbc_ilac_doz_yan_etki_5
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi tüberküloz ilacı gebelikte kullanılmaz?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_tuberkuloz_tedavi]
+metin: "Streptomisin; fetüste 8. kafa çifti üzerine teratojeniktir."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_2019-2020_TBC_Dersi_30.08.2022-3-Tedavi.txt

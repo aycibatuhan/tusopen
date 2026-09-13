@@ -1,0 +1,11 @@
+id: pat_kyd_kemik_tumorleri_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aspirinle geçen persistan gece ağrısı hangi tümörde?"
+taksonomi:
+  - [ttbt, patoloji, pat_kemik_yumusak_doku, pat_kyd_kemik_tumorleri]
+metin: "Osteoid osteom; 2 cm üstü-aspirinle geçmeyen osteoblastom."
+# kaynak: 2._Sınıf_2.1_patoloji_kemik_patolojisi_II.txt

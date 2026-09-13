@@ -1,0 +1,15 @@
+id: ped_bes_anne_sutu_kurallar_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Emzirmede biberon ve yalancı emzik kullanımı nasıl değerlendirilir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_anne_sutu
+metin: Kullanılmamalı; anne-bebek 24 saat aynı odada kalmalı, emzirme isteğe göre düzenlenmelidir.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_Doğal_Beslenme-Sınıf_4.txt

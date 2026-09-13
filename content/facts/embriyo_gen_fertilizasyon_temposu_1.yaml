@@ -1,0 +1,14 @@
+id: embriyo_gen_fertilizasyon_temposu_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kapasitasyon ne kadar sürer ve nerede olur?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_fertilizasyon
+metin: Dişi üreme kanalında yaklaşık 7 saat; döllenme yeteneği kazanma değişimi.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_GELİŞİMİN_1.HAFTASI.txt

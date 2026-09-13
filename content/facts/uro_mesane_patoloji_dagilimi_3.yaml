@@ -1,0 +1,11 @@
+id: uro_mesane_patoloji_dagilimi_3
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Mesane kanserinde cinsiyet ve yaş dağılımı nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_onkoloji, uro_onk_mesane_kanseri]
+metin: "Erkek/kadın ~2.8:1; hastaların %70'inden fazlası 65 yaş üstünde tanı alır."
+# kaynak: 4._Sınıf_Üroloji_mesane_kanseri-turkce.txt, 4._Sınıf_Üroloji_mesanetm.txt

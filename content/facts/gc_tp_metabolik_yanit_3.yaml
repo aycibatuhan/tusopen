@@ -1,0 +1,13 @@
+id: gc_tp_metabolik_yanit_3
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sepsiste bazal enerji harcaması yüzde kaç artar?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_metabolik_yanit
+metin: '%40 (majör cerrahide %15-25; yaygın yanıkta %100''e kadar).'

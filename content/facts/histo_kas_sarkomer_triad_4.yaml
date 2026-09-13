@@ -1,0 +1,14 @@
+id: histo_kas_sarkomer_triad_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kalın ve ince filamentlerin sarkomerdaki yayılımı nasıldır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kas
+  - histo_kas_iskelet
+metin: Kalın filamentler A bandıyla sınırlı; ince filamentler Z çizgisinden H bandının kenarına uzanır.
+# kaynak: 1._Sınıf_1.3_Histoloji_KAS_DOKUSU_HİSTOLOJİSİ.txt

@@ -1,0 +1,11 @@
+id: kbb_epiglottit_krup_ayirimi_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Akut epiglottitte en sık etken ve tipik yaş nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_larinks, kbb_lr_akut_larenjit_krup]
+metin: "H. influenzae tip B; 3-6 yaş."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

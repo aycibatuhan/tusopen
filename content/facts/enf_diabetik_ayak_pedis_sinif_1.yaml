@@ -1,0 +1,15 @@
+id: enf_diabetik_ayak_pedis_sinif_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Diyabetik ayak infeksiyonu tanısı nasıl konur?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_diyabetik_ayak
+metin: Kızarıklık, ısı artışı, şişlik, hassasiyetten en az ikisi veya pürülan sekresyon gerekir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_diyabetik_ayak_dersi_2021.txt

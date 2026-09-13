@@ -1,0 +1,11 @@
+id: kbb_tiroglossal_kist_sistrunk_3
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lateral boyun kistlerinin yüzde kaçı ikinci brankial yarıktır?"
+taksonomi:
+  - [ktbt, kbb, kbb_boyun, kbb_by_konjenital_kitleler]
+metin: "%95 (SKM ön kenarının derininde)."
+# kaynak: 5.sınıf_KBB_Boyun_Kitleleri_ders_notları_2016.txt

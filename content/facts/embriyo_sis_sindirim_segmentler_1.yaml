@@ -1,0 +1,14 @@
+id: embriyo_sis_sindirim_segmentler_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ön barsak türevleri hangileridir ve hangi arterle kanlanır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_sindirim
+metin: Özefagus, mide, duodenum (ampulla Vateri proksimaline kadar), karaciğer, pankreas, safra yolları; çöliak trunkus ve vagus.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_Sisteminin_Gelişimi-I.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_Sisteminin_Gelişimi-II.txt

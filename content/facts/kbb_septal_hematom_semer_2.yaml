@@ -1,0 +1,11 @@
+id: kbb_septal_hematom_semer_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Septal hematom nasıl ortaya çıkar?"
+taksonomi:
+  - [ktbt, kbb, kbb_burun, kbb_bn_septum]
+metin: "Travmadan birkaç gün sonra bilateral tıkanıklık, serohemorajik akıntı."
+# kaynak: 5.sınıf_KBB_KBB_acilleri.txt

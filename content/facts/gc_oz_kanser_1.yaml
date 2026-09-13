@@ -1,0 +1,14 @@
+id: gc_oz_kanser_1
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Özofagus skuamöz hücreli karsinomunun yerleşimi?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_ozofagus
+  - gc_oz_kanser
+metin: Üst 2/3; adenokarsinom distal 1/3 ve kardiada (Barrett'e bağlı).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Faik_Özçelik_OEZOFAGUS_KANSERI_2017.txt

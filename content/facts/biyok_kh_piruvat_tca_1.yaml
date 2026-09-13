@@ -1,0 +1,10 @@
+id: biyok_kh_piruvat_tca_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pirüvat dehidrogenaz kompleksinin reaksiyonu ve kofaktörleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_piruvat_tca]
+metin: "Pirüvatı asetil-KoA'ya çevirir; tiamin pirofosfat, lipoik asit, KoA, FAD ve NAD kullanır."

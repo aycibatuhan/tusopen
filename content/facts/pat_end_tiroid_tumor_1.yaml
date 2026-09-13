@@ -1,0 +1,10 @@
+id: pat_end_tiroid_tumor_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En sık tiroid malignitesi hangisidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_endokrin, pat_end_tiroid_tumor]
+metin: "Papiller karsinom."

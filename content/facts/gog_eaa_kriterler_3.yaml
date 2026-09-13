@@ -1,0 +1,11 @@
+id: gog_eaa_kriterler_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "EAA'da işyerinde doğal provokasyon testinin ölütleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_hipersensitivite]
+metin: "VC'de %20, difüzyonda %20, PaO2'de 5 mmHg düşüş; lökositte 2500 artış, ateşte 0,8°C yükselme; üçü."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Meslek_hastalıkları_ders_(2).txt

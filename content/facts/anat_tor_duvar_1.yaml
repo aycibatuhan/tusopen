@@ -1,0 +1,10 @@
+id: anat_tor_duvar_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: İnterkostal aralıkta damar-sinir dizilimi nasıldır?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_duvar]
+metin: Kaburga oluğunda üstten alta ven, arter, sinir (VAN) düzeninde.

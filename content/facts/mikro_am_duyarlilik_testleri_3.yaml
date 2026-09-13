@@ -1,0 +1,11 @@
+id: mikro_am_duyarlilik_testleri_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Beta-laktamaz aktivitesi hangi testle ve hangi izolatlarda aranır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_antimikrobiyal, mikro_am_duyarlilik]
+metin: "Nitrosefin testi; gonokok, H. influenzae, anaerop ve S. aureus izolatlarında."
+# kaynak: Antibiyotik_direnci_ve_önemi15.txt

@@ -1,0 +1,11 @@
+id: biyok_hs_membran_nakatpaz_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Taşıyıcı aracılı transporta örnek eşleştirmeleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_hucre_su, biyok_hs_hucre_organel]
+metin: "Bant 3 klor-bikarbonat antiportu; bağırsak glukozu Na+ ile simport (sekonder aktif)."
+# kaynak: 1._Sınıf_1.2_Biyokimya_MEMBRANE_TRANSPORT_2018.txt

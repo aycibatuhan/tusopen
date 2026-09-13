@@ -1,0 +1,15 @@
+id: ped_hem_demir_eksikligi_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Demir eksikliği anemisinin laboratuvar bulguları nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_hematoloji
+  - ped_hem_demir_eksikligi
+metin: Ferritin <12 ng/L, transferrin satürasyonu <%16; mikrositik-hipokromik anemi ve yüksek RDW.
+
+# kaynak: 4._Sınıf_Pediatri_Hilmi_Apak_2021-dersNutrisyonel_Anemiler.txt

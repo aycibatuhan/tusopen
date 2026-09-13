@@ -1,0 +1,11 @@
+id: dah_htn_siniflama_esikler_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipertansif kalp hastalığının en erken klinik bulgusu nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_kardiyovaskuler, dah_kv_hipertansiyon_yonetimi]
+metin: "S4 sesi; sol ventrikül hipertrofisi EKG bulgularından önce duyulur."
+# kaynak: 2._Sınıf_2.2_kardiyoloji_2.Sınıf-HİPERTANSİYON.txt

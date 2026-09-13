@@ -1,0 +1,11 @@
+id: kard_aks_ikili_antitrombosit_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "P2Y12 inhibitörlerinin yükleme dozları nelerdir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_antitrombotik]
+metin: "Tikagrelor 180 mg, prasugrel 60 mg, klopidogrel 600 mg."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

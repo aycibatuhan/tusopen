@@ -1,0 +1,11 @@
+id: anat_noro_dura_sinuses_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Sinus durae matrisleri nereye boşalır?
+taksonomi:
+  - [ttbt, anatomi, anat_noroanatomi, anat_noro_meninks_bos]
+metin: Foramen jugulare'den v. jugularis interna'ya; BOS'un venöz sisteme boşalmasına aracılık eder.
+# kaynak: 2._Sınıf_2.2_anatomi_venler_2019_son.txt

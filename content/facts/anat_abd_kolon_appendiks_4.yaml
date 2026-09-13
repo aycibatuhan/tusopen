@@ -1,0 +1,11 @@
+id: anat_abd_kolon_appendiks_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: A. appendicularis neden gangrene zemin hazırlar?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_kalin_barsak]
+metin: Mesoappendix içinde seyreden terminal arterdir; tıkanması gangrene yol açar.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-TURAN_PEŞTAMALCI-_AbdominoPelvikOrganlar_III_KALIN_BARSAKLAR.txt

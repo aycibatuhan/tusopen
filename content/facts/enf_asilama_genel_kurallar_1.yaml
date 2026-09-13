@@ -1,0 +1,15 @@
+id: enf_asilama_genel_kurallar_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Aşı doz aralığını uzatmak veya kısaltmak etkinliği nasıl etkiler?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_asilar_seyahat
+  - enf_as_eriskin_asilar
+metin: Uzatmak etkinliği azaltmaz; kısaltmak azaltır.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Erişkinde_aşılama_staj_2021.txt

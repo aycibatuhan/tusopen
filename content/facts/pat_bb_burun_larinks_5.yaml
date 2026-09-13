@@ -1,0 +1,11 @@
+id: pat_bb_burun_larinks_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Larinks karsinomlarında en iyi prognozlu yerleşim neresidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_bas_boyun, pat_bb_burun_larinks]
+metin: "Glottik (%60-75); erken ses kısıklığı, geç lenf metastazı."
+# kaynak: 2._Sınıf_2.3_Patoloji_1-Solunum_sistemi_hastalıkları_2019.txt

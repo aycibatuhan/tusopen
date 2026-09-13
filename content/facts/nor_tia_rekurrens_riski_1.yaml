@@ -1,0 +1,11 @@
+id: nor_tia_rekurrens_riski_1
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İnme ve TIA 24 saat eşiğine göre nasıl ayrılır?"
+taksonomi:
+  - [ktbt, noroloji, noro_serebrovaskuler, noro_sv_tia]
+metin: "Fokal defisit 24 saatten uzun sürerse inme; sekelsiz kısaysa TIA."
+# kaynak: 5.sınıf_Nöroloji_Ischemic_Stroke__11.01.2023.txt

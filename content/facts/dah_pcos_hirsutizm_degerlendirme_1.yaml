@@ -1,0 +1,11 @@
+id: dah_pcos_hirsutizm_degerlendirme_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PCOS Rotterdam kriterleri nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_pkos_hirsutizm]
+metin: "Üç bulgudan ikisi: hiperandrojenizm, oligo-anovülasyon, polikistik over morfolojisi."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Kadın_Reprodüktif_Sistem_Hst.txt

@@ -1,0 +1,10 @@
+id: farm_pd_doz_yanit_3
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gücü düşük ilaç ne zaman üstün olabilir?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakodinamik, farm_pd_doz_yanit]
+metin: "Tavanı yüksekse klinikte daha üstün olabilir."

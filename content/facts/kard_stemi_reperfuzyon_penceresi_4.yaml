@@ -1,0 +1,11 @@
+id: kard_stemi_reperfuzyon_penceresi_4
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "STEMIde 12-48 saat prezentasyonda yaklaşım nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_reperfuzyon]
+metin: "Süren iskemik semptom/hemodinamik bozulmada rutin primer PKG; >48 saatte önerilmez."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

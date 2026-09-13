@@ -1,0 +1,11 @@
+id: anes_transfuzyon_hb_esikleri_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Trombosit transfüzyonu eşikleri nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_sivi_kan, anes_sk_transfuzyon]
+metin: "Spontan kanama 10-20 bin/mm³, cerrahi girişim 20-50 bin, majör cerrahi 50-100 bin."
+# kaynak: 4._Sınıf_Anestezi_2.txt, 4._Sınıf_Anestezi_KAN_VE_KAN_ÜRÜNLERİ_TRANSFÜZYONLARI.txt

@@ -1,0 +1,11 @@
+id: mikro_gb_gen_aktarimi_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Faj konversiyonuyla kazanılan virulans özelliklerine örnekler nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_genetik]
+metin: "Difteri, botulinum, kızıl (eritrojenik), kolera toksinleri ve EHEC toksini."
+# kaynak: bakteri_metabolizma__kültür__tanımlama.txt, Endotoksin-Ekzotoksin.txt

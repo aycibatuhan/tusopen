@@ -1,0 +1,11 @@
+id: fiz_gis_yutma_sfinkterler_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yutma refleksi hangi merkezin koordinasyonuyla otomatikleşir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_tukuruk_yutma]
+metin: "Medulladaki yutma merkezi; farinks fazı 1-2 saniyede tamamlanır."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_4._Yutma_Mekanizması_Nisan.2020.txt

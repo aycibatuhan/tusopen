@@ -1,0 +1,10 @@
+id: biyok_aa_plazma_proteinleri_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En bol plazma proteini hangisidir ve nerede sentezlenir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_plazma_proteinleri]
+metin: "Albümin; koloid osmotik basıncın büyük bölümünü üstlenir, karaciğerde sentezlenir."

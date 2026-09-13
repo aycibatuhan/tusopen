@@ -1,0 +1,15 @@
+id: enf_nozokomiyal_pnomoni_etken_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Entübe hastada VAP ne zaman düşünülür ve nasıl tanınır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_solunum
+  - enf_sol_hastane_pnomoni
+metin: Ateş, pürülan sekresyon ve solunum parametrelerinin bozulması; endotrakeal aspirat/balgam Gram-kültürü, seçilmiş olgularda BAL.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Sistemlere_göre_sık_enfeksiyonlar.txt, 5.sınıf_Enfeksiyon_Hastalıkları_Antibiyotikler_İİB_2020.txt

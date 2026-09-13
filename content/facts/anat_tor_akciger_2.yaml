@@ -1,0 +1,13 @@
+id: anat_tor_akciger_2
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Yabancı cisim aspirasyonu neden daha çok sağ bronşa gider?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_toraks
+  - anat_tor_akciger
+metin: Sağ ana bronş kısa, geniş ve daha dik seyirlidir.

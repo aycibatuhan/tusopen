@@ -1,0 +1,10 @@
+id: kd_gf_fetal_gelisim_4
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anne fetal hareketleri ilk gebelikte hangi haftalarda hisseder?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_fetal_gelisim]
+metin: "İlk gebelikte 18-20, sonraki gebeliklerde 16-18. haftalarda."

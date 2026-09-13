@@ -1,0 +1,11 @@
+id: ort_osteosarkom_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Osteosarkomda direkt grafide periostal reaksiyon görünümü nedir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kemik_tumorleri, orto_kt_osteosarkom]
+metin: "Codman üçgeni ve güneş ışığı görünümü."
+# kaynak: 5.sınıf_Ortopedi_habıs_kemık_tümörlerı.txt

@@ -1,0 +1,15 @@
+id: enf_herpes_ensefalit_asil_tani_4
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Herpes ensefaliti kuşkulu hastada tanı beklenmeden ne yapılmalıdır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_mss
+  - enf_mss_ensefalit
+metin: Ampirik asiklovir derhal başlanmalıdır.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt

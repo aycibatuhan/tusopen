@@ -1,0 +1,10 @@
+id: anat_noro_ventrikuller_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Yetişkinde toplam BOS miktarı ve günlük üretimi?
+taksonomi:
+  - [ttbt, anatomi, anat_noroanatomi, anat_noro_ventrikuller]
+metin: Yaklaşık 150 mL toplam; günde yaklaşık 500 mL üretilir.

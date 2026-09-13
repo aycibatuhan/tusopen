@@ -1,0 +1,11 @@
+id: uro_tas_goruntuleme_nonkontrast_bt_1
+version: 1
+status: draft
+author: "ai-drafts/uroloji-facts"
+sources:
+  - "Üroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Üriner taş tanısında ilk seçenek görüntüleme nedir?"
+taksonomi:
+  - [ktbt, uroloji, uro_tas_hastaligi, uro_tas_renal_kolik]
+metin: "Kontrastsız BT (altın standart); indinavir taşı hariç tüm taşlar hiperdens görülür."
+# kaynak: 4._Sınıf_Üroloji_Ders_5-UROLITHIASIS-_Bulent_Onal.txt, 3._Sınıf_3.2_Üroloji_Urolithiasis.txt

@@ -1,0 +1,13 @@
+id: histo_kas_iskelet_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: İskelet kası onarımı nasıl gerçekleşir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_kas
+  - histo_kas_iskelet
+metin: Hücreler mitoz yapamadığından satelit hücreleri yeni miyoblastlar sağlar.

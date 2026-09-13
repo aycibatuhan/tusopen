@@ -1,0 +1,11 @@
+id: dah_hipofiz_tsh_adenom_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hormon salgılamayan hipofiz tümörlerinin çoğunluğu nedir ve nasıl bulgu verir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipofiz_adenom]
+metin: "Gonadotropinomalar; hormon fazlalığı yerine yer kaplayıcı bası semptomları öndedir."
+# kaynak: 4._Sınıf_Dahiliye_ön_hipofiz_hastalıkları.txt

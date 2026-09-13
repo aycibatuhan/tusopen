@@ -1,0 +1,11 @@
+id: mikro_mikobakteri_atipik_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "30-32 derecede üreyen deri patojeni mikobakteriler hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_atipik]
+metin: "M. marinum, M. ulcerans ve M. haemophilum."
+# kaynak: Mycobacterium_leprae.txt, Mycobacterium_tuberculosis.txt

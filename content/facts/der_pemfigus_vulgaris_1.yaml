@@ -1,0 +1,11 @@
+id: der_pemfigus_vulgaris_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pemfigus vulgariste otoantikorların hedefi nedir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_pemfigus]
+metin: "IgG, desmoglein 1 ile 3'ü hedefler; akantolizisle süprabazal intraepidermal bül oluşur."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

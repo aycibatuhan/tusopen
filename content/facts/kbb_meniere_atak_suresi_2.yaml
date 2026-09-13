@@ -1,0 +1,11 @@
+id: kbb_meniere_atak_suresi_2
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Meniere atağına eşlik eden belirtiler nelerdir?"
+taksonomi:
+  - [ktbt, kbb, kbb_ic_kulak, kbb_ik_meniere]
+metin: "Bulantı-kusma, unilateral işitme kaybı, uğultu, kulak dolgunluğu."
+# kaynak: 5.sınıf_KBB_myener_vest_sistem.txt

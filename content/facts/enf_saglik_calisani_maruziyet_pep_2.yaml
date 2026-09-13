@@ -1,0 +1,15 @@
+id: enf_saglik_calisani_maruziyet_pep_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Anti-HBs negatif çalışan HBsAg pozitif hastadan kanla temasa geçerse ne yapılır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_hastane_enfeksiyonlari
+  - enf_he_saglik_calisani
+metin: HBIG (0,06 mL/kg) ve hepatit B aşısı ilk 24 saatte; aşı 1. ve 6. aylarda yinelenir.
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_Enfeksiyon_Acilleri_2022.txt

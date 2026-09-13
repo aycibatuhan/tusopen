@@ -1,0 +1,15 @@
+id: ped_enf_kabakulak_2
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kabakulak parotitisinin özellikleri nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_enfeksiyon
+  - ped_enf_kabakulak
+metin: Yaklaşık %40 sessiz geçer; parotis %75 bilateral, çiğnemekle-eksiyle ağrılı, Stenon kanalı ödemli-kızarıktır.
+
+# kaynak: 4._Sınıf_Pediatri_Haluk_Çokuğraş_bog-kab.txt

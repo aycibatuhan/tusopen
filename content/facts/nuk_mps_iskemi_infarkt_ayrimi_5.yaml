@@ -1,0 +1,11 @@
+id: nuk_mps_iskemi_infarkt_ayrimi_5
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal bir MPS'in prognostik değeri nedir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_kardiyak, nt_kd_miyokard_perfuzyon]
+metin: "Yıllık kardiyak olay riski %1'in altında; mükemmel negatif prediktif değer."
+# kaynak: 5.sınıf_Nükleer_Tıp_MPS_Türkçe_22-23.txt

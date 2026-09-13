@@ -1,0 +1,15 @@
+id: ped_bg_vki_rebound_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Adiposite rebound nedir ve erken başlaması neyi gösterir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: VKİ'nin 4-6 yaşa kadar düşüp yeniden yükselmesi; 4-6 yaştan önce başlaması erişkin obezitesiyle ilişkilidir.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜMENİN_DEĞERLENDİRİLMESİ_ve_İZLENMESİ-Sınıf_4.txt

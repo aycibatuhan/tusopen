@@ -1,0 +1,10 @@
+id: anat_pel_perine_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Perineyi ön ve arka üçgene ayıran çizgi?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_perine]
+metin: İki iskial tüberozite arası; ön ürogenital, arka anal üçgen.

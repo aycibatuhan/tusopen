@@ -1,0 +1,14 @@
+id: genetik_genetik_hastalik_sikliklari_2
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Beta ve alfa talaseminin coğrafi dağılımı nasıldır?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_populasyon_genetigi
+metin: Beta Akdeniz'de yoğunlaşır; alfa en sık güneydoğu Asya'da.
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_T_Tıp_Hemoglobinopatiler.txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_4._Ders_Gen_aileleri_DGA.txt, 1._Sınıf_1.3_Tıbbi_Biyoloji_Gen_tedavisi.txt, 1._Sınıf_1.2_Tıbbi_Biyoloji_HÜCRESEL_YAŞLANMA_13.12._2018.txt, 1._Sınıf_1.2_Tıbbi_Biyoloji_Mitokondri_(M_Güven_2018-2019_Güz).txt

@@ -1,0 +1,11 @@
+id: hsag_bi_kikare_varsayimlari_4
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "McNemar testi ne zaman kullanılır?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_ki_kare]
+metin: "Aynı bireylerde bağımlı iki gözlemde; istatistik (b-c) karesi / (b+c) ile hesaplanır."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_ki-KareANALİZİ.txt, 3._Sınıf_3.3_Biyoistatistik_Hipotez_Testleri_GENEL.txt

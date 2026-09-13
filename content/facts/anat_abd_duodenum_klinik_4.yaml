@@ -1,0 +1,11 @@
+id: anat_abd_duodenum_klinik_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Duodenal hemoraji arteri hangisidir?
+taksonomi:
+  - [ttbt, anatomi, anat_abdomen, anat_abd_ince_barsak]
+metin: A. gastroduodenalis; 1. bölümün arkasından geçer, arka duvar ülserinde kanar.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-TURAN_PEŞTAMALCI-_AbdominoPelvikOrganlar_II_İNCE_BARSAKLAR.txt

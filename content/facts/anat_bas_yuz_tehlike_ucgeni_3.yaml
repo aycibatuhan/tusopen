@@ -1,0 +1,11 @@
+id: anat_bas_yuz_tehlike_ucgeni_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Üst dudak enfeksiyonları hangi ven yoluyla sinus cavernosus'a yayılır?
+taksonomi:
+  - [ttbt, anatomi, anat_bas, anat_bas_yuz]
+metin: V. facialis → v. angularis → v. ophthalmica → sinus cavernosus; plexus pterygoideus yolu da vardır.
+# kaynak: 3._Sınıf_3.3_Anatomi_YÜZÜN_TOPOGRAFİK_ve_KLİNİK_ANATOMİSİ_-_IV_18.02.2021_12_(1).txt, 3._Sınıf_3.3_Anatomi_YÜZÜN_TOPOGRAFİK_ve_KLİNİK_ANATOMİSİ_-_III_17.02.2021_12_(1).txt

@@ -1,0 +1,11 @@
+id: kard_mi_mekanik_komplikasyonlar_4
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serbest duvar (kalp) rüptürünün bulguları nelerdir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_mi_komplikasyonlari]
+metin: "Juguler venöz dolgunluk, pulsus paradoksus ve elektromekanik disosiasyon."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

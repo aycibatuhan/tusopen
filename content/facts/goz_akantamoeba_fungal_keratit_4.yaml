@@ -1,0 +1,11 @@
+id: goz_akantamoeba_fungal_keratit_4
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fungal keratit tedavisinde hangi ilaçlar ve ne kadar süre kullanılır?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_konjonktiva_kornea, goz_kk_fungal_akantamoba]
+metin: "Topikal natamisin ve imidazoller yaklaşık 6 hafta."
+# kaynak: 5.sınıf_Göz_Hastalıkları_Kornea_Hastalıkları_01_06_2020.txt

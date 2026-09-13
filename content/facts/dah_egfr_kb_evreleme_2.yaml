@@ -1,0 +1,11 @@
+id: dah_egfr_kb_evreleme_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "KBH evreleme basamakları nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_kronik_bobrek]
+metin: "G1 90 üzeri, G2 60-89, G3 30-59, G4 15-29, G5 15 altı veya diyaliz."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_RENALF_1.txt, 3._Sınıf_3.4_İç_hastalıkları_Bo_brek.txt

@@ -1,0 +1,11 @@
+id: anat_lenf_axiller_inguinal_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Ayak lenf akımının ilk iki durağı?
+taksonomi:
+  - [ttbt, anatomi, anat_lenfatik, anat_lenf_bolgesel]
+metin: Nodi poplitei, sonra nodi inguinales; en alt-büyük derin inguinal düğüm Rosenmüller-Cloquet.
+# kaynak: 2._Sınıf_2.2_anatomi_lenfatik_sistem_öğrenci.txt, 1._Sınıf_1.1_Anatomi_2018.10.01__Dolaşım_Sistemi.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Anatomi_ANATOMİ-TURAN_PEŞTAMALCI-_AbdominoPelvikOrganlar_III_KALIN_BARSAKLAR.txt

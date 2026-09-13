@@ -1,0 +1,49 @@
+id: anat_ks_cekirdekler_1
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kranial sinirlerin çıkış düzeyi grupları nasıldır?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_kranial_sinirler
+  - anat_ks_cekirdekler
+metin: I-II prosensefalon, III-IV orta beyin, V-VIII pons, IX-XII medulla kaynaklıdır.
+gorsel:
+  dosya: Brain_human_normal_inferior_view_with_labels_en.svg
+  kaynak: https://commons.wikimedia.org/wiki/File:Brain_human_normal_inferior_view_with_labels_en.svg
+  lisans: CC BY 2.5
+  yazar: Patrick J. Lynch, medical illustrator (original); Beao (labeling)
+  etiketler:
+  - ad: N. optikus (II)
+    x: 71
+    y: 21
+    w: 13
+    h: 6
+  - ad: N. okulomotorius (III)
+    x: 3
+    y: 28
+    w: 22
+    h: 6
+  - ad: N. trigeminus (V)
+    x: 75
+    y: 34
+    w: 23
+    h: 6
+  - ad: N. fasiyal (VII)
+    x: 76
+    y: 52
+    w: 12
+    h: 6
+  - ad: N. vagus (X)
+    x: 75
+    y: 68
+    w: 16
+    h: 6
+  - ad: N. hipoglossus (XII)
+    x: 5
+    y: 63
+    w: 25
+    h: 6

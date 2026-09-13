@@ -1,0 +1,11 @@
+id: anat_pel_pelvik_giris_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Pelvik giriş biçimi cinsiyete göre nasıl değişir?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_pelvik_duvar]
+metin: Kadında oval, erkekte kalp biçimli; arcus pubicus kadında daha geniş.
+# kaynak: 3._Sınıf_3.3_Anatomi_Pelvis_Anatomisi_ve_Kliniği_2020-21.txt

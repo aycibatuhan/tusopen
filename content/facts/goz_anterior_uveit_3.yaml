@@ -1,0 +1,11 @@
+id: goz_anterior_uveit_3
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anterior üveit tedavisinde hangi ilaçlar kullanılır?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_uvea, goz_uv_anterior_uveit]
+metin: "Kortikosteroidlerle birlikte topikal midriatik ve sikloplejinler."
+# kaynak: 5.sınıf_Göz_Hastalıkları_uveitis.txt, 5.sınıf_Göz_Hastalıkları_kırmızı_göz_2.txt

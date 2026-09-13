@@ -1,0 +1,10 @@
+id: mikro_mik_tuberculosis_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "M. tuberculosis neden Gram boyasıyla boyanmaz?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikobakteri, mikro_mik_tuberculosis]
+metin: "Hücre duvarındaki mikolik asitler nedeniyle; Ziehl-Neelsende asit-alkol dirençli kırmızı görünür."

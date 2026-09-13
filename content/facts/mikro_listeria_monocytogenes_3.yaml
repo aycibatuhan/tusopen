@@ -1,0 +1,11 @@
+id: mikro_listeria_monocytogenes_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebelikte Listeria enfeksiyonunun anne-fetus sonuçları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_listeria]
+metin: "Plasentadan geçerek düşük ve erken doğum; yenidoğanda 1-4 hafta sonra akut menenjit."
+# kaynak: Corynebacterium_ve_Listeria_cinsi_bakteriler.txt

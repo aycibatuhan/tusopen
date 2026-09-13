@@ -1,0 +1,11 @@
+id: farm_km_genel_prensipler_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HBV ile kontamine aletler için tercih?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_kemoterapotik, farm_km_genel_prensipler]
+metin: "Gluteraldehit (sporlarda 3-10 saat)."
+# kaynak: 2._Sınıf_2.4_1.vize_Farmakoloji_antiseptikler_ve_dezenfektanlar_SİBEL.txt

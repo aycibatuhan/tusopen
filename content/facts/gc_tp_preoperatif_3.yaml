@@ -1,0 +1,13 @@
+id: gc_tp_preoperatif_3
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Ameliyat öncesi açlık kuralları nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_preoperatif
+metin: Katı gıdalar 6 saat, berrak sıvılar 2 saat önce kesilir.

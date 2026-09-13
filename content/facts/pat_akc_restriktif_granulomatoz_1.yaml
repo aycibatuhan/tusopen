@@ -1,0 +1,11 @@
+id: pat_akc_restriktif_granulomatoz_1
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sarkoidozda bronş yıkama sıvısında CD4/CD8 oranı ne olur?"
+taksonomi:
+  - [ttbt, patoloji, pat_akciger, pat_akc_restriktif]
+metin: "3.5'in üzerine çıkar."
+# kaynak: 2._Sınıf_2.3_Patoloji_6-Solunum_sistemi_hastalıkları_2019.txt

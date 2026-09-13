@@ -1,0 +1,11 @@
+id: pls_stsg_ftsg_5
+version: 1
+status: draft
+author: "ai-drafts/plastik-cerrahi-facts"
+sources:
+  - "Plastik cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tam kalınlıklı greftin özellikleri nelerdir?"
+taksonomi:
+  - [ktbt, plastik_cerrahi, pce_yara_ve_doku, pce_yd_greft_ve_flap]
+metin: "Primer kontraksiyonu fazla; iyi kanlanmış alıcı yatağı zorunlu; donör alanı primer kapatılır; daha az pigmente."
+# kaynak: 5.sınıf_PLASTİK_CERRAHİ_Greftler_ve_Flepler.txt

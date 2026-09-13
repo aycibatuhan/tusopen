@@ -1,0 +1,11 @@
+id: kd_dogal_yontemler_lam_1
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Düzenli sikluslu kadında ovulasyon zamanı nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_kontrasepsiyon, kd_kon_bariyer_dogal]
+metin: "Sonraki menstruasyondan 12-14 gün önce; ovum 24 saat, sperm 72 saat döllenebilir."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_Aile_Planlaması_(2).txt

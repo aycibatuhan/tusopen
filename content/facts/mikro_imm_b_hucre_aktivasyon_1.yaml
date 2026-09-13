@@ -1,0 +1,11 @@
+id: mikro_imm_b_hucre_aktivasyon_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "T-bağımsız antijenlere yanıtın özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_b_hucre]
+metin: "Yalnız IgM; bellek ve afinite olgunlaşması gelişmez, polisakkarit aşılar 2 yaş altında korumaz."
+# kaynak: 2-Antijen_tanıma_2019.txt, Humoral_bağışık_yanıt_ve_antikorlar.txt

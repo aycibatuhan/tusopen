@@ -1,0 +1,11 @@
+id: fiz_sol_mekanik_degerler_4
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Normal hava yolu direnci ve bileşen payı nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_solunum, fiz_sol_mekanik]
+metin: "Yaklaşık 1 cmH2O/L/sn; yüzde 40-50'si üst solunum yolu ve orta bronşlar."
+# kaynak: 2._Sınıf_2.3_Fizyoloji_2018_Solunum_1._Bölümü.txt

@@ -1,0 +1,13 @@
+id: gc_tp_cerrahi_enfeksiyon_3
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Temiz girişimlerde profilaksinin ilk seçeneği?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_cerrahi_enfeksiyon
+metin: Sefazolin.

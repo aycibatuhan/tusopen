@@ -1,0 +1,10 @@
+id: dah_onk_prensipler_2
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Türkiye'de kolorektal kanser taraması nasıl yapılır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_prensipler]
+metin: "50-70 yaşta iki yılda bir FIT veya 10 yılda bir kolonoskopi."

@@ -1,0 +1,14 @@
+id: histo_sind_pariyetal_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Pariyetal (oksintik) hücreler ne salgılar?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sindirim
+  - histo_sind_ozofagus_mide
+metin: H+/K+ ATPaz pompasıyla hidroklorik asit ve B12'ye bağlanan intrensek faktör.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_sistemi_Mide.txt

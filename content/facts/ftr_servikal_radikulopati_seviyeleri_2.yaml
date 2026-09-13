@@ -1,0 +1,11 @@
+id: ftr_servikal_radikulopati_seviyeleri_2
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C5 ve C6 radikülopatide refleks değişiklikleri nelerdir?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_boyun_agrisi]
+metin: "C5'te biseps, C6'da biseps-brakioradial refleks kaybı."
+# kaynak: 5.sınıf_FTR_DİSK_HERNİLERİ.RT.txt, 5.sınıf_FTR_BOYUN_AĞRILARI.txt

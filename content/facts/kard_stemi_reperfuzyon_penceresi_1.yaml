@@ -1,0 +1,11 @@
+id: kard_stemi_reperfuzyon_penceresi_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "STEMIde erken reperfüzyon penceresi nedir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_reperfuzyon]
+metin: "Semptom başlangıcından itibaren 12 saat (ST yükselmesi sürdüren)."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

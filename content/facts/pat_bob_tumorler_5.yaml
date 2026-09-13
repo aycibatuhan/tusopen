@@ -1,0 +1,10 @@
+id: pat_bob_tumorler_5
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Çocuklarda en sık abdominal solid tümör hangisidir?"
+taksonomi:
+  - [ttbt, patoloji, pat_bobrek, pat_bob_tumorler]
+metin: "Wilms tümörü (iki-beş yaş)."

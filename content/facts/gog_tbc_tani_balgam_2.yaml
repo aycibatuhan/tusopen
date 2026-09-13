@@ -1,0 +1,11 @@
+id: gog_tbc_tani_balgam_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tüberküloz kültürünün dönüş süreleri nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_enfeksiyon, gog_enf_tuberkuloz_tani]
+metin: "Löwenstein-Jensen'de 21-42 gün; sıvı sistemlerde (BACTEC, MGIT) 8-21 gün."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_2019-2020_TBC_Dersi_30.08.2022-2-Klinik_Lab.txt, 2._Sınıf_2.3_Göğüs_hastalıkları_TB_2._Sınıf_Ders_2019-2020_sb.txt

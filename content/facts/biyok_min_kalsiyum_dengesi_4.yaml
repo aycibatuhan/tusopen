@@ -1,0 +1,11 @@
+id: biyok_min_kalsiyum_dengesi_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kalsiyum dengesini düzenleyen üç hormonun etkileri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_mineral_eser]
+metin: "PTH kalsiyumu artırır, kalsitriol bağırsak emilimini, kalsitonin kemik resorpsiyonunu azaltır."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Ca__Mg__P_tıp_dersi2018.txt

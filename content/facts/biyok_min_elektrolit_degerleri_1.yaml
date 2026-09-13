@@ -1,0 +1,11 @@
+id: biyok_min_elektrolit_degerleri_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Serum sodyum, potasyum, klor, kalsiyum ve magnezyum normal değerleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_vitamin_mineral, biyok_vit_mineral_eser]
+metin: "Na 136-145, K 3,5-5,0, Cl 98-108 mEq/L; Ca ortalama 10, Mg 1,6-2,5 mg/dL."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Na__K__Cl_tıp_dersi_2015-2016_2018.txt, 1._Sınıf_1.2_Biyokimya_2018.11.06_Su_ve_su_metabolizması-_MK-2018.txt

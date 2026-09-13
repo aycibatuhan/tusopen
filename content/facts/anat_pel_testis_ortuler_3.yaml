@@ -1,0 +1,11 @@
+id: anat_pel_testis_ortuler_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Testis örtülerinin kökeni nedir?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_erkek_genital]
+metin: Fetal inişte karın ön duvarı katmanlarının getirdiği kılıf kalıntılarıdır.
+# kaynak: 3._Sınıf_3.2_Anatomi_CTF_3.2_Erkek_genital_sistemi_2020-21_(1).txt

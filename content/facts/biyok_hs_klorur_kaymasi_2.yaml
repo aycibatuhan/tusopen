@@ -1,0 +1,11 @@
+id: biyok_hs_klorur_kaymasi_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İzohidrik taşıma nedir ve karbondioksitin yüzde kaçıdır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_hucre_su, biyok_hs_su_ph]
+metin: "Bikarbonatın plazmayla taşınıp akciğerde CO2'ye dönmesi; yüzde 70-80'i bu yolla."
+# kaynak: 1._Sınıf_1.2_Biyokimya_2018.11.08__tampon_sis.2018.txt

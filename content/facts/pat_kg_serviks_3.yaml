@@ -1,0 +1,10 @@
+id: pat_kg_serviks_3
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HPV'nin E7 proteini hangi geni inaktive eder?"
+taksonomi:
+  - [ttbt, patoloji, pat_kadin_genital, pat_kg_serviks]
+metin: "RB geni."

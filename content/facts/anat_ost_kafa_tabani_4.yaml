@@ -1,0 +1,10 @@
+id: anat_ost_kafa_tabani_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Superior orbital fissure ve optik kanaldan neler girer?
+taksonomi:
+  - [ttbt, anatomi, anat_osteoloji, anat_ost_kafa_tabani]
+metin: SOF'tan III, IV, VI, V1; optik kanaldan n. opticus ve a. ophthalmica girer.

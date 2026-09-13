@@ -1,0 +1,11 @@
+id: biyok_be_oksidoreduktaz_gruplari_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Oksidazların hidrojen akseptörü ve ürünleri nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_biyoenerjetik, biyok_be_ets]
+metin: "Moleküler oksijen; hidrojen peroksit (glukoz oksidaz) veya su (sitokrom oksidaz)."
+# kaynak: 1._Sınıf_1.2_Biyokimya_Biolojik_oksidasyon_2018.txt, 1._Sınıf_1.2_Biyokimya_Ezel_Uslu_Oksidatif_Fosforilasyon_Bio_ox_2017_EZEL_USLU.txt

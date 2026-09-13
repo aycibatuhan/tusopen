@@ -1,0 +1,11 @@
+id: gog_soliter_nodul_malignite_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pulmoner nodül ile kitleyi ayıran çap eşiği nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_neoplazi, gog_neo_soliter_nodul]
+metin: "3 cm; üzerindeki lezyonlar kitle kabul edilir."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer_Kanseri_Dönem_5-29.08.2022.txt, 5.sınıf_Göğüs_Hastalıkları_Toraks_Radyolojisi_Kısa_Bilun_Gemicioğlu_2021-22.txt

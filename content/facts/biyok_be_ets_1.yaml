@@ -1,0 +1,10 @@
+id: biyok_be_ets_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "NADH ve FADH2 elektron taşıma zincirine nereden girer?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_biyoenerjetik, biyok_be_ets]
+metin: "NADH kompleks I'den; FADH2 süksinat dehidrogenaz olan kompleks II'den."

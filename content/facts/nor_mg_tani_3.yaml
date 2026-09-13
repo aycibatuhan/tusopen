@@ -1,0 +1,11 @@
+id: nor_mg_tani_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Antikor negatif MG'de tanıyı destekleyen testler nelerdir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_miyastenia]
+metin: "Buz testi, yorma testi, elektrofizyoloji, antikolinesteraza yanıt."
+# kaynak: 5.sınıf_Nöroloji_NÖROMUSKÜLER_BİLEŞKE.txt

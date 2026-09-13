@@ -1,0 +1,11 @@
+id: mikro_gb_ekzotoksin_etki_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "cAMP artışıyla ishal yapan enterotoksinler hangileridir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_bakteriyoloji, mikro_gb_toksinler]
+metin: "V. cholerae, ETEC-in LT toksini ve B. cereus ishal toksini; ETEC ST istisnayla cGMP artırır."
+# kaynak: Endotoksin-Ekzotoksin.txt, Bakteri_ve_İnsan.txt

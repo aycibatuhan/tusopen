@@ -1,0 +1,11 @@
+id: mikro_mko_dimorfik_morfoloji_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Coccidioides'in doku formu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_mikoloji, mikro_mko_sistemik]
+metin: "75 mikrometre çapında endosporlu sferül; kültürü asla koklanmamalıdır."
+# kaynak: Dimorfik_mantarlar.txt

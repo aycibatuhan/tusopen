@@ -1,0 +1,11 @@
+id: kd_ovaryan_yaslanma_menopoz_3
+version: 1
+status: draft
+author: "ai-drafts/kadin-dogum-facts"
+sources:
+  - "Kadın hastalıkları ve doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Doğal menopoz tanımı ve medyan yaşı nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_ureme_fizyolojisi, kd_uf_menopoz]
+metin: "12 ay amenore (geriye dönük tanı); medyan yaş ~51,4."
+# kaynak: 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_kadın_yaşamının_evreleri_mahmut_öncül.txt, 3._Sınıf_3.2_Kadın_hastalıkları_ve_doğum_İnsan_Üremesi.txt

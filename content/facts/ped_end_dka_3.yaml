@@ -1,0 +1,15 @@
+id: ped_end_dka_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: DKA'nın altın kuralları nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_endokrinoloji
+  - ped_end_diyabet
+metin: Kan şekeri düşüşü saatte 70-90 mg/dl'yi geçmemeli; sodyum yükselmeli; toplam sıvı 4 L/m2/gün'ü aşmamalı; potasyum infüzyona eklenmelidir.
+
+# kaynak: 4._Sınıf_Pediatri_HND_SUNUM_dka_(1)8.10.txt

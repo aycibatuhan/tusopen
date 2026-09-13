@@ -1,0 +1,11 @@
+id: hsag_ep_kestirim_degerleri_3
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Prevalans arttıkça kestirim değerleri nasıl değişir?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_epidemiyoloji, hs_ep_duyarlilik_ozgulluk]
+metin: "Pozitif kestirim değeri yükselir, negatif kestirim değeri düşer."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD5_Tanı_testleri__duyarlılık__özgüllük__prediktif_değerler__ROC_eğrisi.txt

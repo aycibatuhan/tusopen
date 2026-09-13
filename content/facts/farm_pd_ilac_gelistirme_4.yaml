@@ -1,0 +1,11 @@
+id: farm_pd_ilac_gelistirme_4
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İlaç geliştirmenin tipik süresi ve maliyeti?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakodinamik, farm_pd_ilac_gelistirme]
+metin: "6-10 yıl, yaklaşık 1 milyar dolar."
+# kaynak: 1._Sınıf_1.4_Farmakoloji_FARMAKOLOJİYE_GİRİŞ.txt

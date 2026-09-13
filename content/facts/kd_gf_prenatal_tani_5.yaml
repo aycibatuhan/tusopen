@@ -1,0 +1,10 @@
+id: kd_gf_prenatal_tani_5
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Amniyosenteze bağlı gebelik kaybı riski nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_prenatal_tani]
+metin: "Yaklaşık %0,5; cfDNA/NIPT taraması 10. haftadan itibaren yapılır."

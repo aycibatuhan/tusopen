@@ -1,0 +1,10 @@
+id: fiz_sinir_agri_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ağrı yolunun birinci nöronu nerede, ikinci nöronla nerede sinaps yapar?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sinir, fiz_sinir_agri]
+metin: "Gövdesi spinal ganglionda; merkezi uzantısı arka boynuzda ikinci nöronla sinaps yapar."

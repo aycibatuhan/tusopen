@@ -1,0 +1,11 @@
+id: mikro_treponema_sifiliz_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Spiroket cinsleri aksiyal fibril ve eklem diski sayısıyla nasıl ayrılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_spiroket, mikro_spi_treponema]
+metin: "Treponema 6-10 fibril ve 1 disk; Borrelia 30-40 ve 2; Leptospira 2 fibril, 3-5 disk."
+# kaynak: Spiroketler.txt

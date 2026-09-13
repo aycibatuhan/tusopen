@@ -1,0 +1,13 @@
+id: anat_tor_diyafram_4
+version: 1
+status: draft
+author: ai-drafts/anatomi-facts
+sources:
+- Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Diyafram hangi sinirle innerve edilir?
+taksonomi:
+- - ttbt
+  - anatomi
+  - anat_toraks
+  - anat_tor_diyafram
+metin: N. phrenicus (C3-C4-C5); C4 üstü lezyonda diyafram solunumu kaybolur.

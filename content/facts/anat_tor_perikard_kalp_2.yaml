@@ -1,0 +1,10 @@
+id: anat_tor_perikard_kalp_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Oblik perikard sinüsü nedir?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_perikard_kalp]
+metin: Sol atriumun arkasındaki ceptir.

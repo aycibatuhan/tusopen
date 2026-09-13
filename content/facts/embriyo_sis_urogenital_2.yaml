@@ -1,0 +1,13 @@
+id: embriyo_sis_urogenital_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Wolff kanalları hangi hormonla hangi yapılara dönüşür?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_urogenital
+metin: Leydig hücrelerinin testosteronuyla epididim, vas deferens ve seminal veziküllere.

@@ -1,0 +1,15 @@
+id: enf_sepsis_ilk_saatler_2
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Sepsiste hangi hastaya 30 mL/kg kristaloid verilir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_sepsis
+  - enf_sp_sepsis_tedavi
+metin: Hipotansiyonu veya başlangıç laktatı ≥4 mmol/L olan hastaya verilir.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Sepsise_Yaklaşım_3._sınıf_Türkçe.txt

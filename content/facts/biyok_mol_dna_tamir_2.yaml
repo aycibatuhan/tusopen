@@ -1,0 +1,10 @@
+id: biyok_mol_dna_tamir_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nükleotid eksizyon tamir defekti ne yapar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_molekuler, biyok_mol_dna_tamir]
+metin: "Xeroderma pigmentosum; güneşle tetiklenen deri kanserleri çocuklukta."

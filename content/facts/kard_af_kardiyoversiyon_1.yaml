@@ -1,0 +1,11 @@
+id: kard_af_kardiyoversiyon_1
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "AF 48 saatten kısaysa kardiyoversiyon sonrası antikoagülasyon?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_aritmiler, kard_ar_atriyal_fibrilasyon]
+metin: "En az 4 hafta antikoagülasyon yeterlidir."
+# kaynak: 5.sınıf_Kardiyoloji_Aritmi_Ders_Cerrahpas_a_2021-22.txt

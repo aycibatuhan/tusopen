@@ -1,0 +1,11 @@
+id: fiz_hucre_ikinci_haberciler_5
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Nitrik oksit damar düz kasını hangi yolla gevşetir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_sinyal]
+metin: "Sitozolik guanilil siklazı aktive ederek cGMP ve gevşeme oluşturur."
+# kaynak: 14-Hücreler_arası_haberleşme-2.txt, 13-Hücreler_arası_haberleşme-I.txt

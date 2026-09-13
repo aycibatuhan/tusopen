@@ -1,0 +1,11 @@
+id: mikro_rna_bunya_arena_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hantavirüs eski ve yeni dünyada hangi tabloları yapar?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_rna_viruslari, mikro_rna_bunya_arena]
+metin: "Eski dünyada renal sendromlu kanamalı ateş, yeni dünyada hantavirüs pulmoner sendrom."
+# kaynak: Arenavirus_Hantavirus_ve_Filoviruslar.txt, Arboviruslar.txt

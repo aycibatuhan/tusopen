@@ -1,0 +1,11 @@
+id: anat_boyun_tiroid_topografi_1
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Tiroid isthmusu hangi trakea kıkırdakları hizasındadır?
+taksonomi:
+  - [ttbt, anatomi, anat_boyun, anat_boyun_tiroid_paratiroid]
+metin: Genellikle 2-4. trakea kıkırdakları hizasında; bez C5-T1 düzeyindedir.
+# kaynak: 3._Sınıf_3.3_Anatomi_Tiroid-paratiroid_anatomisi.txt, 3._Sınıf_3.3_Anatomi_3-3_Boyun_Topografik_Anatomisi.txt, 3._Sınıf_3.4_Anatomi_ENDOKRİN_SİSTEM_ÖĞRENCİ_versiyonu_2021_DrMY_(2).txt

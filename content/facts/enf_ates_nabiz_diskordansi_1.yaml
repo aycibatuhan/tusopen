@@ -1,0 +1,15 @@
+id: enf_ates_nabiz_diskordansi_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Vücut ısısındaki her 1°C artış erişkin nabzını kaç artırır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_genel_yaklasim
+  - enf_gy_ates_patogenezi
+metin: Yaklaşık 15-20/dk; beklentinin altında kalması rölatif bradikardidir.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Anamnez_FM.txt, 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Ateş_patogenez_ve_Klinik_Tipleri_3._sınıf.txt

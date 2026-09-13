@@ -1,0 +1,11 @@
+id: ftr_servikal_radikulopati_seviyeleri_3
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "C7 radikülopatinin tipik bulguları nelerdir?"
+taksonomi:
+  - [ktbt, ftr, ftr_omurga_agrisi, ftr_oa_boyun_agrisi]
+metin: "Triseps refleksi ve triseps kuvveti kaybı."
+# kaynak: 5.sınıf_FTR_DİSK_HERNİLERİ.RT.txt, 5.sınıf_FTR_BOYUN_AĞRILARI.txt

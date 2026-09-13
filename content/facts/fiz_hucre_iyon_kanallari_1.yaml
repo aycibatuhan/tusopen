@@ -1,0 +1,10 @@
+id: fiz_hucre_iyon_kanallari_1
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Voltaja duyarlı sodyum kanalının mutlak refrakter dönemdeki rolü nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_hucre, fiz_hucre_iyon_kanallari]
+metin: "Kanal kısa süreli inaktif duruma geçer; inaktivasyon kapısı bunun temelidir."

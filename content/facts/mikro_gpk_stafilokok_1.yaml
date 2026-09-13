@@ -1,0 +1,10 @@
+id: mikro_gpk_stafilokok_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "S. aureus koagulaz negatif stafilokoklardan hangi testle ayrılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_kok, mikro_gpk_stafilokok]
+metin: "Koagulaz testi pozitifliğiyle; S. epidermidis ve S. saprophyticus koagulaz negatiftir."

@@ -1,0 +1,11 @@
+id: der_dermatitis_herpetiformis_5
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Dermatitis herpetiformisin tipik yerleşimi neresidir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bulloz, derm_bl_dermatitis_herpetiformis]
+metin: "Diz, dirsek, ekstansör kol, kalça ve sırtta grube herpetiform papüloveziküler lezyonlar."
+# kaynak: 5.sınıf_Dermatoloji_bullu_yeni.txt

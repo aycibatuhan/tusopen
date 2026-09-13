@@ -1,0 +1,14 @@
+id: histo_bag_makrofaj_adlari_1
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Makrofajlar hangi hücrelerden farklılaşır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_bag_dokusu
+  - histo_bag_hucreler
+metin: Kemik iliği kökenli monositlerden; MHC II taşıyan APC'dirler, IL-1 ve TNF-alfa üretirler.
+# kaynak: 1._Sınıf_1.3_Histoloji_5-6-7-8._Ders_BAĞ_DOKU_Dr.G.Tanrıverdi.txt, 1._Sınıf_1.3_Histoloji_Sinir_Dokusu_Histolojisi-1_Dr.GamzeTanrıverdi.txt

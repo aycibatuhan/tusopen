@@ -1,0 +1,11 @@
+id: ftr_yuruyus_paternleri_1
+version: 1
+status: draft
+author: "ai-drafts/ftr-facts"
+sources:
+  - "FTR ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Salınım fazında ayak ucunun sürünmesi hangi yürüyüşü yapar?"
+taksonomi:
+  - [ktbt, ftr, ftr_temel, ftr_tm_yuruyus_analizi]
+metin: "Stepaj; dorsifleksör kuvvetsizliği veya plantar fleksör spastisitede."
+# kaynak: 5.sınıf_FTR__Alt_ekstremite_fizik_muayenesi.txt

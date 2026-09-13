@@ -1,0 +1,14 @@
+id: genetik_insan_genom_projesi_3
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: HapMap projesi neyi haritalar?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: İnsan genomunun haplotip haritasını (2002).
+# kaynak: 1._Sınıf_1.3_Tıbbi_Biyoloji_9._Ders_Genetik_muh._ve_insan_genom_projesi.txt

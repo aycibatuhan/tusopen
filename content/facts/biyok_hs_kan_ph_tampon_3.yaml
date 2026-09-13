@@ -1,0 +1,11 @@
+id: biyok_hs_kan_ph_tampon_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Fosfat tamponunun pKa'sı ve etkinlik alanı nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_hucre_su, biyok_hs_su_ph]
+metin: "pKa 6.8; plazmada az, esas hücre içinde ve idrarda etkindir."
+# kaynak: 1._Sınıf_1.2_Biyokimya_2018.11.08__tampon_sis.2018.txt

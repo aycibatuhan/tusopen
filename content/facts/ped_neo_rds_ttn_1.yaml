@@ -1,0 +1,15 @@
+id: ped_neo_rds_ttn_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: RDS ve TTN hangi mekanizmalardan kaynaklanır?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_neonatoloji
+  - ped_neo_solunum_sikintisi
+metin: 'RDS: pretermde surfaktan eksikliği, ilerleyicidir; TTN: fetal akciğer sıvısı reabsorbsiyon gecikmesi, 1-3 günde sınırlanır.'
+
+# kaynak: 4._Sınıf_Pediatri_Mehmet_Vural_yd_solunum_sıkıntısı-kısa.txt

@@ -1,0 +1,15 @@
+id: ped_bg_prematur_duzeltilmis_yas_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Prematüre bebekte büyüme hangi eğrilerle izlenir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_buyume_gelisme
+  - ped_bg_buyume_izlemi
+metin: 40. gestasyon haftasına kadar Fenton preterm eğrileri (22-50 hafta); sonra term standart eğrilerine geçilir.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_BÜYÜMENİN_DEĞERLENDİRİLMESİ_ve_İZLENMESİ-Sınıf_4.txt

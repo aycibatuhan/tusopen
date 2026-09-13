@@ -1,0 +1,10 @@
+id: biyok_lip_fosfolipid_sfingolipid_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gaucher hastalığının özellikleri nelerdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_fosfolipid_sfingolipid]
+metin: "Glukoserebrozidaz eksikliği; buruşuk makrofajlar, enzim replasmanıyla kontrol edilebilir."

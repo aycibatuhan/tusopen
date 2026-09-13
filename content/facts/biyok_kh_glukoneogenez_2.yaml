@@ -1,0 +1,10 @@
+id: biyok_kh_glukoneogenez_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Glukoneogenezin ilk basamağı ve uyarıcısı nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_glukoneogenez]
+metin: "Mitokondriyel pirüvat karboksilaz; biotin kofaktörlü, asetil-KoA ile uyarılır."

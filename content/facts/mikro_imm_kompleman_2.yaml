@@ -1,0 +1,10 @@
+id: mikro_imm_kompleman_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kompleman kaskadının ortak ve son aşaması nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_kompleman]
+metin: "Tüm yollar C3 konvertazı oluşturur; C5b-9 membran saldırı kompleksi hücreyi lize eder."

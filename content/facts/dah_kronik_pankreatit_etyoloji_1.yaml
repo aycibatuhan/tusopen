@@ -1,0 +1,11 @@
+id: dah_kronik_pankreatit_etyoloji_1
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kronik pankreatitin en sık nedeni nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_gastroenteroloji, dah_gis_kronik_pankreatit]
+metin: "Kronik alkolizm; idiyopatik olgular %15-20."
+# kaynak: 4._Sınıf_Dahiliye_Gastroenteroloji_Akut_ve_kronik_pankreatitler-4.Sınıf-Prof.Dr.Murat_TUNCER.txt

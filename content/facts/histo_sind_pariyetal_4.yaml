@@ -1,0 +1,14 @@
+id: histo_sind_pariyetal_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Omeprazol ve simetidin asit salgısını nasıl keser?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_sindirim
+  - histo_sind_ozofagus_mide
+metin: Omeprazol proton pompasını, simetidin H2 reseptörünü bloke eder (peptik ülser tedavisi).
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_sistemi_Mide.txt

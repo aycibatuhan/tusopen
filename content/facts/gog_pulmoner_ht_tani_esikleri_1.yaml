@@ -1,0 +1,11 @@
+id: gog_pulmoner_ht_tani_esikleri_1
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Pulmoner hipertansiyon tanı eşiği ve prekapiller ölçütler nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_vaskuler, gog_vas_pulmoner_hipertansiyon]
+metin: "Sağ kalp kateterizasyonunda ortalama PA basıncı 20 mmHg üstü; PCWP 15 ve altı, PVR 3 Wood üstü."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_PULMONER_HİPERTANSİYON_2022.txt

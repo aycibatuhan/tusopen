@@ -1,0 +1,11 @@
+id: dah_hipoparatiroidi_tani_kriz_4
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tetani krizinde acil tedavi nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipoparatiroidi]
+metin: "%10 kalsiyum glukonat 10-20 ml IV yavaş infüzyon; D vitamini eklenir."
+# kaynak: 4._Sınıf_Dahiliye_ders-paratiroid_hastalıkları.txt

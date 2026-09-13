@@ -1,0 +1,11 @@
+id: anes_kazara_hipotermi_isitma_5
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipoterminde defibrilasyon ve adrenalin nasıl uyarlanır?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_hipotermi]
+metin: "30°C'nin üzerine çıkana dek defibrilasyon etkisiz olabilir; 30°C altında adrenalin aralığı 6-10 dakika."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Hipotermi_Suda_boğulma_Anaflaksi.txt

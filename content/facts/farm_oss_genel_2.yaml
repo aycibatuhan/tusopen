@@ -1,0 +1,11 @@
+id: farm_oss_genel_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Adrenal medullada salgı nasıl uyarılır?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_otonom, farm_oss_genel]
+metin: "Sempatik lifler sinaps yapmadan kromafin hücrelere ulaşır; NN reseptörlerle adrenalin."
+# kaynak: 2._Sınıf_2.2_Farmakoloji_Otonom_SS.txt, 2._Sınıf_2.2_Farmakoloji_41_Autonomic_Pharmacology.txt

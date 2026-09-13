@@ -1,0 +1,13 @@
+id: embriyo_gen_fertilizasyon_3
+version: 1
+status: draft
+author: ai-drafts/histoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Polispermiyi engelleyen reaksiyon hangisidir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_genel
+  - embriyo_gen_fertilizasyon
+metin: Zona reaksiyonu; sperm girişini izleyerek başka spermin girişini engeller.

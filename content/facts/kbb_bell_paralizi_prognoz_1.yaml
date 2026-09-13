@@ -1,0 +1,11 @@
+id: kbb_bell_paralizi_prognoz_1
+version: 1
+status: draft
+author: "ai-drafts/kbb-facts"
+sources:
+  - "KBB ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Santral ve periferik fasial paraliziyi ayırt eden bulgu nedir?"
+taksonomi:
+  - [ktbt, kbb, kbb_fasiyal_sinir, kbb_fs_bell_paralizisi]
+metin: "Alın fonksiyonu: santralde kaş kaldırma korunur, periferikte kayıptır."
+# kaynak: 5.sınıf_KBB_myener_Fasial_Sinir_ders.txt, 5.sınıf_KBB_KBB_acilleri.txt

@@ -1,0 +1,11 @@
+id: mikro_borrelia_lyme_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lyme hastalığının vektörü hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_spiroket, mikro_spi_borrelia]
+metin: "Ixodes cinsi kene; etken B. burgdorferi sensu lato."
+# kaynak: Spiroketler.txt

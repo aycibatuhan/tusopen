@@ -1,0 +1,14 @@
+id: gc_kol_divertikulit_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Hinchey II divertikülitte perkütan drenaj eşiği?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_kolon_rektum_anus
+  - gc_kol_divertikulit
+metin: '>5 cm erişilebilir apsede perkütan drenaj yapılır.'
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Faik_Özçelik_Kolonun_Divertiküler_Hastalığı.txt

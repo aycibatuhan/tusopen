@@ -1,0 +1,11 @@
+id: adli_tck_yasamsal_tehlike_2
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yaşamsal tehlikede kafa-omurga ve yanık ölütleri nelerdir?"
+taksonomi:
+  - [ktbt, adli_tip, adl_yara_balistik, adl_yb_yasam_belirtileri]
+metin: "Kafatası kırığı, ilk 5 servikal vertebra kırığı, GKS 8 ve altı, %20 üstü ikinci veya %10 üstü üçüncü derece yanık."
+# kaynak: 5.sınıf_Adli_Tıp_TCK_YARALAR_PROF._DR._GÜRSEL_ÇETİN.txt

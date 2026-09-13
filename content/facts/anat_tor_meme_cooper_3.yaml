@@ -1,0 +1,11 @@
+id: anat_tor_meme_cooper_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Meme lenfasının yüzde kaçı aksillaya gider?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_meme]
+metin: Yaklaşık %75; tümör sahasının ilk drenaj nodu sentinel noddur.
+# kaynak: 3._Sınıf_3.3_Anatomi_TORAKS_25_ŞUBAT_2020-2021.txt

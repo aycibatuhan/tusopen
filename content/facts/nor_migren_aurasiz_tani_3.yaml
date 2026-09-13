@@ -1,0 +1,11 @@
+id: nor_migren_aurasiz_tani_3
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Aurasız migrende ağrının hangi özelliklerinden en az ikisi olmalıdır?"
+taksonomi:
+  - [ktbt, noroloji, noro_bas_agrisi, noro_ba_migren]
+metin: "Tek taraflılık, zonklama, orta-şiddetli ağrı, eforla artış."
+# kaynak: 5.sınıf_Nöroloji_2020_Primer_BA_yeni.txt

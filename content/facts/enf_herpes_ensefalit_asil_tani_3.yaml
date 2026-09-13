@@ -1,0 +1,15 @@
+id: enf_herpes_ensefalit_asil_tani_3
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Herpes ensefalitinde tedavisiz ve asiklovirli gidiş nasıldır?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_mss
+  - enf_mss_ensefalit
+metin: Tedavisiz mortalite ~%80, sekel ~%50; asiklovirle her ikisi ~%25'e düşer.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_Acilleri_3_sınıf_(1).txt

@@ -1,0 +1,11 @@
+id: anat_pel_mesane_trigonum_2
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Trigonum vesicae (Lieutaud) hangi açıklıklar arasındadır?
+taksonomi:
+  - [ttbt, anatomi, anat_pelvis_perine, anat_pel_mesane_uretra]
+metin: İki ostium ureteris ile ostium urethrae internum arasında.
+# kaynak: 3._Sınıf_3.2_Anatomi_üriner_sistem_2020.txt

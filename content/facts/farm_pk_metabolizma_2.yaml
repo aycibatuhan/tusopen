@@ -1,0 +1,10 @@
+id: farm_pk_metabolizma_2
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "P450 uyarıcılar ve etkileri?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakokinetik, farm_pk_metabolizma]
+metin: "Rifampisin, fenobarbital; eşzamanlı ilaçların kan düzeyini düşürür."

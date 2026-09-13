@@ -1,0 +1,11 @@
+id: dah_cushing_tani_zinciri_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ektopik ACTH sendromunu düşündüren bulgular nelerdir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_cushing]
+metin: "Hızlı hipokalemik alkaloz (K 3,0 altı, HCO3 30 üstü), kortizol 200 µg/dL üzeri."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Fonksiyonel_Hipofiz_Adenomlar_-.txt, 3._Sınıf_3.4_İç_hastalıkları_hiperkortizolizm.txt

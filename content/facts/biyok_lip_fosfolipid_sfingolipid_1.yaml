@@ -1,0 +1,10 @@
+id: biyok_lip_fosfolipid_sfingolipid_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tay-Sachs hastalığının enzim kusuru ve bulgusu nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_lipid, biyok_lip_fosfolipid_sfingolipid]
+metin: "Hekzosaminidaz A eksikliği GM2 gangliozidi biriktirir; retinada kiraz kırmızı nokta."

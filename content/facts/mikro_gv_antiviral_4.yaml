@@ -1,0 +1,11 @@
+id: mikro_gv_antiviral_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kronik hepatit B tedavisinde kullanılan nükeozid analogu hangisidir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_antiviral_direnc]
+metin: "Lamivudin; diğer nükeozid analoglarıyla kombine edilir."
+# kaynak: Virüslerin_çoğalması_ve_viral_infeksiyonların_tedavisi_ve_ko.txt

@@ -1,0 +1,10 @@
+id: anat_tor_perikard_kalp_3
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Kalbin sağ ve sol sınırını hangi boşluklar yapar?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_perikard_kalp]
+metin: Sağ sınır sağ atrium, sol sınır sol ventrikül.

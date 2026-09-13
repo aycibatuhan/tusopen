@@ -1,0 +1,11 @@
+id: dah_dislipidemi_ldl_hedefler_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "HDL hangi değerlerde nasıl yorumlanır?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_dislipidemi]
+metin: "40 mg/dL altı düşük; 60 ve üzeri bir risk faktörünü siler (negatif risk faktörü)."
+# kaynak: 4._Sınıf_Dahiliye_Hyperlipidemi.txt

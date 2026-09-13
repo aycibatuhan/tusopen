@@ -1,0 +1,11 @@
+id: mikro_bacillus_anthracis_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Deri şarbonunun karakteristik lezyonu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_pozitif_basil, mikro_gpb_bacillus]
+metin: "Çarpıcı yerel ödemle seyreden 'kara kabarcık'; deri şarbonu en sık formdur."
+# kaynak: Bacillus_cinsi.txt

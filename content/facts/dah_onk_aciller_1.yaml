@@ -1,0 +1,10 @@
+id: dah_onk_aciller_1
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Üst venöz kavşak obstrüksiyonunda acil yaklaşım nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_onkolojik_aciller]
+metin: "Yarı oturur pozisyon, glukokortikoid, stent ve antitümör tedavi."

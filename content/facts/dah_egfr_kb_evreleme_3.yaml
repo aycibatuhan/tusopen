@@ -1,0 +1,11 @@
+id: dah_egfr_kb_evreleme_3
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kreatinin klirensi GFR'yi neden olduğundan yüksek gösterir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_nefroloji, dah_nef_kronik_bobrek]
+metin: "Tübüler sekresyon nedeniyle; özellikle GFR 20 ml/dk altına indiğinde."
+# kaynak: 3._Sınıf_3.2_İç_Hastalıkları_RENALF_1.txt, 3._Sınıf_3.4_İç_hastalıkları_Bo_brek.txt

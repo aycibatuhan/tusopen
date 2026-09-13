@@ -1,0 +1,11 @@
+id: hsag_bi_parametrik_test_secimi_1
+version: 1
+status: draft
+author: "ai-drafts/halk-sagligi-facts"
+sources:
+  - "Halk sağlığı ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Bağımsız iki grup ortalaması hangi testle karşılaştırılır?"
+taksonomi:
+  - [ktbt, halk_sagligi, hs_biyoistatistik, hs_bi_parametrik_testler]
+metin: "Student t testiyle; varyanslar homojen değilse t' veya Mann-Whitney U ile."
+# kaynak: 3._Sınıf_3.3_Biyoistatistik_4.hangi_analizler_seçilmeli.txt, 3._Sınıf_3.3_Biyoistatistik_Hipotez_Testleri_GENEL.txt, 3._Sınıf_3.3_Biyoistatistik_CTF_KL_AD1_Klinik_Biyoistatistiğe_Giriş__Araştırma_Yöntembilimi__Terminoloji__Bilgi__ölçüm__Hata__Bivariate_Yöntemler_(1).txt

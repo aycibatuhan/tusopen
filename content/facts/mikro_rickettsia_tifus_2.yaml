@@ -1,0 +1,11 @@
+id: mikro_rickettsia_tifus_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Brill-Zinsser hastalığı nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_rickettsia]
+metin: "Yıllar sonra latent R. prowazekii'nin tekrarlayan, daha ılımlı tifüs tablosudur."
+# kaynak: Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

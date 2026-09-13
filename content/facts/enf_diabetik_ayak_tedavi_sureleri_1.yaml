@@ -1,0 +1,15 @@
+id: enf_diabetik_ayak_tedavi_sureleri_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Diyabetik ayak infeksiyonunda antibiyotik şiddete göre ne kadar sürer?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_deri_yumusak_doku
+  - enf_dy_diyabetik_ayak
+metin: 'Bulgular ortadan kalkana dek: hafif 1-2 hafta, orta 1-3 hafta, şiddetli 2-4 hafta parenteral.'
+
+# kaynak: 5.sınıf_Enfeksiyon_Hastalıkları_diyabetik_ayak_dersi_2021.txt, 5.sınıf_Enfeksiyon_Hastalıkları_DYDİ_2021Neşe_Saltoğlu.txt

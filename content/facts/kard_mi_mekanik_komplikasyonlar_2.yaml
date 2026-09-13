@@ -1,0 +1,11 @@
+id: kard_mi_mekanik_komplikasyonlar_2
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Papiller kas rüptüründe en sık tutulan kas hangisidir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_koroner, kard_ko_mi_komplikasyonlari]
+metin: "Posteromedial papiller kas; akut mitral yetersizliği ve pulmoner ödem yapar."
+# kaynak: 5.sınıf_Kardiyoloji_AKS.txt

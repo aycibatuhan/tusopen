@@ -1,0 +1,11 @@
+id: biyok_hs_ozmolalite_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ozmolal açık normal sınırı ve yükselme nedeni nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_hucre_su, biyok_hs_su_ph]
+metin: "Normalde 10 mOsm/kg altı; aşımı etanol-metanol-etilen glikol gibi maddeleri gösterir."
+# kaynak: 1._Sınıf_1.2_Biyokimya_2018.11.06_Su_ve_su_metabolizması-_MK-2018.txt

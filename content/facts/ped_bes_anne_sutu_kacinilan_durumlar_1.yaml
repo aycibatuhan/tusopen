@@ -1,0 +1,15 @@
+id: ped_bes_anne_sutu_kacinilan_durumlar_1
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Anne tarafında emzirmenin mutlak kontrendikasyonları nelerdir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_anne_sutu
+metin: HIV ve HTLV-I, aktif akciğer tüberkülozu, aktif herpetik meme lezyonu, kemoterapi/radyoterapi, ağır hastalık ve psikoz.
+
+# kaynak: 4._Sınıf_Pediatri_Emel_Gür_Doğal_Beslenme-Sınıf_4.txt

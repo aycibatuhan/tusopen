@@ -1,0 +1,11 @@
+id: nuk_fdg_pet_onkoloji_5
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "FDG afinitesinin düşük olduğu kanserler hangileridir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_onkoloji_pet, nt_on_fdg_pet]
+metin: "Prostat ve nöroendokrin tümörler (~%70 FDG negatif); hepatosellüler ve renal hücreli değişkendir; FDG durumu izleme yöntemini belirler."
+# kaynak: 5.sınıf_Nükleer_Tıp_CTF_Staj-tümörsintigrafisi-2022.txt

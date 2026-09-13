@@ -1,0 +1,13 @@
+id: fiz_bob_tubuler_2
+version: 1
+status: draft
+author: ai-drafts/fizyoloji-facts
+sources:
+- Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: "Glukozun böbrekteki emiliminde SGLT2 ve SGLT1'in yerleri nedir?"
+taksonomi:
+- - ttbt
+  - fizyoloji
+  - fiz_bobrek
+  - fiz_bob_tubuler
+metin: "Yüzde 90'ı S1-S2 segmentlerinde SGLT2 ile, kalanı S3'te SGLT1'le."

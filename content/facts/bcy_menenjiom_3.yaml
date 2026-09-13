@@ -1,0 +1,11 @@
+id: bcy_menenjiom_3
+version: 1
+status: draft
+author: "ai-drafts/beyin-cerrahisi-facts"
+sources:
+  - "Beyin cerrahisi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Menenjiom grade'lerine göre 10 büyük büyütme alanındaki mitoz eşikleri nedir?"
+taksonomi:
+  - [ktbt, beyin_cerrahisi, bce_tumorler, bce_tm_menenjiom]
+metin: "Grade I: 4'ten az; grade II: 4-20 (beyin invazyonu dahil); grade III: 20 veya daha fazla."
+# kaynak: 5.sınıf_NÖROŞİRURJİ_Beyin_Tümörleri_II_T.T.txt

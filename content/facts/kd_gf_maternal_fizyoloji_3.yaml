@@ -1,0 +1,10 @@
+id: kd_gf_maternal_fizyoloji_3
+version: 1
+status: draft
+author: "ai-drafts/gaps-fizyoloji-metabolik"
+sources:
+  - "Kadın doğum ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Gebelikte pCO2 ve asit-baz değişikliği nedir?"
+taksonomi:
+  - [ktbt, kadin_dogum, kd_gebelik_fizyolojisi, kd_gf_maternal_fizyoloji]
+metin: "pCO2 yaklaşık 30 mmHg'ye düşer; tam kompanse solunumsal alkaloz."

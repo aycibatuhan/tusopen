@@ -1,0 +1,11 @@
+id: anes_kazara_hipotermi_isitma_3
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hipotermi klinik evreleri nelerdir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_hipotermi]
+metin: "I bilinçli-titreyen (35-32), II bilinç bozuk (32-28), III bilinçsiz (28-24), IV arrest (<24°C)."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Hipotermi_Suda_boğulma_Anaflaksi.txt

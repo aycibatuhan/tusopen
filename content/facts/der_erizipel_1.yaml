@@ -1,0 +1,11 @@
+id: der_erizipel_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Erizipelde tipik yerleşim yerleri neresidir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_bakteriyel, derm_bk_erizipel_selulit]
+metin: "Yüz, ayak sırtı ve tibial bölge; çoğu kez tek lezyon olarak görülür."
+# kaynak: 5.sınıf_Dermatoloji_ZK-PİYODERMA.txt

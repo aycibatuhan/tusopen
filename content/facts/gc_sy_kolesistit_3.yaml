@@ -1,0 +1,14 @@
+id: gc_sy_kolesistit_3
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Akut kolesistitte en sık etken nedir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_safra_yollari
+  - gc_sy_kolelitiazis
+metin: E. coli (safra kültürlerinin ~%30'u pozitif).
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Vedat_Durgun_akut_kronik_kolesistit.txt

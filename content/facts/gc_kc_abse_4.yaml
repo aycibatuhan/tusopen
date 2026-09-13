@@ -1,0 +1,14 @@
+id: gc_kc_abse_4
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Amebik apsede metronidazol kürü nasıldır?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_karaciger
+  - gc_kc_abse
+metin: 3x750 mg/gün, 7-10 gün; %95 başarı.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Ender_Dulundu_CTF_Kist_hidatik_abse_parazit_Ders.txt

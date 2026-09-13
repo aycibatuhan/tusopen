@@ -1,0 +1,10 @@
+id: biyok_kh_fruktoz_galaktoz_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Klasik galaktozeminin enzim kusuru ve bulguları nedir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_fruktoz_galaktoz]
+metin: "Galaktoz-1-fosfat üridiltransferaz eksikliği; katarakt, karaciğer sirozu, gelişme geriliği ilerler."

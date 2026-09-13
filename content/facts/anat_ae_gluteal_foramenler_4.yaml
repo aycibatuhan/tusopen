@@ -1,0 +1,11 @@
+id: anat_ae_gluteal_foramenler_4
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: N. gluteus superior hangi kasları innerve eder?
+taksonomi:
+  - [ttbt, anatomi, anat_alt_ekstremite, anat_ae_gluteal]
+metin: M. gluteus minimus, m. gluteus medius ve m. tensor fasciae latae.
+# kaynak: 3._Sınıf_3.3_Anatomi_ALT_TARAF_ANATOMİSİ_2021.txt, 3._Sınıf_3.3_Anatomi_Pelvis_Anatomisi_ve_Kliniği_2020-21.txt

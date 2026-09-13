@@ -1,0 +1,15 @@
+id: enf_akut_faz_crp_pct_1
+version: 1
+status: draft
+author: ai-drafts/enfeksiyon-facts
+sources:
+- Enfeksiyon hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Bakteriyel enfeksiyonda CRP kaç saatte zirve yapar ve kaç kat yükselir?
+taksonomi:
+- - ktbt
+  - enfeksiyon_hastaliklari
+  - enf_genel_yaklasim
+  - enf_gy_akut_faz
+metin: 36-50 saatte maksimuma ulaşır; invazif bakteriyel enfeksiyonda 15-40 kat, viral enfeksiyonda genellikle 3-5 kat yükselir.
+
+# kaynak: 3._Sınıf_3.5_Enfeksiyon_hastalıkları_Enfeksiyon_hast_lab.txt

@@ -1,0 +1,15 @@
+id: ped_bes_nutrisyonel_rasitizm_3
+version: 1
+status: draft
+author: ai-drafts/pediatri-facts
+sources:
+- Pediatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Raşitizmden koruyucu D vitamini dozları nedir?
+taksonomi:
+- - ktbt
+  - pediatri
+  - ped_beslenme
+  - ped_bes_rasitizm
+metin: 0-12 ayda günde 400 IU; 1-18 yaşta ise 600 IU/gün.
+
+# kaynak: 4._Sınıf_Pediatri_Elvan_Bayramoğlu_Rikets_ve_D_vitamini_eksikliği_ders_4.txt

@@ -1,0 +1,11 @@
+id: fiz_gis_emilim_tasima_3
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Yağ asitleri emildikten sonra hangi yolla dolaşıma girer?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_sindirim, fiz_gis_sindirim_emilim]
+metin: "10-12 karbondan uzunlar şilomikronla lenfatikle, kısaltar direkt portale."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Fizyoloji_13a._EMILIM_TÜRKÇE_30.Mayıs.2020.txt, 2._Sınıf_2.4_2.vize_fizyoloji_KAN_FİZYOLOJİSİ_TÜRKÇE_GRUBU.2020.txt

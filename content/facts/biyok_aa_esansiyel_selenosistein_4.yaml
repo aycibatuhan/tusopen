@@ -1,0 +1,11 @@
+id: biyok_aa_esansiyel_selenosistein_4
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Hangi amino asitte asimetrik karbon yoktur?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_yapi]
+metin: "Glisin; izolösin ve treoninde iki asimetrik karbon vardır."
+# kaynak: 1._Sınıf_1.1_Biyokimya_2018.10.23__Aminoasitler_2018.txt

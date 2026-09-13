@@ -1,0 +1,11 @@
+id: der_herpes_zoster_1
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Zona en sık hangi dermatomlarda görülür?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_viral, derm_vr_herpes]
+metin: "Torasik en sık (%55); ardından kranyal %25, lomber %14 ve servikal %12."
+# kaynak: 5.sınıf_Dermatoloji_viral_yeni.txt

@@ -1,0 +1,11 @@
+id: goz_anterior_uveit_1
+version: 1
+status: draft
+author: "ai-drafts/goz-facts"
+sources:
+  - "Göz hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Üveitin anatomik tipleri nelerdir?"
+taksonomi:
+  - [ktbt, goz_hastaliklari, goz_uvea, goz_uv_anterior_uveit]
+metin: "Anterior, intermediate (pars planitis), posterior ve panuveit."
+# kaynak: 5.sınıf_Göz_Hastalıkları_uveitis.txt, 5.sınıf_Göz_Hastalıkları_kırmızı_göz_2.txt

@@ -1,0 +1,14 @@
+id: gc_kc_abse_5
+version: 1
+status: draft
+author: ai-drafts/genel-cerrahi-facts
+sources:
+- Genel cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Amebik apsede aspirasyon endikasyonları nelerdir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_karaciger
+  - gc_kc_abse
+metin: Yanıtsız, çok büyük, süperenfekte veya sol lobda perikard rüptürü riski.
+# kaynak: 4._Sınıf_Genel_Cerrahi_2_Ender_Dulundu_CTF_Kist_hidatik_abse_parazit_Ders.txt

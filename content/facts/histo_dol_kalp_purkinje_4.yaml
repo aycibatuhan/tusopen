@@ -1,0 +1,14 @@
+id: histo_dol_kalp_purkinje_4
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kalbin pacemaker'ı nerededir?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - histo_dolasim
+  - histo_dol_kalp
+metin: Superior vena kavanın sağ atriumla kesiştiği bölgedeki sinoatriyal düğüm.
+# kaynak: 2._Sınıf_2.2_Histoloji_Kardiyo-vaskülerSistemHistolojisi_G.Tanrıverdi.txt

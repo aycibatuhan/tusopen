@@ -1,0 +1,13 @@
+id: gc_tp_onkolojik_prensipler_1
+version: 1
+status: draft
+author: ai-drafts/cerrahi-facts
+sources:
+- Cerrahi ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: R0, R1 ve R2 rezeksiyon ne demektir?
+taksonomi:
+- - ktbt
+  - genel_cerrahi
+  - gc_temel_prensipler
+  - gc_tp_onkolojik_prensipler
+metin: 'R0: tüm sınırlar mikroskobik temiz; R1: mikroskobik, R2: makroskopik rezidü.'

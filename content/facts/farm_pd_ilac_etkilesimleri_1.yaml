@@ -1,0 +1,10 @@
+id: farm_pd_ilac_etkilesimleri_1
+version: 1
+status: draft
+author: "ai-drafts/farmakoloji-facts"
+sources:
+  - "Farmakoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "En sık ilaç etkileşim mekanizması?"
+taksonomi:
+  - [ttbt, farmakoloji, farm_farmakodinamik, farm_pd_ilac_etkilesimleri]
+metin: "Metabolik enzimlerin uyarılması veya baskılanması."

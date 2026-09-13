@@ -1,0 +1,11 @@
+id: der_herpes_simpleks_4
+version: 1
+status: draft
+author: "ai-drafts/dermatoloji-facts"
+sources:
+  - "Dermatoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Herpes rekürrenslerini tetikleyen etkenler nelerdir?"
+taksonomi:
+  - [ktbt, dermatoloji, derm_viral, derm_vr_herpes]
+metin: "Travma, güneş ışınları, stres, ateşli infeksiyonlar, menstruasyon; lezyonlar aynı lokalizasyonda çıkar."
+# kaynak: 5.sınıf_Dermatoloji_viral_yeni.txt

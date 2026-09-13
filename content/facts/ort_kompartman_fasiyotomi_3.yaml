@@ -1,0 +1,11 @@
+id: ort_kompartman_fasiyotomi_3
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kompartman sendromu açısından yüksek riskli yaralanmalar nelerdir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kirik_genel, orto_kg_kompartman]
+metin: "Dirsek kırıkları, ön kol kemikleri kırıkları ve tibia proksimal 1/3 kırıkları."
+# kaynak: 5.sınıf_Ortopedi_Complications_.txt, 5.sınıf_Ortopedi_mkö_MULTİTRAVMALI_HASTAYA_YAKLAŞIM_ing.txt

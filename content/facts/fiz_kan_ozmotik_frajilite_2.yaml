@@ -1,0 +1,11 @@
+id: fiz_kan_ozmotik_frajilite_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Herediter sferositozda ozmotik frajilite nasıl değişir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_eritrosit]
+metin: "Yüzey-hacim oranı azaldığından artar; yüzde 0.7'lik çözeltide bile hemoliz olur."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt

@@ -1,0 +1,10 @@
+id: mikro_imm_serolojik_testler_2
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "ELISA-da sonuç nasıl okunur ve neden taramada tercih edilir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_immunoloji, mikro_imm_serolojik_testler]
+metin: "Enzim işaretli ikinci antikor ve kromojenik substratla renk değişimi; sensitivitesi yüksek olduğundan."

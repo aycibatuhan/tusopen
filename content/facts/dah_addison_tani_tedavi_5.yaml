@@ -1,0 +1,11 @@
+id: dah_addison_tani_tedavi_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Addison idame tedavisinde ilaç dozları nasıl düzenlenir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_addison]
+metin: "Hidrokortizon 10-20 mg sabah ve 5-10 mg akşam; gerekirse fludrokortizon 0,1 mg."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_hipokortizolizm.txt

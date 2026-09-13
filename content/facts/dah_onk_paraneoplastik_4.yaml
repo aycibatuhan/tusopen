@@ -1,0 +1,10 @@
+id: dah_onk_paraneoplastik_4
+version: 1
+status: draft
+author: "ai-drafts/gaps-onkoloji-anestezi"
+sources:
+  - "Tıbbi onkoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Trousseau sendromu nedir ve hangi tümörlerle ilişkilidir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_onkoloji, dah_onk_paraneoplastik]
+metin: "Migratör venöz tromboz; mukin salgılayan adenokarsinomlar (pankreas, mide)."

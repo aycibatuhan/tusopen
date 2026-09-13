@@ -1,0 +1,11 @@
+id: mikro_coxiella_ehrlichia_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ehrlichia-Anaplasma enfeksiyonlarında karakteristik laboratuvar bulgusu nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_coxiella_ehrlichia]
+metin: "Lökositlerde 'morula' inklüzyonları; peptidoglikan ve LPS taşımayan zorunlu hücre içi etkenlerdir."
+# kaynak: Rickettsia__Ehrlichia_Coxiella__Bartonella_cinsi_bakteriler.txt

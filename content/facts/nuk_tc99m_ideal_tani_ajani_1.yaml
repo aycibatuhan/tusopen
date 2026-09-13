@@ -1,0 +1,11 @@
+id: nuk_tc99m_ideal_tani_ajani_1
+version: 1
+status: draft
+author: "ai-drafts/nukleer-tip-facts"
+sources:
+  - "Nükleer tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tc-99m'i en çok kullanılan radyonüklid yapan özellikler nelerdir?"
+taksonomi:
+  - [ktbt, nukleer_tip, nt_temel, nt_tm_radyofarmasotikler]
+metin: "140 keV gama, 6 saat yarı ömür, Mo-99/Tc-99m jeneratörü, geniş molekül işaretleme elverişliliği."
+# kaynak: 5.sınıf_Nükleer_Tıp_5.sınıf_dersi_2021.txt

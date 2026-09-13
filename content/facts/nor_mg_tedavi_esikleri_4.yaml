@@ -1,0 +1,11 @@
+id: nor_mg_tedavi_esikleri_4
+version: 1
+status: draft
+author: "ai-drafts/noroloji-facts"
+sources:
+  - "Nöroloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Azatioprin MG'de hangi dozda verilir ve ne zaman etkir?"
+taksonomi:
+  - [ktbt, noroloji, noro_noromuskuler, noro_nm_miyastenia]
+metin: "2-2,5 mg/kg; etkinliği 6-12 ayda ortaya çıkar."
+# kaynak: 5.sınıf_Nöroloji_NÖROMUSKÜLER_BİLEŞKE.txt

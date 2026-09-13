@@ -1,0 +1,11 @@
+id: anes_iyd_ritim_sok_ilaclari_2
+version: 1
+status: draft
+author: "ai-drafts/anestezi-facts"
+sources:
+  - "Anestezi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "İYDde adrenalin şeması nedir?"
+taksonomi:
+  - [ktbt, anesteziyoloji, anes_resusitasyon, anes_rs_ileri_yasam]
+metin: "1 mg IV; şoklanamayan ritimde derhal, şoklanabilende 3. şoktan sonra; her 3-5 dakikada bir."
+# kaynak: 4._Sınıf_Anestezi_3.txt, 4._Sınıf_Anestezi_Kardiyopulmner_resüsitasyon4_sınıf_ders.txt

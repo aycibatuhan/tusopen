@@ -1,0 +1,11 @@
+id: mikro_gv_tani_1
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Viral kültürde diploid ve devamlı hücre hatları nelerdir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_genel_viroloji, mikro_gv_tani]
+metin: "Diploid: MRC-5, WI-38 (aşı üretimi ve tanı); devamlı: HeLa, Hep-2, Vero."
+# kaynak: yeni-2018-virüslerın_genel_özellikleri.txt

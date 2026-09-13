@@ -1,0 +1,11 @@
+id: biyok_kh_epimer_anomer_1
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Epimer nedir ve glukozun epimerleri kimdir?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_yapi]
+metin: "Tek karbon konfigürasyon farkı; C-2 epimeri mannoz, C-4 epimeri galaktoz."
+# kaynak: 1._Sınıf_1.1_Biyokimya____2018.10.02__Karbonhidrat_Yapı_ve_Sınıflandırması.txt, 1._Sınıf_1.1_Biyokimya____2018.09.20__Biyomoleküller_Genel_Yapısal_Özellikler.txt

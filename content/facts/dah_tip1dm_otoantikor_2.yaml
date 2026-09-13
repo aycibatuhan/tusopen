@@ -1,0 +1,11 @@
+id: dah_tip1dm_otoantikor_2
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Kardeşte ve monozigotik ikizde tip 1 diyabet riski nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diyabet_siniflama]
+metin: "Kardeşte %5, monozigotik ikizde %30-50 (genel popülasyon %0,4)."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Tip1DM.txt

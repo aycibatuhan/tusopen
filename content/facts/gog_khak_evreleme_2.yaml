@@ -1,0 +1,11 @@
+id: gog_khak_evreleme_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Küçük hücreli kanserde yaygın hastalık neyi kapsar?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_neoplazi, gog_neo_kucuk_hucreli]
+metin: "İki taraflı tutulum, uzak metastaz, perikard veya karşı taraf plevral sıvısı."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Akciğer_Kanseri_Dönem_5-29.08.2022.txt

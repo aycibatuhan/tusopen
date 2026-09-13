@@ -1,0 +1,11 @@
+id: dah_pcos_hirsutizm_degerlendirme_5
+version: 1
+status: draft
+author: "ai-drafts/dahiliye-facts"
+sources:
+  - "Dahiliye ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Anovülatuar infertilitede ovülasyon indüksiyonunda ilk seçenek nedir?"
+taksonomi:
+  - [ktbt, dahiliye, dah_endokrinoloji, dah_end_pkos_hirsutizm]
+metin: "Letrozol."
+# kaynak: 3._Sınıf_3.4_İç_hastalıkları_Kadın_Reprodüktif_Sistem_Hst.txt

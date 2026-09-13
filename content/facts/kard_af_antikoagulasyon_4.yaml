@@ -1,0 +1,11 @@
+id: kard_af_antikoagulasyon_4
+version: 1
+status: draft
+author: "ai-drafts/kardiyoloji-facts"
+sources:
+  - "Kardiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "NOAClerin VKA'ya üstünlükleri nelerdir?"
+taksonomi:
+  - [ktbt, kardiyoloji, kard_aritmiler, kard_ar_atriyal_fibrilasyon]
+metin: "Nonvalvüler AFde eşit etkinlik, daha az intrakraniyal kanama, doz izlemi gerektirmez."
+# kaynak: 5.sınıf_Kardiyoloji_Aritmi_Ders_Cerrahpas_a_2021-22.txt

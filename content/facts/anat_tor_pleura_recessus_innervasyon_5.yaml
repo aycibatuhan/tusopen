@@ -1,0 +1,11 @@
+id: anat_tor_pleura_recessus_innervasyon_5
+version: 1
+status: draft
+author: "ai-drafts/anatomi-facts"
+sources:
+  - "Anatomi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: Plevral boşlukta anormal sıvı birikiminin adı?
+taksonomi:
+  - [ttbt, anatomi, anat_toraks, anat_tor_plevra]
+metin: Plörezi (plöral efüzyon).
+# kaynak: 2._Sınıf_2.3_Anatomi_2019_Solunum_Sistemi.txt

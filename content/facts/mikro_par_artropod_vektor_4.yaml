@@ -1,0 +1,11 @@
+id: mikro_par_artropod_vektor_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Organofosforlu insektisitlerin toksik mekanizması nedir?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_parazitoloji, mikro_par_artropod]
+metin: "Asetilkolinesteraz inhibisyonu."
+# kaynak: Artropodların_yapıları_ve_genel_özellikleri.txt

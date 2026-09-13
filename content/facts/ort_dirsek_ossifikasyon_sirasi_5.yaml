@@ -1,0 +1,11 @@
+id: ort_dirsek_ossifikasyon_sirasi_5
+version: 1
+status: draft
+author: "ai-drafts/ortopedi-facts"
+sources:
+  - "Ortopedi ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Humerus lateral kondil kırığında Milch tip I hangi Salter-Harris tipine karşılık gelir?"
+taksonomi:
+  - [ktbt, ortopedi, orto_kirik_genel, orto_kg_cocuk_kiriklari]
+metin: "Salter-Harris Tip IV'e karşılık gelir."
+# kaynak: 5.sınıf_Ortopedi_Ortopedi_ve_Travmatoloji_de_Radyolojik_Değerlendirme.txt

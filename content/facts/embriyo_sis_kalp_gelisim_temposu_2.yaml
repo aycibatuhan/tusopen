@@ -1,0 +1,14 @@
+id: embriyo_sis_kalp_gelisim_temposu_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Kalp atımı ve primordial uteroplazental dolaşım ne zaman başlar?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_kalp
+metin: 3. haftanın sonunda; yaklaşık 21-22. günde.
+# kaynak: 1._Sınıf_1.3_Embriyoloji_EMBRİYONİK_DÖNEMIIR.txt, 2._Sınıf_2.2_Histoloji_KVS_gelişimi_G._Tanrıverdi.2019.txt

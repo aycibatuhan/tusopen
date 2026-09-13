@@ -1,0 +1,14 @@
+id: embriyo_sis_sindirim_segmentler_2
+version: 1
+status: draft
+author: ai-drafts/histoloji-embriyoloji-facts
+sources:
+- Histoloji ve embriyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Orta barsak türevleri hangileridir ve hangi arterle kanlanır?
+taksonomi:
+- - ttbt
+  - histoloji_embriyoloji
+  - embriyo_sistem
+  - embriyo_sis_sindirim
+metin: Duodenumun distali, jejunum, ileum, çekum, apendiks, çıkan kolon ve transvers kolonun ilk 2/3'ü; süperior mezenterik arter.
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_Sisteminin_Gelişimi-I.txt, 2._Sınıf_UZAKTAN_EĞİTİM_2.5_Histoloji_Sindirim_Sisteminin_Gelişimi-II.txt

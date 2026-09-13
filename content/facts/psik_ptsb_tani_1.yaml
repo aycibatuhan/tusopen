@@ -1,0 +1,11 @@
+id: psik_ptsb_tani_1
+version: 1
+status: draft
+author: "ai-drafts/psikiyatri-facts"
+sources:
+  - "Psikiyatri ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PTSB'nin dört belirti kümesi nelerdir?"
+taksonomi:
+  - [ktbt, psikiyatri, psik_okb_travma, psik_ot_tssb]
+metin: "Yeniden yaşantılama, kaçınma, biliş-duygudurumda olumsuz değişiklik, uyarılmışlık."
+# kaynak: 5.sınıf_PSİKİYATRİ_okb-ptsb_ve_ilişkili_bozukluklar.txt

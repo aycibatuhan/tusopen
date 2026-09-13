@@ -1,0 +1,11 @@
+id: fiz_kan_gruplari_rh_2
+version: 1
+status: draft
+author: "ai-drafts/fizyoloji-facts"
+sources:
+  - "Fizyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Eritroblastosis fetalisin bulguları ve tehlikeli komplikasyonu nedir?"
+taksonomi:
+  - [ttbt, fizyoloji, fiz_kan, fiz_kan_gruplari]
+metin: "Hemoliz, anemi, yüksek bilirubinli sarılık; bilirubin beyinde kernikterus yapar."
+# kaynak: 7._ders_3-Kanın-Fiziksel_Özellikleri.txt

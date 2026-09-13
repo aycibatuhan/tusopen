@@ -1,0 +1,11 @@
+id: mikro_helicobacter_tani_tedavi_4
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "H. pylori eradikasyonu nasıl ve ne zaman doğrulanır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_gram_negatif_basil, mikro_gnb_campylobacter_helicobacter]
+metin: "Tedaviden 4 hafta sonra yapılan testlerin negatifliğiyle."
+# kaynak: 3-_Helico_(Tanı__Tedavi__Korunma)___Mycoplasma.txt

@@ -1,0 +1,11 @@
+id: biyok_kh_laktoz_intolerans_2
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Laktoz intoleransının tipleri nasıldır?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_karbonhidrat, biyok_kh_sindirim]
+metin: "Hipolaktazi 5-7 yaşta iner (Asyalılarda sık); konjenital otosomal resesif, yenidoğan ishali."
+# kaynak: 1._Sınıf_1.1_Biyokimya____2018.10.04__Monosakkaritler__Glikozidler__Oligosakkaritler.txt

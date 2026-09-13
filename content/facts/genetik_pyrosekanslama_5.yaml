@@ -1,0 +1,14 @@
+id: genetik_pyrosekanslama_5
+version: 1
+status: draft
+author: ai-drafts/tibbi-biyoloji-facts
+sources:
+- Tıbbi Biyoloji ve Genetik ders kaynakları — referans olarak listelendi, metin özgün yazımdır
+ad: Pyrosekanslamanın temel avantajı nedir?
+taksonomi:
+- - ttbt
+  - tibbi_biyoloji_genetik
+  - tbg_klinik_genetik
+  - tbg_kg2_genetik_tani_yontemleri
+metin: İşaretli primer, işaretli nükleotid ve jel elektroforezi gerektirmemesi.
+# kaynak: 3._Sınıf_3.2_Tıbbi_genetik_D_4-_GENETİKTE_GELİŞMELER_ve_YENİ_TANI_YÖNTEMLERİ.txt

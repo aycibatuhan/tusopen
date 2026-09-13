@@ -1,0 +1,11 @@
+id: mikro_chlamydia_pneumoniae_psittaci_3
+version: 1
+status: draft
+author: "ai-drafts/mikrobiyoloji-facts"
+sources:
+  - "Mikrobiyoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Giemsa boyamada chlamydia türlerinin inkübasyon cisimcikleri nasıl ayrılır?"
+taksonomi:
+  - [ttbt, mikrobiyoloji, mikro_hucre_ici, mikro_hi_chlamydia]
+metin: "C. trachomatis tek ve yuvarlak, C. pneumoniae armut biçimli, C. psittaci çoklu ve polimorfiktir."
+# kaynak: 4-_Chlamydia.txt

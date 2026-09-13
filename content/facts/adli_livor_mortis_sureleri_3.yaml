@@ -1,0 +1,11 @@
+id: adli_livor_mortis_sureleri_3
+version: 1
+status: draft
+author: "ai-drafts/adli-tip-facts"
+sources:
+  - "Adli tıp ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Ölü lekesi ile ekimoz silinme yönünden nasıl ayrılır?"
+taksonomi:
+  - [ktbt, adli_tip, adl_olu_incelemesi, adl_oi_olum_zamani]
+metin: "Ölü lekesi staz nedeniyle silinir; ekimoz dokular arasına sızan kanla silinmez."
+# kaynak: 5.sınıf_Adli_Tıp_ÖLÜM_BELİRTİLERİ_-_2_PROF._DR._SERMET_KOÇ.txt

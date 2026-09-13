@@ -1,0 +1,11 @@
+id: pat_hem_kml_2
+version: 1
+status: draft
+author: "ai-drafts/patoloji-facts"
+sources:
+  - "Patoloji ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Lökosit alkalen fosfataz düşüklüğü neyi destekler?"
+taksonomi:
+  - [ttbt, patoloji, pat_hematopoetik, pat_hem_kronik_losemi_mpn]
+metin: "KML'yi; lökomoid reaksiyon ve diğer MPN'lerde LAP yüksek bulunur."
+# kaynak: 2._Sınıf_UZAKTAN_EĞİTİM_2.4_patoloji_Hilal_Akı_hematopathology-turkce.txt

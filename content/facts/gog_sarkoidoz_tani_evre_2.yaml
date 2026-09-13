@@ -1,0 +1,11 @@
+id: gog_sarkoidoz_tani_evre_2
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Sarkoidozda ACE ve BAL bulguları nedir?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_interstisyel, gog_int_sarkoidoz]
+metin: "ACE %60'ta yüksek; BAL'de CD4-CD8 oranı 3,5 üzeri."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_Sarkoidoz.txt

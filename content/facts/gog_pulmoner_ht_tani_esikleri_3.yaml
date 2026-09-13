@@ -1,0 +1,11 @@
+id: gog_pulmoner_ht_tani_esikleri_3
+version: 1
+status: draft
+author: "ai-drafts/gogus-hastaliklari-facts"
+sources:
+  - "Göğüs hastalıkları ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "PAH'da vazoreaktivite testi pozitifse ne yapılır?"
+taksonomi:
+  - [ktbt, gogus_hastaliklari, gog_vaskuler, gog_vas_pulmoner_hipertansiyon]
+metin: "Vazoreaktiflerin %10-15'inde kalsiyum kanal blokeri kullanılabilir."
+# kaynak: 5.sınıf_Göğüs_Hastalıkları_PULMONER_HİPERTANSİYON_2022.txt

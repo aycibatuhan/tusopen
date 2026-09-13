@@ -1,0 +1,10 @@
+id: biyok_aa_kollajen_elastin_3
+version: 1
+status: draft
+author: "ai-drafts/biyokimya-facts"
+sources:
+  - "Biyokimya ders kaynakları — referans olarak listelendi, metin özgün yazımdır"
+ad: "Tip I ve tip III kollajen kusurları hangi hastalıkları yapar?"
+taksonomi:
+  - [ttbt, biyokimya, biyok_aminoasit_protein, biyok_aa_kollajen_elastin]
+metin: "Tip I osteogenesis imperfecta; tip III damar tipi Ehlers-Danlos sendromu."
