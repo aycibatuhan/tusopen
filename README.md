@@ -37,6 +37,11 @@ ve konu etiketleri gibi **öğrenci kataları** kullanılır (bkz. PERMISSIONS.m
 Herhangi bir dershane/yayınevi içerik talebi gelirse (DMCA/telif bildirimi),
 bildirim süreci ve kaldırma prosedürü de hazır durumdadır.
 
+**Yalnızca eğitim amaçlıdır; tıbbi tavsiye değildir.** İçerik sınav hazırlığı
+içindir; klinik kararlar için kullanılmamalıdır. Tüm içerik `draft`
+aşamasındadır ve insan incelemesinden geçmemiştir; hasta bakımında bilgiyi
+daima güncel ders kitapları ve kılavuzlarla doğrulayın.
+
 ## Legal model (important)
 
 - The repository ships **code, schemas, taxonomy, tags and own-words
@@ -67,7 +72,7 @@ bildirim süreci ve kaldırma prosedürü de hazır durumdadır.
   textbooks and guidelines before applying them to patients.
 - **No warranty.** Provided "as is", without warranty of any kind; the
   authors are not liable for any damages arising from use of the materials.
-- **Draft quality (v0.3.0-alpha).** ALL items are currently in `draft`
+- **Draft quality (v0.4.0-alpha).** ALL items are currently in `draft`
   status: AI-assisted drafts awaiting human review. Nothing here is
   reviewer-approved yet, verify facts against a textbook, and report
   errors via issues or PRs.

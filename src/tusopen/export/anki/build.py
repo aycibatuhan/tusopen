@@ -569,8 +569,10 @@ DECK_DESCRIPTION = (
     f"TUS Open — açık kaynak TUS çalışma destesi (sürüm {DECK_VERSION}). "
     "© 2026 Batuhan Ayci ve katkıcılar. İçerik CC BY-SA 4.0, kod Apache-2.0 "
     "(github'daki depoya bakın). "
-    "Tıbbi bilgi tazelik ve doğruluk garantisi yoktur; tek başına çalışma "
-    "kaynağı değildir; ÖSYM ile hiçbir bağı yoktur. "
+    "Bu deste yalnızca eğitim amaçlıdır; tıbbi tavsiye değildir ve klinik "
+    "kararlar için kullanılmamalıdır. Tıbbi bilgi tazelik ve doğruluk "
+    "garantisi yoktur; tek başına çalışma kaynağı değildir; ÖSYM ile hiçbir "
+    "bağı yoktur. "
     "Görseller Wikimedia Commons'tan serbest lisanslıdır; görsel ayrıntıları "
     "deponun content/facts/media/LICENSE-MANIFEST.md dosyasındadır.")
 

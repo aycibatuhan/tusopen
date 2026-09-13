@@ -5,6 +5,11 @@ Bu rehber, TUS Open destesini ilk kez kullanacak olan ve Anki ya da
 Amaç, sizi bir "Anki ustası" yapmak değil; sistemin mantığını anlamak ve
 desteyi ilk günden doğru kullanmaya başlamak.
 
+> **Uyarı:** TUS Open **yalnızca eğitim amaçlıdır; tıbbi tavsiye değildir**.
+> İçerik taslak aşamasındadır ve klinik kararlar için kullanılmamalıdır;
+> hasta bakımında bilgiyi daima güncel ders kitapları ve kılavuzlarla
+> doğrulayın.
+
 ---
 
 ## 1. Anki nedir?

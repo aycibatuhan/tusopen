@@ -100,6 +100,9 @@ h2.soru{font-size:18px;line-height:1.4;margin:4px 0 12px}
 <a class="brand" href="#/">TUS Open<span class="badge">Vaka Simülatörü</span></a>
 </div></header>
 <main id="app"></main>
+<footer class="foot">Bu simülatör <b>yalnızca eğitim amaçlıdır</b>; tıbbi tavsiye
+değildir ve klinik kararlar için kullanılmamalıdır. İçerik taslak aşamasındadır;
+bilgiyi daima güncel kılavuzlarla doğrulayın.</footer>
 <noscript>Bu simülatör JavaScript gerektirir.</noscript>
 <script id="case-data" type="application/json">__CASE_DATA__</script>
 <script>
