@@ -12,33 +12,39 @@ taksonomi:
   - gogus_hastaliklari
   - gog_plevra
   - gog_pl_ampiyem
-tipik_hasta: Toplum kökenli pnömoni tanılı ama antibiyotiğe yeterli yanıt vermeyen, ateşi düşmeyen veya
-  düşüp tekrar yükselen hasta; alkol kullanımı, aspirasyon riski, kötü oral hijyen veya immünsupresyon
-  öyküsü bu tabloyu anımsatmalıdır; anaerobik etken şüphesi güçlenir
-patofizyoloji: 'Bakteriyel pnömoninin plevral boşluğa taşınması üç aşamada ilerler: ilk eksüdatif fazda
-  seröz sıvı birikir (basit parapnömonik efüzyon), fibrinopüralan fazda bakteri ve lökosit enzimleri fibrin
-  çökelterek boşluğu septalara böler, organizasyon fazında fibroblastlar kollajen depolar ve akciğer fibröz
-  zarla hapsolanır. Lökositler ve bakteriler glikozu tüketip laktat ürettikçe sıvının pH''sı düşer; pH
-  7,20 eşiğinin altına inmesi antibiyotikle geçiştirilemez, drenaj eşiğinin geçildiğini gösterir'
+tipik_hasta: "**Toplum kökenli pnömoni** tanılı ama antibiyotiğe yeterli yanıt vermeyen, **ateşi
+  düşmeyen** veya düşüp tekrar yükselen hasta. **Alkol kullanımı**, **aspirasyon riski**, kötü **oral
+  hijyen** veya **immünsupresyon** öyküsü bu tabloyu anımsatmalıdır; **anaerobik** etken şüphesi
+  güçlenir"
+patofizyoloji: "Bakteriyel pnömoninin plevral boşluğa taşınması **üç aşamada** ilerler: ilk **eksüdatif**
+  fazda seröz sıvı birikir (**basit parapnömonik efüzyon**). **Fibrinopüralan** fazda bakteri-lökosit
+  enzimleri fibrin çökelterek boşluğu **septalara** böler; **organizasyon** fazında fibroblastlar
+  kollajen depolar ve akciğer **fibröz zarla hapsolanır**. Lökositler ve bakteriler **glikoz**u tüketip
+  **laktat** ürettikçe sıvının **pH**'sı düşer; **pH 7,20 eşiği**nin altına inmesi antibiyotikle
+  geçiştirilemez, **drenaj eşiğinin** geçildiğini gösterir"
 anahtar_bulgular:
-- Pnömoni tedavisi sırasında ateşin hiç düşmemesi veya düşüp tekrar yükselmesi (yanıt vermeyen ateş)
-- Plevral sıvıda pH 7,20'nin altı, glikozun 60 mg/dL altı ve LDH'de belirgin yükselme — drenaj gerekliliğinin
-  göstergeleri
-- Torasentezde bulanık veya görünür pürülan sıvı; gram boyama ve kültür pozitifliği
-- Plevral USG'de septasyon ve çökelek çamur görünümü; BT'de plevral kalınlaşma, kontrast tutulumu ve lokalize
-  kolleksiyon
-- Dev kolleksiyon veya hava-sıvı düzeyi — bronkoplevral fistül şüphesini anımsatır
-patognomonik: Torasentezle dışarı alınan sıvının pürülan görünümü
-ilk_tetkik: Ateşi ve klinik kötüleşmeyi açıklamayan pnömoni hastasında plevral USG ve göğüs BT; tanısal
-  torasentez ile sıvının pH, glikoz, LDH, hücre sayımı ve gram-kültür analizi yapılır
-kesin_tani: Pürülan sıvının aspirasyonu veya sıvı analizinde pH 7,20 altı, glikoz 60 altı, LDH yüksekliği
-  ve gram-kültür pozitifliği kombinasyonu; lokalizasyon ve kapsülasyon BT ile gösterilir
-ilk_tedavi: 'Geniş spektrumlu antibiyotik (anaerobik örtü dahil) ile drenaj birlikte yürütülür: pH 7,20
-  eşiği geçildiğinde veya pus görüldüğünde göğüs tüpü drenajı zorunludur; septasyonlu veya lokalize efüzyonda
-  intrapleural fibrinolitikler (dornaz alfa artı alteplaz kombinasyonu; streptokinaz tek başına önerilmez) eklenir; drenaj yetersiz
-  kalırsa VATS ile dekortikasyon'
-klasik_komplikasyon: Bronkoplevral fistül, kronik ampiyem ve akciğerin fibröz zarla hapsolanmasına bağlı
-  kalıcı restriktif fonksiyon kaybı; sepsis
+- "Pnömoni tedavisi sırasında **ateşin hiç düşmemesi** veya düşüp **tekrar yükselmesi** (yanıt vermeyen
+  ateş)"
+- "Plevral sıvıda **pH 7,20'nin altı**, **glikozun 60 mg/dL altı** ve **LDH**'de belirgin yükselme —
+  **drenaj gerekliliğinin** göstergeleri"
+- "Torasentezde **bulanık veya görünür pürülan sıvı**; **gram boyama** ve **kültür** pozitifliği"
+- "Plevral **USG**'de **septasyon** ve çökelek **çamur** görünümü; **BT**'de plevral kalınlaşma,
+  kontrast tutulumu ve lokalize kolleksiyon"
+- "**Dev kolleksiyon** veya **hava-sıvı düzeyi** — **bronkoplevral fistül** şüphesini anımsatır"
+patognomonik: "Torasentezle dışarı alınan sıvının **pürülan görünümü**"
+ilk_tetkik: "Ateşi ve klinik kötüleşmeyi açıklamayan pnömoni hastasında **plevral USG** ve **göğüs BT**.
+  **Tanısal torasentez** ile sıvının **pH**, **glikoz**, **LDH**, hücre sayımı ve **gram-kültür**
+  analizi yapılır"
+kesin_tani: "**Pürülan sıvının aspirasyonu** veya sıvı analizinde **pH 7,20 altı**, **glikoz 60 altı**,
+  **LDH** yüksekliği ve **gram-kültür** pozitifliği kombinasyonu; lokalizasyon ve kapsülasyon **BT** ile
+  gösterilir"
+ilk_tedavi: "**Geniş spektrumlu antibiyotik** (**anaerobik örtü** dahil) ile **drenaj** birlikte
+  yürütülür: **pH 7,20 eşiği** geçildiğinde veya **pus** görüldüğünde **göğüs tüpü drenajı** zorunludur.
+  Septasyonlu veya lokalize efüzyonda **intrapleural fibrinolitikler** (**dornaz alfa + alteplaz**
+  kombinasyonu; **streptokinaz** tek başına önerilmez) eklenir; drenaj yetersiz kalırsa **VATS** ile
+  **dekortikasyon**"
+klasik_komplikasyon: "**Bronkoplevral fistül**, **kronik ampiyem** ve akciğerin fibröz zarla
+  hapsolanmasına bağlı **kalıcı restriktif fonksiyon kaybı**; **sepsis**"
 tus_gecmisi:
 - tus-2025-ilkbahar-ktbt-44
 kart_uret:

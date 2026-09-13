@@ -11,36 +11,19 @@ taksonomi:
   - dermatoloji
   - derm_urtiker_ilac
   - derm_ui_eritema_multiforme
-tipik_hasta: Genç erişkin ya da çocuk; ellerin sırtı, avuçlar, ayaklar ve diz-dirsek ekstansör yüzlerinde
-  simetrik hedef lezyonlarla başvurur. Birkaç hafta önce dudakta herpetik kabarcık (soğuk soğuk ya da
-  uçuk) geçirmiş olmak klasik öyküdür; çocuk ve genç yetişkinde yakın geçmişte ateş-öksürük olan üst solunum
-  enfeksiyonu mikoplazma pnümonisi bağlantısını düşündürür. Hafif ateş ve halsizlik prodromu olabilir;
-  genel durum çoğunlukla iyidir, bu da SJS'den ayıran en önemli klinik hava
-patofizyoloji: 'Dış tetikleyiciye karşı gelişen immun yanıt keratinositlere yönelir: tetikleyici antijenine
-  spesifik sitotoksik T hücreleri ve NK hücreleri epidermiste perivasküler ve arayüz hasarı yapar, keratinosit
-  nekrozu görülür. En sık tetikleyici herpes simpleks virüsüdür; lezyonlarda HSV DNA polimeraz zincir
-  reaksiyonuyla gösterilebilir ve herpetik lezyon kapandıktan yaklaşık 1-3 hafta sonra EM başlar. İkinci
-  sırada Mycoplasma pneumoniae gelir; ilaçlar (sülfonamidler, antikonvülzanlar) daha nadiren sorumludur.
-  Bu yüzden tekrarlayan EM''nin büyük bölümü HSV nüksüyle açıklanır'
+tipik_hasta: "Genç erişkin ya da çocuk; ellerin sırtı, avuçlar, ayaklar ve diz-dirsek **ekstansör yüzlerinde simetrik hedef lezyonlarla** başvurur. Birkaç hafta önce **dudakta herpetik kabarcık** (uçuk) geçirmiş olmak klasik öyküdür; yakın geçmişte ateş-öksürüklü üst solunum enfeksiyonu **mikoplazma pnümonisi** bağlantısını düşündürür. Hafif ateş ve halsizlik prodromu olabilir; **genel durum çoğunlukla iyidir** — bu **SJS**'den ayıran en önemli klinik hava"
+patofizyoloji: "Dış tetikleyiciye karşı gelişen immun yanıt keratinositlere yönelir: tetikleyici antijenine spesifik **sitotoksik T hücreleri** ve NK hücreleri epidermiste perivasküler ve **arayüz hasarı** yapar; **keratinosit nekrozu** görülür. En sık tetikleyici **herpes simpleks virüsü**dür; lezyonlarda **HSV DNA** polimeraz zincir reaksiyonuyla gösterilebilir ve herpetik lezyon kapandıktan yaklaşık **1-3 hafta** sonra EM başlar. İkinci sırada **Mycoplasma pneumoniae** gelir; **ilaçlar** (sülfonamidler, antikonvülzanlar) daha nadiren sorumludur. Tekrarlayan EM'nin büyük bölümü **HSV nüksüyle** açıklanır"
 anahtar_bulgular:
-- 'Hedef (bull''s eye) lezyon: koyu/mor merkez, onun çevresinde ödemli soluk halka, en dışta eritematöz
-  halka olmak üzere üç konsantrik zon; merkezde bül olabilir'
-- Ellerin sırtı, avuçlar, ayaklar ve ekstansör yüzlerde simetrik yerleşim
-- Ağız mukozasında yüzeysel erozyonlar (EM majör) ancak sistemik toksisite hafif, genel durum iyi
-- Öyküde 1-3 hafta önce herpes labialis ya da solunum yolu enfeksiyonu (mikoplazma)
-- 2-4 haftada kendiliğinden tam düzelme; herpes nüksüyle tekrarlayıcı seyir
-patognomonik: 'Hedef (bull''s eye) lezyon: koyu merkez, soluk ödemli iç halka, eritematöz dış halka'
-ilk_tetkik: Mukoza ve sistemik değerlendirme ile SJS'den ayrım; dudak/herpetik lezyon sorgusu ve muayenesi;
-  solunum bulgusu varsa göğüs grafisi ve mikoplazma serolojisi; gerekirse tetikleyiciden lezyona PCR
-kesin_tani: 'Klinik: tipik hedef lezyonlar ve akral-simetrik dağılım. Biyopsi gerekirse arayüzde vakuoler
-  değişiklik, epidermiste keratinosit nekrozu ve dermiste perivasküler lenfosit infiltrasyonu'
-ilk_tedavi: 'Etiyolojiye yönelik tedavi: herpes kaynaklıysa asiklovir (tekrarlayan EM''de supresif asiklovir),
-  mikoplazma kaynaklıysa makrolid veya doksisiklin. Semptomatik yaklaşımda topikal kortikosteroid, antiseptik
-  ağız yıkamaları ve antihistaminik; geniş tabloda kısa süreli sistemik steroid. Hastalık kendi kendine
-  iz bırakmadan düzelir; asıl yapılmaması gereken, idiyopatik sanılan her ağır mukoza tutulumunu sistemik
-  steroidle bastırıp alttaki SJS''i gözden kaçırmaktır'
-klasik_komplikasyon: Ağız erozyonlarına bağlı beslenme ve yutma güçlüğü; HSV nüksüyle tekrarlayıcı seyir;
-  mukoza tutulumunun ağır tablolarda SJS ile karışması
+- "**Hedef (bull's eye) lezyon**: koyu/mor merkez, onun çevresinde **ödemli soluk halka**, en dışta **eritematöz halka** olmak üzere üç konsantrik zon; merkezde bül olabilir"
+- "Ellerin sırtı, avuçlar, ayaklar ve **ekstansör yüzlerde simetrik** yerleşim"
+- "**Ağız mukozasında yüzeysel erozyonlar** (EM majör) ancak sistemik toksisite hafif, **genel durum iyi**"
+- "Öyküde **1-3 hafta önce herpes labialis** ya da solunum yolu enfeksiyonu (**mikoplazma**)"
+- "**2-4 haftada kendiliğinden tam düzelme**; herpes nüksüyle **tekrarlayıcı** seyir"
+patognomonik: "**Hedef (bull's eye) lezyon**: koyu merkez, soluk ödemli iç halka, eritematöz dış halka"
+ilk_tetkik: "Mukoza ve sistemik değerlendirme ile **SJS'den ayrım**; dudak/**herpetik lezyon** sorgusu ve muayenesi. Solunum bulgusu varsa **göğüs grafisi** ve **mikoplazma serolojisi**; gerekirse tetikleyiciden lezyona **PCR**"
+kesin_tani: "**Klinik**: tipik **hedef lezyonlar** ve **akral-simetrik** dağılım. Biyopsi gerekirse **arayüzde vakuoler değişiklik**, epidermiste **keratinosit nekrozu** ve dermiste perivasküler lenfosit infiltrasyonu"
+ilk_tedavi: "**Etiyolojiye yönelik** tedavi: herpes kaynaklıysa **asiklovir** (tekrarlayan EM'de **supresif asiklovir**), mikoplazma kaynaklıysa **makrolid** veya **doksisiklin**. Semptomatik yaklaşımda **topikal kortikosteroid**, **antiseptik ağız yıkamaları** ve **antihistaminik**, geniş tabloda kısa süreli **sistemik steroid**. Hastalık kendi kendine **iz bırakmadan** düzelir; asıl yapılmaması gereken, idiyopatik sanılan her ağır mukoza tutulumunu sistemik steroidle bastırıp **alttaki SJS'i gözden kaçırmaktır**"
+klasik_komplikasyon: "Ağız erozyonlarına bağlı **beslenme ve yutma güçlüğü**; **HSV nüksüyle tekrarlayıcı** seyir; mukoza tutulumunun ağır tablolarda **SJS** ile karışması"
 tus_gecmisi:
 - tus-2021-ilkbahar-ktbt-30
 kart_uret:

@@ -15,48 +15,20 @@ taksonomi:
   - ftr
   - ftr_norolojik_rehabilitasyon
   - ftr_nr_omurilik_yaralanmasi
-tipik_hasta: 'Trafik kazası, yüksekten düşme veya dalgıç kazası (kafayla sığ suya çarpma) ile gelen genç
-  erişkin klasik profildir; yaşlı hastada spondiloz, osteoporoz veya tümör gibi önceden daralmış omurilik
-  kanalıyla hafif düşme bile ciddi yaralanmaya yeter; başvuru: bacaklarda veya dört uzuvda ani kuvvet
-  kaybı, gövdede duyu sınırı, idrar retansiyonu'
-patofizyoloji: 'Birincil hasar (kemik fragmenti, disk veya dislokasyonun omuriliği doğrudan ezmesi) sonrası
-  saatler-günler süren ikincil kaskat: ödem, mikrodolaşım bozukluğu, iskemi, eksitotoksisite ve inflamasyon
-  — kurtarılabilir doku payı bu pencereyi tanımlar. Servikal yaralanmada C4 ve üstü tutulum diyaframı
-  doğrudan etkiler. Sendromlar: anterior kord (motor ve ağrı-ısı kaybı, dorsal yollar korunur), santral
-  kord (hiperekstansiyon sonrası kollar bacaklardan daha etkilenir), Brown-Séquard (yarım kesilme: aynı
-  tarafta motor ve pozisyon duyusu, karşı tarafta ağrı-ısı kaybı)'
+tipik_hasta: "**Trafik kazası, yüksekten düşme veya dalgıç kazası** (kafayla sığ suya çarpma) ile gelen **genç erişkin** klasik profil; **Yaşlı**da **spondiloz**, **osteoporoz** veya **tümör**le önceden daralmış kanalda **hafif düşme** bile ciddi yaralanmaya yeter. Başvuru: bacaklarda veya **dört uzuvda ani kuvvet kaybı**, gövdede **duyu sınırı**, **idrar retansiyonu**"
+patofizyoloji: "**Birincil hasar** (kemik fragmenti, disk veya dislokasyonun doğrudan ezmesi) sonrası saatler-günler süren **ikincil kaskat**: ödem, **mikrodolaşım bozukluğu**, **iskemi**, **eksitotoksisite**, inflamasyon; **Servikal yaralanmada C4 ve üstü** tutulum **diyaframı** doğrudan etkiler; **Anterior kord** (motor ve **ağrı-ısı kaybı**, dorsal yollar korunur); **santral kord** (**hiperekstansiyon** sonrası **kollar bacaklardan daha etkilenir**); **Brown-Séquard** (yarım kesilme: **aynı tarafta motor-pozisyon**, karşı tarafta **ağrı-ısı** kaybı)"
 anahtar_bulgular:
-- 'Düzey belirleme: ASIA/ISNCSCI formuyla en alt sağlam segment saptanır (C4-C5-T10 gibi); motor kas grupları,
-  28 duyu noktası ve istemli anal sıkıştırma (S4-S5) birlikte değerlendirilir'
-- 'Spinal şok: yaralanmayı izleyen ilk 24-72 saatte altında flasid arefleksik paralizi ve arefleksik mesane;
-  bulbokavernoz refleksin geri dönmesi şokun bittiğini gösterir — şok süresince tam-yarım ayrımı güvenilir
-  değildir'
-- 'Sakral kaçış: perianal duyu veya istemli anal sıkıştırmanın korunması yaralanmanın tam olmadığını ve
-  iyileşme potansiyeli olduğunu gösterir'
-- 'Nörojenik şok: hipotansiyon ve bradikardi birlikte (sempatik zincirin kesilmesi); travmada hipovolemik
-  şokla ayrılması zorunludur'
-- 'Otonom disrefleksi: T6 ve üstü yaralanmalarda mesane-bağırsak doluluğu veya bası yarası gibi uyarılara
-  ani hipertansiyon, baş ağrısı ve terleme ile yanıt'
-- 'Solunum: C3-C5 diyafram çekirdeğidir; yüksek servikal yaralanmada ventilasyon ihtiyacı ve sekresyon
-  temizliğinde güçlük'
+- "**Düzey belirleme**: **ASIA/ISNCSCI** formuyla **en alt sağlam segment** (C4-C5-T10 gibi); **motor kas grupları**, **28 duyu noktası**, **istemli anal sıkıştırma (S4-S5)**"
+- "**Spinal şok**: ilk **24-72 saatte** altında **flasid arefleksik paralizi** ve **arefleksik mesane**; **bulbokavernoz refleksin geri dönmesi** şokun bittiğini gösterir — bu sürede **tam-yarım ayrımı güvenilir değil**"
+- "**Sakral kaçış**: **perianal duyu** veya **istemli anal sıkıştırmanın korunması** yaralanmanın **tam olmadığını** ve **iyileşme potansiyeli**ni gösterir"
+- "**Nörojenik şok**: **hipotansiyon ve bradikardi** birlikte (**sempatik zincirin kesilmesi**); travmada **hipovolemik şok**la ayrılması zorunlu"
+- "**Otonom disrefleksi**: **T6 ve üstü** yaralanmalarda **mesane-bağırsak doluluğu** veya **bası yarası** gibi uyarılara **ani hipertansiyon**, baş ağrısı ve **terleme**"
+- "**Solunum**: **C3-C5 diyafram çekirdeği**dir; yüksek servikal yaralanmada **ventilasyon ihtiyacı**, **sekresyon temizliğinde güçlük**"
 patognomonik: null
-ilk_tetkik: 'Spinal immobilizasyon (taşınma dahil) sonrasında nonkontrast servikal-torakal BT: kırık,
-  dislokasyon ve kanal daralmasını gösterir; MRG kord içindeki ödem, kanama ve süreklilik kaybını değerlendirir
-  (prognoz için en değerli görüntü); ASIA/ISNCSCI formu ilk muayenede doldurulur ve spinal şok bitince
-  tekrarlanır'
-kesin_tani: 'ASIA/ISNCSCI nörolojik sınıflaması: motor ve duyu düzeyleri, sakral korunma, tam (A) ile
-  tam olmayan (B-D) ayrımı; derecelendirme spinal şok sonlandıktan sonra kesinleşir; BT ve MRG bulguları
-  düzey ve yaralanma tipiyle eşleştirilir'
-ilk_tedavi: 'Akut faz: immobilizasyon ve hızlı spinal stabilizasyon; ilk hafta hedef ortalama arter basıncı
-  85-90 mmHg (kord perfüzyonunu korumak için); yüksek doz metilprednizolon tartışmalıdır, rutin önerilmez.
-  C3-C5 tutulumunda solunum desteği, derin ven trombozu profilaksisi, mesane yönetimi (aralıklı kateterizasyon)
-  ve gerekiyorsa erken dekompresyon-stabilizasyon cerrahisi. Erken ve yoğun multidisipliner rehabilitasyon
-  temel taş: fonksiyonel kazanımın en hızlı penceresi ilk 3-6 ay, ilk yıl en büyük pay; spazm için baklofen,
-  nöropatik ağrı için gabapentinoidler; otonom disrefleksi krizinde tetikleyicinin (dolu mesane) boşaltılması'
-klasik_komplikasyon: Nörojenik mesane-bağırsak (retansiyon, vesikoureteral reflü, böbrek hasarı), otonom
-  disrefleksi krizleri, bası yaraları ve infeksiyonları, derin ven trombozu ve pulmoner emboli, heterotopik
-  kemikleşme; yaralanmayı yıllar sonra da izleyebilen posttravmatik siringomiyeli; yüksek servikal yaralanmada
-  kalıcı ventilatör bağımlılığı
+ilk_tetkik: "**Spinal immobilizasyon** (taşınma dahil) sonrasında **nonkontrast servikal-torakal BT**: **kırık**, **dislokasyon**, **kanal daralması**; **MRG**: kord içindeki **ödem**, **kanama**, **süreklilik kaybı** (**prognoz için en değerli görüntü**); **ASIA/ISNCSCI formu** ilk muayenede doldurulur, **spinal şok** bitince tekrarlanır"
+kesin_tani: "**ASIA/ISNCSCI sınıflaması**: **motor ve duyu düzeyleri**, **sakral korunma**, **tam (A)** ile **tam olmayan (B-D)** ayrımı. Derecelendirme **spinal şok** sonlandıktan sonra kesinleşir; **BT ve MRG** bulguları düzey ve tip ile eşleştirilir"
+ilk_tedavi: "Akut faz: **immobilizasyon** ve hızlı **spinal stabilizasyon**; ilk hafta hedef **ortalama arter basıncı 85-90 mmHg** (kord perfüzyonu için); **Yüksek doz metilprednizolon tartışmalıdır, rutin önerilmez**; **C3-C5** tutulumunda **solunum desteği**; **derin ven trombozu profilaksisi**; **mesane yönetimi (aralıklı kateterizasyon)**. Gerekirse **erken dekompresyon-stabilizasyon cerrahisi**; **erken ve yoğun multidisipliner rehabilitasyon** — fonksiyonel kazanım penceresi **ilk 3-6 ay**; **Spazm** için **baklofen**, **nöropatik ağrı** için **gabapentinoidler**; **otonom disrefleksi** krizinde **tetikleyicinin (dolu mesane) boşaltılması**"
+klasik_komplikasyon: "**Nörojenik mesane-bağırsak** (**retansiyon**, **vesikoureteral reflü**, böbrek hasarı); **otonom disrefleksi** krizleri; **Bası yaraları** ve infeksiyonları; **derin ven trombozu** ve **pulmoner emboli**; **heterotopik kemikleşme**. Yıllar sonra da izlenebilen **posttravmatik siringomiyeli**; yüksek servikal yaralanmada **kalıcı ventilatör bağımlılığı**"
 tus_gecmisi:
 - tus-2019-ilkbahar-ktbt-37
 kart_uret:

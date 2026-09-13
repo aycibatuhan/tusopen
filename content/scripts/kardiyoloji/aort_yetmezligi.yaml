@@ -11,37 +11,41 @@ taksonomi:
   - kardiyoloji
   - kard_kapak
   - kard_kp_aort_yetmezligi
-tipik_hasta: Orta yaş üzerinde, yıllarca sessiz kaldıktan sonra efor dispnesi ve anjina ile gelen hasta;
-  muayenede geniş nabız basıncı ve sol sternal sınıra yerleşen diyastolik üfürüm saptanır. Kronik tabloda
-  romatizmal kapak, biküspit aort veya açıklanamayan sol ventrikül dilatasyonu öyküsü düşünülür; akut
-  ağır tabloda enfektif endokardit veya aort diseksiyonu önceliklidir
-patofizyoloji: 'Aort kapağın diyastolde tam kapanamaması; kanın aort kökünden gevşeyen sol ventriküle
-  geri akması. Regürjitan volüm sol ventrikülün diyastolik yükünü sürekli artırır; kronikte kompansatuar
-  ekssantrik (dilate) hipertrofiyle kaviteler büyür ve kardiyak output uzun süre korunur. Geniş nabız
-  basıncı buradan doğar: yüksek hacimli sistolik atım sistolik basıncı yükseltirken hızlı diyastolik kaçış
-  diyastolik basıncı çeker, iki değer arası açılır. Akut tabloda dilatasyona zaman olmadığından bu denge
-  kurulamaz; pulmoner ödem ve düşük output hızla gelişir'
+tipik_hasta: "Orta yaş üzerinde, yıllarca sessiz kaldıktan sonra **efor dispnesi** ve **anjina**yla gelen
+  hasta. Muayenede **geniş nabız basıncı** ve sol sternal sınıra yerleşen **diyastolik üfürüm** saptanır.
+  Kronik tabloda **romatizmal kapak** veya **biküspit aort** öyküsü düşünülür; akut ağır tabloda
+  **enfektif endokardit** ve **aort diseksiyonu** önceliklidir"
+patofizyoloji: "Aort kapağın diyastolde tam kapanamaması; kan aort kökünden gevşeyen sol ventriküle geri
+  akar (**regürjitan volüm**). Kronikte kompansatuar **ekssantrik (dilate) hipertrofi**yle kaviteler
+  büyür ve kardiyak output uzun süre korunur. **Geniş nabız basıncı** buradan doğar: yüksek hacimli
+  sistolik atım sistolik basıncı yükseltirken hızlı diyastolik kaçış diyastolik basıncı çeker. Akut
+  tabloda dilatasyona zaman olmadığından bu denge kurulamaz; **pulmoner ödem** ve düşük output hızla
+  gelişir"
 anahtar_bulgular:
-- Sol sternal sınırda, hastanın öne eğilip nefesini dışarı verdiği pozisyonda en iyi duyulan erken diyastolik
-  dekresendo üfürüm
-- 'Geniş nabız basıncına bağlı periferik işaretler: su tokmağı (Corrigan) nabzı ve başın her atımla ileri
-  geri sallanması (baş titremesi)'
-- 'Austin-Flint hırlaması: aort jetinin mitral anterior yaprakçığını titreterek oluşturduğu mitral darlığa
-  benzeyen diyastolik ses'
-- EKG'de sol ventrikül hipertrofisi ve direkt grafide kardiyomegali; geç dönemde efor dispnesi ve anjina
-- Akut ağır tabloda akut pulmoner ödem, taşikardi, zayıf-kısa üfürüm ve dolaşım çökmesi birlikte bulunur
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Geniş nabız basıncının eşlik ettiği erken diyastolik üfürüm; başın kalp atımıyla birlikte
-  sallanması
-ilk_tetkik: 'Transtorasik ekokardiyografi: vena kontrakta ve jet genişliğiyle ağırlık ölçülür, sol ventrikül
-  boyutları ve fonksiyonu değerlendirilir'
-kesin_tani: Ekokardiyografik Doppler bulgularla ağır aort yetmezliğinin doğrulanması; mekanizmanın (endokardit
-  vejetasyonu, diseksiyon, yaprakçık patolojisi) ayrıştırılması gerektiğinde transözefageal ekokardiyografi
-ilk_tedavi: 'Kronik ağır yetmezlikte cerrahinin zamanlaması ekokardiyografiyle belirlenir: sol ventrikül
-  fonksiyonu bozulmadan (EF yüzde 55''in altına inmeden, end-sistolik çap eşikleri aşılmadan) kapak cerrahisi
-  planlanır; asemptomatik normotansif ağır AR''da vaskodilatör önerilmez; endikasyon eşlik eden hipertansiyondur. Akut ağır tabloda damar
-  yolundan vaskodilatörle köprülenip acil cerrahiye alınır'
-klasik_komplikasyon: Geç dönemde sol ventrikül dilatasyonu ve kalp yetmezliği; bozuk kapakta enfektif
-  endokardit; akut ağır yetmezlikte kardiyojenik şok
+- "Sol sternal sınırda, hastanın öne eğilip nefesini dışarı verdiği pozisyonda en iyi duyulan **erken
+  diyastolik dekresendo üfürüm**"
+- "Geniş nabız basıncına bağlı periferik işaretler: **su tokmağı (Corrigan)** nabzı ve başın her atımla
+  ileri-geri sallanması (**baş titremesi**)"
+- "**Austin-Flint hırlaması**: aort jetinin mitral anterior yaprakçığını titreterek oluşturduğu, **mitral
+  darlığına benzeyen** diyastolik ses"
+- "EKG'de **sol ventrikül hipertrofisi** ve direkt grafide **kardiyomegali**; geç dönemde efor dispnesi
+  ve anjina"
+- "Akut ağır tabloda **akut pulmoner ödem**, taşikardi, zayıf-kısa üfürüm ve dolaşım çökmesi birlikte
+  bulunur"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **geniş nabız basıncı**nın eşlik ettiği
+  **erken diyastolik üfürüm**; başın kalp atımıyla birlikte sallanması"
+ilk_tetkik: "**Transtorasik ekokardiyografi**: **vena kontrakta** ve jet genişliğiyle ağırlık ölçülür; sol
+  ventrikül boyutları ve fonksiyonu değerlendirilir"
+kesin_tani: "**Ekokardiyografik Doppler** bulgularla ağır aort yetmezliğinin doğrulanması. Mekanizmanın
+  (**endokardit vejetasyonu**, **diseksiyon**, yaprakçık patolojisi) ayrıştırılması gerektiğinde
+  **transözefageal ekokardiyografi**"
+ilk_tedavi: "Kronik ağır yetmezlikte cerrahinin zamanlaması ekokardiyografiyle belirlenir: sol ventrikül
+  fonksiyonu bozulmadan (**EF yüzde 55'in altına inmeden**, **end-sistolik çap eşikleri** aşılmadan)
+  **kapak cerrahisi** planlanır. Asemptomatik normotansif ağır AR'da **vaskodilatör önerilmez**;
+  endikasyon eşlik eden **hipertansiyon**dur. Akut ağır tabloda damar yolundan **vaskodilatör**le
+  köprülenip **acil cerrahi**ye alınır"
+klasik_komplikasyon: "Geç dönemde **sol ventrikül dilatasyonu** ve **kalp yetmezliği**. Bozuk kapakta
+  **enfektif endokardit**; akut ağır yetmezlikte **kardiyojenik şok**"
 tus_gecmisi:
 - tus-2017-sonbahar-ktbt-10
 kart_uret:

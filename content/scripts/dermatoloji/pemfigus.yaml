@@ -11,33 +11,20 @@ taksonomi:
   - dermatoloji
   - derm_bulloz
   - derm_bl_pemfigus
-tipik_hasta: 40-60 yaş arası erişkin; ağızda uzun süredir düzelmeyen, ağrılı, derin erozyonlar (acı ve
-  tuzlu yemekle artar) ile başlayıp deriye yayılan; soyulan, kabuklanan, kolayca açılan kabarcıklar; mukoza tutulumu görülen ve daha agresif
-  seyreden tip vulgaris'tir; foliaseus'ta mukoza tutulmaz
-patofizyoloji: Keratinositler arasındaki yapışma molekülleri desmoglein 1 ve 3'e karşı IgG otoantikorlar;
-  yapışma bozulur, epidermis kendi içinde ayrışır (akantoliz) ve intraepidermal büller oluşur. Vulgaris'te
-  Dsg3 antikorları öndedir, mukoza tutulumu kaçınılmazdır; foliaseus'ta yalnız Dsg1 antikorları vardır,
-  ayrışma granüloz katman üstünde yüzeyseldir ve mukoza korunur
+tipik_hasta: "**40-60 yaş** arası erişkin; ağızda uzun süredir düzelmeyen, ağrılı, **derin erozyonlar** (acı ve tuzlu yemekle artar) ile başlayıp deriye yayılan, kolayca açılan kabarcıklar; **Mukoza tutulumu** görülen ve daha agresif seyreden tip **vulgaris**tir; **foliaseus**'ta mukoza tutulmaz"
+patofizyoloji: "Keratinositler arasındaki yapışma molekülleri **desmoglein 1** ve **desmoglein 3**'e karşı **IgG otoantikorlar**; yapışma bozulur, epidermis kendi içinde ayrışır (**akantoliz**) ve **intraepidermal büller** oluşur; **Vulgaris**'te **Dsg3** antikorları öndedir, **mukoza tutulumu** kaçınılmazdır; **foliaseus**'ta yalnız **Dsg1** antikorları vardır, ayrışma **granüloz katman üstünde yüzeysel**dir ve **mukoza korunur**"
 anahtar_bulgular:
-- Kolayca rüptür olan ince, gevşek bülleler; çoğu hastada sadece erozyon ve kabuk görünür
-- Ağız içinde ağrılı, derin, uzun süren erozyonlar (ilk belirti olabilir)
-- 'Nikolsky pozitif: sağlam deriye sürtünmeyle epidermisin kayması ve soyulması'
-- Biyopside suprabazal akantoliz (vulgaris) veya subkorneal akantoliz (foliaseus)
-- Doğrudan immunofloresanda keratinositler arasında (balık ağı) IgG ve C3
-- ELISA'da anti-desmoglein antikor titresi aktiviteyle korelasyon gösterir
-patognomonik: Doğrudan immunofloresanda hücreler arası (balık ağı deseni) IgG ve C3 birikimi
-ilk_tetkik: Bülün kenarındaki sağlam deriden biyopsi (histopatoloji) ve perilesiyonel deriden doğrudan
-  immunofloresan; serumda anti-desmoglein ELISA
-kesin_tani: Histopatolojide intraepidermal akantoliz artı doğrudan immunofloresanda hücreler arası IgG
-  ve C3; vulgaris ile foliaseus ayrımı hem klinik (mukoza tutulumu) hem histoloji (suprabazal karşı subkorneal)
-  ile yapılır; Tzanck yayması hızlıdır ama kesin tanı koydurmaz
-ilk_tedavi: Hastalığı bastırmak için sistemik yüksek doz kortikosteroid (prednizon yaklaşık 0.5-1 mg/kg/gün),
-  yanıt alınca kademeli düşürülür; steroid tasarrufu için adjuvan immünsupresan (azatioprin veya mikofenolat
-  mofetil); ağır ve dirençli olgularda rituksimab (anti-CD20) giderek öne çıkar; dirençli tabloda IVIG
-  veya plazmaferez; ağız erozyonlarında topikal steroid ve ağız bakımı destek
-klasik_komplikasyon: Geniş erozyonlardan sıvı-protein kaybı ve ikincil bakteriyel enfeksiyon-sepsis; tedavinin
-  kendi komplikasyonları (steroidin yan etkileri, immünsupresyonda enfeksiyonlar); tedavi edilmeyen pemfigus
-  vulgaris ölümcüldür
+- "Kolayca rüptür olan **ince, gevşek büller**; çoğu hastada sadece **erozyon ve kabuk** görünür"
+- "Ağız içinde ağrılı, derin, uzun süren **erozyonlar** (ilk belirti olabilir)"
+- "**Nikolsky pozitif**: sağlam deriye sürtünmeyle **epidermisin kayması ve soyulması**"
+- "Biyopside **suprabazal akantoliz** (vulgaris) veya **subkorneal akantoliz** (foliaseus)"
+- "Doğrudan immunofloresanda keratinositler arasında (**balık ağı**) **IgG ve C3**"
+- "**ELISA**'da **anti-desmoglein antikor titresi** aktiviteyle korelasyon gösterir"
+patognomonik: "Doğrudan immunofloresanda hücreler arası (**balık ağı deseni**) **IgG ve C3** birikimi"
+ilk_tetkik: "**Bülün kenarındaki sağlam deriden biyopsi** (histopatoloji) ve perilesiyonel deriden **doğrudan immunofloresan**; serumda **anti-desmoglein ELISA**"
+kesin_tani: "Histopatolojide **intraepidermal akantoliz** artı doğrudan immunofloresanda **hücreler arası IgG ve C3**; **Vulgaris** ile **foliaseus** ayrımı hem klinik (**mukoza tutulumu**) hem histoloji (**suprabazal** karşı **subkorneal**) ile yapılır; **Tzanck** yayması hızlıdır ama **kesin tanı koydurmaz**"
+ilk_tedavi: "Hastalığı bastırmak için **sistemik yüksek doz kortikosteroid** (prednizon yaklaşık **0.5-1 mg/kg/gün**), yanıt alınca kademeli düşürülür; steroid tasarrufu için adjuvan **immünsupresan** (**azatioprin** veya **mikofenolat mofetil**). Ağır ve dirençli olgularda **rituksimab (anti-CD20)** giderek öne çıkar, dirençli tabloda **IVIG** veya **plazmaferez**. Ağız erozyonlarında **topikal steroid** ve ağız bakımı destek"
+klasik_komplikasyon: "Geniş erozyonlardan **sıvı-protein kaybı** ve ikincil **bakteriyel enfeksiyon-sepsis**; tedavinin kendi komplikasyonları (**steroidin yan etkileri**, immünsupresyonda enfeksiyonlar); tedavi edilmeyen **pemfigus vulgaris ölümcüldür**"
 tus_gecmisi:
 - tus-2020-ilkbahar-ktbt-31
 - tus-2021-ilkbahar-ttbt-88

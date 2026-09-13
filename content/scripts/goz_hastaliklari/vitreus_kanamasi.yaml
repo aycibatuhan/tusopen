@@ -8,18 +8,18 @@ sources:
 ad: Vitreus Kanaması
 taksonomi:
   - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_vitreus_kanamasi]
-tipik_hasta: "Uzun süredir diyabeti olan, genellikle retina lazere çalışılmamış proliferatif diyabetik retinopati hastası; ani, ağrısız görme azalması ve gözün önünde dolaşan kararmalar (yüzücü noktalar, 'örtü' hissi) ile gelen hasta; travma geçirmiş göz veya iki göz arasında asimetrik görme kaybı olanlarda da anımsanır"
-patofizyoloji: "Kan, vitreus boşluğuna retina damarlarından sızar. En sık yol: proliferatif diyabetik retinopatide retina yüzeyine uzanan yeni damarların (neovaskülarizasyon) vitreus çekintisiyle yırtılması. Retinal ven tıkanıklıkları, retina yırtıkları (retinal delik/yırtılma), künt travma, ıslak tip makula dejenerasyonu ve subaraknoid kanamaya eşlik eden kanama (Terson sendromu) diğer kaynaklardır. Kan vitreusta koyulaşır, optik ortamı bulandırır ve fundus bakısını engeller"
+tipik_hasta: "**Uzun süredir diyabet**i olan, genellikle retina lazere çalışılmamış **proliferatif diyabetik retinopati** hastası; **ani, ağrısız görme azalması** ve gözün önünde dolaşan **kararmalar** (yüzücü noktalar, **örtü** hissi) ile gelen hasta. **Travma** geçirmiş göz veya **iki göz arasında asimetrik görme kaybı** olanlarda da anımsanır"
+patofizyoloji: "Kan, vitreus boşluğuna **retina damarları**ndan sızar. En sık yol: **proliferatif diyabetik retinopati**de retina yüzeyine uzanan **yeni damarların (neovaskülarizasyon)** vitreus çekintisiyle **yırtılması**. **Retinal ven tıkanıklıkları**, **retina yırtıkları**, **künt travma**, **ıslak tip makula dejenerasyonu** ve subaraknoid kanamaya eşlik eden kanama (**Terson sendromu**) diğer kaynaklardır. Kan vitreusta koyulaşır, **optik ortamı** bulandırır ve **fundus** bakısını engeller"
 anahtar_bulgular:
-  - "Ani başlayan, ağrısız ve kızarıklık yapmayan görme azalması (kızarıklık ve ağrı yok)"
-  - "Gözün önünde dolaşan kararmalar, siyah noktalar veya perde/örtü hissi"
-  - "Öyküde diyabet, travma ya da bilinen retina hastalığı"
-  - "Fon (retina) muayenesinde kanlı-bulanık (kızılımsı) görüntü; fundus zor veya hiç görülmüyor"
-  - "Optik ortam bulanıkken retina ayrılması veya yırtığın dışlanması için göz ultrasonu (B-scan) yapılması"
+- "**Ani başlayan, ağrısız** ve kızarıklık yapmayan **görme azalması** (kızarıklık ve ağrı yok)"
+- "Gözün önünde dolaşan **kararmalar**, **siyah noktalar** veya **perde/örtü hissi**"
+- "Öyküde **diyabet**, **travma** ya da bilinen **retina hastalığı**"
+- "**Fon (retina) muayenesinde** kanlı-bulanık (**kızılımsı**) görüntü; fundus **zor veya hiç görülmüyor**"
+- "Optik ortam bulanıkken **retina ayrılması** veya **yırtığın** dışlanması için **göz ultrasonu (B-scan)** yapılması"
 patognomonik: null
-ilk_tetkik: "Tam dilatasyonda (midriyatik) indirekt oftalmoskopik fundus incelemesi; fon görünmüyorsa göz ultrasonografisi (B-scan) ile retina ayrılması ve kütlesel lezyon araştırması"
-kesin_tani: "Fon görünmediğinde B-scan ultrasonda vitreus içi kanama ekolarının gösterilmesi; fon görülebiliyorsa kanayan damar veya neovaskülarizasyonun indirekt oftalmoskopiyle saptanması"
-ilk_tedavi: "Çoğu olguda gözü sabit tutarak istirahat ve başı yüksek pozisyon (kanın aşağı çökmesi için) ile bekleyici izlem; kanamayı açıklayan etkinin tedavisi (proliferatif diyabetik retinopatide panretinal lazer fotokoagülasyon). Lekelenme aylarca düzelmeyen gözde, retina ayrılması eşlik ediyorsa veya tekrarlayıyorsa pars plana vitrektomi"
-klasik_komplikasyon: "Diyabetik kökende tekrarlayan kanamalar ve vitreus çekintisiyle traksiyonel retina ayrılması; ilerleyici gözlerde neovasküler glokom; uzun süren kanamada kalıcı opak ortam"
+ilk_tetkik: "Tam dilatasyonda (**midriyatik**) **indirekt oftalmoskopik fundus incelemesi**; fon görünmüyorsa **göz ultrasonografisi (B-scan)** ile **retina ayrılması** ve **kütlesel lezyon** araştırması"
+kesin_tani: "**Fon görünmediğinde B-scan ultrason**da vitreus içi **kanama ekoları**nın gösterilmesi; fon görülebiliyorsa **kanayan damar** veya **neovaskülarizasyon**un **indirekt oftalmoskopi**yle saptanması"
+ilk_tedavi: "Çoğu olguda gözü sabit tutarak **istirahat** ve **başı yüksek pozisyon** (kanın aşağı çökmesi için) ile **bekleyici izlem**. Kanamayı açıklayan etkinin tedavisi: **proliferatif diyabetik retinopati**de **panretinal lazer fotokoagülasyon**. **Lekelenme aylarca** düzelmeyen gözde, **retina ayrılması** eşlik ediyorsa veya **tekrarlıyorsa** **pars plana vitrektomi**"
+klasik_komplikasyon: "**Diyabetik** kökende **tekrarlayan kanamalar** ve vitreus çekintisiyle **traksiyonel retina ayrılması**; ilerleyici gözlerde **neovasküler glokom**; uzun süren kanamada **kalıcı opak ortam**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

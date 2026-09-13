@@ -8,19 +8,17 @@ sources:
 ad: Ablasyo Plasenta
 taksonomi:
   - [ktbt, kadin_dogum, kd_fetal_komplikasyonlar, kd_fk_dekolman]
-tipik_hasta: "Tansiyon yüksekliği veya preeklampsi hastası ya da karın travması (araç çarpışması, düşme) geçirmiş, sigara-kokain kullanan; üçüncü üç aylık dönemde ağrılı vajinal kanamayla acile gelen gebe"
-patofizyoloji: "Normal yerinde oturan plasentanın arkasında damar kopması olur; biriken kan plasentayı rahim duvarından daha fazla ayırır ve kan rahim kasının içine sızarak rahmi ahşap gibi sertleştirir. Ayrılan plasentadan dolaşıma dokusal pıhtılaşma faktörleri geçer, tüketim pıhtılaşma bozukluğu (fibrinojen düşüşü) gelişir; ayrılma alanı büyüdükçe fetus oksijenlenmesi bozulur. Görünen kanama tablonun şiddetini göstermez, büyük bölümü gizli kalabilir"
+tipik_hasta: "**Tansiyon yüksekliği** veya **preeklampsi** hastası ya da **karın travması** (araç çarpışması, düşme) geçirmiş, **sigara-kokain** kullanan; üçüncü üç aylık dönemde **ağrılı vajinal kanamayla** acile gelen gebe"
+patofizyoloji: "Normal yerinde oturan plasentanın arkasında damar kopar; biriken kan plasentayı rahim duvarından daha fazla ayırır ve rahim kasına sızarak rahmi **ahşap gibi sertleştirir**; ayrılan plasentadan dolaşıma dokusal pıhtılaşma faktörleri geçer: **tüketim pıhtılaşma bozukluğu** (**fibrinojen düşüşü**), ayrılma alanı büyüdükçe fetal oksijenlenme bozulur; görünen kanama tablonun şiddetini göstermez, büyük bölümü **gizli** kalabilir"
 anahtar_bulgular:
-  - "Ağrılı vajinal kanama; kanama miktarı görünenin çok üstünde gizli olabilir"
-  - "Rahmin ahşap sertliği: hassas, sürekli sert ve gevşemeyen rahim"
-  - "Sürekli arka bel ve rahim ağrısı; kontraksiyon olmasa bile ağrı sürer"
-  - "Fetal kalp atımında bozukluk; ağır ayrılmada fetus kalp sesi kaybolur"
-  - "Tüketim koagülopatisi: fibrinojen düşer, pıhtılaşma testleri bozulur, kanayan yerlerde sızma"
-  - "Preeklampsi veya karın travması öyküsü"
-patognomonik: "Ağrılı kanamayla birlikte rahmin ahşap gibi sert ve gevşemeyen hâli"
-ilk_tetkik: "Kardiotokografi ile fetal durum ve rahim gevşemesi izlemi; ultrason (ayrılma alanı her zaman görünmez); kan sayımı, fibrinojen ve pıhtılaşma tetkikleri, kan grubu ve taze donmuş plazma hazırlığı"
-kesin_tani: "Klinik tabloyla konur: ağrılı kanama ve ahşap sertliği karakteristikken ultrason negatif olabilir; doğum sonrası plasenta arkasında pıhtı görülmesi tanıyı kesinleştirir"
-ilk_tedavi: "İki büyük damaryolu açıp kan ve kan ürünleri verilir (fibrinojen dahil); fetus sağlıksa ve anne-fetus durumu bozuluyorsa acil doğum (çoğunlukla sezaryen), fetus ölünse doğum yolu vajinal seçilebilir; anne stabil ve gebelik erken ise yakın hastane izlemi"
-klasik_komplikasyon: "Couvelaire rahmi (kanın rahim kasına sızması), tüketim pıhtılaşma bozukluğu ve böbrek yetmezliği; doğum sonrası rahim gevşemesiyle ağır kanama"
+  - "**Ağrılı vajinal kanama**; kanama miktarı görünenin çok üstünde gizli olabilir"
+  - "**Rahmin ahşap sertliği**: hassas, sürekli sert ve gevşemeyen rahim; kontraksiyon olmasa bile süren arka bel ve rahim ağrısı"
+  - "Fetal kalp atımında bozukluk; ağır ayrılmada **fetal kalp sesi kaybolur**"
+  - "**Tüketim koagülopatisi**: **fibrinojen düşer**, pıhtılaşma testleri bozulur, kanayan yerlerde sızma"
+patognomonik: "**Ağrılı kanamayla** birlikte rahmin **ahşap gibi sert ve gevşemeyen** hâli"
+ilk_tetkik: "**Kardiotokografi** ile fetal durum ve rahim gevşemesi izlemi; **ultrason** (ayrılma alanı her zaman görünmez); kan sayımı, **fibrinojen** ve pıhtılaşma tetkikleri, kan grubu ve **taze donmuş plazma** hazırlığı"
+kesin_tani: "Klinik tabloyla konur: ağrılı kanama ve **ahşap sertliği** karakteristikken **ultrason negatif** olabilir; doğum sonrası plasenta arkasında **pıhtı** görülmesi tanıyı kesinleştirir"
+ilk_tedavi: "İki büyük damaryolu açılıp **kan ve kan ürünleri** verilir (**fibrinojen** dahil); fetus sağlıksa ve anne-fetus durumu bozuluyorsa **acil doğum** (çoğunlukla sezaryen), fetus ölünse doğum yolu vajinal seçilebilir; anne stabil ve gebelik erkense yakın **hastane izlemi**"
+klasik_komplikasyon: "**Couvelaire rahmi** (kanın rahim kasına sızması), **tüketim pıhtılaşma bozukluğu** ve **böbrek yetmezliği**; doğum sonrası rahim gevşemesiyle ağır kanama"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

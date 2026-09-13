@@ -10,36 +10,18 @@ taksonomi:
   - dahiliye
   - dah_nefroloji
   - dah_nef_akut_bobrek_hasari
-tipik_hasta: Sepsis, büyük cerrahi, sıvı kaybı ya da kontrast madde maruziyeti geçiren yaşlı hastane hastası;
-  NSAİİ, aminoglikozit ya da amfoterisin B kullanan; prostat büyümesi ya da taş nedeniyle idrar yolu tıkanan
-  hasta; idrar çıkışı azalmış ya da kreatini hızla yükselen
-patofizyoloji: 'Üç mekanizma. Böbrek öncesi: kanama, dehidratasyon, kalp yetmezliği gibi hipoperfüzyon
-  durumlarında filtrasyon düşer ama parankim sağlamdır. Böbrek içi: en sık akut tübüler nekroz (iskemi
-  ya da nefrotoksikler), tübüler hasar geri dönüşümlüdür ama haftalar sürebilir. Böbrek sonrası: taş,
-  prostat, tümörle tıkanma (etkili olabilmesi için iki taraflı gerekir) tübüler basıncı artırır. Tübüler
-  emilim düzelirken önce poliüri görülür; buna diürez fazı denir'
+tipik_hasta: "Sepsis, büyük cerrahi, sıvı kaybı ya da **kontrast madde** maruziyeti geçiren yaşlı hastane hastası; **NSAİİ**, **aminoglikozit** ya da **amfoterisin B** kullanan; prostat büyümesi ya da taş nedeniyle idrar yolu tıkanan hasta. İdrar çıkışı azalmış ya da kreatini hızla yükselen"
+patofizyoloji: "Üç mekanizma. **Böbrek öncesi**: kanama, dehidratasyon, kalp yetmezliği gibi hipoperfüzyonda filtrasyon düşer ama parankim sağlamdır; **böbrek içi**: en sık **akut tübüler nekroz** (iskemi ya da nefrotoksikler), tübüler hasar geri dönüşümlüdür ama haftalar sürebilir; **böbrek sonrası**: taş, prostat, tümörle tıkanma (etkili olabilmesi için iki taraflı gerekir) tübüler basıncı artırır; tübüler emilim düzelirken önce poliüri görülür: **diürez fazı**"
 anahtar_bulgular:
-- 'Böbrek öncesi: üre/kreatinin oranının 20''yi aşması, fraksiyonel sodyum atılımının yüzde birin altında
-  kalması, idrar yoğunluğunun yüksek, sedimentin sakin olması'
-- 'Akut tübüler nekroz: fraksiyonel sodyum atılımının yüzde ikiyi aşması, yaymada granüler pigmente (çamur
-  rengi) silindirler'
-- 'Böbrek sonrası: ultrasonda hidronefroz, tam tıkanmada anüri; sonda konulunca idrar çıkışının anında
-  dönmesi'
-- Hiperkalemi, metabolik asidoz, üremik bulgular (bulantı, ensefalopati, üremik perikardit)
-- Oligürik fazdan sonra poliürik (diürez) faz; idrar yoğunluğunun düşük kalması
+- "**Böbrek öncesi**: **üre/kreatinin oranının 20'yi aşması**, **FENa yüzde birin altında**, idrar yoğunluğu yüksek, sediment sakin"
+- "**Akut tübüler nekroz**: **FENa yüzde ikiyi aşar**, yaymada **granüler pigmente (çamur rengi) silindirler**"
+- "**Böbrek sonrası**: ultrasonda **hidronefroz**, tam tıkanmada anüri; sonda konulunca idrar çıkışının anında dönmesi"
+- "Hiperkalemi, metabolik asidoz, üremik bulgular (**üremik perikardit**, ensefalopati); oligürik fazdan sonra **poliürik (diürez) faz**, idrar yoğunluğunun düşük kalması"
 patognomonik: null
-ilk_tetkik: Serum kreatinin, üre, elektrolitler ve kan gazı; idrar tetkiki ve fraksiyonel sodyum atılımı;
-  böbrek ultrasonu; hemodinamik ve idrar çıkışı değerlendirmesi
-kesin_tani: Kreatinin artış kriterleri (48 saat içinde 0,3 mg/dl üzerinde yükseliş ya da son yedi gün içinde taban değerin
-  1,5 katına ulaşması) ya da altı saat ve üstü oligüri (<0,5 ml/kg/saat); FENa, sediment ve ultrasonla böbrek öncesi/içi/sonrası
-  ayrımı
-ilk_tedavi: 'Nedene yönelik: böbrek öncesinde volüm ve basınç düzeltilir; böbrek sonrasında dekompresyon
-  (sonda, gerektiğinde nefrostomi); tübüler nekrozda destekleyici tedavi (sıvı-elektrolit yönetimi, nefrotoksik
-  ilaçların kesilmesi, böbrek fonksiyonuna göre doz ayarı; diüretik tabloyu değiştirmez). Diyaliz endikasyonları:
-  dirençli hiperkalemi, dirençli asidoz, aşırı volüm yükü, üremik perikardit veya ensefalopati, bazı ilaç
-  toksikasyonları'
-klasik_komplikasyon: Hiperkalemiye bağlı aritmi; diürez fazında hipokalemi ve dehidratasyon; bir bölümde
-  kronik böbrek hastalığına geçiş
+ilk_tetkik: "**Serum kreatinin**, üre, elektrolitler ve kan gazı; **idrar tetkiki** ve **fraksiyonel sodyum atılımı**; **böbrek ultrasonu**; hemodinamik ve idrar çıkışı değerlendirmesi"
+kesin_tani: "Kreatinin artış kriterleri: **48 saat içinde 0,3 mg/dl üzerinde yükseliş** ya da son **yedi gün içinde taban değerin 1,5 katı**; veya altı saat ve üzeri oligüri (**saatte 0,5 ml/kg'nın altı**). Ayırım **FENa**, sediment ve ultrasonla"
+ilk_tedavi: "Nedene yönelik: **böbrek öncesinde** volüm ve basınç düzeltilir; **böbrek sonrasında dekompresyon** (sonda, gerektiğinde nefrostomi); **tübüler nekrozda** destekleyici tedavi (sıvı-elektrolit yönetimi, nefrotoksik ilaçların kesilmesi, böbrek fonksiyonuna göre doz ayarı, diüretik tabloyu değiştirmez); **Diyaliz endikasyonları**: dirençli **hiperkalemi**, dirençli **asidoz**, aşırı **volüm yükü**, **üremik perikardit** veya ensefalopati, bazı ilaç toksikasyonları"
+klasik_komplikasyon: "**Hiperkalemiye bağlı aritmi**; diürez fazında **hipokalemi** ve dehidratasyon; bir bölümde **kronik böbrek hastalığına** geçiş"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-19
 - tus-2014-ilkbahar-ktbt-20

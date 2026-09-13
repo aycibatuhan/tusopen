@@ -8,18 +8,18 @@ ad: Bell Paralizisi
 taksonomi:
   - [ktbt, kbb, kbb_fasiyal_sinir, kbb_fs_bell_paralizisi]
   - [ktbt, noroloji, noro_noromuskuler, noro_nm_fasiyal_paralizi]
-tipik_hasta: "Her yaşta görülen ama özellikle 15-45 yaş bandında; üst solunum yolu enfeksiyonu sonrasında yüzünün bir tarafının bir gecede ya da saatler içinde düştüğünü fark eden, kulağının arkasında ağrı tanımlayan hasta"
-patofizyoloji: "En olası mekanizma latent Herpes simpleks reaktivasyonuna bağlı fasiyal sinir inflamasyonu; kanalın en dar bölümü olan labirintik segmentte ödem siniri sıkıştırıp iskemiye yollar. Alın bölgesine giden lifler iki taraflı kortikobulbar innervasyon aldığından santral lezyonda alın korunur, periferik lezyonda alın da tutulur"
+tipik_hasta: "Her yaşta görülür ama özellikle **15-45 yaş** bandında. **Üst solunum yolu enfeksiyonu** sonrasında yüzünün bir tarafının **bir gecede ya da saatler içinde** düştüğünü fark eden; **kulağının arkasında ağrı** tanımlayan hasta"
+patofizyoloji: "En olası mekanizma latent **Herpes simpleks** reaktivasyonuna bağlı **fasiyal sinir inflamasyonu**; kanalın en dar bölümü olan **labirintik segment**te ödem siniri sıkıştırıp **iskemi**ye yollar. Alın bölgesine giden lifler **iki taraflı kortikobulbar innervasyon** aldığından **santral** lezyonda alın korunur, **periferik** lezyonda alın da tutulur"
 anahtar_bulgular:
-  - "72 saat içinde doruğa ulaşan tek taraflı yüz güçsüzlüğü; alın dahil tüm yarı yüz tutulur (kaş çatamama, göz kapanamaması-lagoftalmi, nasolabial sulkusun silinmesi, ağız kenarının düşmesi)"
-  - "Ön iki üçte tat duyusu azalması (korda timpani) ve seslerde aşırı duyarlılık-hiperakuzi (stapedius zayıflığı)"
-  - "Retroauriküler ağrı; başlangıçta lakrimasyon değişikliği"
-  - "Gözü kapatmaya çalışırken gözbebeğinin yukarı-dışa dönmesi (Bell fenomeni)"
-  - "Diğer kranial sinir muayenesi ve ekstremite güçlerinin normal olması; santral bulgu yokluğu"
-patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Alın dahil tüm yarı yüzün tutulması — periferik lezyonun imzası; santral fasiyal paralizide alın korunur"
-ilk_tetkik: "Klinik nörolojik muayene ve otoskopi; House-Brackmann evrelemesiyle ağırlık belirlenir, rutin görüntüleme gerekmez"
-kesin_tani: "Klinik tanı; idiyopatik kabul edilmeden önce orta kulak, parotis ve santral nedenler dışlanır. Atipik gidiş ya da 3-6 ayda düzelme yokluğunda kontrastlı MRG ve elektriksel testler (EMG, stapedial refleks) istenir"
-ilk_tedavi: "Belirtilerin başlangıcından sonraki 72 saat içinde oral prednizon 50-60 mg/gün 5 gün + 5 günlük azaltma, toplam 10 gün (AAO-HNS); ağır tabloda antiviral eklenebilir. Göz koruması kritik: gündüz yapay gözyaşı, gece lübrikan merhem ve gözü bantlama"
-klasik_komplikasyon: "Kornea maruziyeti ve keratit (göz kapanamamasına bağlı); inkomplet iyileşme, sinkineziler ve aberran rejenerasyon bulgusu olarak tuzlu yemekle gözyaşı salınımı (timsah gözyaşları)"
+- "**72 saat** içinde doruğa ulaşan **tek taraflı yüz güçsüzlüğü**; **alın dahil** tüm yarı yüz tutulur (kaş çatamama, göz kapanamaması-**lagoftalmi**, nasolabial sulkusun silinmesi, ağız kenarının düşmesi)"
+- "Ön iki üçte **tat duyusu** azalması (**korda timpani**) ve seslerde aşırı duyarlılık-**hiperakuzi** (**stapedius** zayıflığı)"
+- "**Retroauriküler ağrı**; başlangıçta **lakrimasyon** değişikliği"
+- "Gözü kapatmaya çalışırken gözbebeğinin yukarı-dışa dönmesi (**Bell fenomeni**)"
+- "Diğer **kranial sinir** muayenesi ve ekstremite güçlerinin normal olması; **santral bulgu yokluğu**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **alın dahil tüm yarı yüzün tutulması** — periferik lezyonun imzası; **santral fasiyal paralizide alın korunur**"
+ilk_tetkik: "**Klinik nörolojik muayene** ve **otoskopi**; **House-Brackmann** evrelemesiyle ağırlık belirlenir, **rutin görüntüleme gerekmez**"
+kesin_tani: "**Klinik tanı**; idiyopatik kabul edilmeden önce **orta kulak**, **parotis** ve **santral** nedenler dışlanır. **Atipik gidiş** ya da **3-6 ayda** düzelme yokluğunda **kontrastlı MRG** ve elektriksel testler (**EMG**, **stapedial refleks**) istenir"
+ilk_tedavi: "Belirtilerin başlangıcından sonraki **72 saat** içinde oral **prednizon 50-60 mg/gün** **5 gün** artı **5 günlük** azaltma, toplam **10 gün**; ağır tabloda **antiviral** eklenebilir. **Göz koruması** kritik: gündüz **yapay gözyaşı**, gece **lübrikan merhem** ve **gözü bantlama**"
+klasik_komplikasyon: "**Kornea maruziyeti** ve **keratit** (göz kapanamamasına bağlı); inkomplet iyileşme, **sinkinezi**ler ve aberran rejenerasyon bulgusu olarak tuzlu yemekle gözyaşı salınımı (**timsah gözyaşları**)"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

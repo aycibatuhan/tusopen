@@ -20,38 +20,18 @@ taksonomi:
   - dahiliye
   - dah_gastroenteroloji
   - dah_gis_ishal
-tipik_hasta: 6 ay-2 yaş arası, kreş/yuva çağındaki çocuk; kış aylarında ani başlayan sulu ishal, kusma
-  ve ateşle getirilir; evde benzer şikâyetli kardeş-temas öyküsü viral etkeni, yaz mevsimi ve kanlı ishal
-  bakteriyel etkeni düşündürür; başvurudaki asıl sorun hastalığın kendisinden çok dehidratasyonun derecesi
-  ve türüdür
-patofizyoloji: Rotavirüs, norovirüs gibi viral etkenler ince bağırsak enterositlerini tutup villus epitelini
-  döker; emilim yüzeyi azalır (ozmotik bileşen) ve rotavirüsün NSP4 enterotoksini sekresyonu artırır (sekretuvar
-  bileşen). Bakteriyel etkenler ya enterotoksinle bağırsak sekresyonunu artırır (E. coli, V. cholerae)
-  ya da mukozayı invaze ederek kramp, tenesmus ve kanlı-mukuslu diyareye yol açar (Salmonella, Shigella,
-  Campylobacter)
+tipik_hasta: "**6 ay-2 yaş** arası, kreş/yuva çağındaki çocuk; kış aylarında ani başlayan sulu ishal, kusma ve ateşle getirilir; evde benzer şikâyetli kardeş-temas öyküsü viral, yaz mevsimi ve kanlı ishal bakteriyel etkeni düşündürür; başvurudaki asıl sorun hastalıktan çok **dehidratasyonun derecesi ve türü**dür"
+patofizyoloji: "Viral etkenler (rotavirüs, norovirüs) enterositleri tutup villus epitelini döker: emilim yüzeyi azalır (**ozmotik** bileşen), rotavirüsün **NSP4 enterotoksini** sekresyonu artırır (**sekretuvar** bileşen); bakteriyel etkenler ya **enterotoksin**le bağırsak sekresyonunu artırır (**E. coli**, **V. cholerae**); ya da **mukozayı invaze** ederek kramp, tenesmus ve kanlı-mukuslu diyareye yol açar (**Salmonella**, **Shigella**, **Campylobacter**)"
 anahtar_bulgular:
-- Ani başlayan sulu ishal ile birlikte kusma ve ateş üçlüsü (viral tablo)
-- 'Dehidratasyon bulguları: artan susuzluk, huzursuzluk veya uyuşukluk, çökmüş gözler, azalmış deri turgoru,
-  azalmış idrar çıkışı, uzamış kapiller dolum süresi'
-- 'Kilo kaybı dehidratasyon derecesinin en güvenilir göstergesidir (hafif: %5''ten az; orta: %5-10; ağır:
-  %10''un üzeri)'
-- Kanlı-mukuslu diyare + yüksek ateş + karın krampı → invaziv bakteriyel etken (dizanterik tablo)
-- Ağır tabloda letarji, zayıf-hızlı nabız, hipotansiyon, soğuk benekli ekstremiteler (hipovolemik şok)
-- Elektrolit bozuklukları (hiponatremi/hipernatremi, hipokalemi) nöbet ve letarji ekleyebilir
+- "Ani başlayan sulu ishal, kusma ve ateş üçlüsü (viral tablo); **kanlı-mukuslu diyare** + yüksek ateş + karın krampı = **invaziv bakteriyel** (dizanterik) tablo"
+- "Dehidratasyon bulguları: artan susuzluk, huzursuzluk veya uyuşukluk, çökmüş gözler, azalmış **deri turgoru**, azalmış idrar çıkışı, uzamış **kapiller dolum süresi**"
+- "**Kilo kaybı** dehidratasyon derecesinin en güvenilir göstergesidir: hafif **%5'in altı**, orta **%5-10**, ağır **%10'un üzeri**"
+- "Ağır tabloda letarji, zayıf-hızlı nabız, hipotansiyon, soğuk benekli ekstremiteler (**hipovolemik şok**); elektrolit bozuklukları nöbet ve letarji ekleyebilir"
 patognomonik: null
-ilk_tetkik: 'Dehidratasyon derecesinin klinik değerlendirilmesi: kilo karşılaştırması, mukoza nemi, deri
-  turgoru, göz çukuru, idrar çıkışı ve mental durum. Ağır olgularda kan şekeri, elektrolitler, kan gazı
-  ve üre-kreatinin; kanlı ishalde dışkı mikroskopisi ve kültürü istenir, rutin dışkı incelemesi gerekmez'
-kesin_tani: 'Klinik tanıdır: akut başlayan (günde en az 3) sulu dışkı ± kusma, çoğunlukla 7 gün içinde
-  düzelir. Etken saptama zorunlu değildir; endikasyon varsa (kanlı ishal, salgın, atipik seyir) dışkıda
-  rotavirüs/norovirüs antijen testi veya dışkı kültürü doğrular. Tanının asıl amacı dehidratasyon derecesini
-  sınıflamaktır'
-ilk_tedavi: 'Dereceye göre rehidratasyon: orta dehidratasyonda hipoosmolar ORS (yaklaşık 50-100 ml/kg,
-  4 saatte; kusuyorsa kaşıkla sık sık), ağır dehidratasyon veya şokta IV Ringer laktat/%0.9 NaCl 20 ml/kg
-  bolus. Anne sütü dahil beslenmeye erken devam, inatçı kusmada ondansetron; rutin antibiyotik ve antidiyareik
-  (loperamid) verilmez'
-klasik_komplikasyon: 'Dehidratasyon: ağır seyrinde hipovolemik şok, akut böbrek hasarı, metabolik asidoz
-  ve hipokalemi; tablo düzeldikten sonra geçici sekonder laktaz intoleransı görülebilir'
+ilk_tetkik: "**Dehidratasyon derecesinin klinik değerlendirilmesi**: **kilo karşılaştırması**, mukoza nemi, deri turgoru, göz çukuru, idrar çıkışı, mental durum; ağır olgularda kan şekeri, elektrolitler, kan gazı, üre-kreatinin. **Kanlı ishalde dışkı mikroskobu ve kültürü** istenir, **rutin dışkı incelemesi gerekmez**"
+kesin_tani: "**Klinik tanı**dır: akut başlayan **günde en az 3 sulu dışkı** ± kusma, çoğunlukla **7 gün içinde** düzelir; etken saptama zorunlu değildir, endikasyon varsa (**kanlı ishal**, salgın, atipik seyir) **dışkıda rotavirüs/norovirüs antijen testi** ya da **dışkı kültürü** doğrular; tanının asıl amacı **dehidratasyon derecesini sınıflamaktır**"
+ilk_tedavi: "Dereceye göre rehidratasyon: **orta dehidratasyonda hipoosmolar ORS** (yaklaşık **50-100 ml/kg**, 4 saatte, kusuyorsa kaşıkla sık sık); ağır dehidratasyon veya şokta **IV Ringer laktat/%0,9 NaCl 20 ml/kg bolus**; **anne sütü dahil beslenmeye erken devam**, inatçı kusmada **ondansetron**; rutin **antibiyotik ve antidiyareik (loperamid) verilmez**"
+klasik_komplikasyon: "Ağır seyrinde **hipovolemik şok**, **akut böbrek hasarı**, **metabolik asidoz** ve hipokalemi; tablo düzeldikten sonra **geçici sekonder laktaz intoleransı** görülebilir"
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-52
 - tus-2016-sonbahar-ktbt-52

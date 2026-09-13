@@ -7,18 +7,18 @@ sources:
 ad: Febril Nötropeni
 taksonomi:
   - [ktbt, dahiliye, dah_onkoloji, dah_onk_febril_notropeni]
-tipik_hasta: "Kemoterapi alan kanser hastası; kürün ardından 7-12. günde (kemik iliği depresyonunun dibe vurduğu dönem) ateşle acile gelir. Nötrofil azlığı nedeniyle iltihap bulguları siliktir: kızarıklık, irin, lokalize ağrı görmeyebilir; oysa saldırı içinde olan bir enfeksiyon vardır"
-patofizyoloji: "Sitotoksik kemoterapi kemik iliğini baskılar ve mutlak nötrofil sayısını 500 hücre/mikrolitre altına indirir; aynı zamanda bağırsak mukozasının bütünlüğü bozulur, endojen bağırsak florası kan dolaşımına geçer. Ortak sonuç: enfeksiyonun en sık kaynakları gram negatif çubuklar (bağırsak kaynağı) ve gram pozitif koklar (merkezi kateter kaynağı) olur; ateşin hastanın tek belirtisi olması sınırlı nötrofil tepkisinden ileri gelir"
+tipik_hasta: "Kemoterapi alan kanser hastası; kürün ardından **7-12. gün**de (kemik iliği depresyonunun dibe vurduğu dönem) ateşle acile gelir. Nötrofil azlığı nedeniyle iltihap bulguları siliktir: kızarıklık, irin, lokalize ağrı görmeyebilir; oysa saldırı içinde olan bir enfeksiyon vardır"
+patofizyoloji: "Sitotoksik kemoterapi kemik iliğini baskılar, nötrofil sayısını **500 hücre/mikrolitre** altına indirir; bağırsak mukozasının bütünlüğü bozulur, endojen flora kan dolaşımına geçer. En sık etkenler: **gram negatif çubuklar** (bağırsak kaynağı), **gram pozitif koklar** (kateter kaynağı). Ateşin hastanın tek belirtisi olması sınırlı nötrofil tepkisindendir"
 anahtar_bulgular:
-  - "Tek ölçümde 38,3 santigrat derece ve üzeri ya da 38,0 santigrat dereceyi bir saatten uzun aşan ateş"
-  - "Mutlak nötrofil sayımı 500 hücre/mikrolitre altında (veya kısa süre içinde bu düzeye düşmesi beklenen hasta)"
-  - "Enfeksiyon odağı bulgularının hafif ve silik olması (nötropenik inflamasyon)"
-  - "Oral mukozit, perianal ağrı veya kateter giriş yeri bulguları olası kaynaklardır"
-  - "Kan kültüründe üreyen etken genellikle gram negatif çubuk veya koagulaz negatif stafilokoktur"
+  - "Tek ölçümde **38,3 santigrat derece** ve üzeri ya da **38,0 santigrat dereceyi** bir saatten uzun aşan ateş"
+  - "**Mutlak nötrofil sayımı 500 hücre/mikrolitre** altında (veya kısa süre içinde bu düzeye düşmesi beklenen hasta)"
+  - "Enfeksiyon odağı bulgularının hafif ve **silik** olması (nötropenik inflamasyon)"
+  - "**Oral mukozit**, **perianal ağrı** veya **kateter giriş yeri** bulguları olası kaynaklardır"
+  - "Kan kültüründe üreyen etken genellikle **gram negatif çubuk** veya **koagulaz negatif stafilokok**"
 patognomonik: null
-ilk_tetkik: "Antibiyotik başlamadan önce çift kan kültürü (kateterli hastada kateter ve periferik), idrar kültürü; tam kan sayımı, biyokimya; ağız, perianal bölge ve kateter giriş yerinin fizik muayenesi; gerekiyorsa akciğer grafisi"
-kesin_tani: "Nötropeni eşiği (mutlak nötrofil sayımı 500 hücre/mikrolitre altı) ile ateş kriterinin birleşimidir; kültür pozitifliği varsa etiyolojik tanı eklenir. Risk sınıflandırması (MASCC puanı) ayakta tedavi seçimini belirler"
-ilk_tedavi: "Ateş fark edilir edilmez (kültürler alındıktan sonraki bir saat içinde) gecikmeden geniş spektrumlu antibiyotik başlanır: piperasilin-tazobaktam (alternatif: sefepim veya karbapenem). Klinik olarak kararsız hasta, kateter kaynaklı, cilt veya akciğer odaklı şüphede vankomisin eklenir; tedavi nötrofil düzelinceye ve ateş çözülünceye dek sürdürülür"
-klasik_komplikasyon: "Sepsis ve septik şok: gram negatif enfeksiyonun hızlı yayılımı, antibiyotikteki her saatlik gecikmenin ölümcül bedeli"
+ilk_tetkik: "Antibiyotik başlamadan önce **çift kan kültürü** (kateterli hastada kateter ve periferik), **idrar kültürü**; tam kan sayımı, biyokimya; ağız, perianal bölge ve kateter giriş yerinin fizik muayenesi; gerekiyorsa akciğer grafisi"
+kesin_tani: "**Nötropeni eşiği** (mutlak nötrofil sayımı **500 hücre/mikrolitre** altı) ile **ateş kriterinin** birleşimidir; kültür pozitifliği varsa etiyolojik tanı eklenir. Risk sınıflaması (**MASCC** puanı) ayakta tedavi seçimini belirler"
+ilk_tedavi: "Ateş fark edilir edilmez (kültürlerden sonraki **bir saat** içinde) gecikmeden geniş spektrumlu antibiyotik: **piperasilin-tazobaktam** (alternatif **sefepim** veya **karbapenem**). Kararsız hasta, kateter kaynaklı, cilt veya akciğer odaklı şüphede **vankomisin** eklenir; tedavi nötrofil düzelinceye ve ateş çözülünceye dek sürer"
+klasik_komplikasyon: "**Sepsis ve septik şok**: gram negatif enfeksiyonun hızlı yayılımı; antibiyotikteki **her saatlik gecikmenin** ölümcül bedeli"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

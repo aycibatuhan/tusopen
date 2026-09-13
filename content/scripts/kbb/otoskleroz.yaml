@@ -7,19 +7,19 @@ sources:
 ad: Otoskleroz
 taksonomi:
   - [ktbt, kbb, kbb_orta_kulak, kbb_ok_otoskleroz]
-tipik_hasta: "Yirmili-otuzlu yaşlarda başvuran, çoğunlukla kadın hastada iki taraflı ve yavaş ilerleyen iletim tipi işitme kaybı; ailede benzer işitme kaybı öyküsü tipiktir ve sorgulanmadıkça gözden kaçar; gebelik veya hormonal değişimlerle kaybın hızlanması hikâyeyi destekler; akıntı ve ağrı yoktur, kulak zarı normal görünür"
-patofizyoloji: "Oval pencere çevresindeki endokondral kemiğin anormal yeniden yapılanması (spongiyoz odaklar); odak stapes tabanını kapsülüne sabitledikçe ses enerjisi iç kulağa iletilmez ve iletim tipi kayıp tabloyu belirler; süreç kokleaya yayılırsa (koklear otoskleroz) kemik yolda ek karışık veya sensorinöral bileşen belirir"
+tipik_hasta: "**Yirmili-otuzlu yaş**larda başvuran, çoğunlukla **kadın** hastada **iki taraflı** ve **yavaş ilerleyen iletim tipi işitme kaybı**. Ailede **benzer işitme kaybı** öyküsü tipiktir ve sorgulanmadıkça gözden kaçar; **gebelik** veya hormonal değişimlerle kaybın **hızlanması** hikâyeyi destekler. **Akıntı ve ağrı yoktur**, kulak zarı **normal** görünür"
+patofizyoloji: "**Oval pencere** çevresindeki endokondral kemiğin anormal yeniden yapılanması (**spongiyoz odaklar**); odak **stapes tabanı**nı kapsülüne sabitledikçe ses enerjisi iç kulağa iletilmez ve **iletim tipi kayıp** tabloyu belirler. Süreç kokleaya yayılırsa (**koklear otoskleroz**) kemik yolda ek **karışık veya sensorinöral** bileşen belirir"
 anahtar_bulgular:
-  - "Akıntı ve ağrı olmadan, bütün kulak zarı arkasında ilerleyen iletim tipi işitme kaybı; timpanogram As tipi"
-  - "Ailede kalıtsal işitme kaybı (otozomal dominant, değişken penetrans); sorulmadıkça tanı atlanır"
-  - "Carhart çentiği: kemik iletim eşiğinde iki bin hertz çevresinde belirgin çökme; tabanın osilasyon katkısının kaybından doğan sanal düşüştür, gerçek iç kulak kaybı değildir ve taban cerrahiyle serbestleştirilince eşik toparlanır"
-  - "Stapedial refleks kaybı ve Gelle testinin negatifliği: taban hareketliliğinin fizyolojik kanıtının yokluğu"
-  - "paracusis Willisii: hasta gürültülü ortamda konuşmayı daha iyi anlar"
-  - "Aktif spongiyoz evrede kulak zarında Schwartze belirtisi (promontoryum üzerinde kızıl-pembe renk odak)"
-patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Carhart çentiği: iki bin hertzde kemik eşik çökmesi, taban serbestleştirilince düzelir"
-ilk_tetkik: "Saf ton ve konuşma audiometrisi ile timpanometri ve stapedial refleks testi; tanı işitme testi desenine dayanır, rutin görüntüleme gerekmez"
-kesin_tani: "Klinik ve audiometrik tablonun birleşimi (ilerleyici iletim kaybı, As tipi timpanogram, refleks kaybı, Carhart çentiği); yüksek çözünürlüklü temporal BT deminerilizasyon odaklarını gösterebilir ama tanı için şart değildir"
-ilk_tedavi: "İşitme cihazı veya stapedektomi/stapedotomi (taban çıkarılıp piston protez yerleştirilmesi); aktif evrede (Schwartze belirtisi) cerrahi ertelenip işitme cihazıyla başlanır"
-klasik_komplikasyon: "Koklear tutulumla kalıcı sensorinöral kayıp; stapedektomide geri dönmeyen iç kulak hasarı, vertigo ve yüz siniri felci riski"
+- "**Akıntı ve ağrı olmadan**, bütün kulak zarı arkasında ilerleyen **iletim tipi işitme kaybı**; timpanogram **As tipi**"
+- "Ailede **kalıtsal işitme kaybı** (**otozomal dominant, değişken penetrans**); sorulmadıkça tanı **atlanır**"
+- "**Carhart çentiği**: kemik iletim eşiğinde **iki bin hertz** çevresinde belirgin çökme; tabanın osilasyon katkısının kaybından doğan **sanal düşüş**tür, gerçek iç kulak kaybı değildir; taban **cerrahiyle serbestleştirilince** eşik **toparlanır**"
+- "**Stapedial refleks kaybı** ve **Gelle testinin negatifliği**: taban hareketliliğinin fizyolojik kanıtının yokluğu"
+- "**Paracusis Willisii**: hasta **gürültülü ortamda** konuşmayı daha iyi anlar"
+- "Aktif spongiyoz evrede kulak zarında **Schwartze belirtisi** (promontoryum üzerinde **kızıl-pembe** renk odak)"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **Carhart çentiği**: **iki bin hertz**de kemik eşik çökmesi, **taban serbestleştirilince düzelir**"
+ilk_tetkik: "**Saf ton ve konuşma audiometrisi** ile **timpanometri** ve **stapedial refleks** testi; tanı **işitme testi desenine** dayanır, **rutin görüntüleme gerekmez**"
+kesin_tani: "**Klinik ve audiometrik tablonun** birleşimi (**ilerleyici iletim kaybı**, **As tipi timpanogram**, **refleks kaybı**, **Carhart çentiği**); **yüksek çözünürlüklü temporal BT** **deminerilizasyon** odaklarını gösterebilir ama tanı için **şart değildir**"
+ilk_tedavi: "**İşitme cihazı** veya **stapedektomi/stapedotomi** (taban çıkarılıp **piston protez** yerleştirilmesi); aktif evrede (**Schwartze belirtisi**) cerrahi **ertelenip** **işitme cihazıyla** başlanır"
+klasik_komplikasyon: "**Koklear tutulum**la kalıcı **sensorinöral kayıp**; **stapedektomi**de geri dönmeyen **iç kulak hasarı**, **vertigo** ve **yüz siniri felci** riski"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

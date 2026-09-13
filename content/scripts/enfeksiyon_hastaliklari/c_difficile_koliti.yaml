@@ -11,44 +11,19 @@ taksonomi:
   - enfeksiyon_hastaliklari
   - enf_gis
   - enf_gis_c_difficile
-tipik_hasta: Antibiyotik kullanımından (en sık klindamisin, florokinolon, geniş spektrumlu beta-laktamlar)
-  günler ya da haftalar sonra sulu, kötü kokulu diyareyle başvuran; yaşlı, hastaneye yatmış ve mide asit
-  baskılayıcı (proton pompa inhibitörü) kullanan hasta. Antibiyotik almasa bile son 8 haftada sağlık kuruluşuna
-  girmiş her diyareli hastada akılda tutulur
-patofizyoloji: 'Etken, spor oluşturan anaerobik gram pozitif basildır; antibiyotikler kolonik normal florayı
-  bozunca alınan sporlar kolonda çimlenir ve vejetatif forma geçer. Üreyen bakteri iki toksin salar: toksin
-  A (enterotoksin) mukoza sıvı sekresyonunu ve inflamasyonu, toksin B (sitotoksin) aktin iskeletinin parçalanmasını
-  hızlandıran glukozilasyon ile hücre ölümünü yönetir; sonuç, lamina propriada nötrofil inflamasyonu,
-  mikroabseler ve yüzeyi kaplayan sarı-beyaz pseudomembranlardır. Sporu dışarıda yıllarca dayanıklıdır;
-  alkol bazlı el antiseptikleri sporu öldürmez, bu yüzden bu enfeksiyonda el yıkama sıvı sabunla yapılır
-  ve hasta izolasyonu zorunludur'
+tipik_hasta: "**Antibiyotik** kullanımından günler ya da haftalar sonra sulu, **kötü kokulu** diyareyle başvuran hasta; en sık **klindamisin**, **florokinolon** ve geniş spektrumlu **beta-laktam**lar sonrası. Yaşlı, **hastaneye yatmış** ve **proton pompa inhibitörü** kullanan; son **8 haftada** sağlık kuruluşu temasi olan her diyareli hastada akılda tutulur"
+patofizyoloji: "Etken spor oluşturan **anaerobik gram pozitif** basildır; antibiyotikler kolon **florasını** bozunca alınan sporlar çimlenir. **Toksin A** (enterotoksin) sıvı sekresyonu ve inflamasyonu, **toksin B** (sitotoksin) aktin iskeletinin glukozilasyonla parçalanmasını yönetir; sonuç lamina propriada nötrofil inflamasyonu ve sarı-beyaz **pseudomembran**lar. Spor dışarıda yıllarca dayanıklıdır; **alkol bazlı el antiseptiği** sporu öldürmez — el yıkama **sıvı sabunla** yapılır, izolasyon zorunlu"
 anahtar_bulgular:
-- Antibiyotik sonrası gelişen sulu, kötü kokulu, kanı az ya da hiç olmayan diyare; kramp tarzı karın ağrısı
-  eşlik eder
-- Lökositoz (sıkça belirgin, 15 binin üzerinde) ve ateş; CRP artışı
-- Dehidratasyon bulguları ve şiddetli tabloda karın distansiyonu, hipotenzyon, akut böbrek yetmezliği
-- Kolonda toksik megakolon şüphesinde dirençli distansiyon ve karın duvarında yerel peritonit; radyolojik
-  olarak kalın duvar ve akordeon bulgu
-- Dışkıda toksin A ve B saptanması; endoskopide pseudomembran kolit görünümü
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Kolonoskopik görünüm: mukozayı saçan çok sayıda sarımsı-beyaz, kolay düşen pseudomembran
-  plakları (pseudomembran kolit)'
-ilk_tetkik: Dışkı örneğinde toksin A ve B saptama testi (toksin bazlı immünoassay ve/veya moleküler test;
-  çoğu merkezde glutamat dehidrojenaz tarama ardından toksin testi algoritması) ve tam kan sayımı; ağır
-  ya da komplike şüphede direkt abdominal grafide megakolon araştırması ve kontrastlı abdominal bilgisayarlı
-  tomografi (duvar kalınlaşması, akordeon bulgu)
-kesin_tani: Diyareli (ya da ileuslu) hastada dışkıda toksin A ve B'nin saptanması; endoskopide pseudomembranların
-  görünmesi de tanıyı koyar. Asimptomatik taşıyıcılarda pozitif test tedavi gerektirmez, altın nokta semptomlarla
-  ilişkilendirme
-ilk_tedavi: İlk atakta (şiddetli olmayan) ağızdan vankomisin ya da fidaksomisin; metronidazol yalnızca
-  diğer seçeneklerin erişilemediği durumda düşünülür. Şiddetli tabloda (lökositoz yüksek, albümin düşük)
-  ağızdan vankomisin 125 mg dört kez günlük (fulminan tabloda 500 mg) ya da fidaksomisin; ileus ve fulminan tabloda ağızdan vankomisinle birlikte
-  damardan metronidazol eklenir (ağızdan yol çalışmıyorsa nazogastrik tüp ya da rektal uygulama), cerrahi
-  görüşü (subtotal kolektomi) erken alınır ve hastaya damar yolu sıvısı ile elektrolit düzeltmesi yapılır.
-  Nükselerde fidaksomisin, tekrarlayan nüksede monoklonal antikor (bezlotoxumab) ya da fekal mikrobiyota
-  transplantasyonu gündeme gelir. Tedavi öncesi gereksiz antibiyotik ve mide asit baskılayıcı gözden çıkarılır,
-  kontakt önlemler ve el yıkama sürdürülür
-klasik_komplikasyon: Toksik megakolon ve fulminan kolit (perforasyon, peritonit); sık dışkılama ve sepsis
-  kaynaklı akut böbrek yetmezliği ve şok; tekrarlayan nükseler (tedavi sonrası haftalar içinde)
+- "**Antibiyotik sonrası** sulu, kötü kokulu, kanı az ya da hiç olmayan diyare; kramp tarzı karın ağrısı"
+- "**Lökositoz** (sıkça belirgin, **15 bin**in üzerinde) ve ateş; **CRP** artışı"
+- "Dehidratasyon; şiddetli tabloda **karın distansiyonu**, **hipotenzyon**, **akut böbrek yetmezliği**"
+- "**Toksik megakolon** şüphesi: dirençli distansiyon, karın duvarında yerel peritonit; grafide kalın duvar ve **akordeon bulgu**"
+- "Dışkıda **toksin A ve B** saptanması; endoskopide **pseudomembran kolit** görünümü"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — kolonoskopide mukozayı saçan sarımsı-beyaz, kolay düşen **pseudomembran plakları**"
+ilk_tetkik: "Dışkıda **toksin A ve B** saptama testi; çoğu merkezde **glutamat dehidrojenaz** tarama ardından toksin algoritması. Tam kan sayımı; ağır ya da komplike şüphesinde **kontrastlı abdominal bilgisayarlı tomografi** (duvar kalınlaşması, akordeon)"
+kesin_tani: "Diyareli ya da ileuslu hastada dışkıda **toksin A ve B** saptanması; endoskopide **pseudomembranların** görünmesi de tanıyı koyar. **Asimptomatik** taşıyıcılarda pozitif test tedavi gerektirmez; altın nokta semptomla ilişkilendirme"
+ilk_tedavi: "Şiddetli olmayan ilk atakta ağızdan **vankomisin** ya da **fidaksomisin**; **metronidazol** yalnızca diğerleri erişilemediğinde. Şiddetli tabloda ağızdan **vankomisin 125 mg** dört kez günlük, fulminanda **500 mg**; **ileus** ve fulminan tabloda damardan **metronidazol** eklenir. Fulminan tabloda **subtotal kolektomi** kararı erken alınır; gereksiz **antibiyotik** ve **asit baskılayıcı** gözden çıkarılır. Nükselerde **fidaksomisin**; tekrarlayan nüksede **bezlotoxumab** ya da **fekal mikrobiyota transplantasyonu**"
+klasik_komplikasyon: "**Toksik megakolon** ve fulminan kolit (perforasyon, peritonit); sepsis kaynaklı **akut böbrek yetmezliği** ve şok; tedavi sonrası haftalar içinde **tekrarlayan nükseler**"
 tus_gecmisi:
 - tus-2013-sonbahar-ttbt-75
 - tus-2017-ilkbahar-ttbt-59

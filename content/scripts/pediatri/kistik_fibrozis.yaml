@@ -16,35 +16,20 @@ taksonomi:
   - gogus_hastaliklari
   - gog_obstruktif
   - gog_ob_kistik_fibrozis
-tipik_hasta: 'Bebeklikten başlayıp çocuklukta süren tablo: tekrarlayan akciğer enfeksiyonları ve geçmeyen
-  öksürüğe yetersiz kilo alımı ile yağlı, kokulu, bol dışkı (steatore) eşlik eder. Yenidoğanda mekonium
-  ileusu veya uzun süren sarılık ilk ipucu olabilir; kardeşte benzer tablo, erkek hastada infertilite
-  anımsatmalıdır. Kuzey Avrupalı kökenli toplumlarda en sık görülen otozomal resesif hastalıktır'
-patofizyoloji: 'CFTR genindeki mutasyon (en sık delta-F508) klor kanalını bozar; hastalık otozomal resesif
-  geçer. Ter bezi kanalında klor ve sodyum geri emilemez — ter tuzludur ve bu özellik tanısal testin temelini
-  oluşturur. Havayolu yüzey sıvısı dehidrate olur, silyar klirens bozulur; önce Staphylococcus aureus,
-  sonra Pseudomonas aeruginosa kronik kolonizasyon gelişir. Pankreas kanalları mukus tıkaçlarıyla tıkanınca
-  ekzokrin yetmezlik ortaya çıkar: steatore, malnutrisyon ve yağda eriyen vitamin eksikliği'
+tipik_hasta: "Bebeklikten başlayıp çocuklukta süren **tekrarlayan akciğer enfeksiyonları** ve geçmeyen öksürüğe **yetersiz kilo alımı**, yağlı-kokulu bol dışkı (**steatore**) eşlik eder. Yenidoğanda **mekonyum ileusu** veya uzun süren sarılık ilk ipucu; kardeşte benzer tablo, erkek hastada **infertilite** anımsatmalı. Kuzey Avrupalı kökenli toplumlarda en sık **otozomal resesif** hastalık"
+patofizyoloji: "**CFTR** genindeki mutasyon (en sık **delta-F508**) **klor kanalını** bozar; **otozomal resesif** geçer. Ter bezi kanalında klor-sodyum geri emilemez — **ter tuzludur**, tanısal testin temeli. Havayolu yüzey sıvısı dehidrate olur, **silyar klirens** bozulur; önce **Staphylococcus aureus**, sonra **Pseudomonas aeruginosa** kronik kolonizasyon. Pankreas kanalları **mukus tıkaçlarıyla** tıkanınca **ekzokrin yetmezlik**: steatore, malnutrisyon ve **yağda eriyen vitamin** eksikliği"
 anahtar_bulgular:
-- Tekrarlayan pnömoni atakları ve geçmeyen produktif öksürük; Pseudomonas kolonizasyonu
-- Yetersiz kilo alımı, boy kısalığına rağmen iştahın iyi olması; steatore (pankreas yetersizliği)
-- Mekonyum ileusu veya uzun süren yenidoğan sarılığı öyküsü
-- Ter testinde 60 mmol/L ve üzerinde klorür
-- Parmak uçlarında saat camı/digital hipokratik parmak, kronik hava akımı obstrüksiyonu
-- Erkek hastada obstrüktif azoospermiye bağlı infertilite
+- "Tekrarlayan pnömoni atakları ve geçmeyen **produktif öksürük**; **Pseudomonas** kolonizasyonu"
+- "Yetersiz kilo alımı, boy kısalığına rağmen iştahın iyi olması; **steatore** (pankreas yetersizliği)"
+- "**Mekonyum ileusu** veya uzun süren **yenidoğan sarılığı** öyküsü"
+- "**Ter testinde 60 mmol/L ve üzerinde klorür**"
+- "Parmak uçlarında **saat camı / digital hipokratik parmak**, kronik hava akımı obstrüksiyonu"
+- "Erkek hastada **obstrüktif azoospermi**ye bağlı infertilite"
 patognomonik: null
-ilk_tetkik: Ter klorür testi (pilokarpin iyonoforezi); yenidoğan taramasında immünoreaktif tripsinojen
-  (IRT) yüksekliği ilk işarettir ve ter testini yönlendirir
-kesin_tani: İki ayrı örnekte ter klorürünün 60 mmol/L üzerinde çıkması, klinik bulgular ve/veya aile öyküsüyle
-  birleşince tanıdır; alternatif olarak iki bilinen CFTR mutasyonunun genetik testle gösterilmesi yeterlidir.
-  Ekzokrin pankreas yetmezliği dışkıdaki elastaz düşüklüğüyle belgelenir
-ilk_tedavi: 'Multidisipliner bakım: havayolu klirensi (göğüs fizyoterapisi, mukolitik dornaz alfa, hipertonik
-  tuzlu sulu solüsyon inhalasyonu), hedefli ve gerektiğinde uzun süreli antibiyotikler (Pseudomonas''a
-  inhaler tobramisin gibi), pankreas enzim replasmanı, yüksek kalorili diyet ve yağda eriyen vitamin (A-D-E-K)
-  desteği. CFTR mutasyonuna uygun hastalarda modülatör tedaviler (ivacaftor, tezacaftor/ivacaftor, elexacaftor/tezacaftor/ivacaftor)
-  hastalığın gidişini değiştirir'
-klasik_komplikasyon: Bronşiektazi, hemoptizi ve pnömotoraks; malnutrisyon; CF ile ilişkili diyabet; fokal
-  biliyer siroz; distal intestinal obstrüksiyon sendromu; erkeklerde infertilite
+ilk_tetkik: "**Ter klorür testi** (pilokarpin iyonoforezi); **Yenidoğan taramasında immünoreaktif tripsinojen (IRT)** yüksekliği ilk işarettir, ter testini yönlendirir"
+kesin_tani: "**İki ayrı örnekte ter klorürünün 60 mmol/L üzerinde** çıkması, klinik bulgular ve/veya aile öyküsüyle birleşince tanıdır. Alternatif: **iki bilinen CFTR mutasyonunun** genetik testle gösterilmesi; **Ekzokrin pankreas yetmezliği** dışkıdaki **elastaz** düşüklüğüyle belgelenir"
+ilk_tedavi: "Havayolu klirensi: **göğüs fizyoterapisi**, mukolitik **dornaz alfa**, **hipertonik tuzlu sulu solüsyon** inhalasyonu; **Hedefli antibiyotikler** (Pseudomonas'a **inhaler tobramisin** gibi); **pankreas enzim replasmanı**, yüksek kalorili diyet ve **yağda eriyen vitamin (A-D-E-K)** desteği; **CFTR mutasyonuna uygun** hastalarda **modülatörler** (**ivacaftor**, **tezacaftor/ivacaftor**, **elexacaftor/tezacaftor/ivacaftor**) gidişi değiştirir"
+klasik_komplikasyon: "**Bronşiektazi**, **hemoptizi** ve **pnömotoraks**; malnutrisyon; **CF ile ilişkili diyabet**; **Fokal biliyer siroz**; **distal intestinal obstrüksiyon sendromu**; erkeklerde **infertilite**"
 tus_gecmisi:
 - tus-2014-sonbahar-ttbt-54
 - tus-2016-ilkbahar-ktbt-64

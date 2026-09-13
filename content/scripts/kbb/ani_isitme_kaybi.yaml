@@ -7,18 +7,18 @@ sources:
 ad: Ani Sensörinöral İşitme Kaybı
 taksonomi:
   - [ktbt, kbb, kbb_ic_kulak, kbb_ik_ani_isitme_kaybi]
-tipik_hasta: "Uyandığında ya da gün içinde tek kulağının duymadığını ani biçimde fark eden yetişkin; çoğunlukla 40-60 yaş arasında, eşlik eden çınlama ve kulakta dolgunluk şikâyetiyle başvurur"
-patofizyoloji: "Kohleanın mikrovasküler iskemisi, viral enfeksiyon ya da otoimmün mekanizmalarla iç kulakta gelişen inflamasyon ve reseptör hasarı; olguların büyük bölümünde altta yatan neden saptanamaz (idiyopatik kabul edilir)"
+tipik_hasta: "Uyandığında ya da gün içinde **tek kulağının duymadığını ani biçimde** fark eden yetişkin. Çoğunlukla **40-60 yaş** arasında; eşlik eden **çınlama** ve **kulakta dolgunluk** şikâyetiyle başvurur"
+patofizyoloji: "**Kohleanın mikrovasküler iskemisi**, **viral enfeksiyon** ya da **otoimmün** mekanizmalarla iç kulakta **inflamasyon** ve reseptör hasarı. Olguların büyük bölümünde altta yatan neden saptanamaz (**idiyopatik** kabul edilir)"
 anahtar_bulgular:
-  - "72 saat içinde geliştiği anlaşılan, arka arkaya en az üç frekansta 30 dB ve üzerindeki kayıp — tanımın çekirdeği"
-  - "Tek taraflılık; Weber sağlam kulağa yönelir, Rinne pozitiftir (hava iletimi kemik iletiminden iyi)"
-  - "Eşlik eden tinnitus ve kulakta dolgunluk hissi"
-  - "Olguların yaklaşık üçte birinde vertigo; vertigosuz tabloya göre prognoz daha kötüdür"
-  - "Otoskopide dış ve orta kulak bulgusu yok; iletim tipi kayıp öneren patoloji saptanmaz"
+- "**72 saat** içinde geliştiği anlaşılan, **arka arkaya en az üç frekansta 30 dB** ve üzerindeki kayıp — tanımın çekirdeği"
+- "**Tek taraflılık**; **Weber sağlam kulağa** yönelir, **Rinne pozitif**tir (hava iletimi kemik iletiminden iyi)"
+- "Eşlik eden **tinnitus** ve **kulakta dolgunluk** hissi"
+- "Olguların yaklaşık **üçte birinde vertigo**; vertigosuz tabloya göre **prognoz daha kötüdür**"
+- "Otoskopide dış ve orta kulak bulgusu yok; **iletim tipi kayıp** öneren patoloji saptanmaz"
 patognomonik: null
-ilk_tetkik: "Otoskopi ve Weber-Rinne ile iletim tipi kaybın dışlanması; ardından acil saf ton odyometrisi"
-kesin_tani: "Odyometride, 72 saat içinde geliştiği belirlenen ve en az üç ardışık frekansı kapsayan 30 dB ve üzeri sensörinöral kayıp; tek taraflı-asimetrik kayıpta retrokoklear patolojiyi (vestibüler schwannoma) dışlamak için kontrastlı MRG"
-ilk_tedavi: "Tanıdan sonraki iki haftalık pencere içinde, ideal olarak ilk günlerde kortikosteroid (oral prednizon ya da intratimpanik uygulama); hiperbarik oksijen ek tedavi olarak düşünülebilir. Kayıp hızla kalıcılaşabildiği için tedavinin geciktirilmemesi esastır"
-klasik_komplikasyon: "Tedavisiz kalıcı işitme kaybı; vertigo varlığı, şiddetli kayıp ve geç başvuru prognozu bozan etkenlerdir"
+ilk_tetkik: "**Otoskopi** ve **Weber-Rinne** ile iletim tipi kaybın dışlanması; ardından acil **saf ton odyometrisi**"
+kesin_tani: "Odyometride **72 saat** içinde geliştiği belirlenen ve **en az üç ardışık frekans**ı kapsayan **30 dB** ve üzeri **sensörinöral** kayıp. **Tek taraflı-asimetrik** kayıpta **retrokoklear patoloji**yi (**vestibüler schwannoma**) dışlamak için **kontrastlı MRG**"
+ilk_tedavi: "Tanıdan sonraki **iki haftalık** pencere içinde, ideal olarak ilk günlerde **kortikosteroid** (oral **prednizon** ya da **intratimpanik** uygulama); **hiperbarik oksijen** ek tedavi olarak düşünülebilir. Kayıp hızla **kalıcılaşabildiği** için tedavinin **geciktirilmemesi** esastır"
+klasik_komplikasyon: "Tedavisiz **kalıcı işitme kaybı**; **vertigo** varlığı, **şiddetli kayıp** ve **geç başvuru** prognozu bozan etkenlerdir"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

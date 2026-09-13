@@ -12,36 +12,37 @@ taksonomi:
   - ortopedi
   - orto_eklem_dejeneratif
   - orto_ek_avaskuler_nekroz
-tipik_hasta: Uzun süreli yüksek doz kortikosteroid kullanan (transplantasyon, otoimmün hastalık, lenfoma
-  tedavisi) veya alkol bağımlılığı olan orta yaş hasta; ayrıca orak hücre anemisi, dekompresyon hastalığı
-  (dalış), Gaucher hastalığı, kemoterapi-radyoterapi öyküsü tanıdıktır. Kasıkta derin yerleşimli, giderek
-  artan ağrı ve topallıkla başvurur; iki kalça birlikte de tutulabilir
-patofizyoloji: 'Femur başını besleyen damarların (medial femoral dolaşım sistemi) kan akışı kesilince
-  osteosit ve osteoblastlar ölür; kemik iliğinde ölü alan bırakır. Risk faktörleri mekanizmayı farklı
-  biçimde kurar: steroid ve alkol karaciğerde ya metabolizmasını bozarak kemik iliğinde ya hücre artışı
-  ve iç basınç yükselmesiyle dolaşımı kısar; orak hücrede damar tıkanıklığı, dalışta gaz embolisi söz
-  konusudur. Onarım sırasında nekrotik alanın altında subkondral kırıklar oluşur, kıkırdak altı kemik
-  çöker ve ikincil osteoartrit gelişir. Femur başının kollateral dolaşımı zayıf olduğu için en sık yer
-  kalçadır'
+tipik_hasta: "Uzun süreli yüksek doz **kortikosteroid** kullanan (transplantasyon, otoimmün hastalık,
+  lenfoma) veya **alkol** bağımlılığı olan orta yaş hasta; kasıkta derin ağrı ve topallıkla başvurur.
+  Ayrıca **orak hücre anemisi**, **dekompresyon hastalığı (dalış)**, **Gaucher hastalığı** ve
+  kemoterapi-radyoterapi öyküsü tanıdıktır; iki kalça birlikte de tutulabilir"
+patofizyoloji: "Femur başını besleyen **medial femoral dolaşım**ın kan akışı kesilince osteosit ve
+  osteoblastlar ölür, kemik iliğinde ölü alan bırakır. **Steroid** ve **alkol** karaciğer ya
+  metabolizmasını bozup kemik iliğinde iç basınç yükseltir; **orak hücre**de damar tıkanıklığı,
+  dalışta gaz embolisi kurar. Onarım sırasında nekroz altında **subkondral kırıklar** oluşur,
+  kıkırdak altı kemik çöker ve ikincil osteoartrit gelişir; kollateral dolaşım zayıf olduğundan
+  en sık yer femur başıdır"
 anahtar_bulgular:
-- Kasıkta, kalça önünde derin yerleşimli ağrı; yüklemeyle artar, ilerleyici topallık yapar
-- İç rotasyon ve abduksiyonda ağrılı kısıtlılık (erken dönemde tek muayene bulgusu)
-- Steroid, alkol, orak hücre, dalış gibi risk faktörü öyküsü
-- MRG'de femur başında sinyal değişikliği ve T2 görüntüde çift çizgi (double line) bulgusu; grafisi henüz
-  normal olan hastada bile lezyonu gösterir
-- İlerlemiş grafide subkondral radyolüser ince çizgi (crescent), skleroz-kistik alanlar ve femur başı
-  düzleşmesi-çökmesi
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Görüntülemede crescent bulgusu (subkondral kemik altında ince kopukluk çizgisi) ve MRG'de
-  çift çizgili nekrotik alan
-ilk_tetkik: Kalça grafileri ve MRG; risk faktörü taşıyan hastada hem diagnostik hem erken evreleme için
-  MRG ilk seçimdir (grafiler erken dönemde normal kalabilir); bilateral riskte iki kalça birlikte değerlendirilir
-kesin_tani: 'MRG: erken evrede kesin tanıyı koyar, nekrozun boyutunu ve çökme riskini belirler; ileri
-  evrede ayakta kalça grafileri yeterlidir (evreleme klasiklerinde Ficat-Arlet kullanılır)'
-ilk_tedavi: 'Çökme öncesi erken evrede (küçük lezyonlar dahil): yük azaltma ve koruyucu cerrahi
-  olarak çekirdek dekompresyonu (bisfosfonatlar için kanıt yetersizdir, standart tedavi değildir), gerekirse non-vaskülerize/vaskülerize kemik grefti; kıkırdak yüzeyi çökmüş
-  genç-orta yaş hastada total kalça protezi'
-klasik_komplikasyon: Femur başı çökmesi ve ikincil osteoartrit; steroid kullanıcılarında iki taraflı tutulum,
-  genç hastada ömür boyu protez yıpranma sorunu
+- "Kasıkta-kalça önünde derin yerleşimli, yüklemeyle artan ağrı; **ilerleyici topallık** yapar"
+- "**İç rotasyon** ve **abduksiyonda** ağrılı kısıtlılık; erken dönemde tek muayene bulgusu"
+- "Risk faktörü öyküsü: **kortikosteroid**, **alkol**, **orak hücre**, **dalış**"
+- "MRG'de sinyal değişikliği ve **T2'de çift çizgi (double line)** bulgusu; grafisi normal hastada
+  bile lezyonu gösterir"
+- "İlerlemiş grafide **subkondral radyolüser ince çizgi (crescent)**, skleroz-kistik alanlar ve femur
+  başı düzleşmesi-çökmesi"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — görüntülemede **crescent** (subkondral
+  kemik altında ince kopukluk çizgisi) ve MRG'de **çift çizgili** nekrotik alan"
+ilk_tetkik: "Kalça grafileri ve **MRG**; risk faktörü taşıyan hastada hem tanı hem erken evreleme için
+  **MRG** ilk seçimdir. Grafiler erken dönemde normal kalabilir; iki taraflı riskte her iki kalça
+  birlikte değerlendirilir"
+kesin_tani: "**MRG** ile konur; erken evrede tanıyı koyar, nekrozun boyutunu ve çökme riskini belirler.
+  İleri evrede ayakta kalça grafileri yeterlidir; evrelemede **Ficat-Arlet** kullanılır"
+ilk_tedavi: "Çökme öncesi erken evrede (küçük lezyonlar dahil) yük azaltma ve koruyucu cerrahi olarak
+  **çekirdek dekompresyonu**; gerekirse non-vaskülerize/vaskülerize **kemik grefti**. **Bisfosfonat**
+  için kanıt yetersizdir, standart tedavi değildir. Kıkırdak yüzeyi çökmüş genç-orta yaş hastada
+  **total kalça protezi**"
+klasik_komplikasyon: "**Femur başı çökmesi** ve ikincil **osteoartrit**; steroid kullanıcılarında iki
+  taraflı tutulum, genç hastada ömür boyu protez yıpranma sorunu"
 tus_gecmisi:
 - tus-2018-ilkbahar-ktbt-104
 kart_uret:

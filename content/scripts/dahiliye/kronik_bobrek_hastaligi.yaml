@@ -12,31 +12,31 @@ taksonomi:
   - dahiliye
   - dah_nefroloji
   - dah_nef_kronik_bobrek
-tipik_hasta: Yıllardır diyabet ve hipertansiyon takibindeki hasta; rutin tetkikte kreatinin yüksekliği
-  veya idrarda protein saptanır, kendisi çoğu zaman hiçbir belirti hissetmez. İleri evrede halsizlik,
-  iştah kaybı, kaşıntı, noktüri ve ödem gelişir
-patofizyoloji: 'Kronik hasar nefron kitlesini azaltır; kalan nefronlar hiperfiltrasyonla çalışıp zamanla
-  skleroza gider ve kayıp artar. Bu sırada üre-kreatinin birikir, RAAS aşırı aktifleşir, eritropoietin
-  ve 1-alfa hidroksilaz üretimi düşer: anemi, metabolik asidoz, fosfat yüksekliği ve sekonder hiperparatiroidizm
-  zinciri kurulur'
+tipik_hasta: 'Yıllardır **diyabet** ve **hipertansiyon** takibindeki hasta; rutin tetkikte **kreatinin
+  yüksekliği** veya idrarda **protein** saptanır, çoğu zaman belirtisiz. İleri evrede halsizlik, iştah
+  kaybı, **kaşıntı**, **noktüri** ve **ödem** gelişir'
+patofizyoloji: 'Kronik hasar nefron kitlesini azaltır; kalan nefronlar **hiperfiltrasyon**la çalışıp zamanla
+  **skleroz**a gider. **RAAS** aşırı aktifleşir; **eritropoietin** ve **1-alfa hidroksilaz** üretimi düşer:
+  **anemi**, metabolik asidoz, **fosfat yüksekliği** ve sekonder **hiperparatiroidizm** zinciri kurulur'
 anahtar_bulgular:
-- GFR 60 ml/dk/1,73 m2'nin altında ya da albüminüri, sediment bozukluğu gibi yapısal hasar bulgusu — en
-  az 3 aydır sürüyor olmalı
-- İdrar albumin-kreatinin oranı 30 mg/g üstü (orta derecede), 300 mg/g üstü (ağır)
-- Normositik normokromik anemi (eritropoietin eksikliği)
-- Metabolik asidoz, hiperkalemi; fosfat yüksek, kalsiyum düşük, PTH yüksek (sekonder hiperparatiroidizm)
-- Ultrasonda bilateral küçük ve ekojenik böbrekler; diyabetik nefropatide boyut korunabilir
+- '**GFR 60 ml/dk/1,73 m2** altı ya da **albüminüri**, sediment bozukluğu gibi yapısal hasar bulgusu; en
+  az **3 ay**dır sürmeli'
+- 'İdrar **albumin-kreatinin oranı 30 mg/g** üstü (orta derecede), **300 mg/g** üstü (ağır)'
+- '**Normositik normokromik anemi** (**eritropoietin** eksikliği)'
+- '**Metabolik asidoz**, **hiperkalemi**; fosfat yüksek, kalsiyum düşük, **PTH** yüksek (**sekonder hiperparatiroidizm**)'
+- 'Ultrasonda bilateral **küçük ve ekojenik böbrekler**; diyabetik nefropatide boyut korunabilir'
 patognomonik: null
-ilk_tetkik: Serum kreatinin ve üreden hesaplanan GFR (CKD-EPI), idrar albumin-kreatinin oranı, idrar sedimenti
-  ve renal ultrason
-kesin_tani: 3 aydan uzun süreli GFR düşüklüğü veya böbrek yapısal bozukluğu bulgusunun saptanması; KDIGO
-  mantığında GFR kategorisi (G1-G5) ile albuminüri kategorisi (A1-A3) birlikte evrelenir ve akut hasarla
-  kroniklik ayrımı yapılır
-ilk_tedavi: 'Progresyonu yavaşlatma: glukoz kontrolü, RAAS blokajı (ACE inhibitörü veya ARB), kan basıncı
-  kontrolü ve SGLT2 inhibitörü. Anemiye eritropoietin, mineral-kemik bozukluğuna fosfat bağlayıcı ve aktif
-  D vitamini. GFR 20 ml/dk altına inince diyaliz ve transplantasyon planı hazırlanır'
-klasik_komplikasyon: Sekonder hiperparatiroidizm ve renal osteodistrofi; hiperkalemik aritmi, üreminik
-  perikardit ve üreminik ensefalopati (diyalize geçişin klasik göstergeleri)
+ilk_tetkik: 'Serum **kreatinin** ve üreden hesaplanan **GFR (CKD-EPI)**, idrar **albumin-kreatinin oranı**,
+  idrar sedimenti ve **renal ultrason**'
+kesin_tani: '**3 aydan** uzun süreli **GFR düşüklüğü** veya böbrek yapısal bozukluğu bulgusu. **KDIGO** mantığında
+  **GFR kategorisi (G1-G5)** ile **albuminüri kategorisi (A1-A3)** birlikte evrelenir; akut hasarla kroniklik
+  ayrımı yapılır'
+ilk_tedavi: 'Progresyonu yavaşlatma: glukoz kontrolü, **RAAS blokajı** (**ACE inhibitörü** veya **ARB**),
+  kan basıncı kontrolü, **SGLT2 inhibitörü**. Anemiye **eritropoietin**, mineral-kemik bozukluğuna **fosfat
+  bağlayıcı** ve aktif **D vitamini**. **GFR 20 ml/dk** altına inince **diyaliz** ve **transplantasyon**
+  planı hazırlanır'
+klasik_komplikasyon: '**Sekonder hiperparatiroidizm** ve **renal osteodistrofi**; **hiperkalemik aritmi**,
+  **üreminik perikardit** ve **üreminik ensefalopati** (diyalize geçişin klasik göstergeleri)'
 tus_gecmisi:
 - tus-2015-ilkbahar-ktbt-27
 - tus-2017-sonbahar-ktbt-28

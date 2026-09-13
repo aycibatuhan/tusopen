@@ -11,35 +11,19 @@ taksonomi:
   - kadin_dogum
   - kd_fetal_komplikasyonlar
   - kd_fk_oligohidramnios_polihidramnios
-tipik_hasta: Rutin ultrasonografide amniyon sıvı miktarı normal aralığın dışına çıkan gebe; bir uçta son
-  üç aylık dönemde plasental yetersizlik, zarın erken açılması veya böbrek-idrar yolu anomalisiyle sıvısı
-  azalan hasta, diğer uçta gebelik şekeri, çoğul gebelik veya fetal yutma engeliyle sıvısı artan hasta
-patofizyoloji: Geç gebelikte amniyon sıvısının ana kaynağı fetal idrardır ve dengesini fetal yutma kurar;
-  plasental yetersizlikte fetüs kanını hayati organlara yöneltip böbrek perfüzyonunu kısarak idrarı azaltır,
-  zar açılınca sıvı fiziksel olarak kaybolur, idrar yolu tıkanıklığında sıvı yapılır ama dışarı akmaz.
-  Fazlalık ya yutmanın engellenmesiyle (yemek borusu veya onikiparmak atrezisi, sinir sistemi bozukluğu)
-  ya da fetal idrar artışıyla (anne şekerinin fetusa geçip poliüri yapması) oluşur
+tipik_hasta: "Rutin ultrasonografide **amniyon sıvı miktarı normal aralığın dışına** çıkan gebe; bir uçta **plasental yetersizlik, zarın erken açılması veya böbrek-idrar yolu anomalisiyle** sıvısı azalan hasta; diğer uçta **gebelik şekeri, çoğul gebelik veya fetal yutma engeliyle** sıvısı artan hasta"
+patofizyoloji: "Geç gebelikte amniyon sıvısının ana kaynağı **fetal idrardır** ve dengesini **fetal yutma** kurar. **Plasental yetersizlikte** fetüs böbrek perfüzyonunu kısarak idrarı azaltır; **zar açılınca** sıvı fiziksel kaybolur, **idrar yolu tıkanıklığında** sıvı yapılır ama dışarı akmaz. Fazlalık ya **yutmanın engellenmesiyle** (**yemek borusu veya onikiparmak atrezisi**, sinir sistemi bozukluğu) ya da **fetal idrar artışıyla** (anne **şekerinin** fetusa geçip poliüri yapması) oluşur"
 anahtar_bulgular:
-- AFI 5 cm'nin altı veya en derin cep 2 cm'nin altı oligohidramnios; AFI 24 cm'yi aşması veya en derin
-  cep 8 cm'yi geçmesi polihidramnios
-- 'Ağır oligohidramniosda Potter dizilimi: basık yüz, geriye çekilmiş çene, düşük kulak, kıvrık el duruşu
-  ve akciğer gelişme geriliği'
-- Erken gebelikte başlayan oligohidramnios böbrek ve idrar yolu anomalisi, son dönemdeki ise plasental
-  yetersizlik veya zar açılması işaret eder
-- Polihidramniosda rahim gebelik haftasından büyük, anne nefes darlığı ve reflü şikâyeti, erken eylem
-  eğilimi
-- Polihidramniosda önce anne şeker hastalığı, çoğul gebelik ve fetal yutma engeli (yemek borusu, onikiparmak
-  atrezisi) araştırılır
+- "**AFI 5 cm'nin altı** veya **en derin cep 2 cm'nin altı** oligohidramnios; **AFI 24 cm'yi aşması** veya **en derin cep 8 cm'yi geçmesi** polihidramnios"
+- "Ağır oligohidramniosda **Potter dizilimi**: basık yüz, geriye çekilmiş çene, düşük kulak, kıvrık el duruşu ve **akciğer gelişme geriliği**"
+- "Erken gebelikte başlayan oligohidramnios **böbrek ve idrar yolu anomalisi**; son dönemdeki ise **plasental yetersizlik veya zar açılması** işaret eder"
+- "Polihidramniosda rahim **gebelik haftasından büyük**, anne **nefes darlığı ve reflü**, **erken eylem** eğilimi"
+- "Polihidramniosda önce **anne şekeri, çoğul gebelik** ve **fetal yutma engeli** (**yemek borusu, onikiparmak atrezisi**) araştırılır"
 patognomonik: null
-ilk_tetkik: Ultrasonografide AFI veya en derin amniyon cebi ölçümü; fetus anatomisinin ayrıntılı taranması,
-  gerekirse Doppler ile plasental yetersizlik araştırması
-kesin_tani: Tek ultrason ölçümünde AFI ≤5 cm veya en derin cep <2 cm tanıyı koyar; sınırda değerlerde ölçüm tekrarlanır veya üstüne çıkılması; tek ölçümde
-  sınırda değerler tekrarla doğrulanır
-ilk_tedavi: 'Nedene yönelik: zar açılmışsa yakın izlem, plasental yetersizlikte doğum zamanı planı, polihidramniosda
-  önce anne şeker kontrolü; şikâyet yapan ağır polihidramniosda amniyon sıvısı azaltma (amniyoreduksiyon)
-  ve gerekirse indometazin (32 haftadan önce, duktus kapanma riski nedeniyle kısa süre)'
-klasik_komplikasyon: Oligohidramniosda akciğer hipoplazisi, doğumda kord sıkışması ve fetus pozisyon bozukluğu;
-  polihidramniosda erken eylem, zar açılmasıyla kord sarkması
+ilk_tetkik: "Ultrasonografide **AFI** veya **en derin amniyon cebi** ölçümü; fetus **anatomisinin ayrıntılı taranması**, gerekirse **Doppler** ile plasental yetersizlik araştırması"
+kesin_tani: "Tek ultrason ölçümünde **AFI 5 cm altı** veya **en derin cep 2 cm altı** tanıyı koyar; sınırda değerler **ölçüm tekrarıyla** doğrulanır"
+ilk_tedavi: "Nedene yönelik: **zar açılmışsa** yakın izlem, **plasental yetersizlikte** doğum zamanı planı, **polihidramniosda** önce **anne şeker kontrolü**. Şikâyet yapan ağır polihidramniosda **amniyon sıvısı azaltma (amniyoreduksiyon)** ve gerekirse **indometazin** — **32 haftadan önce**, **duktus kapanma riski** nedeniyle kısa süre"
+klasik_komplikasyon: "Oligohidramniosda **akciğer hipoplazisi**, doğumda **kord sıkışması** ve fetus pozisyon bozukluğu; polihidramniosda **erken eylem**, zar açılmasıyla **kord sarkması**"
 tus_gecmisi:
 - tus-2016-ilkbahar-ktbt-109
 kart_uret:

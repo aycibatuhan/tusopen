@@ -11,41 +11,20 @@ taksonomi:
   - dermatoloji
   - derm_urtiker_ilac
   - derm_ui_urtiker_anjioodem
-tipik_hasta: 'İlaç, gıda ya da enfeksiyondan dakikalar-saatler sonra gövde ve ekstremitelerde kırmızı,
-  kaşıntılı, ortası soluk kabarımlarla gelen hasta; dudak ve göz kapaklarında şişme (anjiyoödem) eşlik
-  edebilir. Lezyonlar yer değiştirir ve iz bırakmadan düzelir. Kaşıntının 6 haftayı aşması kronik seyir olarak tanımlanır; bu hastaların çoğunda alerji değil otoimmün mekanizma sorumludur. Ürtikersiz, kaşıntısız, ağrılı
-  ödem ise bradikinin mekanizmasını düşündürür: ACE inhibitörü ya da kalıtsal anjiyoödem (C1 inhibitör
-  eksikliği, aile öyküsü)'
-patofizyoloji: Mast hücresi degranülasyonu ve histamin salınımı dermiste damar geçirgenliğini artırır,
-  kaşıntıyı tetikler; derin dokuya yayılan salgı anjiyoödem yapar. Akut ürtikerde IgE aracılı alerji,
-  ilaç, gıda ve viral-bakteriyel enfeksiyonlar öndedir. 6 haftadan uzun süren kronik spontan ürtikerde
-  ise mast hücresi IgE resektörünün alfa zincirine ya da IgE'ye karşı IgG tipi otoantikorlar (otoimmün
-  mekanizma) sorumludur; soğuk, ısı, egzersiz, basınç, dermografizm, güneş ve su gibi fiziksel tetikleyiciler
-  endüktif alt tipleri oluşturur
+tipik_hasta: "**İlaç, gıda ya da enfeksiyon**dan dakikalar-saatler sonra gövde ve ekstremitelerde kırmızı, kaşıntılı, **ortası soluk kabarımlarla** gelen hasta; dudak ve göz kapaklarında şişme (**anjiyoödem**) eşlik edebilir; lezyonlar **yer değiştirir** ve **iz bırakmadan** düzelir. Kaşıntının **6 haftayı aşması** **kronik** seyir olarak tanımlanır; bu hastaların çoğunda alerji değil **otoimmün mekanizma** sorumludur; **Ürtikersiz, kaşıntısız, ağrılı ödem** ise **bradikinin** mekanizmasını düşündürür: **ACE inhibitörü** ya da **kalıtsal anjiyoödem** (**C1 inhibitör eksikliği**, aile öyküsü)"
+patofizyoloji: "**Mast hücresi degranülasyonu** ve **histamin** salınımı dermiste damar geçirgenliğini artırır, kaşıntıyı tetikler; derin dokuya yayılan salgı **anjiyoödem** yapar. Akut ürtikerde **IgE aracılı alerji**, ilaç, gıda ve **viral-bakteriyel enfeksiyonlar** öndedir; **6 haftadan uzun** süren **kronik spontan ürtiker**de mast hücresi IgE resektörünün alfa zincirine ya da IgE'ye karşı **IgG tipi otoantikorlar** (otoimmün mekanizma) sorumludur; **soğuk, ısı, egzersiz, basınç, dermografizm, güneş ve su** gibi fiziksel tetikleyiciler **endüktif alt tipleri** oluşturur"
 anahtar_bulgular:
-- Kaşıntılı, ortası soluk, çevresi kırmızı kabarımlar (biksel); yer ve biçim dakikalar içinde değişir
-- Her lezyon 24 saat içinde tamamen düzelir, iz, skar ve pullanma bırakmaz
-- Dudak, göz kapağı ve genital bölgede yanma hissili şişme (anjiyoödem)
-- 'Dermografizm: deriye sürtünmeyle kabarık, kırmızı çizgiler belirmesi'
-- 'Kronik ürtikere eşlik eden fiziksel tetikleyiciler: soğuk, egzersiz, basınç, güneş'
-- Ürtikersiz, kaşıntısız, ağırlıklı olarak ağrılı anjiyoödemde ACE inhibitörü ya da C1 inhibitör eksikliği
-  sorgusu
-patognomonik: 24 saat içinde tamamen iz bırakmadan düzelen, yer ve biçim değiştiren kaşıntılı kabarımlar
-  (biksel)
-ilk_tetkik: Tanı klinikle konur; endüktif tip şüphesinde tetikleyici provokasyon ve dermografi testleri
-  yapılır. Kronik spontan ürtikerde rutin geniş alerji paneli önerilmez; tetikleyici sorgulama ve gerektiğinde
-  az sayıda temel test yeterlidir. Anjiyoödemin tek başına olduğu olguda C4, C1 inhibitör düzeyi ve ACE
-  inhibitörü öyküsü değerlendirilir
-kesin_tani: Klinik morfoloji artı 24 saat kuralı. Lezyon 24 saatten uzun sürüyor, ağrılı, purpuralı ve
-  pigment bırakıyorsa ürtikeral vaskülit düşünülmeli ve biyopsi yapılmalıdır
-ilk_tedavi: İkinci kuşak H1 antihistaminik (setirizin, loratadin, feksofenadin gibi) standart dozda başlanır;
-  yanıt alınamazsa başka bir ilaca geçmeden ya da sedatif birinci kuşak ajanlara dönmeden önce aynı ilacın
-  dozu standart dozun en fazla 4 katına kadar artırılır. Buna rağmen dirençli tabloda omalizumab (anti-IgE),
-  ardından siklosporin gelir. Sistemik steroid yalnız alevlenmelerde kısa süreli (en fazla 10 gün) kurtarıcı
-  olarak kullanılır, kronik tedavi değildir. Anjiyoödem hava yolunu tehdit ediyorsa (dudak-dil-larinks)
-  intramusküler adrenalin ilk adımdır
-klasik_komplikasyon: Anafilaksi (yaygın ürtiker artı larenks anjiyoödemi ve hipotansiyon); ACE inhibitörü
-  kaynaklı anjiyoödemin tekrarı; kronik seyirde uyku ve iş performansı kaybı
+- "Kaşıntılı, ortası soluk, çevresi kırmızı kabarımlar (**biksel**); yer ve biçim **dakikalar içinde** değişir"
+- "Her lezyon **24 saat** içinde tamamen düzelir, **iz, skar ve pullanma bırakmaz**"
+- "Dudak, göz kapağı ve genital bölgede yanma hissili şişme (**anjiyoödem**)"
+- "**Dermografizm**: deriye sürtünmeyle kabarık, kırmızı çizgiler belirmesi"
+- "Kronik ürtikere eşlik eden fiziksel tetikleyiciler: **soğuk**, **egzersiz**, **basınç**, **güneş**"
+- "**Ürtikersiz, kaşıntısız, ağrılı anjiyoödem**de **ACE inhibitörü** ya da **C1 inhibitör eksikliği** sorgusu"
+patognomonik: "**24 saat içinde tamamen iz bırakmadan düzelen**, yer ve biçim değiştiren kaşıntılı kabarımlar (**biksel**)"
+ilk_tetkik: "Tanı **klinikle** konur; endüktif tip şüphesinde **tetikleyici provokasyon** ve **dermografi** testleri yapılır; **Kronik spontan ürtikerde rutin geniş alerji paneli önerilmez**; tetikleyici sorgulama ve gerektiğinde az sayıda temel test yeterlidir. Anjiyoödemin tek başına olduğu olguda **C4**, **C1 inhibitör düzeyi** ve **ACE inhibitörü** öyküsü değerlendirilir"
+kesin_tani: "Klinik morfoloji artı **24 saat kuralı**. Lezyon **24 saatten uzun** sürüyor, **ağrılı**, **purpuralı** ve **pigment bırakıyorsa** **ürtikeral vaskülit** düşünülmeli ve **biyopsi** yapılmalıdır"
+ilk_tedavi: "**İkinci kuşak H1 antihistaminik** (**setirizin**, **loratadin**, **feksofenadin**) standart dozda başlanır; yanıt alınamazsa başka bir ilaca geçmeden **aynı ilacın dozu standart dozun en fazla 4 katına** kadar artırılır. Buna rağmen dirençli tabloda **omalizumab (anti-IgE)**, ardından **siklosporin** gelir; **Sistemik steroid** yalnız alevlenmelerde kısa süreli (**en fazla 10 gün**) kurtarıcı olarak kullanılır, **kronik tedavi değildir**. Anjiyoödem **hava yolunu** tehdit ediyorsa (dudak-dil-larinks) **intramusküler adrenalin** ilk adımdır"
+klasik_komplikasyon: "**Anafilaksi** (yaygın ürtiker artı **larenks anjiyoödemi** ve hipotansiyon); **ACE inhibitörü** kaynaklı anjiyoödemin tekrarı; kronik seyirde **uyku ve iş performansı kaybı**"
 tus_gecmisi:
 - tus-2017-ilkbahar-ktbt-56
 - tus-2017-sonbahar-ktbt-31

@@ -15,36 +15,19 @@ taksonomi:
   - kardiyoloji
   - kard_aort_periferik
   - kard_ap_aort_anevrizmasi
-tipik_hasta: Altmışbeş yaş üstü, uzun süre sigara içmiş, hipertansif, ailesinde anevrizma öyküsü olan
-  erkektir; sıklıkla hiçbir belirti vermeden tesadüfi ultrasonda saptanır. Belirtilerse karın ortasının
-  solunda nabız atan kitle ve künt karın-sırt ağrısı gelir; rüptüre kadar sessiz kaldığı için tarama ve
-  çap takibi yönetimin bel kemiğidir
-patofizyoloji: 'Aort duvarında medya dejenerasyonu: elastin yıkımı ve düz kas kaybı duvarı balonlaştırır;
-  aterosklerozla ilişkilidir, koroner ve periferik damar hastalığıyla birlikte görülür. En sık yerleşim
-  böbrek altı (infrarenal) segmenttir. Eşik mantığı hastalığı yönetir: çap 3 cm''yi aşınca anevrizma sayılır;
-  5 cm üzerinde yıllık rüptür riski hızla artmaya başlar (6 cm üstünde yüzde onu bulur), bu yüzden 5 cm
-  eşiği izlemin yoğunlaştığı, 5.5 cm (erkek) eşiği elektif tamirin başladığı çizgidir; yıllık büyümenin
-  0.5 cm''yi aşması hızlı büyüme sayılır ve müdahaleyi öne çeker'
+tipik_hasta: "**65 yaş üstü**, uzun süre sigara içmiş, hipertansif ve ailesinde anevrizma öyküsü olan erkek; çoğunlukla hiçbir belirti vermez, tesadüfi ultrasonda saptanır. Belirtilirse karın ortasının solunda **nabız atan kitle** ve künt karın-sırt ağrısı; rüptüre kadar sessiz kalır"
+patofizyoloji: "Aort duvarında **medya dejenerasyonu**: elastin yıkımı ve düz kas kaybı duvarı balonlaştırır; aterosklerozla ilişkilidir, en sık yerleşim **böbrek altı (infrarenal)** segment. Eşik mantığı yönetir: çap **3 cm** üstü anevrizma sayılır, **5 cm** üstünde yıllık rüptür riski hızla artar, **5.5 cm** (erkek) elektif tamir eşiğidir; yıllık büyümenin **0.5 cm** üstü hızlı büyümedir ve müdahaleyi öne çeker"
 anahtar_bulgular:
-- Karın ortasında nabız atan (pulsatil) kitle; çoğu hasta asemptomatiktir
-- Derin, sabit karın-sırt ağrısı — genişlemenin ya da başlayan rüptürün habercisi
-- 'Rüptür triadı: ani karın-sırt ağrısı, hipotansiyon, nabız atan karın kitlesi'
-- Ultrasonda aort çapının 3 cm üstüne çıkması (tarama ve izlemde ilk adım); BT anjiyoda çap, boy, trombus
-  durumu ve dallara uzaklık
-- 'Tarama önerisi: 65 yaş üstü, hayatında sigara içmiş erkeklere bir kez ultrason; aile öyküsü varsa daha
-  erken'
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Rüptür triadı: ani karın-sırt ağrısı, hipotansiyon ve nabız atan karın kitlesi'
-ilk_tetkik: Stabil hastada batın ultrasonu ile çap ölçümü; rüptür şüphesinde hemodinamik dengede olan
-  hastada acil BT anjiyografi, dengede olmayan hastada tanı için oyalanmadan ameliyathaneye gider
-kesin_tani: 'BT anjiyografi: anevrizmanın çapı, boyu, trombus-kalsifikasyon durumu ve böbrek arterlerine
-  uzaklığı (endovasküler tamir planı için ölçüler) belirtilir. Klasik rüptür kliniğinde görüntüleme beklenmeden
-  cerrahi karar verilir'
-ilk_tedavi: 'Rüptüre anevrizma acil tamir gerektirir: anatomik uygun hastada endovasküler tamir (EVAR)
-  önceliklidir, uygun olmayan hastada açık cerrahi yapılır. Elektif tamir eşiği: erkekte 5.5 cm, kadında
-  5.0 cm üstü ya da yıllık büyümenin 0.5 cm''yi aşması. Küçük anevrizmada sigara bırakma, kan basıncı
-  kontrolü ve ultrasonla izlem (5 cm altında yıllık)'
-klasik_komplikasyon: Retroperitoneal rüptürle şok; aortoenterik fistül (duodenumun 3. kısmına eriyen önce
-  küçük haberci kanama, ardından masif kanama); distal embolizasyonla trash foot
+- "Karın ortasında **nabız atan (pulsatil) kitle**; çoğu hasta asemptomatiktir"
+- "Derin, sabit **karın-sırt ağrısı** — genişlemenin ya da başlayan rüptürün habercisi"
+- "**Rüptür triadı**: ani karın-sırt ağrısı, **hipotansiyon**, nabız atan karın kitlesi"
+- "Ultrasonda aort çapının **3 cm üstü** (tarama ve izlemde ilk adım); BT anjiyoda çap, boy, trombus durumu ve dallara uzaklık"
+- "Tarama önerisi: **65 yaş üstü**, hayatında sigara içmiş erkeğe bir kez **ultrason**; aile öyküsünde daha erken"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **rüptür triadı**: ani karın-sırt ağrısı, hipotansiyon ve nabız atan karın kitlesi"
+ilk_tetkik: "Stabil hastada batın **ultrasonu** ile çap ölçümü; rüptür şüphesinde hemodinamik dengede olan hastada acil **BT anjiyografi**. Dengede olmayan hastada tanı için oyalanmadan ameliyathaneye gidilir"
+kesin_tani: "**BT anjiyografi**: anevrizmanın **çapı**, boyu, trombus-kalsifikasyon durumu ve böbrek arterlerine uzaklığı (endovasküler tamir planı için ölçüler). Klasik rüptür kliniğinde görüntüleme beklenmeden cerrahi karar verilir"
+ilk_tedavi: "Rüptüre anevrizma acil tamir: anatomik uygun hastada **endovasküler tamir (EVAR)** önceliklidir, uygun olmayan hastada açık cerrahi. Elektif tamir eşiği: erkekte **5.5 cm**, kadında **5.0 cm** üstü ya da yıllık büyümenin **0.5 cm** üstü. Küçük anevrizmada sigara bırakma, kan basıncı kontrolü ve ultrasonla izlem (**5 cm altında yıllık**)"
+klasik_komplikasyon: "Retroperitoneal **rüptür** ve şok; **aortoenterik fistül** (duodenumun 3. kısmına eriyen önce küçük haberci kanama, ardından masif kanama); distal embolizasyonla **trash foot**"
 tus_gecmisi:
 - tus-2020-sonbahar-ktbt-97
 - tus-2021-ilkbahar-ktbt-97

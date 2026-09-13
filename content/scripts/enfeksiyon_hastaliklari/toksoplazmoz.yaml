@@ -11,43 +11,20 @@ taksonomi:
   - enfeksiyon_hastaliklari
   - enf_paraziter
   - enf_pr_toksoplazmoz
-tipik_hasta: Çiğ-az pişmiş et (özellikle çiğ köfte) tüketen ya da kedi dışkısıyla (kedi kumu, bahçe işleri)
-  temas eden kişi; genellikle asemptomatik kalan ya da ateş ve tek, az ağrılı boyun lenfadenopatisiyle
-  gelen immün yetkin genç erişkin; CD4 hücre sayısı yüzün altına düşen HIV hastasında reaktivasyonla fokal bulgular
-  gösteren ensefalit; ayrıca akut enfeksiyon geçiren gebeler — fetüs açısından riskli grupta
-patofizyoloji: 'Toxoplasma gondii zorunlu hücre içi parazittir. Kedi nihai konaktır ve dışkısıyla ookist
-  saçar; ette doku kistleri bulunur. İnsan iki yolla enfekte olur: ookist ve doku kisti. İmmün yetkin
-  konakta parazit doku kistlerine dönüşüp sessiz kalır; bağışıklık baskılanınca kistler yıkıma uğrar,
-  bruzit formlar çoğalarak reaktivasyon hastalığını (beyin abseleri, göz tutulumu) yaratır. Gebelikte
-  parazit plasentayı geçer: fetal geçiş son trimesterde sık, ilk trimesterde azdır; ancak erken enfeksiyon
-  fetal hasarın en ağır olduğu dönemdir — geçiş sıklığı ve tablo ağırlığı ters orantılıdır'
+tipik_hasta: "**Çiğ-az pişmiş et** (özellikle **çiğ köfte**) tüketen ya da **kedi dışkısıyla** (kedi kumu, bahçe işleri) temas eden kişi. Genellikle asemptomatik kalan ya da **ateş** ve tek, az ağrılı **boyun lenfadenopati**siyle gelen immün yetkin genç erişkin. **CD4** sayısı **yüzün altına** düşen **HIV** hastasında reaktivasyonla fokal bulgular gösteren **ensefalit**; ayrıca **akut enfeksiyon geçiren gebe**ler — **fetüs** açısından riskli grupta"
+patofizyoloji: "**Toxoplasma gondii** zorunlu **hücre içi** parazittir. **Kedi** nihai konaktır ve dışkısıyla **ookist** saçar; ette **doku kistleri** bulunur. İmmün yetkin konakta parazit doku kistlerine dönüşüp sessiz kalır; **bağışıklık baskılanınca** kistler yıkıma uğrar, **bruzit** formlar çoğalarak **reaktivasyon** hastalığını (beyin abseleri, göz tutulumu) yaratır. Gebelikte parazit **plasentayı** geçer: fetal geçiş **son trimesterde** sık, **ilk trimesterde** azdır; ancak **erken enfeksiyon** fetal hasarın en ağır olduğu dönemdir — geçiş sıklığı ve tablo ağırlığı **ters orantılıdır**"
 anahtar_bulgular:
-- 'İmmün yetkin konak: genellikle asemptomatik; bazen ateş ve tek, az ağrılı servikal lenfadenopatiyle
-  mononükleoz benzeri tablo'
-- 'HIV hastasında (CD4 yüzün altında) toksoplazmozik ensefalit: ateş, baş ağrısı, odak nörolojik bulgular
-  ve nöbet; kontrastlı beyin görüntülemesinde çok sayıda halka zenginleştirmeli lezyon, ağırlıkla bazal
-  ganglion ve kortikomedüller yerleşim'
-- 'Göz tutulumu (reaktivasyon ve konjenital): noktokoroidretinit'
-- 'Konjenital enfeksiyonun klasik dört bulgusu (Sabin birleşimi): hidrosefalus, dağınık intrakraniyal
-  kalsifikasyon (periventriküler kalsifikasyon konjenital CMV işaretidir), koroidretinit, konvulsiyonlar'
-- 'Gebelikte erken enfeksiyon: fetal geçiş az ama hasar ağır (düşük, ölü doğum, belirgin konjenital bulgular);
-  geç enfeksiyon: geçiş sık ama tablo hafif'
-patognomonik: Tipik bulgu (patognomonik değildir) — HIV'li hastada çok sayıda halka zenginleştirmeli (ring-enhancing) beyin lezyonu — toksoplazmozik
-  ensefalitin klasik görüntüleme resmi
-ilk_tetkik: Seroloji (IgG geçmiş enfeksiyonu, IgM yakın enfeksiyonu gösterir; gebelikte çift örnek titreyle
-  akut enfeksiyon ayrımı yapılır); HIV'li hastada ateş ve nörolojik bulguda kontrastlı beyin bilgisayarlı
-  tomografisi ya da manyetik rezonans; gebelikte tanıdan sonra fetal değerlendirme (ultrason, amniyosentezle
-  moleküler test)
-kesin_tani: Doku biyopsisinde parazitin gösterilmesi; HIV hastasında klinik-radyolojik tablo (çoklu halka
-  lezyonlar) artı pozitif antitoksoplazma IgG ve tedaviye biyoklinik yanıt kesinleştirir; konjenital tanıda
-  amniyotik sıvıda moleküler test ve yenidoğan serolojisi
-ilk_tedavi: 'Toksoplazmozik ensefalit: birinci seçenek pirimetamin artı sülfadiazin artı folinik asit; alternatif yüksek doz trimetoprim-sülfametoksazol; yoğun faz altı hafta, ardından HIV''li hastada
-  CD4 değeri 200 ve üzerine çıkıp kalıcı hale gelene dek (en az 6 ay) sekonder profilaksi sürer. İmmün yetkin konakta lenfadenopatili
-  hastalık genellikle tedavi gerektirmez. Gebelikte fetal bulaş kanıtlanmadan spiramisin (plasentadan
-  geçmez) kullanılır; fetal bulaş kanıtlanınca pirimetamin artı sülfadiazin. Gebelere önleme: çiğ et ve
-  kedi kumundan uzak durma'
-klasik_komplikasyon: Konjenital enfeksiyonda Sabin dört bulgusu ve kalıcı nörolojik-göz hasarı; immünsüprese
-  konakta toksoplazmozik ensefalit, miyokardit ve pnömonit
+- "**İmmün yetkin konak**: genellikle **asemptomatik**; bazen **ateş** ve tek, az ağrılı **servikal lenfadenopati**yle mononükleoz benzeri tablo"
+- "**HIV** hastasında (**CD4 yüzün altında**) **toksoplazmozik ensefalit**: **ateş**, **baş ağrısı**, **odak nörolojik bulgular** ve **nöbet**"
+- "Kontrastlı beyin görüntülemesinde **çok sayıda halka zenginleştirmeli lezyon**, ağırlıkla **bazal ganglion** ve kortikomedüller yerleşim"
+- "Göz tutulumu (reaktivasyon ve konjenital): **noktokoroidretinit**"
+- "Konjenital enfeksiyonun klasik dört bulgusu (**Sabin birleşimi**): **hidrosefalus**, **dağınık intrakraniyal kalsifikasyon** (periventriküler kalsifikasyon **konjenital CMV** işaretidir), **koroidretinit**, **konvulsiyonlar**"
+- "Gebelikte **erken enfeksiyon**: fetal geçiş az ama hasar ağır (**düşük**, **ölü doğum**, belirgin konjenital bulgular); **geç enfeksiyon**: geçiş sık ama tablo hafif"
+patognomonik: "Tipik bulgu (patognomonik değildir) — HIV'li hastada **çok sayıda halka zenginleştirmeli (ring-enhancing) beyin lezyonu** — toksoplazmozik ensefalitin klasik görüntüleme resmi"
+ilk_tetkik: "**Seroloji** (**IgG** geçmiş enfeksiyonu, **IgM** yakın enfeksiyonu gösterir; gebelikte **çift örnek titre**yle akut enfeksiyon ayrımı). HIV'li hastada ateş ve nörolojik bulguda **kontrastlı beyin bilgisayarlı tomografisi** ya da **manyetik rezonans**; gebelikte tanıdan sonra fetal değerlendirme (**ultrason**, **amniyosentezle moleküler test**)"
+kesin_tani: "**Doku biyopsisinde** parazitin gösterilmesi; HIV hastasında klinik-radyolojik tablo (**çoklu halka lezyon**) artı pozitif **antitoksoplazma IgG** ve **tedaviye biyoklinik yanıt** kesinleştirir. Konjenital tanıda **amniyotik sıvıda moleküler test** ve **yenidoğan serolojisi**"
+ilk_tedavi: "**Toksoplazmozik ensefalit**te birinci seçenek **pirimetamin** artı **sülfadiazin** artı **folinik asit**; alternatif yüksek doz **trimetoprim-sülfametoksazol**. Yoğun faz **altı hafta**; ardından **CD4 200** ve üzerine kalıcı çıkana dek (en az **6 ay**) **sekonder profilaksi** sürer. İmmün yetkin konakta **lenfadenopatili** hastalık genellikle **tedavi gerektirmez**. Gebelikte fetal bulaş kanıtlanmadan **spiramisin** (plasentadan geçmez) kullanılır; **fetal bulaş** kanıtlanınca **pirimetamin artı sülfadiazin**. Gebelere önleme: **çiğ et** ve **kedi kumu**ndan uzak durma"
+klasik_komplikasyon: "Konjenital enfeksiyonda **Sabin dört bulgusu** ve kalıcı **nörolojik-göz hasarı**; immünsüprese konakta **toksoplazmozik ensefalit**, **miyokardit** ve **pnömonit**"
 tus_gecmisi:
 - tus-2015-sonbahar-ttbt-73
 - tus-2019-ilkbahar-ttbt-76

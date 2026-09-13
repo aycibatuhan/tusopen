@@ -11,36 +11,19 @@ taksonomi:
   - enfeksiyon_hastaliklari
   - enf_zoonoz
   - enf_zo_tularemi
-tipik_hasta: Kene tutunması, kır tavşanı ya da kemirici hayvan teması (avcı, hayvan derisi işleyen), hayvansal
-  ürünle uğraşan ya da kontamine kaynak-dere suları içen kişi; ani başlayan ateş-titreme-halsizlik eşliğinde
-  tek odakta ağrılı, iri lenfadenopatiyle başvuran hasta; ateşli hastanın genel durumunun lenfadenopatiye
-  göre nispeten korunması ve Türkiye'de ülsere glandüler ile orofaringeal formların ön plana çıkması klasiği
-  oluşturur
-patofizyoloji: 'Francisella tularensis; küçük, kapsüllü, hareketsiz, gram negatif kokobasildir. Rezervuar
-  kemirici hayvanlar ve kır tavşanıdır; kene ve sinekler vektördür. Deri ya da mukozadan giren etken giriş
-  yerinde ülseropürülan lezyon yapar, lenf yoluyla bölgesel lenf noduna ulaşır; fagositler içinde hayatta
-  kaldığı için hücresel bağışıklık baskılayana dek sürebilir. Veba (Yersinia pestis) ile glandüler tablo
-  benzerdir ama mantığı ayrıdır: vebada sıçan piresi bulaştırır, kasıkta iri bubon ve hızla ağırlaşan
-  toksik seyir vardır; tularemide kene tutunma bölgesiyle uyumlu giriş yeri (boyun-koltuk altı-kasık)
-  ve daha sınırlı, daha iyi genel durumlu seyir beklenir'
+tipik_hasta: "**Kene tutunması**, **kır tavşanı** ya da **kemirici** hayvan teması (avcı, hayvan derisi işleyen); hayvansal ürünle uğraşan ya da **kontamine kaynak-dere suları**nı içen kişi. Ani başlayan **ateş-titreme-halsizlik** eşliğinde **tek odakta ağrılı, iri lenfadenopati**yle başvuran hasta. Ateşli hastanın genel durumunun lenfadenopatiye göre **nispeten korunması** ve Türkiye'de **ülsere glandüler** ile **orofaringeal** formların ön plana çıkması klasiği oluşturur"
+patofizyoloji: "**Francisella tularensis**; küçük, kapsüllü, hareketsiz, **gram negatif kokobasildir**. Rezervuar **kemirici** hayvanlar ve **kır tavşanı**dır; **kene ve sinekler** vektördür. Deri ya da mukozadan giren etken giriş yerinde **ülseropürülan lezyon** yapar, lenf yoluyla **bölgesel lenf nodu**na ulaşır; **fagositler** içinde hayatta kaldığı için hücresel bağışıklık baskılayana dek sürebilir. **Veba (Yersinia pestis)** ile glandüler tablo benzerdir ama mantığı ayrıdır; vebada **sıçan piresi** bulaştırır, kasıkta **iri bubon** ve hızla ağırlaşan **toksik seyir** vardır. Tularemide **kene tutunma bölgesiyle uyumlu** giriş yeri (boyun-koltuk altı-kasık) ve daha sınırlı, daha iyi genel durumlu seyir beklenir"
 anahtar_bulgular:
-- 'Ülsere glandüler form (en sık): kene tutunma yerinde az ağrılı küçük ülser ve aynı tarafta büyük, ağrılı,
-  kızarık lenfadenopati; ateş-titreme-halsizlik eşlik eder'
-- 'Orofaringeal form: boğaz ağrısı, tonsiller ülser-eksüda ve boyun lenfadenopati (kontamine suların içilmesi)'
-- 'Göz glandüler form: ağrılı konjonktivit ve preauriküler (kulağın önü) lenfadenopati'
-- Aerosol bulaşında ateş, kuru öksürük ve pnömoni tablosu
-- 'Laboratuvar yardımcılığı zayıftır: lökosit sayısı genellikle normal ya da hafif yüksek; geç dönemde lenf
-  nodunda cerahatlama ve fıstıklaşma'
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Ülsere glandüler formda kene tutunma yerindeki küçük ülser artı aynı bölgeyi drene eden
-  ağrılı, iri lenfadenopati
-ilk_tetkik: Ulser eksüdatı ya da lenf nodu aspiratında boyama-kültür; başlangıç ve iki-üç hafta sonra
-  alınan çift örnek serum aglutinasyonu; tam kan sayımı, CRP ve karaciğer fonksiyon testleri
-kesin_tani: Kültürde Francisella tularensis üremesi (etken zor ürediği için özel besiyeri ve uzun inkübasyon
-  gerekir) ya da serolojide dört kat ve üzeri titre artışı ya da tek örnekte yüksek titre
-ilk_tedavi: Streptomisin kas içi (klasik birinci seçenek) ya da gentamisin; hafif ve lokalize olgularda
-  doksisiklin ya da siprofloksasin; cerrahatlama gelişen lenf nodunda gerekirse aspirasyon-drenaj
-klasik_komplikasyon: 'Lenf nodunda cerahatlama ve fıstıklaşma, tedavi gecikince kronikleşen ülser; nadir
-  yayılımlar: menenjit, perikardit, osteomiyelit'
+- "**Ülsere glandüler form** (en sık): kene tutunma yerinde az ağrılı küçük **ülser** ve aynı tarafta büyük, ağrılı, kızarık **lenfadenopati**; **ateş-titreme-halsizlik** eşlik eder"
+- "**Orofaringeal form**: **boğaz ağrısı**, **tonsiller ülser-eksüda** ve **boyun lenfadenopati** (kontamine suların içilmesi)"
+- "**Göz glandüler form**: ağrılı **konjonktivit** ve **preauriküler** (kulağın önü) **lenfadenopati**"
+- "**Aerosol** bulaşında ateş, kuru öksürük ve **pnömoni** tablosu"
+- "Laboratuvar yardımcılığı zayıftır: **lökosit** sayısı genellikle normal ya da hafif yüksek; geç dönemde lenf nodunda **cerahatlama ve fıstıklaşma**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — kene tutunma yerindeki **küçük ülser** artı aynı bölgeyi drene eden **ağrılı, iri lenfadenopati**"
+ilk_tetkik: "Ulser **eksüdatı** ya da lenf nodu **aspiratında boyama-kültür**; başlangıç ve **iki-üç hafta sonra** alınan **çift örnek serum aglutinasyonu**. **Tam kan sayımı**, **CRP** ve **karaciğer fonksiyon testleri**"
+kesin_tani: "**Kültür**de **Francisella tularensis** üremesi (etken zor ürediği için **özel besiyeri** ve uzun inkübasyon gerekir); ya da serolojide **dört kat ve üzeri titre artışı** ya da tek örnekte **yüksek titre**"
+ilk_tedavi: "**Streptomisin** kas içi (klasik birinci seçenek) ya da **gentamisin**; hafif ve lokalize olgularda **doksisiklin** ya da **siprofloksasin**. **Cerahatlama** gelişen lenf nodunda gerekirse **aspirasyon-drenaj**"
+klasik_komplikasyon: "Lenf nodunda **cerahatlama ve fıstıklaşma**, tedavi gecikince **kronikleşen ülser**; nadir yayılımlar: **menenjit**, **perikardit**, **osteomiyelit**"
 tus_gecmisi:
 - tus-2014-sonbahar-ttbt-63
 - tus-2016-ilkbahar-ktbt-2

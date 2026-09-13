@@ -10,40 +10,37 @@ taksonomi:
   - dahiliye
   - dah_romatoloji
   - dah_rom_anca_vaskulit
-tipik_hasta: 'Orta yaşta hasta; sistemik yakınmalar (ateş, kilo kaybı, yorgunluk) eşliğinde üst solunum
-  yolu (kronik sinüzit, burun kanaması, burun sırtı çökmesi), akciğer (hemoptizi, nodüller) ve böbrek
-  (hızlı ilerleyen glomerülonefrit) tutulumu; üç ana fenotip: granülomatozisli polianjit (GPA, c-ANCA
-  ve PR3), mikroskopik polianjit (MPA, p-ANCA ve MPO, granülomsuz) ve eozinofilik GPA (astım ve eozinofili)'
-patofizyoloji: ANCA'nın nötrofil granül enzimlerine (proteinaz 3 ve miyeloperoksidaz) bağlanarak nötrofilleri
-  aktive ettiği nekrotizan küçük damar vasküliti; GPA'da granülomatöz iltihap üst solunum yolu, orbita
-  ve akciğerde öne çıkar; MPA'da granülom yoktur, glomerülonefrit ve pulmoner kapiller kanama tabloyu
-  kurar; eozinofilik GPA'da astım ve eozinofili öncülük eder, kalp tutulumu ölüm nedeni olabilir; hepsinde
-  böbrek biyopsisinde immün kompleks birikiminin az olduğu (pausi-immün) yarımaylı glomerülonefrit görülür
+tipik_hasta: 'Orta yaşta hasta; sistemik yakınmalar eşliğinde **üst solunum yolu**, **akciğer** ve
+  **böbrek** tutulumu birlikteliği. Üç fenotip: granülomatozisli polianjit **GPA** (**c-ANCA**, **PR3**),
+  mikroskopik polianjit **MPA** (**p-ANCA**, **MPO**) ve **eozinofilik GPA** (astım, eozinofili)'
+patofizyoloji: ANCA nötrofil granül enzimlerine (**PR3**, **MPO**) bağlanıp nötrofilleri aktive eden
+  nekrotizan küçük damar vasküliti. GPA''da granülomatöz iltihap üst solunum yolu, orbita ve akciğerde
+  öne çıkar; MPA''da granülom yoktur, glomerülonefrit ve pulmoner kapiller kanama öndedir. Eozinofilik
+  GPA''da astım ve eozinofili öncülük eder; hepsinde biyopside **pausi-immün** yarımaylı glomerülonefrit
 anahtar_bulgular:
-- 'GPA: c-ANCA (PR3) pozitifliği; kronik sinüzit, burun kanaması ve septum perforasyonu, eyer görünümünde
-  burun çökmesi, akciğerde kaviter nodüller, orbita granülomu, subglottik darlık'
-- 'Mikroskopik polianjit: p-ANCA (MPO) pozitifliği; granülom yokluğu; hızlı ilerleyen glomerülonefrit
+- 'GPA: **c-ANCA (PR3)** pozitifliği; kronik sinüzit, septum perforasyonu, eyer görünümünde burun çökmesi,
+  akciğerde kaviter nodüller, orbita granülomu, subglottik darlık'
+- 'Mikroskopik polianjit: **p-ANCA (MPO)** pozitifliği, granülom yokluğu; hızlı ilerleyen glomerülonefrit
   ve akciğer kanaması önde'
-- 'Eozinofilik GPA: astım öyküsü, kan ve dokuda eozinofil artışı, sinüzit; p-ANCA yarısı pozitif; kalp
-  tutulumu riskli'
-- 'Pulmoner-renal sendrom: hemoptizi ile aktif idrar sedimentinin (dismorfik eritrositler, eritrosit silindirleri)
+- 'Eozinofilik GPA: **astım** öyküsü, kan ve dokuda **eozinofil** artışı, sinüzit; p-ANCA yarısı pozitif;
+  kalp tutulumu riskli'
+- 'Pulmoner-renal sendrom: **hemoptizi** ile aktif idrar sedimentinin (dismorfik eritrositler, silindirler)
   ve hızlı kreatinin yükselişinin birleşmesi'
-- 'Sinir sistemi: mononöritis multipleks (asimetrik periferik sinir felçleri); deri: elle palpe edilen
+- 'Sinir sistemi: **mononöritis multipleks** (asimetrik periferik sinir felçleri); deri: elle palpe edilen
   purpura'
 patognomonik: null
-ilk_tetkik: ANCA ELISA (PR3 ve MPO ayrımı), idrar analizi ve sediment incelemesi, kreatinin, CRP; akciğer
-  BT; tanıyı kesinleştiren test böbrek biyopsisidir (pausi-immün nekrotizan yarımaylı glomerülonefrit)
-kesin_tani: 'Klinik tablo, ANCA tipi ve biyopsi birlikte değerlendirilir: GPA''da granülomatöz nekrotizan
-  iltihap, MPA''da granülomsuz nekrotizan vaskülit, eozinofilik GPA''da eozinofil doku infiltrasyonu;
-  granülom yokluğu MPA''yı GPA''dan ayırır, astım ve eozinofili eozinofilik GPA''yı öne çıkarır; pausi-immün
-  yarımaylı glomerülonefrit üçünün ortak böbrek paternidir'
-ilk_tedavi: 'Remisyon girişimi: yüksek doz glukokortikoid ve ritüksimab veya siklofosfamid; organ veya
-  yaşam tehdidi olan durumlarda (difüz alveolar kanama, hızlı ilerleyen glomerülonefrit) plazmaferez eklenir;
-  nazal taşıyıcılık ve tekrarlayan sinüzitte trimetoprim-sülfametoksazol düşünülür; uzun dönemde ritüksimab
-  ile remisyon idamesi'
-klasik_komplikasyon: Difüz alveolar kanama (acil durum), terminal böbrek yetmezliği, eyer-burun deformitesi
-  ve septum perforasyonu, subglottik stenoz, periferik nöropati; tedavi döneminde pnömosistis profilaksisi
-  gerekir
+ilk_tetkik: '**ANCA ELISA** (PR3 ve MPO ayrımı), idrar analizi ve sediment incelemesi, kreatinin, CRP;
+  akciğer BT. Tanıyı kesinleştiren test **böbrek biyopsisidir** (pausi-immün nekrotizan yarımaylı glomerülonefrit)'
+kesin_tani: 'Klinik tablo, **ANCA tipi** ve biyopsi birlikte değerlendirilir. Granülom yokluğu MPA''yı
+  GPA''dan ayırır; **astım ve eozinofili** eozinofilik GPA''yı öne çıkarır; **pausi-immün yarımaylı glomerülonefrit**
+  üçünün ortak böbrek paternidir'
+ilk_tedavi: 'Remisyon girişimi: yüksek doz **glukokortikoid** ve **ritüksimab** veya **siklofosfamid**.
+  Organ veya yaşam tehdidi olan durumlarda (difüz alveolar kanama, hızlı ilerleyen glomerülonefrit) **plazmaferez**
+  eklenir. Nazal taşıyıcılık ve tekrarlayan sinüzitte **trimetoprim-sülfametoksazol** düşünülür; uzun
+  dönemde **ritüksimab** ile remisyon idamesi'
+klasik_komplikasyon: '**Difüz alveolar kanama** (acil durum), **terminal böbrek yetmezliği**, eyer-burun
+  deformitesi ve septum perforasyonu, subglottik stenoz, periferik nöropati. Tedavi döneminde **pnömosistis**
+  profilaksisi gerekir'
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-53
 - tus-2015-ilkbahar-ttbt-83

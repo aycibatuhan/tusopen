@@ -11,33 +11,19 @@ taksonomi:
   - kadin_dogum
   - kd_fetal_komplikasyonlar
   - kd_fk_cogul_gebelik
-tipik_hasta: Ovulasyon uyarıcı tedavi veya tüp bebek geçiren, ailesinde çoğul gebelik öyküsü olan; rahim
-  ölçüleri gebelik haftasından büyük, bulantı-yorgunluk gibi erken gebelik belirtileri ağırlaşmış, hızlı
-  kilo alan gebe
-patofizyoloji: 'İki yumurta tipi (dizigot) çoğul gebelik iki ayrı yumurtanın döllenmesidir; daima iki
-  plasenta iki zardır ve ovulasyon uyarıcı tedavilerle sıklığı artar. Tek yumurta tipi (monozygot) ise
-  tek döllenmiş yumurtanın erken bölünmesidir ve koryoniklik bölünme zamanını belirler: çok erken ayrılma
-  iki plasenta iki zar, blastokist evresindeki ayrılma tek plasenta iki zar, amniyon kesesi oluşumundan
-  sonraki ayrılma tek plasenta tek zar yapar; tek koryonlu gebelikte ikizler arası kan damarı anastomozları
-  transfüzyon sendromunun zemini olur'
+tipik_hasta: "**Ovulasyon uyarıcı** tedavi ya da **tüp bebek** geçiren, ailesinde çoğul gebelik öyküsü olan gebe; rahim ölçüleri **gebelik haftasından büyük**, bulantı-yorgunluk ağırlaşmış, hızlı kilo alan hasta"
+patofizyoloji: "**Dizigot** (iki yumurta) çoğul gebelik iki ayrı yumurtanın döllenmesidir; daima **iki plasenta iki zar**. **Monozygot** tipte koryonikliği **bölünme zamanı** belirler. Çok erken ayrılma **iki plasenta iki zar**; blastokist evresinde **tek plasenta iki zar**; amniyon kesesi oluşumundan sonraki ayrılma **tek plasenta tek zar**. Tek koryonlu gebelikte ikizler arası **damar anastomozları** transfüzyon sendromunun zemini olur"
 anahtar_bulgular:
-- Rahim ölçüleri gebelik haftasından büyük; erken gebelik belirtileri (bulantı, yorgunluk) belirgin
-- İlk üç ayda ultrasonda zar arasındaki kalın üçgen şerit (lambda bulgusu) iki koryonu, ince T şeklinde
-  zar birleşimi tek koryonu gösterir
-- HCG ve alfafetoprotein değerleri tekil gebeliğe göre yüksek
-- 'Tek koryonlu gebelikte ikiz transfüzyon sendromu: verici ikizde sıvı azlığı ve idrar kesesinin görünmemesi,
-  alan ikizde sıvı fazlalığı ve büyüklük; aradaki fark belirginleşir'
-- Anne tarafında gebelik şekeri, tansiyon yüksekliği, anemi ve hiperemezis riski artmış
+- "Rahim ölçüleri **gebelik haftasından büyük**; erken gebelik belirtileri (bulantı, yorgunluk) belirgin"
+- "**Lambda bulgusu** (zar arasındaki kalın üçgen şerit) **iki koryonu**, ince **T şeklinde zar birleşimi tek koryonu** gösterir"
+- "**hCG** ve **alfafetoprotein** değerleri tekil gebeliğe göre yüksek"
+- "**İkiz transfüzyon sendromu**: verici ikizde sıvı azlığı ve **idrar kesesinin görünmemesi**, alan ikizde sıvı fazlalığı ve büyüklük"
+- "Annede **gebelik şekeri, tansiyon yüksekliği, anemi ve hiperemezis** riski artmış"
 patognomonik: null
-ilk_tetkik: 'İlk üç ayda ultrason: fetüs sayısı, koryoniklik ve amniyoniklik belirlenir, lambda karşı
-  T bulgusu kaydedilir; takip aralığı koryonikliğe göre planlanır'
-kesin_tani: Ultrasonda iki fetüsün gösterilmesi; koryonikliğin ilk trimesterde saptanması tanının temel
-  parçasıdır çünkü risk gruplamasını ve doğum zamanını belirler
-ilk_tedavi: 'Daha sık izlem ve demir-folik asit desteği; tek koryonlu gebelikte iki haftada bir ultrasonla
-  sıvı ve büyüme dengesinin izlenmesi; doğum zamanı koryonikliğe göre: iki koryonlu gebelik 38. hafta,
-  tek koryonlu iki amniyonlu 36. haftaya yakın, tek amniyonlu 32-34. hafta civarı'
-klasik_komplikasyon: İkiz transfüzyon sendromu ve tek amniyonlu gebelikte kord dolanması; genel olarak
-  erken eylem, büyüme geriliği ve doğum sonrası rahim gevşemesiyle kanama
+ilk_tetkik: "**İlk üç ayda ultrason**: fetüs sayısı, **koryoniklik** ve amniyoniklik belirlenir. **Lambda** karşısı **T** bulgusu kaydedilir; takip aralığı koryonikliğe göre planlanır"
+kesin_tani: "**Ultrasonda iki fetüsün gösterilmesi**; koryonikliğin **ilk trimesterde** saptanması tanının temel parçasıdır çünkü risk gruplamasını ve doğum zamanını belirler"
+ilk_tedavi: "Daha sık izlem ve **demir-folik asit** desteği; tek koryonlu gebelikte **iki haftada bir ultrason** ile sıvı ve büyüme dengesinin izlenmesi. Doğum zamanı koryonikliğe göre: **iki koryonlu 38. hafta**, **tek koryonlu iki amniyonlu 36. hafta**, **tek amniyonlu 32-34. hafta**"
+klasik_komplikasyon: "**İkiz transfüzyon sendromu** ve tek amniyonlu gebelikte **kord dolanması**; genel olarak **erken eylem**, **büyüme geriliği** ve doğum sonrası rahim gevşemesiyle kanama"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-112
 - tus-2016-sonbahar-ktbt-110

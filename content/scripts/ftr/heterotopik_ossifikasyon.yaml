@@ -7,18 +7,18 @@ sources:
 ad: Heterotopik Ossifikasyon
 taksonomi:
   - [ktbt, ftr, ftr_metabolik_kemik, ftr_mk_heterotopik_ossifikasyon]
-tipik_hasta: "Şiddetli veya tam omurilik yaralanması, travmatik beyin hasarı geçirmiş ya da kalça protez ameliyatı olmuş hasta; olaydan haftalar sonra eklem çevresinde sertlik, ısı artışı ve giderek artan hareket kısıtlılığıyla dikkat çeker. Omurilik yaralanmasında uzuvda açıklanamayan ateşin sık nedenlerinden biridir; bulgular duyu kaybı nedeniyle hasta tarafından değil, ekibin muayenesiyle yakalanır"
-patofizyoloji: "Eklem çevresi yumuşak dokuda mezenkimal hücreler osteojenik yönde farklılaşır; BMP sinyali ve lokal enflamatuvar uyaran ektopik lamellar kemik oluşumunu başlatır. Oluşan doku gerçek kemiktir: korteksi ve kemik iliği görünümü vardır, bu özelliği onu pasif kalsifikasyondan ayırır. Kemik eklem kapsülü çevresinde ve kaslar içinde gelişir; eklem boşluğunu ve kıkırdağı doğrudan tutmaz"
+tipik_hasta: "**Şiddetli veya tam omurilik yaralanması**, **travmatik beyin hasarı** ya da **kalça protez** ameliyatı geçirmiş hasta; olaydan haftalar sonra eklem çevresinde **sertlik**, **ısı artışı** ve giderek artan **hareket kısıtlılığı**. Omurilik yaralanmasında uzuvda **açıklanamayan ateşin** sık nedeni; bulgular duyu kaybı nedeniyle ekibin muayenesiyle yakalanır"
+patofizyoloji: "Eklem çevresi yumuşak dokuda **mezenkimal hücreler** osteojenik yönde farklılaşır; **BMP** sinyali ve lokal enflamatuvar uyaran **ektopik lamellar kemik** oluşumunu başlatır. Oluşan doku **gerçek kemiktir**: **korteksi** ve **kemik iliği** görünümü vardır, bu özellik onu pasif **kalsifikasyondan** ayırır. Kemik eklem kapsülü çevresinde ve kaslar içinde gelişir; **eklem boşluğunu ve kıkırdağı** doğrudan tutmaz"
 anahtar_bulgular:
-  - "Travma veya protez cerrahisinden haftalar sonra eklem çevresinde sertlik, ısı artışı ve ödem; iltihap belirteçleri yükselebilir ve enfeksiyonla karışır"
-  - "Hareket açıklığında giderek artan kısıtlanma; kalçada uzuv addüksiyon ve iç rotasyon pozisyonuna çekilir"
-  - "Serum alkalen fosfataz yükselebilir; sedimantasyon ve CRP hafif artabilir"
-  - "Erken dönemde üç fazlı kemik sintigrafisinde artmış tutulum; düz radyografi genellikle iki-dört haftadan önce görüntü vermez"
-  - "Radyografide eklem çevresi yumuşak doku içinde korteksli kemikleşme; kemik iliği görünümünün varlığı gerçek kemikleşmeyi gösterir"
+  - "Travma veya protez cerrahisinden **haftalar sonra** eklem çevresinde **sertlik**, **ısı artışı**, ödem; **iltihap belirteçleri** yükselebilir, **enfeksiyonla** karışır"
+  - "**Hareket açıklığında** giderek artan kısıtlanma; kalçada uzuv **addüksiyon ve iç rotasyon** pozisyonuna çekilir"
+  - "Serum **alkalen fosfataz** yükselebilir; **sedimantasyon** ve **CRP** hafif artabilir"
+  - "Erken dönemde **üç fazlı kemik sintigrafisi**nde artmış tutulum; **düz radyografi** genellikle **iki-dört haftadan** önce görüntü vermez"
+  - "Radyografide eklem çevresi yumuşak doku içinde **korteksli kemikleşme**; **kemik iliği** görünümünün varlığı gerçek kemikleşmeyi gösterir"
 patognomonik: null
-ilk_tetkik: "Klinik şüpheyle üç fazlı kemik sintigrafisi (en erken verir) ve düz radyografi; laboratuvarda alkalen fosfataz takibi; enfeksiyon ve derin ven trombozu taklitleri mutlaka elenir"
-kesin_tani: "Radyografide eklem çevresi yumuşak doku içinde gerçek kemik dokusunun gösterilmesi; kalçada Brooker sınıflaması şiddeti ölçer: 1. sınıf yumuşak dokuda kemik adacıkları, 2. sınıf pelvis-proksimal femur çıkıntıları aralarında en az 1 cm mesafe, 3. sınıf mesafenin 1 cm altına inmesi, 4. sınıf görüntüsel ankiloz"
-ilk_tedavi: "Mantık profilakside yatar: oluşmuş kemiği eriten tedavi yoktur, amacın yeni oluşumu baskılamak olduğu bilinir. Yüksek riskli hastada (omurilik yaralanması, travmatik beyin hasarı, protez cerrahisi) NSAID (indometazin) verilir; etidronat mineralizasyonu geciktirir ama ilk basamak değildir; cerrahi sonrası radyoterapi de profilaktik seçenektir. Gelişmiş lezyonda ağrı kontrolü ve koruyucu fizik tedaviyle ulaşılabilir hareket açıklığı korunur; oturma veya yürüme gibi fonksiyon bozulduğunda olgunlaşan kemik eksize edilir, eksizyon için genellikle 12-18 ay bekleme ve sintigrafinin soğuması beklenir"
-klasik_komplikasyon: "Eklem ankilozu ve kontraktür; oturma dengesinin bozulması ve bası yarası; damar veya sinir sıkışması; kalçada eksizyon gerektiren fonksiyonel blok"
+ilk_tetkik: "Klinik şüpheyle **üç fazlı kemik sintigrafisi** (en erken verir) ve **düz radyografi**; laboratuvarda **alkalen fosfataz** takibi. **Enfeksiyon** ve **derin ven trombozu** taklitleri mutlaka elenir"
+kesin_tani: "Radyografide eklem çevresi yumuşak doku içinde **gerçek kemik dokusunun** gösterilmesi. Kalçada **Brooker sınıflaması**: **1. sınıf** yumuşak dokuda kemik adacıkları, **2. sınıf** pelvis-proksimal femur çıkıntıları arasında **en az 1 cm**; **3. sınıf** mesafenin 1 cm altı, **4. sınıf** **görüntüsel ankiloz**"
+ilk_tedavi: "Mantık **profilakside** yatar: oluşmuş kemiği eriten tedavi yoktur, amaç yeni oluşumu baskılamak. Yüksek riskli hastada (omurilik yaralanması, travmatik beyin hasarı, protez cerrahisi) **NSAİD (indometazin)** verilir, cerrahi sonrası **radyoterapi** de profilaktik seçenektir. **Etidronat** mineralizasyonu geciktirir ama ilk basamak değildir, gelişmiş lezyonda **ağrı kontrolü** ve **koruyucu fizik tedavi**yle ulaşılabilir hareket açıklığı korunur. Fonksiyon bozulduğunda olgunlaşan kemik **eksize edilir** — eksizyon için genellikle **12-18 ay** bekleme ve sintigrafinin **soğuması** beklenir"
+klasik_komplikasyon: "**Eklem ankilozu** ve **kontraktür**; **oturma dengesinin** bozulması ve **bası yarası**; **damar veya sinir sıkışması**; kalçada eksizyon gerektiren **fonksiyonel blok**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

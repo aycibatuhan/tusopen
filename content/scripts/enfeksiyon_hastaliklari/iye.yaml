@@ -15,30 +15,19 @@ taksonomi:
   - kadin_dogum
   - kd_gebelik_hastaliklari
   - kd_gh_bobrek_uriner
-tipik_hasta: Cinsel yönden aktif, yeni evli genç kadın (basit sistit); gebelikte asemptomatik bakteriüri
-  saptanan anne; ateşli ve üst bulgulu hastada piyelonefrit; kateterli, taşlı veya anatomik anomalili
-  hastada komplike İYE; erkekte İYE her zaman komplike kabul edilir
-patofizyoloji: Perineal flordan gelen E. coli başta olmak üzere Enterobacteriaceae üretrayı geçip mesaneye
-  ulaşır ve mesane mukozasına yapışarak sistit yapar. İdrar akımının bozulduğu durumlar (obstrüksiyon,
-  taş, reflü, kateter), gebelikte hormon etkisiyle genişleyen üreterler ve santral sinir sistemi bozukluklarındaki
-  eksik boşaltım, enfeksiyonun böbreğe yukarı çıkmasını (piyelonefrit) kolaylaştırır
+tipik_hasta: "Cinsel yönden aktif, **yeni evli genç kadın** (basit sistit); gebelikte **asemptomatik bakteriüri** saptanan anne; ateşli ve üst bulgulu hastada **piyelonefrit**. **Kateterli**, **taşlı** veya **anatomik anomalili** hastada **komplike İYE**; **erkekte İYE** her zaman **komplike** kabul edilir"
+patofizyoloji: "Perineal flordan gelen **E. coli** başta olmak üzere **Enterobacteriaceae** üretrayı geçip mesaneye ulaşır ve mukozasına yapışarak **sistit** yapar. **İdrar akımı**nın bozulduğu durumlar (**obstrüksiyon**, **taş**, **reflü**, **kateter**), gebelikte genişleyen **üreterler** ve eksik boşaltım böbreğe çıkışı (**piyelonefrit**) kolaylaştırır"
 anahtar_bulgular:
-- 'Basit sistit: dizüri, sıkışma, süprapubik ağrı; ateş ve sistemik bulgu yok'
-- 'Piyelonefrit: ateş, titreme, bulantı-kusma ve kostovertebral açı hassasiyeti'
-- İdrar analizinde lökosit esteraz ve nitrit pozitifliği; mikroskopide piyüri
-- İdrar kültüründe anlamlı üreme; gebelikte 12-16. haftada tek kültürle asemptomatik bakteriüri taraması
-- 'Erkekte İYE: prostatit ve ürolojik sorun ayrımı gerektiği için komplike sayılır'
+- "**Basit sistit**: **dizüri**, sıkışma, **süprapubik ağrı**; ateş ve sistemik bulgu yok"
+- "**Piyelonefrit**: ateş, titreme, bulantı-kusma ve **kostovertebral açı hassasiyeti**"
+- "İdrar analizinde **lökosit esteraz** ve **nitrit** pozitifliği; mikroskopide **piyüri**"
+- "İdrar kültüründe anlamlı üreme; gebelikte **12-16. hafta**da tek kültürle **asemptomatik bakteriüri** taraması"
+- "**Erkekte İYE**: **prostatit** ve ürolojik sorun ayrımı gerektiği için komplike sayılır"
 patognomonik: null
-ilk_tetkik: İdrar analizi ve idrar kültürü; basit sistitte kültür zorunlu olmayabilir, piyelonefrit, gebelik
-  ve komplike olgularda kültür şarttır; tekrarlayan olgularda ve ateşli erkekte görüntüleme
-kesin_tani: Semptomlarla uyumlu idrar kültürü üremesi; gebelikte asemptomatik bakteriüri ancak belirlenmiş
-  koloni sayısının üzerinde, iki ayrı örnekte üremeyle konur
-ilk_tedavi: Basit sistitte nitrofurantoin (beş gün) veya fosfomisin tek doz; florokinolon ve kotrimoksazol
-  yerel direnç nedeniyle ilk seçenek değildir. Piyelonefritte uygun hastada ağız yolundan siprofloksasin
-  gibi geniş etkinli ilaç, yatış gerektiren hastada damar yolundan seftriakson. Gebelikte nitrofurantoin
-  ve fosfomisin güvenli seçeneklerdir ve asemptomatik bakteriüri tedavi edilir (erken doğum riski)
-klasik_komplikasyon: Piyelonefrit, perinefrik abse, pionefroz ve sepsis; gebelikte erken doğum ve düşük
-  doğum ağırlığı
+ilk_tetkik: "**İdrar analizi** ve **idrar kültürü**; basit sistitte kültür zorunlu olmayabilir. **Piyelonefrit**, **gebelik** ve komplike olgularda kültür şarttır; tekrarlayan olgularda ve ateşli erkekte **görüntüleme**"
+kesin_tani: "Semptomlarla uyumlu **idrar kültürü** üremesi; gebelikte **asemptomatik bakteriüri** ancak belirlenmiş **koloni sayısı**nın üzerinde, **iki ayrı örnekte** üremeyle konur"
+ilk_tedavi: "Basit sistitte **nitrofurantoin** (**beş gün**) veya **fosfomisin** tek doz; **florokinolon** ve **kotrimoksazol** yerel direnç nedeniyle ilk seçenek değildir. **Piyelonefrit**te uygun hastada ağız yolundan **siprofloksasin** gibi geniş etkinli ilaç, yatış gerektiren hastada damardan **seftriakson**. Gebelikte **nitrofurantoin** ve **fosfomisin** güvenli seçeneklerdir ve **asemptomatik bakteriüri** tedavi edilir (**erken doğum** riski)"
+klasik_komplikasyon: "**Piyelonefrit**, **perinefrik abse**, **pionefroz** ve **sepsis**; gebelikte **erken doğum** ve **düşük doğum ağırlığı**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-4
 - tus-2014-sonbahar-ttbt-59

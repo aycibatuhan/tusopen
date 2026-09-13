@@ -11,33 +11,31 @@ taksonomi:
   - dahiliye
   - dah_alerji_immunoloji
   - dah_alj_anafilaksi
-tipik_hasta: Arı/vespas sokması, beta laktam antibiyotik, NSAİİ ya da fıstık-deniz ürünü gibi gıdalar
-  sonrası dakikalar içinde döküntü, boğazda sıkışma, hırıltı ve tansiyon düşüklüğüyle gelen hasta; beta
-  bloker kullanan; egzersize bağlı ya da idiyopatik tablo da olabilir
-patofizyoloji: 'IgE aracılı mast hücre ve bazofil degranülasyonu; histamin, triptaz, lökotrien ve prostaglandin
-  salınımı vasküler geçirgenliği ve vazodilatasyonu artırır (plazma sıvı kaybıyla hipovolemi), bronkospazm
-  ve laringeal ödem yapar. Non-IgE (anafılaktoit) yollar da aynı tabloya katılabilir: radyokontrast madde,
-  egzersiz, doğrudan mast hücre uyarımı'
+tipik_hasta: '**arı/vespas sokması**, **beta laktam** antibiyotik, **NSAİİ** ya da **fıstık-deniz ürünü**
+  gıdalar sonrası dakikalar içinde döküntü, boğaz sıkışması, hırıltı, tansiyon düşüklüğü; beta bloker
+  kullanan, egzersize bağlı ya da idiyopatik tablo da olabilir'
+patofizyoloji: '**IgE** aracılı mast hücre ve bazofil degranülasyonu. **Histamin**, triptaz ve lökotrien
+  salınımı vazodilatasyon, plazma sıvı kaybıyla hipovolemi, bronkospazm ve laringeal ödem yapar. Non-IgE
+  (anafılaktoit) yol da katılır: **radyokontrast madde**, egzersiz, doğrudan mast hücre uyarımı'
 anahtar_bulgular:
-- Maruziyetten dakikalar/saatler sonra ürtiker, anjiyoödem, yaygın kızarıklık
-- 'Solunum: stridor (laringeal ödem), hırıltı (bronkospazm), nefes darlığı'
-- 'Dolaşım: hipotansiyon, taşikardi, senkop'
-- İki veya daha fazla sistemin birlikte tutulumu (cilt + solunum + dolaşım + gastrointestinal)
-- 'Gastrointestinal: bulantı, kusma, karında kramp, ishal'
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Maruz kalma sonrası dakikalar içinde cilt, solunum ve dolaşım tutulumunun birlikte çıkması
-ilk_tetkik: Klinik tanı, tedavi asla tetkik bekletmez; imkân varsa serum triptaz (belirtilerin başlangıcından
-  30 dakika-3 saat arası alınır, 1-2 saatte pike ulaşır)
-kesin_tani: 'Klinik kriterler: ani başlangıçta cilt/mukoza bulgusu eşliğinde iki sistem tutulumu; ya da
-  bilinen alerjen maruziyeti sonrası hipotansiyon ya da solunum yetmezliği. Triptaz yükselmesi destekler
-  ama beklenmez'
-ilk_tedavi: Epinefrin 0,3-0,5 mg (1:1000 sulandırma) kas içi, anterolateral uyluğa HEMEN; 5-15 dakikada
-  düzelmezse tekrar; hasta sırtüstü, bacaklar yukarı (solunum sıkıntısı ağır olan oturur; aniden dikleştirmek
-  kalp doluşunu bozup ölümcül olur); kristaloid sıvı resusitasyonu; ikinci sırada antihistaminik ve steroid
-  (gidişi değiştirmez, yalnızca rahatlatır); dirençli tabloda epinefrin infüzyonu (yoğun bakımda), beta
-  bloker kullanan hastada glukagon; taburculukta epinefrin otoinjektör reçetesi ve alerjenden kaçınma
-  eğitimi
-klasik_komplikasyon: Bifazik reaksiyon (ilk 1-72 saat içinde tablonun geri dönmesi, bu nedenle en az 4-6
-  saat gözlem); kalıcı hipotansiyon ve beyin hipoksisi; laringeal ödemle hava yolu tıkanması; ölüm
+- 'Maruziyetten dakikalar/saatler sonra **ürtiker**, **anjiyoödem**, yaygın kızarıklık'
+- 'Solunum: **stridor** (laringeal ödem), hırıltı (bronkospazm), nefes darlığı'
+- 'Dolaşım: **hipotansiyon**, taşikardi, senkop'
+- '**Gastrointestinal**: bulantı, kusma, karında kramp, ishal'
+- '**İki veya daha fazla sistemin** birlikte tutulumu (cilt + solunum + dolaşım + gastrointestinal)'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — maruziyet sonrası dakikalar içinde **cilt,
+  solunum ve dolaşım tutulumunun birlikteliği**
+ilk_tetkik: 'Klinik tanı; tedavi asla tetkik bekletmez. İmkân varsa serum **triptaz** (belirtilerin başlangıcından
+  **30 dakika-3 saat** arası alınır, 1-2 saatte pike ulaşır)'
+kesin_tani: 'Klinik kriterler: ani başlangıçta **cilt/mukoza bulgusu** eşliğinde **iki sistem** tutulumu;
+  ya da bilinen alerjen maruziyeti sonrası **hipotansiyon** ya da solunum yetmezliği. **Triptaz** yükselmesi
+  destekler ama beklenmez'
+ilk_tedavi: '**Epinefrin 0,3-0,5 mg** (1:1000 sulandırma) kas içi, anterolateral uyluğa hemen, **5-15
+  dakikada** düzelmezse tekrar. Hasta sırtüstü, bacaklar yukarı; **kristaloid sıvı** resusitasyonu. Antihistaminik
+  ve steroid gidişi değiştirmez, yalnızca rahatlatır; dirençli tabloda **epinefrin infüzyonu**, beta bloker
+  kullananda **glukagon**. Taburculukta **epinefrin otoinjektör** reçetesi ve alerjenden kaçınma eğitimi'
+klasik_komplikasyon: '**Bifazik reaksiyon** (ilk **1-72 saat** içinde tablonun geri dönmesi; en az **4-6
+  saat** gözlem); laringeal ödemle hava yolu tıkanması; kalıcı hipotansiyon ve beyin hipoksisi'
 tus_gecmisi:
 - tus-2013-sonbahar-ttbt-63
 - tus-2015-sonbahar-ktbt-23

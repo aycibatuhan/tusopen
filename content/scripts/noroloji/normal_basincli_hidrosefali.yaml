@@ -11,32 +11,19 @@ taksonomi:
   - noroloji
   - noro_demans
   - noro_dm_normal_basincli
-tipik_hasta: Altmışlı yaşlardan itibaren yürüyüşü bozulmaya başlayan yaşlı hasta; demans ve idrar kaçırma
-  bulguları eklenirken beyin görüntülemesinde atrofiyi açıklayan bir neden bulunamaması. Kronik subdural
-  hematom, serebellar hastalık veya Parkinson hastalığı ile karıştırılmadan önce bu üçlü düşünülmelidir
-patofizyoloji: Beyin omurilik sıvısının subaraknoid boşluktan emilimindeki bozukluk ventriküllerin genişlemesine
-  yol açar; ancak lomber ponksiyonda ölçülen açılış basıncı aralığın üst sınırına yakın olsa da patolojik
-  yükseklik bildirmez. Genişleyen ventriküller, korteksin derinindeki beyaz maddeyi ve hareketi başlatan ve mesane kontrolünden sorumlu kortikospinal ve kortikopontin yolları gererek hasar verir; bu nedenle
-  en erken ve en belirgin bulgu kognitif değil yürüyüşle ilgilidir
+tipik_hasta: "**Altmışlı yaşlardan** itibaren **yürüyüşü bozulmaya başlayan** yaşlı hasta; **demans** ve **idrar kaçırma** eklenir. Görüntülemede **atrofiyi açıklayan neden** bulunamaz; **kronik subdural hematom**, **serebellar hastalık** veya **Parkinson** ile karıştırmadan önce **bu üçlü** düşünülmelidir"
+patofizyoloji: "**BOS'un subaraknoid boşluktan emilimindeki bozukluk** ventriküllerin genişlemesine yol açar; **lomber ponksiyon açılış basıncı** üst sınıra yakın olsa da **patolojik yüksek değildir**. Genişleyen ventriküller **korteksin derinindeki beyaz maddeyi** ve **kortikospinal-kortikopontin yolları** gererek hasar verir. Bu nedenle **en erken ve en belirgin bulgu kognitif değil yürüyüşle** ilgilidir"
 anahtar_bulgular:
-- 'Yürüyüş bozukluğu üçlünün en erken bulgusudur: adımlar kısa, taban geniş, ayaklar yere yapışmış gibi
-  kaldırılamaz; bu tablo manyetik yürüyüş olarak adlandırılır'
-- Üriner bozukluk önce gece sık idrara çıkmayla başlar, sonra zorunlu idrar hissi ve inkontinansa evrilir
-- 'Kognitif bulgular yürüyüşü takiben eklenir: psikomotor yavaşlama, dikkat ve işlem hızında azalma; kortikal
-  tip (afazi, apraksi) olgunun aksine subkortikal demans paterni'
-- MRG'de ventriküler genişleme kortikal sulkusların genişlemesiyle orantısızdır; Evans indeksi artar,
-  ventriküllerin altında yer alan beyaz maddede sinyal değişikliği görülür
-- Büyük hacimli lomber ponksiyon sonrasında yürüyüşte geçici düzelme (tap test pozitifliği) şant yanıtını
-  öngörmede değerli bulgudur
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Manyetik yürüyüş; ventriküler genişlemenin kortikal atrofiyle orantısız olması
-ilk_tetkik: Kontrastlı beyin MRG ile ventrikül boyutları, Evans indeksi ve akuedukt akış dinamikleri değerlendirilir;
-  lomber ponksiyon ile açılış basıncı ölçülür ve aynı seansta tahliye testi yapılır
-kesin_tani: Klinik üçlü ile uyumlu radyolojik ventriküler genişleme, normal açılış basıncı ve tahliye
-  testinde ölçülebilir yürüyüş düzelmesi; dış drenaj denemesine verilen yanıt da tanıyı destekler
-ilk_tedavi: Ventriküloperitoneal şant; aşırı drenajı önlemek için basınç ayarlanabilir valf tercih edilir.
-  Hasta seçiminde yürüyüşün kognitif bulgulardan önce başladığı, tap testi pozitif olgular öne alınır
-klasik_komplikasyon: Tedavi edilmeyen olguda yürüyüş kaybı ve inkontinans kalıcı hale gelir; şant sonrasında
-  aşırı drenaja bağlı subdural hematom ve ventriküllerin aşırı küçülmesi en önemli cerrahi risk
+- "**Yürüyüş bozukluğu üçlünün en erken bulgusu**: adımlar **kısa**, taban **geniş**, ayaklar **yere yapışmış gibi**; **manyetik yürüyüş**"
+- "**Üriner bozukluk** önce **gece sık idrara çıkmayla** başlar, sonra **zorunlu idrar hissi** ve **inkontinans**a evrilir"
+- "**Kognitif bulgular yürüyüşü takiben**: **psikomotor yavaşlama**, **dikkat ve işlem hızında azalma** — **subkortikal demans** paterni (kortikal tip **afazi-apraksi** aksine)"
+- "**MRG**: ventriküler genişleme **kortikal sulkuslarla orantısız**; **Evans indeksi artar**, ventrikül altı **beyaz maddede sinyal değişikliği**"
+- "**Büyük hacimli lomber ponksiyon** sonrası yürüyüşte **geçici düzelme (tap test pozitifliği)** **şant yanıtını** öngörür"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **manyetik yürüyüş**; ventriküler genişlemenin **kortikal atrofiyle orantısız** olması"
+ilk_tetkik: "**Kontrastlı beyin MRG** ile **ventrikül boyutları**, **Evans indeksi**, **akuedukt akış dinamikleri**; **Lomber ponksiyon** ile **açılış basıncı** ölçülür ve aynı seansta **tahliye testi** yapılır"
+kesin_tani: "**Klinik üçlü** + uyumlu **radyolojik ventriküler genişleme** + **normal açılış basıncı**; **Tahliye testinde ölçülebilir yürüyüş düzelmesi**; **dış drenaj** denemesine yanıt da tanıyı destekler"
+ilk_tedavi: "**Ventriküloperitoneal şant**; aşırı drenajı önlemek için **basınç ayarlanabilir valf**. Hasta seçiminde **yürüyüşün kognitif bulgulardan önce** başladığı, **tap testi pozitif** olgular öne alınır"
+klasik_komplikasyon: "Tedavisiz **yürüyüş kaybı** ve **inkontinans** kalıcı hale gelir. Şant sonrası **aşırı drenaja bağlı subdural hematom** ve ventriküllerin **aşırı küçülmesi** en önemli cerrahi risk"
 tus_gecmisi:
 - tus-2015-sonbahar-ktbt-34
 - tus-2020-sonbahar-ktbt-103

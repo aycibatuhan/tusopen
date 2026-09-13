@@ -16,39 +16,19 @@ taksonomi:
   - ftr
   - ftr_pediatrik_rehabilitasyon
   - ftr_pr_serebral_palsi
-tipik_hasta: Prematürite, düşük doğum ağırlığı, doğum sırasında oksijensizlik, kernikterus ya da erken
-  dönem menenjiti gibi yüksek riskli doğum öyküsü olan çocuk; annenin baş dik tutamama, dönme ve oturmadaki
-  gecikmeyi, çocukta aşırı sertlik ya da aşırı gevşeklik, hareketlerin asimetrikliğini tarif ederek getirdiği;
-  tek elini ısrarla kullanmaya başlamış (erken lateralite) bebek de şüphe uyandırır
-patofizyoloji: Gelişmekte olan beyinde doğum çevresinde ya da erken yaşamda ortaya çıkan, ilerlemeyen
-  ama kalıcı olan hareket ve postür bozukluğu; prematürelerde periventriküler beyaz cevher zarar görmesi
-  (periventriküler lökomalasi) bacakların önde tutulumunu (spastik dipleji) açıklar; tam doğum ağırlığındaki
-  çocukta perinatal asfiksi daha çok dört uzvu tutan spastik ve diskinetik tablo yapar; kernikterus bazal
-  ganglionları tutarak koreoatetoz üretir. Hasar sabittir ama ikincil kas kısalıkları, deformiteler ve
-  ortopedik sorunlar zamanla ilerler
+tipik_hasta: "**Prematürite**, **düşük doğum ağırlığı**, doğum sırasında **oksijensizlik**, **kernikterus** ya da erken dönem **menenjiti** gibi yüksek riskli doğum öyküsü. Annenin **baş dik tutamama**, dönme ve oturmada gecikme, **aşırı sertlik ya da aşırı gevşeklik**, hareketlerin **asimetrikliği** tarif etmesiyle getirilir; **Tek elini ısrarla kullanmaya başlamış** (erken lateralite) bebek de şüphe uyandırır"
+patofizyoloji: "Gelişmekte olan beyinde doğum çevresinde ya da erken yaşamda ortaya çıkan, **ilerlemeyen ama kalıcı hareket ve postür bozukluğu**. Prematürelerde **periventriküler lökomalasi** **bacakların önde tutulumunu (spastik dipleji)** açıklar; tam termde **perinatal asfiksi** dört uzvu tutan **spastik-diskinetik** tablo yapar; **Kernikterus** **bazal ganglionları** tutarak **koreoatetoz** üretir; hasar sabittir ama **ikincil kontraktürler, deformiteler** zamanla ilerler"
 anahtar_bulgular:
-- 'Motor gelişim basamaklarında gecikme: baş kontrolü, dönme, oturma ve emeklemenin yaşına uygun gelmemesi'
-- 'Anormal tonus: uzuvlarda dirençli katılık (spastisite), tendon reflekslerinde artış, patolojik refleksler
-  ya da istemsiz hareketler (diskinezi)'
-- 'İlkel reflekslerin kalıcı olması: Moro ve tonik boyun reflekslerinin normalde kaybolması gereken aylarda
-  sürmesi'
-- 'Tiplerin görünümü: prematürede bacak önde tutulumla makas gibi yürüyüş (spastik dipleji); tek taraflı
-  zayıflıkta elin hiç kullanılmaması ve erken el tercihi (hemipleji); dört uzuv tutulumu (kuadripleji);
-  kernikterus öyküsüyle istemsiz hareketler (diskinetik)'
-- Yemleme ve yutma güçlüğü, aşırı salya, konuşma gecikmesi; epilepsi ve görme sorunlarının sık eşlik etmesi
+- "**Motor gelişim gecikmesi**: baş kontrolü, dönme, oturma ve emeklemenin yaşına uygun gelmemesi"
+- "**Anormal tonus**: uzuvlarda dirençli katılık (**spastisite**), **tendon reflekslerinde artış**, **patolojik refleksler** ya da istemsiz hareketler (**diskinezi**)"
+- "**İlkel reflekslerin kalıcı olması**: **Moro** ve **tonik boyun refleksleri**nin normalde kaybolması gereken aylarda sürmesi"
+- "**Tipler**: prematürede bacak önde tutulumla **makas gibi yürüyüş (spastik dipleji)**; tek taraflı zayıflıkta **erken el tercihi (hemipleji)**; **Dört uzuv** tutulumu (**kuadripleji**); **kernikterus** öyküsüyle istemsiz hareketler (**diskinetik**)"
+- "**Yemleme ve yutma güçlüğü**, aşırı salya, **konuşma gecikmesi**; **epilepsi** ve **görme sorunları** sık eşlik eder"
 patognomonik: null
-ilk_tetkik: Detaylı doğum öyküsü, gelişimsel tarama ve nörolojik-motor muayene; beyin MRG tanıyı destekler
-  — prematürelerde periventriküler lökomalasi, asfiksik tabloda piramidal yol ve bazal ganglion değişiklikleri
-kesin_tani: 'Klinik tanı: doğum çevresinde gelişen, ilerlemeyen, kalıcı hareket ve postür bozukluğunun
-  gelişim öyküsü ve muayeneyle belgelenmesi; MRG görüntüleme eşlik eder, metabolik-genetik araştırma beklenmeyen
-  tablo ya da aile öyküsünde eksi nedeni dışlamak için yapılır'
-ilk_tedavi: 'Erken dönemden itibaren multidisipliner rehabilitasyon: fizik tedavi ve ergoterapi, ortez
-  kullanımı; spastisite yönetiminde botulinum toksin enjeksiyonları, oral baklofen, dirençli olgularda
-  intratekal baklofen pompası ve seçici dorsal rizotomi; kontraktür, kalça çıkığı ve skolyoz için ortopedik
-  müdahaleler; beslenme ve konuşma terapisi; eşlik eden epilepsinin tedavisi'
-klasik_komplikasyon: Kalça çıkığı ve skolyoz gibi ortopedik deformiteler; kas kısalıkları (kontraktürler);
-  yemleme güçlüğüne bağlı beslenme bozukluğu ve aspirasyon riski; epilepsi; ağız ve çene kontrolü sorunlarına
-  bağlı diş sorunları; sosyal ve eğitim zorlukları
+ilk_tetkik: "**Detaylı doğum öyküsü**, **gelişimsel tarama** ve **nörolojik-motor muayene**; **beyin MRG** tanıyı destekler. Prematürelerde **periventriküler lökomalasi**, asfiksik tabloda **piramidal yol** ve **bazal ganglion** değişiklikleri"
+kesin_tani: "**Klinik tanı**: doğum çevresinde gelişen, **ilerlemeyen**, **kalıcı hareket ve postür bozukluğu**nun gelişim öyküsü ve muayeneyle belgelenmesi; **MRG** eşlik eder; **Metabolik-genetik araştırma** beklenmeyen tablo ya da aile öyküsünde **eksi nedeni** dışlamak için"
+ilk_tedavi: "Erken dönemden itibaren **multidisipliner rehabilitasyon**: **fizik tedavi**, **ergoterapi**, **ortez** kullanımı; **Spastisite yönetimi**: **botulinum toksin** enjeksiyonları, oral **baklofen**, dirençli olgularda **intratekal baklofen pompası** ve **seçici dorsal rizotomi**; **Kontraktür**, **kalça çıkığı** ve **skolyoz** için ortopedik müdahaleler; **beslenme-konuşma terapisi**; eşlik eden **epilepsinin tedavisi**"
+klasik_komplikasyon: "**Kalça çıkığı** ve **skolyoz** gibi ortopedik deformiteler; kas kısalıkları (**kontraktürler**); **Yemleme güçlüğü**ne bağlı **beslenme bozukluğu** ve **aspirasyon** riski; **epilepsi**; ağız-çene kontrol sorunlarına bağlı **diş sorunları**; **sosyal ve eğitim zorlukları**"
 tus_gecmisi:
 - tus-2019-ilkbahar-ktbt-70
 - tus-2019-sonbahar-ktbt-69

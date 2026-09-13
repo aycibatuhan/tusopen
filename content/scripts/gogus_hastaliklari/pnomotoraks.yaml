@@ -11,34 +11,40 @@ taksonomi:
   - gogus_hastaliklari
   - gog_plevra
   - gog_pl_pnomotoraks
-tipik_hasta: Uzun boylu, zayıf yapılı genç erkekte (primer spontan) ani başlayan tek taraflı batıcı göğüs
-  ağrısı ve nefes darlığı; KOAH, amfizem ya da tüberküloz gibi altta yatan akciğer hastalığı olan yaşlı
-  hastada (sekonder spontan) aynı tablo çok daha ağır seyreder; göğüs travması ve santral kateter takılması
-  ya da mekanik ventilasyon gibi iatrojenik durumlarda da görülür
-patofizyoloji: Visseral plevranın bütünlüğünün bozulmasıyla alveoler havanın plevral aralığa sızması;
-  plevral aralığın negatif basıncı kaybolur, akciğer kendi elastik geri çekilmesiyle çöker ve o bölge
-  ventile edilemez. Spontan formda suçlu genellikle subplevral bülün rüptürüdür; her solunumda hava girmeye
-  devam eder ve çıkış yolu bulamazsa plevral basınç hızla yükselerek tansiyon pnömotoraksı tablosuna döner
+tipik_hasta: "**Uzun boylu, zayıf yapılı genç erkekte** (primer spontan) **ani başlayan tek taraflı batıcı
+  göğüs ağrısı** ve **nefes darlığı**. **KOAH**, **amfizem** ya da **tüberküloz** gibi altta yatan
+  akciğer hastalığı olan yaşlı hastada (sekonder spontan) aynı tablo **çok daha ağır** seyreder. **Göğüs
+  travması** ve **santral kateter** takılması ya da **mekanik ventilasyon** gibi **iatrojenik**
+  durumlarda da görülür"
+patofizyoloji: "**Visseral plevranın** bütünlüğünün bozulmasıyla **alveoler hava** plevral aralığa
+  sızması; **negatif basınç** kaybolur, akciğer kendi **elastik geri çekilmesi**yle çöker ve o bölge
+  ventile edilemez. Spontan formda suçlu genellikle **subplevral bülün rüptürü**dür. Her solunumda hava
+  girmeye devam eder ve çıkış yolu bulamazsa plevral basınç hızla yükselerek **tansiyon pnömotoraksı**
+  tablosuna döner"
 anahtar_bulgular:
-- Tek taraflı azalmış ya da kaybolmuş solunum sesi ve timpanik (hipersonor) perküsyon
-- Ani başlayan tek taraflı göğüs ağrısı ve nefes darlığı; genç hastada bulgular hafif kalabilir, KOAH
-  hastasında çok ağır seyreder
-- Toraks grafisinde plevral çizginin (akciğer kenarının) görünmesi ve çizgi dışında vasküler dokunun silinmesi
-- Tansiyon pnömotoraksında trakeanın sağlam tarafa kayması, boyun venlerinde dolgunluk, hipotansiyon ve
-  hızla derinleşen solunum yetmezliği
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Tansiyon pnömotoraksı kliniği: tek tarafta solunum sesi kaybıyla birlikte dolgun boyun
-  venleri, hipotansiyon ve trakeanın karşı tarafa itilmesi; grafik beklemeden müdahale gerektirir'
-ilk_tetkik: Ayakta inspiratuvar PA toraks grafisi (BTS ekspiryum grafisi önermez); hemodinamisi bozuk hastada görüntüleme
-  beklenmeden tanı ve müdahale; yatak başında ultrasonda akciğerin kayma (gliding) hareketinin kaybolması
-  hızlı ipucu verir
-kesin_tani: Toraks grafisinde plevral çizginin (akciğer kenar çizgisinin) görünmesi; boyut, çizginin hilum
-  düzeyinden göğüs duvarına uzaklığıyla ölçülür ve iki santimetreyi aşan hava boşluğu büyük kabul edilir.
-  Gerekirse bilgisayarlı tomografi tanıyı netleştirir
-ilk_tedavi: Solunumu rahat küçük primer spontan olguda gözlem ve oksijen, nefes darlığı varsa iğne aspirasyonu;
-  büyük, semptomatik ya da sekonder olguda ince göğüs kateteri ya da tüp drenajı; tansiyon pnömotoraksında
-  derhal ATLS 10. baskıya göre beşinci interkostal aralıktan ön koltuk altı hattı (safe triangle) üzerinden iğne dekompresyonu ve ardından tüp drenajı
-klasik_komplikasyon: Tansiyon pnömotoraksına ilerleme ve kardiyak arrest; hızlı genişlemeyi izleyen reekspansiyon
-  pulmoner ödemi; süren hava kaçağında bronkoplevral fistül ve tekrarlayıcı pnömotoraks
+- "**Tek taraflı azalmış ya da kaybolmuş solunum sesi** ve **timpanik (hipersonor) perküsyon**"
+- "**Ani başlayan tek taraflı göğüs ağrısı** ve **nefes darlığı**; genç hastada bulgular hafif kalabilir,
+  **KOAH** hastasında çok ağır seyreder"
+- "Toraks grafisinde **plevral çizginin (akciğer kenarının) görünmesi** ve çizgi dışında **vasküler
+  dokunun silinmesi**"
+- "**Tansiyon pnömotoraksı**nda **trakeanın sağlam tarafa kayması**, **boyun venlerinde dolgunluk**,
+  **hipotansiyon** ve hızla derinleşen **solunum yetmezliği**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **tansiyon pnömotoraksı** kliniği: **solunum
+  sesi kaybı**yla birlikte **dolgun boyun venleri**, **hipotansiyon** ve **trakeanın karşı tarafa
+  itilmesi**; grafik beklemeden müdahale gerektirir"
+ilk_tetkik: "Ayakta **inspiratuvar PA toraks grafisi** (**BTS** ekspiryum grafisini önermez). Hemodinamisi
+  bozuk hastada görüntüleme **beklenmeden** tanı ve müdahale. Yatak başı **ultrason**da akciğerin
+  **gliding** hareketinin kaybolması hızlı ipucu verir"
+kesin_tani: "Toraks grafisinde **plevral çizgi**nin (akciğer kenar çizgisinin) görünmesi; boyut, çizginin
+  hilum düzeyinden göğüs duvarına uzaklığıyla ölçülür. **İki santimetreyi aşan** hava boşluğu **büyük**
+  kabul edilir. Gerekirse **bilgisayarlı tomografi** tanıyı netleştirir"
+ilk_tedavi: "**Solunumu rahat küçük primer spontan** olguda **gözlem ve oksijen**; nefes darlığı varsa
+  **iğne aspirasyonu**. **Büyük, semptomatik ya da sekonder** olguda **ince göğüs kateteri** ya da **tüp
+  drenajı**. **Tansiyon pnömotoraksı**nda derhal **beşinci interkostal aralıktan ön koltuk altı hattı
+  (safe triangle)** üzerinden **iğne dekompresyonu** (**ATLS**), ardından **tüp drenajı**"
+klasik_komplikasyon: "**Tansiyon pnömotoraksı**na ilerleme ve **kardiyak arrest**. Hızlı genişlemeyi
+  izleyen **reekspansiyon pulmoner ödemi**; süren hava kaçağında **bronkoplevral fistül** ve
+  **tekrarlayıcı pnömotoraks**"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-51
 - tus-2015-ilkbahar-ktbt-6

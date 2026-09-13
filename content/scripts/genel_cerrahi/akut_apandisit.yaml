@@ -19,33 +19,17 @@ taksonomi:
   - pediatri
   - ped_gastroenteroloji
   - ped_gis_karin_agrisi
-tipik_hasta: En sık çocuk ve genç erişkin (10-30 yaş); iştahsızlıkla başlayıp göbek çevresinden sağ alt
-  kadrana yerleşen ağrıyla gelen hasta. Küçük çocuk ve yaşlıda tablo siliktir, geç başvuru ve perforasyon
-  riski bu iki uçta yüksektir; gebelikte uterusa bağlı yükselme ağrı yerleşimini değiştirebilir
-patofizyoloji: Appendiks lümeninin fekalit ya da çocuklarda sık olarak lenfoid hiperplazi ile tıkanması;
-  salgı birikir, intralüminal basınç yükselir, mukoza bütünlüğü bozulur ve bakteriyel iltihap tüm duvara
-  yayılır. Ağrı önce visceral afferentlerle (T10) göbek çevresinde belirsiz olarak hissedilir, iltihap
-  parietal peritoneuma ulaşınca noktasal, yerleşik ve hareketle artan hale gelir
+tipik_hasta: "En sık çocuk ve genç erişkin (**10-30 yaş**); iştahsızlıkla başlayıp göbek çevresinden sağ alt kadrana yerleşen ağrıyla gelen hasta; küçük çocuk ve yaşlıda tablo siliktir: geç başvuru ve **perforasyon** riski bu iki uçta yüksektir; gebelikte uterusa bağlı yükselme ağrı yerleşimini değiştirir"
+patofizyoloji: "Appendiks lümeni **fekalit** ya da çocuklarda sık olarak **lenfoid hiperplazi** ile tıkanır; salgı birikir, intralüminal basınç yükselir, mukoza bütünlüğü bozulur ve bakteriyel iltihap tüm duvara yayılır. Ağrı önce visceral afferentlerle (**T10**) göbek çevresinde belirsizdir; iltihap **parietal peritoneuma** ulaşınca noktasal, yerleşik ve hareketle artan hale gelir"
 anahtar_bulgular:
-- İştahsızlık, bulantı-kusma ve ağrının periumbikalden sağ alt kadrana göçü (iştahsızlık ağrıdan önce
-  gelir)
-- McBurney noktasında noktasal hassasiyet, rebound ve defans
-- Rovsing, psoas ve obturator bulguları
-- Hafif ateş; lökositoz, nötrofil kayması ve CRP artışı
-- İdrar tetkikinde patoloji yokluğu (üreter taşı ve üriner infeksiyonla karışabilir)
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Ağrının periumbikalden McBurney noktasına göçü; tek başına kesin kanıt değildir ancak iştahsızlıkla
-  birlikte tabloyu tipikleştirir
-ilk_tetkik: Lökosit, CRP ve idrar tetkiki; görüntülemede ilk basamak batın USG (çocuk, gebe ve genç kadında
-  tercih edilir), klinik şüphe sürerse kontrastlı batın BT
-kesin_tani: Tipik klinik ve laboratuvar bulgularıyla klinik tanı; Alvarado (MANTRELS) skoru karar desteği
-  sağlar (yüksek skor tanıyı güçlendirir, düşük skor dışlamaya yardım eder). Şüpheli olgularda USG/BT'de
-  dilate, sıkışmayan, çevresinde iltihabi değişiklik olan apendiks tanıyı doğrular
-ilk_tedavi: Empirik antibiyotik eşliğinde apendektomi, tercihen laparoskopik; tanıdan opere edilene kadar
-  ve semptom başlangıcından itibaren ilk 36-48 saat içinde cerrahi hedeflenir, bu süreden sonra perforasyon
-  riski belirgin artar. Komplikasyonsuz ve seçili olgularda antibiyotikle nonoperatif tedavi bir seçenektir;
-  abse/flegmon tablosunda drenaj ve antibiyotik öne çıkar
-klasik_komplikasyon: 'Perforasyon (özellikle 48-72 saatten sonra, en sık küçük çocuk ve yaşlıda): lokalize
-  veya yaygın peritonit, apendiks çevresi abse/flegmon; nadiren portal ven septik trombozu (pilyeflebit)'
+- "İştahsızlık, bulantı-kusma; ağrının **periumbikalden sağ alt kadrana göçü** (iştahsızlık ağrıdan önce gelir)"
+- "**McBurney noktasında** noktasal hassasiyet, rebound ve defans; **Rovsing**, **psoas** ve **obturator** bulguları"
+- "Hafif ateş; lökositoz, **nötrofil kayması** ve CRP artışı; idrar tetkikinde patoloji yokluğu (üreter taşı ve üriner infeksiyonla karışabilir)"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — ağrının **periumbikalden McBurney noktasına göçü**; tek başına kesin kanıt değildir, iştahsızlıkla birlikte tabloyu tipikleştirir"
+ilk_tetkik: "**Lökosit**, CRP ve idrar tetkiki; görüntülemede ilk basamak **batın USG** (çocuk, gebe ve genç kadında tercih edilir), klinik şüphe sürerse **kontrastlı batın BT**"
+kesin_tani: "Tipik klinik ve laboratuvar bulgularıyla klinik tanı; **Alvarado (MANTRELS) skoru** karar desteği sağlar (yüksek skor tanıyı güçlendirir, düşük skor dışlamaya yardım eder); şüpheli olgularda USG/BT'de **dilate, sıkışmayan**, çevresinde iltihabi değişiklik olan apendiks tanıyı doğrular"
+ilk_tedavi: "Empirik antibiyotik eşliğinde **apendektomi**, tercihen **laparoskopik**; semptom başlangıcından itibaren ilk **36-48 saat içinde** cerrahi hedeflenir, bu süreden sonra **perforasyon riski** belirgin artar; komplikasyonsuz ve seçili olgularda **antibiyotikle nonoperatif tedavi** bir seçenektir; **abse/flegmon** tablosunda drenaj ve antibiyotik öne çıkar"
+klasik_komplikasyon: "**Perforasyon** (özellikle **48-72 saatten sonra**, en sık küçük çocuk ve yaşlıda): lokalize veya yaygın **peritonit**, apendiks çevresi **abse/flegmon**; nadiren portal ven septik trombozu (**pilyeflebit**)"
 tus_gecmisi:
 - tus-2015-ilkbahar-ktbt-97
 - tus-2016-ilkbahar-ktbt-95

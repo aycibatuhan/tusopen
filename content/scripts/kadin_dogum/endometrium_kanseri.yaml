@@ -11,38 +11,25 @@ taksonomi:
   - kadin_dogum
   - kd_jinekolojik_onkoloji
   - kd_jo_endometrium_kanseri
-tipik_hasta: Postmenopozal, obez, hipertansiyon ve diyabeti olan, geç menopoza girmiş veya östrojen maruziyeti
-  olan (tek başına östrojen tedavisi, tamoksifen, anovulasyon-polikistik ovaryum öyküsü) kadındır; öyküsünde
-  kendini belli eden tek bulgu postmenopozal vajinal kanamadır; ailesinde Lynch sendromu ya da kolon kanseri
-  olabilir
-patofizyoloji: Progesteron antagonizması olmadan süren östrojen etkisi endometriyumu hiperplaziye ve endometrioid
-  tip karsinoma (tip 1, en sık) götürür; obesite bu yolu aromataz aracılı yağ dokusu östrojen üretimiyle
-  besler. Östrojenden bağımsız, p53 mutasyonlu seröz ve berrak hücreli tipler (tip 2) daha agresiftir; yayılım
-  önce myometriyum derinliğine, sonra serviks, adneksler ve pelvik-lenfatik yollara olur
+tipik_hasta: "**Postmenopozal, obez**, hipertansiyon ve diyabeti olan, **geç menopoza** girmiş veya **östrojen maruziyeti** olan (**tek başına östrojen tedavisi, tamoksifen**, anovulasyon-**PCOS** öyküsü) kadın; öyküsünde tek bulgu **postmenopozal vajinal kanama**dır; ailesinde **Lynch sendromu** ya da kolon kanseri olabilir"
+patofizyoloji: "Progesteron antagonizması olmadan süren **östrojen** etkisi endometriyumu **hiperplaziye** ve **endometrioid** tip karsinoma (**tip 1**, en sık) götürür; **obezite** bu yolu **aromataz** aracılı yağ dokusu östrojen üretimiyle besler. Östrojenden bağımsız **p53** mutasyonlu **seröz** ve **berrak hücreli** tipler (**tip 2**) daha agresiftir. Yayılım önce **myometriyum derinliğine**, sonra serviks, adneksler ve **pelvik-lenfatik** yollara olur"
 anahtar_bulgular:
-- 'Postmenopozal vajinal kanama: en sık ve en erken başvuru, çoğu hasta bu yüzden erken yakalanır'
-- Premenopozal kadında aşırı, düzensiz uterin kanama veya perimenopozal düzensizlik
-- Transvajinal USG'de postmenopozal hastada kalın endometriyum (genellikle 4 mm üzerinde şüpheli kabul
-  edilir)
-- Pap smearde nadiren rastlantısal görülen endometriyal hücreler veya atipik glandüler hücreler
-- İleri evrede uterus genişlemesi, pelvik ağrı ve serviksten kanlı/kötü kokulu akıntı
+- "**Postmenopozal vajinal kanama**: en sık ve en erken başvuru, çoğu hasta bu yüzden erken yakalanır"
+- "**Premenopozal** dönemde **aşırı, düzensiz uterin kanama** veya perimenopozal düzensizlik"
+- "Transvajinal USG'de postmenopozal hastada **kalın endometriyum** — genellikle **4 mm üzeri** şüpheli kabul edilir"
+- "Pap smearde nadiren rastlantısal görülen **endometriyal hücreler** veya **atipik glandüler hücreler**"
+- "İleri evrede uterus genişlemesi, pelvik ağrı ve serviksten **kanlı, kötü kokulu akıntı**"
 patognomonik: null
-ilk_tetkik: Postmenopozal kanamada transvajinal USG ile endometriyum kalınlığının ölçülmesi ve endometriyal
-  biyopsi; biyopsi non-diagnostik ya da negatifken şüphe sürüyorsa histeroskopi yönlendirmeli biyopsi
-kesin_tani: Endometriyal biyopsi ya da dilatasyon küretaj örneğinin histopatolojisi; derecelendirme ve
-  myometriyal invazyon derinliği cerrahi patoloji ile tamamlanır
-ilk_tedavi: 'Ameliyat edilebilir hastada temel tedavi: total histerektomi ve bilateral salpingo-ooferektomi,
-  evreye göre pelvik-paraaortik lenf nodu değerlendirmesi; yüksek riskli evrelerde adjuvan radyoterapi
-  veya kemoterapi; ameliyata uygun olmayan ya da fertilitenin korunması istendiği iyi diferansiye, myometriyal
-  invazyonsuz olgularda progestin tedavi; hormon reseptör pozitif tekrarlayan hastada hormonal ajanlar'
-klasik_komplikasyon: İleri evrede myometriyum dışına yayılım, serviks ve adneksial tutulum, lenf nodu
-  ve uzak metastaz; tekrarlayan kanamaya bağlı anemi; tedavisizde lokal invazyon ve obstrüktif tablolar
+ilk_tetkik: "Postmenopozal kanamada **transvajinal USG** ile endometriyum kalınlığının ölçülmesi ve **endometrial biyopsi**. Biyopsi non-diagnostik ya da negatifken şüphe sürüyorsa **histeroskopi yönlendirmeli biyopsi**"
+kesin_tani: "**Endometrial biyopsi** ya da **dilatasyon küretaj** örneğinin histopatolojisi; derecelendirme ve **myometriyal invazyon** derinliği cerrahi patoloji ile tamamlanır"
+ilk_tedavi: "Ameliyat edilebilir hastada temel tedavi: **total histerektomi + bilateral salpingo-ooferektomi**, evreye göre **pelvik-paraaortik lenf nodu** değerlendirmesi. Yüksek riskli evrelerde **adjuvan radyoterapi** veya **kemoterapi**. Ameliyata uygun olmayan ya da fertilitenin korunduğu iyi diferansiye, myometriyal invazyonsuz olgularda **progestin** tedavi; hormon reseptör pozitif tekrarlayan hastada **hormonal ajanlar**"
+klasik_komplikasyon: "İleri evrede **myometriyum dışına yayılım**, serviks ve adneksial tutulum, **lenf nodu** ve uzak metastaz; tekrarlayan kanamaya bağlı **anemi**; tedavisizde lokal invazyon ve obstrüktif tablolar"
 tus_gecmisi:
 - tus-2014-sonbahar-ttbt-92
 - tus-2017-ilkbahar-ttbt-81
 - tus-2017-sonbahar-ktbt-117
 - tus-2018-ilkbahar-ktbt-117
-- tus-2018-ilkbahar-ttbt-86
+- tus-2018-ilkbahar-ktbt-86
 - tus-2020-sonbahar-ktbt-119
 kart_uret:
   bilgi: true

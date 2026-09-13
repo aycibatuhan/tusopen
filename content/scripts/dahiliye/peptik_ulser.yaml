@@ -12,65 +12,49 @@ taksonomi:
   - dahiliye
   - dah_gastroenteroloji
   - dah_gis_peptik_ulser
-tipik_hasta: Orta yaşta haftalardır süren, tekrarlayan epigastrik ağrıyla gelen erişkin; ağrı
-  açlıkta ve gecede artıp yemek ya da antasidle yatışan düzende duodenal ülser, yemekle
-  artan ağrı ve kilo kaybı ise gastrik ülser düşündürür; sigara içen, ailesinde ülser öyküsü
-  olan ve özellikle aspirin ya da NSAID kullanan hastalarda risk belirgin yükselir; melena,
-  hematemez ya da ani yaygın karın ağrısıyla komplikasyon tablosunda da başvurabilir
-patofizyoloji: Mukoza bütünlüğü saldırı (asit ve pepsin) ile savunma (mukus-bikarbonat
-  bariyeri, mukozal kan akımı, prostaglandinler, epitel onarımı) arasındaki dengeyle korunur;
-  Helicobacter pylori antrumda kolonize olur, ürez aktivitesiyle ürettiği amonyakla asitten
-  kaçar ve kronik aktif gastrit yapar; antral gastrit somatostatin salgılayan D hücrelerini
-  baskılayınca gastrin yükselir, asit sekresyonu artar ve bu asit yükü duodenal mukozada
-  gastrik metaplazi üzerinden duodenal ülser zemini hazırlar; korpus tutulumu ise atrofik
-  gastrit ve intestinal metaplaziye giderek gastrik ülser ve mide kanseri riskini yükseltir.
-  NSAIDler COX-1 inhibisyonuyla prostaglandin sentezini azaltır; mukus ve bikarbonat
-  üretimi, mukozal kan akımı ve epitel yenilenmesi bozulur, savunma çökünce asit-pepsin
-  mukozayı eritir; iki etkenin bir arada bulunması kanama riskini altı kattan fazla artırır
+tipik_hasta: 'Orta yaşta haftalardır süren, tekrarlayan **epigastrik ağrı**yla gelen erişkin. **Açlıkta
+  ve gecede artıp yemek ya da antasidle yatışan** düzen **duodenal ülser**i düşündürür; **yemekle artan**
+  ağrı ve kilo kaybı **gastrik ülser**e işaret eder. **Sigara**, aile ülser öyküsü ve özellikle **aspirin
+  ya da NSAID** kullanımı riski belirgin yükseltir; **melena**, **hematemez** veya ani yaygın karın ağrısıyla
+  komplikasyon tablosunda da başvurabilir'
+patofizyoloji: 'Mukoza bütünlüğü **saldırı (asit ve pepsin)** ile **savunma (mukus-bikarbonat bariyeri,
+  mukozal kan akımı, prostaglandinler)** dengesiyle korunur. **Helicobacter pylori** antrumda kolonize olur;
+  **ürez** aktivitesiyle ürettiği amonyakla asitten kaçar, kronik aktif **gastrit** yapar. Antral gastrit
+  **D hücrelerini** baskılayınca **gastrin** yükselir, asit artar; korpus tutulumu **atrofik gastrit** ve
+  **mide kanseri** riskine götürür. **NSAID** COX-1 inhibisyonuyla **prostaglandin** sentezini azaltır,
+  savunma çöker; iki etkenin bir arada bulunması kanama riskini **altı kattan fazla** artırır'
 anahtar_bulgular:
-- Epigastriyumda kazıyıcı ya da yakan nitelikte tekrarlayan ağrı; duodenal ülsere özgü
-  olarak açlıkta ve gecede artar, yemek ya da antasidle yatışır
-- Gastrik ülserde ağrı yemekle artar; iştahsızlık, erken doyma ve kilo kaybı eşlik edebilir
-- Aspirin ya da NSAID kullanımı, sigara içimi ve birinci derece akrabada ülser öyküsü
-  başlıca risk etmenleridir
-- Noninvaziv H. pylori testlerinde pozitiflik; üre nefes testi ve dışkı antijen testi
-  hem tanıda hem iyileşme değerlendirmesinde kullanılır, seroloji ise eski enfeksiyonla
-  aktif enfeksiyonu ayırt edemez
-- Üst endoskopide derinliği olan, keskin kenarlı, düz tabanlı yuvarlak mukoza defekti;
-  gastrik ülserde malignite dışlamak için kenar ve tabandan biyopsi alınır
-- Kronik kanama izleri olarak demir eksikliği anemisi ve pozitif gaita gizli kanı
-- Komplikasyon tabloları — melena ya da hematemez ile kanama, ani yaygın tahta gibi
-  sert karın ve diafragma altında serbest hava ile perforasyon, bol kusma ile gastrik
-  çıkış obstrüksiyonu
-patognomonik: Peptik ülsere özgü bir laboratuvar bulgusu yoktur; hastalığı tanımlayan bulgu
-  üst endoskopide derinliği olan, keskin kenarlı ülser defektinin doğrudan görülmesidir
-ilk_tetkik: Altmış yaş altında alarm bulgusu olmayan dispepside önce noninvaziv H. pylori
-  testi (üre nefes testi ya da dışkı antijeni) ile test ve tedavi stratejisi; tam kan sayımı
-  ile anemi taraması; alarm bulguları (ileri yaşta yeni başlayan dispepsi, kilo kaybı,
-  gastrointestinal kanama, disfagi, tekrarlayan kusma, demir eksikliği anemisi, palpe
-  edilebilir kitle) saptanırsa ya da NSAID kullanımı söz konusuysa doğrudan üst endoskopi
-kesin_tani: Üst endoskopide ülserin görülmesi ve H. pylori varlığının üre nefes testi,
-  dışkı antijen testi ya da biyopsi hızlı ürez yöntemiyle gösterilmesi; gastrik ülserde
-  malignite dışlanması için biyopsi zorunludur. İşlevsel dispepsi ve gastroözofageal reflü
-  benzer sunum yapar; ileri yaş, alarm bulgusu yokluğu ve endoskopik ülserin gösterilmesi
-  ayırımı sağlar
-ilk_tedavi: H. pylori pozitif hastada 14 gün süreyle eradikasyon; ilk seçenek optimize
-  bizmut dörtlü tedavidir (günde iki kez PPI, günde dört kez bizmut ile tetrasiklin
-  ve 3-4 doza bölünmüş toplam 1.5-2 g metronidazol) ve penisilin allerjisinde de yeğlenir;
-  Penisilin allerjisi olmayan seçkin hastada 14 gün rifabutin üçlü tedavi ya da potasyum
-  kompetitif asit blokerli çift tedavi ampirik alternatiftir; klaritromisin direnci
-  yüzde 20-30 düzeyine çıktığından PPI-klaritromisinli üçlü tedavi ampirik ilk basamakta
-  önerilmez, klaritromisin ya da levofloksasin içeren kurtarma rejimleri ancak duyarlılık
-  doğrulanırsa kullanılır. H. pylori negatif ülserde NSAID kesilir ve PPI başlanır (duodenal
-  ülsere 4-8 hafta, gastrik ülsere 8 hafta); NSAID bırakılamıyorsa COX-2 seçici ajan ile
-  PPI birlikteliği tercih edilir. Tüm tedavi alanlarda iyileşme doğrulanır — tedavi bitiminden
-  en az 4 hafta sonra üre nefes testi ya da dışkı antijen testi (PPI 2 hafta, bizmut ve
-  antibiyotikler 4 hafta önce kesilir); gastrik ülserde 8-12 hafta sonra kontrol endoskopisi
-  ile biyopsi tekrarlanır
-klasik_komplikasyon: Üst gastrointestinal kanama (en sık; melena ve hematemez), özellikle
-  duodenal ülser ön duvardan perforasyon (ani yaygın peritonit, diafragma altında serbest
-  hava), piylorik bölge ödemi ya da skarı ile gastrik çıkış obstrüksiyonu (bol kusma,
-  dalga dalga peristaltizm, kusma sonrası rahatlama) ve pankreasa penetrasyon
+- 'Epigastriyumda kazıyıcı ya da yakan nitelikte tekrarlayan ağrı; duodenal ülsere özgü **açlıkta ve gecede
+  artar, yemek ya da antasidle yatışır**'
+- 'Gastrik ülserde ağrı **yemekle artar**; iştahsızlık, erken doyma ve kilo kaybı eşlik edebilir'
+- '**Aspirin ya da NSAID** kullanımı, **sigara** ve birinci derece akrabada ülser öyküsü başlıca risk etmenleri'
+- 'Noninvaziv **H. pylori** testlerinde pozitiflik: **üre nefes testi** ve **dışkı antijen** tanıda ve iyileşme
+  değerlendirmesinde; **seroloji** eski-aktif enfeksiyonu ayırt edemez'
+- 'Üst endoskopide derinliği olan, **keskin kenarlı**, düz tabanlı yuvarlak mukoza defekti; gastrik ülserde
+  malignite dışlamak için **kenar ve tabandan biyopsi**'
+- 'Kronik kanama izleri: **demir eksikliği anemisi** ve **pozitif gaita gizli kanı**'
+- 'Komplikasyonlar: **melena/hematemez** ile kanama; **tahta gibi sert karın** ve **serbest hava** ile
+  perforasyon; **bol kusma** ile gastrik çıkış obstrüksiyonu'
+patognomonik: Peptik ülsere özgü bir laboratuvar bulgusu yoktur; hastalığı tanımlayan bulgu üst endoskopide
+  **derinliği olan, keskin kenarlı ülser defektinin** doğrudan görülmesidir
+ilk_tetkik: '**60 yaş altı** ve alarm bulgusuz dispepside önce **H. pylori testi** (**üre nefes** ya da **dışkı
+  antijeni**) ile **test ve tedavi**. **Alarm bulguları**nda (kilo kaybı, gastrointestinal kanama, disfagi,
+  tekrarlayan kusma, demir eksikliği anemisi, palpe kitle) veya **NSAID** kullanımında doğrudan **üst endoskopi**'
+kesin_tani: 'Üst endoskopide **ülserin görülmesi**; **H. pylori** varlığının **üre nefes testi**, **dışkı
+  antijen** ya da **biyopsi hızlı ürez** yöntemiyle gösterilmesi. Gastrik ülserde malignite dışlamak için
+  **biyopsi zorunludur**. İşlevsel dispepsi ve **gastroözofageal reflü** benzer sunum yapar; alarm bulgusu
+  yokluğu ve endoskopik ülserin gösterilmesi ayırımı sağlar'
+ilk_tedavi: '**H. pylori pozitif**: **14 gün** eradikasyon, ilk seçenek **optimize bizmut dörtlü tedavi**
+  (**PPI** + **bizmut** + **tetrasiklin** + **metronidazol**); penisilin allerjisinde de yeğlenir. **Klaritromisin
+  direnci yüzde 20-30** düzeyinde olduğundan PPI-klaritromisinli üçlü ampirik ilk basamakta önerilmez;
+  ampirik alternatif **rifabutin üçlü** ya da **potasyum kompetitif asit blokerli çift** tedavi. **H. pylori
+  negatif** ülserde NSAID kesilir ve **PPI** başlanır (duodenal ülsere **4-8 hafta**, gastrik ülsere **8
+  hafta**); NSAID bırakılamıyorsa **COX-2 seçici** + PPI. İyileşme doğrulaması: tedavi bitiminden **en az
+  4 hafta** sonra **üre nefes** ya da **dışkı antijen** testi; gastrik ülserde **8-12 hafta** sonra **kontrol
+  endoskopisi**'
+klasik_komplikasyon: 'En sık **üst gastrointestinal kanama** (melena, hematemez); duodenal ülser ön duvardan
+  **perforasyon** (ani yaygın peritonit, diafragma altında **serbest hava**); piylorik bölge ödemi ya da
+  skarı ile **gastrik çıkış obstrüksiyonu** (bol kusma, dalga dalga peristaltizm); **pankreas penetrasyonu**'
 ayirici:
 - hastalik: gord
   ayirt_edici: Önde göğüste yükselen yanma, ekşite gelen regürjitasyon ve özofagus kaynaklı

@@ -10,32 +10,34 @@ taksonomi:
   - kardiyoloji
   - kard_kapak
   - kard_kp_aort_stenozu
-tipik_hasta: Kalsifik (dejeneratif) kapak nedeniyle 70 yaş üstünde giderek daralan hasta; ya da konjenital
-  bikuspid aort kapağı bulunan 40-50 yaş hastası; egzersiz sırasında senkop, göğüs ağrısı veya nefes darlığıyla
-  gelen yaşlı hasta
-patofizyoloji: Kapak orifis alanı zamanla daralır; sol ventrikül basınç yüküne karşı konsantrik hipertrofi
-  ile yanıt verir. Efor sırasında sabit darlıktan geçen debi artışı sağlanamadığı için beyin perfüzyonu
-  düşer (senkop); hipertrofik miyokardın oksijen talebi artıp koroner perfüzyon basıncı azalır (angina);
-  ileri evrede pompa yetmezliği eklenir (dispne). Semptomların çıkışı, darlığın artık ciddi olduğunun
-  habercisidir
+tipik_hasta: "**Kalsifik (dejeneratif)** kapak nedeniyle **70 yaş üstü**nde giderek daralan hasta; ya da
+  konjenital **bikuspid aort kapağı** bulunan **40-50 yaş** hastası. Egzersiz sırasında **senkop**,
+  **göğüs ağrısı** veya **nefes darlığı**yla gelen yaşlı hasta"
+patofizyoloji: "Kapak orifis alanı zamanla daralır; sol ventrikül basınç yüküne **konsantrik hipertrofi**yle
+  yanıt verir. Efor sırasında sabit darlıktan geçen debi artışı sağlanamadığı için beyin perfüzyonu düşer
+  (**senkop**); hipertrofik miyokardın oksijen talebi artıp koroner perfüzyon basıncı azalır (**angina**).
+  İleri evrede **pompa yetmezliği** eklenir (dispne); semptomların çıkışı darlığın artık ciddi olduğunun
+  habercisidir"
 anahtar_bulgular:
-- 'Klasik üçlü: efor anjinası, egzersiz senkobu ve kalp yetmezliği (dispne)'
-- Sağ üst sternum kenarında yükselen-alçalan şekilli, karotislere yayılan kaba sistolik ejeksiyon üfürümü;
-  darlık ilerledikçe üfürüm geç faza kayar ve hafifler, aort kapanma sesi kaybolup tek S2 duyulur
-- Karotis nabzının yavaş ve zayıf yükselmesi (pulsus parvus et tardus)
-- Ekokardiyografide kapak alanı 1 cm karenin altı (ciddi darlık), ortalama gradyan 40 mmHg üstü, sol ventrikül
-  hipertrofisi
-- Genç hastada konjenital bikuspid aort kapağı öyküsü
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Karotis nabzının yavaş ve zayıf yükselmesi (pulsus parvus et tardus)
-ilk_tetkik: Ekokardiyografi (Doppler ile kapak alanı, gradyan ve ventrikül fonksiyonu); EKG; egzersiz
-  kapasitesi belirsiz olan hastada efor testi dikkatle
-kesin_tani: Doppler ekokardiyografi; eko ile klinik tablo çeliştiğinde kardiyak kateterizasyonla direkt
-  gradyan ölçümü
-ilk_tedavi: 'Semptomatik ciddi darlıkta kesin tedavi kapak değişimidir: cerrahi aort kapak replasmanı
-  veya yüksek riskli hastada transkateter aort kapak implantasyonu; medikal tedavi (diüretik) yalnızca
-  köprü niteliğindedir ve nitrat gibi preload düşürücü ajanlar dikkatli kullanılmalıdır çünkü hipotansiyon
-  riski taşır; asimptomatik orta-ciddi darlıkta düzenli ekokardiyografik takip'
-klasik_komplikasyon: Efor senkopu ve ani kardiyak ölüm; ileri evrede kalp yetmezliği
+- "Klasik üçlü: **efor anjinası**, **egzersiz senkobu** ve **kalp yetmezliği (dispne)**"
+- "Sağ üst sternum kenarında yükselen-alçalan şekilli, karotislere yayılan **kaba sistolik ejeksiyon
+  üfürümü**; darlık ilerledikçe üfürüm geç faza kayar ve hafifler, **aort kapanma sesi kaybolup tek S2**"
+- "Karotis nabzının yavaş ve zayıf yükselmesi (**pulsus parvus et tardus**)"
+- "Ekokardiyografide kapak alanı **1 cm karenin altı** (ciddi darlık), ortalama gradyan **40 mmHg üsti**,
+  **sol ventrikül hipertrofisi**"
+- "Genç hastada konjenital **bikuspid aort kapağı** öyküsü"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — karotis nabzının yavaş ve zayıf yükselmesi
+  (**pulsus parvus et tardus**)"
+ilk_tetkik: "**Ekokardiyografi** (Doppler ile kapak alanı, gradyan ve ventrikül fonksiyonu) ve **EKG**.
+  Egzersiz kapasitesi belirsiz olan hastada **efor testi** dikkatle"
+kesin_tani: "**Doppler ekokardiyografi**; eko ile klinik tablo çeliştiğinde **kardiyak kateterizasyon**la
+  direkt gradyan ölçümü"
+ilk_tedavi: "Semptomatik ciddi darlıkta kesin tedavi **kapak değişimidir**: **cerrahi aort kapak
+  replasmanı** veya yüksek riskli hastada **transkateter aort kapak implantasyonu**. Medikal tedavi
+  (**diüretik**) yalnızca köprü niteliğindedir; **nitrat** gibi preload düşürücüler **hipotansiyon**
+  riski taşıdığından dikkatli kullanılır. Asemptomatik orta-ciddi darlıkta düzenli **ekokardiyografik
+  takip**"
+klasik_komplikasyon: "**Efor senkopu** ve **ani kardiyak ölüm**; ileri evrede **kalp yetmezliği**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-11
 - tus-2016-sonbahar-ktbt-8

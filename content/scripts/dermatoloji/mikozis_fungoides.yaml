@@ -11,37 +11,19 @@ taksonomi:
   - dermatoloji
   - derm_deri_tumorleri
   - derm_tu_kutanoz_lenfoma
-tipik_hasta: 50-70 yaş; aylar-yıllar süren, egzama ve psoriasis kremlerine dirençli pullu kırmızı (bazen
-  hipopigmente) lekelerle gelen hasta; lezyonlar gövde alt-kalça (mayo yerleşimi) üzerinde simetrik, yer
-  değiştirir gibi görünür ama hiç tamamen temizlenmez; kaşıntı belirgindir. Uzun süren 'tedaviye dirençli
-  egzama' tanısı en sık klinik şaşırtma noktasıdır
-patofizyoloji: Cilt homing reseptörü (CLA, CCR4) taşıyan yardımcı (CD4) T hücrelerin dermise göçüp epidermise
-  yerleşmesi (epidermotropizm) ve kronik antijen uyarısıyla klonal genişlemesi; IL-31 kaşıntının altındadır.
-  En sık birincil kutanöz lenfomadır; hastalık yıllar boyu ciltte kalır, ileri evrede lenf noduna ve kana
-  dökülür (dolaşımdaki atipik T hücreler Sézary hücreleridir)
+tipik_hasta: "**50-70 yaş**; aylar-yıllar süren, **egzama ve psoriasis kremlerine dirençli** pullu kırmızı (bazen **hipopigmente**) lekelerle gelen hasta. Lezyonlar gövde alt-kalça (**mayo yerleşimi**) üzerinde simetrik, yer değiştirir gibi görünür ama hiç **tamamen temizlenmez**; **kaşıntı** belirgindir. Uzun süren **tedaviye dirençli egzama** tanısı en sık klinik şaşırtma noktasıdır"
+patofizyoloji: "**Cilt homing reseptörü** (**CLA**, **CCR4**) taşıyan yardımcı (**CD4**) **T hücreleri**nin dermise göçüp epidermise yerleşmesi (**epidermotropizm**) ve kronik antijen uyarısıyla **klonal genişlemesi**; **IL-31** kaşıntının altındadır; **En sık birincil kutanöz lenfoma**dır; hastalık yıllar boyu **ciltte** kalır, ileri evrede **lenf noduna** ve **kana** dökülür (dolaşımdaki atipik T hücreler **Sézary hücreleri**dir)"
 anahtar_bulgular:
-- 'Patch evresi: pullu, pembe-kırmızı veya hipopigmente düz lekeler; gövde alt-kalça yerleşimli; aylar-yıllar
-  sürer ve tanının en zor olduğu evredir'
-- 'Plak evresi: infiltrasyonlu, kalın, kenarı belirmiş plaklar; poikiloderma (renk değişikliği + atrofi
-  + telanjiektazi) görülebilir'
-- 'Tümör evresi: derin tümörler, ülserasyon; aynı hastada patch-plak-tümörün yan yana bulunduğu varyetli
-  görünüm klasiktir'
-- 'Eritrodermik tablo ve Sézary sendromu: yaygın kızarıklık + belirgin kaşıntı + lenfadenopati + avuç-taban
-  keratoderma + kanda atipik T hücreler'
-- 'Biyopsi: epidermiste çevresi boşluklu (halo''lu) atipik lenfositler ve Pautrier mikroabseleri; dermiste
-  bant benzeri infiltrat'
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Biyopside Pautrier mikroabseleri: epidermis içinde kümelenmiş atipik T lenfositler'
-ilk_tetkik: Birden çok yerden ve uygun evreden (plak) punch biyopsi + T hücre reseptörü klonalite analizi;
-  tam kan sayımı ve periferik yayma (Sézary hücre araması); lenf nodu muayenesi; geniş tutulumda toraks-abdomen
-  görüntülemesi
-kesin_tani: Klinik + histopatoloji + immünfenotip (CD4 baskınlığı, CD7 ve CD26 kaybı) + TCR klonalitesinin
-  birlikte değerlendirilmesi; erken patch evresinde zaman içinde tekrar biyopsi gerekebilir
-ilk_tedavi: 'Erken evrede cilt yönelimli tedavi: topikal kortikosteroid; patch evresinde NB-UVB, plak
-  evresinde PUVA; izole plak-tümörde lokal radyoterapi; geniş plak-tümör yükünde toplam cilt elektron
-  ışını; ileri evrede bexaroten, interferon, brentuximab vedotin (CD30 pozitif olgularda) ve sistemik
-  kemoterapi'
-klasik_komplikasyon: Kan tutulumu ve eritrodermiyle Sézary sendromuna ilerleme; lenf nodu ve iç organ
-  yayılımı; cilt bariyeri bozulmasına bağlı ağır bakteriyel enfeksiyonlar
+- "**Patch evresi**: pullu, pembe-kırmızı veya **hipopigmente** düz lekeler; **gövde alt-kalça** yerleşimli; aylar-yıllar sürer ve **tanının en zor** olduğu evredir"
+- "**Plak evresi**: infiltrasyonlu, kalın, kenarı belirmiş plaklar; **poikiloderma** (renk değişikliği + atrofi + telanjiektazi) görülebilir"
+- "**Tümör evresi**: derin tümörler, **ülserasyon**; aynı hastada patch-plak-tümörün **yan yana** bulunduğu varyetli görünüm klasiktir"
+- "**Eritrodermik tablo ve Sézary sendromu**: yaygın kızarıklık + belirgin kaşıntı + **lenfadenopati** + avuç-taban **keratoderma** + kanda **atipik T hücreler**"
+- "**Biyopsi**: epidermiste çevresi boşluklu (**halolu**) atipik lenfositler ve **Pautrier mikroabseleri**; dermiste **bant benzeri infiltrat**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — biyopside **Pautrier mikroabseleri**: epidermis içinde kümelenmiş **atipik T lenfositler**"
+ilk_tetkik: "Birden çok yerden ve uygun evreden (plak) **punch biyopsi** + **T hücre reseptör klonalite** analizi; **tam kan sayımı** ve periferik yayma (**Sézary hücre** araması); **lenf nodu** muayenesi; geniş tutulumda **toraks-abdomen** görüntülemesi"
+kesin_tani: "**Klinik** + **histopatoloji** + **immünfenotip** (**CD4** baskınlığı, **CD7** ve **CD26** kaybı) + **TCR klonalitesi**nin birlikte değerlendirilmesi; erken patch evresinde zaman içinde **tekrar biyopsi** gerekebilir"
+ilk_tedavi: "Erken evrede **cilt yönelimli tedavi**: **topikal kortikosteroid**; patch evresinde **NB-UVB**, plak evresinde **PUVA**; izole plak-tümörde **lokal radyoterapi**. Geniş plak-tümör yükünde **toplam cilt elektron ışını**, ileri evrede **bexaroten**, **interferon**, **brentuximab vedotin** (**CD30** pozitif olgularda) ve **sistemik kemoterapi**"
+klasik_komplikasyon: "**Kan tutulumu** ve eritrodermiyle **Sézary sendromuna** ilerleme; **lenf nodu** ve iç organ yayılımı; cilt bariyeri bozulmasına bağlı **ağır bakteriyel enfeksiyonlar**"
 tus_gecmisi:
 - tus-2020-sonbahar-ttbt-115
 kart_uret:

@@ -11,33 +11,34 @@ taksonomi:
   - dahiliye
   - dah_romatoloji
   - dah_rom_polimiyalji
-tipik_hasta: Altmış yaş civarı kadın; haftalar içinde gelişen, iki taraflı omuz ve kalça kuşağı ağrısıyla
-  sabah yataktan kalkamayan, kollarını kaldıramayan hastadır; kaslarda gerçek güç kaybı yoktur. Büyük
-  damar vaskülitinden (dev hücreli arterit) şüphe uyandıran baş ağrısı, görme bulanıklığı veya çiğneme
-  ağrısı ekleyebilir
-patofizyoloji: Yaşla ilişkili genetik yatkınlık zemininde, omuz ve kalça kuşağının eklem çevre yapılarında
-  (bursalar, tendon kılıfları, eklem zarı) inflamasyon gelişir; kas dokusunun kendisi tutulmaz, bu yüzden
-  kas enzimleri ve elektromiyogram normaldir. Olası tetikleyici enfeksiyon sonrası immün yanıttır; hastaların
-  bir kısmında aynı yaş grubunun büyük damar vaskülitinde olan dev hücreli arterit ile örtüşme vardır
+tipik_hasta: 'Altmış yaş civarı **kadın**; haftalar içinde gelişen, iki taraflı **omuz ve kalça kuşağı**
+  ağrısıyla sabah yataktan kalkamayan, kollarını kaldıramayan; kaslarda **gerçek güç kaybı yoktur**. **Dev
+  hücreli arterit** şüphesi: baş ağrısı, görme bulanıklığı veya çiğneme ağrısı'
+patofizyoloji: 'Omuz ve kalça kuşağının **eklem çevre yapılarında** (bursalar, tendon kılıfları, eklem zarı)
+  inflamasyon. Kas dokusunun kendisi tutulmaz; bu yüzden **kas enzimleri** ve **elektromiyogram** normal.
+  Olası tetikleyici enfeksiyon sonrası immün yanıt; hastaların bir kısmında **dev hücreli arterit** ile
+  örtüşme'
 anahtar_bulgular:
-- 50 yaş üstünde başlayan, iki taraflı omuz ve kalça kuşağı ağrısı; sabah sertliği 45 dakikadan uzun
-- Eritrosit sedimentasyon hızında belirgin yükselme (genellikle 40 mm/saat üzeri) ve CRP yüksekliği
-- Kas gücünün objektif olarak korunması; kas enzimleri (kreatin kinaz) ve elektromiyogram normal
-- Normokrom normositik anemi ve trombositoz gibi nonspesifik iltihap bulguları
-- Baş ağrısı, çiğneme ağrısı, görme bulanıklığı (dev hücreli arterit eşlik bulguları)
-- Küçük doz steroidlere hızlı ve belirgin yanıt (iki-üç günde yakınmaların erimesi)
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Yüksek sedimantasyonlu yaşlı hastada küçük doz steroidle bir-iki günde yakınmaların erimesi
-ilk_tetkik: Eritrosit sedimentasyon hızı ve CRP; tam kan sayımı; kas gücü değerlendirmesi
-kesin_tani: Klinik özellikler (yaş, iki taraflı kuşak ağrısı, uzun sabah sertliği) ile birlikte yüksek
-  sedimantasyon; ACR/EULAR puanlama algoritması kullanılır. Kas hastalığı (polimiyozit), romatoid artrit
-  ve hipotiroidi kaynaklı kuşak ağrıları dışlandıktan sonra küçük doz steroidle gelen hızlı yanıt tanıyı
-  destekler
-ilk_tedavi: Düşük doz prednizon (günde 12,5-15 mg) birinci basamaktır; yanıt genellikle bir-iki gün içinde
-  tam ve belirgindir. Klinik kontrole göre doz yavaş azaltılır, tedavi sıklıkla bir-iki yıl sürer; dev
-  hücreli arterit eşlik ediyorsa yüksek doz steroid devreye girer ve görme riski için düşük doz aspirin tartışmalıdır
-  (EULAR 2015 rutin önermez)
-klasik_komplikasyon: Dev hücreli arterit birlikteliğinde görme kaybı (arteritik ön iskemik optik nöropati); tanıda
-  gecikme bunu kaçınılmaz kılar
+- '**50 yaş üstünde** başlayan, iki taraflı **omuz ve kalça kuşağı** ağrısı; sabah sertliği **45 dakikadan**
+  uzun'
+- '**Sedimentasyon**da belirgin yükselme (genellikle **40 mm/saat** üzeri) ve **CRP** yüksekliği'
+- '**Kas gücü** objektif olarak korunur; **kreatin kinaz** ve **elektromiyogram** normal'
+- '**Normokrom normositik anemi** ve **trombositoz** gibi nonspesifik iltihap bulguları'
+- '**Baş ağrısı**, **çiğneme ağrısı**, **görme bulanıklığı** (dev hücreli arterit eşlik bulguları)'
+- 'Küçük doz **steroid**lere hızlı ve belirgin yanıt (**iki-üç günde** yakınmaların erimesi)'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — yüksek sedimantasyonlu yaşlı hastada küçük
+  doz **steroid**le **bir-iki günde** yakınmaların erimesi
+ilk_tetkik: '**Eritrosit sedimentasyon hızı** ve **CRP**; tam kan sayımı; **kas gücü** değerlendirmesi'
+kesin_tani: 'Klinik özellikler (yaş, iki taraflı kuşak ağrısı, uzun sabah sertliği) ile birlikte **yüksek
+  sedimantasyon**; **ACR/EULAR** puanlama algoritması. Kas hastalığı (**polimiyozit**), **romatoid artrit**
+  ve **hipotiroidi** kaynaklı kuşak ağrıları dışlandıktan sonra küçük doz steroidle hızlı yanıt tanıyı
+  destekler'
+ilk_tedavi: '**Düşük doz prednizon** (günde **12,5-15 mg**) birinci basamaktır; yanıt genellikle **bir-iki
+  gün** içinde tam ve belirgindir. Doz klinik kontrole göre yavaş azaltılır; tedavi sıklıkla **bir-iki yıl**.
+  **Dev hücreli arterit** eşlik ediyorsa yüksek doz steroid; görme riski için **düşük doz aspirin** tartışmalı
+  (**EULAR 2015** rutin önermez)'
+klasik_komplikasyon: '**Dev hücreli arterit** birlikteliğinde **görme kaybı** (**arteritik ön iskemik optik
+  nöropati**); tanıdaki gecikme bunu kaçınılmaz kılar'
 tus_gecmisi:
 - tus-2015-ilkbahar-ktbt-37
 kart_uret:

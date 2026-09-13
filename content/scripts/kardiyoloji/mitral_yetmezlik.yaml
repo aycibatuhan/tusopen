@@ -11,40 +11,43 @@ taksonomi:
   - kardiyoloji
   - kard_kapak
   - kard_kp_mitral_yetmezlik
-tipik_hasta: 'Efor dispnesi ve yorgunlukla başvuran, fonda mitral yapı hastalığı bulunan hasta: genç ve
-  orta yaşta romatizmal kapak ya da yaprakçık prolapsusu, ileri yaştaki hasta profilinde ise geçirilmiş
-  miyokard infarktüsüne bağlı papiller kas disfonksiyonu veya dilate sol ventrikülün fonksiyonel yetmezliği
-  öne çıkar. Akut tabloda yeni miyokard infarktüsü sonrası papiller kas rüptürü veya enfektif endokardit
-  düşünülür'
-patofizyoloji: Sistolde mitral yaprakçıkların tam kapanamaması; sol ventriküldeki kanın sol atriyuma geri
-  kaçması. Sistolik kaçış sol atriyumda volüm ve basınç yükü, kronikte atriyumun genişlemesiyle taşiaritmilere,
-  akutta ise hızla pulmoner kongestiyona yol açar. Sürekli regürjitan, sol ventrikülün ileriye pompalaması
-  gereken volümü azalttığı için ventrikül karşı yükte hafifleme (afterload düşmesi) hisseder; bu yüzden
-  kronik tabloda ventrikül eforu bir süre korunur, fonksiyon bozulması bu maske altında gizlenir. Sistolde
-  üfürümün şiddeti kaçak miktarını doğru yansıtmaz; akut ağır kaçakta sol atriyum basıncı hızla yükseldiğinden üfürüm kısadır ve yumuşaktır
+tipik_hasta: "**Efor dispnesi** ve yorgunlukla başvuran, fonda **mitral yapı hastalığı** bulunan hasta.
+  Genç-orta yaşta **romatizmal kapak** ya da **yaprakçık prolapsusu**; ileri yaştaki profilinde ise
+  geçirilmiş **miyokard infarktüsü**ne bağlı **papiller kas disfonksiyonu** veya dilate sol ventrikülün
+  **fonksiyonel yetmezliği** öne çıkar. Akut tabloda yeni infarkt sonrası **papiller kas rüptürü** veya
+  **enfektif endokardit** düşünülür"
+patofizyoloji: "Sistolde mitral yaprakçıkların tam kapanamaması; sol ventriküldeki kanın **sol atriyuma
+  geri kaçması**. Sistolik kaçış sol atriyumda **volüm ve basınç yükü** yapar; kronikte atriyumun
+  genişlemesiyle **taşiaritmiler**, akutta hızla **pulmoner kongestiyon**. Sürekli regürjitan ventrikülün
+  ileriye pompalaması gereken volümü azaltır; **afterload düşmesi** yüzünden ventrikül eforu bir süre
+  korunur, **fonksiyon bozulması** bu maske altında gizlenir. Sistolik üfürümün şiddeti kaçak miktarını
+  doğru yansıtmaz; **akut ağır kaçakta** sol atriyum basıncı hızla yükseldiğinden üfürüm **kısa ve
+  yumuşak**tır"
 anahtar_bulgular:
-- Apeksin üstünde duyulan, koltuk altına yayılan holosistolik üfürüm; kalp seslerinin ikisinde de bozulma
-- El sıkma benzeri izometrik egzersizle (afterload artışı) üfürümün belirgin şiddetlenmesi; ayakta dikilmede
-  ise kısalması
-- 'Genişleyen sol atriyum bulguları: atriyal fibrilasyon, efor dispnesi, muayenede sol ventrikülün hiperdinamik
-  ve sola-yana yer değiştirmiş geniş apeks impulsu'
-- Yaprakçık prolapsusu tablosunda tam ortada klik sonrası geç sistolik üfürüm; palpitasyon ve atipik göğüs
-  ağrısı eşlik edebilir
-- Akut ağır tabloda (papiller kas rüptürü, endokardit) aniden gelişen pulmoner ödem; apeks impulslarının
-  hiperdinamik olması ve dolaşım çökmesi
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Koltuk altına yayılan holosistolik üfürüm; prolapsusta orta sistolik klik sonrası geç sistolik
-  üfürüm
-ilk_tetkik: 'Transtorasik ekokardiyografi: regürjitan jet alanı, vena kontrakta ve efektif regürjitan
-  orifis alanıyla ağırlık ölçülür; mekanizma (prolapsus, kord rüptürü, fonksiyonel) ve sol ventrikül fonksiyonu
-  saptanır'
-kesin_tani: Ekokardiyografik Doppler bulgularla ağır mitral yetmezliğinin doğrulanması; mekanizma ayrımı
-  veya cerrahi planlama için transözefageal ekokardiyografi (prolapsus, kord rüptürü, endokardit)
-ilk_tedavi: 'Kronik ağır yetmezlikte cerrahi: yapı koruyucu mitral tamiri mümkünse altın standarttır;
-  sol ventrikül fonksiyonu bozulmadan (EF yüzde 60''ın üstünde kalırken) planlanır. Akut ağır tabloda
-  damar yolundan vaskodilatörle (afterload düşürme) köprüleme ve acil cerrahi; eşlik eden atriyal fibrilasyonda
-  antikoagülasyon'
-klasik_komplikasyon: Sol atriyal dilatasyon ve atriyal fibrilasyon; ileri dönemde pulmoner hipertansiyon
-  ve kalp yetmezliği; bozuk kapakta enfektif endokardit riski
+- "Apeksin üstünde duyulan, **koltuk altına yayılan holosistolik üfürüm**; kalp seslerinin ikisinde de
+  bozulma"
+- "**El sıkma** benzeri izometrik egzersizle (afterload artışı) üfürümün **belirgin şiddetlenmesi**;
+  ayakta dikilmede ise kısalması"
+- "Genişleyen sol atriyum bulguları: **atriyal fibrilasyon**, efor dispnesi; muayenede sol ventrikülün
+  **hiperdinamik ve sola-yana yer değiştirmiş apeks impulsu**"
+- "**Yaprakçık prolapsusu** tablosunda tam ortada **klik** sonrası **geç sistolik üfürüm**; palpitasyon
+  ve atipik göğüs ağrısı eşlik edebilir"
+- "Akut ağır tabloda (**papiller kas rüptürü**, **endokardit**) aniden gelişen **pulmoner ödem**;
+  apeks impulslarının hiperdinamik olması ve dolaşım çökmesi"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **koltuk altına yayılan holosistolik
+  üfürüm**; prolapsusta **orta sistolik klik** sonrası **geç sistolik üfürüm**"
+ilk_tetkik: "**Transtorasik ekokardiyografi**: **regürjitan jet alanı**, **vena kontrakta** ve **efektif
+  regürjitan orifis alanı**yla ağırlık ölçülür. Mekanizma (**prolapsus**, **kord rüptürü**, fonksiyonel)
+  ve **sol ventrikül fonksiyonu** saptanır"
+kesin_tani: "**Ekokardiyografik Doppler** bulgularla ağır mitral yetmezliğinin doğrulanması; mekanizma
+  ayrımı veya cerrahi planlama için **transözefageal ekokardiyografi** (prolapsus, kord rüptürü,
+  endokardit)"
+ilk_tedavi: "Kronik ağır yetmezlikte cerrahi: **yapı koruyucu mitral tamiri** mümkünse **altın
+  standart**tır; sol ventrikül fonksiyonu bozulmadan (**EF yüzde 60'ın üsti**nde kalırken) planlanır.
+  Akut ağır tabloda damar yolundan **vaskodilatör**le (afterload düşürme) köprüleme ve **acil cerrahi**;
+  eşlik eden **atriyal fibrilasyon**da **antikoagülasyon**"
+klasik_komplikasyon: "**Sol atriyal dilatasyon** ve **atriyal fibrilasyon**. İleri dönemde **pulmoner
+  hipertansiyon** ve **kalp yetmezliği**; bozuk kapakta **enfektif endokardit** riski"
 tus_gecmisi:
 - tus-2015-sonbahar-ktbt-63
 - tus-2018-ilkbahar-ktbt-8

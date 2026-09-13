@@ -7,18 +7,19 @@ sources:
 ad: Bası Yaraları
 taksonomi:
   - [ktbt, ftr, ftr_norolojik_rehabilitasyon, ftr_nr_basi_yarasi]
-tipik_hasta: "Yatağa bağımlı veya hareketsizleşen hasta: omurilik yaralanması ya da inme geçirmiş, yoğun bakımda izlenen, ileri yaşlı veya terminal dönemdeki kişi; beslenme bozukluğu, inkontinans ve bilinç bulanıklığı eşlik eder. Sakrum, kuyruk sokumu, topuklar, kalça trokanterleri gibi kemik çıkıntıları üzerinde yerleşir"
-patofizyoloji: "Esas sorun yumuşak dokunun kemik çıkıntısı ile dış yüzey arasında sıkışmasıdır: kapiller kan basıncını aşan kesintisiz bası dolaşımı keser ve dokuyu iskemik yapar; yaklaşık iki saatlik aralıksız basınç bile derin dokularda geri dönmeyen hasar başlatabilir ve bu eşik, yatakta pozisyonun iki saatte bir değiştirilmesinin gerekçesidir. Sürtünme ve kesme (shear) kuvvetleri hasarı hızlandırır; nem, beslenme bozukluğu, duyu ve bilinç kayıpları riski büyütür. Görünen deri bulgusu genellikle geç gelir; asıl hasar derinden dermişe doğru ilerler"
+tipik_hasta: "**Yatağa bağımlı** veya hareketsizleşen hasta: **omurilik yaralanması**, **inme**, yoğun bakım izlemi, ileri yaş, terminal dönem. **Beslenme bozukluğu**, **inkontinans** ve bilinç bulanıklığı eşlik eder; kemik çıkıntıları (**sakrum**, **topuklar**, **trokanterler**) üzerinde yerleşir"
+patofizyoloji: "**Kemik çıkıntısı** ile dış yüzey arasında yumuşak dokunun sıkışması; **kapiller kan basıncını** aşan kesintisiz bası dolaşımı keser, doku **iskemik** olur. Yaklaşık **iki saatlik** aralıksız basınç derin dokularda geri dönmeyen hasar başlatabilir — bu eşik, pozisyonun **iki saatte bir** değiştirilmesinin gerekçesidir. **Sürtünme** ve **kesme (shear)** kuvvetleri hasarı hızlandırır; nem, **beslenme bozukluğu**, duyu-bilinç kayıpları riski büyütür. Görünen deri bulgusu genellikle geç gelir; asıl hasar derinden dermişe doğru ilerler"
 anahtar_bulgular:
-  - "Yatağa bağımlı hastanın kemik çıkıntıları üzerinde, en sık sakrum ve topukta yerleşen yara"
-  - "Basınçla beyazlamayan (blanş etmeyen) eritem; deri ısı ve sertlik değişikliği"
-  - "Evreleme: evre 1 basınçla beyazlamayan eritem; evre 2 dermisin kısmi kaybı ile yüzeysel açık yara veya bül; evre 3 tüm dermisi aşan derin yarık; evre 4 kemik, tendon veya kasın görünmesi; ayrı başlıklar olarak evrelenemeyen yara ve derin doku hasarı"
-  - "Risk profili: hareket kısıtlılığı, inkontinans, beslenme bozukluğu, bilinç bozukluğu"
-  - "Derin yarada ağrı, koku ve akıntı; enfeksiyon bulguları eklenebilir"
+  - "**Yatağa bağımlı** hastanın kemik çıkıntıları üzerinde, en sık **sakrum** ve **topuk**ta yerleşen yara"
+  - "**Basınçla beyazlamayan (blanş etmeyen) eritem**; deri ısı ve sertlik değişikliği"
+  - "**Evre 1** basınçla beyazlamayan eritem; **evre 2** dermisin kısmi kaybı (yüzeysel açık yara veya **bül**)"
+  - "**Evre 3** tüm dermiyi aşan derin yarık; **evre 4** **kemik, tendon veya kasın** görünmesi; ayrıca **evrelenemeyen yara** ve **derin doku hasarı**"
+  - "Risk profili: **hareket kısıtlılığı**, **inkontinans**, **beslenme bozukluğu**, **bilinç bozukluğu**"
+  - "Derin yarada **ağrı**, **koku** ve **akıntı**; **enfeksiyon** bulguları eklenebilir"
 patognomonik: null
-ilk_tetkik: "Risk değerlendirmesi ilk adımdır: algı, nem, aktivite, mobilite, beslenme ve sürtünme-kayma boyutlarını içeren Braden ölçeği uygulanır, toplam 23 puanın 18 ve altı risk sayılır; tüm basınç noktaları sistematik olarak muayene edilir, yaranın yerleşimi, boyutu, derinliği ve doku kaybı not edilerek evre verilir. Beslenme durumu değerlendirilir, derin yara veya osteomyelit şüphesinde görüntüleme ve laboratuvar eklenir"
-kesin_tani: "Klinik görünümle konur: NPUAP-EPUAP evreleme sistemine göre yara evre 1'den evre 4'e, ayrıca evrelenemeyen yara ve derin doku hasarı başlıklarına sınıflandırılır; görüntüleme rutinde gerekmez, osteomyelit şüphesinde kemik radyografisi ve MR kullanılır"
-ilk_tedavi: "Önce basıncı bozmak gerekir: yataktaki hastada pozisyon değişikliği 2 saatte bir, otururan hastada daha sık yapılır; 30 dereceye yakın yan pozisyon sakrum yükünü azaltır, topuklar yastıkla yükseltilir, basıncı dağıtan yatak yüzeyleri kullanılır ve erken mobilizasyon hedeflenir. Yara bakımında nemli yara iyileşmesi esas alınır, nekrotik doku debride edilir, enfeksiyon bulgusu varsa sistemik tedavi eklenir. Beslenme desteği (yeterli protein ve kalori) iyileşmenin şartıdır; inkontinans yönetimiyle deri kuru ve temiz tutulur, kirlenmiş örtüler hemen değiştirilir"
-klasik_komplikasyon: "Yara enfeksiyonu ve osteomyelit; derin yaralarda sepsis"
+ilk_tetkik: "**Risk değerlendirmesi** ilk adım: **Braden ölçeği** (algı, nem, aktivite, mobilite, beslenme, sürtünme-kayma); toplam **23 puanın 18 ve altı** risk. Tüm **basınç noktaları** sistematik muayene edilir; yaranın yerleşimi, boyutu, derinliği ve doku kaybı not edilerek **evre** verilir. **Osteomyelit** şüphesinde görüntüleme ve laboratuvar eklenir"
+kesin_tani: "**Klinik görünümle** konur: **NPUAP-EPUAP** evreleme sistemine göre yara **evre 1-4**, ayrıca **evrelenemeyen yara** ve **derin doku hasarı** başlıkları. Görüntüleme rutinde gerekmez; **osteomyelit** şüphesinde kemik radyografisi ve **MR** kullanılır"
+ilk_tedavi: "Önce **basıncı bozmak**: yataktaki hastada pozisyon değişikliği **2 saatte bir**, otururan hastada daha sık. **30 derece**ye yakın yan pozisyon sakrum yükünü azaltır; **topuklar yastıkla yükseltilir**, basıncı dağıtan **yatak yüzeyleri** kullanılır. Yara bakımında **nemli yara iyileşmesi** esas alınır, **nekrotik doku debride** edilir, enfeksiyonda sistemik tedavi. **Beslenme desteği** (yeterli protein ve kalori) iyileşmenin şartı, **inkontinans** yönetimiyle deri kuru ve temiz tutulur"
+klasik_komplikasyon: "**Yara enfeksiyonu** ve **osteomyelit**; derin yaralarda **sepsis**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

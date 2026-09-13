@@ -11,30 +11,19 @@ taksonomi:
   - dermatoloji
   - derm_akne_sebase
   - derm_ak_rozase
-tipik_hasta: 30-50 yaş üstü, açık tenli, orta yaş kadını; yüzün orta bölgesinde sıcak, baharatlı yemek,
-  alkol, güneş ve stresle alevlenen kızarma-yanma atakları; papülopüstüloz ve flozimatöz tipler kadınlarda
-  erkeklerde baskın olan fenotiptir; rinofima neredeyse yalnız erkeklerde görülür
-patofizyoloji: Yüzün merkezinde kalıcı kızarıklığa yol açan nörovasküler düzensizlik ve kapiller genişleme;
-  epidermal bariyer bozukluğu ve doğal immün yanıtın aşırı aktivasyonu; kıl folliküllerinde Demodex akar
-  yükünün artması papülopüstüloz tabloya katkı; tetikleyiciler (sıcaklık, alkol, baharat, stres) vazodilatasyonla
-  alevlenme yapar
+tipik_hasta: "**30-50 yaş** üstü, açık tenli, orta yaş **kadın**; yüzün orta bölgesinde **sıcak, baharatlı yemek, alkol, güneş ve stres**le alevlenen **kızarma-yanma** atakları; **Papülopüstüloz** tipi kadınlarda baskın olan fenotiptir; **flözimatöz** ve **rinofima** neredeyse yalnız **erkeklerde** görülür"
+patofizyoloji: "Yüzün merkezinde kalıcı kızarıklığa yol açan **nörovasküler düzensizlik** ve **kapiller genişleme**; **epidermal bariyer** bozukluğu ve doğal immün yanıtın aşırı aktivasyonu. Kıl folliküllerinde **Demodex** akar yükünün artması **papülopüstüloz** tabloya katkı; tetikleyiciler (sıcaklık, alkol, baharat, stres) **vazodilatasyonla** alevlenme yapar"
 anahtar_bulgular:
-- Merkez yüzde (alın, burun, yanak, çene) kalıcı eritem ve ataklarla kızarma
-- Telanjiektaziler
-- Komedonların olmadığı papül ve püstüller (akneden ayıran ana nokta)
-- Burunda sebase hiperplazi, kalınlaşma ve lobülasyon (rinofima; erkeklerde)
-- 'Oküler tutulum: yanma, batma, kızarıklık, kuru göz hissi'
+- "Merkez yüzde (alın, burun, yanak, çene) **kalıcı eritem** ve ataklarla **kızarma**"
+- "**Telanjiektaziler**"
+- "**Komedonların olmadığı papül ve püstüller** (akneden ayıran ana nokta)"
+- "Burunda **sebase hiperplazi**, kalınlaşma ve lobülasyon (**rinofima**; erkeklerde)"
+- "**Oküler tutulum**: yanma, batma, kızarıklık, **kuru göz** hissi"
 patognomonik: null
-ilk_tetkik: Klinik inceleme yeterli; tetikleyici sorgulaması yapılır, göz semptomları mutlaka araştırılır;
-  tanısal test gerekmez
-kesin_tani: 'Klinik: merkez yüzde eritem artı telanjiektazi artı komedonsuz papül püstül; rinofima görünümü
-  klinik olarak tanınır'
-ilk_tedavi: Papülopüstüloz tabloda ilk seçenek topikal metronidazol veya topikal ivermektin (Demodex yükünü
-  azaltır); difüz kalıcı eritemde topikal brimonidin (vazokonstriktör) geçici rahatlama sağlar; orta-ağır
-  veya oküler tutulumda düşük doz anti-inflamatuar oral doksisiklin; telanjiektazi ve kalıcı eritemde
-  lazer veya IPL; rinofimada cerrahi düzeltme; her hastada tetikleyicilerden kaçınma ve güneş koruması
-klasik_komplikasyon: Erkeklerde rinofima (burun deformitesi), oküler tutulumun kornea skarına ilerlemesi,
-  psikososyal etki
+ilk_tetkik: "**Klinik inceleme** yeterli; **tetikleyici** sorgulaması yapılır, **göz semptomları** mutlaka araştırılır; tanısal test gerekmez"
+kesin_tani: "**Klinik**: merkez yüzde **eritem** artı **telanjiektazi** artı **komedonsuz papül püstül**; **rinofima** görünümü klinik olarak tanınır"
+ilk_tedavi: "**Papülopüstüloz** tabloda ilk seçenek **topikal metronidazol** veya **topikal ivermektin** (**Demodex** yükünü azaltır); difüz kalıcı eritemde **topikal brimonidin** (vazokonstriktör) geçici rahatlama sağlar. Orta-ağır veya **oküler tutulumda** düşük doz **anti-inflamatuar oral doksisiklin**. Telanjiektazi ve kalıcı eritemde **lazer** veya **IPL**, **rinofimada cerrahi** düzeltme, her hastada **tetikleyicilerden kaçınma** ve **güneş koruması**"
+klasik_komplikasyon: "Erkeklerde **rinofima** (burun deformitesi), oküler tutulumun **kornea skarına** ilerlemesi, **psikososyal etki**"
 tus_gecmisi:
 - tus-2021-sonbahar-ktbt-31
 kart_uret:

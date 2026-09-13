@@ -11,29 +11,19 @@ taksonomi:
   - kadin_dogum
   - kd_erken_gebelik
   - kd_eg_hiperemezis
-tipik_hasta: İlk üç aylık dönemde gebelik bulantısı ötesine geçen, günde çok sayıda kusma ve kilo kaybıyla
-  gelen gebe; çoğul gebelik veya mola gebelik gibi HCG yüksekliği yaratan durumlar tabloyu güçlendirir
-patofizyoloji: HCG'nin kusma merkezini uyarması temel tetikleyicidir; HCG molekülü tiroidi uyaran hormona
-  benzediği için ağır olgularda TSH baskılanması ve geçici tiroid fonksiyon artışı görülür. Sürekli kusma
-  açlık ketozisi, mide asidi kaybına bağlı metabolik alkaloz ve potasyum düşüklüğü yapar; uzun süren açlık
-  B1 vitamini (tiamin) depolarını boşaltır
+tipik_hasta: "İlk üç aylık dönemde gebelik bulantısını aşan, **günde çok sayıda kusma** ve **kilo kaybıyla** gelen gebe; **çoğul gebelik** veya **mola gebelik** gibi **HCG yüksekliği** yaratan durumlar tabloyu güçlendirir"
+patofizyoloji: "**HCG**'nin kusma merkezini uyarması temel tetikleyicidir; **HCG** tiroidi uyaran hormona benzediği için ağır olgularda **TSH baskılanması** ve geçici tiroid fonksiyon artışı görülür. Sürekli kusma **açlık ketozisi**, mide asidi kaybına bağlı **metabolik alkaloz** ve **potasyum düşüklüğü** yapar; uzun süren açlık **B1 vitamini (tiamin)** depolarını boşaltır"
 anahtar_bulgular:
-- İlk üç ayda günde çok sayıda kusma ve yüzde beşten fazla kilo kaybı
-- İdrarda keton pozitifliği; damaryolu sıvısı olmadan açlık ketozisi
-- Potasyum düşüklüğü ve mide asidi kaybına bağlı metabolik alkaloz
-- Karaciğer enzimlerinde yükselme, hafif bilirubin artışı ve TSH baskılanması
-- 'Normal gebelik bulantısından farkı: beslenmeyi engellemesi ve kilo kaybı yapması'
+- "İlk üç ayda **günde çok sayıda kusma** ve **yüzde beşten fazla kilo kaybı**"
+- "İdrarda **keton pozitifliği**; damaryolu sıvısı olmadan **açlık ketozisi**"
+- "**Potasyum düşüklüğü** ve mide asidi kaybına bağlı **metabolik alkaloz**"
+- "**Karaciğer enzimlerinde yükselme**, hafif **bilirubin** artışı ve **TSH baskılanması**"
+- "Normal gebelik bulantısından farkı: **beslenmeyi engellemesi ve kilo kaybı yapması**"
 patognomonik: null
-ilk_tetkik: İdrar ketonu, elektrolitler, karaciğer enzimleri ve tiroid fonksiyonları (TSH); ultrasonla
-  çoğul gebelik ve mola gebeliği dışlanması
-kesin_tani: 'Klinikle konur: gebelikte kusmanın ketozis, kilo kaybı ve sıvı açığıyla birleşmesi; apandisit,
-  safra yolu ve mide hastalıkları gibi başka nedenler dışlanır'
-ilk_tedavi: 'Tedavi merdiveni: önce B6 vitamini ve antihistaminik, ardından damaryolu sıvısı ile setron
-  veya fenotiyazin; damaryolu sıvısından önce tiamin verilir çünkü glukoz infüzyonu tiamin depoyu boşaltıp
-  Wernicke ensefalopatisini tetikleyebilir; dirençli olguda kortikosteroid, son basamak enteral-parenteral
-  beslenme'
-klasik_komplikasyon: Wernicke ensefalopatisi (tiamin eksikliği), Mallory-Weiss yırtığı ve özofagus perforasyonu;
-  şiddetli elektrolit bozukluğu ve böbrek yetmezliği
+ilk_tetkik: "İdrar ketonu, **elektrolitler**, **karaciğer enzimleri** ve **tiroid fonksiyonları (TSH)**; ultrasonla **çoğul gebelik ve mola gebeliği** dışlanması"
+kesin_tani: "Klinikle konur: gebelikte kusmanın **ketozis, kilo kaybı ve sıvı açığıyla** birleşmesi; **apandisit, safra yolu ve mide** hastalıkları gibi başka nedenler dışlanır"
+ilk_tedavi: "Tedavi merdiveni: önce **B6 vitamini** ve **antihistaminik**, ardından damaryolu sıvısı ile **setron** veya **fenotiyazin**. Damaryolu sıvısından önce **tiamin** verilir — **glukoz infüzyonu** depoyu boşaltıp **Wernicke ensefalopatisini** tetikleyebilir. Dirençli olguda **kortikosteroid**, son basamak **enteral-parenteral beslenme**"
+klasik_komplikasyon: "**Wernicke ensefalopatisi** (**tiamin eksikliği**), **Mallory-Weiss yırtığı** ve özofagus perforasyonu; şiddetli **elektrolit bozukluğu** ve böbrek yetmezliği"
 tus_gecmisi:
 - tus-2016-ilkbahar-ktbt-98
 kart_uret:

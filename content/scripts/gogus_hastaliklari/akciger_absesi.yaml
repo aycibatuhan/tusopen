@@ -11,31 +11,34 @@ taksonomi:
   - gogus_hastaliklari
   - gog_enfeksiyon
   - gog_enf_aspirasyon_abse
-tipik_hasta: Bilinç veya yutma bozukluğu olan (alkol bağımlılığı, epilepsi, inme, genel anestezi) ve bu
-  sırada aspirasyon yaşamış; haftalardır süren ateş, kilo kaybı, halsizlik ve özellikle kötü kokulu balgamıyla
-  gelen hasta; diş bakımı bozuk, ağız florası bakımından riskli
-patofizyoloji: Ağız-yutak florası (anaeroblar; Fusobacterium, Bacteroides) etki edilebilir konumdaki alveollere
-  aspirasyon olur; enfeksiyon dokuyu eriterek kaviteli odak yapar, odağın bir bronşa açılmasıyla hava-sıvı
-  seviyeli kavite görünür. Yatar konumda aspirasyon en çok üst lobun posterior segmentini ve alt lobun
-  süperior segmentini tutar — bu yerleşim öyküyle birleşince etiyolojiyi aspirasyona bağlar
+tipik_hasta: "**Bilinç veya yutma bozukluğu** olan (**alkol bağımlılığı**, **epilepsi**, **inme**, **genel
+  anestezi**) ve bu sırada **aspirasyon** yaşamış hasta. Haftalardır süren **ateş**, kilo kaybı,
+  halsizlik ve özellikle **kötü kokulu balgam**ıyla gelir; **diş bakımı** bozuk, ağız florası bakımından
+  riskli"
+patofizyoloji: "Ağız-yutak florası (**anaeroblar**; **Fusobacterium**, **Bacteroides**) etki edilebilir
+  konumdaki alveollere **aspirasyon** olur; enfeksiyon dokuyu eriterek **kaviteli odak** yapar. Odağın
+  bir **bronşa açılması**yla **hava-sıvı seviyeli kavite** görünür. **Yatar konumda** aspirasyon en çok
+  **üst lobun posterior segmentini** ve **alt lobun süperior segmentini** tutar — bu yerleşim öyküyle
+  birleşince etiyolojiyi **aspirasyona** bağlar"
 anahtar_bulgular:
-- Kötü kokulu (fetil) balgam — anaerobik aspirasyon etiyolojisinin neredeyse imza bulgusu
-- 'Pozisyonla değişen öksürük: hastanın yatış yönü absenin drenaj yolunu açtığında öksürük ve balgam belirgin
-  artar'
-- Radyografide hava-sıvı seviyesi olan kalın duvarlı kavite; tipik yerleşim üst lob posterior segmenti
-  veya alt lob süperior segmenti
-- 'İki haftadan uzun süren subakut seyir: ateş, gece terlemesi, kilo kaybı, iştahsızlık'
-- Diş eti enfeksiyonu ve bilinç/yutma bozukluğu öyküsü
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Yutma-bilinç bozukluğu öyküsü olan hastada fetil kokulu balgam ve hava-sıvı seviyeli kavite
-ilk_tetkik: Toraks radyografisi, ardından toraks BT (kavitasyon ve ampiyem ayrımı); balgam kültürü (anaerob
-  dahil)
-kesin_tani: Görüntülemede hava-sıvı seviyeli kavite ve tipik aspirasyon öyküsü; dirençli veya atipik vakada
-  tanısal bronkoskopi (kanser, tüberküloz veya yabancı cisim dışlanması)
-ilk_tedavi: Damar içi ampisilin-sulbaktam (veya klindamisin) uzun süreli tedavi — genellikle 4-6 hafta,
-  kavite kapanana ve klinik düzelene kadar; drenaja yardımcı gövde pozisyonu, beslenme desteği; ilerişmeyen
-  vakada girişimsel drenaj veya cerrahi
-klasik_komplikasyon: Empiyem ve bronkopleural fistül, beyin absesi (hematojen yayılım), masif hemoptizi;
-  tedaviye dirençli vakada cerrahi drenaj
+- "**Kötü kokulu (fetil) balgam** — anaerobik aspirasyon etiyolojisinin neredeyse **imza bulgusu**"
+- "**Pozisyonla değişen öksürük**: hastanın yatış yönü absenin **drenaj yolunu** açtığında öksürük ve
+  balgam belirgin artar"
+- "Radyografide **hava-sıvı seviyeli kalın duvarlı kavite**; tipik yerleşim **üst lob posterior
+  segmenti** veya **alt lob süperior segmenti**"
+- "**İki haftadan uzun süren subakut seyir**: **ateş**, **gece terlemesi**, kilo kaybı, iştahsızlık"
+- "**Diş eti enfeksiyonu** ve **bilinç-yutma bozukluğu** öyküsü"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — yutma-bilinç bozukluğu öyküsü olan
+  hastada **fetil kokulu balgam** ve **hava-sıvı seviyeli kavite**"
+ilk_tetkik: "**Toraks radyografisi**, ardından **toraks BT** (kavitasyon ve **ampiyem** ayrımı); **balgam
+  kültürü** (**anaerob** dahil)"
+kesin_tani: "Görüntülemede **hava-sıvı seviyeli kavite** ve tipik **aspirasyon öyküsü**. Dirençli veya
+  atipik vakada **tanısal bronkoskopi** (**kanser**, **tüberküloz** veya yabancı cisim dışlanması)"
+ilk_tedavi: "Damar içi **ampisilin-sulbaktam** (veya **klindamisin**) uzun süreli tedavi — genellikle
+  **4-6 hafta**, kavite kapanana ve klinik düzelene kadar. Drenaja yardımcı **gövde pozisyonu**,
+  **beslenme desteği**; ilerlemeyen vakada **girişimsel drenaj** veya **cerrahi**"
+klasik_komplikasyon: "**Empiyem** ve **bronkopleural fistül**, **beyin absesi** (hematojen yayılım),
+  **masif hemoptizi**; tedaviye dirençli vakada **cerrahi drenaj**"
 tus_gecmisi:
 - tus-2015-ilkbahar-ttbt-63
 - tus-2019-ilkbahar-ktbt-101

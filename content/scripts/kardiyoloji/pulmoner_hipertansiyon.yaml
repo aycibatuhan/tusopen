@@ -15,39 +15,43 @@ taksonomi:
   - gogus_hastaliklari
   - gog_vaskuler
   - gog_vas_pulmoner_hipertansiyon
-tipik_hasta: Aylardır artan efor nefes darlığı, yorgunluk ve eforla baş dönmesi, senkop ve çarpıntı ile
-  gelen orta yaş hastası; idiyopatik arteriyel tip en sık orta yaş kadında görülür; öyküde bağ dokusu
-  hastalığı (özellikle sistemik skleroz), doğumsal kalp hastalığı, kronik tıkayıcı akciğer hastalığı,
-  çözülmemiş damar pıhtısı ve iştah kesen ilaç kullanımı sorgulanır
-patofizyoloji: 'Pulmoner damar direncinin sürekli artması sağ ventrikülü basınç yükü altına alır; önce
-  duvar kalınlaşır, sonra genişleyip yetmez. Beş grup ayrımı mekanizmayı belirler: birinci grup damar
-  duvarının kendisinde yeniden yapılanma (arteriyel tip; kalıtsal, ilaç ve bağ dokusu kaynaklı); ikinci
-  grup sol kalp hastalığının arkasından gelen kapiller basınç yüksekliği (en sık); üçüncü grup uzun süreli
-  hipoksinin damarları büzmesi; dördüncü grup çözülmemiş kronik tromboembolik tıkanma; beşinci grup karışık
-  ve açıklanamayan mekanizmalar'
+tipik_hasta: "Aylardır artan **efor nefes darlığı**, yorgunluk ve eforla baş dönmesi, **senkop** ve
+  **çarpıntı** ile gelen orta yaş hastası; **idiyopatik arteriyel** tip en sık **orta yaş kadını**nda
+  görülür. Öyküde **bağ dokusu hastalığı** (özellikle **sistemik skleroz**), **doğumsal kalp hastalığı**,
+  **kronik tıkayıcı akciğer hastalığı**, **çözülmemiş damar pıhtısı** ve **iştah kesen ilaç** kullanımı
+  sorgulanır"
+patofizyoloji: "Pulmoner damar direncinin sürekli artması **sağ ventrikülü** basınç yükü altına alır;
+  önce duvar kalınlaşır, sonra genişleyip **yetmez**. **Beş grup** ayrımı mekanizmayı belirler: **1.
+  grup** damar duvarının kendisinde yeniden yapılanma (arteriyel tip; **kalıtsal**, **ilaç** ve **bağ
+  dokusu** kaynaklı); **2. grup** sol kalp hastalığının arkasından gelen **kapiller basınç yüksekliği**
+  (en sık). **3. grup** uzun süreli **hipoksi**nin damarları büzmesi; **4. grup** çözülmemiş **kronik
+  tromboembolik** tıkanma; **5. grup** karışık ve açıklanamayan mekanizmalar"
 anahtar_bulgular:
-- Giderek artan efor nefes darlığı ve eforla senkop (senkop bu hastalıkta uyarı işareti sayılır)
-- Dinlemede sol ikinci interkostal aralıkta pulmoner kapak kapanış sesinin (P2) sert ve güçlü olması
-- 'Sağ kalp yetersizliği bulguları: boyun venlerinde dolgunluk, karaciğer büyümesi, bacaklarda ödem, karında
-  su toplanması'
-- Telede ana pulmoner arterin büyümesi ve periferik damar kesimlerinin budanması
-- Ekokardiyografide sağ ventrikül büyümesi, septumun sola basması ve triküspid yetersizlik jetinden yüksek
-  basınç tahmini
-- Elektrokardiyogramda sağ ventrikül kalınlaşması işaretleri (sağ aks sapması, sağ göğüs derivasyonlarında
-  yüksek R dalgası)
+- "Giderek artan **efor nefes darlığı** ve eforla **senkop** (senkop bu hastalıkta **uyarı işareti**
+  sayılır)"
+- "Dinlemede sol ikinci interkostal aralıkta pulmoner kapak kapanış sesinin (**P2**) sert ve güçlü
+  olması"
+- "**Sağ kalp yetersizliği** bulguları: boyun venlerinde dolgunluk, **karaciğer büyümesi**, bacaklarda
+  ödem, karında **su toplanması**"
+- "Telede **ana pulmoner arterin büyümesi** ve periferik damar kesimlerinin **budanması**"
+- "Ekokardiyografide **sağ ventrikül büyümesi**, **septumun sola basması** ve **triküspid yetersizlik**
+  jetinden yüksek basınç tahmini"
+- "EKG'de **sağ ventrikül kalınlaşması** işaretleri (**sağ aks sapması**, sağ göğüs derivasyonlarında
+  **yüksek R dalgası**)"
 patognomonik: null
-ilk_tetkik: Ekokardiyografi (ilk basamak); sağ kalp boşluklarını, basınç tahminini ve altta yatan sol
-  kalp ya da kapak hastalığını tek seansta gösterir
-kesin_tani: Sağ kalp kateterizasyonu; dinlenme halinde ortalama pulmoner arter basıncının 20 mmHg'nin
-  üzerinde ölçülmesi ve pulmoner damar direncinin artması; dördüncü grup şüphesinde perfüzyon akciğer
-  sintigrafisi
-ilk_tedavi: 'Gruba göre: ikinci grupta sol kalp yetersizliğinin ve kapak hastalığının tedavisi; üçüncü
-  grupta oksijen desteği ve altta yatan akciğer hastalığının yönetimi; dördüncü grupta yaşam boyu antikoagülasyon
-  ve uygun hastada cerrahi tromboendarterektomi (ya da balonla damar genişletme); birinci grupta pulmoner
-  damar ilaçları (prostasiklin yolu, endotelin reseptör antagonisti, fosfodiesteraz 5 inhibitörü), damar
-  büzücü kalsiyum kanal blokerine yanıt veren seçili genç hastada kalsiyum kanal blokeri'
-klasik_komplikasyon: Sağ kalp yetersizliği (karaciğerde konjesyon, karında su toplanması); eforla ani
-  bilinç kaybı ve ani ölüm riski
+ilk_tetkik: "**Ekokardiyografi** (ilk basamak); sağ kalp boşluklarını, basınç tahminini ve altta yatan
+  **sol kalp ya da kapak hastalığı**nı tek seansta gösterir"
+kesin_tani: "**Sağ kalp kateterizasyonu**; dinlenme hâlinde ortalama pulmoner arter basıncının **20
+  mmHg'nin üzerinde** ölçülmesi ve **pulmoner damar direncinin** artması. **4. grup** şüphesinde
+  **perfüzyon akciğer sintigrafisi**"
+ilk_tedavi: "**2. grupta** sol kalp yetersizliğinin ve **kapak hastalığı**nın tedavisi; **3. grupta**
+  **oksijen** desteği ve altta yatan akciğer hastalığının yönetimi. **4. grupta** **yaşam boyu
+  antikoagülasyon** ve uygun hastada **cerrahi tromboendarterektomi** (ya da **balonla damar
+  genişletme**). **1. grupta** **pulmoner damar ilaçları** (**prostasiklin yolu**, **endotelin reseptör
+  antagonisti**, **fosfodiesteraz 5 inhibitörü**); damar büzücü **kalsiyum kanal bloker**ine yanıt veren
+  seçili genç hastada **kalsiyum kanal blokeri**"
+klasik_komplikasyon: "**Sağ kalp yetersizliği** (karaciğerde konjesyon, karında su toplanması). Eforla
+  **ani bilinç kaybı** ve **ani ölüm** riski"
 tus_gecmisi:
 - tus-2016-sonbahar-ttbt-80
 - tus-2018-sonbahar-ktbt-10

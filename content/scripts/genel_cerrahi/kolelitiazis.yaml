@@ -14,46 +14,20 @@ taksonomi:
   - genel_cerrahi
   - gc_safra_yollari
   - gc_sy_kolelitiazis
-tipik_hasta: Kırk yaş üstü, kilolu ve sıklıkla çok doğum yapmış kadın klasiktir; kolesterol taşı riskini
-  artıran obezite, hızlı kilo kaybı, östrojen kullanımı ve ileri yaş öyküsü sorgulanmalıdır. Yağlı
-  bir yemekten sonra sağ üst kadranda ağrıyla başvurur. Diyabet, ileri yaş ve immünosupresyonda
-  semptomlar silik seyredebilir; bu grupta gangren ve perforasyon sessiz ilerleyebilir
-patofizyoloji: Taşların büyük bölümü safra kolesterolünün süperdoygunluğu, nükleasyon ve safra kesesi
-  hipomotilitesinin bileşkesiyle (kolesterol taşları) oluşur; bir bölümü hemoliz ve safra yolu
-  infeksiyonlarında bilirubin birikimiyle (pigment taşları) gelir. Taş kistik kanalı tıkayınca safra
-  birikir, duvarda basınç ve kimyasal irritasyon iltihabı başlatır; akut kolesistit başlangıçta
-  steril kimyasal bir iltihaptır, bakteriyel üst infeksiyon sonradan eklenir. Taş kolledok kanalına
-  göçerse koledokolitiazis zinciri başlar ve kolanjit ile biliyer pankreatit bu zincirin uçlarıdır
+tipik_hasta: "**Kırk yaş üstü**, kilolu ve sıklıkla çok doğum yapmış kadın klasiktir; kolesterol taşı riskini artıran **obezite**, **hızlı kilo kaybı**, **östrojen** kullanımı ve ileri yaş öyküsü sorgulanır. Yağlı bir yemekten sonra sağ üst kadranda ağrıyla başvurur; **diyabet** ve ileri yaşta semptomlar silik seyredebilir, gangren ve perforasyon sessiz ilerleyebilir"
+patofizyoloji: "Taşların büyük bölümü safra kolesterolünün **süperdoygunluğu**, nükleasyon ve safra kesesi **hipomotilitesi**nin bileşkesiyle oluşur (kolesterol taşları); bir bölümü hemoliz ve safra yolu infeksiyonlarında **bilirubin** birikimiyle (pigment taşları) gelir. Taş **kistik kanalı** tıkayınca akut kolesistit başlar — başlangıçta steril kimyasal bir iltihaptır, bakteriyel üst infeksiyon sonradan eklenir. Taş **kolledok** kanalına göçerse koledokolitiazis zinciri başlar; **kolanjit** ve **biliyer pankreatit** bu zincirin uçlarıdır"
 anahtar_bulgular:
-- Biliyer kolik — yağlı yemek sonrası başlayan, sağ omuza ve kürek kemiğine vuran, birkaç saat süren
-  ve kendiliğinden gerileyen ağrı; ateş ve sarılık beklenmez
-- Akut kolesistitte ağrı altı saatten uzun sürer ve ona ateş, lökositoz eklenir; derin basıda derin
-  nefesi ağrıyla kesen Murphy belirtisi pozitiftir
-- USG bulguları — mobil taş gölgesi, duvar kalınlığının 4 mm'yi aşması, perikolesistik sıvı ve USG
-  Murphy pozitifliği
-- TG18 kolesistitte orta şiddet işaretleri — lökosit 18.000 üstü, palpe edilen hassas sağ üst kitle,
-  semptom süresinin 72 saati aşması veya belirgin lokal inflamasyon (gangrenöz, emfüzematoz
-  kolesistit, perikolesistik abse)
-- Bilirubin, ALP ve GGT yüksekliği taşın kolledok kanalına göçtüğünü; amilaz ve lipaz yüksekliği
-  biliyer pankreatiti düşündürür
-- Ateş, sarılık ve sağ üst kadran ağrısının bir arada bulunması safra yolu infeksiyonu yani akut
-  kolanjit lehinedir ve ayrı bir tablo olarak değerlendirilmelidir
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Murphy belirtisi (akut kolesistit için)
-ilk_tetkik: Batın ultrasonografisi ilk seçimdir; taş, duvar kalınlığı ve çevre sıvıyı aynı oturuşta
-  gösterir. USG şüpheli kalırsa kistik kanal tıkanıklığını HIDA sintigrafisi, kolledok taşını ise
-  MRKP netleştirir; MRKP kullanılamayan merkezde EUS da koledok taşında yüksek duyarlılıklıdır
-kesin_tani: Tipik klinikle uyumlu USG bulguları kesin tanıyı verir; TG18 kolesistit tanı kriterleri
-  lokal inflamasyon, sistemik inflamasyon ve görüntüleme bileşenlerini birleştirir. Kolledok taşından
-  şüphede doğrulama MRKP veya EUS ile yapılır
-ilk_tedavi: Yatış, aç kalma, damar yolu sıvısı, analjezi ve geniş spektrumlu antibiyotikle başlanır.
-  TG18 cerrahiye uygun hastada (Charlson indeksi 5 altı ve ASA 1-2) semptom başlangıcından itibaren
-  erken laparoskopik kolesistektomi önerir; klasik öğretide bu ilk 72 saat olarak vurgulanır.
-  Cerrahi yüksek riskli olguda antibiyotik ve perkütan safra kesesi drenajı (PTGBD) uygulanır, genel
-  durum düzelince ertelenmiş kolesistektomi planlanır. Asemptomatik taşlarda profilaktik cerrahi
-  genel olarak önerilmez
-klasik_komplikasyon: Taşın kolledok kanalına göçüyle tıkayıcı sarılık ve akut kolanjit (önce ERCP ile
-  kanal temizlenir, sonra kolesistektomi); biliyer pankreatit; uzun süreli fistülizasyon sonucu safra
-  taşı ileusu; ileri olgularda gangrenöz kolesistit, safra kesesi perforasyonu ve perikolesistik abse
+- "**Biliyer kolik** — yağlı yemek sonrası başlayan, sağ omuza ve kürek kemiğine vuran, birkaç saat süren ve kendiliğinden gerileyen ağrı; ateş ve sarılık beklenmez"
+- "Akut kolesistitte ağrı **altı saatten uzun** sürer ve ona **ateş, lökositoz** eklenir; derin basıda derin nefesi ağrıyla kesen **Murphy belirtisi** pozitiftir"
+- "**USG** bulguları — mobil taş gölgesi, **duvar kalınlığının 4 mm'yi aşması**, perikolesistik sıvı ve **USG Murphy** pozitifliği"
+- "**TG18** orta şiddet işaretleri: **lökosit 18.000 üstü**, palpe edilen hassas sağ üst kitle, semptom süresinin **72 saati aşması**; belirgin lokal inflamasyon (gangrenöz, emfüzematoz kolesistit, perikolesistik abse)"
+- "**Bilirubin, ALP ve GGT** yüksekliği taşın kolledok kanalına göçtüğünü; **amilaz ve lipaz** yüksekliği biliyer pankreatiti düşündürür"
+- "Ateş, sarılık ve sağ üst kadran ağrısının bir arada bulunması **akut kolanjit** lehinedir ve ayrı bir tablo olarak değerlendirilmelidir"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **Murphy belirtisi** (akut kolesistit için)"
+ilk_tetkik: "Batın **ultrasonografisi** ilk seçimdir; taş, duvar kalınlığı ve çevre sıvıyı aynı oturuşta gösterir. USG şüpheli kalırsa kistik kanal tıkanıklığını **HIDA sintigrafisi**, kolledok taşını ise **MRKP** netleştirir; MRKP kullanılamayan merkezde **EUS** da koledok taşında yüksek duyarlılıklıdır"
+kesin_tani: "Tipik klinikle uyumlu **USG bulguları** kesin tanıyı verir; **TG18** kolesistit tanı kriterleri **lokal inflamasyon**, **sistemik inflamasyon** ve **görüntüleme** bileşenlerini birleştirir. Kolledok taşından şüphede doğrulama **MRKP** veya **EUS** ile yapılır"
+ilk_tedavi: "Yatış, aç kalma, damar yolu sıvısı, analjezi ve **geniş spektrumlu antibiyotik**le başlanır; **TG18** cerrahiye uygun hastada (**Charlson 5 altı** ve **ASA 1-2**) semptom başlangıcından itibaren **erken laparoskopik kolesistektomi** önerir; klasik öğretide bu ilk **72 saat** olarak vurgulanır. Cerrahi yüksek riskli olguda antibiyotik ve perkütan safra kesesi drenajı (**PTGBD**) uygulanır, genel durum düzelince ertelenmiş kolesistektomi planlanır; **Asemptomatik** taşlarda profilaktik cerrahi genel olarak önerilmez"
+klasik_komplikasyon: "Taşın kolledok kanalına göçüyle tıkayıcı sarılık ve **akut kolanjit** (önce **ERCP** ile kanal temizlenir, sonra kolesistektomi); **biliyer pankreatit**; uzun süreli fistülizasyon sonucu **safra taşı ileusu**; ileri olgularda **gangrenöz kolesistit**, safra kesesi perforasyonu ve perikolesistik abse"
 ayirici:
 - hastalik: akut_kolanjit
   ayirt_edici: Kolanjitte önde gelen bulgular ateş, sarılık ve safra yolu dilatasyonudur; Murphy

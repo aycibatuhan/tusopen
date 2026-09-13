@@ -11,35 +11,19 @@ taksonomi:
   - pediatri
   - ped_enfeksiyon
   - ped_enf_kizamik_kizamikcik
-tipik_hasta: Aşısı eksik ya da hiç olmamış çocuk; kuluçka süresi 10-14 gün; öksürük, koryza (nezle) ve
-  konjunktivit üçlüsü (3C) yüksek ateşle başlar, döküntü beklenirken çocuğun durumu kötüleşir; malnütrisyon,
-  A vitamini eksikliği ve bağışıklık yetersizliğinde ağır seyreder
-patofizyoloji: Paramiksovirus ailesinden kızamık virüsü (Measles morbillivirus), tek serotip; solunum
-  damlacıklarıyla bulaşır ve döküntüden 4 gün önce ile 4 gün sonra arasında bulaştırıcıdır. Virüs mukoza
-  epiteline yerleşir, lenfoid dokuya yayılır ve bağışıklık yanıtını geçici olarak baskılayarak fırsatçı
-  enfeksiyonlara (otitis media, pnömoni) zemin açar; döküntü, T hücre aracılı damar çevresi yanıtın deri
-  ve mukozadaki görünümüdür
+tipik_hasta: "Aşısı eksik ya da hiç olmamış çocuk; **kuluçka süresi 10-14 gün**; **Öksürük, koryza ve konjunktivit** üçlüsü (**3C**) yüksek ateşle başlar, döküntü beklenirken çocuk kötüleşir; **Malnütrisyon**, **A vitamini eksikliği** ve bağışıklık yetersizliğinde **ağır seyreder**"
+patofizyoloji: "**Paramiksovirus** ailesinden **kızamık virüsü** (Measles morbillivirus), tek serotip; solunum damlacıklarıyla bulaşır; **Döküntüden 4 gün önce ile 4 gün sonra** arasında bulaştırıcıdır. Mukoza epiteline yerleşir, lenfoid dokuya yayılır; **bağışıklık yanıtını geçici baskılayarak** fırsatçı enfeksiyonlara (otitis media, pnömoni) zemin açar; **Döküntü**, T hücre aracılı damar çevresi yanıtın deri ve mukozadaki görünümüdür"
 anahtar_bulgular:
-- '3C dönemi: döküntüden 3-4 gün önce başlayan öksürük, koryza (akıntılı burun) ve konjunktivit; fotofobi
-  ve yüksek ateş eşlik eder'
-- 'Koplik benekleri: alt azı diş hizasındaki bukkal mukozada, kızarık zeminde tuz tanesi görünümünde beyaz
-  lekeler; döküntüden 1-2 gün önce belirir, döküntüyle birlikte kaybolur'
-- 'Döküntünün sırası: kulak arkası ve saç çizgisinden başlayıp ilk 1-2 günde yüz ve gövdeye, 2-3. günde
-  ekstremitelere inen, kırmızı ve yer yer birleşen (konfluant) makulopapüler döküntü'
-- Döküntü başlarken ateşin 39-40 dereceye tırmanması; döküntü indiği sırada ateş düşer, döküntü koyu kahverengiye
-  döner ve ince soyulma bırakır
-- 'Bağışıklık yetersizliği ya da malnütrisyonda ağır tablo: geniş kızamık pnömonisi, kornea tutulumu'
-patognomonik: Koplik benekleri
-ilk_tetkik: Klinik şüpheyle tanı konur; kesinleştirmede nazofarenks sürüntüsünde PCR ya da kızamık IgM
-  serolojisi; salgın bölgesiyle bağlantı tanıyı destekler (bildirim zorunluluğu akılda tutulmalı)
-kesin_tani: 3C dönemini Koplik benekleri ve kulak arkasından aşağıya doğru yayılan makulopapüler döküntü
-  izleyen klinik tablo artı laboratuvar onayı (PCR ya da IgM pozitifliği)
-ilk_tedavi: 'Destekleyici bakım: sıvı düzeltme, beslenmenin sürdürülmesi, ateş kontrolü, göz ve ağız hijyeni;
-  her olguda vitamin A desteği (yaşa göre iki doz, ciddi olgularda ikinci gün tekrar); ikincil bakteriyel
-  komplikasyon (otitis media, pnömoni) gelişirse antibiyotik'
-klasik_komplikasyon: Otit media ve kızamık pnömonisi (ölümün başlıca nedeni), postinfeksiyöz ensefalit
-  (yaklaşık binde 1), yıllar sonra subakut sklerozan panensefalit; A vitamini eksikliğinde kornea ülseri
-  ve körlük
+- "**3C dönemi**: döküntüden **3-4 gün önce** başlayan öksürük, koryza (akıntılı burun) ve konjunktivit; fotofobi ve yüksek ateş eşlik eder"
+- "**Koplik benekleri**: alt azı dişi hizasında bukkal mukozada, kızarık zeminde **tuz tanesi görünümünde beyaz lekeler**; **döküntüden 1-2 gün önce** belirir, döküntüyle kaybolur"
+- "**Döküntünün sırası**: kulak arkası ve **saç çizgisinden** başlayıp ilk **1-2 günde** yüz-gövdeye, **2-3. günde** ekstremitelere inen, konfluant makulopapüler döküntü"
+- "Döküntü başlarken ateşin **39-40 dereceye** tırmanması; döküntü inerken ateş düşer, döküntü koyu kahverengiye döner, **ince soyulma** bırakır"
+- "Bağışıklık yetersizliği ya da malnütrisyonda **ağır tablo**: geniş **kızamık pnömonisi**, **kornea tutulumu**"
+patognomonik: "**Koplik benekleri**"
+ilk_tetkik: "**Klinik şüpheyle** tanı konur; kesinleştirmede nazofarenks sürüntüsünde **PCR** ya da **kızamık IgM** serolojisi; **Salgın bölgesiyle bağlantı** tanıyı destekler; **bildirim zorunluluğu** akılda tutulmalı"
+kesin_tani: "**3C dönemi** + **Koplik benekleri** + kulak arkasından aşağıya yayılan makulopapüler döküntü klinik tablosu. Laboratuvar onayı: **PCR** ya da **IgM** pozitifliği"
+ilk_tedavi: "**Destekleyici bakım**: sıvı, beslenme, ateş kontrolü, göz-ağız hijyeni. Her olguda **vitamin A desteği** (yaşa göre **iki doz**, ciddi olgularda **ikinci gün tekrar**). İkincil **bakteriyel komplikasyon** (otitis media, pnömoni) gelişirse **antibiyotik**"
+klasik_komplikasyon: "**Otit media** ve **kızamık pnömonisi** (ölümün başlıca nedeni); **postinfeksiyöz ensefalit** (yaklaşık **binde 1**). Yıllar sonra **subakut sklerozan panensefalit**; **A vitamini eksikliğinde kornea ülseri** ve körlük"
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-54
 - tus-2020-ilkbahar-ktbt-55

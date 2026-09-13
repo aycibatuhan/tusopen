@@ -10,33 +10,19 @@ taksonomi:
   - genel_cerrahi
   - gc_kolon_rektum_anus
   - gc_kol_anal_fissur
-tipik_hasta: Genç ve orta yaşlı hasta (en sık 30-40 yaş arası); kabızlık ve sert dışkılama geçmişi olan;
-  tuvalette dışkılama sırasında başlayıp sonrasında saatlerce süren batıcı ağrı ve tuvalet kâğıdında az
-  miktarda parlak kırmızı kan iziyle başvurur; ağrı korkusuyla dışkıyı bekletmeye başlar ve kısır döngü
-  kurar
-patofizyoloji: Sert dışkı, anal kanın derisini (anoderm) yırtar; yırtık, iç sfinkterde refleks spazm ve
-  kronik hipertansiyona yol açar. Yüksek sfinkter basıncı, fissürün en sık yerleştiği arka orta çizgide
-  (saat 6 yönü) kan akımını azaltarak yara iyileşmesini engeller (iskemik döngü); ağrı nedeniyle dışkı
-  bekletilir, dışkı sertleşir ve döngü kapanır. Yan yerleşimli, çoklu veya iyileşmeyen fissürde Crohn
-  hastalığı, HIV, sifiliz, tüberküloz veya lösemi düşünülmelidir
+tipik_hasta: "Genç-orta yaşlı (**30-40 yaş**) hasta; kabızlık ve sert dışkılama öyküsüyle gelir. Dışkılama sırasında başlayıp sonrasında saatlerce süren batıcı ağrı ve tuvalet kâğıdında az miktarda **parlak kırmızı kan**; ağrı korkusuyla dışkıyı bekletmeye başlar, kısır döngü kurar"
+patofizyoloji: "Sert dışkı anodermi (anal kan derisi) yırtar, yırtık iç sfinkterde **refleks spazm** ve kronik hipertansiyon yapar. Yüksek sfinkter basıncı, fissürün en sık yerleştiği **arka orta çizgiyi** (saat 6 yönü) iskemik yapar ve iyileşmeyi engeller; ağrıyla dışkı bekletilir, dışkı sertleşir, döngü kapanır. Yan yerleşimli, çoklu veya iyileşmeyen fissürde **Crohn**, HIV, sifiliz, tüberküloz veya lösemi düşünülmelidir"
 anahtar_bulgular:
-- Dışkılamayla başlayıp sonrasında saatlerce süren keskin, batıcı ağrı
-- Tuvalet kâğıdında ve dışkı yüzeyinde az miktarda parlak kırmızı kan
-- Arka orta çizgide (saat 6 yönü) uzunlamasına yırtık
-- Muayenede ağrı nedeniyle anal kanın kasılı olması (iç sfinkter hipertonusu)
-- Kronikte sentinel pile (deri etiketi), hipertrofik papilla ve iç sfinkter liflerinin görünmesi
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Dışkılamayla tetiklenen keskin ağrı artı az miktarda parlak kırmızı kanama ikilisi
-ilk_tetkik: Kalçayı nazikçe açarak yapılan muayene (posteriör midline fissür çoğunlukla görünür); ağrı
-  çok şiddetliyse dijital muayene ve anoskopi ağrı dindikten sonraya bırakılır
-kesin_tani: 'Görünümle konur (posteriör midline kronik fissür: yırtık, sentinel pile ve görünür sfinkter
-  lifleri); atipik yerleşim veya 6-8 haftada iyileşmeyen olguda proktoskopi ve alt gastrointestinal değerlendirme
-  (Crohn, HIV, sifiliz, tüberküloz, lösemi ayrımı)'
-ilk_tedavi: Lif ve bol sıvıyla dışkının yumuşatılması (gerekirse dışkı yumuşatıcı), ılık oturma banyosu
-  ve topikal 0.2% nitrogliserin merhem (iç sfinkteri gevşetip kanlanmayı artırır; baş ağrısı sık yan etkisi)
-  veya topikal diltiazem; 6-8 haftada iyileşmeyen olguda botulinum toksin enjeksiyonu; kronik dirençli
-  olguda lateral iç sfinkterotomi (gaz ve kaka tutamama riski nedeniyle dikkatle)
-klasik_komplikasyon: Kronik fissür (sentinel pile ve sfinkter fibrozisi), perianal apse ve fistül gelişimi;
-  iç sfinkterotomi sonrası gaz ve kaka tutamama
+- "Dışkılamayla başlayıp sonrasında saatlerce süren keskin, **batıcı ağrı**"
+- "Tuvalet kâğıdında ve dışkı yüzeyinde az miktarda **parlak kırmızı kan**"
+- "Arka orta çizgide (**saat 6 yönü**) uzunlamasına yırtık"
+- "Muayenede ağrı nedeniyle anal kanın kasılması (**iç sfinkter hipertonusu**)"
+- "Kronikte **sentinel pile** (deri etiketi), **hipertrofik papilla** ve görünür iç sfinkter lifleri"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **dışkılamayla tetiklenen keskin ağrı** artı az miktarda **parlak kırmızı kanama** ikilisi"
+ilk_tetkik: "İlk adım **klinik muayene** (kalça nazikçe açılır; posterior midline fissür çoğunlukla görünür); ağrı çok şiddetliyse **dijital muayene** ve **anoskopi** ağrı dindikten sonraya bırakılır"
+kesin_tani: "Görünümle konur: **posterior midline** kronik fissür — yırtık, **sentinel pile** ve görünür sfinkter lifleri; atipik yerleşim ya da **6-8 haftada iyileşmeyen** olguda proktoskopi ve alt gastrointestinal değerlendirme (Crohn, HIV, sifiliz, tüberküloz, lösemi ayrımı)"
+ilk_tedavi: "Lif ve bol sıvıyla dışkıyı yumuşatma (gerekirse dışkı yumuşatıcı), **ılık oturma banyosu**. Topikal **0.2% nitrogliserin** merhem (iç sfinkteri gevşetir, baş ağrısı sık yan etki) veya topikal **diltiazem**; **6-8 haftada** iyileşmeyen olguda **botulinum toksin** enjeksiyonu. Kronik dirençli olguda **lateral iç sfinkterotomi** (gaz ve kaka tutamama riskiyle dikkatle)"
+klasik_komplikasyon: "Kronik fissür — **sentinel pile** ve sfinkter fibrozisi; **perianal apse** ve **fistül** gelişimi; iç sfinkterotomi sonrası **gaz ve kaka tutamama**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-84
 - tus-2016-sonbahar-ktbt-92

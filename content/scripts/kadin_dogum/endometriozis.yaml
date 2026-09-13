@@ -11,33 +11,19 @@ taksonomi:
   - kadin_dogum
   - kd_benign_jinekoloji
   - kd_bj_endometriozis
-tipik_hasta: Üreme çağında, adet dönemleriyle ilişkili ağrısı giderek ağırlaşan, derin cinsel ilişki ağrısı
-  ve kronik pelvik ağrı tarif eden, gebe kalamama sorunu yaşayan kadın; perimenstrüel diskezi, dizüri
-  ve rektal ağrı şikayetleri eklenir; aile öyküsü olabilir
-patofizyoloji: Endometriyum benzeri doku uterus dışında, çoğunlukla pelvik peritonda ve ovaryumda yerleşir;
-  retrograd menstruasyon, koelomik metaplazi ve immünolojik temizlik yetersizliği birlikte etki eder.
-  Ektopik doku hormonlara yanıt vererek her döngüde kanar, iltihabi sitokin ve aderanslara, ovaryumda
-  endometrioma (çikolata kisti) ve derin infiltre lezyonlara yol açar
+tipik_hasta: "Üreme çağında, adet dönemleriyle ilişkili **giderek ağırlaşan ağrısı**, **derin cinsel ilişki ağrısı** ve **kronik pelvik ağrı** tarif eden, gebe kalamama sorunu yaşayan kadın; **perimenstrüel diskezi, dizüri** ve rektal ağrı eklenir; aile öyküsü olabilir"
+patofizyoloji: "Endometriyum benzeri doku uterus dışında, çoğunlukla **pelvik peritonda ve ovaryumda** yerleşir; **retrograd menstruasyon, koelomik metaplazi** ve **immünolojik temizlik yetersizliği** birlikte etki eder. Ektopik doku hormonlara yanıt vererek her döngüde kanar; ovaryumda **endometrioma (çikolata kisti)** ve **derin infiltre** lezyonlara yol açar"
 anahtar_bulgular:
-- 'Sekonder ve giderek ağırlaşan dismenore: ağrı adetten önce başlar ve dönem boyunca uzar'
-- Derin disparoni ve kronik pelvik ağrı; perimenstrüel diskezi ve dizüri
-- İnfertilite; ovaryum tutulumunda endometrioma ile USG'de tekdüze, ince duvarlı, homojen düşük ekojen
-  içeriği olan kist
-- Muayenede uterosakral bağ bölgesinde dokunma hassasiyeti veya ağrılı, sabit nodül; uterus geriye sabit
-- Bağırsak ve idrar yolu tutulumunda perimenstrüel diskezi, dizüri veya kanlı akıntı gibi ekstrapelvik
-  bulgular
+- "**Sekonder ve giderek ağırlaşan dismenore**: ağrı adetten önce başlar ve dönem boyunca uzar"
+- "**Derin disparoni** ve **kronik pelvik ağrı**; perimenstrüel **diskezi ve dizüri**"
+- "**İnfertilite**; ovaryum tutulumunda **endometrioma** — USG'de tekdüze, ince duvarlı, homojen **düşük ekojen** kist"
+- "Muayenede **uterosakral bağ** bölgesinde dokunma hassasiyeti veya ağrılı, sabit **nodül**; uterus geriye sabit"
+- "Bağırsak ve idrar yolu tutulumunda perimenstrüel **diskezi, dizüri** veya kanlı akıntı gibi ekstrapelvik bulgular"
 patognomonik: null
-ilk_tetkik: Pelvik muayene ve transvajinal USG; derin tutulum şüphesinde MRG; ağrı şikayeti tipikse deneysel
-  hormonal supresyon tanıyı destekler
-kesin_tani: Laparoskopi ile lezyonların (siyah, kahverengi, barut lekeli, ağdalı tipik odaklar) doğrudan
-  görülmesi; cerrahi sırasında evreleme (rASRM) yapılır, histolojik doğrulama şart olmayabilir
-ilk_tedavi: 'Ağrı için NSAID ve hormonal supresyon: kombine oral kontraseptif kesintisiz veya döngüsel,
-  progestinler, GnRH analogları (kemik koruması için add-back tedaviyle); 3 ile 6 aylık deneysel tedaviyle
-  düzelme olmuyorsa ya da endometrioma 4 cm ve üzerinde ise laparoskopik eksizyon; infertilitesi olan
-  hastada cerrahi sonrası yumurta rezervine göre yardımcı üreme teknikleri; ağrı tekrarında uzun süreli
-  hormonal idame'
-klasik_komplikasyon: İnfertilite, endometrioma rüptürü, bağırsak ve idrar yolu obstrüksiyonu, tekrarlayan
-  cerrahilere bağlı aderanslar; nadir olarak malignizasyon (berrak hücreli ve endometrioid karsinom)
+ilk_tetkik: "**Pelvik muayene** ve **transvajinal USG**; derin tutulum şüphesinde **MRG**. Ağrı şikayeti tipikse **deneysel hormonal supresyon** tanıyı destekler"
+kesin_tani: "**Laparoskopi** ile lezyonların (siyah, kahverengi, barut lekeli, ağdalı tipik odaklar) doğrudan görülmesi; cerrahi sırasında **rASRM** evrelemesi yapılır, histolojik doğrulama şart olmayabilir"
+ilk_tedavi: "Ağrı için **NSAID** ve hormonal supresyon: **kombine oral kontraseptif** (kesintisiz veya döngüsel), **progestinler**, **GnRH analogları** (kemik koruması için **add-back** tedaviyle). **3-6 aylık** deneysel tedaviyle düzelme olmuyorsa ya da **endometrioma 4 cm üzeri** ise **laparoskopik eksizyon**. İnfertilite hastasında cerrahi sonrası **yardımcı üreme teknikleri**; ağrı tekrarında uzun süreli **hormonal idame**"
+klasik_komplikasyon: "**İnfertilite**, **endometrioma rüptürü**, bağırsak ve idrar yolu obstrüksiyonu, tekrarlayan cerrahilere bağlı aderanslar; nadir **malignizasyon** — **berrak hücreli** ve **endometrioid karsinom**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-112
 - tus-2017-ilkbahar-ktbt-115

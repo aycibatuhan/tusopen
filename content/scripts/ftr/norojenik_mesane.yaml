@@ -11,49 +11,42 @@ taksonomi:
   - ftr
   - ftr_norolojik_rehabilitasyon
   - ftr_nr_norojenik_mesane_barsak
-tipik_hasta: Omurilik yaralanması, multipl skleroz, spina bifida, diabetik otonom nöropati veya cauda
-  equina sendromu olan hasta; işeme aşırı sık, ani sıkışma ve kaçırma ile ya da hiç işeme yapamama ve
-  taşma kaçırmasıyla başvurur; tekrarlayan idrar yolu enfeksiyonları ve açıklanamayan böbrek fonksiyon
-  bozukluğu da nörojenik mesaneyi düşündürür. Tablo lezyonun seviyesine göre iki ucun birine oturur
-patofizyoloji: 'Mesane işi depolama ve boşaltma evrelerinin pons işeme merkezince eşgüdümlenen bir çift
-  evredir; sakral refleks arkı (S2-S4) efferent ve afferent kolu taşır. Suprasakral lezyonda ponsa bağlantı
-  kesilir, sakral refleks başıboş kalır: detrüsör aşırı aktif olur, işeme denemesinde dış sfinkter gevşemeyip
-  kasılır (detrüsör-sfinkter disinerji). Depo basıncı yükselir, basınç vezikoureteral reflü eşiğini aşınca
-  idrar böbreklere döner: hidronefroz ve böbrek skarı gelişir. Sakral veya cauda equina lezyonunda refleks
-  ark bozulur: detrüsör arefleksi (atoni), mesane dolduğu halde kasılamaz, retansiyon ve taşma inkontinansı
-  olur. Tedavinin esas hedefi, üriner stazı kırmak ve böbreği korumaktır: düşük basınçta depolama artı tam ve
-  düzenli boşaltma. Bağırsak tarafında aynı bölünme geçerlidir: suprasakral lezyonda refleks bağırsak
-  (rektum dolunca otonom boşalma, ama girişim gerekmeden yetersiz), sakral lezyonda arefleks bağırsak
-  (rektum dolu, dış sfinkter flasittir, inkontinans görülür, dışkılama elle temizlikle yapılmalıdır)'
+tipik_hasta: '**Omurilik yaralanması**, **multipl skleroz**, **spina bifida**, **diabetik otonom nöropati**
+  veya **cauda equina sendromu** olan hasta. İşeme ani sıkışma ve **kaçırma**yla ya da hiç işememe ve **taşma
+  kaçırması**yla başvurur. Tekrarlayan **idrar yolu enfeksiyonu** ve açıklanamayan böbrek fonksiyon bozukluğu
+  da düşündürür; tablo lezyon **seviyesine** göre iki uca oturur'
+patofizyoloji: '**Depolama ve boşaltma** evreleri **pons işeme merkezi**nce eşgüdümlenir; **sakral refleks arkı
+  (S2-S4)** kolu taşır. **Suprasakral lezyon**da ponsa bağlantı kesilir: **detrüsör aşırı aktif** olur, işeme
+  çabasında dış sfinkter kasılır (**detrüsör-sfinkter disinerji**). Depo **basıncı** yükselir, **vezikoureteral
+  reflü** eşiği aşılınca **hidronefroz** ve **böbrek skarı** gelişir. **Sakral veya cauda equina** lezyonunda
+  **detrüsör arefleksi (atoni)**, retansiyon ve **taşma inkontinansı**'
 anahtar_bulgular:
-- 'Depolama fazı bulguları: sıkışma, sık idrara çıkma, urge inkontinans (detrüsör aşırı aktivitesi)'
-- 'Boşaltma fazı bulguları: retansiyon, zorlanmış ve kesik kesik işeme, taşma inkontinansı, palpabl mesane'
-- 'Detrüsör-sfinkter disinerjisi: işeme çabasında idrarın önce kesilmesi, ardından tekrar gelmesi (suprasakral
-  lezyon kalıbı)'
-- Tekrarlayan idrar yolu enfeksiyonları; rezidüel idrar artışı
-- 'T6 üstü omurilik yaralanmasında mesane dolumu veya fekal impaksiyonla tetiklenen otonomik disrefleksi:
-  ani hipertansiyon, baş ağrısı, terleme, bradikardi'
-- 'Nörojenik bağırsak: refleks tipinde istemsiz dışkı kaçırma, arefleks tipte fekal impaksiyon ve dışkılama
-  yapamama'
-patognomonik: 'Ürodinamide detrüsör-sfinkter disinerji: detrüsör kasılırken dış sfinkterin de kasılması;
-  suprasakral nörojenik mesanenin imzasıdır'
-ilk_tetkik: İdrar analizi ve kültürü, serum kreatinin; ultrasonla rezidüel idrar ölçümü ve hidronefroz
-  taraması; işeme günlüğü; otonomik disrefleksi semptomu olan hastada tansiyonun işeme sırasında da izlenmesi
-kesin_tani: 'Video-ürodinamik çalışma: detrüsör aşırı aktivitesi, düşük mesane uyumu, detrüsör-sfinkter
-  disinerji ve vezikoureteral reflünün gösterilmesi; hangi hazırlığın böbrek koruyucu olduğu da ancak
+- '**Depolama fazı** bulguları: sıkışma, sık idrara çıkma, **urge inkontinans** (**detrüsör aşırı aktivitesi**)'
+- '**Boşaltma fazı** bulguları: retansiyon, kesik kesik işeme, **taşma inkontinansı**, **palpabl mesane**'
+- '**Detrüsör-sfinkter disinerjisi**: işeme çabasında idrarın önce kesilmesi, sonra gelmesi (**suprasakral**
+  kalıbı)'
+- 'Tekrarlayan **idrar yolu enfeksiyonu**; **rezidüel idrar** artışı'
+- '**T6 üstü** omurilik yaralanmasında mesane dolumu veya **fekal impaksiyon**la tetiklenen **otonomik disrefleksi**:
+  ani **hipertansiyon**, baş ağrısı, terleme, **bradikardi**'
+- '**Nörojenik bağırsak**: **refleks** tipte istemsiz dışkı kaçırma, **arefleks** tipte **fekal impaksiyon**
+  ve dışkılama yapamama'
+patognomonik: '**Ürodinamide detrüsör-sfinkter disinerji**: detrüsör kasılırken dış sfinkterin de kasılması;
+  **suprasakral** nörojenik mesanenin imzasıdır'
+ilk_tetkik: '**İdrar analizi** ve kültürü, serum **kreatinin**; ultrasonla **rezidüel idrar** ölçümü ve **hidronefroz**
+  taraması; **işeme günlüğü**. Otonomik disrefleksi semptomu olan hastada işeme sırasında da **tansiyon**
+  izlemi'
+kesin_tani: '**Video-ürodinamik** çalışma: **detrüsör aşırı aktivitesi**, düşük **mesane uyumu**, **detrüsör-sfinkter
+  disinerji** ve **vezikoureteral reflü** gösterilir. Hangi hazırlığın **böbrek koruyucu** olduğu da ancak
   ürodinamiyle sınıflanır'
-ilk_tedavi: 'Amaç tek cümlede böbrek korumasıdır: düşük basınçta depolama ve tam boşaltma. Depolama fazı:
-  antikolinergik (oksibutinin, tolterodin; ağız kuru ve kabızlık yapar, dar açılı glokom ve şiddetli kabızlıkta
-  dikkat) veya beta-3 agonisti mirabegron; detrüsör-sfinkter disinerjide alfa bloker eklenir. Boşaltma
-  fazı: temel yöntem temiz aralıklı kateterizasyondur (günde 4-6 kez, rezidüel idrarı düşük tutar); arefleksik
-  mesanede tek başına ilaç yetmez, kateterizasyon zorunludur. Refraktör tabloda botulinum toksininin detrüsöre
-  enjeksiyonu veya sakral nöromodülasyon seçenekleridir. Nörojenik bağırsakta lif ve sıvı desteğiyle saatli
-  bağırsak programı: refleks tipte dijital rektal stimülasyon ve supozituvar, arefleks tipte elle dışkı
-  çıkarma ve düzenli takviye. Otonomik disrefleksi krizinde hasta oturtulur, önce kateter tıkanıklığı
-  ve fekal impaksiyon aranır'
-klasik_komplikasyon: Vezikoureteral reflü ve hidronefroz sonrası böbrek skarı ve kronik böbrek hastalığı;
-  tekrarlayan ürosepsi; T6 üstü lezyonda otonomik disrefleksi krizi; uzun süreli kateterde üriner sistem
-  taşları ve tümör riski
+ilk_tedavi: 'Amaç **böbrek koruması** — düşük basınçta depolama, tam ve düzenli boşaltma. Depolama fazında
+  **antikolinergik** (**oksibutinin**, **tolterodin**) veya **mirabegron**, detrüsör-sfinkter disinerjide
+  **alfa bloker** eklenir. Boşaltmada **temiz aralıklı kateterizasyon** (**günde 4-6 kez**) esas; **arefleksik**
+  mesanede zorunlu, refraktörde detrüsöre **botulinum toksini** veya **sakral nöromodülasyon**. **Nörojenik
+  bağırsakta** **saatli program** (lif-sıvı desteği): refleks tipte **dijital rektal stimülasyon** ve **supozituvar**,
+  arefleks tipte **elle dışkı çıkarma**'
+klasik_komplikasyon: '**Vezikoureteral reflü** ve **hidronefroz** sonrası **böbrek skarı** ve **kronik böbrek
+  hastalığı**; tekrarlayan **ürosepsis**; **T6 üstü** lezyonda **otonomik disrefleksi** krizi; uzun süreli
+  kateterde **taş** ve **tümör** riski'
 tus_gecmisi:
 - tus-2017-ilkbahar-ttbt-103
 kart_uret:

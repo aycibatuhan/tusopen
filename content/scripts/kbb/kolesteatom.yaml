@@ -7,18 +7,18 @@ sources:
 ad: Kolesteatom
 taksonomi:
   - [ktbt, kbb, kbb_orta_kulak, kbb_ok_kolesteatom]
-tipik_hasta: "Çocuklukta tekrarlayan orta kulak iltihabı ve Östaki borusu işlev bozukluğu geçirmiş, tek taraflı ve ısrarla süren kötü kokulu kulak akıntısıyla gelen hasta; akıntıya rağmen ağrı az olduğundan geç başvurur; işitme kaybı yavaş yavaş derinleşir"
-patofizyoloji: "Orta kulak ve mastoidde keratin üreten yassı epitel kesesi; en sık yol, Östaki disfonksiyonuna bağlı pars flaksida retraksiyon cepinin içine keratin dolmasıdır; kese genişledikçe mekanik basınç ve iltihabi enzimler zincir, labirent duvarı, yüz siniri kanalı ve kranial çatıyı eritir; keratin kendiliğinden boşaltılamaz, enfekte olduğunda kemik yıkım hızlanır"
+tipik_hasta: "Çocuklukta **tekrarlayan orta kulak iltihabı** ve **Östaki borusu işlev bozukluğu** geçirmiş; **tek taraflı** ve ısrarla süren **kötü kokulu kulak akıntısı**yla gelen hasta. Akıntıya rağmen **ağrı az** olduğundan geç başvurur; **işitme kaybı** yavaş yavaş **derinleşir**"
+patofizyoloji: "Orta kulak ve mastoidde **keratin üreten yassı epitel kesesi**. En sık yol, **Östaki disfonksiyonuna** bağlı **pars flaksida retraksiyon cepi**nin içine **keratin** dolmasıdır. Kese genişledikçe **mekanik basınç** ve iltihabi enzimler **zincir**, **labirent duvarı**, **yüz siniri kanalı** ve **kranial çatı**yı eritir. Keratin **kendiliğinden boşaltılamaz**; **enfekte** olduğunda **kemik yıkım**ı hızlanır"
 anahtar_bulgular:
-  - "Tek taraflı, sürekli veya tekrarlayan, fetid (kötü kokulu) kulak akıntısı; belirgin ağrı olmaması kolesteatomu düşündürür"
-  - "Pars flaksidada (epitimpanik bölge) retraksiyon cepi ve içinde sedefsi beyaz keratin kütle"
-  - "İletim tipi işitme kaybı; ossiküler zincir erozyonuyla kademeli artar"
-  - "Kemik erozyon belirtileri: yüz asimetrisi (yüz siniri kanalı tutulumu), baş dönmesi ve pozisyonel vertigo (labirent fistülü)"
-  - "Çocukta bütün zar arkasında soluk kütle (konjenital kolesteatom); akıntısız ve sessiz seyredebilir"
-patognomonik: "Retraksiyon cebi içinde sedefsi beyaz keratin kitlesi"
-ilk_tetkik: "Otomikroskopi; erozyonun yaygınlığını haritalamak için yüksek çözünürlüklü temporal kemik BT"
-kesin_tani: "Otomikroskopik görünüm ve cerrahide keratin kesesinin görülmesiyle konur; yüz siniri veya labirentle temas riski nedeniyle biyopsi yapılmaz"
-ilk_tedavi: "Cerrahi: kanal duvarı açık veya kapalı mastoidektomiyle kesenin bütünüyle çıkarılması, timpanoplasti ve zincir onarımı; kolesteatom ilaçla iyileşmez, amaç kuru ve kapalı bir kulaktır"
-klasik_komplikasyon: "Kemik erozyonuyla yüz felci, labirent fistülü, menenjit, temporal lob veya serebellar abse ve lateral sinüs trombozu"
+- "**Tek taraflı**, sürekli veya tekrarlayan, **fetid (kötü kokulu) kulak akıntısı**; **belirgin ağrı olmaması** kolesteatomu düşündürür"
+- "**Pars flaksida**da (epitimpanik bölge) **retraksiyon cepi** ve içinde sedefsi beyaz **keratin kütle**"
+- "**İletim tipi işitme kaybı**; **ossiküler zincir erozyonu**yla kademeli artar"
+- "**Kemik erozyon** belirtileri: **yüz asimetrisi** (yüz siniri kanalı tutulumu), baş dönmesi ve pozisyonel vertigo (**labirent fistülü**)"
+- "Çocukta bütün zar arkasında **soluk kütle** (**konjenital kolesteatom**); **akıntısız ve sessiz** seyredebilir"
+patognomonik: "**Retraksiyon cebi içinde sedefsi beyaz keratin kitlesi**"
+ilk_tetkik: "**Otomikroskopi**; **erozyonun yaygınlığı**nı haritalamak için **yüksek çözünürlüklü temporal kemik BT**"
+kesin_tani: "**Otomikroskopik görünüm** ve cerrahide **keratin kesesinin** görülmesiyle konur; **yüz siniri** veya **labirent**le temas riski nedeniyle **biyopsi yapılmaz**"
+ilk_tedavi: "**Cerrahi**: **kanal duvarı açık veya kapalı mastoidektomi**yle kesenin bütünüyle çıkarılması, **timpanoplasti** ve **zincir onarımı**. Kolesteatom **ilaçla iyileşmez**, amaç **kuru ve kapalı** bir kulaktır"
+klasik_komplikasyon: "**Kemik erozyonu**yla **yüz felci**, **labirent fistülü**, **menenjit**, **temporal lob** veya **serebellar abse** ve **lateral sinüs trombozu**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

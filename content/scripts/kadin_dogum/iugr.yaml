@@ -11,33 +11,19 @@ taksonomi:
   - kadin_dogum
   - kd_fetal_komplikasyonlar
   - kd_fk_iugr
-tipik_hasta: Rutin ultrasonda tahmini fetal ağırlık onuncu persentilin altına düşen gebe; tansiyon yüksekliği
-  veya preeklampsi öyküsü olan, sigara içen, önceki gebeliğinde küçük bebek doğurmuş ya da erken dönemden
-  itibaren büyümesi geride kalan fetus taşıyan hasta
-patofizyoloji: 'İki temel tip vardır: erken başlayan simetrik büyüme geriliğinde neden fetustadır (kromozom
-  bozukluğu, konjenital enfeksiyon, fetal anemi) ve baş ile gövde birlikte küçüktür; geç başlayan asimetrik
-  tip plasental yetersizliktedir, fetüs kanını beyin-kalbe yöneltip (baş koruma yanıtı) karaciğer deposunu
-  kısar, bu yüzden karın çevresi küçülür ama baş ölçüsü nispeten korunur. Doppler plasental yetersizliğin
-  ağırlığını ölçer: göbek atardamarında direnç artışı önce gelir, diyastol akımın yokluğu ve ters akım
-  derin fetal hipoksi işaretidir'
+tipik_hasta: "Rutin ultrasonda tahmini fetal ağırlık **onuncu persentilin altına** düşen gebe; **tansiyon yüksekliği veya preeklampsi** öyküsü, **sigara**, önceki gebelikte küçük bebek ya da erken dönemden itibaren büyümesi geride kalan fetus taşıyan hasta"
+patofizyoloji: "İki temel tip vardır: erken başlayan **simetrik** büyüme geriliğinde neden fetustadır (**kromozom bozukluğu, konjenital enfeksiyon, fetal anemi**) ve baş ile gövde birlikte küçüktür. Geç başlayan **asimetrik** tip **plasental yetersizliğidir**: fetüs kanını beyin-kalbe yöneltip (**baş koruma yanıtı**) karaciğer deposunu kısar, bu yüzden **karın çevresi** küçülür ama baş ölçüsü korunur. Doppler ağırlığı ölçer: **göbek atardamarında direnç artışı** önce gelir; **diyastol akımın yokluğu ve ters akım** derin **fetal hipoksi** işaretidir"
 anahtar_bulgular:
-- Tahmini fetal ağırlık veya karın çevresi onuncu persentilin altı; karın çevresi en erken küçülen parametre
-- Asimetrik tipte baş ölçüsü korunurken karın çevresi küçük; simetrik tipte her iki ölçü birlikte küçük
-- Göbek atardamarı Dopplerinde direnç artışı; ilerlemiş olguda diyastol akım yokluğu, ters akım ve duktus
-  venozus bozukluğu
-- Oligohidramnios ile anne tansiyon yüksekliği veya preeklampsi belirtilerinin eşlik etmesi plasental
-  tipi destekler
-- Erken başlayan simetrik tipte enfeksiyon serolojisi ve kromozom değerlendirmesi düşünülmeli
+- "Tahmini fetal ağırlık veya **karın çevresi onuncu persentilin altı**; karın çevresi **en erken küçülen** parametre"
+- "**Asimetrik** tipte baş ölçüsü korunurken karın çevresi küçük; **simetrik** tipte her iki ölçü birlikte küçük"
+- "**Göbek atardamarı Dopplerinde direnç artışı**; ilerlemiş olguda **diyastol akım yokluğu**, **ters akım** ve **ductus venozus** bozukluğu"
+- "**Oligohidramnios** ile anne **tansiyon yüksekliği veya preeklampsi** belirtilerinin eşlik etmesi plasental tipi destekler"
+- "Erken başlayan **simetrik** tipte **enfeksiyon serolojisi** ve **kromozom** değerlendirmesi düşünülmeli"
 patognomonik: null
-ilk_tetkik: Ultrasonla tahmini ağırlık ve karın çevresi ölçümü, amniyon sıvısı değerlendirmesi ve göbek
-  atardamarı Doppleri; anne tansiyonu ve proteinüri
-kesin_tani: Aralıklı ölçümlerde büyüme eğrisinin persentilin altına inmesi veya tek ölçüde onuncu persentilin
-  altı; Doppler bulguları plasental tipi doğrular
-ilk_tedavi: 'Doğum zamanı Doppler ve gebelik haftasıyla belirlenir: göbek atardamarında diyastol akım
-  yokluğu veya ters akım yakın izlem ve doğumu gündeme alır, 34. haftadan önce doğum yapılacaksa akciğer
-  olgunlaşması için kortikosteroid verilir; sigara bırakma ve yakın takip temeldir'
-klasik_komplikasyon: Doğumda fetal distres ve kord sıkışması; yenidoğanda hipoglisemi, polisitemi ve asfiksi;
-  ileri Doppler bozukluğunda intrauterin ölüm
+ilk_tetkik: "Ultrasonla **tahmini ağırlık** ve **karın çevresi** ölçümü, **amniyon sıvısı** değerlendirmesi ve **göbek atardamarı Doppleri**; anne **tansiyonu** ve **proteinüri**"
+kesin_tani: "Aralıklı ölçümlerde büyüme eğrisinin persentilin altına inmesi veya tek ölçüde **onuncu persentilin altı**; **Doppler** bulguları plasental tipi doğrular"
+ilk_tedavi: "Doğum zamanı **Doppler** ve gebelik haftasıyla belirlenir: göbek atardamarında **diyastol akım yokluğu veya ters akım** yakın izlem ve doğumu gündeme alır. **34. haftadan önce** doğum yapılacaksa akciğer olgunlaşması için **kortikosteroid** verilir; **sigara bırakma** ve yakın takip temeldir"
+klasik_komplikasyon: "Doğumda **fetal distres** ve kord sıkışması; yenidoğanda **hipoglisemi, polisitemi** ve asfiksi; ileri Doppler bozukluğunda **intrauterin ölüm**"
 tus_gecmisi:
 - tus-2018-sonbahar-ktbt-111
 kart_uret:

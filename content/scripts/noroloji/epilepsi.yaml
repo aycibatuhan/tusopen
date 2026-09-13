@@ -11,40 +11,19 @@ taksonomi:
   - noroloji
   - noro_epilepsi
   - noro_ep_nobet_siniflama
-tipik_hasta: 'İki uçta yoğunlaşır: çocuklar (genetik ve gelişimsel nedenler) ve ileri yaş (inme, tümör,
-  nörodejenerasyon). Hastalığı tanımlayan tek bir nöbet değil, provokasyon dışı nöbetlerin tekrarıdır;
-  ilk nöbet sonrası öykü ve tetkik kalıcı tanıyı belirler'
-patofizyoloji: 'Kortikal nöronlarda uyarım-baskılama dengesinin bozulup hipersenkron paroksismal deşarj.
-  Odağın yeri ve yayılım biçimi klinik tipi belirler: fokal başlangıçlı nöbetler (aura, otomatizmler,
-  jeneralize yayılım) ile jeneralize nöbetler (absans, tonik-klonik, miyoklonik). Hastalığı nöbetin kendisi
-  değil, tekrar etme eğilimi tanımlar'
+tipik_hasta: "İki uçta yoğunlaşır: **çocuklar** (genetik ve gelişimsel nedenler) ve **ileri yaş** (**inme**, **tümör**, **nörodejenerasyon**). Hastalığı tanımlayan **provokasyon dışı nöbetlerin tekrarıdır**; ilk nöbet sonrası öykü ve tetkik kalıcı tanıyı belirler"
+patofizyoloji: "Kortikal nöronlarda **uyarım-baskılama dengesinin bozulup hipersenkron paroksismal deşarj**; **Fokal başlangıçlı** nöbetler (**aura**, **otomatizmler**, jeneralize yayılım) ile **jeneralize** nöbetler (**absans**, **tonik-klonik**, **miyoklonik**)"
 anahtar_bulgular:
-- 'Fokal nöbetin ipuçları: nöbet öncesi aura, otomatizmler (çiğneme, el oyalama), tek tarafa kafa dönmesi,
-  nöbet sonrası Todd paralizisi ve konfüzyon'
-- 'Jeneralize tonik-klonik nöbet: ani bilinç kaybı, önce tonik sonra klonik kasılmalar, dil ısırığı, idrar
-  kaçırma, saatler süren postiktal uyuklama'
-- 'Absans: çocukta ani boş bakış, saniyeler süren bilinç durgunluğu, hiperventilasyonla tetiklenme; EEG''de
-  3 Hz diken-dalga'
-- 'Juvenil miyoklonik epilepsi: uyanmakla kollarda miyoklonik sıçrama, uykusuzluk ve alkolle tetiklenme'
-- 'Mimiklerden ayrım: senkop, psikojenik nöbet ve TIA karışabilir; stereotipik tekrar ve postiktal konfüzyon
-  nöbet lehinedir'
+- "**Fokal nöbet ipuçları**: nöbet öncesi **aura**, **otomatizmler** (çiğneme, el oyalama), tek tarafa **kafa dönmesi**, nöbet sonrası **Todd paralizisi** ve konfüzyon"
+- "**Jeneralize tonik-klonik**: ani bilinç kaybı, önce **tonik** sonra **klonik** kasılmalar, **dil ısırığı**, **idrar kaçırma**, saatler süren **postiktal uyuklama**"
+- "**Absans**: çocukta ani **boş bakış**, saniyeler süren bilinç durgunluğu, **hiperventilasyon**la tetiklenme; **EEG'de 3 Hz diken-dalga**"
+- "**Juvenil miyoklonik epilepsi**: uyanmakla **kollarda miyoklonik sıçrama**, **uykusuzluk ve alkol**le tetiklenme"
+- "**Mimiklerden ayrım**: **senkop**, **psikojenik nöbet**, **TIA** karışabilir; **stereotipik tekrar** ve **postiktal konfüzyon** nöbet lehinedir"
 patognomonik: null
-ilk_tetkik: 'İlk nöbet sonrası: ayrıntılı tanık öyküsü, kan şekeri, elektrolitler, kalsiyum, magnezyum
-  ve infeksiyon taraması; EEG ve planlı kraniyal MR (acil tabloda CT). Ateşli havale, ilaç kesilmesi,
-  alkol yoksunluğu gibi provokatif nedenler dışlanır'
-kesin_tani: 'ILAE tanımı: 24 saatten uzun arayla iki provokasyon dışı nöbet; ya da bir nöbet artı yüksek
-  tekrar riski (EEG''de epileptiform bozukluk, MR''da epileptojen lezyon, gece nöbeti); ya da bir epilepsi
-  sendromu tanısı'
-ilk_tedavi: 'İlaç seçimi nöbet tipine göre yapılır: fokal nöbetlerde karbamazepin, okskarbazepin, lakozamid
-  veya levetirasetam; jeneralize tonik-klonikte lamotrijin veya levetirasetam (valproat etkilidir ama
-  doğurgan çağdaki kadınlarda teratojenite nedeniyle kaçınılır); absansta etosüksimid veya valproat; juvenil
-  miyoklonide valproat öne çıkar, karbamazepin ve fenitoin miyokloniyi kötüleştirebildiğinden verilmez.
-  Tek bir provokasyon dışı nöbette tedavi ertelenebilir; ilaç krizsiz en az 2 yıl sürülür ve kesilme yavaş
-  yapılır. Konvülsif status epileptikus: önce intravenöz benzodiyazepin (lorazepam veya midazolam), ardından
-  fenitoin-fosfenitoin, valproat veya levetirasetam infüzyonu'
-klasik_komplikasyon: 'Status epileptikus (5 dakikayı aşan kesilmeyen nöbet), ani beklenmeyen epilepsi
-  ölümü (SUDEP), nöbet sırasında travma ve aspirasyon; ilaç yan etkileri: valproatta hepatotoksisite ve
-  trombositopeni, karbamazepinde hiponatremi ve döküntü'
+ilk_tetkik: "İlk nöbet sonrası: **ayrıntılı tanık öyküsü**, **kan şekeri**, elektrolitler, **kalsiyum**, **magnezyum** ve **infeksiyon taraması**; **EEG** ve planlı **kraniyal MR** (acil tabloda **CT**); **Ateşli havale**, ilaç kesilmesi, **alkol yoksunluğu** gibi **provokatif nedenler** dışlanır"
+kesin_tani: "**ILAE tanımı**: **24 saatten uzun arayla iki provokasyon dışı nöbet**. Ya da **bir nöbet + yüksek tekrar riski** (**EEG'de epileptiform bozukluk**, **MR'da epileptojen lezyon**, **gece nöbeti**); ya da **epilepsi sendromu** tanısı"
+ilk_tedavi: "**Fokal nöbetlerde** **karbamazepin**, **okskarbazepin**, **lakozamid** veya **levetirasetam**; **Jeneralize tonik-klonik**te **lamotrijin** veya **levetirasetam** (**valproat** etkilidir ama **doğurgan çağdaki kadında teratojenite** nedeniyle kaçınılır); **Absans**ta **etosüksimid** veya **valproat**; **juvenil miyoklonide** **valproat** öne çıkar — **karbamazepin ve fenitoin miyokloniyi kötüleştirir**, verilmez. İlaç **krizsiz en az 2 yıl** sürülür, **kesilme yavaş** yapılır; **konvülsif status epileptikus**ta önce **IV benzodiyazepin (lorazepam veya midazolam)**, ardından **fenitoin-fosfenitoin**, **valproat** veya **levetirasetam**"
+klasik_komplikasyon: "**Status epileptikus** (**5 dakikayı aşan kesilmeyen nöbet**); **ani beklenmeyen epilepsi ölümü (SUDEP)**. Nöbet sırasında **travma** ve **aspirasyon**; **valproat**ta **hepatotoksisite** ve **trombositopeni**; **karbamazepin**de **hiponatremi** ve **döküntü**"
 tus_gecmisi:
 - tus-2016-ilkbahar-ktbt-34
 - tus-2016-sonbahar-ktbt-69

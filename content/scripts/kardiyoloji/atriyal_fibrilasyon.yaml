@@ -3,49 +3,53 @@ version: 1
 status: draft
 author: ai-drafts/kardiyoloji
 sources:
-- ESC Atriyal Fibrilasyon Tanı ve Yönetim Rehberi — referans olarak listelendi, metin projesi özgün yazımdır
+- ESC Atriyal Fibrilasyon Tanı ve Yönetim Rehberi — referans olarak listelendi, metin projesi özgün
+  yazımdır
 ad: Atriyal Fibrilasyon
 taksonomi:
 - - ktbt
   - kardiyoloji
   - kard_aritmiler
   - kard_ar_atriyal_fibrilasyon
-tipik_hasta: İleri yaşlı, hipertansiyonlu veya mitral kapak hastalığı olan hasta; çarpıntı, efor intoleransı,
-  baş dönmesiyle başvurur ya da asemptomatiktir ve rutin EKG'de saptanır. Bazı hastada ilk bulgu kardiyembolik
-  inme veya hızlı ventrikül yanıtına bağlı akut pulmoner ödem olur
-patofizyoloji: Özellikle pulmoner ven ağızları çevresindeki atriyal dokuda hızlı ve düzensiz elektrik
-  dalgaları döner; atrium 350-600 atım hızında kasılır ama dalgaların çoğu AV düğümde gizli iletimle bloke
-  olur, ventriküllere düzensiz ve genellikle hızlı yanıt geçer. Etkin atriyal kontraksiyonun kaybı kan
-  stazı yaratır; trombüs en sık sol atriyal apendikste oluşur ve embolize olup inmeye yol açar. Uzun süre
-  kontrolsüz hızlı yanıt takikardiyomiye bağlı kardiyomiyopati yapabilir
+tipik_hasta: "**İleri yaşlı**, **hipertansiyon**lu veya **mitral kapak hastalığı** olan hasta. **Çarpıntı**,
+  **efor intoleransı**, baş dönmesiyle başvurur ya da asemptomatiktir ve rutin **EKG**de saptanır. Bazı
+  hastada ilk bulgu **kardiyembolik inme** veya hızlı ventrikül yanıtına bağlı **akut pulmoner ödem**
+  olur"
+patofizyoloji: "Özellikle **pulmoner ven ağızları** çevresindeki atriyal dokuda hızlı ve düzensiz elektrik
+  dalgaları döner; atrium **350-600 atım** hızında kasılır ama dalgaların çoğu **AV düğüm**de gizli
+  iletimle bloke olur, ventriküllere düzensiz ve genellikle hızlı yanıt geçer. Etkin atriyal
+  kontraksiyonun kaybı kan stazı yaratır; trombüs en sık **sol atriyal apendiks**te oluşur ve embolize
+  olup **inme**ye yol açar. Uzun süre kontrolsüz hızlı yanıt **takikardiyomi**ye bağlı kardiyomiyopati
+  yapabilir"
 anahtar_bulgular:
-- EKG'de P dalgası yok; fibrilasyon (f) dalgaları ve tamamen düzensiz RR aralıkları
-- Nabız defisiti (apikal ve radyal nabız farkı), amplitüdü değişken Korotkoff sesleri
-- Çarpıntı, nefes darlığı, göğüs rahatsızlığı, halsizlik; bir kısım hasta asemptomatiktir
-- 'İnme risk faktörleri: kalp yetmezliği, hipertansiyon, diyabet, önceki inme-geçici iskemik atak, vasküler
-  hastalık, yaş 65 üstü, kadın cinsiyet (CHA2DS2-VASc bileşenleri)'
-- 'Tetikleyiciler: tirotoksikoz, alkol (bayram kalbi), sepsis, pulmoner emboli, postoperatif durum'
-patognomonik: EKG'de P dalgasının yokluğu ve tamamen düzensiz ventrikül yanıtı
-ilk_tetkik: 12 derivasyonlu EKG tanıyı koyar; ayrıca TSH, elektrolitler, kan sayımı, kreatinin ve ekokardiyografi
-  (kapak hastalığı, EF, sol atriyal boyut) istenir. Süresi 48 saati aşan veya belirsiz ataklarda elektif
-  kardiyoversiyon öncesi transözofageal ekokardiyografiyle atriyal trombüs dışlanır
-kesin_tani: 'EKG: P dalgası yok, fibrilasyon dalgaları, RR aralıkları tamamen düzensiz. 7 günden kısa
-  ve kendiliğinden düzelen atak paroksismal, 7 günden uzun atak persistan sayılır; ataklar saptanamıyorsa
-  Holter izlemiyle paroksismal ataklar yakalanır'
-ilk_tedavi: 'Üç ayrı karar verilir. Hemodinamik instabilite (hipotansiyon, akut pulmoner ödem, sürüp giden
-  iskemik göğüs ağrısı) varsa derhal senkronize kardiyoversiyon. Stabil hastada önce hız kontrolü: beta
-  bloker (metoprolol) veya diltiazem-verapamil (sistolik işlev bozukluğunda kaçınılır); kalp yetmezliğinde
-  digoksin ek seçenek. Ritim stratejisi seçilirse: atak süresi 48 saatten kısa ve tromboemboli riski düşükse
-  kardiyoversiyon yapılır; 48 saati aşan veya belirsiz atakta 3 hafta etkin antikoagülasyon ya da transözofageal
-  ekokardiyografiyle trombüs dışlanması şarttır; kardiyoversiyon sonrası 4 hafta antikoagülasyon sürdürülür.
-  Sistolik işlev bozukluğunda ritim için amiodaron tercih edilir; yapısal kalp hastalığı olmayan seçkin
-  hastada flekainid-propafenon (pill-in-pocket) kullanılır. Antikoagülasyon kararı CHA2DS2-VASc skoruna
-  bakılır: kalp yetmezliği, hipertansiyon, diyabet, vasküler hastalık, kadın cinsiyet ve 65-74 yaş 1''er
-  puan; inme öyküsü ve 75 yaş üstü 2''şer puan. Erkekte 2, kadında 3 puan ve üzeri antikoagülan endikasyonudur;
-  0 puan antikoagülasyon gerektirmez. Mekanik kapak ve orta-ileri mitral stenoz dışında DOAC (apiksaban,
-  rivaroksaban, dabigatran) tercih edilir; bu iki durumda warfarin zorunludur'
-klasik_komplikasyon: Kardiyembolik inme (en önemli); periferik arter embolisi, takikardiyomiye bağlı kardiyomiyopati,
-  kalp yetmezliğinin alevlenmesi
+- "EKG'de **P dalgası yok**; **fibrilasyon (f) dalgaları** ve tamamen **düzensiz RR aralıkları**"
+- "**Nabız defisiti** (apikal ve radyal nabız farkı), amplitüdü değişken Korotkoff sesleri"
+- "Çarpıntı, nefes darlığı, göğüs rahatsızlığı, halsizlik; bir kısım hasta **asemptomatik**tir"
+- "İnme risk faktörleri (**CHA2DS2-VASc** bileşenleri): kalp yetmezliği, hipertansiyon, diyabet, önceki
+  inme-geçici iskemik atak, vasküler hastalık, **65 yaş üstü**, kadın cinsiyet"
+- "Tetikleyiciler: **tirotoksikoz**, **alkol (bayram kalbi)**, **sepsis**, **pulmoner emboli**,
+  postoperatif durum"
+patognomonik: "EKG'de **P dalgasının yokluğu** ve tamamen **düzensiz ventrikül yanıtı**"
+ilk_tetkik: "**12 derivasyonlu EKG** tanıyı koyar; ayrıca **TSH**, **elektrolitler**, kan sayımı,
+  kreatinin ve **ekokardiyografi** (kapak hastalığı, EF, sol atriyal boyut). Süresi **48 saati aşan** veya
+  belirsiz ataklarda elektif kardiyoversiyon öncesi **transözofageal ekokardiyografi**yle atriyal trombüs
+  dışlanır"
+kesin_tani: "**EKG**: P dalgası yok, fibrilasyon dalgaları, RR aralıkları tamamen düzensiz. **7 günden
+  kısa** ve kendiliğinden düzelen atak **paroksismal**, **7 günden uzun** atak **persistan** sayılır;
+  ataklar saptanamıyorsa **Holter** izlemiyle yakalanır"
+ilk_tedavi: "Hemodinamik instabilite (hipotansiyon, akut pulmoner ödem, sürüp giden iskemik göğüs ağrısı)
+  varsa derhal **senkronize kardiyoversiyon**. Stabil hastada önce **hız kontrolü**: **beta bloker
+  (metoprolol)** veya **diltiazem-verapamil** (sistolik işlev bozukluğunda kaçınılır), kalp
+  yetmezliğinde **digoksin** ek seçenek. Ritim stratejisi: **48 saatten kısa** ve düşük tromboemboli
+  riskli atakta **kardiyoversiyon**; **48 saati aşan** veya belirsiz atakta **3 hafta etkin
+  antikoagülasyon** ya da **transözofageal EKO** ile trombüs dışlanması şart, kardiyoversiyon sonrası
+  **4 hafta** antikoagülasyon sürdürülür. Sistolik işlev bozukluğunda ritim için **amiodaron**; yapısal
+  kalp hastalığı olmayan seçkin hastada **flekainid-propafenon (pill-in-pocket)**. Antikoagülasyon kararı
+  **CHA2DS2-VASc** skoruna bakılır: **erkekte 2, kadında 3 puan** ve üzeri endikasyon, **0 puan**
+  gerektirmez. Mekanik kapak ve **orta-ileri mitral stenoz** dışında **DOAC** (**apiksaban**,
+  **rivaroksaban**, **dabigatran**) tercih edilir, bu iki durumda **warfarin** zorunludur"
+klasik_komplikasyon: "**Kardiyembolik inme** (en önemli). **Periferik arter embolisi**, **takikardiyomi**ye
+  bağlı kardiyomiyopati, kalp yetmezliğinin alevlenmesi"
 tus_gecmisi:
 - tus-2017-sonbahar-ktbt-29
 - tus-2017-sonbahar-ktbt-9

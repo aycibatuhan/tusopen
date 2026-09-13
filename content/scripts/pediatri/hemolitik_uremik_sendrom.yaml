@@ -12,36 +12,19 @@ taksonomi:
   - pediatri
   - ped_nefroloji
   - ped_nef_hus
-tipik_hasta: 1-10 yaş arasında, 3-7 gün süren kanlı diyareden 5-10 gün sonra soluklaşma, idrar miktarının
-  azalması ve deride peteşi-purpura ile gelen çocuk; az pişmiş kıyma, pastörize edilmemiş süt ve çiftlik
-  hayvanı teması öyküsü anımsatıcıdır
-patofizyoloji: 'Şigatoksün (verotoksün) üreten E. coli (STEC, en sık O157:H7) ya da Shigella dysenteriae
-  tip 1 diyaresi: toksin bağırsaktan emilip glomerüler endoteldeki Gb3 reseptörüne bağlanır; endotel şişmesi
-  ve hasarı mikrodamar trombüsünü başlatır (trombotik mikroanjiopati). Kırmızı hücreler daralan damar
-  ışığında parçalanır (şistosit), trombositler tükenir, glomerüler iskemi akut böbrek hasarına yol açar.
-  Antibiyotikler bakteriyel toksin salınımını artırabileceğinden akut dönemde önerilmez'
+tipik_hasta: "**1-10 yaş** arasında, **3-7 gün** süren **kanlı diyare**den **5-10 gün** sonra soluklaşma, idrar miktarının azalması ve peteşi-purpura ile gelen çocuk; **az pişmiş kıyma**, pastörize edilmemiş süt ve çiftlik hayvanı teması öyküsü anımsatıcıdır"
+patofizyoloji: "**Şigatoksün** üreten **E. coli** (STEC, en sık **O157:H7**) ya da **Shigella dysenteriae tip 1**, toksin glomerüler endoteldeki **Gb3 reseptörüne** bağlanır. Endotel hasarı **trombotik mikroanjiopati** başlatır, kırmızı hücreler daralan ışıkta parçalanır (**şistosit**), trombositler tükenir, glomerüler iskemi **akut böbrek hasarı** yapar; **antibiyotikler** bakteriyel toksin salınımını artırabileceğinden akut dönemde **önerilmez**"
 anahtar_bulgular:
-- 'Mikroanjiopatik hemolitik anemi: Coombs negatif, periferik yaymada şistosit ve helmet hücreleri, LDH
-  yüksek, haptoglobin düşük, dolaylı bilirubin artışı'
-- 'Trombositopeni: trombosit sayısının belirgin düşmesi; deride peteşi ve purpura'
-- 'Akut böbrek hasarı: oligüri-anüri, kan üre ve kreatinin yükselmesi, hipertansiyon; idrar tetkikinde
-  hematuri ve proteinüri'
-- 'Öncü diyare: genellikle ateşsiz ya da az ateşli, kanlı-mukuslu diyareden 5-10 gün sonra üçlünün başlaması;
-  arada 1-2 günlük iyilik dönemi olabilir'
-- 'Ek tutulumlar: bilinç bulanıklığı ve konvülziyon (nörolojik tip), pankreas tutulumunda amilaz ve lipaz
-  yükselmesi'
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kanlı diyareden sonra Coombs negatif mikroanjiopatik hemoliz, trombositopeni ve akut böbrek
-  hasarı üçlüsü
-ilk_tetkik: Tam kan sayımı ve periferik yayma (şistosit), LDH ve haptoglobin, kan üre-kreatinin ve elektrolitler,
-  idrar tetkiki, dışkıda STEC kültürü ve şigatoksün gen PCR'ı
-kesin_tani: 'Klinik üçlü: Coombs negatif mikroanjiopatik hemoliz artı trombositopeni artı akut böbrek
-  hasarı, öncü kanlı diyare öyküsüyle birlikte; atipik HUS (komplement aracılı) ve trombotik trombositopenik
-  purpura dışlanır'
-ilk_tedavi: 'Destekleyici: dikkatli sıvı-elektrolit dengesi (dehidratasyon düzeltilirken hipervolemiden
-  kaçınılır), hipertansiyon kontrolü, diyaliz gerektiğinde erken başlanması; antibiyotik ve antidiareik
-  ilaçlardan kaçınılması; atipik HUS şüphesinde ekulizumab ya da plazmaferez'
-klasik_komplikasyon: Diyaliz gerektiren anürik böbrek yetersizliği; konvülziyon dahil nörolojik komplikasyonlar;
-  uzun dönemde hipertansiyon, proteinüri ve kronik böbrek hastalığı
+- "**Mikroanjiopatik hemolitik anemi**: **Coombs negatif**, yaymada **şistosit**; **LDH yüksek**, **haptoglobin düşük**, dolaylı bilirubin artışı"
+- "**Trombositopeni**: trombosit sayısının belirgin düşmesi; deride **peteşi ve purpura**"
+- "**Akut böbrek hasarı**: **oligüri-anüri**, üre-kreatinin yükselmesi, **hipertansiyon**; idrarda **hematuri** ve **proteinüri**"
+- "Öncü diyare: ateşsiz ya da az ateşli **kanlı-mukuslu diyare**den **5-10 gün** sonra üçlü başlar; arada **1-2 günlük iyilik dönemi** olabilir"
+- "Ek tutulum: **konvülziyon** (nörolojik tip); pankreas tutulumunda **amilaz-lipaz** yükselmesi"
+patognomonik: "Tam patognomonik değil: **kanlı diyare**den sonra **Coombs negatif mikroanjiopatik hemoliz**, **trombositopeni** ve **akut böbrek hasarı** üçlüsü"
+ilk_tetkik: "Tam kan sayımı ve periferik yayma (**şistosit**); **LDH** ve **haptoglobin**, üre-kreatinin ve elektrolitler, idrar tetkiki. Dışkıda **STEC kültürü** ve **şigatoksün gen PCR'ı**"
+kesin_tani: "**Klinik üçlü**: **Coombs negatif mikroanjiopatik hemoliz** artı **trombositopeni** artı **akut böbrek hasarı**, öncü **kanlı diyare** öyküsüyle. Atipik HUS (komplement aracılı) ve **trombotik trombositopenik purpura** dışlanır"
+ilk_tedavi: "**Destekleyici**: sıvı-elektrolit dengesi (dehidratasyon düzeltilirken **hipervolemiden kaçınılır**), hipertansiyon kontrolü, **diyaliz** gerektiğinde erken başlanır; **antibiyotik** ve **antidiareik ilaçlardan kaçınılır**; **atipik HUS** şüphesinde **ekulizumab** ya da **plazmaferez**"
+klasik_komplikasyon: "**Diyaliz** gerektiren anürik böbrek yetersizliği; **konvülziyon** dahil nörolojik komplikasyonlar. Uzun dönemde **hipertansiyon**, **proteinüri** ve **kronik böbrek hastalığı**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-62
 - tus-2015-sonbahar-ktbt-67

@@ -3,41 +3,47 @@ version: 1
 status: draft
 author: ai-drafts/gogus-2
 sources:
-- AASM (Amerikan Uyku Tıbbı Akademisi) OSAS Klinik Rehberi — referans adı olarak listelendi, metin projesi
-  özgün yazımdır
+- AASM (Amerikan Uyku Tıbbı Akademisi) OSAS Klinik Rehberi — referans adı olarak listelendi, metin
+  projesi özgün yazımdır
 ad: Obstrüktif Uyku Apne Sendromu
 taksonomi:
 - - ktbt
   - gogus_hastaliklari
   - gog_uyku
   - gog_uy_osas
-tipik_hasta: Orta yaşlı, obez, boyun çevresi 40 cm üstü, kısa boyunlu ve çene geriye yerleşik (retrognatik)
-  erkek; horlama hikâyesi ve gündüz aşırı uyku hali ile başvurur. Eşinin uyurken nefesinin durduğunu izlediğini
-  söylemesi ve dirençli hipertansiyon hikâyesi iki güçlü işarettir
-patofizyoloji: Uyku sırasında üst hava yolu dilatör kaslarında fizyolojik tonus azalması; obezite, makroglosi
-  veya retrognatizm gibi yapısal darlığın üzerine binince hava yolu tam kapanır (apne) veya daralır (hipopne).
-  Tekrarlayan asfiksi döngüleri hipoksemi, sempatik atılım patlaması ve mikrouyanma (arousal) yaratır;
-  bu döngüler gündüz uyku halini, hipertansiyonu ve aritmileri besler
+tipik_hasta: "**Orta yaşlı**, **obez**, **boyun çevresi 40 cm üsti**, kısa boyunlu ve **çene geriye
+  yerleşik (retrognatik)** erkek; **horlama** hikâyesi ve **gündüz aşırı uyku hali** ile başvurur.
+  **Eşinin uyurken nefesinin durduğunu izlemesi** ve **dirençli hipertansiyon** hikâyesi **iki güçlü
+  işaret**tir"
+patofizyoloji: "Uyku sırasında **üst hava yolu dilatör kaslarında** fizyolojik tonus azalması;
+  **obezite**, **makroglosi** veya **retrognatizm** gibi yapısal darlığın üzerine binince hava yolu tam
+  kapanır (**apne**) veya daralır (**hipopne**). Tekrarlayan **asfiksi** döngüleri **hipoksemi**,
+  **sempatik atılım patlaması** ve **mikrouyanma (arousal)** yaratır; bu döngüler **gündüz uyku
+  halini**, **hipertansiyonu** ve **aritmileri** besler"
 anahtar_bulgular:
-- Eş tarafından izlenen, horlama içinde kesilen apne epizotları ve bunu izleyen gürültülü soluklanma
-- Gündüz aşırı uyku hali — toplantıda, okurken veya araba kullanırken uyuyakalma
-- Epworth Uyku Skalasının yüksek çıkması (10 ve üzeri) — subjektif gündüz uykusunu ölçer, tanı koymaz;
-  polisomnografik doğrulama gereklidir
-- Sabah baş ağrısı, ağız kuruluğu ve dinlenmişlik hissi olmaksızın uyanma
-- Dirençli hipertansiyon, atriyal fibrilasyon, pulmoner hipertansiyon veya gece aritmileri
-- Boyun çevresi 40 cm üstü, makroglosi, retrognatizm, yakın zamanda kilo artışı
+- "**Eş tarafından izlenen**, horlama içinde kesilen **apne epizotları** ve bunu izleyen **gürültülü
+  soluklanma**"
+- "**Gündüz aşırı uyku hali** — toplantıda, okurken veya **araba kullanırken uyuyakalma**"
+- "**Epworth Uyku Skalası**nın yüksek çıkması (**10 ve üsti**) — subjektif gündüz uykusunu ölçer,
+  **tanı koymaz**; **polisomnografik** doğrulama gereklidir"
+- "**Sabah baş ağrısı**, **ağız kuruluğu** ve dinlenmişlik hissi olmaksızın uyanma"
+- "**Dirençli hipertansiyon**, **atriyal fibrilasyon**, **pulmoner hipertansiyon** veya **gece
+  aritmileri**"
+- "**Boyun çevresi 40 cm üsti**, **makroglosi**, **retrognatizm**, yakın zamanda **kilo artışı**"
 patognomonik: null
-ilk_tetkik: Epworth Uyku Skalası ile gündüz uykusunun subjektif ölçümü ve STOP-BANG gibi yapısal risk
-  tarama soruları; boyun çevresi ölçümü ile ağız içi muayenesi (tonsil büyüklüğü, dil boyutu); eş gözlemleri
-  sorgulanır
-kesin_tani: 'Polisomnografi altın standarttır: saat başına 5 ve üzerinde apne-hipopne epizodu ile tekrarlayan
-  hava akımı azalması gösterilir; semptomatik hastada AHI 5-15 arasında bulunması tanıyı destekler; AHI 15 ve üzerinde semptom şartı aranmaz.
-  Seçilmiş basit olgularda ev tipi portabl poligrafi yeterli olabilir'
-ilk_tedavi: Kilo kaybı her hastanın temel tedavi planıdır; semptomatik hastada nazal CPAP (sürekli pozitif
-  hava yolu basıncı) standart non-invaziv tedavidir; lateral pozisyonda uyku, alkol ve sedatif kaçınma,
-  seçilmiş yapısal anomalide uvulopalatofaringeoplasti veya dental aparey eklenir
-klasik_komplikasyon: Tedavi edilmediğinde dirençli hipertansiyon, atriyal fibrilasyon, iskemik kalp hastalığı
-  ve inme riskinde artış; uyuyakalmaya bağlı trafik kazası riski
+ilk_tetkik: "**Epworth Uyku Skalası** ile gündüz uykusunun subjektif ölçümü ve **STOP-BANG** gibi
+  yapısal risk tarama soruları. **Boyun çevresi** ölçümü ile **ağız içi muayene** (tonsil büyüklüğü, dil
+  boyutu); **eş gözlemleri** sorgulanır"
+kesin_tani: "**Polisomnografi altın standart**tır: saat başına **5 ve üzerinde apne-hipopne epizodu**
+  ile tekrarlayan **hava akımı azalması** gösterilir. Semptomatik hastada **AHI 5-15** arasında bulunması
+  tanıyı destekler; **AHI 15 ve üsti**nde semptom şartı aranmaz. Seçilmiş basit olgularda **ev tipi
+  portabl poligrafi** yeterli olabilir"
+ilk_tedavi: "**Kilo kaybı** her hastanın temel tedavi planıdır. Semptomatik hastada **nazal CPAP**
+  (sürekli pozitif hava yolu basıncı) standart **non-invaziv** tedavidir. **Lateral pozisyonda uyku**,
+  **alkol ve sedatif kaçınma**; seçilmiş yapısal anomalide **uvulopalatofaringeoplasti** veya **dental
+  aparey** eklenir"
+klasik_komplikasyon: "Tedavi edilmediğinde **dirençli hipertansiyon**, **atriyal fibrilasyon**,
+  **iskemik kalp hastalığı** ve **inme** riskinde artış. **Uyuyakalmaya bağlı trafik kazası** riski"
 tus_gecmisi:
 - tus-2015-ilkbahar-ktbt-11
 - tus-2017-ilkbahar-ktbt-5

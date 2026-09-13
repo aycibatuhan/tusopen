@@ -8,18 +8,37 @@ sources:
 ad: Protez Eklem Enfeksiyonu
 taksonomi:
   - [ktbt, ortopedi, orto_eklem_dejeneratif, orto_ek_protez_enfeksiyonu]
-tipik_hasta: "Total kalça ya da diz protezi takılmış hasta; erken dönemde ameliyat yarasının iyileşmemesi ve akıntıyla, geç dönemde (yıllar sonra) açıklanamayan eklem ağrısı, ısınma-şişlik veya hematogen yayılım kaynağı (idrar yolu, diş, cilt enfeksiyonu) öyküsüyle başvurur. En sık etken S aureus ve koagülaz negatif stafilokoklardır"
-patofizyoloji: "Protez metal-plastik yüzeylerinde yerleşen bakteriler kendilerini polisakkarit bir biyofilm tabakasının içine hapseder; biyofilmdeki organizmalara antibiyotikler ve savunma hücreleri ulaşamaz, kültür bile negatif kalabilir. Bu yüzden tedavinin omurgası antibiyotik değil cerrahidir. Geç enfeksiyonlar ayrıca geçici bakteriyemiyle proteze hematogen yerleşir. İltihap mediatörleri protez-basınç kemik arayüzünü bozarak gevşeme yapar"
+tipik_hasta: "Total kalça ya da diz **protezi** takılmış hasta; erken dönemde ameliyat yarasının
+  iyileşmemesi ve **akıntıyla**, geç dönemde (yıllar sonra) açıklanamayan **eklem ağrısı**, ısınma-şişlikle
+  başvurur. **Hematogen** yayılım kaynağı (idrar yolu, diş, cilt enfeksiyonu) öyküsü olabilir; en sık
+  etken **S aureus** ve **koagülaz negatif stafilokoklar**dır"
+patofizyoloji: "Protez metal-plastik yüzeylerinde yerleşen bakteriler kendilerini **polisakkarit
+  biyofilm** tabakasının içine hapseder; biyofilmdeki organizmalara antibiyotikler ve savunma hücreleri
+  ulaşamaz, **kültür bile negatif** kalabilir. Bu yüzden tedavinin omurgası **antibiyotik değil
+  cerrahi**dir. Geç enfeksiyonlar ayrıca geçici **bakteriyemi**yle proteze hematogen yerleşir; iltihap
+  mediatörleri kemik-arayüzü bozarak **gevşeme** yapar"
 anahtar_bulgular:
-  - "İstirahatte bile süren eklem ağrısı (salt yüklenme ağrısı gevşemeyi, dinlenme ağrısı enfeksiyonu düşündürür)"
-  - "Serum CRP ve ESR birlikte normal ise enfeksiyon olasılığı çok düşüktür (tarama değerleri); CRP ameliyat sonrası yaklaşık 3 haftada normale döner, ESR ancak aylar içinde iner"
-  - "Sinovyal sıvıda lökosit sayısı ve PMN oranının artması (protezli ekleme özgü eşik değerlerin üstünde)"
-  - "Yara yerinden akıntı veya eklemle iletişimli fistül"
-  - "Grafide protez çevresinde kemik rezorpsiyonu-osteolizis, bileşenlerin erken gevşemesi"
-patognomonik: "Eklemle iletişim süren sinüs traktı (fistül) veya protezin görünür kısıtından süzülen akıntı"
-ilk_tetkik: "Serum CRP ve ESR, eklem grafisi; değerler yüksekse veya şüphe sürüyorsa eklem aspirasyonu (sinovyal lökosit sayısı, PMN oranı, kültür)"
-kesin_tani: "Sinovyal sıvı hücre sayısı-PMN oranı eşiğinin aşılması ve tekrarlı eklem sıvısı/doku kültürlerinde aynı etkenin izolasyonu; gerekirse intraoperatif doku patolojisi ve protez yüzeyi ultrasonikasyon kültürü"
-ilk_tedavi: "Başlangıcı erken (belirtiler yaklaşık 3-4 haftadan kısa) ve protezi sağlam olan hastada: protez yerinde bırakılarak açık debridman ve bileşen ara yüzünün değiştirilmesi, ardından damar yolu antibiyotiği; geç/kronik enfeksiyonda iki aşamalı revizyon: protezin çıkarılıp antibiyotik yüklü siman ara boşluk konması, damar yolu antibiyotik kürü, sonra yeni protez. Biyofilm nedeniyle salt antibiyotik tedavi başarısızdır"
-klasik_komplikasyon: "Biyofilm nedeniyle tedavi direnci, kalıcı fistül ve protezin kaybı; eksizyon artroplastisi veya kemik kaybıyla revizyonda zorlanmış cerrahi"
+  - "**İstirahatte bile süren** eklem ağrısı; salt yüklenme ağrısı **gevşemeyi**, dinlenme ağrısı
+    **enfeksiyonu** düşündürür"
+  - "Serum **CRP** ve **ESR** birlikte normal ise enfeksiyon olasılığı çok düşüktür; **CRP** ameliyat
+    sonrası yaklaşık **3 hafta**da normale döner, **ESR** ancak aylar içinde iner"
+  - "Sinovyal sıvıda **lökosit sayısı** ve **PMN oranı**nın artması (protezli ekleme özgü eşik değerlerin
+    üstünde)"
+  - "Yara yerinden **akıntı** veya eklemle iletişimli **fistül**"
+  - "Grafide protez çevresinde **kemik rezorpsiyonu-osteolizis**, bileşenlerin erken **gevşemesi**"
+patognomonik: "Eklemle iletişim süren **sinüs traktı (fistül)** veya protezin görünür kısıtından süzülen
+  **akıntı**"
+ilk_tetkik: "Serum **CRP** ve **ESR**, eklem grafisi. Değerler yüksekse veya şüphe sürüyorsa **eklem
+  aspirasyonu** (sinovyal lökosit sayısı, **PMN** oranı, kültür)"
+kesin_tani: "Sinovyal sıvıda **hücre sayısı-PMN oranı** eşiğinin aşılması ve tekrarlı eklem sıvısı-doku
+  kültürlerinde **aynı etkenin** izolasyonu. Gerekirse **intraoperatif doku patolojisi** ve protez yüzeyi
+  **ultrasonikasyon** kültürü"
+ilk_tedavi: "Başlangıcı erken (belirtiler **3-4 haftadan kısa**) ve protezi sağlam hastada: protez yerinde
+  bırakılarak **açık debridman**, bileşen ara yüzünün değiştirilmesi ve **damar yolu antibiyotiği**.
+  Geç-kronik enfeksiyonda **iki aşamalı revizyon**: protez çıkarılıp **antibiyotik yüklü siman** ara boşluk
+  konması, damar yolu antibiyotik kürü, sonra yeni protez. **Biyofilm** nedeniyle salt antibiyotik tedavi
+  başarısızdır"
+klasik_komplikasyon: "**Biyofilm** nedeniyle tedavi direnci, kalıcı **fistül** ve protezin kaybı.
+  Eksizyon artroplastisi veya **kemik kaybıyla** revizyonda zorlanmış cerrahi"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

@@ -10,33 +10,20 @@ taksonomi:
   - pediatri
   - ped_enfeksiyon
   - ped_enf_kabakulak
-tipik_hasta: Aşısı eksik çocuk ya da ergen; kuluçka süresi 2-4 hafta; birkaç gündür süren ateş, baş ağrısı
-  ve halsizlikten sonra parotiste ağrılı şişlikle gelen; ergen ve erişkin erkekte skrotumda ağrılı şişlik
-  (orşit), ense sertliği ya da epigastrik ağrı da başvuru şekli olabilir
-patofizyoloji: Paramiksovirus ailesinden kabakulak virüsü, tek serotip; damlacık ve tükürük temasıyla
-  bulaşır. Parotis kanal epitelinde çoğalır, viremiyle tükürük bezleri, testis, yumurtalık, pankreas ve
-  santral sinir sistemine yayılır. Parotiste fibrinöz eksüdatif iltihap şişlik ve ağrı yapar; orşitte
-  sert albuginea kabuğu içinde gelişen ödem doku basısı ve atrofi riski taşır; menenjitte likirde lenfosit
-  baskın iltihap görülür
+tipik_hasta: "Aşısı eksik çocuk ya da ergen; **kuluçka süresi 2-4 hafta**. Birkaç gündür süren ateş, baş ağrısı ve halsizlikten sonra **parotiste ağrılı şişlikle** gelir. Ergen-erişkin erkekte **orşit**, **ense sertliği** ya da **epigastrik ağrı** (pankreatit) başvuru şekli olabilir"
+patofizyoloji: "**Paramiksovirus** ailesinden **kabakulak virüsü**, tek serotip; damlacık ve tükürük temasıyla bulaşır. Parotis kanal epitelinde çoğalır, **viremiyle** tükürük bezleri, testis, yumurtalık, pankreas ve **santral sinir sistemine** yayılır. Orşitte sert **albuginea** kabuğu içinde gelişen ödem doku basısı ve **atrofi** riski taşır; menenjitte BOS'ta **lenfosit baskın** iltihap"
 anahtar_bulgular:
-- 'Tek ya da iki taraflı parotis şişliği: kulak memesi yukarı ve dışa doğru kalkar, çene açısı doldurulur;
-  asitli ya da sert yiyecek yemeyle ağrı artar'
-- Parotis şişliğinden birkaç gün önce ateş, baş ağrısı, halsizlik ve kulak bölgesinde ağrı
-- 'Ergen ve erişkin erkekte orşit-epididimit: skrotumda ağrılı şişlik, ateş; iki taraflılık nadir ve infertilite
-  riski düşük ama unutulmamalı'
-- 'Aseptik (lenfositik) menenjit: ense sertliği, baş ağrısı; likirde lenfosit baskın pleositoz, glukoz
-  genellikle normal'
-- 'Pankreatit: epigastrik ağrı, bulantı ve kusma; serum amilaz yüksekliği'
-- Nadiren tek taraflı sensörinöral işitme kaybı; kadınlarda ooforit, postpubertal kadında da pelvik ağrı
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kulak memesinin yukarı kalkmasıyla belirginleşen parotis şişliği (asitli gıdayla artan ağrı)
-ilk_tetkik: Klinikle tanı konur; şüpheli olguda serum amilaz (parotit ve pankreatitte yükselir), tükürük
-  ya da idrarda PCR ve IgM serolojisi; bildirim zorunluluğu akılda tutulmalı
-kesin_tani: Klinik parotit tablosu artı laboratuvar onayı (tükürük PCR ya da IgM pozitifliği); tipik parotit
-  olmadan orşit, menenjit ya da pankreatitle gelen olgularda seroloji şart
-ilk_tedavi: 'Destekleyici bakım: sıvı, analjezi, asitli ve sert yiyeceklerden kaçınma; orşitte yatak istirahati,
-  skrotumu yukarı destekleme ve soğuk uygulama; spesifik antiviral tedavi yok'
-klasik_komplikasyon: Orşit sonrası nadiren testis atrofisi; sensörinöral işitme kaybı; menenjit ve nadir
-  ansefalit; pankreatit; ooforit ve mastit; gebeliğin ilk üç aylık döneminde fötal kayıp riskinde artış
+- "**Tek ya da iki taraflı parotis şişliği**: kulak memesi yukarı-dışa kalkar, çene açısı dolar; **asitli ya da sert yiyecekle ağrı artar**"
+- "Parotis şişliğinden birkaç gün önce ateş, baş ağrısı, halsizlik ve **kulak bölgesinde ağrı**"
+- "Ergen-erişkin erkekte **orşit-epididimit**: skrotumda ağrılı şişlik, ateş; **iki taraflılık nadir** ve **infertilite riski düşük**"
+- "**Aseptik (lenfositik) menenjit**: ense sertliği, baş ağrısı; BOS'ta **lenfosit baskın pleositoz**, glukoz genellikle normal"
+- "**Pankreatit**: epigastrik ağrı, bulantı-kusma; **serum amilaz** yüksekliği"
+- "Nadiren **tek taraflı sensörinöral işitme kaybı**; kadınlarda **ooforit**; gebeliğin **ilk üç ayında** fötal kayıp riski artışı"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **kulak memesinin yukarı kalkmasıyla** belirginleşen **parotis şişliği** (asitli gıdayla artan ağrı)"
+ilk_tetkik: "**Klinikle** tanı konur; şüpheli olguda **serum amilaz** (parotit ve pankreatitte yükselir). Tükürük ya da idrarda **PCR** ve **IgM serolojisi**; **bildirim zorunluluğu** akılda tutulmalı"
+kesin_tani: "**Klinik parotit** tablosu artı laboratuvar onayı (**tükürük PCR** ya da **IgM** pozitifliği). Tipik parotit olmadan **orşit, menenjit ya da pankreatit**le gelen olgularda **seroloji** şart"
+ilk_tedavi: "**Destekleyici bakım**: sıvı, analjezi, **asitli ve sert yiyeceklerden kaçınma**; **spesifik antiviral tedavi yok**; **orşitte** yatak istirahati, skrotumu yukarı destekleme ve **soğuk uygulama**"
+klasik_komplikasyon: "Orşit sonrası nadiren **testis atrofisi**; **sensörinöral işitme kaybı**; **menenjit** ve nadir **ansefalit**; **Pankreatit**; **ooforit** ve mastit; gebeliğin **ilk üç aylık döneminde** fötal kayıp riskinde artış"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-71
 kart_uret:

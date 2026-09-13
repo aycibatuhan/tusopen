@@ -15,45 +15,21 @@ taksonomi:
   - dahiliye
   - dah_hepatoloji
   - dah_hep_hepatit_b
-tipik_hasta: Kan ürünü veya iğne teması, damar içi madde kullanımı, korunmasız cinsel temas ya da HBsAg
-  pozitif anneden doğum öyküsü olan; sarılık, koyu idrar, sağ üst kadran ağrısı ve bitkinlikle akut başvuran;
-  ya da yıllardır sessiz seyredip rutin tetkikte enzim yüksekliği saptanan ve sonunda siroz ya da hepatosellüler
-  karsinom tablosuyla gelen hasta
-patofizyoloji: Hepadnaviridae ailesinden, kısmen çift zincirli DNA virüsü hepatositleri enfekte eder;
-  karaciğer hasarını doğrudan virüsün kendisi değil, özellikle sitotoksik T hücreleri aracılı bağışıklık
-  yanıtı yapar. Replikasyon şablonu olan kapalı dairesel DNA (ccDNA) hepatosit çekirdeğinden silinemediği
-  için enfeksiyon kökten kaldırılamaz, ancak antivirallerle baskılanır. Erişkinlerde akut enfeksiyonun
-  yaklaşık yüzde 95'i kendini sınırlarken doğumda anneden geçen enfeksiyonun yaklaşık yüzde 90'ı kronikleşir;
-  bulaş yaşının kronikleşme oranını belirlemesi temel noktadır
+tipik_hasta: "**Kan ürünü veya iğne teması**, **damar içi madde kullanımı**, **korunmasız cinsel temas** ya da **HBsAg pozitif anne**nden doğum öyküsü. Sarılık, koyu idrar, sağ üst kadran ağrısı ve bitkinlikle **akut** başvuran. Ya da yıllardır sessiz seyredip rutin tetkikte **enzim yüksekliği** saptanan; sonunda **siroz** ya da **hepatosellüler karsinom** tablosuyla gelen hasta"
+patofizyoloji: "**Hepadnaviridae** ailesinden kısmen çift zincirli DNA virüsü hepatositleri enfekte eder; karaciğer hasarını **sitotoksik T hücre** aracılı bağışıklık yanıtı yapar. Replikasyon şablonu **ccDNA** çekirdekten silinemediği için enfeksiyon kökten kaldırılamaz, ancak **antivirallerle** baskılanır. Erişkinlerde akut enfeksiyonun **yüzde 95**'i kendini sınırlarken doğumda anneden geçenin **yüzde 90**'ı kronikleşir; bulaş yaşı temel belirleyicidir"
 anahtar_bulgular:
-- HBsAg enfeksiyonun varlığıdır; pozitifliği altı ayı aşarsa kronik enfeksiyon tanımı konur
-- HBeAg yüksek replikasyon ve bulaşıcılığın göstergesidir; anti-HBe'ye geçiş replikasyonun yatışmasını
-  işaret eder (ön-kor bölge mutantlarında yine de aktif hastalık görülebilir)
-- Anti-HBc IgM akut enfeksiyonu, anti-HBc IgG ise geçirilmiş ya da kronik enfeksiyonu gösterir ve ömür
-  boyu kalır; HBsAg temizlenip anti-HBs henüz pozitifleşmemiş pencere döneminde tek başına pozitif bulunan
-  işarettir
-- Anti-HBs koruyucu bağışıklıktır; aşıyla gelişen bağışıklıkta anti-HBc negatif, geçirilmiş enfeksiyonda
-  pozitiftir
-- Akut dönemde ALT ve AST belirgin yüksekliği (çoğunlukla binin üstünde), sarılık, koyu idrar, sağ üst
-  kadran ağrısı ve eklem ağrıları
-- 'Kronik enfeksiyonun dört evresi: bağışıklık toleransı (yüksek viral DNA, normal enzimler), immün aktif
-  (enzim yüksekliği ve inflamasyon), inaktif taşıyıcılık (HBeAg negatif, anti-HBe pozitif, normal enzimler)
-  ve HBeAg negatif kronik hepatit'
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kronik HBV'de karaciğer biyopsisinde cam benzeri görünümlü hepatositler
-ilk_tetkik: HBsAg, anti-HBs, anti-HBc (IgM-IgG ayrımı), HBeAg ve anti-HBe serolojisi; karaciğer fonksiyon
-  testleri; HBV DNA miktarı; karaciğer ultrasonografisi
-kesin_tani: HBsAg pozitifliği ve HBV DNA saptanması; akut-kronik ayrımında anti-HBc IgM akut enfeksiyonu,
-  IgG kronik ya da geçirilmiş enfeksiyonu gösterir; HBsAg pozitifliğinin altı ayı aşması kronikleşmenin
-  tanımıdır
-ilk_tedavi: 'Akut enfeksiyonda destek tedavisi yeterlidir, antiviral gerekmez (fulminan seyir istisnadır).
-  Kronik enfeksiyonda tedavi endikasyonu mantığı: belirgin HBV DNA yüksekliğiyle birlikte karaciğer enzim
-  yüksekliği ya da biyopside inflamasyon-fibrozis; siroz varlığında enzim değerinden bağımsız olarak;
-  ailede hepatosellüler karsinom öyküsü; immünosupresif tedavi öncesi profilaksi; gebelikte dikey geçişi
-  önlemek için yüksek viral yük. Birincil ilaçlar tenofovir ve entekavirdir (nükleotid/nükleozid analogları);
-  pegile interferon alfa seçilmiş olgularda alternatiftir'
-klasik_komplikasyon: Siroz ve hepatosellüler karsinom (siroz gelişmeden bile), fulminan hepatit; hepatit
-  D virüsü koenfeksiyonu tabloyu ağırlaştırır; poliarteritis nodoza ve membranöz glomerülonefrit gibi
-  ekstrahepatik bulgular
+- "**HBsAg** enfeksiyonun varlığıdır; pozitifliği **altı ayı** aşarsa kronik enfeksiyon tanımı konur"
+- "**HBeAg** yüksek replikasyon ve bulaşıcılığın göstergesi; **anti-HBe**'ye geçiş yatışmayı işaret eder (ön-kor mutantında yine aktif hastalık olur)"
+- "**Anti-HBc IgM** akut enfeksiyonu, **anti-HBc IgG** geçirilmiş ya da kronik enfeksiyonu gösterir; ömür boyu kalır"
+- "**Pencere dönem**inde (HBsAg temizlenmiş, **anti-HBs** pozitifleşmemiş) tek başına pozitif bulunan işaret **anti-HBc**'dir"
+- "**Anti-HBs** koruyucu bağışıklıktır; **aşıyla** gelişen bağışıklıkta **anti-HBc negatif**, geçirilmiş enfeksiyonda pozitiftir"
+- "Akut dönemde **ALT ve AST** belirgin yüksekliği (çoğunlukla **binin üstünde**), sarılık, koyu idrar, **eklem ağrıları**"
+- "Kronik enfeksiyonun **dört evresi**: **bağışıklık toleransı** (yüksek viral DNA, normal enzimler); **immün aktif** (enzim yüksekliği, inflamasyon); **inaktif taşıyıcılık** (HBeAg negatif, anti-HBe pozitif); **HBeAg negatif kronik hepatit**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — kronik HBV'de karaciğer biyopsisinde **cam benzeri görünümlü hepatosit**ler"
+ilk_tetkik: "**HBsAg**, **anti-HBs**, **anti-HBc** (IgM-IgG ayrımı), **HBeAg** ve **anti-HBe** serolojisi; **karaciğer fonksiyon testleri**. **HBV DNA** miktarı; **karaciğer ultrasonografisi**"
+kesin_tani: "**HBsAg** pozitifliği ve **HBV DNA** saptanması; akut-kronik ayrımında **anti-HBc IgM** akut, IgG kronik ya da geçirilmiş gösterir. HBsAg pozitifliğinin **altı ayı** aşması kronikleşme tanımıdır"
+ilk_tedavi: "Akut enfeksiyonda **destek tedavisi** yeterlidir, **antiviral** gerekmez (**fulminan** seyir istisnadır). Kronikte endikasyon: belirgin **HBV DNA** yüksekliğiyle **enzim yüksekliği** ya da biyopside **inflamasyon-fibrozis**; **siroz**da enzim değerinden bağımsız. Endikasyon sürer: ailede **hepatosellüler karsinom** öyküsü; **immünosupresif** tedavi öncesi profilaksi; gebelikte dikey geçişi önlemek için yüksek **viral yük**. Birincil ilaçlar **tenofovir** ve **entekavir**; **pegile interferon alfa** seçilmiş olgularda alternatif"
+klasik_komplikasyon: "**Siroz** ve **hepatosellüler karsinom** (siroz gelişmeden bile), **fulminan hepatit**. **Hepatit D** virüsü koenfeksiyonu tabloyu ağırlaştırır. **Poliarteritis nodoza** ve **membranöz glomerülonefrit** gibi ekstrahepatik bulgular"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-13
 - tus-2014-sonbahar-ktbt-15

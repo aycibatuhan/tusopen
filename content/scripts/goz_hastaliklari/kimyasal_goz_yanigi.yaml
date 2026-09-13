@@ -8,18 +8,18 @@ sources:
 ad: Kimyasal Göz Yanığı
 taksonomi:
   - [ktbt, goz_hastaliklari, goz_travma, goz_tr_kimyasal_yanik]
-tipik_hasta: "İş yerinde (çimento-kireç işi, sanayi temizlik maddeleri, tarımsal gübre) veya evde (kireç sökme, ağır temizleyiciler) gözüne kimyasal sıçramış hasta; acile şiddetli ağrı, kızarıklık, gözyaşı ve görüş bulanıklığıyla getirilir; asit maruziyeti çoğunlukla laboratuvar kazası kökenlidir"
-patofizyoloji: "Alkali, hücre zarı yağlarını sabunlaştırır (saponifikasyon) ve dokuda kollajene bağlanmadan derinlere, ön odaya kadar yayılır; temastan sonra saatlerce etkisini sürdürdüğü için alkaliler asitlerden belirgin daha yıkıcıdır. Asit ise korneal proteini çökeltip koagülasyon kabuğu oluşturarak kendini sınırlar. Hasarın ciddiyeti korneal opasite ve limbal iskemi derecesine bağlıdır; limbal kök hücre yıkımı epitel iyileşmesini kalıcı bozar"
+tipik_hasta: "İş yerinde (**çimento-kireç** işi, sanayi temizlik maddeleri, tarımsal **gübre**) veya evde (kireç sökme, ağır temizleyiciler) gözüne **kimyasal sıçramış** hasta; acile **şiddetli ağrı**, kızarıklık, gözyaşı ve **görüş bulanıklığı**yla getirilir. **Asit** maruziyeti çoğunlukla **laboratuvar kazası** kökenlidir"
+patofizyoloji: "**Alkali**, hücre zarı yağlarını **sabunlaştırır (saponifikasyon)** ve dokuda **kollajene** bağlanmadan derinlere, **ön odaya** kadar yayılır; temastan sonra **saatlerce** etkisini sürdürdüğü için alkaliler asitlerden **belirgin daha yıkıcıdır**. **Asit** ise korneal proteini çökeltip **koagülasyon kabuğu** oluşturarak kendini sınırlar. Hasarın ciddiyeti **korneal opasite** ve **limbal iskemi** derecesine bağlıdır; **limbal kök hücre** yıkımı epitel iyileşmesini **kalıcı** bozar"
 anahtar_bulgular:
-  - "Şiddetli ağrı, blefarospazm, bol gözyaşı ve yoğun konjunktival kızarıklık"
-  - "Korneal opasite: hafif bulanıklıktan total beyazlığa kadar değişir (Roper-Hall evrelemesinin temelini oluşturur)"
-  - "Limbal iskemi: kornea kenarındaki damarların beyaz-kanamayan hal alması; prognozun en güçlü belirleyicisi"
-  - "Kornea epitelinde yaygın dökülme ve defekt; konjunktival solukluk"
-  - "Ağır olguda kimyasal maddenin forniks altında kalması (özellikle kireç-çimento partikülleri) sürekli maruziyet sağlar"
+- "**Şiddetli ağrı**, **blefarospazm**, bol gözyaşı ve yoğun **konjunktival kızarıklık**"
+- "**Korneal opasite**: hafif bulanıklıktan **total beyazlığa** kadar değişir (**Roper-Hall** evrelemesinin temelini oluşturur)"
+- "**Limbal iskemi**: kornea kenarındaki damarların **beyaz-kanamayan** hal alması; **prognozun en güçlü belirleyicisi**"
+- "**Kornea epitelinde** yaygın **dökülme ve defekt**; konjunktival **solukluk**"
+- "Ağır olguda kimyasal maddenin **forniks altında kalması** (özellikle **kireç-çimento** partikülleri) **sürekli maruziyet** sağlar"
 patognomonik: null
-ilk_tetkik: "Topikal anestezi sonrası derhal bol sıvıyla yıkamaya başlanması; kapaklar geriye çevrilip konjunktival kese ve forniks altındaki katı partiküllerin (kireç, çimento) mekanik temizliği; yıkama sonrası pH ölçümü ve pH normal aralığa (7,4 civarı) gelene dek yıkamanın sürdürülmesi; ardından korneal opasite ve limbal iskemi derecelendirmesi"
-kesin_tani: "Kimyasal temas öyküsü ve klinik tablo; korneal opasite ve limbal iskemiye göre Roper-Hall (veya Dua) evrelemesi hem tanıyı kesinleştirir hem prognozu belirler"
-ilk_tedavi: "Bol ve uzun süreli yıkama ilk ve en kritik müdahaledir (litrelerce serum fizyolojik); ardından topikal antibiyotik, yoğun topikal kortikosteroid (iskemik olguda kolajen erimesi riski nedeniyle dikkatli), sikloplejik damla, alkali yanıkta askorbat (C vitamini) damlası ve sık yapay gözyaşı; göz içi basınç yükselirse antiglokomatoz tedavi"
-klasik_komplikasyon: "Korneal skar, neovaskülarizasyon ve kalıcı opasite; korneal perforasyon; simblifaron ve kapak yapışıklıkları; kuru göz ve tekrarlayan epitel defektleri; ağır olguda körlük"
+ilk_tetkik: "**Topikal anestezi** sonrası derhal **bol sıvıyla yıkamaya** başlanması; kapaklar geriye çevrilip **konjunktival kese** ve **forniks altındaki katı partiküllerin** (kireç, çimento) **mekanik temizliği**. Yıkama sonrası **pH ölçümü** ve pH **7,4 civarına** gelene dek yıkamanın sürdürülmesi; ardından **korneal opasite** ve **limbal iskemi** derecelendirmesi"
+kesin_tani: "**Kimyasal temas öyküsü** ve klinik tablo; **korneal opasite** ve **limbal iskemi**ye göre **Roper-Hall** (veya **Dua**) evrelemesi hem tanıyı kesinleştirir hem **prognozu** belirler"
+ilk_tedavi: "**Bol ve uzun süreli yıkama** ilk ve en kritik müdahaledir (**litrelerce serum fizyolojik**); ardından **topikal antibiyotik**, yoğun **topikal kortikosteroid** (**iskemik olguda kolajen erimesi** riski nedeniyle dikkatli), **sikloplejik** damla. Alkali yanıkta **askorbat (C vitamini)** damlası ve sık **yapay gözyaşı**; **göz içi basınç** yükselirse **antiglokomatoz** tedavi"
+klasik_komplikasyon: "**Korneal skar**, **neovaskülarizasyon** ve kalıcı **opasite**; **korneal perforasyon**; **simblifaron** ve kapak yapışıklıkları; **kuru göz** ve tekrarlayan **epitel defektleri**; ağır olguda **körlük**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

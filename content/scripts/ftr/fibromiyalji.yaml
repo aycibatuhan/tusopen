@@ -15,36 +15,34 @@ taksonomi:
   - dahiliye
   - dah_romatoloji
   - dah_rom_fibromiyalji
-tipik_hasta: Genellikle 30-50 yaş arası kadın; aylardır süren yaygın vücut ağrısı, gece uykusuna rağmen
-  geçmeyen yorgunluk ve konsantrasyon güçlüğüyle başvurur; sayısız tetkiki yapılmış ama laboratuvarı bir
-  türlü bozuk çıkmamış hasta profilini anımsatmalıdır
-patofizyoloji: 'Esas sorun yapısal bir doku hasarı değil, ağrı işlemenin bozulmasıdır: merkezi sensitizasyonla
-  spinal düzeyde ağrı sinyalleri aşırı yükseltilir, inen inhibitör yolların baskısı zayıflar. Enflamatuvar
-  veya otoimmün bir hastalık değildir; kas, eklem ve sinir dokusunda yapısal anormallik yoktur. Genetik
-  yatkınlık, kronik stres ve uyku bozukluğu tabloyu tetikleyen ve besleyen öğelerdir; dinlendirici olmayan
-  uyku hem ağrıyı hem yorgunluğu derinleştirir'
+tipik_hasta: 'Genellikle **30-50 yaş** arası **kadın**; aylardır süren **yaygın vücut ağrısı**, gece uykusuna
+  rağmen geçmeyen **yorgunluk** ve **konsantrasyon** güçlüğüyle başvurur; sayısız tetkiki yapılmış ama **laboratuvarı
+  bir türlü bozuk çıkmamış** hasta profili'
+patofizyoloji: 'Esas sorun yapısal doku hasarı değil, **ağrı işlemenin bozulması**dır: **merkezi sensitizasyon**la
+  spinal düzeyde ağrı sinyalleri aşırı yükseltilir. İnen inhibitör yolların baskısı zayıflar; enflamatuvar
+  veya otoimmün hastalık değildir. **Genetik yatkınlık**, kronik stres ve **uyku bozukluğu** tabloyu tetikler;
+  dinlendirici olmayan uyku hem ağrıyı hem yorgunluğu derinleştirir'
 anahtar_bulgular:
-- Vücudun sağ-sol, üst-alt bölgeleri ve omurga dahil en az üç aydır süren yaygın ağrı
-- Dinlendirici olmayan uyku ve sabahları açılmayan yorgunluk; gün boyu bitkinlik
-- 'Bilişsel zorlanma: dikkat ve kısa süreli hafızada konsantrasyon bozukluğu'
-- 'Eşlik eden fonksiyonel şikayetler: baş ağrısı, irritabl bağırsak sendromu, adet öncesi belirtilerde
-  artış'
-- 'Laboratuvar temiz: sedimantasyon, CRP, tiroid fonksiyonları, kas enzimleri ve romatoid faktör normal;
-  muayenede yaygın hassasiyet dışında eklem ve nörolojik bulgu beklenmez'
+- '**Yaygın ağrı**: sağ-sol, üst-alt bölgeler ve **omurga** dahil en az **üç aydır**'
+- '**Dinlendirici olmayan uyku** ve sabahları açılmayan **yorgunluk**; gün boyu bitkinlik'
+- '**Bilişsel zorlanma**: dikkat ve kısa süreli **hafızada** konsantrasyon bozukluğu'
+- 'Eşlik eden fonksiyonel şikayetler: **baş ağrısı**, **irritabl bağırsak sendromu**, adet öncesi artış'
+- '**Laboratuvar temiz**: sedimantasyon, **CRP**, **TSH**, kas enzimleri ve **romatoid faktör** normal;
+  yaygın hassasiyet dışında eklem ve nörolojik bulgu beklenmez'
 patognomonik: null
-ilk_tetkik: 'Tanıyı taklit eden hastalıkları elemek için hedefli laboratuvar yeterlidir: tam kan sayımı,
-  sedimantasyon ve CRP, TSH, gerekirse 25-OH D vitamini ve kas enzimleri; geniş tetkik paketlerine veya
+ilk_tetkik: 'Tanıyı taklit eden hastalıkları elemek için **hedefli laboratuvar** yeterli: **sedimantasyon**,
+  **CRP**, **TSH**, gerekirse **25-OH D vitamini** ve **kas enzimleri**. Geniş tetkik paketlerine veya
   anlamsız görüntülemeye gerek yoktur'
-kesin_tani: 'Klinik kriterlerle konur: ACR 2010 ölçütüne göre Yaygın Ağrı İndeksi 7 ve üzeri ile Semptom
-  Şiddeti ölçeği 5 ve üzeri (veya WPI 3-6 ile SS 9 ve üzeri); şikayetlerin en az üç ay sürmesi; laboratuvar bozuklukları tanıyı dışlamaz, eşlik eden romatolojik hastalıklarla birlikte de tanı geçerlidir (ACR 2016); laboratuvar
-  bozukluğu bulunmaması şarttır. Eski ACR 1990 ölçütü olan 18 hassas noktadan 11''inde ağrı bugün tek
-  başına zorunlu değildir'
-ilk_tedavi: 'Hasta eğitimi ile başlanır: tablo yapısal bir hastalık değil, ağrı modülasyon bozukluğudur.
-  Basamaklı aerobik egzersiz ve bilişsel davranışçı terapi tedavinin temel taşıdır; ilaç gerektiğinde
-  ağrı ve uyku için pregabalin veya gabapentin, ağrı-enerji için duloksetin, gece için düşük doz amitriptilin
-  kullanılır. Opioid ve glukokortikoid bu tabloda yeri olmayan ilaçlardır'
-klasik_komplikasyon: Depresyon, anksiyete ve iş gücü kaybı en sık eşlik eden sorunlardır; kalıcı yapısal
-  hasar, deformite ve organ yetmezliği gelişmez
+kesin_tani: '**ACR 2010**: **Yaygın Ağrı İndeksi 7 ve üzeri** ile **Semptom Şiddeti 5 ve üzeri** (veya WPI
+  3-6 ile SS 9 ve üzeri). Şikayetlerin en az **üç ay** sürmesi; **laboratuvar bozukluğu** bulunmaması şart,
+  eşlik eden romatolojik hastalıkla birlikte de tanı geçerlidir. Eski **ACR 1990** ölçütü (18 hassas noktadan
+  **11i**) bugün tek başına zorunlu değildir'
+ilk_tedavi: '**Hasta eğitimi** ile başlanır: tablo yapısal bir hastalık değil, **ağrı modülasyon bozukluğu**dur.
+  **Basamaklı aerobik egzersiz** ve **bilişsel davranışçı terapi** tedavinin temel taşıdır. İlaç: ağrı-uyku
+  için **pregabalin** veya **gabapentin**, ağrı-enerji için **duloksetin**, gece için **düşük doz amitriptilin**.
+  **Opioid** ve **glukokortikoid** bu tabloda yeri olmayan ilaçlardır'
+klasik_komplikasyon: '**Depresyon**, **anksiyete** ve **iş gücü kaybı** en sık eşlik eden sorunlardır; kalıcı
+  yapısal hasar, deformite ve organ yetmezliği gelişmez'
 tus_gecmisi:
 - tus-2017-ilkbahar-ttbt-106
 kart_uret:

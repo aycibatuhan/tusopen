@@ -11,35 +11,35 @@ taksonomi:
   - dahiliye
   - dah_metabolik_beslenme
   - dah_met_porfiri
-tipik_hasta: 'Yirmi-otuz yaşlarındaki kadın; birleşen üçlüyle gelir — şiddetli karın ağrısı, psikiyatrik
-  bozulma (anksiyete, halüsinasyon, psikoz) ve ilerleyici kas zayıflığı (periferik polinöropati). Tetikleyici
-  öyküsü anlatıcıdır: yeni başlanan ilaç (barbitürat, sulfonamid, doğum kontrol hapı), açlık-diyet, alkol,
-  enfeksiyon veya adet döngüsü'
-patofizyoloji: Heme sentez yolunun üçüncü enzimi olan porfobilinojen deaminazın (hidroksimetilbilan sentaz)
-  eksikliği, otozomal dominant kalıtılır. Enzim bloğu nedeniyle yolakta ALA ve porfobilinojen (PBG) öne
-  birikir; bunların nörotoksik etkisi periferik ve otonom sinir sistemini bozar. Karaciğer sitokrom enzimlerini
-  indükleyen ilaçlar, açlık ve hormonal dalgalanmalar heme talebini artırıp enzim yetersizliğini ifşa
-  eder — ataklar bu tetikleyicilerle alevlenir
+tipik_hasta: 'Yirmi-otuz yaşlarındaki **kadın**; birleşen üçlü: şiddetli **karın ağrısı**, psikiyatrik
+  bozulma (anksiyete, halüsinasyon, psikoz) ve ilerleyici **kas zayıflığı** (periferik polinöropati). Tetikleyiciler:
+  yeni **ilaç** (barbitürat, sulfonamid, doğum kontrol hapı), **açlık-diyet**, **alkol**, enfeksiyon, **adet
+  döngüsü**'
+patofizyoloji: 'Heme sentezinin üçüncü enzimi **porfobilinojen deaminaz**ın (hidroksimetilbilan sentaz) eksikliği;
+  **otozomal dominant**. Enzim bloğunda yolakta **ALA** ve **porfobilinojen (PBG)** öne birikir; **nörotoksik**
+  etkisi periferik ve otonom sinir sistemini bozar. Sitokrom enzimlerini indükleyen ilaçlar, açlık ve hormonal
+  dalgalanmalar **heme talebini** artırıp enzim yetersizliğini ifşa eder; ataklar bu tetikleyicilerle alevlenir'
 anahtar_bulgular:
-- Şiddetli, yaygın karın ağrısı; ancak fizik muayenede peritoneal irritasyon (karın duvarı sertliği) yoktur
-  — cerrahi karın taklidi
-- 'Psikiyatrik bulgular: anksiyete, uykusuzluk, halüsinasyon, deliryum, psikoz'
-- 'Proksimal ekstremitelerden başlayan motor polinöropati: kollardan başlayıp ilerleyen zayıflık, ileri vakada solunum kasları tutulumu'
-- 'Otonom bulgular: taşikardi, hipertansiyon, terleme, kabızlık'
-- İdrarın dururken koyulaşması (PBG'nin havadaki oksijenle oksidasyonu; koyu kahverengi-şarap rengi)
-- Uygunsuz ADH salınımına bağlı sodyum düşüklüğü
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Bekletilen idrarda koyulaşma (porfobilinojenin oksidasyonu)
-ilk_tetkik: Spot idrarda porfobilinojen (PBG) düzeyi (PBG/kreatinin oranı); serum sodyum ve elektrolitler;
-  hastanın ilaç listesinin tetikleyici yönünden taranması
-kesin_tani: İdrar PBG düzeyinin belirgin yüksekliği akut atağı doğrular; hastalar arasında PBG deaminaz
-  aktivitesinin düşüklüğü ve HMBS genetik incelemesi kesinleştirir. Karın ağrısı sırasında idrar PBG normal
-  ise akut porfiri dışlanır
-ilk_tedavi: Tetikleyici ilaçların kesilmesi ve bol karbonhidrat beslenme (glukoz infüzyonu, hafif atakta
-  yeterli) ilk basamaktır; ağır atakta — nöropati, psikoz, sodyum düşüklüğü olan hasta — hemin (hem arginat)
-  3-4 mg/kg/gün dört gün intravenöz verilir. Ağrı için opioidler güvenlidir; taşikardi-hipertansiyonda
-  beta bloker kullanılır; solunum kaslarının izlenmesi gerekir
-klasik_komplikasyon: Solunum kasları tutulumuyla solunum yetmezliği (mekanik ventilasyon gerekebilir);
-  kalıcı nöropatik sekeller (rekürren ataklarda)
+- 'Şiddetli, yaygın **karın ağrısı**; fizik muayenede **peritoneal irritasyon yok** — cerrahi karın taklidi'
+- 'Psikiyatrik bulgular: **anksiyete**, uykusuzluk, **halüsinasyon**, deliryum, **psikoz**'
+- 'Proksimal ekstremitelerden başlayan **motor polinöropati**: kollardan başlayıp ilerleyen zayıflık; ileri
+  vakada **solunum kasları** tutulumu'
+- 'Otonom bulgular: **taşikardi**, **hipertansiyon**, terleme, **kabızlık**'
+- '**İdrarın dururken koyulaşması** (PBG oksidasyonu; koyu kahverengi-şarap rengi)'
+- 'Uygunsuz **ADH** salınımına bağlı **sodyum düşüklüğü**'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — bekletilen idrarda **koyulaşma** (**porfobilinojen**in
+  oksidasyonu)
+ilk_tetkik: 'Spot idrarda **porfobilinojen (PBG)** düzeyi (**PBG/kreatinin** oranı); serum **sodyum** ve elektrolitler;
+  hastanın **ilaç listesinin** tetikleyici yönünden taranması'
+kesin_tani: 'İdrar **PBG** düzeyinin belirgin yüksekliği akut atağı doğrular; **PBG deaminaz** aktivitesinin
+  düşüklüğü ve **HMBS** genetik incelemesi kesinleştirir. Karın ağrısı sırasında idrar PBG **normal** ise
+  akut porfiri **dışlanır**'
+ilk_tedavi: 'Tetikleyici **ilaçların kesilmesi** ve bol **karbonhidrat** (glukoz infüzyonu, hafif atakta
+  yeterli) ilk basamaktır. Ağır atakta (nöropati, psikoz, sodyum düşüklüğü) **hemin (hem arginat) 3-4 mg/kg/gün**,
+  dört gün intravenöz. Ağrı için **opioidler** güvenlidir; taşikardi-hipertansiyonda **beta bloker**; **solunum
+  kaslarının** izlenmesi gerekir'
+klasik_komplikasyon: '**Solunum kasları** tutulumuyla **solunum yetmezliği** (mekanik ventilasyon gerekebilir);
+  rekürren ataklarda kalıcı **nöropatik sekeller**'
 tus_gecmisi:
 - tus-2016-ilkbahar-ktbt-25
 kart_uret:

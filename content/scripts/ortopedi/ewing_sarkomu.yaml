@@ -12,31 +12,33 @@ taksonomi:
   - ortopedi
   - orto_kemik_tumorleri
   - orto_kt_ewing
-tipik_hasta: 5-20 yaş arasındaki çocuk ve genç; uzun kemik diyafizleri (femur, tibia) veya pelvis, kaburga
-  gibi düz kemiklerde yerleşen, ateş ve halsizliğin eşlik ettiği ağrılı şişlikle gelen hasta; tablo kemik
-  enfeksiyonuyla karışacak kadar enflamatuar görünür
-patofizyoloji: Küçük yuvarlak mavi hücreli tümör; 11. ve 22. kromozomlar arası translokasyonla oluşan
-  EWS-FLI1 füzyon geni hücreye sürekli çoğalma komutu verir. Tümör periyostun altından hızla yayılır;
-  periyost katman katman yeni kemik kabuğu yapar, radyografide soğan zarı görünümü doğar. Kemik iliğinden
-  hematojen yayılım erken görülür, kemik ve kemik iliği ikinci odaklardır
+tipik_hasta: "**5-20 yaş** çocuk ve genç; uzun kemik diyafizleri (femur, tibia) veya pelvis, kaburga gibi
+  düz kemiklerde yerleşen ağrılı şişlikle gelir. Ateş ve halsizlik eşlik eder; tablo **kemik
+  enfeksiyonu**yla karışacak kadar enflamatuar görünür"
+patofizyoloji: "Küçük yuvarlak mavi hücreli tümör; **11. ve 22. kromozom**lar arası translokasyonla oluşan
+  **EWS-FLI1** füzyon geni hücreye sürekli çoğalma komutu verir. Tümör periyostun altından hızla yayılır;
+  periyost katman katman yeni kemik kabuğu yapar, radyografide **soğan zarı** görünümü doğar. Kemik
+  iliğinden hematojen yayılım erken görülür; kemik ve kemik iliği ikinci odaklardır"
 anahtar_bulgular:
-- 'Diyafiz merkezli kemik erimesi ve soğan zarı görünümü: periyostun katman katman kalkmasıyla oluşan
-  iç içe kemik halkaları'
-- Ateş, halsizlik, kilo kaybı ve yüksek sedimentasyon hızı ile enflamatuar tablo
-- Lokalize, ısınan, darbeye duyarlı şişlik; geceye doğru artan ağrı
-- Tümörün korteksten yumuşak dokuya uzanan kitle halinde görülmesi (MRG)
-- CD99 zar protein pozitifliği (immünohistokimya)
-- Lökositoz, ateş ve yüksek ESR ile osteomiyeliti taklit edebilir (bu, ayırıcıyı zorlaştıran yönüdür); enfeksiyon göstergeleriyle tablo tam uyuşmaz
-patognomonik: EWS-FLI1 füzyon geni (11 ve 22. kromozomlar arası translokasyon); tümörün ayırt edici genetik
-  imzası
-ilk_tetkik: Şikayetli bölgenin direkt radyografisi (soğan zarı periyostal reaksiyon araştırması) ve tam
-  kan sayımı, CRP, sedimentasyon; enfeksiyon tablosundan ayrışmak için
-kesin_tani: 'Biyopsi: küçük yuvarlak hücreli doku, CD99 pozitifliği ve EWS-FLI1 füzyon testi; MRG ile
-  lokal yayılım, kemik iliği örnekleme ve göğüs görüntülemesi ile yayılım araştırması'
-ilk_tedavi: Önce kombinasyon kemoterapi (vinkristin, doksorubisin, siklofosfamid, ifosfamid, etopozid)
-  ile mikrometastazların baskılanması; ardından cerrahi rezeksiyon ve/veya radyoterapi ile lokal kontrol
-klasik_komplikasyon: Kemik iliği ve akciğer metastazı; enfeksiyonla karışan tanı nedeniyle gecikmiş tanı
-  ve yayılmış hastalık
+- "Diyafiz merkezli kemik erimesi ve **soğan zarı görünümü**; periyostun katman katman kalkmasıyla iç içe
+  kemik halkaları"
+- "Ateş, halsizlik, kilo kaybı ve yüksek **sedimentasyon hızı** ile enflamatuar tablo"
+- "Lokalize, ısınan, darbeye duyarlı şişlik; **geceye doğru artan ağrı**"
+- "Tümörün **korteksten yumuşak dokuya uzanan kitle** hâlinde görülmesi (MRG)"
+- "**CD99** zar protein pozitifliği (immünohistokimya)"
+- "Lökositoz, ateş ve yüksek **ESR** ile **osteomiyeliti** taklit edebilir; enfeksiyon göstergeleriyle tablo
+  tam uyuşmaz"
+patognomonik: "**EWS-FLI1 füzyon geni** (11 ve 22. kromozomlar arası translokasyon); tümörün ayırt edici
+  genetik imzası"
+ilk_tetkik: "Şikayetli bölgenin **direkt radyografisi** (**soğan zarı** periyostal reaksiyonun
+  araştırılması); enfeksiyondan ayrışmak için **tam kan sayımı, CRP, sedimentasyon**"
+kesin_tani: "**Biyopsi**: küçük yuvarlak hücreli doku, **CD99** pozitifliği ve **EWS-FLI1** füzyon testi.
+  **MRG** ile lokal yayılım; kemik iliği örnekleme ve göğüs görüntülemesiyle yayılım araştırması"
+ilk_tedavi: "Önce kombinasyon **kemoterapi** (vinkristin, doksorubisin, siklofosfamid, ifosfamid,
+  etopozid) ile mikrometastazların baskılanması. Ardından **cerrahi rezeksiyon** ve/veya **radyoterapi**
+  ile lokal kontrol"
+klasik_komplikasyon: "Kemik iliği ve **akciğer metastazı**. Enfeksiyonla karışan tanı nedeniyle
+  **gecikmiş tanı** ve yayılmış hastalık"
 tus_gecmisi:
 - tus-2015-ilkbahar-ttbt-97
 - tus-2015-sonbahar-ktbt-61

@@ -11,38 +11,20 @@ taksonomi:
   - kadin_dogum
   - kd_jinekolojik_onkoloji
   - kd_jo_gestasyonel_trofoblastik
-tipik_hasta: Gebeliğin ilk trimesterinde vajinal kanama ve gebelik yaşına göre büyük uterus ile başvuran
-  genç kadın; aşırı bulantı-kusma (hiperemezis), 20 haftadan önce preeklampsi ve gebelik haftasına göre
-  şaşırtıcı derecede yüksek βhCG tabloyu tamamlayan uyarılardır
-patofizyoloji: 'Tam mol (özgün anlatım: mol gebelik) boş yumurtanın döllenmesiyle oluşur — kromozomlar
-  tamamen babasal kaynaklıdır (en sık 46,XX); fetal doku yoktur, tüm villuslar geniş ödemli ve trofoblast
-  difüz hiperplastiktir. Kısmi mol ise triplodidir (69,XXX/69,XXY), fetus veya fetal doku bulunabilir,
-  değişiklikler fokaldir. Hiperplastik trofoblast aşırı hCG salgılar: bu, hiperemezisi, 20 hafta öncesi
-  preeklampsiyi, hCG ile TSH arasında homoloji nedeniyle hipertiroidiyi ve overlerde teka-lutein kistleri
-  açıklar'
+tipik_hasta: "Gebeliğin **ilk trimesterinde vajinal kanama** ve **gebelik yaşına göre büyük uterus** ile başvuran genç kadın; uyarılar: **aşırı bulantı-kusma (hiperemezis)**, **20 haftadan önce preeklampsi** ve şaşırtıcı derecede **yüksek βhCG**"
+patofizyoloji: "**Tam mol** boş yumurtanın döllenmesidir — kromozomlar tamamen **babasal kaynaklıdır** (en sık **46,XX**); fetal doku yoktur, villuslar geniş ödemli ve trofoblast **difüz hiperplastiktir**. **Kısmi mol triplodidir** (**69,XXX/69,XXY**); fetal doku bulunabilir, değişiklikler **fokaldir**. Hiperplastik trofoblast aşırı **hCG** salgılar: **hiperemezis**, erken preeklampsi, **hCG-TSH homolojisi** nedeniyle **hipertiroidi** ve overlerde **teka-lutein kistleri** açıklanır"
 anahtar_bulgular:
-- Gebelik haftasına göre aşırı yüksek serum βhCG
-- 'Ultrasonda kar tanesi (snowstorm) paterni: villus kistleriyle dolu uterus, tam molde fetal doku yok'
-- Gebelik yaşına göre büyük uterus ile vajinal kanama
-- Aşırı bulantı-kusma (hiperemezis) ve 20 haftadan önce preeklampsi
-- Adneksiyal teka-lutein kistler ve hCG'ye bağlı hipertiroidi bulguları
-- Kısmi molde fetal doku görülebilir; kromozom incelemesi triploditeyi gösterir
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Ultrasonda kar tanesi paterni ile gebelik haftasına göre aşırı yüksek βhCG kombinasyonu
-  (tam mol için klasik ikili)
-ilk_tetkik: Transvajinal ultrason ve seri βhCG ölçümü; TSH ile hCG aracılı hipertiroidi değerlendirmesi;
-  evakuasyon materyali mutlaka histopatolojiye gönderilir (tam ve kısmi mol ayrımı için zorunlu)
-kesin_tani: 'Evaküe materyalin histopatolojisi: tam molde fetal doku yok, villuslarda yaygın ödem ve difüz
-  trofoblast proliferasyonu; kısmi molde fetal doku vardır, villus değişiklikleri fokaldir ve kromozom
-  analizi triploditeyi gösterir'
-ilk_tedavi: 'Uterusun vakumla evakuasyonu (IV erişim hazır, Rh uyumsuzluğa karşı anti-D gerekirse); üreme
-  yaşantısı tamamlanmış ileri yaş hastada histerektomi seçeneği. Sonrası zorunlu takip mantığı: βhCG her
-  1-2 haftada bir, üç kez ardışık normalin ardından aylık ölçümlerle 6 ay sürdürülür; bu sürede efektif
-  kontrasepsiyon şart. Takip eşikleri: plateau (21 gün boyunca dört ölçümde değişmeyen değerler) veya
-  yükselme — persistan/invaşiv mole işaret eder, gestasyonel trofoblastik neoplazide FIGO/WHO risk skoru tedaviyi belirler: düşük risklide (≤6) tek ajanlı
-  kemoterapi (metotreksat veya daktinomisin) başlanır'
-klasik_komplikasyon: Persistan/invaşiv mol ve gestasyonel trofoblastik neoplazi gelişimi; koriyokarsinom
-  ve özellikle akciğere uzak metastaz; hCG'ye bağlı hipertiroidide tiroit krizi; sonraki gebeliklerde
-  mol tekrarı riski
+- "Gebelik haftasına göre **aşırı yüksek serum βhCG**"
+- "Ultrasonda **kar tanesi (snowstorm) paterni**: villus kistleriyle dolu uterus; tam molde **fetal doku yok**"
+- "**Gebelik yaşına göre büyük uterus** ile vajinal kanama"
+- "**Aşırı bulantı-kusma** ve **20 haftadan önce preeklampsi**"
+- "Adneksiyal **teka-lutein kistler** ve **hCG'ye bağlı hipertiroidi** bulguları"
+- "**Kısmi molde** fetal doku görülebilir; kromozom incelemesi **triploiditeyi** gösterir"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **Kar tanesi paterni** ile **gebelik haftasına göre aşırı yüksek βhCG** kombinasyonu (tam mol için klasik ikili)"
+ilk_tetkik: "**Transvajinal ultrason** ve **seri βhCG ölçümü**; **TSH** ile hCG aracılı hipertiroidi değerlendirmesi. Evakuasyon materyali mutlaka **histopatolojiye** gönderilir (tam ve kısmi mol ayrımı için zorunlu)"
+kesin_tani: "**Evaküe materyalin histopatolojisi**: tam molde **fetal doku yok**, villuslarda yaygın ödem ve **difüz trofoblast proliferasyonu**. Kısmi molde fetal doku vardır, villus değişiklikleri **fokal**; kromozom analizi **triploiditeyi** gösterir"
+ilk_tedavi: "**Uterusun vakumla evakuasyonu** (Rh uyumsuzluğa karşı **anti-D** gerekirse); üreme yaşantısı tamamlanmış ileri yaş hastada **histerektomi** seçeneği. Takip: **βhCG her 1-2 haftada bir**, **üç kez ardışık normal**in ardından aylık ölçümlerle **6 ay** sürdürülür; bu sürede **efektif kontrasepsiyon** şart. Takip eşikleri: **plateau** (**21 gün** boyunca dört ölçümde değişmeyen değerler) veya **yükselme** — **persistan/invaşiv mole** işaret eder. **Gestasyonel trofoblastik neoplazide FIGO/WHO risk skoru** tedaviyi belirler: düşük risklide (**skor 6 ve altı**) **tek ajanlı kemoterapi** — **metotreksat** veya **daktinomisin**"
+klasik_komplikasyon: "**Persistan/invaşiv mol** ve **gestasyonel trofoblastik neoplazi** gelişimi; **koriyokarsinom** ve özellikle **akciğere** uzak metastaz; **hCG'ye bağlı hipertiroidide tiroit krizi**; sonraki gebeliklerde **mol tekrarı** riski"
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-119
 - tus-2016-sonbahar-ktbt-119

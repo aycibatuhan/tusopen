@@ -13,44 +13,19 @@ taksonomi:
   - psikiyatri
   - psik_psikofarmakoloji
   - psik_pf_serotonin_sendromu
-tipik_hasta: 'Serotonerjik bir ilacın başlanmasını, dozunun artırılmasını ya da ikinci bir serotonerjik
-  ajanın eklenmesini izleyen kısa sürede başvuran hasta: SSRI-SNRI başlangıcı ya da doz artışı, MAOI eklenmesi,
-  tramadol-linezolid-triptan gibi ek ajanlar, MDMA gibi maddeler sonrasında ilk saatlerde ajite gelen,
-  terleyen ve klonus-hiperrefleksi saptanan hasta. Sitokrom P450 inhibitörleriyle (örneğin flukonazol)
-  birleşen SSRI ve genç-ergen yaş grubunda risk belirgindir'
-patofizyoloji: 'Merkezi serotonin aşırı yükü: 5-HT1A ve özellikle 5-HT2A reseptörlerinin aşırı uyarılması.
-  Mekanizmalar üst üste biner: presinaptik serotonin salınımının artması (amfetaminler, MDMA), geri alımının
-  baskılanması (SSRI-SNRI, tramadol), metabolizmasının engellenmesi (MAOI, linezolid) ve doz aşımı birleşmeleri.
-  Tablo üç eksende kurulur: mental durum değişikliği (ajitasyon-konfüzyon), otonomik instabilite (terleme,
-  taşikardi, hipertermi) ve nöromusküler hiperaktivite (hiperrefleksi, klonus, miyoklonus); bunların ağırlık
-  merkezi klinik akışı belirler'
+tipik_hasta: "**Serotonerjik bir ilacın başlanması, dozunun artırılması ya da ikinci bir serotonerjik ajanın eklenmesini** izleyen kısa sürede başvuran hasta; **ajite gelen, terleyen ve klonus-hiperrefleksi saptanan** hastadır. Tetikleyiciler: **SSRI-SNRI başlangıcı ya da doz artışı, MAOI eklenmesi, tramadol-linezolid-triptan, MDMA**. **Sitokrom P450 inhibitörleriyle (flukonazol)** birleşen SSRI ve **genç-ergen** yaş grubunda risk belirgindir"
+patofizyoloji: "Merkezi **serotonin aşırı yükü**: **5-HT1A ve özellikle 5-HT2A reseptörlerinin** aşırı uyarılması. Mekanizmalar üst üste biner: **presinaptik serotonin salınımının artması (amfetaminler, MDMA)**, **geri alımının baskılanması (SSRI-SNRI, tramadol)**, **metabolizmasının engellenmesi (MAOI, linezolid)**. Tablo üç eksende kurulur: **mental durum değişikliği**, **otonomik instabilite** ve **nöromusküler hiperaktivite**"
 anahtar_bulgular:
-- 'Zaman çizgisi tanının pusulasıdır: serotonerjik ilaç değişikliğini izleyen ilk saatlerde başlayıp saatler
-  içinde hızlanan tablo; Hunter kriterleri son 5 hafta penceresini arar'
-- 'Nöromusküler eksen öndedir: hiperrefleksi ve klonus (spontan ya da uyarımla), alt ekstremitede belirgin;
-  tremor ve miyoklonus — rijidite ve bradikinezi bu tablonun bulgusu değildir'
-- 'Otonomik instabilite: terleme, taşikardi, kan basıncı dalgalanması, ishal, midriyazis'
-- Hipertermi genellikle orta düzeydedir (38 derece çevresi); ağır olgularda saatler içinde hızla yükselir
-- 'Mental durum: ajitasyon, korku, konfüzyon; ağır tabloda bilinç düzeyinde düşme'
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — İlaç değişikliğini izleyen ilk saatlerde, alt ekstremite ağırlıklı hiperrefleksi eşliğinde
-  spontan ya da uyarılabilir klonus
-ilk_tetkik: 'Tanı klinik ve zaman çizgisine dayanır; laboratuvar tanıyı koymaz ama eşlik eden hasarı ölçer:
-  kreatin kinaz (rabdomiyoliz), elektrolitler ve böbrek fonksiyonları, karaciğer fonksiyonları, koagülasyon,
-  EKG ve sıcaklık izlemi. İlaç-madde öyküsü baştan netleştirilir (SSRI-SNRI, MAOI, tramadol, linezolid,
-  triptan, MDMA); enfeksiyon, antikolinerjik toksisite ve kesilme tabloları gibi taklitler dışlanır'
-kesin_tani: 'Hunter serotonin toksisite kriterlerinin mantığı iki sütunlu: son 5 hafta içinde serotonerjik
-  bir ajanın eklenmesi ya da doz artışı ve bunlardan biri — spontan klonus; uyarılabilir klonus artı ajitasyon
-  ya da terleme; oküler klonus artı ajitasyon ya da terleme; tremor artı hiperrefleksi; hipertoni artı
-  38 dereceyi aşan sıcaklık artı oküler ya da uyarılabilir klonus. Şiddet kademelenmesi: hafif (tremor-hiperrefleksi,
-  ateş yok), orta (klonus-hiperrefleksi ve ateş), hayati (hızlı yükselen hipertermi ve hipertoni-rijidite)'
-ilk_tedavi: 'Yönetimin iki temel adımı: serotonerjik ilacı kesmek ve desteklemek. Ajitasyon için benzodiazepin;
-  sıvı desteği ve aktif soğutma; ağır hipertermide yoğun bakım. Orta ve ağır tabloda siproheptadin (5-HT2A
-  antagonisti, oral) düşünülür; ilaç kesildikçe sendromun kendi sınırları içinde gerilemesi beklenir.
-  Dantrolen bu tabloda yeri yoktur: rijidite nöromusküler bir blok değildir; dantrolen malign hipertermi
-  ve NMS tablolarının ilacıdır. Ondansetron gibi serotonerjik antiemetikler de tabloya yakıt olur; kaçınılır'
-klasik_komplikasyon: Ağır tabloda hızlı yükselen hipertermi, rabdomiyoliz, akut böbrek hasarı, metabolik
-  asidoz, yaygın damar içi pıhtılaşma ve kardiyovasküler çöküş; erken tanı ve ilaç kesimiyle tam düzelme
-  beklenir
+- "**Zaman çizgisi tanının pusulasıdır**: serotonerjik ilaç değişikliğini izleyen **ilk saatlerde** başlayıp saatler içinde hızlanan tablo; **Hunter kriterleri son 5 hafta** penceresini arar"
+- "**Nöromusküler eksen öndedir**: **hiperrefleksi ve klonus** (spontan ya da uyarımla), **alt ekstremitede belirgin**; **rijidite ve bradikinezi bu tablonun bulgusu değildir**"
+- "**Otonomik instabilite**: terleme, taşikardi, kan basıncı dalgalanması, ishal, **midriyazis**"
+- "**Hipertermi genellikle orta düzeydedir (38 derece çevresi)**; ağır olgularda saatler içinde hızla yükselir"
+- "**Mental durum**: ajitasyon, korku, konfüzyon; ağır tabloda **bilinç düzeyinde düşme**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **İlaç değişikliğini izleyen ilk saatlerde, alt ekstremite ağırlıklı hiperrefleksi eşliğinde spontan ya da uyarılabilir klonus**"
+ilk_tetkik: "Tanı **klinik ve zaman çizgisine** dayanır; laboratuvar tanıyı koymaz ama **eşlik eden hasarı ölçer**: **kreatin kinaz (rabdomiyoliz)**, elektrolitler, böbrek-karaciğer fonksiyonları, koagülasyon, **EKG ve sıcaklık izlemi**. **İlaç-madde öyküsü baştan netleştirilir** (**SSRI-SNRI, MAOI, tramadol, linezolid, triptan, MDMA**); **enfeksiyon, antikolinerjik toksisite ve kesilme tabloları** gibi taklitler dışlanır"
+kesin_tani: "**Hunter serotonin toksisite kriterlerinin mantığı iki sütunludur**: **son 5 hafta** içinde serotonerjik bir ajanın eklenmesi ya da doz artışı **+** bunlardan biri: **spontan klonus**; **uyarılabilir klonus + ajitasyon ya da terleme**; **oküler klonus + ajitasyon ya da terleme**; **tremor + hiperrefleksi**; **hipertoni + 38 dereceyi aşan sıcaklık + oküler ya da uyarılabilir klonus**. Şiddet: **hafif (tremor-hiperrefleksi, ateş yok)**, **orta (klonus-hiperrefleksi ve ateş)**, **hayati (hızlı hipertermi ve hipertoni-rijidite)**"
+ilk_tedavi: "Yönetimin iki temel adımı: **serotonerjik ilacı kesmek ve desteklemek**; ajitasyon için **benzodiazepin**, sıvı desteği ve **aktif soğutma**; ağır **hipertermide yoğun bakım**. Orta-ağır tabloda **siproheptadin (5-HT2A antagonisti, oral)** düşünülür; ilaç kesildikçe sendrom **kendi sınırları içinde geriler**. **Dantrolen bu tabloda yeri yoktur** — rijidite **nöromusküler blok değildir**; **ondansetron gibi serotonerjik antiemetikler tabloya yakıt olur**, kaçınılır"
+klasik_komplikasyon: "Ağır tabloda **hızlı yükselen hipertermi, rabdomiyoliz, akut böbrek hasarı, metabolik asidoz**; **yaygın damar içi pıhtılaşma** ve **kardiyovasküler çöküş**; **erken tanı ve ilaç kesimiyle tam düzelme** beklenir"
 tus_gecmisi:
 - tus-2015-sonbahar-ttbt-99
 - tus-2022-ilkbahar-ktbt-47

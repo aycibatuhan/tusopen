@@ -8,18 +8,18 @@ sources:
 ad: Diyabetik Nöropati
 taksonomi:
   - [ktbt, noroloji, noro_noromuskuler, noro_nm_diyabetik_noropati]
-tipik_hasta: "Uzun süreli (10 yıldan uzun) ve kötü kontrollü diyabetli hasta; ayağında gece artan yanan-batan ağrı, 'çıplak ayakla yürürken çakıl taşı üzerindeymiş gibi' hissetme, ellerinde iğne-batması tarif eden hasta; yara hissetmediği için çok geç fark eden hasta profili tipiktir"
-patofizyoloji: "Kronik hiperglisemi aksonları en uzun olanlardan başlayarak tutar (uzunluk-bağımlı, distal tip); mekanizma kademelidir: aldoz redüktaz yoluyla glukozun sorbitole dönüşmesi osmotik stres yaratır, ilerlemiş glikasyon son ürünleri ve oksidatif stres hücre yapılarını bozar, vasa nervorumun mikroanjiopatik darlığı endonöral iskemeye yol açar; sonuçta aksonal dejenerasyon önce ayakların en uç bölgesinde başlar, bu yüzden bozukluk 'çorap-eldiven' dağılımı gösterir"
+tipik_hasta: "**10 yıldan uzun** ve **kötü kontrollü** diyabetli hasta. Ayakta **gece artan yanan-batan ağrı**, 'çıplak ayakla çakıl taşı üzerindeymiş gibi' his, ellerde **iğne-batması**; **yara hissetmediği** için çok geç fark eden profil"
+patofizyoloji: "Kronik **hiperglisemi** aksonları **en uzunlardan** başlayarak tutar (**uzunluk-bağımlı, distal tip**); **Aldoz redüktaz** yoluyla glukozun **sorbitol**e dönüşmesi **osmotik stres** yaratır; **ileri glikasyon son ürünleri** ve **oksidatif stres** hücre yapılarını bozar; **Vasa nervorum**un **mikroanjiopatik darlığı** **endonöral iskemi**ye yol açar; sonuç **aksonal dejenerasyon**, **çorap-eldiven** dağılım"
 anahtar_bulgular:
-  - "Simetrik, distal, uzunluk-bağımlı (çorap-eldiven) his kaybı: ayak parmak uçlarından yukarı tırmanır"
-  - "Nöropatik ağrı: yanan, batan, elektrik çarpması tarzında; gece kötüleşir; çarpmanın bulunduğu yerde ağrı (allodini)"
-  - "Koruyucu duyuda azalma: 10 gram (Semmes-Weinstein) monofilament ve 128 Hz titreşim çatalıyla ayakta his kaybı; ayak bilek refleksleri erken azalır"
-  - "Otonomik bulgular: ortostatik hipotansiyon, erektil disfonksiyon, gastroparezi, terleme bozuklukları"
-  - "İğne EMG'de distal, simetrik, aksonal polinöropati (amplitüdlerde azalma)"
+- "**Simetrik, distal, uzunluk-bağımlı (çorap-eldiven) his kaybı**: ayak parmak uçlarından yukarı tırmanır"
+- "**Nöropatik ağrı**: yanan, batan, **elektrik çarpması** tarzında; **gece kötüleşir**; dokunuşun ağrı olması (**allodini**)"
+- "**Koruyucu duyuda azalma**: **10 gram (Semmes-Weinstein) monofilament** ve **128 Hz** titreşim çatalıyla ayakta his kaybı; **ayak bilek refleksleri** erken azalır"
+- "**Otonomik bulgular**: **ortostatik hipotansiyon**, **erektil disfonksiyon**, **gastroparezi**, **terleme bozuklukları**"
+- "**İğne EMG**: distal, simetrik, **aksonal polinöropati** (**amplitüdlerde azalma**)"
 patognomonik: null
-ilk_tetkik: "Ayağın muayenesi: 10 gram monofilament ve 128 Hz titreşim çatalıyla koruyucu duyu testi; iğne EMG aksonal polinöropatiyi doğrular; ayrıca B12, TSH ve böbrek fonksiyon testleri istenir: diyabetli hastada başka nöropati nedenleri eşlik edebilir"
-kesin_tani: "Diyabet öyküsü + uzunluk-bağımlı simetrik bulgular + EMG'de aksonal kanıt + diğer nedenlerin (alkol, B12 eksikliği, tiroid ve böbrek hastalığı) dışlanması; 'diyabetik' demeden önce bu taklitler elenir"
-ilk_tedavi: "Glisemik kontrol en temel tedavidir: hastalığın ilerlemesini yavaşlatan tek güvenilir müdahale; ağrı için ilk sıra ilaçlar gabapentin veya pregabalin ile duloksetin veya amitriptilindir; topikal kapsaisin veya lidokain yamaları tamamlayıcıdır; opiyoid analjezikler son sıradadır"
-klasik_komplikasyon: "Diyabetik ayak: his kaybı nedeniyle fark edilmeyen yara, kötü glisemik kontrol ve dolaşım bozukluğu ile ülser, infeksiyon ve ampütasyon riski; otonomik nöropatiyle ortostatik hipotansiyon, sessiz miyokard infarktüsü ve kardiyak aritmi riski"
+ilk_tetkik: "**10 gram monofilament** ve **128 Hz titreşim çatalı**yla koruyucu duyu testi; **İğne EMG** **aksonal** polinöropatiyi doğrular; **B12**, **TSH** ve böbrek fonksiyon testleri — diyabetlide **başka nöropati nedenleri** eşlik edebilir"
+kesin_tani: "**Diyabet öyküsü** + **uzunluk-bağımlı simetrik** bulgular + **EMG'de aksonal kanıt**; **Alkol**, **B12 eksikliği**, **tiroid ve böbrek hastalığı** dışlanır — 'diyabetik' demeden önce bu taklitler elenir"
+ilk_tedavi: "**Glisemik kontrol** en temel tedavidir — ilerlemeyi yavaşlatan tek güvenilir müdahale. Ağrıda ilk sıra: **gabapentin** veya **pregabalin** ile **duloksetin** veya **amitriptilin**. Topikal **kapsaisin** veya **lidokain** yamaları tamamlayıcı; **opiyoidler** son sıradadır"
+klasik_komplikasyon: "**Diyabetik ayak**: his kaybıyla fark edilmeyen **yara**, kötü **glisemik kontrol** ve dolaşım bozukluğuyla **ülser, infeksiyon, ampütasyon** riski; **Otonomik nöropati**yle **ortostatik hipotansiyon**, **sessiz miyokard infarktüsü** ve **kardiyak aritmi** riski"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

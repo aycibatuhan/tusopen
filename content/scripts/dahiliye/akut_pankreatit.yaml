@@ -12,30 +12,29 @@ taksonomi:
   - dahiliye
   - dah_gastroenteroloji
   - dah_gis_akut_pankreatit
-tipik_hasta: Safra taşı öyküsü olan ya da alkol kullanan hasta; epigastriyuma yerleşen, sırta vuran, sürekli
-  ve şiddetli ağrı; öne eğilince hafifler, bulantı-kusma eşlik eder
-patofizyoloji: Pankreas içindeki proenzimlerin (tripsinojen) erken ve kontrolsüz aktivasyonu organın kendi
-  sindirimiyle nekroza gider; alkol ve safra taşı en sık iki tetikleyicidir. Nekroz ve üçüncü boşluğa
-  sıvı kaçışı SIRS ile volüm kaybı yaratır; yağ nekrozunda kalsiyum sabunlaşması hipokalsemiye yol açar
+tipik_hasta: '**safra taşı** öyküsü ya da **alkol** kullanımı olan hasta; epigastriyumda yerleşen, sırta
+  vuran, sürekli ve şiddetli ağrı. Öne eğilince hafifler; bulantı-kusma eşlik eder'
+patofizyoloji: Pankreas proenzimlerinin (**tripsinojen**) erken ve kontrolsüz aktivasyonu organın kendi
+  sindirimiyle nekroza gider. Nekroz ve üçüncü boşluğa sıvı kaçışı SIRS ile volüm kaybı yaratır. Yağ
+  nekrozunda kalsiyum sabunlaşması **hipokalsemi** yapar
 anahtar_bulgular:
-- Serum lipaz normalin 3 katı ve üzeri (amilazdan daha spesifik)
-- Epigastrik bant tarzında, sırta yayılan ağrı
-- Hipokalsemi, hiperglisemi ve lökositoz (şiddetin erken işaretleri)
-- Flankte Grey-Turner, periumbikal bölgede Cullen ekimozu (hemorajik pankreatit imzası, nadir)
-- BISAP bileşenleri (BUN yüksekliği, bilinç bozukluğu, SIRS, 60 yaş üzeri, plevral effüzyon) erken morbidite-mortaliteyi
-  öngörür
-patognomonik: Tipik bulgu (patognomonik değildir) — Grey-Turner ve Cullen ekimozları — şiddetli hemorajik pankreatitin klasik imzası, ancak
-  çoğu olguda yoktur
-ilk_tetkik: Serum lipaz ve abdominal ultrason; ultrason safra kaynağını ve taş araştırmasını yapmak için
-  ilk görüntüleme yöntemidir
-kesin_tani: 'Üç kriterden ikisi: karakteristik ağrı, lipaz veya amilazın normalin 3 katı üzeri olması,
-  görüntülemede pankreatit bulgusu. Kontrastlı BT ilk 72 saatte rutin istenmez; tanı şüpheliyse veya komplikasyon
-  (nekroz, apse) düşünülüyse çekilir'
-ilk_tedavi: Agresif intravenöz sıvı (Ringer laktat tercih edilir), analjezi ve erken enteral beslenme;
-  bulantı-ağrı azalır azalmaz oral beslemeye geçilir. Safra kökenli tabloya kolanjit eşlik ediyorsa erken
-  ERCP; hafif olguların çoğu 3-5 günde düzelir
-klasik_komplikasyon: 4 haftadan uzun süren pankreas pseudokisti; ilk 1-2 haftadan sonra ateş ve sepsisle
-  kendini gösteren nekroz infeksiyonu; ARDS ve hipokalsemiye bağlı tetani
+- 'Serum **lipaz** normalin **3 katı** ve üzeri (amilazdan daha spesifik)'
+- 'Şiddetin erken işaretleri: **hipokalsemi**, **hiperglisemi** ve lökositoz'
+- 'Flankte **Grey-Turner**, periumbikal bölgede **Cullen** ekimozu (nadir, hemorajik pankreatit imzası)'
+- '**BISAP** bileşenleri: **BUN** yüksekliği, bilinç bozukluğu, **SIRS**, **60 yaş üzeri**, plevral
+  effüzyon; erken morbidite-mortaliteyi öngörür'
+patognomonik: Patognomonik değildir; şiddetli hemorajik pankreatitin klasik imzası — flankte **Grey-Turner**,
+  periumbikal bölgede **Cullen** ekimozu; çoğu olguda yoktur
+ilk_tetkik: 'Serum **lipaz**; abdominal **ultrason** safra kaynağını ve taşı araştırmak için ilk görüntüleme
+  yöntemidir'
+kesin_tani: 'Üç kriterden ikisi: karakteristik ağrı, **lipaz veya amilazın** normalin **3 katı** üzeri
+  olması, görüntülemede pankreatit bulgusu. Kontrastlı BT ilk **72 saatte** rutin istenmez; nekroz veya
+  apse şüphesinde çekilir'
+ilk_tedavi: 'Agresif **intravenöz sıvı** (**Ringer laktat** tercih edilir), analjezi ve erken enteral
+  beslenme; bulantı-ağrı azalır azalmaz oral beslemeye geçilir. Safra kökenli tabloya kolanjit eşlik
+  ediyorsa erken **ERCP**'
+klasik_komplikasyon: '**4 haftadan uzun** süren pankreas **pseudokisti**; ilk **1-2 haftadan** sonra
+  ateş ve sepsisle **infekte nekroz**; **ARDS** ve hipokalsemiye bağlı **tetani**'
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-87
 - tus-2014-ilkbahar-ktbt-98

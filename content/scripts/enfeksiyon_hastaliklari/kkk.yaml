@@ -11,42 +11,19 @@ taksonomi:
   - enfeksiyon_hastaliklari
   - enf_zoonoz
   - enf_zo_kkka
-tipik_hasta: Orta Karadeniz ve iç Anadolu hattı (Tokat, Samsun, Çorum, Yozgat, Erzincan gibi endemik iller)
-  başta olmak üzere hayvancılık ve tarla işiyle uğraşan; kene tutunmasına ya da viremik sığır-koyun-keçi
-  kanına (hayvan kesimi, kene ezme) maruz kalan hasta; kene temasından bir-üç gün sonra (kan-salgı temasıyla
-  dokuz güne uzayabilir) ani başlayan ateş, şiddetli baş-kas ağrısı, bulantı-kusma ile gelir; gün üç-dörtten
-  itibaren kanama bulgularının eklenmesi ve bakım sırasında hastanın kanı-salgılarıyla temas eden sağlık
-  çalışanının bulaş riski tabloyu ayırt eden kenar taşlarıdır
-patofizyoloji: 'Etken Nairovirus cinsinden bir bunyavirustür; Hyalomma cinsi kene hem vektör hem rezervuardır.
-  Virüs sığır-koyun-keçide belirtisiz, geçici viremi yapar; insana enfekte kene tutunması ya da hayvan
-  kanının deri-mukozaya teması ile geçer. İnsan kazara konaktır, insandan insana doğal yolla bulaş olmaz;
-  ancak viremik hastanın kanı ve vücut salgıları (özellikle ölen hastanın kanına iğne batması ya da koruyucu
-  donanımsız bakım) hastane içi geçişe yol açar. Virüs karaciğer ve kemik iliğini hedefler: hepatosellüler
-  nekroz, trombositopeni ve pıhtılaşma faktörlerinin tüketimi gelişir; kanama-şok-organ yetmezliği ölüm
-  zinciridir'
+tipik_hasta: "**Orta Karadeniz-iç Anadolu** hattında (Tokat, Samsun, Çorum, Yozgat, Erzincan) **hayvancılık** ve **tarla işi**yle uğraşan; **kene tutunması** ya da **viremik sığır-koyun-keçi kanına** (kesim, kene ezme) maruz kalan hasta. Kene temasından **bir-üç gün** sonra (kan-salgı temasıyla **dokuz güne** uzayabilir) ani **ateş**, şiddetli baş-kas ağrısı, bulantı-kusma ile gelir. **Üçüncü-dördüncü gün**den itibaren **kanama bulguları**nın eklenmesi ve hastanın kanı-salgılarıyla temas eden **sağlık çalışanına** bulaş riski tabloyu ayırt eden kenar taşlarıdır"
+patofizyoloji: "Etken **Nairovirus** cinsinden bir bunyavirüstür; **Hyalomma** kenesi hem **vektör** hem **rezervuardır**. Virüs sığır-koyun-keçide belirtisiz **geçici viremi** yapar; insana enfekte kene tutunması ya da hayvan kanının **deri-mukozaya** temasıyla geçer. İnsan kazara konaktır, **insandan insana doğal bulaş olmaz**; ancak viremik hastanın **kanı ve salgıları** hastane içi geçişe yol açar. Virüs **karaciğer** ve **kemik iliği**ni hedefler: hepatosellüler nekroz, **trombositopeni** ve pıhtılaşma faktörlerinin tüketimi; **kanama-şok-organ yetmezliği** ölüm zinciridir"
 anahtar_bulgular:
-- Ani yüksek ateş, şiddetli baş ağrısı, sırt-baldır-kas ağrıları, kusma ve ishal; ilk günlerde gövde ve
-  yüzde kızarıklık, peteşi
-- Tam kan sayımında lökopeni ve trombositopeni; endemik bölgede kene teması artı bu ikili tanının en erken
-  ipucudur
-- 'Ağır seyir işaretleri: AST-ALT ve LDH''nin belirgin yükselmesi, uzamış pıhtılaşma zamanları, düşük
-  fibrinojen'
-- 'Ateşin üçüncü-beşinci gününde kanama fazı: diş eti-burun kanaması, ekimoz, gastrointestinal ve enjeksiyon
-  yerlerindeki kanamalar, idrarda kan'
-- İyileşirken ikinci dalga ateş ve kanamayla şok, yaygın damar içi pıhtılaşma gelişebilir; hastane personeline
-  iğne batması-kan sıçraması öyküsü mutlaka sorgulanır
+- "Ani **yüksek ateş**, şiddetli baş ağrısı, sırt-baldır-kas ağrıları, kusma ve ishal; ilk günlerde gövde ve yüzde kızarıklık, **peteşi**"
+- "**Lökopeni** ve **trombositopeni**; endemik bölgede **kene teması** artı bu ikili tanının en erken ipucudur"
+- "Ağır seyir işaretleri: **AST-ALT** ve **LDH**'nin belirgin yükselmesi, uzamış **pıhtılaşma zamanları**, düşük **fibrinojen**"
+- "Ateşin **üçüncü-beşinci gününde kanama fazı**: diş eti-burun kanaması, **ekimoz**, gastrointestinal ve enjeksiyon yerlerinde kanamalar, **idrarda kan**"
+- "İyileşirken ikinci dalga ateş ve kanamayla **şok**, **yaygın damar içi pıhtılaşma** gelişebilir; hastane personeline **iğne batması-kan sıçraması** öyküsü mutlaka sorgulanır"
 patognomonik: null
-ilk_tetkik: Tam kan sayımı, karaciğer fonksiyon testleri, LDH, pıhtılaşma tetkikleri (protrombin zamanı,
-  aktive kısmi tromboplastin zamanı, fibrinojen) ve D-dimer; kene ya da viremik hayvan kanına temas hikâyesinin
-  sorgulanması
-kesin_tani: Akut fazda kandan moleküler yöntemle viral RNA saptanması; ikinci haftadan itibaren ELISA
-  ile IgM antikorlarının gösterilmesi
-ilk_tedavi: 'Esas tedavi yoğun destek: hacim-elektrolit düzeltmesi, gerekirse taze donmuş plazma, trombosit
-  ve eritrosit desteği, damar yoluyla kanamaların izlemi. Spesifik tedavide ribavirin erken dönemde (ilk
-  beş günde) yararlıdır. Sağlık çalışanında iğne batması ya da kan sıçraması sonrası maruziyet takibi
-  ve profilaktik ribavirin düşünülür; hasta izolasyon önlemleri (koruyucu donanım) sağlık çalışanını korur'
-klasik_komplikasyon: Tüketim koagülopatisi ve yaygın damar içi pıhtılaşma, karaciğer yetmezliği, iç kanamalar
-  nedeniyle ölüm; ölüm oranı zamanında tanı ve destekle yüzde üç ile yüzde otuz arasında değişir
+ilk_tetkik: "**Tam kan sayımı**, **karaciğer fonksiyon testleri**, **LDH**, **pıhtılaşma tetkikleri** (protrombin zamanı, aktive kısmi tromboplastin zamanı, **fibrinojen**) ve **D-dimer**; **kene** ya da **viremik hayvan kanına** temas hikâyesinin sorgulanması"
+kesin_tani: "Akut fazda kandan **moleküler yöntemle viral RNA** saptanması; ikinci haftadan itibaren **ELISA** ile **IgM** antikorlarının gösterilmesi"
+ilk_tedavi: "Esas tedavi **yoğun destek**: hacim-elektrolit düzeltmesi, gerekirse **taze donmuş plazma**, **trombosit** ve eritrosit desteği, damar içi kanamaların izlemi. Spesifik tedavide **ribavirin** erken dönemde (**ilk beş günde**) yararlıdır. **İğne batması** ya da kan sıçraması sonrası maruziyet takibi ve **profilaktik ribavirin** düşünülür; hasta **izolasyon önlemleri** (koruyucu donanım) sağlık çalışanını korur"
+klasik_komplikasyon: "**Tüketim koagülopatisi** ve **yaygın damar içi pıhtılaşma**, **karaciğer yetmezliği**, iç kanamalar nedeniyle ölüm; ölüm oranı zamanında tanı ve destekle **yüzde üç-otuz** arasında değişir"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-25
 kart_uret:

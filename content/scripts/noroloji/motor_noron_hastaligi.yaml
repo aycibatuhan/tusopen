@@ -13,34 +13,19 @@ taksonomi:
   - noroloji
   - noro_noromuskuler
   - noro_nm_motor_noron
-tipik_hasta: 40-60 yaş arası, elinde belirsiz güçsüzlük, kas incelmesi ve ağrısız kas titremeleriyle (fasikülasyon)
-  gelen orta yaşlı hasta; öyküde tutulum kollardan bacaklara veya dil-yutma kaslarına sıçrar; hiçbir zaman
-  duyusal şikayet (uyuşma, batma) yoktur — bu eksiklik tanıya yakın ipucudur
-patofizyoloji: 'Beyin korteks (üst motor nöron) ve omurilik ön boynuz (alt motor nöron) hücrelerinin seçici,
-  ilerleyici dejenerasyonu; mekanizma çok kademelidir: glutamat eksitotoksisitesi, proteostaz bozukluğu
-  (ailevi vakalarda SOD1 ve diğer gen mutasyonları) ve nörofilament birikimi öne çıkar; duyusal sistem,
-  göz hareketleri ve sfinkter fonksiyonları korunur, bu seçicilik hastalığın imzasıdır'
+tipik_hasta: "**40-60 yaş** arası; elinde belirsiz **güçsüzlük**, **kas incelmesi** ve ağrısız **kas titremeleriyle (fasikülasyon)** gelen orta yaşlı hasta. Tutulum **kollardan bacaklara** veya **dil-yutma** kaslarına sıçrar; **hiçbir zaman duyusal şikâyet (uyuşma, batma) yoktur** — bu eksiklik tanıya yakın ipucudur"
+patofizyoloji: "**Beyin korteks (üst motor nöron)** ve **omurilik ön boynuz (alt motor nöron)** hücrelerinin **seçici, ilerleyici dejenerasyonu**. Mekanizma: **glutamat eksitotoksisitesi**, **proteostaz bozukluğu** (ailevi vakalarda **SOD1** ve diğer gen mutasyonları), **nörofilament birikimi**; **Duyusal sistem, göz hareketleri ve sfinkter fonksiyonları korunur** — bu seçicilik hastalığın **imzasıdır**"
 anahtar_bulgular:
-- 'Üst motor nöron bulguları: hiperrefleksi, spastisite, patolojik refleksler (Babinski)'
-- 'Alt motor nöron bulguları: kas atrofisi, fasikülasyonlar, hiporefleksi'
-- 'Aynı uzuvda iki tip bulgunun birlikte olması: atrofik ve fasikülasyonlu kasta canlı veya abartılı refleksler'
-- Duyusal muayene tamamen normal; göz hareketleri ve sfinkter fonksiyonu erken dönemde korunur
-- İlerleyici disartri ve disfaji (bulbar tip); iğne EMG'de fibrilasyon, pozitif keskin dalgalar ve kronik
-  reinnervasyon
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Aynı kas grubunda üst ve alt motor nöron bulgularının birlikteliği: incelmiş, titreyen,
-  refleksleri canlı kalan kol; duyusal bulgu yokluğu'
-ilk_tetkik: 'İğne EMG: denervasyon kanıtını (fibrilasyon ve pozitif keskin dalgalar) ve kronik reinnervasyonu
-  gösterir, klinik olarak şüpheli bölgelerin dışındaki bölgelerde de denervasyon arar; kranyal ve servikal
-  MRG, multipl skleroz veya servikal spondiloz gibi üst ve alt motor nöron bulgularını birlikte yaratabilecek
-  taklitleri dışlamak için istenir; kreatin kinaz hafif yükselebilir'
-kesin_tani: Klinik üst + alt motor nöron bulgularının ilerleyici seyri, EMG'de denervasyon kanıtı ve taklitlerin
-  (servikal spondiloz, omurilik sıkışması, multipl motor nöropati, spinal kitleler) dışlanması (El Escorial
-  mantığı); biyopsi gerekmez
-ilk_tedavi: 'Riluzol: glutamat aracılı eksitotoksik hasarı azaltarak yaşam süresini birkaç ay uzatan temel
-  ilaçlardan biridir (edaravon da hastalık modifiye edici seçeneklerden biridir); ek destek: yutma güçlüğünde gastrostomi, solunum kas yetmezliğinde non-invaziv ventilasyon,
-  salya kontrolü ve konuşma terapisi ile multidisipliner bakım'
-klasik_komplikasyon: Solunum kas yetmezliği (en sık ölüm nedeni), disfajiye bağlı malnütrisyon ve aspirasyon
-  pnömonisi; ileri dönemde tam bakıma muhtaçlık
+- "**Üst motor nöron bulguları**: **hiperrefleksi**, **spastisite**, **patolojik refleksler (Babinski)**"
+- "**Alt motor nöron bulguları**: **kas atrofisi**, **fasikülasyonlar**, **hiporefleksi**"
+- "**Aynı uzuvda iki tip bulgunun birlikte olması**: atrofik ve fasikülasyonlu kasta **canlı veya abartılı refleksler**"
+- "**Duyusal muayene tamamen normal**; **göz hareketleri ve sfinkter fonksiyonu** erken dönemde korunur"
+- "İlerleyici **disartri ve disfagi** (**bulbar tip**); **iğne EMG**'de **fibrilasyon**, **pozitif keskin dalgalar** ve **kronik reinnervasyon**"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **aynı kas grubunda üst ve alt motor nöron bulgularının birlikteliği** — incelmiş, titreyen, **refleksleri canlı kalan kol**; **duyusal bulgu yokluğu**"
+ilk_tetkik: "**İğne EMG**: **denervasyon kanıtı** (**fibrilasyon**, **pozitif keskin dalgalar**) ve **kronik reinnervasyon**; şüpheli bölgeler **dışındaki** bölgelerde de **denervasyon** aranır; **Kranyal ve servikal MRG** — **multipl skleroz** veya **servikal spondiloz** gibi taklitler dışlanır; **kreatin kinaz** hafif yükselebilir"
+kesin_tani: "**Klinik üst + alt motor nöron bulgularının ilerleyici seyri** + **EMG'de denervasyon kanıtı** (**El Escorial** mantığı). Taklitler dışlanır: **servikal spondiloz**, **omurilik sıkışması**, **multipl motor nöropati**, **spinal kitleler**; **biyopsi gerekmez**"
+ilk_tedavi: "**Riluzol**: **glutamat aracılı eksitotoksisiteyi** azaltarak **yaşam süresini birkaç ay** uzatan temel ilaç; **edaravon** da hastalığı modifiye edici seçenek; **Yutma güçlüğünde gastrostomi**; **solunum kas yetmezliğinde non-invaziv ventilasyon**; **Salya kontrolü** ve **konuşma terapisi** ile **multidisipliner bakım**"
+klasik_komplikasyon: "**Solunum kas yetmezliği** (en sık **ölüm nedeni**); **disfaji**ye bağlı **malnütrisyon** ve **aspirasyon pnömonisi**. İleri dönemde **tam bakıma muhtaçlık**"
 tus_gecmisi:
 - tus-2020-sonbahar-ktbt-33
 - tus-2021-sonbahar-ktbt-33

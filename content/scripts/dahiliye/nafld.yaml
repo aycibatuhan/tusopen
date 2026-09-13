@@ -8,18 +8,18 @@ sources:
 ad: Non-alkolik Yağlı Karaciğer Hastalığı
 taksonomi:
   - [ktbt, dahiliye, dah_hepatoloji, dah_hep_nafld]
-tipik_hasta: "Metabolik sendromlu (obezite, tip 2 diyabet, dislipidemi, hipertansiyon) orta yaş hasta; rutin tetkikte karaciğer enzim yüksekliği ya da ultrasonda karaciğer yağlanması saptanan kişide; alkol tüketimi yok ya da belirgin değil (erkekte günde 30 g, kadında 20 g altı)"
-patofizyoloji: "İnsülin direnci karaciğerde serbest yağ asidi girişini ve yeniden yağ yapımını (de novo lipogenez) artırır, yağın VLDL olarak dışa aktarımı yetmez; makroveziküler steatoz birikir (güncel sınıflamada metabolik ilişkili yağlı karaciğer hastalığı olarak da adlandırılır). Yağ yükü tek başına zararlı değildir; üzerine oksidatif stres, mitokondriyal bozulma, adipokin ve sitokin salınımı eklenince lobüler inflamasyon ve hepatosit balonlaşması (steatohepatit) gelişir, bunu perisinüzoidal fibrozis izleyebilir"
+tipik_hasta: "Metabolik sendromlu (obezite, **tip 2 diyabet**, **dislipidemi**, **hipertansiyon**) orta yaş hasta; rutin tetkikte **karaciğer enzim** yüksekliği ya da ultrasonda **yağlanma** saptanan. Alkol tüketimi yok ya da belirgin değil (erkekte günde **30 g**, kadında **20 g** altı)"
+patofizyoloji: "**İnsülin direnci** karaciğerde serbest yağ asidi girişini ve **de novo lipogenezi** artırır; yağın VLDL dışa aktarımı yetmez, makroveziküler **steatoz** birikir. Yağ yükü üzerine **oksidatif stres**, mitokondriyal bozulma, adipokin-sitokin salınımı eklenince **lobüler inflamasyon** ve hepatosit **balonlaşması** (**steatohepatit**) gelişir; perisinüzoidal **fibrozis** izleyebilir"
 anahtar_bulgular:
-  - "Ultrasonda karaciğer parankiminin böbrek kabuğundan belirgin daha ekojenik olması, derin ışınların zayıflaması ve damar kontürlerinin silikleşmesi"
-  - "Karaciğer enzimlerinde hafif yükseklik; AST/ALT oranı 1'in altında (alkolik karaciğer hastalığında 1'in üzerinde)"
-  - "Metabolik sendrom bileşenlerinin varlığı: obezite, tip 2 diyabet, dislipidemi, hipertansiyon"
-  - "Biyopside makroveziküler yağlanma, balonlaşma ve lobüler inflamasyon (steatohepatit); fibrozis evrelemesi"
-  - "Alkol tüketiminin hafifliği ve viral, otoimmün, metabolik (Wilson, hemokromatoz) nedenlerin serolojik dışlanması"
+  - "Ultrasonda karaciğer parankiminin **böbrek kabuğundan belirgin ekojenik** olması; derin ışınların zayıflaması, damar kontürlerinin silikleşmesi"
+  - "Karaciğer enzimlerinde hafif yükseklik; **AST/ALT oranı 1'in altında** (alkolik karaciğer hastalığında 1'in üzerinde)"
+  - "Metabolik sendrom bileşenleri: obezite, **tip 2 diyabet**, **dislipidemi**, **hipertansiyon**"
+  - "Biyopside **makroveziküler yağlanma**, **balonlaşma** ve **lobüler inflamasyon** (steatohepatit); **fibrozis** evrelemesi"
+  - "Alkol tüketiminin hafifliği; viral, otoimmün, metabolik (**Wilson**, **hemokromatoz**) nedenlerin serolojik dışlanması"
 patognomonik: null
-ilk_tetkik: "Karaciğer ultrasonografisi (yağlanmayı gösteren ilk görüntüleme); karaciğer enzimleri; alkol anamnezi; hepatit B ve C, otoimmün, Wilson ve hemokromatoz dışlaması için serolojiler; metabolik değerlendirme (açlık glukozu, HbA1c, lipit paneli, kan basıncı)"
-kesin_tani: "Görüntüleme ya da biyopsiyle karaciğer yağlanmasının gösterilmesi + alkol tüketiminin hafifliği + diğer kronik karaciğer hastalıklarının dışlanması. Fibrozis riski önce FIB-4 skoruyla (yaş çarpı AST, bölü trombosit sayısı çarpı ALT'nin karekökü) değerlendirilir: düşük skor biyopsi gerektirmez, yüksek skor elastografi ya da biyopsiye yöneltir"
-ilk_tedavi: "Kanıtlanmış tek tedavi kilo kaybıdır: hedef vücut ağırlığının yüzde 7-10'u (yüzde 10 kayıp steatohepatitte fibrozisi bile geriletebilir). Akdeniz tipi diyet ve düzenli egzersiz temeldir. Tip 2 diyabette pioglitazon ve GLP-1 reseptör agonistleri steatohepatitte yararlıdır; statinler bu hastalarda güvenlidir. İlerlemiş fibroziste hepatosellüler karsinom taraması ve transplantasyon değerlendirmesi"
-klasik_komplikasyon: "Steatohepatit üzerinden siroz; sirozu olanlarda hepatosellüler karsinom"
+ilk_tetkik: "**Karaciğer ultrasonografisi** (yağlanmayı gösteren ilk görüntüleme); **karaciğer enzimleri**; alkol anamnezi. **Hepatit B ve C**, otoimmün, **Wilson** ve **hemokromatoz** dışlaması için serolojiler; metabolik değerlendirme (açlık glukozu, **HbA1c**, lipit paneli, kan basıncı)"
+kesin_tani: "Görüntüleme ya da biyopsiyle **karaciğer yağlanması** + alkol tüketiminin hafifliği + diğer kronik karaciğer hastalıklarının dışlanması. Fibrozis riski önce **FIB-4** skoruyla değerlendirilir (yaş çarpı AST, bölü trombosit sayısı çarpı ALT'nin karekökü). **Düşük skor** biyopsi gerektirmez; yüksek skor **elastografi** ya da biyopsiye yöneltir"
+ilk_tedavi: "Kanıtlanmış tek tedavi **kilo kaybı**: hedef vücut ağırlığının **yüzde 7-10**'u (**yüzde 10** kayıp steatohepatitte fibrozisi bile geriletebilir). Akdeniz tipi diyet ve düzenli egzersiz temel; tip 2 diyabette **pioglitazon** ve **GLP-1 reseptör agonistleri** steatohepatitte yararlı, **statinler** güvenlidir. İlerlemiş fibroziste **hepatosellüler karsinom** taraması ve transplantasyon değerlendirmesi"
+klasik_komplikasyon: "Steatohepatit üzerinden **siroz**; sirozu olanlarda **hepatosellüler karsinom**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

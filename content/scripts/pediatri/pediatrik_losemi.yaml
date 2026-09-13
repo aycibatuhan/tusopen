@@ -12,37 +12,20 @@ taksonomi:
   - pediatri
   - ped_onkoloji
   - ped_onk_losemi
-tipik_hasta: 2-5 yaş civarında (akut lenfoblastik löseminin tepe yaşı) başvuran çocuk; solukluk ve çabuk
-  yorulma, tekrarlayan ya da ağır infeksiyonlar, kolay morarma ve kanamalarla birlikte kemik-eklem ağrıları
-  (bazen topallama ya da yürüme reddi olarak) gelen; açıklanamayan anemi, trombositopeni ya da beyaz kan
-  hücre sayımındaki sapmayla anımsanır
-patofizyoloji: Kemik iliğindeki lenfoid (çocukların büyük çoğunluğunda akut lenfoblastik lösemi) ya da
-  miyeloid öncül hücrelerde edinilmiş genetik hasara bağlı klonal çoğalma; blastlar iliği işgal ederek
-  normal eritrosit, granülosit ve trombosit üretimini baskılar. Kemik zarının şişmesi ve infiltrasyonu
-  kemik ağrısı yapar; karaciğer, dalak, lenf düğümleri, T hücreli olgularda üst mediasten ve santral sinir
-  sistemi tutulur; hızlı hücre dönüşü ürik asit, potasyum ve fosfor yükünü artırır
+tipik_hasta: "**2-5 yaş** civarında (**ALL**'in tepe yaşı) başvuran çocuk; **solukluk ve çabuk yorulma**, tekrarlayan ya da ağır **infeksiyonlar**, kolay **morarma ve kanamalar**; **Kemik-eklem ağrıları** (bazen **topallama** ya da yürüme reddi); açıklanamayan **anemi**, **trombositopeni** ya da **beyaz kan hücre** sapması"
+patofizyoloji: "Kemik iliğindeki **lenfoid** (çocukların büyük çoğunluğunda **akut lenfoblastik lösemi**) ya da **miyeloid öncül** hücrelerde edinilmiş genetik hasara bağlı **klonal çoğalma**; **Blastlar iliği işgal ederek** normal **eritrosit, granülosit ve trombosit** üretimini baskılar; kemik zarının infiltrasyonu **kemik ağrısı** yapar; **Karaciğer, dalak, lenf düğümü**; T hücreli olgularda **üst mediasten** ve **santral sinir sistemi** tutulur; hızlı hücre dönüşü **ürik asit, potasyum ve fosfor** yükünü artırır"
 anahtar_bulgular:
-- Solukluk, çabuk yorulma, egzersiz intoleransı (anemiye bağlı)
-- Kolay morarma, ciltte peteşi ve purpura, diş eti ve burun kanamaları (trombositopeniye bağlı)
-- Tekrarlayan ya da ağır infeksiyonlar ve ateş (nöropeniye bağlı)
-- Kemik ve eklem ağrıları; çocuğun yürümeyi reddetmesi ya da topallaması; sırt ağrısı
-- Lenfadenopati, hepatosplenomegali; genç erkekte öksürük ve nefes darlığı yapan üst mediasten kitlesi
-  (T hücreli olgular)
-- 'Kan sayımı: normokrom normositik anemi, trombositopeni, değişken beyaz hücre sayımı; periferik yaymada
-  blast hücrelerinin görülmesi şüpheyi keskinleştirir'
+- "**Solukluk, çabuk yorulma**, egzersiz intoleransı (**anemi**ye bağlı)"
+- "**Kolay morarma**, ciltte **peteşi ve purpura**, diş eti ve burun kanamaları (**trombositopeni**ye bağlı)"
+- "Tekrarlayan ya da ağır **infeksiyonlar** ve ateş (**nöropeni**ye bağlı)"
+- "**Kemik ve eklem ağrıları**; yürümeyi reddetme ya da **topallama**; sırt ağrısı"
+- "**Lenfadenopati**, **hepatosplenomegali**; genç erkekte öksürük-nefes darlığı yapan **üst mediasten kitlesi** (T hücreli)"
+- "Kan sayımı: **normokrom normositik anemi**, **trombositopeni**, değişken beyaz hücre sayımı; yaymada **blast** görülmesi şüpheyi keskinleştirir"
 patognomonik: null
-ilk_tetkik: Şüpheyi doğuran ilk basamak tam kan sayımı ve periferik yaymadır; lösemi düşünülen her olguda
-  tanıyı doğrulayan ilk ve zorunlu tetkik kemik iliği aspirasyonu ve biyopsisidir
-kesin_tani: Kemik iliği aspirasyonunda blast oranının ALL'de yüzde 25 ve üzerinde, AML'de yüzde 20 ve üzerinde olması; akış sitometrisiyle immünofenotip
-  (B hücreli, T hücreli ya da miyeloid) ve sitogenetik-moleküler inceleme (kromozom değişiklikleri prognozu
-  belirler)
-ilk_tedavi: Kemoterapi başlangıcından önce hidrasyon-alkalinizasyon ve ürik asit düşürücü (allopurinol
-  ya da rasburikaz) ile tümör lizis profilaksisi; kan ürün desteği ve enfeksiyon kontrolü; ardından çok
-  bileşenli indüksiyon kemoterapisi (vinkristin, kortikosteroid, antrasiklin, L-asparaginaz) ve santral
-  sinir sistemine yönelik tedavi (intratekal metotreksat)
-klasik_komplikasyon: Tümör lizis sendromu (yüksek ürik asit, potasyum ve fosfor, düşük kalsiyum; akut
-  böbrek hasarı); ağır infeksiyonlar ve kanamalar; santral sinir sistemi ve testis tutulumunun relaps
-  kaynağı olması; uzun dönemde kemoterapiye bağlı kalp yetmezliği, endokrin sorunlar ve ikinci kanser
+ilk_tetkik: "İlk basamak **tam kan sayımı** ve **periferik yayma**. Tanıyı doğrulayan ilk ve zorunlu tetkik **kemik iliği aspirasyonu ve biyopsisidir**"
+kesin_tani: "Kemik iliği aspirasyonunda **blast oranı**: **ALL'de yüzde 25 ve üzeri**, **AML'de yüzde 20 ve üzeri**; **Akış sitometrisiyle immünofenotip** (B hücreli, T hücreli, miyeloid) ve **sitogenetik-moleküler inceleme**; kromozom değişiklikleri **prognozu** belirler"
+ilk_tedavi: "Kemoterapi öncesi **tümör lizis profilaksisi** — **hidrasyon-alkalinizasyon** ve **ürik asit düşürücü** (**allopurinol** ya da **rasburikaz**); **Kan ürün desteği** ve **enfeksiyon kontrolü**; ardından çok bileşenli **indüksiyon kemoterapisi** (**vinkristin**, **kortikosteroid**, **antrasiklin**, **L-asparaginaz**); **Santral sinir sistemine yönelik tedavi** (**intratekal metotreksat**)"
+klasik_komplikasyon: "**Tümör lizis sendromu** (**yüksek ürik asit, potasyum ve fosfor**, düşük kalsiyum; **akut böbrek hasarı**). Ağır **infeksiyonlar** ve **kanamalar**; **santral sinir sistemi ve testis tutulumu** relaps kaynağı. Uzun dönemde kemoterapiye bağlı **kalp yetmezliği**, **endokrin sorunlar** ve **ikinci kanser**"
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-61
 - tus-2015-sonbahar-ktbt-60

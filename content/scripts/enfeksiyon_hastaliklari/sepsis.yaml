@@ -11,42 +11,20 @@ taksonomi:
   - enfeksiyon_hastaliklari
   - enf_sepsis
   - enf_sp_sepsis_tanim
-tipik_hasta: Akciğer, karın, üriner sistem, deri ya da damar içi kateter gibi bir odakla gelen hastada
-  ateş veya anormal düşük vücut ısısı, taşikardi, hızlı solunum, hipotansiyon ve akut konfüzyon saptanan;
-  özellikle yaşlı, immün baskılanmış ve çok ek hastalıklı kişide ateş yerine yalnızca bilinç bulanıklığı
-  ya da tansiyon düşüklüğüyle başvuran hasta
-patofizyoloji: Sepsis, enfeksiyona karşı konak yanıtının dengesizleşip organ disfonksiyonuna yol açmasıdır;
-  patojenle ilişkili ve konak kaynaklı hasar moleküler örüntüleri bağışıklık hücrelerini aşırı aktive
-  eder. Sitokin dalgası endotel hasarına, damar geçirgenliği artışına, mikrodolaşımın bozulmasına
-  ve pıhtılaşma sisteminin dengesiz aktivasyonuna (yaygın damar içi pıhtılaşma eğilimi) neden olur; dağıtıcı
-  şok tablosunda sistemik damar direnci düşer, hipoperfüzyon dokularda oksijen borçlanması ve laktat artışı
-  yapar. Sürecin ilerleyen aşamalarında bağışıklık felci gelişir ve ikincil enfeksiyonlara zemin hazırlar
+tipik_hasta: "Akciğer, karın, üriner sistem, deri ya da **damar içi kateter** odaklı hastada **ateş** ya da **düşük vücut ısısı**; **taşikardi**, hızlı solunum, **hipotansiyon** ve akut **konfüzyon** saptanan. Özellikle **yaşlı**, **immün baskılanmış** ve çok ek hastalıklı kişide ateş yerine yalnızca **bilinç bulanıklığı** ya da **tansiyon düşüklüğü**yle başvuran hasta"
+patofizyoloji: "Sepsis, enfeksiyona karşı **konak yanıtının dengesizleşip organ disfonksiyonuna** yol açmasıdır; patojenle ilişkili ve konak kaynaklı hasar moleküler örüntüleri bağışıklık hücrelerini aşırı aktive eder. **Sitokin dalgası** endotel hasarına, **damar geçirgenliği** artışına, mikrodolaşımın bozulmasına ve pıhtılaşmanın dengesiz aktivasyonuna (**yaygın damar içi pıhtılaşma** eğilimi) neden olur. **Dağıtıcı şok** tablosunda sistemik damar direnci düşer; hipoperfüzyon dokularda **oksijen borçlanması** ve **laktat** artışı yapar. İlerleyen aşamalarda **bağışıklık felci** gelişir ve **ikincil enfeksiyonlara** zemin hazırlar"
 anahtar_bulgular:
-- 'Tanı: enfeksiyon şüphesiyle birlikte SOFA skorunda en az 2 puanlık akut artış'
-- 'qSOFA bileşenleri hızlı taramada kullanılır: solunum hızı 22 ve üzeri, sistolik tansiyon 100 ve altı,
-  bilinç değişikliği'
-- Laktat 2 mmol/L üstü organ hipoperfüzyonunu işaret eder; 4 mmol/L üstü ciddi hipoperfüzyon sayılır
-- 'Septik şok: vazopressörle ortalama arter basıncının 65 mmHg üzerinde tutulması gereksinimi ve sıvıya
-  rağmen laktatın normalin üstünde kalması'
-- Sıcaklık 38 üstü ya da 36 altı; lökositoz ya da lökopeni; trombositopeni; bilirubin ve kreatinin artışı;
-  CRP ve prokalsitonin yüksekliği
-- 'Sık kaynaklar: topluluk kökenli pnömoni, intraabdominal enfeksiyon, üriner sepsis, deri-yumuşak doku
-  enfeksiyonu, kateter ilişkili kan akımı enfeksiyonu, nötropenik hastada barsak mukozasından geçiş'
+- "**Tanı**: enfeksiyon şüphesiyle birlikte **SOFA** skorunda en az **2 puan**lık akut artış"
+- "**qSOFA** bileşenleri hızlı taramada kullanılır: **solunum hızı 22** ve üzeri, **sistolik tansiyon 100** ve altı, **bilinç değişikliği**"
+- "**Laktat 2 mmol/L** üstü organ **hipoperfüzyon**unu işaret eder; **4 mmol/L** üstü ciddi hipoperfüzyon sayılır"
+- "**Septik şok**: **vazopressör**le ortalama arter basıncının **65 mmHg** üzerinde tutulması gereksinimi ve sıvıya rağmen **laktat**ın normalin üstünde kalması"
+- "Sıcaklık **38 üstü** ya da **36 altı**; **lökositoz** ya da **lökopeni**; **trombositopeni**; **bilirubin** ve **kreatinin** artışı; **CRP** ve **prokalsitonin** yüksekliği"
+- "Sık kaynaklar: **topluluk kökenli pnömoni**, **intraabdominal enfeksiyon**, **üriner sepsis**, **deri-yumuşak doku**, **kateter ilişkili kan akımı** enfeksiyonu; nötropenik hastada **barsak mukozasından geçiş**"
 patognomonik: null
-ilk_tetkik: Antibiyotik öncesi en az iki set kan kültürü; laktat, tam kan sayımı, kreatinin, elektrolitler,
-  karaciğer fonksiyonları, koagülasyon testleri, prokalsitonin; odak aramada akciğer grafisi, idrar tetkiki
-  ve kültürü, gerekirse kontrastlı bilgisayarlı tomografi
-kesin_tani: Enfeksiyon şüphesi ve enfeksiyonla açıklanabilen akut SOFA artışı (en az 2 puan); septik şok
-  tanımı vazopressör gereksinimiyle hiperalaktatemiyi birlikte gerektirir
-ilk_tedavi: 'İlk bir saat kovanı: kan kültürü alındıktan sonra gecikmeksizin geniş spektrumlu intravenöz
-  antibiyotik, laktat ölçümü, hipotansiyon ya da laktat 4 mmol/L üstündeyse 30 mL/kg kristaloid sıvı resüsitasyonu
-  ve sıvıya yanıt yoksa vazopressör başlanması (birincil seçim noradrenalin; hedef ortalama arter basıncı
-  65 mmHg üstü). Kaynak kontrolü (abse drenajı, nekrotik dokunun temizlenmesi, enfekte kateterin çıkarılması)
-  ilk saatlerde yapılmalıdır; kültür için antibiyotik hiç koşulda bekletilmez. Geniş spektrumlu tedavi
-  kültür sonuçlarına göre 48-72 saat içinde daraltılır'
-klasik_komplikasyon: Septik şok, akut böbrek hasarı (en sık organ yetmezliği), ARDS, yaygın damla içi
-  pıhtılaşma, çoklu organ disfonksiyonu ve ölüm; kritik hastalığı atlatanlarda uzun süreli bağışıklık
-  baskılanması ve ikincil enfeksiyonlar
+ilk_tetkik: "Antibiyotik öncesi **en az iki set kan kültürü**; **laktat**, **tam kan sayımı**, **kreatinin**, **elektrolitler**. **Karaciğer fonksiyonları**, **koagülasyon testleri**, **prokalsitonin**. Odak aramada **akciğer grafisi**, **idrar tetkiki** ve kültürü, gerekirse **kontrastlı bilgisayarlı tomografi**"
+kesin_tani: "Enfeksiyon şüphesi ve enfeksiyonla açıklanabilen akut **SOFA** artışı (en az **2 puan**); **septik şok** tanımı **vazopressör** gereksinimiyle **hiperalaktatemi**yi birlikte gerektirir"
+ilk_tedavi: "**İlk bir saat kovanı**: **kan kültürü** alındıktan sonra gecikmeksizin geniş spektrumlu damar içi **antibiyotik**, **laktat** ölçümü. Hipotansiyon ya da **laktat 4 mmol/L** üstündeyse **30 mL/kg kristaloid** sıvı resüsitasyonu; sıvıya yanıt yoksa **vazopressör** (birincil seçim **noradrenalin**, hedef ortalama arter basıncı **65 mmHg** üstü). **Kaynak kontrolü** (abse drenajı, nekrotik doku, enfekte **kateter**in çıkarılması) ilk saatlerde yapılmalıdır; kültür için **antibiyotik hiç koşulda bekletilmez**. Geniş spektrumlu tedavi kültür sonuçlarına göre **48-72 saat** içinde **daraltılır**"
+klasik_komplikasyon: "**Septik şok**, **akut böbrek hasarı** (en sık organ yetmezliği), **ARDS**, **yaygın damar içi pıhtılaşma**, **çoklu organ disfonksiyonu** ve ölüm; kritik hastalığı atlatanlarda uzun süreli **bağışıklık baskılanması** ve **ikincil enfeksiyonlar**"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-78
 - tus-2013-sonbahar-ktbt-80

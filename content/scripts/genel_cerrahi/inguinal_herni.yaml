@@ -12,35 +12,19 @@ taksonomi:
   - genel_cerrahi
   - gc_herni
   - gc_her_inguinal
-tipik_hasta: Kasıkta ayakta ve ıkınmayla belirginleşen, yatınca kaybolan kitleyle gelen erkek hasta (erkeklerde
-  belirgin sıktır). Bebek ve çocukta proçesus vaginalis kapanmamasına bağlıdır; erişkinde sigara, KOAH/kronik
-  öksürük, konstipasyon, prostatizm ve ağır yük kaldırma gibi batın içi basıncı artıran durumlar eşlik
-  eder
-patofizyoloji: 'Karın duvarının en önde transversalis fasya olmak üzere zayıflaması sonucu peritoneumun
-  içerideki organla birlikte torbalaşması. İndirekt tip: kapanmamış proçesus vaginalis yoluyla derin inguinal
-  halkadan, inferior epigastrik damarların lateralinden kanal boyunca iner, skrotuma kadar uzanabilir;
-  konjenitaldir, çocuk ve gençlerde tipik. Direkt tip: inferior epigastrik damarların medialindeki Hesselbach
-  üçgeninde edinilmiş fasya zayıflığıyla çıkar, halkadan geçmez, skrotuma nadiren iner; ileri yaş ve basınç
-  artıran hastalıklarla ilişkilidir'
+tipik_hasta: "Kasıkta ayakta ve ıkınmayla belirginleşen, yatınca kaybolan kitleyle gelen erkek hasta (erkeklerde belirgin sıktır). Bebek ve çocukta **proçesus vaginalis** kapanmamasına bağlıdır; erişkinde sigara, KOAH/kronik öksürük, konstipasyon, prostatizm ve ağır yük kaldırma gibi **batın içi basıncı artıran** durumlar eşlik eder"
+patofizyoloji: "Karın duvarının en önde **transversalis fasya** olmak üzere zayıflaması sonucu peritoneumun içerideki organla birlikte torbalaşması; **İndirekt tip**: kapanmamış proçesus vaginalis yoluyla derin inguinal halkadan, **inferior epigastrik damarların lateralinden** kanal boyunca iner, skrotuma kadar uzanabilir; konjenitaldir, çocuk ve gençlerde tipik; **Direkt tip**: inferior epigastrik damarların medialindeki **Hesselbach üçgeni**nde edinilmiş fasya zayıflığıyla çıkar, halkadan geçmez, skrotuma nadiren iner"
 anahtar_bulgular:
-- Ayakta/valsalva ile büyüyen, sırtüstü yatıryorken kendiliğinden veya elle redükte olan kasık kitlesi
-- Öksürük impulsları ve kitle üzerinden palpabl halka/defekt
-- Redüksiyon sırasında borborygmus (guruldu sesi)
-- İndirilemez, gergin ve ağrılı kitle (inkarsereasyon); buna barsak iskemisi bulguları ve karında defans
-  eklenmesi (strangülasyon)
-- Kitlenin skrotuma uzanması (indirekt tipi destekler)
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Yerçekimi ve ıkınma ile oluşup yatıryorken redükte olan kasık kitlesi
-ilk_tetkik: 'Fizik muayene: ayakta ve yatış pozisyonunda öksürtme/valsalva ile değerlendirme; tanı büyük
-  ölçüde klinikte konur. Küçük ya da gizli herni şüphesinde dinamik USG, karmaşık olgularda batın BT/MR'
-kesin_tani: Klinik muayene bulguları; şüphe sürerse dinamik USG veya batın BT ile desteklenir, kesin doğrulama
-  operasyonda kese ve defektin gösterilmesiyle yapılır
-ilk_tedavi: 'Semptomatik erişkinde elektif onarım: gerilimsiz yama yöntemi (Lichtenstein) ya da uygun
-  hastada laparoskopik TEP/TAPP; minimal semptomlu erişkinde izlem (watchful waiting) kabul edilebilir.
-  Bebek ve çocukta yüksek ligasyon (herniotomi) yeterlidir. İnkarsere/strangüle herni acil cerrahidir;
-  strangülasyon şüphesi varsa elle redüksiyon denemeden barsak canlılığıyla birlikte operasyona alınır'
-klasik_komplikasyon: 'İnkarsereasyon → strangülasyon: kese içinde barsak kanlanmasının bozulması, nekroz
-  ve perforasyonla peritonit; Richter hernisinde yalnızca barsak duvarının bir bölümü sıkıştığı için obstrüksiyon
-  bulgusu olmadan da gangrene gidebilir'
+- "Ayakta/valsalva ile büyüyen, sırtüstü yatıryorken kendiliğinden veya elle **redükte olan** kasık kitlesi"
+- "**Öksürük impulsları** ve kitle üzerinden palpe edilen **halka/defekt**"
+- "Redüksiyon sırasında **borborygmus** (guruldu sesi)"
+- "**İnkarsereasyon**: indirilemez, gergin ve ağrılı kitle; barsak iskemisi bulguları ve karında defans eklenmesi (**strangülasyon**)"
+- "Kitlenin **skrotuma uzanması** (indirekt tipi destekler)"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — yerçekimi ve ıkınma ile oluşup yatıryorken **redükte olan kasık kitlesi**"
+ilk_tetkik: "**Fizik muayene**: ayakta ve yatış pozisyonunda öksürtme/**valsalva** ile değerlendirme; tanı büyük ölçüde klinikte konur. Küçük ya da gizli herni şüphesinde **dinamik USG**, karmaşık olgularda batın BT/MR"
+kesin_tani: "**Klinik muayene** bulguları; şüphe sürerse **dinamik USG** veya batın BT ile desteklenir, kesin doğrulama operasyonda kese ve defektin gösterilmesiyle yapılır"
+ilk_tedavi: "Semptomatik erişkinde elektif onarım: gerilimsiz yama (**Lichtenstein**) ya da uygun hastada laparoskopik **TEP/TAPP**; minimal semptomlu erişkinde izlem (**watchful waiting**) kabul edilebilir. Bebek ve çocukta **yüksek ligasyon (herniotomi)** yeterlidir; **İnkarsere/strangüle** herni acil cerrahidir; strangülasyon şüphesi varsa elle redüksiyon denemeden barsak canlılığıyla birlikte operasyona alınır"
+klasik_komplikasyon: "**İnkarsereasyon → strangülasyon**: kese içinde barsak kanlanmasının bozulması, nekroz ve perforasyonla **peritonit**; **Richter hernisinde** yalnızca barsak duvarının bir bölümü sıkıştığı için obstrüksiyon bulgusu olmadan da gangrene gidebilir"
 tus_gecmisi:
 - tus-2016-ilkbahar-ktbt-94
 - tus-2016-ilkbahar-ktbt-97

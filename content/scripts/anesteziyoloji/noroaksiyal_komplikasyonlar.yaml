@@ -8,18 +8,18 @@ sources:
 ad: Nöroaksiyal Anestezi Komplikasyonları
 taksonomi:
   - [ktbt, anesteziyoloji, anes_rejyonal, anes_ra_noroaksiyal_komplikasyon]
-tipik_hasta: "Spinal veya epidural anestezi uygulanan üç ayrı tablo: bloğun yukarı yayılmasıyla yüksek veya total spinal gelişen hasta; antikoagülasyon veya koagülopati varlığında spinal-epidural hematan riski taşıyan hasta; dural delinme (özellikle epidural uygulamada) sonrası post-dural ponksiyon baş ağrısı (PDPH) gelişen hasta"
-patofizyoloji: "Sempatik liflerin bloku venöz havuzlaşma ve arteriyel vazodilatasyonla hipotansiyon yapar; blok T1-T4 kardiyak akseleran liflerine ulaştığında refleks bradikardi eklenir (vagal dominans, Bezold-Jarisch refleksi) ve tablo kalp durmasına kadar ilerleyebilir. Dural delinmeden beyin-omurilik sıvısı sızıntısı intrakraniyal basıncı düşürür; beyin dokusu ve damarlar yer çekimiyle aşağı çekilir, bu gerilme dik konumda artan, yatınca azalan baş ağrısı yapar. Epidural iğne veya kateterin damar yaralanması antikoagülasyonla birleşirse spinal-epidural hematom gelişir; hematom omuriliği veya konik medullarisi ezer, kalıcı parapleji riski acil dekompresyon süresine bağlıdır"
+tipik_hasta: "**Spinal veya epidural** anestezi uygulanan üç tablo: bloğun yukarı yayılmasıyla **yüksek veya total spinal**; antikoagülasyon/koagülopati varlığında **spinal-epidural hematom** riski. Dural delinme sonrası **post-dural ponksiyon baş ağrısı (PDPH)** gelişen hasta"
+patofizyoloji: "**Sempatik blok** venöz havuzlaşma ve vazodilatasyonla **hipotansiyon** yapar. Blok **T1-T4** kardiyak akseleran liflerine ulaşırsa **refleks bradikardi** (vagal dominans, **Bezold-Jarisch**), tablo **kalp durmasına** ilerleyebilir. Dural delinmeyle **BOS sızıntısı** intrakraniyal basıncı düşürür, **dik konumda artan-yatınca azalan** baş ağrısı yapar. **Epidural iğne/kateter** damar yaralanması antikoagülasyonla birleşirse **spinal-epidural hematom** gelişir, kalıcı **parapleji** riski acil **dekompresyon** süresine bağlıdır"
 anahtar_bulgular:
-  - "Uygulamayı izleyen dakikalarda hipotansiyon ve bradikardi; bloğun kardiyak akseleran lifler (T1-T4) düzeyine yayıldığında kalp durması"
-  - "Yüksek blokta el ve yüz hissizliği, konuşma bozukluğu, interkostal kasların etkilenmesiyle hiperkapni ve apne"
-  - "Dural delinme sonrası pozisyona bağlı baş ağrısı (dik konumda artar, yatınca azalır), bulantı-kusma, işitme değişikliği"
-  - "Spinal-epidural hematom: blok süresinin aşmasına rağmen geçmeyen veya artan motor blok, şiddetli radiküler sırt ağrısı, mesane-bağırsak disfonksiyonu"
-  - "Bloğun geçtiği döneme denk gelen ateş ve ense sertliği (epidural apse veya menenjit)"
-patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Pozisyona bağlı baş ağrısı: dik konumda belirginleşip yatınca düzelmesi"
-ilk_tetkik: "Vital bulguların izlemi ve blok seviyesinin belirlenmesi; motor blok beklenenden geç düzeliyorsa veya şiddetli radiküler sırt ağrısı varsa acil spinal MRG; PDPH şüphesinde klinik değerlendirme, atipik seyirde MRG"
-kesin_tani: "Tabloya göre değişir: yüksek blok klinikle; spinal-epidural hematom MRG ile; PDPH klinikle ve gerekirse görüntüleme ile konur"
-ilk_tedavi: "Hipotansiyonda sıvı ve vazopressör (efedrin veya fenilefrin), bradikardide atropin, kalp durmasında derhal resüsitasyon; spinal-epidural hematonda antikoagülasyonun geri döndürülmesi ve ideal olarak ilk 8 saat içinde cerrahi dekompresyon; PDPH'de analjezi ve kafein benzeri konservatif tedavi, dirençli olguda epidural kan yaması"
-klasik_komplikasyon: "Geç tanınan spinal-epidural hematonda kalıcı parapleji; geç tanınan total spinalde kalp durması"
+  - "Uygulamayı izleyen dakikalarda **hipotansiyon** ve **bradikardi**; blok **T1-T4**e yayıldığında **kalp durması**"
+  - "**Yüksek blokta** el-yüz hissizliği, konuşma bozukluğu; **interkostal** kasların etkilenmesiyle **hiperkapni** ve **apne**"
+  - "**Dural delinme** sonrası **pozisyona bağlı** baş ağrısı (dikte artar, yatınca azalır), bulantı-kusma, işitme değişikliği"
+  - "**Spinal-epidural hematom**: beklenenden geç düzelen ya da artan **motor blok**, şiddetli **radiküler sırt ağrısı**, mesane-bağırsak disfonksiyonu"
+  - "Bloğun geçtiği döneme denk gelen **ateş** ve **ense sertliği** (**epidural apse** veya **menenjit**)"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **pozisyona bağlı baş ağrısı**: dik konumda belirginleşip yatınca düzelmesi"
+ilk_tetkik: "**Vital bulgular** izlemi ve **blok seviyesinin** belirlenmesi; motor blok geç düzeliyorsa ya da şiddetli **radiküler sırt ağrısı** varsa spinal **MRG**. **PDPH** şüphesinde klinik değerlendirme, atipik seyirde **MRG**"
+kesin_tani: "Tabloya göre değişir: **yüksek blok** klinikle; **spinal-epidural hematom** **MRG** ile; **PDPH** klinikle ve gerekirse görüntüleme ile konur"
+ilk_tedavi: "**Hipotansiyonda** sıvı ve vazopressör (**efedrin** veya **fenilefrin**), **bradikardide atropin**, **kalp durmasında** derhal resüsitasyon. **Spinal-epidural hematonda** antikoagülasyonun geri döndürülmesi ve ideal olarak ilk **8 saat** içinde cerrahi **dekompresyon**. **PDPH**de analjezi ve **kafein** benzeri konservatif tedavi, dirençli olguda **epidural kan yaması**"
+klasik_komplikasyon: "Geç tanınan **spinal-epidural hematonda** kalıcı **parapleji**; geç tanınan **total spinalde** **kalp durması**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

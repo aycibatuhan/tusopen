@@ -11,42 +11,20 @@ taksonomi:
   - pediatri
   - ped_beslenme
   - ped_bes_malnutrisyon
-tipik_hasta: Sütten kesme döneminde (6-24 ay) beslenmenin bozulduğu, yoksulluk ve tekrarlayan ishallerin
-  bir arada olduğu ortamlardaki çocuk; ya kilo kaybı, yağ ve kas dokusunun erimesiyle (marazm) ya da bacaklarda
-  ödemle (kvaşiorkor) gelir; boy uzamasının yavaşlaması (gelişme geriliği) daha uzun süreli yetersizliğin
-  işaretidir
-patofizyoloji: Enerji ve protein alımının gereksinimin çok altına inmesi; önce yağ dokusu, ardından kas
-  dokusu yakılır, bazal metabolizma ve immün yanıt baskılanır, bağırsak villusları düzleşip emilim bozulur.
-  Protein eksikliği ağır basınca serum albumin düşer, plazma onkotik basıncı azalarak ödem çıkar ve karaciğerde
-  yağ birikir (kvaşiorkor); hücre içi potasyum ve magnezyum kaybı olur, bu yüzden hızlı sıvı ya da hızlı
-  besleme ödem, kalp yetmezliği ve yeniden besleme sendromu riski taşır
+tipik_hasta: "**Sütten kesme döneminde (6-24 ay)** beslenmenin bozulduğu, yoksulluk ve **tekrarlayan ishallere** maruz kalan çocuk. Ya **kilo kaybı**, yağ-kas dokusunun erimesiyle (**marazm**) ya da **bacaklarda ödem**le (**kvaşiorkor**) gelir; **Boy uzamasının yavaşlaması** (gelişme geriliği) daha uzun süreli yetersizliğin işaretidir"
+patofizyoloji: "Enerji ve protein alımı gereksinimin çok altına iner; önce **yağ dokusu**, ardından **kas** yakılır; **bazal metabolizma ve immün yanıt baskılanır**, bağırsak villusları düzleşir; **Protein eksikliği** ağır basınca **serum albumin düşer**, **onkotik basınç azalır** — ödem çıkar, karaciğerde **yağ birikir** (kvaşiorkor); **Hücre içi potasyum ve magnezyum kaybı** yüzünden **hızlı sıvı ya da hızlı besleme** ödem, **kalp yetmezliği** ve **yeniden besleme sendromu** riski taşır"
 anahtar_bulgular:
-- 'Marazm: belirgin kilo kaybı, kaburgaların ve omurganın görünmesi, yağ dokusunun yüz dahil erimesi (maymun
-  yüz görünümü); ödem yok, iştah genellikle korunur'
-- 'Kvaşiorkor: ayak sırtından başlayan, parmakla bastırınca iz bırakan (pitö) ödem; kaslar erimekle birlikte
-  yağ örtüsünün korunması'
-- Kvaşiorkorda saçlarda incelme, kırmızı-gri renk değişimi ve kolay kalkma; deride kuru, soyulan, yamalı
-  görünüm
-- Karaciğerde yağ birikimiyle karaciğer büyümesi; serum albumin düşüklüğü
-- 'Ölçümler: ağırlık/boy üç standart sapmanın altı, orta üst kol çevresi (MUAC) 11.5 santimetrenin altı
-  ya da iki ayakta pitö ödem ağır akut malnütrisyonu tanımlar; boy/yaş geriliği (gelişme geriliği) kronikliği
-  gösterir'
-- Ağır tabloda apati, iştahsızlık, hipotermi ve hipoglisemi; enfeksiyonlara yatkınlık
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kvaşiorkorda ayak sırtında başlayan pitö ödem; marazmda ödemsiz görünümle yağ ve kas dokusunun
-  aşırı kaybı
-ilk_tetkik: Antropometrik ölçümler (ağırlık/boy, ağırlık/yaş, boy/yaş, MUAC) ve ödemin varlığının araştırılması;
-  laboratuvarda albumin, glukoz, potasyum ve magnezyum, tam kan sayımı ve enfeksiyon taraması (tüberküloz
-  dahil)
-kesin_tani: 'WHO ölçütleriyle ağır akut malnütrisyon: ağırlık/boy z skorunun üç standart sapmanın altında
-  olması, orta üst kol çevresinin 11.5 santimetrenin altında olması ya da iki ayakta pitö ödem; marazm
-  ve kvaşiorkor ayrımı ödem ve yağ-kas kaybının önceliğiyle yapılır'
-ilk_tedavi: 'WHO protokolü: hazır terapötik süt (F-75) ile başlangıçta düşük kalorili, kademeli artan
-  dikkatli besleme; dehidrasyonda özel oral solüsyon (ReSoMal), potasyum ve magnezyum ekleme; geniş spektrumlu
-  antibiyotik; ödemli olguda sodyum kısıtlama; iştah döndükten sonra enerji-yoğun evde kullanımlı terapötik
-  gıdalar (RUTF); hızlı sıvı ve hızlı beslemeden kaçınma (kalp yetmezliği, hipofosfatemi riski)'
-klasik_komplikasyon: Pnömoni, ishalli hastalıklar ve tüberkülozla ölüm riskinde artış; hipoglisemi ve
-  hipotermi; yeniden besleme sendromu (hipofosfatemi); aşırı hızlı sıvıya bağlı kalp yetmezliği; uzun
-  süren yetersizlikte boy uzamasında kalıcı gecikme
+- "**Marazm**: belirgin kilo kaybı, kaburgaların-omurganın görünmesi, yüz dahil yağ dokusunun erimesi (**maymun yüz**); **ödem yok**, iştah genellikle korunur"
+- "**Kvaşiorkor**: ayak sırtından başlayan, bastırınca **iz bırakan (pitö) ödem**; kaslar erimekle birlikte **yağ örtüsünün korunması**"
+- "Kvaşiorkorda saçlarda **incelme, kırmızı-gri renk** ve kolay kalkma; deride kuru, **soyulan yamalı** görünüm"
+- "**Karaciğerde yağ birikimi**yle karaciğer büyümesi; **serum albumin düşüklüğü**"
+- "**Ağırlık/boy üç standart sapmanın altı**, **MUAC 11,5 santimetrenin altı** ya da **iki ayakta pitö ödem** ağır akut malnütrisyonu tanımlar; **boy/yaş geriliği** kronikliği gösterir"
+- "Ağır tabloda **apati**, **iştahsızlık**, **hipotermi** ve **hipoglisemi**; **enfeksiyonlara yatkınlık**"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **kvaşiorkorda ayak sırtından başlayan pitö ödem**, **marazmda ödemsiz** görünümle yağ-kas dokusunun aşırı kaybı"
+ilk_tetkik: "**Antropometrik ölçümler** (ağırlık/boy, ağırlık/yaş, boy/yaş, **MUAC**) ve **ödem** araştırması. Laboratuvar: **albumin**, **glukoz**, **potasyum ve magnezyum**, tam kan sayımı ve **enfeksiyon taraması** (**tüberküloz** dahil)"
+kesin_tani: "**WHO ölçütleriyle ağır akut malnütrisyon**: **ağırlık/boy z skoru üç standart sapmanın altında**, **MUAC 11,5 santimetrenin altında** ya da **iki ayakta pitö ödem**; **Marazm-kvaşiorkor** ayrımı **ödem** ve **yağ-kas kaybının** önceliğiyle yapılır"
+ilk_tedavi: "**WHO protokolü**: **hazır terapötik süt (F-75)** ile başlangıçta düşük kalorili, **kademeli artan dikkatli besleme**. Dehidrasyonda **özel oral solüsyon (ReSoMal)**, **potasyum ve magnezyum ekleme**; **geniş spektrumlu antibiyotik**; ödemli olguda **sodyum kısıtlama**. İştah dönünce **enerji-yoğun evde kullanımlı terapötik gıdalar (RUTF)**; **hızlı sıvı ve hızlı beslemeden kaçınma** (kalp yetmezliği, **hipofosfatemi** riski)"
+klasik_komplikasyon: "**Pnömoni**, ishalli hastalıklar ve **tüberküloz**la ölüm riskinde artış; **hipoglisemi** ve **hipotermi**; **Yeniden besleme sendromu** (**hipofosfatemi**); aşırı hızlı sıvıya bağlı **kalp yetmezliği**. Uzun süren yetersizlikte boy uzamasında **kalıcı gecikme**"
 tus_gecmisi:
 - tus-2015-sonbahar-ktbt-46
 - tus-2016-ilkbahar-ktbt-46

@@ -11,31 +11,37 @@ taksonomi:
   - gogus_hastaliklari
   - gog_plevra
   - gog_pl_mezotelyoma
-tipik_hasta: Yıllar önce (genellikle 20-40 yıl önce) asbestle temas etmiş (tersane, gemi sökümü, izolasyon,
-  çimento, tesisat işi) 60 yaş üstü hasta — en sık erkek; tek taraflı künt göğüs ağrısı ve giderek artan
-  nefes darlığıyla gelir
-patofizyoloji: Asbest lifleri plevral mezotel hücresinde kronik iltihap ve DNA hasarı yaratır; uzun bir
-  gizli dönemden sonra plevrayı tek taraflı olarak kuşatan, diffüz ve düğümlü kalınlaşma yapan malign
-  proliferasyon gelişir. Asbest aynı zamanda benign plevral plaklar da yapar — plaklar kötü huylu değildir,
-  mezotelyoma ise yayılım gösteren ölümcül tümördür
+tipik_hasta: "Yıllar önce (genellikle **20-40 yıl** önce) **asbest**le temas etmiş (tersane, gemi
+  sökümü, izolasyon, çimento, tesisat işi) hasta. **60 yaş üstü** — en sık **erkek**; **tek taraflı künt
+  göğüs ağrısı** ve giderek artan **nefes darlığı**yla gelir"
+patofizyoloji: "**Asbest** lifleri plevral **mezotel** hücresinde **kronik iltihap** ve **DNA hasarı**
+  yaratır; uzun bir **gizli dönem**den sonra plevrayı **tek taraflı** olarak kuşatan, **diffüz ve
+  düğümlü kalınlaşma** yapan malign proliferasyon gelişir. **Asbest** aynı zamanda **benign plevral
+  plak**lar da yapar — plaklar kötü huylu değildir, **mezotelyoma** ise yayılım gösteren ölümcül
+  tümördür"
 anahtar_bulgular:
-- Tek taraflı, yaygın ve dairesel (göğüs duvarını saran) plevral kalınlaşma; eşlik eden plevral sıvı
-- Künt, sürekli, gece uyku da bozan göğüs ağrısı — tümör göğüs duvarını işgal etmeye başlamıştır
-- Radyografide toraks duvarını saran yoğun plevral zar; toraks çapının daralması, mediyastenin tutulan
-  tarafa kilitlenmesi
-- Plevral sıvı eksüdatif ve çoğu kez kanlı; sitoloji genellikle tanı koydurmaz
-- 'İmmünohistokimya: kalretinin ve WT-1 pozitif; TTF-1 ve CEA negatif (akciğer adenokarsinomundan ayırımı
-  böyle yapılır)'
-- Hikayede asbest teması — mesleki öykü tanıyı ilk düşündüren kilit veridir
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Asbest teması öyküsüyle gelen hastada tek taraflı, plevrayı kuşatan yaygın kalınlaşma
-ilk_tetkik: Toraks BT (radyografi ilk tetkik olarak kalınlaşmayı gösterir, BT yayılımı belirler); ardından
-  torakoskopik plevra biyopsisi
-kesin_tani: Torakoskopik (VATS) plevra biyopsisinde malign mezotelyomanın histolojik gösterilmesi; immünohistokimya
-  ile alt tipin (epiteloid, sarkomatöz, bifazik) belirlenmesi
-ilk_tedavi: 'Multimodal yaklaşım: seçilmiş erken evre hastada cerrahi (plevrektomi/dekortikasyon); sisplatin-pemetreksed
-  kemoterapisi veya immünoterapi; semptom kontrolü için plevral sıvının boşaltılması ve gerektiğinde pleurodez'
-klasik_komplikasyon: Göğüs duvarı invazyonu, tekrarlayan plevral sıvı, sağlam akciğerin sıkışması; sarkomatöz
-  alt tipte çok kötü prognoz
+- "**Tek taraflı**, yaygın ve **dairesel (göğüs duvarını saran) plevral kalınlaşma**; eşlik eden
+  **plevral sıvı**"
+- "**Künt, sürekli, gece uykuyu da bozan göğüs ağrısı** — tümör **göğüs duvarını işgal** etmeye
+  başlamıştır"
+- "Radyografide toraks duvarını saran **yoğun plevral zar**; **toraks çapının daralması**,
+  **mediyastenin tutulan tarafa kilitlenmesi**"
+- "Plevral sıvı **eksüdatif** ve çoğu kez **kanlı**; **sitoloji** genellikle tanı koydurmaz"
+- "**İmmünohistokimya**: **kalretinin** ve **WT-1** pozitif; **TTF-1** ve **CEA** negatif
+  (**akciğer adenokarsinomundan** ayırımı böyle yapılır)"
+- "Hikâyede **asbest teması** — **mesleki öykü** tanıyı ilk düşündüren kilit veridir"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **asbest teması** öyküsüyle gelen
+  hastada **tek taraflı, plevrayı kuşatan yaygın kalınlaşma**"
+ilk_tetkik: "**Toraks BT** (radyografi ilk tetkik olarak kalınlaşmayı gösterir, **BT** yayılımı belirler);
+  ardından **torakoskopik plevra biyopsisi**"
+kesin_tani: "**Torakoskopik (VATS) plevra biyopsisinde** malign mezotelyomanın **histolojik**
+  gösterilmesi; **immünohistokimya** ile alt tipin (**epiteloid**, **sarkomatöz**, **bifazik**)
+  belirlenmesi"
+ilk_tedavi: "**Multimodal yaklaşım**: seçilmiş erken evre hastada **cerrahi
+  (plevrektomi-dekortikasyon)**; **sisplatin-pemetreksed** kemoterapisi veya **immünoterapi**. Semptom
+  kontrolü için **plevral sıvının boşaltılması** ve gerektiğinde **pleurodez**"
+klasik_komplikasyon: "**Göğüs duvarı invazyonu**, tekrarlayan **plevral sıvı**, sağlam akciğerin
+  **sıkışması**. **Sarkomatöz** alt tipte **çok kötü prognoz**"
 tus_gecmisi:
 - tus-2019-sonbahar-ktbt-101
 - tus-2020-sonbahar-ktbt-101

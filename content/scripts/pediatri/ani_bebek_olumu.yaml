@@ -12,43 +12,18 @@ taksonomi:
   - pediatri
   - ped_acil_yogun_bakim
   - ped_acil_ani_bebek_olumu
-tipik_hasta: 'SIDS: iki-dört aylık (en sık yaş), öncesinde iyi görünen bebeğin uykusunda açıklanamayan
-  ölümü; risk yüzüstü yatan, yumuşak yatakta uyuyan, pasif sigara dumanına maruz kalan, prematüre veya
-  düşük doğum ağırlıklı bebekte ve kış aylarında yükselir. BRUE: benzer yaş grubunda ailenin kısa süreli
-  solunum durması, renk ve ton değişikliği tanımlayıp bebek kendiliğinden döndüğü için getirdiği başvurudur'
-patofizyoloji: 'Klasik açıklama üçlü risk modelidir: (1) savunmasız bebek — beyinde uyku-arousal düzenlenmesinden
-  sorumlu serotoninerjik ağın olgunlaşmamışlığı, prematüritelik, ailede benzer öykü; (2) kritik gelişim
-  dönemi — iki-dört aylar, uyku-uyanıklık geçişlerinin kırılgan olduğu dönem; (3) dış stresörler — yüzüstü
-  yatış, yumuşak yatak, yatak paylaşımı, aşırı ısıtma, enfeksiyon, pasif sigara. SIDS bir dışlama tanısıdır:
-  otopsi, ölüm yeri incelemesi ve anamnez ile uzun QT sendromu gibi ritim bozuklukları, metabolik hastalıklar,
-  asfiksya ve çocuk istismarı dışlandıktan sonra konur. BRUE ayrı bir olgudur: tanımlayıcı bir olayın
-  atak sonrası normale dönmesiyle karakterizedir ve düşük-riskli/yüksek-riskli olarak sınıflanır'
+tipik_hasta: "SIDS: **iki-dört aylık**, önceden iyi görünen bebeğin uykusunda açıklanamayan ölümü; riski **yüzüstü yatış**, yumuşak yatak, **pasif sigara**, prematürelük ve kış artırır; BRUE: benzer yaşta kısa süreli **solunum durması, renk ve ton değişikliği** tanımlayıp bebek kendiliğinden döndüğü için gelen başvuru"
+patofizyoloji: "Üçlü risk modeli: **savunmasız bebek** — uyku-arousal düzenlenmesinden sorumlu **serotoninerjik ağın** olgunlaşmamışlığı, prematürelük ve ailede benzer öykü; **kritik gelişim dönemi** (iki-dört ay) ve dış stresörler: **yüzüstü yatış**, yumuşak yatak, yatak paylaşımı, aşırı ısıtma, pasif sigara. SIDS **dışlama tanısıdır**: ritim bozuklukları (**uzun QT**), metabolik hastalıklar, asfiksya ve istismar otopsiyle dışlanır"
 anahtar_bulgular:
-- 'SIDS: öncesinde normal görünen bebeğin uykusunda (çoğu kez sabah) ölü bulunması; otopside ölümü açıklayan
-  bulgu yok'
-- 'BRUE: birkaç saniye ile 1 dakika arası solunum durması, renk değişikliği (syanoz veya solukluk) ve
-  ton değişikliği (gevşeme); bebek kendiliğinde veya müdahaleyle döner'
-- Yüzüstü (prone) yatış, yumuşak yatak ve yastık, aileyle aynı yatağı paylaşma riski belirgin artırır;
-  aynı odada ayrı yatağa yatırma koruyucudur
-- 'Düşük-riskli BRUE: 60 günden büyük ve 32 haftadan uzun doğan bebek, tek atak, 1 dakikadan kısa, sağlık personeli müdahalesi olmamış,
-  tam dönen atak ve normal muayene'
-- 'Yüksek-riskli BRUE: 60 günden küçük bebek, birden fazla veya uzun atak, resüsitasyon gerektirmiş olması,
-  sağlık personeli görmüş olması veya muayene-anamnezde anormal bulgu'
+- "SIDS: önceden iyi görünen bebeğin uykusunda ölü bulunması; **otopside ölümü açıklayan bulgu yok**"
+- "BRUE: birkaç saniye-1 dakika arası **solunum durması**, **renk** (syanoz/solukluk) ve **ton değişikliği** (gevşeme); bebek kendiliğinden veya müdahaleyle döner"
+- "**Yüzüstü (prone) yatış**, yumuşak yatak-yastık ve **yatak paylaşımı** riski belirgin artırır; aynı odada **ayrı yatak** koruyucudur"
+- "Düşük-riskli BRUE ölçütleri: **60 günden büyük**, doğum **32 haftadan uzun**, **tek**, **1 dakikadan kısa** ve müdahalesiz atak, tam dönen atak, normal muayene"
+- "Yüksek-riskli BRUE: **60 günden küçük**, **birden fazla** veya uzun atak, **resüsitasyon gerektirmiş** olması, sağlık personeli görmüş olması veya anormal muayene-anamnez"
 patognomonik: null
-ilk_tetkik: 'SIDS: otopsi ve standart ölüm yeri incelemesi. Düşük-riskli BRUE: ayrıntılı anamnez ve tam
-  fizik muayene yeterlidir; rutin laboratuvar, EKG ve monitor önerilmez. Yüksek-riskli BRUE: bulguya yönelik
-  hedefli çalışma (elektrolitler, kan gazı, EKG, enfeksiyon ve metabolik tarama)'
-kesin_tani: 'SIDS: otopsi ve olay yeri incelemesiyle hiçbir ölüm nedeni saptanamaması — kesin tanı ancak
-  otopsiden sonra konabilir. BRUE: klinik tanıdır; renk, solunum veya ton değişikliği tanımlayan atak
-  ile atak sonrası normal muayene birleşir ve düşük-riskli/yüksek-riskli sınıflaması yaklaşımı belirler'
-ilk_tedavi: 'Önleme esastır ve yatış pozisyonu mantığının merkezidir: bebek her uykuda (gündüz ve gece)
-  sırtüstü yatırılır, sert yatak ve düz çarşaf kullanılır; yastık, pelüş, yorgan ve şapka yatağa konmaz;
-  dört ay altında aile yatağı paylaşımı ve koltuk-kanepede uyutma önerilmez; aynı odada ayrı yatak (oda
-  paylaşımı) ilk 6-12 ay önerilir; aşırı ısıtma engellenir, pasif sigara uzaklaştırılır, uyku başlangıcında
-  emzik kullanımı koruyucudur. Ev tipi apne monitörleri SIDS''i önlemediği için rutin önerilmez; ailede
-  ani ölüm veya ritim bozukluğu öyküsü varsa EKG değerlendirmesi düşünülür. Düşük-riskli BRUE: aileye
-  olay iyi huyludur bilgisi güvenle verilir, resüsitasyon eğitimi sunulur ve yakın izlem; yüksek-riskli
-  BRUE: altta yatan neden araştırılır ve belirli tedavi edilir'
+ilk_tetkik: "SIDS: **otopsi** ve standart **ölüm yeri incelemesi**; düşük-riskli BRUE: ayrıntılı anamnez ve tam fizik muayene yeterli, **rutin laboratuvar, EKG ve monitor önerilmez**; yüksek-riskli BRUE: bulguya yönelik **elektrolitler**, **kan gazı**, **EKG**, enfeksiyon ve metabolik tarama"
+kesin_tani: "SIDS: kesin tanı **otopsi** ve olay yeri incelemesiyle hiçbir ölüm nedeni saptanamamasıdır; BRUE **klinik tanıdır**: renk, solunum veya ton değişikliği tanımlayan atak artı atak sonrası **normal muayene**"
+ilk_tedavi: "Bebek her uykuda **sırtüstü** yatırılır, **sert yatak** kullanılır, **dört ay altında yatak paylaşımı** ve koltukta uyutma önerilmez; **aynı odada ayrı yatak** (ilk **6-12 ay**) önerilir, **aşırı ısıtma** engellenir, pasif sigara uzaklaştırılır, uyku başında **emzik** koruyucudur; **ev tipi apne monitörleri** rutin önerilmez, ailede ani ölüm veya **ritim bozukluğu** öyküsünde **EKG** değerlendirmesi düşünülür. Düşük-riskli BRUE: aileye **olay iyi huyludur** bilgisi ve resüsitasyon eğitimi, yüksek-riskli BRUE: altta yatan neden araştırılıp tedavi edilir"
 klasik_komplikasyon: null
 tus_gecmisi:
 - tus-2021-ilkbahar-ktbt-50

@@ -11,44 +11,20 @@ taksonomi:
   - genel_cerrahi
   - gc_yaniklar
   - gc_yan_degerlendirme
-tipik_hasta: 'Ev ve iş kazası geçiren kişi: çocuklarda sıcak sıvı dökülmeleri, erişkinlerde alev, elektrik
-  ve kimyasal yanıkları; kapalı alanda yangında kalan kazazede inhalasyon hasarı ve karbonmonoksit zehirlenmesi
-  açısından en riskli gruptur'
-patofizyoloji: 'Isı deride doz-zarar ilişkisiyle doku proteinlerini denatüre eder; Jackson''ın üç bölgesi
-  tanımlanır: merkezde geri dönüşsüz koagülasyon bölgesi, onu çevreleyen ve uygun sıvı resüsitasyonuyla
-  kurtarılabilecek staz bölgesi, en dışta yalnız kızarıklıkla seyreden hiperemi bölgesi. Derinlik derecelendirilir:
-  birinci derece yalnız epidermde ağrılı kızarıklık; ikinci derece su toplanması (bulla) yapan yüzeysel
-  veya derin dermal yanık; üçüncü derece tam kalınlıkta, ağrısız, deri eklerinin yıkıldığı kömürsi veya
-  balmumu görünümlü yanık'
+tipik_hasta: "Ev ve iş kazası geçiren kişi: çocuklarda **sıcak sıvı dökülmeleri**, erişkinlerde **alev, elektrik ve kimyasal** yanıklar; **Kapalı alanda yangında** kalan kazazede **inhalasyon hasarı** ve **karbonmonoksit zehirlenmesi** açısından en riskli gruptur"
+patofizyoloji: "Isı deride doz-zarar ilişkisiyle doku proteinlerini denatüre eder; **Jackson üç bölgesi** tanımlanır: merkezde geri dönüşsüz **koagülasyon** bölgesi, onu çevreleyen ve uygun sıvı resüsitasyonuyla kurtarılabilecek **staz** bölgesi, en dışta yalnız kızarıklıkla seyreden **hiperemi** bölgesi. Derinlik derecelendirilir: **birinci derece** yalnız epidermde ağrılı kızarıklık; **ikinci derece** su toplanması (**bulla**) yapan yüzeysel veya derin dermal yanık, **üçüncü derece** tam kalınlıkta, ağrısız, deri eklerinin yıkıldığı kömürsi veya balmumu görünümlü yanık"
 anahtar_bulgular:
-- 'Yüzey alanı dokuzlar kuralıyla hesaplanır: yetişkinde baş ve her üst ekstremite vücut yüzeyinin yüzde
-  9''u, ön ve arka gövdenin her biri yüzde 18, her alt ekstremite yüzde 18, perine yüzde 1''dir; çocukta
-  baş oranı yüzde 18''e yaklaşır ve bacak oranı küçülür. Hastanın kendi avucu (parmaklarıyla birlikte)
-  yaklaşık yüzde 1 kabul edilir'
-- Yüzey alanına yalnız ikinci ve üçüncü derece yanıklar eklenir; birinci derece yanık hesaba katılmaz
-- 'İnhalasyon hasarı uyarı işaretleri: yüz ve boyun yanığı, burun kıllarının kömürleşmesi, karbonlu (siyah)
-  balgam, ses kısıklığı, stridor'
-- Karbonmonoksit zehirlenmesinde doku hipoksisine karşın parsiyel oksijen satürasyonu normal kalabilir;
-  tedavi yüzde 100 oksijendir
-- Yanık şokunun ilk işaretleri taşikardi ve idrar çıkışının azalmasıdır; hipotansiyon geç bulgudur
+- "**Dokuzlar kuralı**yla yüzey alanı: yetişkinde baş ve her üst ekstremite **yüzde 9**, ön ve arka gövdenin her biri **yüzde 18**; her alt ekstremite **yüzde 18**, perine **yüzde 1**"
+- "Çocukta baş oranı **yüzde 18**'e yaklaşır ve bacak oranı küçülür; hastanın kendi avucu (parmaklarıyla birlikte) yaklaşık **yüzde 1** kabul edilir"
+- "Yüzey alanına yalnız **ikinci ve üçüncü derece** yanıklar eklenir; **birinci derece** yanık hesaba katılmaz"
+- "**İnhalasyon hasarı** uyarı işaretleri: yüz ve boyun yanığı, **burun kıllarının kömürleşmesi**, **karbonlu (siyah) balgam**, ses kısıklığı, **stridor**"
+- "**Karbonmonoksit** zehirlenmesinde doku hipoksisine karşın **parsiyel oksijen satürasyonu** normal kalabilir; tedavi **yüzde 100 oksijen**"
+- "Yanık şokunun ilk işaretleri **taşikardi** ve **idrar çıkışının azalması**dır; **hipotansiyon geç bulgudur**"
 patognomonik: null
-ilk_tetkik: 'Hava yolu ve solunum önceliklidir: inhalasyon şüphesinde entübasyon kararı erken ve düşük
-  eşikle verilir çünkü hava yolu ödemi hızla artar; karboksihemoglobin düzeyi ve kan gazı bakılır. Derin
-  ve elektrik yanığında CK ve miyoglobin ile saatlik idrar çıkışı takibi'
-kesin_tani: Derinlik ve yüzey alanı değerlendirmesi klinikte yapılır; belirlenen yüzde değeri tedavi yerini
-  (poliklinik, yatış, yanık merkezi) ve sıvı ihtiyacını belirler. Sirküler tam kalınlık yanıklarda dolaşımı
-  bozan kompartment baskısı aranır
-ilk_tedavi: 'Erişkinde vücut yüzeyinin yüzde 20''sini aşan yanıklar, inhalasyon hasarı, el-yüz-ayak-perine
-  yerleşimi ve elektrik-kimyasal yanıklar yatış gerektirir. Sıvı resüsitasyonu Parkland formülüyle hesaplanır:
-  ilk 24 saatlik laktatlı Ringer miktarı, 4 mililitrenin vücut ağırlığı (kilogram) ve yanık yüzey yüzdesiyle
-  çarpımıdır (örnek: 70 kilo hastada yüzde 40 yanıkta 4 x 70 x 40 = 11200 mililitre); sıvının yarısı ilk
-  8 saatte, kalan yarısı sonraki 16 saatte verilir ve saatlik hesap yanık anından başlar. Ek olarak yüzde
-  100 oksijen, analjezi, tetanoz profilaksisi, erken enteral beslenme ve yara bakımı; miyoglobinüride
-  idrar çıkışı kilogram başına saatte 1-1,5 mililitre hedeflenir. Sirküler yanıkta dolaşımı açmak için
-  eskarotomi (yanık kabuğunun açılması) yapılır'
-klasik_komplikasyon: Üst hava yolu ödemi ve karbonmonoksit entoksikasyonu; yanık şoku, miyoglobinüriye
-  bağlı akut böbrek hasarı, Curling stres ülseri, Pseudomonas başta gelen yara infeksiyonu ve sepsis,
-  ekstremitede kompartment sendromu, iyileşme döneminde kontraktürler
+ilk_tetkik: "Hava yolu ve solunum önceliklidir: inhalasyon şüphesinde **entübasyon** kararı **erken ve düşük eşikle** verilir, çünkü hava yolu ödemi hızla artar; **karboksihemoglobin** düzeyi ve **kan gazı** bakılır. Derin ve elektrik yanığında **CK** ve **miyoglobin** ile saatlik **idrar çıkışı** takibi"
+kesin_tani: "Derinlik ve yüzey alanı değerlendirmesi klinikte yapılır; belirlenen yüzde değeri **tedavi yerini** (poliklinik, yatış, yanık merkezi) ve **sıvı ihtiyacını** belirler; **Sirküler tam kalınlık** yanıklarda dolaşımı bozan kompartment baskısı aranır"
+ilk_tedavi: "Erişkinde vücut yüzeyinin **yüzde 20**'sini aşan yanıklar, inhalasyon hasarı, **el-yüz-ayak-perine** yerleşimi ve elektrik-kimyasal yanıklar **yatış** gerektirir. Sıvı resüsitasyonu **Parkland formülü**yle: ilk 24 saatlik **laktatlı Ringer** miktarı **4 mililitre × ağırlık (kg) × yanık yüzdesi**; sıvının **yarısı ilk 8 saatte** kalanı **sonraki 16 saatte**, saatlik hesap **yanık anından** başlar; **Miyoglobinüri**de idrar çıkışı kilogram başına saatte **1-1,5 mililitre** hedeflenir; ek olarak analjezi, **tetanoz profilaksisi**, erken enteral beslenme ve yara bakımı. Sirküler yanıkta dolaşımı açmak için **eskarotomi** (yanık kabuğunun açılması) yapılır"
+klasik_komplikasyon: "Üst **hava yolu ödemi** ve **karbonmonoksit entoksikasyonu**; yanık şoku, **miyoglobinüriye** bağlı akut böbrek hasarı, **Curling** stres ülseri, **Pseudomonas** başta gelen yara infeksiyonu ve sepsis, ekstremitede **kompartment sendromu**, iyileşme döneminde **kontraktürler**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-86
 - tus-2016-ilkbahar-ktbt-79

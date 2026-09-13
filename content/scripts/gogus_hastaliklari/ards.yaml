@@ -11,30 +11,32 @@ taksonomi:
   - gogus_hastaliklari
   - gog_solunum_yetmezligi
   - gog_sy_ards
-tipik_hasta: Sepsis, ağır pnömoni, aspirasyon, masif transfüzyon, travma veya pankreatit gibi zararlanmadan
-  saatler-günler içinde hızla kötüleşen, yüksek oksijen ihtiyacıyla yoğun bakıma alınan hasta
-patofizyoloji: Direkt (pnömoni, aspirasyon, duman) veya dolaylı (sepsis, pankreatit, transfüzyon) zararlanma
-  alveol-kapiller bariyeri yıkar; proteinli ödem alveolleri doldurur, sürfaktan yıkılır, akciğer sertleşir
-  ve diffüz alveoler hasar gelişir. Doldurulmayan ama perfüze alveoller şant yaratır; hipoksemi oksijenle
-  kapatılamaz
+tipik_hasta: "**Sepsis**, **ağır pnömoni**, **aspirasyon**, **masif transfüzyon**, **travma** veya
+  **pankreatit** gibi zararlanmadan **saatler-günler** içinde hızla kötüleşen; **yüksek oksijen
+  ihtiyacı**yla yoğun bakıma alınan hasta"
+patofizyoloji: "**Direkt** (pnömoni, aspirasyon, duman) veya **dolaylı** (sepsis, pankreatit, transfüzyon)
+  zararlanma **alveol-kapiller bariyeri** yıkar. **Proteinli ödem** alveolleri doldurur, **sürfaktan**
+  yıkılır, akciğer sertleşir ve **diffüz alveoler hasar** gelişir. Doldurulmayan ama perfüze alveoller
+  **şant** yaratır; **hipoksemi oksijenle kapatılamaz**"
 anahtar_bulgular:
-- 'Berlin ölçütleri: bilinen zararlanmadan sonraki 1 hafta içinde başlayan ve kalp yetmezliği ya da aşırı
-  sıvı yüküyle açıklanamayan bilateral opasiteler'
-- 'Oksijenasyon eşiği: PEEP en az 5 cmH2O altında ölçülen PaO2/FiO2 oranında 300''ün altına inme; hafif 200''ün
-  altı-300''e kadar, orta 100''ün altı-200''e kadar, ağır 100''ün altı'
-- 'Ventilasyonda sert akciğer: yüksek basınç ihtiyacı, düşük uyum (kompliyans)'
-- Ekokardiyografi ve klinik sıvı değerlendirmesiyle kardiyojenik ödemin dışlanması
+- "**Berlin ölçütleri**: bilinen zararlanmadan **1 hafta** içinde başlayan ve **kalp yetmezliği** ya da
+  aşırı **sıvı yükü**yle açıklanamayan **bilateral opasiteler**"
+- "**Oksijenasyon eşiği**: **PEEP en az 5 cmH2O** altında ölçülen **PaO2/FiO2** oranının **300'ün
+  altına** inmesi; **hafif 200-300**, **orta 100-200**, **ağır 100'ün altı**"
+- "Ventilasyonda **sert akciğer**: yüksek basınç ihtiyacı, düşük **uyum (kompliyans)**"
+- "**Ekokardiyografi** ve klinik sıvı değerlendirmesiyle **kardiyojenik ödem**in dışlanması"
 patognomonik: null
-ilk_tetkik: Toraks radyografisi/BT ve arter kan gazı (PaO2/FiO2 hesabı); ekokardiyografi ile kardiyojenik
-  kaynak dışlanması; zararlanma kaynağının (sepsis odağı) araştırılması
-kesin_tani: Berlin ölçütlerinin tümünün karşılanması — zaman (1 hafta), görüntüleme (bilateral opasite),
-  köken (kardiyojenik olmayan), oksijenasyon (PEEP eşliğinde PaO2/FiO2 oranıyla derecelendirme)
-ilk_tedavi: 'Protektif ventilasyon: düşük tidal hacim (tahmini vücut ağırlığı başına 6 mililitre) ve platö
-  basıncının 30 cmH2O altında tutulması; akciğeri açık tutan makul PEEP — mantık, sert akciğeri açarken
-  aşırı basınçla daha fazla hasar vermemektir (rutin rekruitman manevrası önerilmez); ağır hipoksemide
-  yüzüstü yatış; kısıtlı sıvı stratejisi; dirençli hipoksemide ECMO'
-klasik_komplikasyon: Ventilatöre bağlı akciğer hasarı (barotravma, volotravma); sekel olarak kalıcı kısıtlayıcı
-  akciğer fonksiyon kaybı; çoklu organ yetmezliği
+ilk_tetkik: "**Toraks radyografisi-BT** ve **arter kan gazı** (**PaO2/FiO2** hesabı); **ekokardiyografi**
+  ile kardiyojenik kaynak dışlanması; **zararlanma kaynağı**nın (sepsis odağı) araştırılması"
+kesin_tani: "**Berlin ölçütleri**nin tümünün karşılanması — **zaman (1 hafta)**, görüntüleme
+  (**bilateral opasite**), köken (**kardiyojenik olmayan**), oksijenasyon (**PEEP** eşliğinde
+  **PaO2/FiO2** oranıyla derecelendirme)"
+ilk_tedavi: "**Protektif ventilasyon**: düşük **tidal hacim** (tahmini vücut ağırlığı başına **6
+  mililitre**) ve **platö basıncının 30 cmH2O altında** tutulması. Akciğeri açık tutan makul **PEEP** —
+  sert akciğeri açarken aşırı basınçla hasar vermemek için (**rutin rekruitman manevrası önerilmez**);
+  ağır **hipoksemi**de **yüzüstü yatış**. **Kısıtlı sıvı stratejisi**; dirençli hipoksemide **ECMO**"
+klasik_komplikasyon: "Ventilatöre bağlı akciğer hasarı (**barotravma**, **volotravma**). Sekel olarak
+  **kalıcı kısıtlayıcı akciğer fonksiyon kaybı**; **çoklu organ yetmezliği**"
 tus_gecmisi:
 - tus-2020-sonbahar-ktbt-7
 kart_uret:

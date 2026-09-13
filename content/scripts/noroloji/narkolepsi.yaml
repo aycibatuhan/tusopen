@@ -8,17 +8,17 @@ sources:
 ad: Narkolepsi
 taksonomi:
   - [ktbt, noroloji, noro_uyku_bilinc, noro_ub_narkolepsi]
-tipik_hasta: "Genç, genellikle ergenlikten otuzlu yaşlara kadar olan dönemde, öğle dersinde, otobüste, yemek sonrası istemsizce uyuyakalan hastanın yakınlarının 'uykusu engellenemez' dediği tablo; gülme anında dizleri çözülen, çenesi sarkarak başı öne yığılan genç hasta katapleksiyi çoğu zaman ne yaşadığını bilmeden tarif eder"
-patofizyoloji: "Lateral hipotalamustaki hipokretin (oreksin) üreten nöronların kaybı (immün aracılı olduğuna dair güçlü bulgular vardır); oreksin uyanıklığı sürdüren ve REM uykusunu baskılayan bir ağdır, eksikliği REM uykusunun gün içinde de kontrolsüz devreye girmesine neden olur: uyku atakları, katapleksi, uyku felci ve hipnagogik halüsinasyonların tümü REM özelliklerinin yanlış zamanda ortaya çıkmasıdır; tip 1 narkolepsi katapleksili ve oreksin düşük formdur, tip 2 kataplekssizdir"
+tipik_hasta: "**Genç** hasta (ergenlikten **otuzlu yaşlara**); öğle dersi, otobüs, yemek sonrası **istemsizce uyuyakalma** — yakınlar '**uykusu engellenemez**' der; **Gülme anında dizleri çözülen**, çenesi sarkarak başı öne yığılan genç hasta **katapleksi**yi çoğu zaman ne yaşadığını bilmeden tarif eder"
+patofizyoloji: "**Lateral hipotalamustaki hipokretin (oreksin) nöronlarının kaybı** (immün aracılı olduğuna dair güçlü bulgular). Oreksin **uyanıklığı sürdüren ve REM uykusunu baskılayan** ağdır; eksikliği **REM'in gün içinde kontrolsüz devreye girmesi**dir; **Uyku atakları, katapleksi, uyku felci, hipnagogik halüsinasyonlar** — tümü **REM özelliklerinin yanlış zamanda** çıkması; **tip 1** katapleksili-**oreksin düşük**, **tip 2** kataplekssiz"
 anahtar_bulgular:
-  - "Gündüz aşırı uyku hali: kısa (10-20 dakika) ve dinlendirici uyku atakları; hasta uyandığında kendini tazelenmiş hisseder"
-  - "Katapleksi: güçlü duygu (özellikle gülme) ile tetiklenen ani kas tonusu kaybı — dizlerde çökme, çene düşmesi, baş öne yığılma; bilinç korunur"
-  - "Uyku felci ve uykuya düşerken veya uyanırken gerçekçi görüntüler (hipnagogik/hipnopompik halüsinasyonlar)"
-  - "Gece uykusu bölünmüş ve niteliksizdir; hastalar gündüz ataklarına rağmen geceleri iyi uyumadıklarını anlatır"
-patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Katapleksi: duyguyla tetiklenen, saniyeler-iki dakika süren, bilinç kaybı olmadan kas tonusu kaybı; tip 1 narkolepsinin ayırt edici bulgusudur"
-ilk_tetkik: "Polisomnografi önce istenir: diğer uyku bozukluklarını (uyku apnesi, huzursuz bacak sendromu) dışlar ve ertesi gün test için zemin hazırlar; ardından ertesi gün MSLT (çoklu uyku latans testi) yapılır — hastaya gündüz boyunca beş kez uyuma fırsatı verilir, her denemede uykuya düşme süresi ve REM'e geçiş ölçülür"
-kesin_tani: "MSLT kriterleri: ortalama uyku latansının 8 dakikanın altında olması ve 2 veya daha fazla denemede REM başlangıçlı uyku periyodu (SOREMP) görülmesi; tip 1 narkolepside ek olarak katapleksi öyküsü veya BOS'ta düşük oreksin düzeyi gerekir"
-ilk_tedavi: "Modafinil veya metilfenidat ile uyarıcılık artırılır; kataplekside sodyum oksibat veya REM baskılayan SSRI/SNRI kullanılır; uyku hijyeni, düzenli gündüz şekerlemeleri ve kazalardan korunma (araca tek başına binmeme) yaşam düzeninin parçasıdır"
-klasik_komplikasyon: "Trafik ve iş kazaları, okul ve iş performansında düşüş, hasta için damgalanma ve sosyal izolasyon"
+- "**Gündüz aşırı uyku hali**: kısa (**10-20 dakika**) ve **dinlendirici** uyku atakları; hasta **kendini tazelenmiş** hisseder"
+- "**Katapleksi**: **güçlü duygu (özellikle gülme)** ile tetiklenen **ani kas tonusu kaybı** — dizlerde çökme, **çene düşmesi**, baş öne yığılma; **bilinç korunur**"
+- "**Uyku felci**; uykuya düşerken veya uyanırken gerçekçi görüntüler (**hipnagogik/hipnopompik halüsinasyonlar**)"
+- "**Gece uykusu bölünmüş ve niteliksizdir**; gündüz ataklarına rağmen **geceleri iyi uyuyamama**"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **katapleksi** — **duyguyla tetiklenen, saniyeler-iki dakika süren, bilinç kaybı olmadan** kas tonusu kaybı; **tip 1 narkolepsi**nin ayırt edici bulgusu"
+ilk_tetkik: "**Polisomnografi** önce: diğer uyku bozukluklarını (**uyku apnesi**, **huzursuz bacak sendromu**) dışlar, ertesi gün test için zemin hazırlar. Ardından **MSLT (çoklu uyku latans testi)**: gündüz **beş kez** uyuma fırsatı; her denemede **uykuya düşme süresi** ve **REM'e geçiş** ölçülür"
+kesin_tani: "**MSLT kriterleri**: **ortalama uyku latansının 8 dakikanın altında** olması + **2 veya daha fazla denemede REM başlangıçlı uyku periyodu (SOREMP)**; **Tip 1 narkolepsi**de ek olarak **katapleksi öyküsü** veya **BOS'ta düşük oreksin** gerekir"
+ilk_tedavi: "**Modafinil** veya **metilfenidat** ile **uyarıcılık artırılır**; **Katapleksi**de **sodyum oksibat** veya **REM baskılayan SSRI/SNRI**; **Uyku hijyeni**, düzenli **gündüz şekerlemeleri** ve kazalardan korunma (**araca tek başına binmeme**)"
+klasik_komplikasyon: "**Trafik ve iş kazaları**, okul-iş **performansında düşüş**; **damgalanma** ve **sosyal izolasyon**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

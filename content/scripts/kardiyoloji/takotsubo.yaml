@@ -7,18 +7,42 @@ sources:
 ad: Takotsubo Kardiyomiyopatisi
 taksonomi:
   - [ktbt, kardiyoloji, kard_kardiyomiyopati, kard_km_takotsubo]
-tipik_hasta: "Menopoz sonrası kadın; yoğun duygusal ya da bedensel bir olayın (aile kaybı, acı haber, cerrahi, şiddetli hastalık) hemen ardından göğüs ağrısı ve dispneyle başvurur. Klinik tablo akut miyokard infarktüsünü birebir taklit eder; koroner anjiyografide damarların temiz olması ayırıcıdır"
-patofizyoloji: "Yoğun stres anında dökülen yüksek düzeyde katekolamin; kalp kasında doğrudan toksik etki ve mikrovasküler disfonksiyon yoluyla segmental kasılma bozukluğu yaratır. En sık biçimde sol ventrikülün ucu hareketlemezken (akinezi) taban bölgesi aşırı kasılır; sol ventrikülografi ve ekokardiyografide şişkin ucuyla geleneksel Japon balıkçılık kabı görünümü (takotsubo) şekli bu paterni tanımlar. Bozukluk kalıcı bir damar tıkanıklığına bağlı olmadığından yapısal bütünlük korunur ve günler-haftalar içinde normal kasılmaya dönüş beklenir"
+tipik_hasta: "**Menopoz sonrası kadın**; yoğun **duygusal ya da bedensel bir olayın** (aile kaybı, acı
+  haber, cerrahi, şiddetli hastalık) hemen ardından **göğüs ağrısı** ve **dispne**yle başvurur. Klinik
+  tablo **akut miyokard infarktüsü**nü birebir taklit eder; koroner anjiyografide **damarların temiz**
+  olması ayırıcıdır"
+patofizyoloji: "Yoğun stres anında dökülen yüksek düzeyde **katekolamin**; kalp kasında **doğrudan
+  toksik etki** ve **mikrovasküler disfonksiyon** yoluyla **segmental kasılma bozukluğu** yaratır. En
+  sık biçimde sol ventrikülün ucu hareketlemezken (**akinezi**) taban bölgesi aşırı kasılır; şişkin
+  ucuyla geleneksel Japon balıkçılık kabı görünümü (**takotsubo**) bu paterni tanımlar. Bozukluk kalıcı
+  bir damar tıkanıklığına bağlı olmadığından yapısal bütünlük korunur ve **günler-haftalar** içinde
+  normal kasılmaya dönüş beklenir"
 anahtar_bulgular:
-  - "Hikâyede net duygusal ya da bedensel stres tetikleyicisi; tablo akut koroner sendrom kopyası göğüs ağrısıyla başlar"
-  - "Kanda troponin yükselir ama kabartının boyutu, EKG ve görüntüdeki geniş duvar hareket bozukluğuna kıyasla orantısız derecede küçük kalır"
-  - "Koroner anjiyografide belirgin darlık olmaması (normal koronerler) tablonun belirleyici basamağı"
-  - "Ventrikülografi ve ekokardiyografide sol ventrikül ucunda balonlaşma; EF belirgin düşer, günler-haftalar içinde düzelir"
-  - "EKG'de ST segment elevasyonu ve T dalga negatifliği; nadir biçimde taban bölgesi tutulumlu atipik varyantlar görülür"
-patognomonik: "Stres tetikleyicisi artı orantısız hafif troponin kabartısı artı normal koroner arterler ve geçici uç balonlaşması üçlüsü"
-ilk_tetkik: "EKG ve kardiyak troponin; akut koroner sendromdan ayrılması olanaksız olduğundan doğrudan koroner anjiyografiye gidilir"
-kesin_tani: "Koroner anjiyografide tıkayıcı aterosklerotik lezyonun olmaması ile birlikte görüntülemede (ventrikülografi/ekokardiyografi) geçici sol ventrikül duvar hareket bozukluğu ve uç balonlaşmasının gösterilmesi; izlem görüntülerinde düzelmenin belgelenmesi"
-ilk_tedavi: "Destekleyici tedavi: kalp yetmezliği bulgularına göre damar sıvısı kısıtlaması, diüretik ve gerekirse ACE inhibitörü, beta bloker. Uç hareketlemezliği ve taban hiperkontraktilitesi sol ventrikül çıkış yolunda darlığa yol açabildiğinden inotropik ajanlardan kaçınılır; şok tablosunda bu darlık açısından dikkatle yönetim. Eşlik eden ucun içinde pıhtı varlığında antikoagülasyon düşünülür"
-klasik_komplikasyon: "Sol ventrikül çıkış yolu darlığı, ucun içinde pıhtı ve buna bağlı sistemik emboli, ağır aritmi (ventriküler taşikardi gibi, nadiren ani ölüm) ve kardiyojenik şok; çoğu hasta günler-ilk birkaç hafta içinde tam düzelir, az sayıda hastada nüks görülür"
+  - "Hikâyede net **duygusal ya da bedensel stres tetikleyicisi**; tablo **akut koroner sendrom kopyası**
+    göğüs ağrısıyla başlar"
+  - "Kanda **troponin** yükselir ama kabartının boyutu, EKG ve görüntüdeki geniş **duvar hareket
+    bozukluğuna** kıyasla **orantısız derecede küçük** kalır"
+  - "Koroner anjiyografide belirgin darlık olmaması (**normal koronerler**) — tablonun belirleyici
+    basamağı"
+  - "Ventrikülografi ve ekokardiyografide sol ventrikül ucunda **balonlaşma**; **EF** belirgin düşer,
+    **günler-haftalar** içinde düzelir"
+  - "EKG'de **ST segment elevasyonu** ve **T dalga negatifliği**; nadir biçimde **taban bölgesi
+    tutulumlu** atipik varyantlar görülür"
+patognomonik: "**Stres tetikleyicisi** artı **orantısız hafif troponin kabartısı** artı **normal koroner
+  arterler** ve **geçici uç balonlaşması** üçlüsü"
+ilk_tetkik: "**EKG** ve **kardiyak troponin**; akut koroner sendromdan ayrılması olanaksız olduğundan
+  doğrudan **koroner anjiyografi**ye gidilir"
+kesin_tani: "Koroner anjiyografide **tıkayıcı aterosklerotik lezyonun olmaması**. Görüntülemede
+  (**ventrikülografi-ekokardiyografi**) **geçici sol ventrikül duvar hareket bozukluğu** ve **uç
+  balonlaşması**nın gösterilmesi. İzlem görüntülerinde **düzelmenin belgelenmesi**"
+ilk_tedavi: "Destekleyici tedavi: kalp yetmezliği bulgularına göre **damar sıvısı kısıtlaması**,
+  **diüretik** ve gerekirse **ACE inhibitörü**, **beta bloker**. Uç **hareketsizliği** ve taban
+  **hiperkontraktilitesi** **sol ventrikül çıkış yolu**nda darlığa yol açabildiğinden **inotropik
+  ajanlardan kaçınılır**; şok tablosunda bu darlık açısından dikkatle yönetim. Eşlik eden **ucun içinde
+  pıhtı** varlığında **antikoagülasyon** düşünülür"
+klasik_komplikasyon: "**Sol ventrikül çıkış yolu darlığı**, ucun içinde **pıhtı** ve buna bağlı
+  **sistemik emboli**. Ağır **aritmi** (**ventriküler taşikardi** gibi, nadiren **ani ölüm**) ve
+  **kardiyojenik şok**. Çoğu hasta **günler-ilk birkaç hafta** içinde tam düzelir; az sayıda hastada
+  **nüks** görülür"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

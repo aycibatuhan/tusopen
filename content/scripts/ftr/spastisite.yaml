@@ -11,42 +11,37 @@ taksonomi:
   - ftr
   - ftr_norolojik_rehabilitasyon
   - ftr_nr_spastisite
-tipik_hasta: İnme, omurilik yaralanması, multipl skleroz veya serebral palsi geçirmiş üst motor nöron
-  hasarlı hasta; uzvunu 'kasma, sıkışma, aralıklı seğirme' tarifleriyle getirir, kolunu geremez bacağını
-  açamaz, yürüyüşü makas gibi daralmıştır. Ağrı, idrar yolu enfeksiyonu gibi bir tetikleyici sonrası spazmların
-  aniden şiddetlenmesi de klasik başvuru şeklidir
-patofizyoloji: 'İnen inhibe edici yolların kesilmesi omurilik ve beyin sapine uygulanan sürekli freni
-  kaldırır; alfa ve gamma motor nöronların uyarılabilirliği artar, kas iğcikleri aşırı duyarlı hale gelir.
-  Direnç pasif hareketin hızına bağlı olarak artar (hızbağımlılık); hızlı gerdirmede içeriye doğru ani
-  frenleme, sonra gevşeme (çakı-kapanı; clasp-knife) görülür. Uzamış kas aktivitesi eklem kontraktürüne yol açar; kuvvet
-  kalıbı antigravitasyonel kasların baskınlığına uyar: üst kolda fleksör, bacakta ekstansör desenler'
+tipik_hasta: '**İnme**, **omurilik yaralanması**, **multipl skleroz** veya **serebral palsi** geçirmiş üst
+  motor nöron hasarlı hasta; uzvunu **kasma, sıkışma** diye tarif eder, kolunu geremez, yürüyüşü **makas**
+  gibi daralmıştır. **Ağrı** veya **idrar yolu enfeksiyonu** gibi tetikleyici sonrası spazmların aniden
+  şiddetlenmesi klasik başvurudur'
+patofizyoloji: 'İnen inhibitör yolların kesilmesi omurilik ve beyin sapine uygulanan **sürekli freni** kaldırır;
+  **alfa-gamma motor nöron** uyarılabilirliği artar. **Kas iğcikleri** aşırı duyarlı olur; direnç **hızbağımlı**dır,
+  hızlı gerdirmede ani frenleme-gevşeme (**çakı-kapanı**) görülür. Uzamış kas aktivitesi **kontraktür**e yol
+  açar; kuvvet kalıbı **antigravitasyonel** kasların baskınlığına uyar (üst kolda fleksör, bacakta ekstansör)'
 anahtar_bulgular:
-- Pasif eklem hareketinde hız arttıkça artan direnç; yavaş harekette direncin düşük kalması
-- Hızlı gerdirme sonunda ani gevşeme (çakı-kapanı (clasp-knife) fenomeni)
-- Ayak bileği ve dizde klonus; derin tendon reflekslerinde aşırı canlılık
-- Ekstensör plantar yanıt (Babinski)
-- 'Antigravitasyonel kaslarda yoğunlaşan desen: üst kolda fleksiyon-addüksiyon, bacakta ekstansiyon; makas
-  yürüyüş'
-- Bası yarası, idrar yolu enfeksiyonu, paroniksi gibi uyarıcılarla kötüleşen tonik spazmlar
-patognomonik: Hızbağımlı direnç artışı; rijiditeden (hızdan bağımsız, kurşun-boru tarzı direnç) kilit
-  ayrım budur
-ilk_tetkik: Modifiye Ashworth ölçeğiyle tonus, spazm sıklığı ve fonksiyonel etkilerin (yürüme, oturma,
-  hijyen, ağrı) kaydı; öncelikle spastisiteyi artıran tetikleyicilerin sistematik aranması — bası yarası,
-  idrar yolu enfeksiyonu, fekal impaksiyon, dar giysi, tırnak batması
-kesin_tani: 'Klinik tanıdır: altta yatan üst motor nöron lezyonunun görüntülemeyle (MRG) gösterilmesi
-  ve hızbağımlı tonus artışının Modifiye Ashworth ölçeğiyle belgelenmesi; spastisiteyi tetikleyen sistemik
-  nedenlerin elenmesi tanının parçasıdır'
-ilk_tedavi: 'Basamaklı mantık: önce tetikleyici düzeltilir, germe-pozisyonlama ve ağırlık taşıma programı
-  başlanır. Yaygın spastisitede ağızdan ilaç: baklofen ilk seçimdir (GABA-B agonisti; omurilik kaynaklı
-  spastisitede öne çıkar; aniden kesilirse nöbet ve halüsinasyonla yoksunluk krizi). Ağrı ve spazm birlikte
-  öndeyse tizanidin düşünülür (alfa-2 agonisti; sedasyon, düşük tansiyon ve karaciğer enzim yükselmesi
-  uyarısı). Dantrolene doğrudan kas içinden kalsiyum salınımını bloke eder (karaciğer toksikliği), merkezi
-  uyku hali yapmaz. Fokal ve fonksiyonu bozan kas grubunda kas içi botulinum toksini: nöromüsküler kavşakta
-  asetilkolin salınımını bloke eder, etkisi 3-6 aydır, elektromiyografi veya ultrason eşliğinde uygulanır
-  ve tekrarlanabilir. Yaygın, ağızdan ilaca dirençli tabloda intratekal baklofen pompası; serebral palside
-  seçici dorsal rizotomi ve motor nokta blokları'
-klasik_komplikasyon: Tedavisizde kontraktür, ağrı, hijyen ve bakım güçlüğü, bası yarası, oturma ve yürüme
-  fonksiyonlarının kaybı; intratekal baklofen pompasının ani kesilmesinde ciddi yoksunluk tablosu
+- 'Pasif eklem hareketinde **hız arttıkça artan direnç**; yavaş harekette direncin düşük kalması'
+- 'Hızlı gerdirme sonunda ani gevşeme (**çakı-kapanı** fenomeni)'
+- 'Ayak bileği ve dizde **klonus**; derin tendon reflekslerinde aşırı canlılık'
+- '**Ekstensör plantar yanıt (Babinski)**'
+- '**Antigravitasyonel** kaslarda yoğunlaşan desen: üst kolda **fleksiyon-addüksiyon**, bacakta **ekstansiyon**;
+  **makas yürüyüş**'
+- '**Bası yarası**, **idrar yolu enfeksiyonu**, **paroniksi** gibi uyarıcılarla kötüleşen **tonik spazmlar**'
+patognomonik: '**Hızbağımlı** direnç artışı; **rijiditeden** (hızdan bağımsız, **kurşun-boru** tarzı direnç)
+  kilit ayrım budur'
+ilk_tetkik: '**Modifiye Ashworth ölçeği**yle tonus, **spazm sıklığı** ve fonksiyonel etkilerin (yürüme, oturma,
+  hijyen, ağrı) kaydı. Öncelikle **tetikleyicilerin** sistematik aranması: **bası yarası**, **idrar yolu
+  enfeksiyonu**, **fekal impaksiyon**, dar giysi, **tırnak batması**'
+kesin_tani: '**Klinik tanı**: altta yatan **üst motor nöron lezyonu**nun **MRG** ile gösterilmesi, **hızbağımlı
+  tonus artışı**nın **Modifiye Ashworth** ölçeğiyle belgelenmesi. Spastisiteyi tetikleyen **sistemik nedenlerin**
+  elenmesi tanının parçasıdır'
+ilk_tedavi: '**Basamaklı**: önce **tetikleyici** düzeltilir, **germe-pozisyonlama** ve ağırlık taşıma programı.
+  Yaygın spastisitede **baklofen** ilk seçim (**GABA-B** agonisti, ani kesimde yoksunluk krizi), ağrı-spazm
+  öndeyse **tizanidin**. Fokal kas grubunda **botulinum toksini** (**asetilkolin** bloğu, etkisi **3-6 ay**,
+  **EMG/USG** eşliğinde), yaygın dirençli tabloda **intratekal baklofen pompası**. **Dantrolene** kas içinden
+  **kalsiyum** salınımını bloke eder (karaciğer toksikliği), serebral palside **seçici dorsal rizotomi**'
+klasik_komplikasyon: 'Tedavisizde **kontraktür**, **ağrı**, hijyen ve bakım güçlüğü, **bası yarası**, oturma
+  ve yürüme fonksiyonlarının kaybı; **intratekal baklofen** pompasının ani kesilmesinde ciddi yoksunluk tablosu'
 tus_gecmisi:
 - tus-2015-ilkbahar-ttbt-103
 kart_uret:

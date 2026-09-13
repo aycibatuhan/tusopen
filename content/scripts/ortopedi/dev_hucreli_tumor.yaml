@@ -12,31 +12,32 @@ taksonomi:
   - ortopedi
   - orto_kemik_tumorleri
   - orto_kt_dev_hucreli
-tipik_hasta: 20-40 yaş arasındaki genç yetişkin; diz çevresi (distal femur, proksimal tibia) veya distal
-  radius gibi uzun kemik uçlarında epifize yakın ağrı ve şişlikle gelen hasta; eklem hareketleri başlangıçta
-  korunur ama yüklenme ve aktiviteyle ağrı derinleşir
-patofizyoloji: Osteoklast benzeri çok çekirdekli dev hücrelerden ve onları uyanık tutan mononükleer stromal
-  hücrelerden oluşur; stromal hücrelerde RANK sinyal yolağının aşırı uyarılması dev hücrelerin kemik rezorpsiyonunu
-  hızlandırır. İyi huylu ama lokal olarak agresif davranır, korteksi eritip yumuşak dokuya itebilir; nadir
-  olgularda, özellikle nükseden lezyonlarda akciğere düşük gradeli yayılma görülür
+tipik_hasta: "**20-40 yaş** genç yetişkin; distal femur, proksimal tibia veya distal radius gibi uzun kemik
+  uçlarında **epifize yakın** ağrı ve şişlikle gelir. Eklem hareketleri başlangıçta korunur; yüklenme ve
+  aktiviteyle ağrı derinleşir"
+patofizyoloji: "Osteoklast benzeri çok çekirdekli dev hücreler ve mononükleer stromal hücrelerden oluşur;
+  stromada **RANK sinyal yolağı**nın aşırı uyarılması kemik rezorpsiyonunu hızlandırır. İyi huylu ama
+  lokal olarak **agresif** davranır; korteksi eritip yumuşak dokuya itebilir. Nadir olgularda, özellikle
+  nükseden lezyonlarda akciğere düşük gradeli yayılım görülür"
 anahtar_bulgular:
-- Radyografide metaepifizeal ve ekzantrik yer kaplayıcı kemik erimesi; lezyon eklem kıkırdağının hemen
-  altına uzanır
-- İçinde küçük boşluklar ve seyrek trabeküler ayırıcı duvarlar taşıyan sabun köpüğü benzeri görünüm
-- Kortikal incelme ve kemik dışına şişkinlik; periostal reaksiyon genelde yoktur
-- MRG'de heterojen, içinde kist boşlukları ve sıvı seviyesi gösterebilen lezyon
-- Lezyon bölgesinde sürekli, yüklenmeyle artan ağrı ve elle saptanan şişlik
-- Patolojide osteoklast benzeri dev hücrelerin mononükleer stromal hücrelerle iç içe dizilimi
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Epifize yakın, eklem yüzeyine uzanan sabun köpüğü benzeri yer kaplayıcı kemik erimesi; biyopside
-  baskın osteoklast benzeri dev hücre görüntüsü
-ilk_tetkik: Şikayetli bölgenin direkt radyografileri (diz veya el grafisi); akciğer grafisi ile nadir
-  akciğer yayılımının kontrolü
-kesin_tani: 'Biyopsi sonrası histopatoloji: osteoklast benzeri dev hücreler ile mononükleer stromal hücrelerin
-  birlikte görülmesi; MRG ile lokal yayılım haritası'
-ilk_tedavi: 'Ekstremite koruyucu cerrahi: lezyonun geniş küretajı, adjuvan kimyasal veya kriyo uygulaması
-  ve kemik grefti ya da sement dolgusu; nükseden ve agresif olgularda segmentel rezeksiyon'
-klasik_komplikasyon: Patolojik fraktür ve yüksek nüks oranı; nadiren düşük gradeli akciğer yayılımı (iyi
-  huylu metastatik davranış)
+- "Radyografide **metaepifizeal ve ekzantrik** yer kaplayıcı kemik erimesi; lezyon eklem kıkırdağının hemen
+  altına uzanır"
+- "Küçük boşluklar ve seyrek trabeküler ayırıcılar taşıyan **sabun köpüğü** benzeri görünüm"
+- "Kortikal incelme ve kemik dışına şişkinlik; **periostal reaksiyon** genelde yoktur"
+- "MRG'de heterojen, kist boşlukları ve **sıvı seviyesi** gösterebilen lezyon"
+- "Lezyon bölgesinde **sürekli, yüklenmeyle artan ağrı** ve elle saptanan şişlik"
+- "Patolojide osteoklast benzeri dev hücrelerin **mononükleer stromal hücrelerle** iç içe dizilimi"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **epifize yakın**, eklem yüzeyine uzanan
+  **sabun köpüğü** benzeri yer kaplayıcı kemik erimesi; biyopside baskın **osteoklast benzeri dev hücre**"
+ilk_tetkik: "Şikayetli bölgenin **direkt radyografileri** (diz veya el grafisi); nadir akciğer yayılımının
+  kontrolü için **akciğer grafisi**"
+kesin_tani: "**Biyopsi** sonrası histopatoloji: osteoklast benzeri dev hücrelerle mononükleer stromal
+  hücrelerin birlikte görülmesi. **MRG** ile lokal yayılım haritası"
+ilk_tedavi: "Ekstremite koruyucu cerrahi: lezyonun **geniş küretajı**, adjuvan **kimyasal veya kriyo**
+  uygulaması ve **kemik grefti** ya da **sement** dolgusu. Nükseden ve agresif olgularda **segmentel
+  rezeksiyon**"
+klasik_komplikasyon: "**Patolojik fraktür** ve yüksek **nüks** oranı. Nadiren düşük gradeli **akciğer
+  yayılımı** (iyi huylu metastatik davranış)"
 tus_gecmisi:
 - tus-2019-ilkbahar-ttbt-91
 kart_uret:

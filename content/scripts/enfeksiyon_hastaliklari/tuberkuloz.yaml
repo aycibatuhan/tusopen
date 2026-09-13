@@ -19,46 +19,20 @@ taksonomi:
   - pediatri
   - ped_gogus
   - ped_gog_tuberkuloz
-tipik_hasta: Yakın temas öyküsü olan, kalabalık ve havalandırması zayıf ortamlarda (hapishane, yurt, barınma
-  evi, göç) yaşayan; HIV enfeksiyonu, uzun süreli kortikosteroid veya TNF-alfa blokeri kullanımı, diyabet
-  ya da kronik böbrek yetmezliğiyle bağışıklığı baskılanmış hastada iki-üç haftadan uzun süren öksürük,
-  gece terlemesi, iştahsızlık ve kilo kaybıyla başvuran erişkin ya da çocuk; çocukta çoğu zaman yakın
-  bir erişkin vaka kaynağı vardır
-patofizyoloji: Mycobacterium tuberculosis damlacık çekirdekleriyle alveollere ulaşır, alveoler makrofaj
-  içinde çoğalır; CD4 T hücreleri öncülüğündeki hücresel yanıt granülom oluşturarak enfeksiyonu çoğu kişide
-  latent hale getirir. Yıllar sonra, çoğunlukla oksijenlenmenin iyi olduğu üst lob apikal ve posterior
-  segmentlerde reaktivasyon olur; bağışıklık baskılanmasında latent odak yerine doğrudan ilerleyici ya
-  da miliyer yaygın hastalık gelişir. Klinik tabloyu esas olarak bağışıklık yanıtının yarattığı doku hasarı
-  belirler
+tipik_hasta: "**Yakın temas** öyküsü olan, kalabalık ve havalandırması zayıf ortamlarda (**hapishane**, **yurt**, barınma evi, göç) yaşayan; **HIV**, uzun süreli **kortikosteroid** veya **TNF-alfa blokeri** kullanımı, **diyabet** ya da **kronik böbrek yetmezliği**yle bağışıklığı baskılanmış. **İki-üç haftadan uzun öksürük**, **gece terlemesi**, iştahsızlık ve **kilo kaybı**yla başvuran erişkin ya da çocuk; çocukta çoğu zaman yakın bir **erişkin vaka** kaynağı vardır"
+patofizyoloji: "**Mycobacterium tuberculosis** damlacık çekirdekleriyle **alveollere** ulaşır, **alveoler makrofaj** içinde çoğalır. **CD4 T hücre**leri öncülüğündeki hücresel yanıt **granülom** oluşturarak enfeksiyonu çoğu kişide **latent** hale getirir. Yıllar sonra çoğunlukla oksijenlenmenin iyi olduğu **üst lob apikal ve posterior** segmentlerde **reaktivasyon** olur. **Bağışıklık baskılanmasında** latent odak yerine doğrudan ilerleyici ya da **miliyer** yaygın hastalık gelişir; klinik tabloyu esas olarak **bağışıklık yanıtının yarattığı doku hasarı** belirler"
 anahtar_bulgular:
-- İki-üç haftadan uzun süren öksürük; ilerleyen dönemde kanlı balgam; ateş, gece terlemesi, iştahsızlık
-  ve kilo kaybı
-- Akciğer grafisinde üst lob apikal-posterior infiltrasyon ve kavern; çocukta ve ileri yayılımda intratorasik
-  lenfadenopati ya da miliyer görünüm
-- 'PPD (Mantoux) testi 48-72 saatte okunur ve eritem değil endürasyon ölçülür; enfeksiyon olasılığı arttıkça
-  pozitiflik eşiği düşer: yakın temaslı ve HIV''lide 5 mm, damar içi madde kullanımı-göç-kronik hastalık
-  gibi risk gruplarında 10 mm, riski olmayanlarda 15 mm pozitif sayılır'
-- IGRA kanda interferon-gamma salınımını ölçer; BCG aşısından etkilenmez ve PPD'nin ortak yanlış pozitifliğini
-  giderir, ancak latent enfeksiyonla aktif hastalığı ayırt edemez
-- Balgamda aside dirençli basil (EZB boyama) hızlı görüntü sağlar; kültür tanının altın standardıdır,
-  moleküler test aynı örnekte hızlı tanı ve rifampisin direnci bilgisini verir
-- 'Ekstrapulmoner formlar: plevral efüzyon, servikal lenfadenit, menenjit, omurgada Pott hastalığı, ürogenital
-  tüberküloz'
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kazeifikasyon nekrozu ile giden granülom ve aside dirençli basilin gösterilmesi
-ilk_tetkik: Arka-ön akciğer grafisi ve en az iki balgam örneğinde aside dirençli basil boyaması; PPD veya
-  IGRA; aktif hastalık şüphesinde aynı örnekler moleküler teste gönderilir
-kesin_tani: Balgam veya doku örneğinin kültüründe M. tuberculosis üremesi (altın standart); moleküler
-  (PCR) testle hızlı doğrulama ve direnç saptanması; histopatolojide kazeifiye granülom güçlü destek sağlar
-ilk_tedavi: 'İki aylık başlangıç evresinde dört ilaç birlikte verilir: izoniazid, rifampisin, pirazinamid
-  ve etambutol; ardından dört ay izoniazid ve rifampisin sürdürülür. İlaç mantığı: izoniazid karaciğer
-  toksisitesi yapar ve piridoksin (B6 vitamini) desteğiyle önlenen periferik nöropatiye yol açar; rifampisin
-  ter-idrar-gözyaşını turuncuya boyar, karaciğer enzimlerini yükseltir ve çok sayıda ilacın (oral kontraseptifler
-  dahil) metabolizmasını hızlandırır; pirazinamid karaciğer toksik olmakla birlikte hiperürisemi ve gut
-  atakları yapar; etambutol retrobulber nöropatiye bağlı renk ayrımı bozukluğu (özellikle kırmızı-yeşil)
-  ve görme azalması yapar, tedavi boyunca görme kontrolü gerekir. Latent enfeksiyonda tek-iki ilaçlı koruyucu
-  tedavi (izoniazid 6-9 ay ya da rifampisin 4 ay) uygulanır'
-klasik_komplikasyon: Tedavisizde kavernöz lezyon, hemoptizi, plevral efüzyon, miliyer yayılım ve ölüm;
-  düzensiz veya eksik tedavide çok ilaca dirençli tüberküloz gelişir
+- "**İki-üç haftadan uzun süren öksürük**; ilerleyen dönemde **kanlı balgam**; **ateş**, **gece terlemesi**, iştahsızlık ve **kilo kaybı**"
+- "Akciğer grafisinde **üst lob apikal-posterior infiltrasyon** ve **kavern**; çocukta ve ileri yayılımda **intratorasik lenfadenopati** ya da **miliyer** görünüm"
+- "**PPD (Mantoux)** **48-72 saatte** okunur ve **eritem değil endürasyon** ölçülür; pozitiflik eşiği enfeksiyon olasılığı arttıkça düşer: yakın temaslı ve **HIV**'lide **5 mm**; damar içi madde kullanımı-göç-kronik hastalık gibi risk gruplarında **10 mm**; riski olmayanlarda **15 mm** pozitif sayılır"
+- "**IGRA** kanda **interferon-gamma** salınımını ölçer; **BCG aşısından etkilenmez** ve PPD'nin ortak yanlış pozitifliğini giderir, ancak **latent** enfeksiyonla **aktif** hastalığı ayırt edemez"
+- "Balgamda **aside dirençli basil (EZB boyama)** hızlı görüntü sağlar; **kültür** tanının altın standardıdır; **moleküler test** aynı örnekte hızlı tanı ve **rifampisin direnci** bilgisini verir"
+- "Ekstrapulmoner formlar: **plevral efüzyon**, **servikal lenfadenit**, **menenjit**, omurgada **Pott hastalığı**, **ürogenital tüberküloz**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **kazeifikasyon nekrozu** ile giden **granülom** ve **aside dirençli basil**in gösterilmesi"
+ilk_tetkik: "Arka-ön **akciğer grafisi** ve en az **iki balgam örneği**nde **aside dirençli basil** boyaması; **PPD** veya **IGRA**. Aktif hastalık şüphesinde aynı örnekler **moleküler teste** gönderilir"
+kesin_tani: "Balgam veya doku örneğinin **kültür**ünde **M. tuberculosis** üremesi (**altın standart**); **moleküler (PCR)** testle hızlı doğrulama ve **direnç** saptanması; histopatolojide **kazeifiye granülom** güçlü destek sağlar"
+ilk_tedavi: "**İki aylık başlangıç** evresinde dört ilaç birlikte verilir: **izoniazid**, **rifampisin**, **pirazinamid** ve **etambutol**; ardından **dört ay izoniazid** ve **rifampisin** sürdürülür. **Izoniazid** karaciğer toksisitesi yapar ve **piridoksin (B6 vitamini)** desteğiyle önlenen **periferik nöropati**ye yol açar. **Rifampisin** ter-idrar-gözyaşını **turuncuya** boyar, karaciğer enzimlerini yükseltir ve çok sayıda ilacın (oral kontraseptifler dahil) **metabolizmasını hızlandırır**. **Pirazinamid** karaciğer toksik olup **hiperürisemi** ve **gut** atakları yapar; **etambutol** **retrobulber nöropati**ye bağlı **renk ayrımı bozukluğu** (özellikle kırmızı-yeşil) ve görme azalması yapar, tedavi boyunca **görme kontrolü** gerekir. Latent enfeksiyonda tek-iki ilaçlı koruyucu tedavi (**izoniazid 6-9 ay** ya da **rifampisin 4 ay**) uygulanır"
+klasik_komplikasyon: "Tedavisizde **kavernöz lezyon**, **hemoptizi**, **plevral efüzyon**, **miliyer yayılım** ve ölüm; **düzensiz veya eksik** tedavide **çok ilaca dirençli tüberküloz** gelişir"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-29
 - tus-2014-sonbahar-ktbt-56

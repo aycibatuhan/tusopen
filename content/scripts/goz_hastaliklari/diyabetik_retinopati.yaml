@@ -9,19 +9,19 @@ ad: Diyabetik Retinopati
 taksonomi:
   - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_diyabetik_retinopati]
   - [ktbt, dahiliye, dah_endokrinoloji, dah_end_diyabet_kronik_komplikasyon]
-tipik_hasta: "Uzun süredir diyabeti olan hasta; tip 2 diyabetlilerde tanı anında bile retinopati bulunabildiğinden ilk değerlendirmede dilate göz muayenesi istenir, tip 1 diyabetlilerde tanıyı izleyen ilk beş yılda nadirdir ve hastalık süresi uzadıkça sıklığı artar. Ani ağrısız görme kaybıyla da başvurabilir"
-patofizyoloji: "Kronik hiperglisemi retinal kılcal damarların perisitlerini ve endotelini zarara uğratır; damar duvarı zayıflayınca mikroanevrizmalar oluşur, kılcal oklüzyon retinada iskemi yaratır. İskemik retina damar büyüme faktörü (VEGF) salgılar: erken evrede damar geçirgenliği artar ve kanamalar, sert eksüdalar, makula ödemi görülür (nonproliferatif evre); ileri evrede retinada ve görme sinirinin üzerinde yeni damar katmanları çıkar (proliferatif evre). Bu yeni damarlar gevşek ve vitreusa yapışıktır; kanar ya da büzülerek retina dekolmanına çeker, irise uzanırsa neovasküler glokom yapar"
+tipik_hasta: "**Uzun süredir diyabet**i olan hasta; **tip 2** diyabetlilerde **tanı anında** bile retinopati bulunabildiğinden ilk değerlendirmede **dilate göz muayenesi** istenir. **Tip 1**de tanıyı izleyen **ilk beş yılda** nadirdir ve hastalık süresi uzadıkça **sıklığı** artar. **Ani ağrısız görme kaybı**yla da başvurabilir"
+patofizyoloji: "Kronik **hiperglisemi** retinal kılcal damarların **perisit**lerini ve endotelini zarara uğratır; **mikroanevrizma**lar oluşur, kılcal oklüzyon retinada **iskemi** yaratır. İskemik retina **VEGF** salgılar: erken evrede **damar geçirgenliği** artar ve **kanamalar**, **sert eksüdalar**, **makula ödemi** görülür (**nonproliferatif** evre); ileri evrede retinada ve görme sinirinin üzerinde **yeni damar** katmanları çıkar (**proliferatif** evre). Bu yeni damarlar gevşek ve **vitreusa** yapışıktır; **kanar** ya da büzülerek **retina dekolmanına** çeker, irise uzanırsa **neovasküler glokom** yapar"
 anahtar_bulgular:
-  - "Nonproliferatif evre: mikroanevrizmalar, nokta şekilli retinal kanamalar, sert (lipid) eksüdalar, pamuk yaması benzeri iskemik lekecikler"
-  - "İlerlemiş nonproliferatif evrede venlerde boncuklanma ve intraretinal mikrovasküler anormallikler"
-  - "Proliferatif evre: disk üzerinde veya retinada yeni damarlanma (neovaskülarizasyon) ve fibrovasküler doku"
-  - "Ani ağrısız görme kaybı: vitreus kanaması; hasta gözünün önünde kırmızı duman veya kurum kalıntısı tanımlar"
-  - "Okuma ve yüz tanımada bozulma: diyabetik makula ödemi (merkezi görüş düşer)"
-  - "Göz ağrısı, kızarıklık ve yüksek basınç tablosu: neovasküler glokom olasılığı"
+- "**Nonproliferatif** evre: **mikroanevrizmalar**, nokta şekilli **retinal kanamalar**, **sert (lipid) eksüdalar**, **pamuk yaması** benzeri iskemik lekecikler"
+- "İlerlemiş nonproliferatif evrede venlerde **boncuklanma** ve **intraretinal mikrovasküler anormallikler**"
+- "**Proliferatif** evre: disk üzerinde veya retinada **yeni damarlanma (neovaskülarizasyon)** ve **fibrovasküler doku**"
+- "**Ani ağrısız görme kaybı**: **vitreus kanaması**; hasta gözünün önünde **kırmızı duman** veya kurum kalıntısı tanımlar"
+- "**Okuma ve yüz tanımada bozulma**: **diyabetik makula ödemi** (merkezi görüş düşer)"
+- "**Göz ağrısı**, kızarıklık ve **yüksek basınç** tablosu: **neovasküler glokom** olasılığı"
 patognomonik: null
-ilk_tetkik: "Pupil dilate edilerek yarık lamba veya oftalmoskopla fundus muayenesi; makula ödeminin ve retinanın kalınlığının gösterilmesinde optik koherens tomografi, mikroanjiyopatinin ve iskeminin haritalanmasında fluoressein anjiyografi gerektiğinde istenir"
-kesin_tani: "Dilate fundus muayenesinde retinopati bulgularının (mikroanevrizma, kanama, eksüda, neovaskülarizasyon) doğrudan görülmesi; retinal fotoğraf ve fluoressein anjiyografiyle belgelenmesi"
-ilk_tedavi: "Proliferatif retinopati ve yüksek risk grubunda panretinal (skater) lazer fotokoagülasyonu: iskemik periferik retinayı ablasyon ederek VEGF üretimini kısar ve yeni damarlanmayı geriletir. Klinik olarak anlamlı diyabetik makula ödeminde ilk basamak tedavi intravitreal anti-VEGF enjeksiyonudur, gerektiğinde grid lazer eklenir. Temel tedavi sıkı glisemik, tansiyon ve lipid kontrolü ile yıllık dilate göz muayenesi takibidir"
-klasik_komplikasyon: "Vitreus kanaması ve traksiyonel retina dekolmanı (ani, ağrısız, ağır görme kaybı); neovasküler glokom; tedavisiz ilerlemede kalıcı görme yitimi"
+ilk_tetkik: "Pupil **dilate** edilerek yarık lamba veya oftalmoskopla **fundus muayenesi**; **makula ödemi**nin ve retinanın **kalınlığı**nın gösterilmesinde **optik koherens tomografi**, **mikroanjiyopati**nin ve **iskemi**nin haritalanmasında **fluoressein anjiyografi** gerektiğinde istenir"
+kesin_tani: "**Dilate fundus muayenesi**nde retinopati bulgularının (**mikroanevrizma**, **kanama**, **eksüda**, **neovaskülarizasyon**) doğrudan görülmesi; retinal **fotoğraf** ve **fluoressein anjiyografi**yle belgelenmesi"
+ilk_tedavi: "**Proliferatif** retinopati ve **yüksek risk** grubunda **panretinal (skater) lazer fotokoagülasyonu**; iskemik periferik retinayı ablasyon ederek **VEGF** üretimini kısar, yeni damarlanmayı geriletir. **Klinik olarak anlamlı diyabetik makula ödem**inde ilk basamak tedavi **intravitreal anti-VEGF** enjeksiyonu, gerektiğinde **grid lazer** eklenir. Temel tedavi sıkı **glisemik**, **tansiyon** ve **lipid** kontrolü ile **yıllık dilate göz muayenesi** takibidir"
+klasik_komplikasyon: "**Vitreus kanaması** ve **traksiyonel retina dekolmanı** (ani, ağrısız, ağır görme kaybı); **neovasküler glokom**; tedavisiz ilerlemede **kalıcı görme yitimi**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

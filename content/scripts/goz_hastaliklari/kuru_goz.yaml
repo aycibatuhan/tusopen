@@ -11,40 +11,20 @@ taksonomi:
   - goz_hastaliklari
   - goz_kapak_lakrimal
   - goz_kl_kuru_goz
-tipik_hasta: Ekran karşısında uzun süre kalan, kontakt lens kullanan ya da menopoz dönemindeki hastada;
-  akşama doğru artan yanma, batma, kum tanesi hissi, göz yorgunluğu ve kırpınca düzelen bulanık görme;
-  paradoksal olarak körüklenmiş ışık ve rüzgârda gözün aşırı sulanması da şikâyet yaratır; ağız kuruluğunun
-  eşlik ettiği olguda Sjögren sendromu akılda tutulur
-patofizyoloji: 'Gözyaşı üç katmanlı bir filmdir: dışta buharlaşmayı önleyen yağ, ortada su (ağısal) katman,
-  içte korneaya yapışan müküs. Kuru göz bu filmin ya üretiminin azalması ya da çok çabuk bozulup parçalanmasıdır.
-  İki ana mekanizma: ağısal eksiklik — lakrimal bezin işlev kaybı, en tipik örneği Sjögren sendromu; ve
-  aşırı buharlaşma — kapak kenarındaki Meibomian bezlerinin tıkanması (Meibomian bezi disfonksiyonu),
-  az kırpmayla ve ekran karşısında kırpma sıklığının düşmesi. Film kırılınca kornea yüzeyi çıplak kalır,
-  sinir uçları uyarılır ve kronik yüzey enflamasyonu kendi kendini besleyen bir döngü kurar'
+tipik_hasta: "**Ekran karşısında** uzun süre kalan, **kontakt lens** kullanan ya da **menopoz** dönemindeki hasta; **akşama doğru artan yanma**, batma, **kum tanesi hissi**, göz yorgunluğu ve **kırpınca düzelen bulanık görme**. Paradoksal olarak **ışık ve rüzgârda gözün aşırı sulanması** da şikâyet yaratır; **ağız kuruluğu**nun eşlik ettiği olguda **Sjögren sendromu** akılda tutulur"
+patofizyoloji: "Gözyaşı **üç katmanlı** bir filmdir: dışta buharlaşmayı önleyen **yağ**, ortada **ağısal** katman, içte korneaya yapışan **müküs**. Kuru göz bu filmin ya **üretiminin azalması** ya da çok çabuk **bozulup parçalanması**dır. **Ağısal eksiklik**: **lakrimal bez**in işlev kaybı, en tipik örneği **Sjögren sendromu**. **Aşırı buharlaşma**: kapak kenarındaki **Meibomian bezi**lerinin tıkanması, az kırpma ve **ekran karşısında kırpma sıklığının düşmesi**. Film kırılınca kornea yüzeyi **çıplak** kalır; **kronik yüzey enflamasyonu** kendi kendini besleyen bir **döngü** kurar"
 anahtar_bulgular:
-- Yanma, batma, kum/kâğıt hissi; şikâyetlerin okuma ve ekran kullanımıyla, akşam saatlerinde artması
-- Kırpınca düzelen, dalgalanıcı bulanık görme; film her kırpışta yeniden dağıldığı için görme sabit değildir
-- 'Paradoksal sulanma: kuruyan yüzeyden çıkan refleks uyarıyla göz su salgılar, hasta ''gözüm kurumuyor,
-  sulanıyor'' der'
-- Yarık lambada gözyaşı filmi kırılma süresinin kısalması ve fluorescein boyayla kornea-konjonktivada
-  noktasal boyanan lekeler
-- 'Meibomian bezi disfonksiyonu: kapak kenarında kızarıklık, bez ağızlarında tıkanma ve sıkışmış yağ damlaları'
-- Sjögren sendromunda şiddetli kuruluğa ağız kuruluğu ve sistemik bağ dokusu bulguları eşlik eder
+- "**Yanma, batma, kum/kâğıt hissi**; şikâyetlerin okuma ve **ekran kullanımıyla**, **akşam** saatlerinde artması"
+- "**Kırpınca düzelen, dalgalanıcı bulanık görme**; film her kırpışta **yeniden dağıldığı** için görme sabit değildir"
+- "**Paradoksal sulanma**: kuruyan yüzeyden çıkan **refleks uyarı**yla göz su salgılar, hasta **gözüm kurumuyor, sulanıyor** der"
+- "**Yarık lambada** gözyaşı filmi **kırılma süresinin kısalması** ve **fluorescein** boyayla kornea-konjonktivada **noktasal** boyanan lekeler"
+- "**Meibomian bezi disfonksiyonu**: kapak kenarında **kızarıklık**, bez ağızlarında **tıkanma** ve sıkışmış **yağ damlaları**"
+- "**Sjögren sendromu**nda şiddetli kuruluğa **ağız kuruluğu** ve **sistemik bağ dokusu** bulguları eşlik eder"
 patognomonik: null
-ilk_tetkik: 'Yarık lamba muayenesi: gözyaşı menisküsünün inceliği, kapak kenarı ve Meibomian bezleri;
-  fluorescein boyayla film kırılma süresi ve yüzey boyanması; Schirmer testinin mantığı basittir — standart
-  kâğıt şerit alt kapağın dış bölümüne yerleştirilir, beş dakikada ıslattığı uzunluk gözyaşının üretimini
-  ölçer; beş milimetrenin altı belirgin ağısal eksiklik demektir'
-kesin_tani: 'Tek bir sayı tanı koydurmaz: uyumlu şikâyetler yüzey hasarı ya da film kararsızlığı kanıtıyla
-  (kırılma süresinin kısalması, boya lekeleri, düşük Schirmer) bir arada geldiğinde tanı konur; Sjögren
-  şüphesinde anti-SSA/SSB antikorları ve tükürük bezi değerlendirmesi için romatolojiyle iş birliği'
-ilk_tedavi: 'Yapay gözyaşı tedavinin temelidir: koruyucusuz damlalar gün içinde gerektiği kadar kullanılır
-  (koruyucu, yoğun kullanımda yüzeyi tahriş eder). Yağ katmanı sorumluyken kapak kenarı hijyeni, sıcak
-  kompres ve kırpma egzersizleri bezin tıkanıklığını açmaya çalışır; orta-ağır olguda topikal siklosporin
-  ya da kısa süreli topikal steroid damla, ağızdan omega desteği; direnen olguda punctum tıkacıyla mevcut
-  gözyaşının gözde kalma süresi uzatılır; Sjögrenli hastada sistemik tedavi romatolojiyle planlanır'
-klasik_komplikasyon: Ağır ve tedavisiz kuruluğa kornea noktasal epitel hasarı, filamentöz keratit, nadiren
-  kornea incelmesi ve perforasyon; kontakt lens intoleransı
+ilk_tetkik: "**Yarık lamba** muayenesi: gözyaşı **menisküs**ünün inceliği, **kapak kenarı** ve **Meibomian bezleri**; **fluorescein** boyayla **film kırılma süresi** ve yüzey boyanması. **Schirmer testi**: **kâğıt şerit** alt kapağın dış bölümüne yerleştirilir, **beş dakikada** ıslattığı uzunluk **üretimi** ölçer; **beş milimetre**nin altı belirgin **ağısal eksiklik** demektir"
+kesin_tani: "**Tek bir sayı tanı koydurmaz**: uyumlu **şikâyetler** yüzey **hasarı** ya da **film kararsızlığı** kanıtıyla bir arada gelince tanı konur; **kırılma süresinin kısalması**, boya lekeleri ve **düşük Schirmer** kanıt örnekleridir. **Sjögren** şüphesinde **anti-SSA/SSB** antikorları ve **tükürük bezi** değerlendirmesi için **romatoloji**yle iş birliği"
+ilk_tedavi: "**Yapay gözyaşı** tedavinin temelidir; **koruyucusuz** damlalar gün içinde gerektiği kadar kullanılır (**koruyucu** yoğun kullanımda yüzeyi tahriş eder). **Yağ katmanı** sorumluyken **kapak kenarı hijyeni**, **sıcak kompres** ve **kırpma egzersizleri** bezin tıkanıklığını açmaya çalışır; orta-ağır olguda **topikal siklosporin** ya da kısa süreli **topikal steroid** damla, direnen olguda **punctum tıkacı**yla gözyaşının gözde **kalma süresi** uzatılır. **Sjögren**li hastada **sistemik tedavi** romatolojiyle planlanır"
+klasik_komplikasyon: "Ağır ve tedavisiz kuruluğa **kornea noktasal epitel hasarı**, **filamentöz keratit**, nadiren kornea **incelmesi** ve **perforasyon**; **kontakt lens intoleransı**"
 tus_gecmisi:
 - tus-2021-ilkbahar-ttbt-100
 kart_uret:

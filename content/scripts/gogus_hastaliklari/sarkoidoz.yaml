@@ -15,34 +15,36 @@ taksonomi:
   - dahiliye
   - dah_romatoloji
   - dah_rom_sarkoidoz
-tipik_hasta: 20-40 yaş, siyah ırk veya Akdeniz kökenli hasta; çoğu asemptomatik olarak çekilen grafide
-  simetrik bilateral hilar lenfadenopati saptanır ya da genç kadın, eritema nodozum, artralji ve ateşle
-  başvurur. Kronik tablo kuru öksürük, nefes darlığı ve göz tutulumuyla ilerler
-patofizyoloji: 'Genetik yatkınlığı olan kişide tanımlanamayan antijene karşı aşırı T hücreli yanıt: makrofajlar
-  aktive olur, dokularda kazeifikasyonsuz (nonkazeifiye) granüller oluşur. Aktive makrofajlar 1,25-dihidroksivitamin
-  D3 sentezler; bağırsaktan kalsiyum emilimi artar, hiperkalsemi ve hiperkalsiüri gelişir. Makrofajlar
-  anjiyotensin dönüştürücü enzimi de salgılar, serum ACE düzeyi yükselir — bu nedenle ACE tanı için tek
-  başına doğrulayıcı değildir, aktivite ve izlem göstergesi olarak yorumlanır'
+tipik_hasta: "**20-40 yaş**, **siyah ırk** veya **Akdeniz** kökenli hasta; çoğu **asemptomatik** olarak
+  çekilen grafide **simetrik bilateral hilar lenfadenopati** saptanır. Genç **kadın**, **eritema
+  nodozum**, **artralji** ve **ateş**le başvurur; **kronik** tablo **kuru öksürük**, **nefes darlığı**
+  ve **göz tutulumu**yla ilerler"
+patofizyoloji: "Genetik yatkınlığı olan kişide tanımlanamayan antijene karşı **aşırı T hücreli yanıt**:
+  makrofajlar aktive olur, dokularda **kazeifikasyonsuz (nonkazeifiye) granül**ler oluşur. Aktive
+  makrofajlar **1,25-dihidroksivitamin D3** sentezler; **kalsiyum emilimi** artar, **hiperkalsemi** ve
+  **hiperkalsiüri** gelişir. Makrofajlar **anjiyotensin dönüştürücü enzim**i de salgılar, **serum ACE**
+  yükselir; **ACE tanı için tek başına doğrulayıcı değildir**, aktivite-izlem göstergesidir"
 anahtar_bulgular:
-- PA grafide simetrik bilateral hilar ve sağ paratrakeal lenfadenopati (klasik üçlü görüntü)
-- Eritema nodozum, bilateral hilar LAP ve eklem ağrısı birlikteliği (Löfgren sendromu) — kendini sınırlayan,
-  iyi prognozlu tablo
-- Düzeltilebilir hiperkalsemi; 24 saatlik idrar kalsiyumu da yükselir
-- Serum ACE yüksekliği — tanıyı tek başına koymaz, aktivite ve tedavi izleminde yardımcıdır
-- Göğüs BT'de lenfatik (perilenfitik) yayılımlı mikro nodüller; ileri evrede üst kesimlerde perihiler
-  kaba fibrozis
-- Üveit (yağ damlası görünümü), ciltte plaklar veya lupus pernio
+- "PA grafide **simetrik bilateral hilar ve sağ paratrakeal lenfadenopati** (klasik **üçlü** görüntü)"
+- "**Eritema nodozum**, **bilateral hilar LAP** ve **eklem ağrısı** birlikteliği (**Löfgren sendromu**)
+  — kendini sınırlayan, **iyi prognozlu** tablo"
+- "**Düzeltilebilir hiperkalsemi**; **24 saatlik idrar kalsiyumu** da yükselir"
+- "**Serum ACE** yüksekliği — tanıyı tek başına koymaz, **aktivite ve tedavi izleminde** yardımcıdır"
+- "Göğüs BT'de **lenfatik (perilenfitik) yayılımlı mikro nodüller**; ileri evrede üst kesimlerde
+  **perihiler kaba fibrozis**"
+- "**Üveit** (yağ damlası görünümü), ciltte **plaklar** veya **lupus pernio**"
 patognomonik: null
-ilk_tetkik: PA akciğer grafi ve göğüs BT; serum ve idrar kalsiyumu, serum ACE; göz muayenesi (üveit);
-  EKG ve kardiyak tutulum taraması
-kesin_tani: 'Uygun klinik-radyolojik tablo artı biyopsi: bronkoskopik transbronşiyal biyopsi veya EBUS-TBNA
-  ile kazeifikasyonsuz granül görülür; aynı örneklerde TBC ve mantar kültürlerinin negatifleşmesi, granülün
-  infeksiyöz nedenlerinin dışlanması zorunludur'
-ilk_tedavi: Evre 1 hastalık ve Löfgren sendromu çoğunlukla tedavi gerektirmez, destek ve izlem yeterlidir;
-  semptomatik, ilerleyici veya organ fonksiyonunu bozan tutulumda sistemik kortikosteroid ilk seçenektir;
-  kronik veya steroid dirençli olgularda metotreksat veya azatioprin eklenir
-klasik_komplikasyon: Kronik evrede pulmoner fibrozis; kronik üveit veya arka segment tutulumunda görme
-  kaybı; hiperkalsiüriye bağlı nefrolitiyazis ve böbrek hasarı
+ilk_tetkik: "**PA akciğer grafi** ve **göğüs BT**; **serum ve idrar kalsiyumu**, **serum ACE**; **göz
+  muayenesi** (üveit); **EKG** ve **kardiyak tutulum** taraması"
+kesin_tani: "**Uygun klinik-radyolojik tablo** artı **biyopsi**: **bronkoskopik transbronşiyal biyopsi**
+  veya **EBUS-TBNA** ile **kazeifikasyonsuz granül** görülür. Aynı örneklerde **TBC ve mantar
+  kültürleri**nin negatif olması, granülün **infeksiyöz nedenleri**nin dışlanması **zorunlu**dur"
+ilk_tedavi: "**Evre 1** hastalık ve **Löfgren sendromu** çoğunlukla **tedavi gerektirmez**, destek ve
+  izlem yeterlidir. **Semptomatik, ilerleyici veya organ fonksiyonunu bozan** tutulumda **sistemik
+  kortikosteroid** ilk seçenektir. **Kronik veya steroid dirençli** olgularda **metotreksat** veya
+  **azatioprin** eklenir"
+klasik_komplikasyon: "Kronik evrede **pulmoner fibrozis**. **Kronik üveit** veya arka segment tutulumunda
+  **görme kaybı**. **Hiperkalsiüri**ye bağlı **nefrolitiyazis** ve **böbrek hasarı**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-7
 - tus-2014-ilkbahar-ttbt-80

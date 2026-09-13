@@ -11,40 +11,20 @@ taksonomi:
   - dermatoloji
   - derm_fungal_parazit
   - derm_fp_dermatofitoz
-tipik_hasta: Havuz, sauna, ortak duş gibi nemli ortamlara giren; terleyen, dar giysiler giyen ya da diyabetik-yaşlı
-  hastada tırnak kalınlaşması olan kişi. Kasıkta kenarı belirgin halkalarla gelen erişkin, çocukta saçlı
-  deride küme saç dökülmesi, yaşlıda distal tırnak tutulumu tipik tablolardır; ayaklarda iki taraf tutulurken
-  tek elde tutulum ('iki ayak bir el' sendromu) mantıklı bir ipucudur
-patofizyoloji: 'Trichophyton, Microsporum ve Epidermophyton cinslerinin mantarları keratinaz salgılayarak
-  stratum korneumu, kılları ve tırnak plakasını istila eder; canlı dokuya inmezler, keratinli yapıları
-  üzerinde konaklarlar. Bu yüzden lezyon mantarın yaşadığı kenardan genişler, merkez toparlanır ve halka
-  görünümü doğar. İstila derinliği ve inflamasyon türle değişir: antropofilik türler hafif iltihaplı kronik
-  tablo, zoonotik türler şiddetli inflamasyon yapar. Verilen topikal steroid lezyonu maskeler ama mantarı
-  yayarak tinea incognito tablosu yaratır'
+tipik_hasta: "Havuz, sauna, ortak duş gibi **nemli ortamlara** giren; terleyen, dar giysiler giyen ya da **diyabetik-yaşlı** hastada **tırnak kalınlaşması** olan kişi. Kasıkta **kenarı belirgin halkalarla** gelen erişkin, çocukta saçlı deride **küme saç dökülmesi**, yaşlıda **distal tırnak** tutulumu tipik tablolardır; ayaklarda iki taraf tutulurken tek elde tutulum (**iki ayak bir el** sendromu) mantıklı bir ipucudur"
+patofizyoloji: "**Trichophyton**, **Microsporum** ve **Epidermophyton** cinslerinin mantarları **keratinaz** salgılayarak **stratum korneumu**, kılları ve tırnak plakasını istila eder; canlı dokuya inmezler. Lezyon mantarın yaşadığı **kenardan** genişler, **merkez toparlanır** ve **halka** görünümü doğar; **Antropofilik** türler hafif iltihaplı kronik tablo, **zoonotik** türler şiddetli inflamasyon yapar. Verilen **topikal steroid** lezyonu maskeler ama mantarı yayarak **tinea incognito** tablosu yaratır"
 anahtar_bulgular:
-- 'Tinea corporis/cruris: kenarı kabarık, eritematöz, pullu; merkezi toparlanmış halka biçimli lezyon;
-  kasıkta tipik olarak asimetrik yerleşim ve skrotumun korunması'
-- 'Tinea pedis: parmak aralarında körlenme-makarasyon ve kaşıntı; ayak tabanında mokasin tipi pullanma'
-- 'Tinea capitis (çocuk): kel plaklar, kırılan saçlarla ''siyah nokta'' görünümü; iltihaplı olguda boğumlu
-  ağrılı plak (kerion) ve boyun lenfadenopatisi'
-- 'Onikomikoz: tırnağın distal kenarından başlayan sarımsı-kahverengi kalınlaşma, kırılganlık, subungual
-  keratoz'
-- Kenarından alınan kazımada KOH preparatında septalı, dallanan hifler
-- Sınırlı tablolarda bile hızla yanıt veren topikal antifungallere direnç hâlâ mantar lehine düşündürür;
-  steroid kullanımı tanıyı gizler
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Lezyon kenarından alınan kazımada KOH preparatında septalı, dallanan hiflerin görülmesi
-ilk_tetkik: Artan pullu kenar derinliğinden hedefli kazıma ve KOH preparatı; saçlı deride Wood ışığı (Microsporum'da
-  yeşil floresan); kültürle tür tanımlaması
-kesin_tani: KOH preparatında septalı dallanan hifler; kültürde dermatofit üremesi türü ve tedaviyi belirler;
-  gerekirse tırnak/saç biyopsisinde PAS boyaması
-ilk_tedavi: 'Deri tutulumu sınırlıysa topikal terbinafin ya da azol (klotrimazol, ketokonazol) 2-4 hafta;
-  uygulama lezyon kenarının 1-2 hafta fazlasına yapılmalıdır. Tırnak ve saçlı deri tutulumunda topikal
-  tedavi yetmez: tırnak için oral terbinafin (keratinden geçip tırnak plakasına ulaşır, altın standart),
-  tinea capitis için oral terbinafin veya grisefulvin şarttır çünkü mantar kıl folikülü içindedir; kerionda
-  kısa süreli sistemik steroid eklenerek iltihap bastırılabilir. Kombine steroid-antifungal kremler önerilmez'
-klasik_komplikasyon: 'İd (dermatofitid) reaksiyonu: inflamatuar odak tedavi edilirken gövde ve ellerde
-  uzak bölgede akut ekzematöz döküntü; kerionda skar ve kalıcı alopesi riski; steroid maskelenmesiyle
-  tinea incognito'
+- "**Tinea corporis/cruris**: kenarı kabarık, eritematöz, pullu; **merkezi toparlanmış halka** biçimli lezyon; kasıkta **asimetrik** yerleşim ve **skrotumun korunması**"
+- "**Tinea pedis**: parmak aralarında **körlenme-makarasyon** ve kaşıntı; ayak tabanında **mokasin tipi** pullanma"
+- "**Tinea capitis** (çocuk): kel plaklar, kırılan saçlarla **siyah nokta** görünümü; iltihaplı olguda boğumlu ağrılı plak (**kerion**) ve boyun lenfadenopatisi"
+- "**Onikomikoz**: tırnağın **distal kenarından** başlayan sarımsı-kahverengi kalınlaşma, kırılganlık, subungual keratoz"
+- "Kenarından alınan kazımada **KOH** preparatında **septalı, dallanan hifler**"
+- "Sınırlı tablolarda bile hızla yanıt veren **topikal antifungallere direnç** hâlâ mantar lehine düşündürür; **steroid** kullanımı tanıyı gizler"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — lezyon kenarından alınan kazımada **KOH** preparatında **septalı, dallanan hiflerin** görülmesi"
+ilk_tetkik: "Artan pullu **kenar derinliğinden** hedefli kazıma ve **KOH** preparatı; saçlı deride **Wood ışığı** (**Microsporum**'da yeşil floresan); **kültür**le tür tanımlaması"
+kesin_tani: "**KOH** preparatında **septalı dallanan hifler**; kültürde dermatofit üremesi (türü ve tedaviyi belirler); gerekirse tırnak/saç biyopsisinde **PAS** boyaması"
+ilk_tedavi: "Deri tutulumu sınırlıysa **topikal terbinafin** ya da **azol** (**klotrimazol**, **ketokonazol**) **2-4 hafta**; uygulama lezyon kenarının **1-2 hafta** fazlasına yapılmalıdır. Tırnak ve saçlı deri tutulumunda topikal tedavi yetmez: tırnak için **oral terbinafin** (keratinden geçip tırnak plakasına ulaşır, **altın standart**); **tinea capitis** için oral terbinafin veya **grisefulvin** şarttır çünkü mantar kıl folikülü içindedir; **Kerionda** kısa süreli **sistemik steroid** eklenerek iltihap bastırılabilir, **kombine steroid-antifungal** kremler önerilmez"
+klasik_komplikasyon: "**İd (dermatofitid)** reaksiyonu: inflamatuar odak tedavi edilirken gövde ve ellerde uzak bölgede akut ekzematöz döküntü; **kerionda** skar ve kalıcı alopesi riski; steroid maskelenmesiyle **tinea incognito**"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-36
 - tus-2015-ilkbahar-ktbt-30

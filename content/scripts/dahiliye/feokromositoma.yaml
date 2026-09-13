@@ -11,38 +11,38 @@ taksonomi:
   - dahiliye
   - dah_endokrinoloji
   - dah_end_feokromositoma
-tipik_hasta: 'Kırk yaş dolayında hipertansif hasta; dakikalar-saatler süren ataklarla gelir: atakta şiddetli
-  baş ağrısı, bedeni saran bol terleme, çarpıntı, solukluk, titreme ve ölüm korkusu; ataklar arası hasta
-  kendini iyi hissedebilir; hipertansiyon sürekli de olabilir ve tanı gecikebilir; ailesel sendromlarla
-  (MEN 2A ve 2B, von Hippel-Lindau, nörofibromatozis tip 1, SDH mutasyonları) birleşir'
-patofizyoloji: Adrenal medullanın kromafin hücrelerinden kaynaklanan katekolamin üreten tümör; adrenal
-  dışı yerleşimler paragangliom olarak adlandırılır. Salgı başta noradrenalin ve adrenalin olmak üzere
-  paroksismal veya sürekli olabilir; dolaşımdaki katekolamin fazlalığı damar direncini, kalp hızını ve
-  metabolizmayı artırır, uzun sürede kalp kasına toksiktir
+tipik_hasta: 'Kırk yaş dolayında hipertansif hasta; dakikalar-saatler süren **paroksismal ataklar**: baş
+  ağrısı, bedeni saran bol **terleme**, **çarpıntı**, solukluk, titreme, ölüm korkusu. Ataklar arası hasta
+  kendini iyi hissedebilir; hipertansiyon sürekli de olabilir. Ailesel sendromlar: **MEN 2A ve 2B**, **von
+  Hippel-Lindau**, **nörofibromatozis tip 1**, **SDH** mutasyonları'
+patofizyoloji: 'Adrenal medullanın **kromafin hücre**lerinden kaynaklanan **katekolamin** üreten tümör;
+  adrenal dışı yerleşimler **paragangliom**. Salgı başta **noradrenalin** ve adrenalin olmak üzere paroksismal
+  veya sürekli. Katekolamin fazlalığı damar direncini, kalp hızını ve metabolizmayı artırır; uzun sürede
+  kalp kasına toksiktir'
 anahtar_bulgular:
-- Paroksismal hipertansiyon atakları; bir bölüm hastada sürekli hipertansiyon
-- 'Atak üçlüsü: baş ağrısı, terleme, çarpıntı; ek bulgular solukluk, titreme, panik hissi, göğüs ağrısı'
-- 'Hipermetabolik görünüm: kilo kaybı, kan şekeri yüksekliği, ateş; ayakta durunca tansiyonun düşmesi
-  (ortostatik hipotansiyon)'
-- Plazma serbest metanefrinlerde veya 24 saatlik idrar fraksiyone metanefrinlerinde belirgin artış (tanıyı
-  taşıyan tarama testi)
-- 'Onluk kural artık revize: ailesel germline mutasyonlar hastaların yaklaşık yüzde 30-40 düzeyinde saptanır; iki taraflılık, adrenal dışı yerleşim, malign biyoloji ve çocukluk çağı olgularının
-  her biri yüzde 10-20 aralığındadır'
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Baş ağrısı, terleme ve çarpıntının paroksismal hipertansiyonla birlikte görülmesi (klasik
-  üçlü)
-ilk_tetkik: Plazma serbest metanefrinleri veya 24 saatlik idrar fraksiyone metanefrinleri; test öncesinde
-  kafein, dekonjestan, trisiklik antidepresan ve benzeri ilaçların etkisinin hesaba katılması
-kesin_tani: Biyokimyasal doğrulamayı abdominal BT veya MR ile tümörün gösterilmesi izler; adrenal dışı,
-  iki taraflı veya metastatik şüphede I-123 MIBG sintigrafisi veya PET; tümörden biyopsi alınmaz, hipertansif
-  kriz tetikleyebilir
-ilk_tedavi: 'Cerrahi öncesi medikal hazırlık zorunludur: önce alfa bloker (fenoksibenzamin veya doksozosin)
-  başlanır ve volüm genişlemesi sağlanır; alfa blokaj sağlandıktan sonra refleks kalp hızlanmasında beta
-  bloker eklenir; beta blokerin alfa blokajdan önce başlanması hipertansif kriz riski taşır. Kesin tedavi
-  laparoskopik adrenalektomidir; cerrahiye uygun olmayan hastada sürekli alfa blokaj, gerektiğinde kalsiyum
-  kanal blokeri veya metirozin'
-klasik_komplikasyon: Hipertansif kriz ve akut kalp yetmezliği; katekolamin kalp kası hastalığı ve ritim
-  bozuklukları; anestezi, cerrahi veya doğum gibi tetikleyicilerde katekolamin fırtınası (tanınmamış olguda
-  ölümcül)
+- '**Paroksismal hipertansiyon** atakları; bir bölüm hastada **sürekli hipertansiyon**'
+- '**Atak üçlüsü: baş ağrısı, terleme, çarpıntı**; ek bulgular solukluk, titreme, panik hissi, göğüs ağrısı'
+- 'Hipermetabolik görünüm: kilo kaybı, kan şekeri yüksekliği; ayakta durunca tansiyon düşmesi (**ortostatik
+  hipotansiyon**)'
+- 'Plazma serbest **metanefrin** veya 24 saatlik idrar fraksiyone **metanefrin** artışı (tanıyı taşıyan
+  tarama testi)'
+- 'Ailesel germline mutasyonlar hastaların **yüzde 30-40**ında; **iki taraflılık**, adrenal dışı yerleşim,
+  malign biyoloji ve çocukluk çağı olguları her biri **yüzde 10-20**'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — **baş ağrısı, terleme ve çarpıntı**nın
+  **paroksismal hipertansiyon**la birlikte görülmesi (klasik üçlü)
+ilk_tetkik: 'Plazma serbest **metanefrin** veya 24 saatlik idrar **fraksiyone metanefrin**; test öncesinde
+  **kafein**, **dekonjestan**, **trisiklik antidepresan** ve benzeri ilaçların etkisinin hesaba katılması'
+kesin_tani: 'Biyokimyasal doğrulamayı abdominal **BT veya MR** ile tümörün gösterilmesi izler. Adrenal
+  dışı, iki taraflı veya metastatik şüphede **I-123 MIBG** sintigrafisi veya **PET**. Tümörden **biyopsi
+  alınmaz**; hipertansif kriz tetikleyebilir'
+ilk_tedavi: 'Cerrahi öncesi **medikal hazırlık** zorunludur: önce **alfa bloker** (**fenoksibenzamin**
+  veya **doksozosin**) başlanır, volüm genişlemesi sağlanır. Alfa blokaj sağlandıktan sonra refleks kalp
+  hızlanmasında **beta bloker** eklenir, beta önce başlanırsa **hipertansif kriz** riski taşır. Kesin tedavi
+  **laparoskopik adrenalektomi**; cerrahiye uygun olmayan hastada sürekli **alfa blokaj**, gerektiğinde
+  **kalsiyum kanal blokeri** veya **metirozin**'
+klasik_komplikasyon: '**Hipertansif kriz** ve **akut kalp yetmezliği**; **katekolamin kalp kası hastalığı**
+  ve ritim bozuklukları; anestezi, cerrahi veya doğum gibi tetikleyicilerde **katekolamin fırtınası**
+  (tanınmamış olguda ölümcül)'
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-88
 - tus-2015-ilkbahar-ktbt-86

@@ -13,45 +13,19 @@ taksonomi:
   - psikiyatri
   - psik_madde
   - psik_md_kannabis_halusinojen
-tipik_hasta: Genellikle ergenlikte ya da erken erişkinlikte başlayan, günlük ya da neredeyse günlük kullanan,
-  'keyif ve rahatlama için' diyen genç hasta; erkeklerde daha sıktır. Yıllar içinde miktar ve sıklık artmıştır,
-  bırakma girişimleri başarısız olmuştur; okul ya da iş başarısı düşer, arkadaş çevresi madde çevresiyle
-  sınırlanır, motivasyon düşüklüğü ve sinirlilik çevresince fark edilir; bazı hastalar depersonalizasyon-derealizasyon
-  deneyimlerini anlatır
-patofizyoloji: 'THC endokannabinoid sistemde CB1 reseptörlerinin agonistidir; mezokortikolimbik dopamin
-  ödül devresinde pekiştirme etkisi doğurur. Kronik kullanım CB1 reseptör yoğunluğunu ve endokannabinoid
-  sinyali aşağı regüle eder: kesildiğinde bu ''geri çekilme'', yoksunluk belirtilerini (irritabilite,
-  uyku bozukluğu, iştah değişimi) açıklar. Ergenlikte prefrontal korteks hâlâ gelişimde olduğundan erken
-  başlayan yoğun kullanım bilişsel işlevleri ve duygulanım düzenini uzun süre etkileyebilir; genetik yatkınlığı
-  olan bireyde THC psikotik atakları tetikleyebilir ve şizofreniye geçiş riskini artırır'
+tipik_hasta: "Ergenlikte ya da erken erişkinlikte başlayan, **günlük ya da neredeyse günlük** kullanan, 'keyif ve rahatlama için' diyen genç hasta; **erkeklerde daha sıktır**. Yıllar içinde **miktar ve sıklık artmış**, bırakma girişimleri başarısız olmuştur; **okul ya da iş başarısı düşer**, çevre madde çevresiyle sınırlanır; **motivasyon düşüklüğü** ve sinirlilik çevresince fark edilir"
+patofizyoloji: "**THC** endokannabinoid sistemde **CB1 reseptörlerinin agonistidir**; **mezokortikolimbik dopamin ödül devresinde** pekiştirme etkisi doğurur. Kronik kullanım **CB1 reseptör yoğunluğunu aşağı regüle eder** — kesildiğinde **yoksunluk belirtileri** (irritabilite, uyku bozukluğu, iştah değişimi) açıklanır. Ergenlikte **prefrontal korteks** hâlâ gelişimde olduğundan erken yoğun kullanım **bilişsel işlevleri ve duygulanım düzenini** uzun süre etkileyebilir; yatkın bireyde **THC psikotik atakları** tetikleyip **şizofreniye geçiş riskini artırır**"
 anahtar_bulgular:
-- '12 ay boyunca süren bozulmuş kullanım örüntüsü: tolerans, bırakamama, denetim kaybı, craving, olumsuz
-  sonuçlara karşın kullanımı sürdürme, etkinliklerden vazgeçme'
-- 'Yoksunluk belirtileri: kesilmeden sonraki 1-3 gün içinde irritabilite, kaygı, huzursuzluk, uyku güçlüğü
-  ve iştah değişimi; 1-2 haftada düzelir'
-- 'Zehirlenme tablosu: öfori, gülme, zaman algısında bozulma, konjonktival enjeksiyon, taşikardi, iştah
-  artışı, koordinasyon bozukluğu; belirgin depersonalizasyon-derealizasyon yaşanabilir'
-- Genç yaşta ya da yoğun kullanımda psikotik belirtiler (şüphe, algı bozulması) tetiklenebilir; ailede
-  psikoz öyküsü riski katlar
-- 'Motivasyon ve bilişsel etkilenme: hedefsizlik, kısa süreli hafıza zayıflığı, okul-iş başarısında düşüş;
-  ergenlikte başlayan kullanımda daha belirgin'
+- "**12 ay boyunca** süren bozulmuş kullanım örüntüsü: **tolerans, bırakamama, denetim kaybı, craving**, olumsuz sonuçlara karşın sürdürme, etkinliklerden vazgeçme"
+- "**Yoksunluk belirtileri**: kesilmeden sonraki **1-3 gün içinde** irritabilite, kaygı, huzursuzluk, uyku güçlüğü ve iştah değişimi; **1-2 haftada düzelir**"
+- "**Zehirlenme tablosu**: öfori, gülme, **zaman algısında bozulma, konjonktival enjeksiyon, taşikardi, iştah artışı**, koordinasyon bozukluğu; belirgin **depersonalizasyon-derealizasyon**"
+- "Genç yaşta ya da yoğun kullanımda **psikotik belirtiler** (şüphe, algı bozulması) tetiklenebilir; **ailede psikoz öyküsü** riski katlar"
+- "**Motivasyon ve bilişsel etkilenme**: hedefsizlik, **kısa süreli hafıza zayıflığı**, okul-iş başarısında düşüş"
 patognomonik: null
-ilk_tetkik: Klinik görüşme ve ayrıntılı madde öyküsü (başlangıç yaşı, miktar, sıklık, kullanım yöntemi);
-  ASSIST gibi tarama araçları ve ergenlerde CRAFFT kullanılır, şiddet derecelendirilir; eşlik eden depresyon,
-  anksiyete ve psikotik belirti araştırılır — psikotik belirti varsa acil psikiyatrik değerlendirme yapılır;
-  yoksunluk döneminde uyku ve kaygı düzeyi izlenir
-kesin_tani: 'DSM-5-TR ölçütlerine göre son 12 ay boyunca, sorumsuz kullanıma yol açan madde kullanım örüntüsünün
-  varlığı: denetim kaybı, bırakamama, craving, tolerans, yoksunluk belirtileri, sosyal ve işlevsel olumsuz
-  sonuçlara karşın kullanımı sürdürme; bu belirtilerin sayısına göre şiddet derecelendirilir — hafif (2-3
-  belirti), orta (4-5 belirti), ağır (6 ve üzeri belirti)'
-ilk_tedavi: 'Onaylı bir farmakoterapi yoktur; ilk adım psikososyal müdahaledir: motivasyonel görüşme,
-  bilişsel davranışçı terapi (craving yönetimi, yeniden kullanım anına çıkış becerileri) ve kıvama dayalı
-  pekiştirme; ergenlerde aile temelli terapi etkilidir. Yoksunluk belirtileri (uykusuzluk, kaygı) kısa
-  süreli semptomatik olarak desteklenir; eşlik eden depresyon, anksiyete ya da psikoz ayrı tedavi edilir.
-  Psikotik atak geçiren hastaya kullanımın psikozun geri dönüş riskini artırdığı açık biçimde anlatılır
-  ve kannabisten uzaklaşma hedefi tedavi planının merkezine konur'
-klasik_komplikasyon: Kannabis kaynaklı psikoz ve yatkın bireyde şizofreniye geçiş riski; motivasyon ve
-  bilişsel işlev kaybı; araç kullanımı ve mesleki kazalar; diğer maddelere ilerleme
+ilk_tetkik: "Klinik görüşme ve **ayrıntılı madde öyküsü** (başlangıç yaşı, miktar, sıklık, kullanım yöntemi); **ASSIST** gibi tarama araçları, ergenlerde **CRAFFT** kullanılır. Eşlik eden **depresyon, anksiyete ve psikotik belirti** araştırılır — **psikotik belirti varsa acil psikiyatrik değerlendirme** yapılır; yoksunluk döneminde **uyku ve kaygı** izlenir"
+kesin_tani: "**DSM-5-TR ölçütlerine göre son 12 ayda** denetim kaybı, bırakamama, craving, tolerans, yoksunluk belirtileri ve sosyal-işlevsel olumsuz sonuçlara karşın kullanımı sürdürme örüntüsü. Şiddet **belirti sayısına göre** derecelendirilir — **hafif (2-3 belirti), orta (4-5 belirti), ağır (6 ve üzeri belirti)**"
+ilk_tedavi: "**Onaylı bir farmakoterapi yoktur**; ilk adım psikososyal müdahaledir: **motivasyonel görüşme, bilişsel davranışçı terapi** (craving yönetimi, yeniden kullanım anına çıkış becerileri) ve **kıvama dayalı pekiştirme**; ergenlerde **aile temelli terapi** etkilidir. Yoksunluk belirtileri (**uykusuzluk, kaygı**) **kısa süreli semptomatik** desteklenir; eşlik eden **depresyon, anksiyete ya da psikoz** ayrı tedavi edilir. **Psikotik atak geçiren** hastaya kullanımın **psikozun geri dönüş riskini** artırdığı açıkça anlatılır"
+klasik_komplikasyon: "**Kannabis kaynaklı psikoz** ve yatkın bireyde **şizofreniye geçiş riski**; **motivasyon ve bilişsel işlev kaybı**; araç kullanımı ve mesleki kazalar; diğer maddelere ilerleme"
 tus_gecmisi:
 - tus-2016-sonbahar-ttbt-105
 kart_uret:

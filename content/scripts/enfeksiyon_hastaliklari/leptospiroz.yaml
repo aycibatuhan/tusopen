@@ -11,37 +11,19 @@ taksonomi:
   - enfeksiyon_hastaliklari
   - enf_zoonoz
   - enf_zo_leptospiroz
-tipik_hasta: 'Sıçan ve evcil hayvan idrarıyla kontamine tatlı su ya da çamura temas eden kişi: sel felaketi
-  bölgesinde çalışan, tarla ve kanalizasyon işlerinde bulunan, tatlı suda yüzüp dalış yapan sporcu; ani
-  ateş, şiddetli baş ağrısı, dayanılmaz baldır kas ağrısı ve iltihapsız kızarık gözlerle başvuran genç
-  erişkin klasiğidir'
-patofizyoloji: 'Leptospira interrogans; ince, sık kıvrımlı, hareketli bir spirokettir. Rezervuar sıçanlar
-  ve evcil hayvanlardır (köpek, sığır); hayvanlarda böbrek tubüllerine yerleşir ve idrarla vücut dışına
-  saçılır. Etken yıpranmış deri ve göz-burun ağız mukozasından kontamine su-çamur temasıyla girer. Seyir
-  iki fazlıdır: ilk hafta kan dolaşımında seyreden septisemik faz, ikinci haftada organlara yerleşme ve
-  antikor yanıtının başladığı immün faz. Doku hasarı küçük damar endotel yaralanmasına dayanır; karaciğer
-  (kolestaz ağırlıklı sarılık), böbrek (tübüler nekroz), akciğer (kanamalı alveolitis) ve kalp (miyokardit)
-  hedef organlardır'
+tipik_hasta: "Sıçan ve evcil hayvan idrarıyla **kontamine tatlı su** ya da **çamura** temas eden kişi. **Sel felaketi** bölgesinde çalışan, **tarla ve kanalizasyon** işlerinde bulunan, tatlı suda yüzüp dalış yapan **sporcu**. Ani **ateş**, şiddetli baş ağrısı, dayanılmaz **baldır kas ağrısı** ve iltihapsız **kızarık göz**lerle başvuran genç erişkin klasiğidir"
+patofizyoloji: "**Leptospira interrogans**; ince, sık kıvrımlı, hareketli bir **spiroket**tir. Rezervuar **sıçanlar** ve evcil hayvanlardır (köpek, sığır); hayvanda **böbrek tubüllerine** yerleşir ve **idrarla** vücut dışına saçılır. Etken yıpranmış **deri** ve **göz-burun-ağız mukozasından** kontamine su-çamur temasıyla girer. Seyir **iki fazlıdır**: ilk hafta kan dolaşımında **septisemik faz**, ikinci haftada organlara yerleşme ve antikor yanıtının başladığı **immün faz**. Doku hasarı küçük **damar endotel** yaralanmasına dayanır; hedef organlar: **karaciğer** (kolestaz ağırlıklı sarılık), **böbrek** (tübüler nekroz); **akciğer** (kanamalı alveolitis), **kalp** (miyokardit)"
 anahtar_bulgular:
-- Ani başlayan yüksek ateş, titreme, şiddetli baş ağrısı ve özellikle baldır (gastroknemius) kaslarında
-  dayanılmaz ağrı-hassasiyet
-- Eksüdasız, iltihapsız konjonktival kızarıklık (konjonktival hiperemi) — diğer ateşli tablolardan ayıran
-  klinik ipucu
-- 'İkinci haftada ateş toparlanırken ortaya çıkan sarılık, oligüri-azotemi ve akciğerde kanamalı tutulum;
-  laboratuvar: trombositopeni, artan karaciğer enzimleri ve bilirubin, artan kreatin kinaz'
-- 'Weil hastalığı birleşimi: sarılık artı akut böbrek yetmezliği artı kanama eğilimi artı miyokardit'
-- İmmün fazda beyin omurilik sıvısı incelemesinde aseptik menenjit; geç dönemde üveit
+- "Ani başlayan **yüksek ateş**, titreme, şiddetli baş ağrısı ve özellikle **baldır (gastroknemius)** kaslarında dayanılmaz ağrı-hassasiyet"
+- "**Eksüdasız, iltihapsız konjonktival kızarıklık** (konjonktival hiperemi) — diğer ateşli tablolardan ayıran klinik ipucu"
+- "İkinci haftada ateş toparlanırken **sarılık**, **oligüri-azotemi** ve akciğerde **kanamalı tutulum**; **trombositopeni**, artan **karaciğer enzimleri** ve **bilirubin**, artan **kreatin kinaz**"
+- "**Weil hastalığı** birleşimi: **sarılık** artı **akut böbrek yetmezliği** artı **kanama eğilimi** artı **miyokardit**"
+- "İmmün fazda beyin omurilik sıvısı incelemesinde **aseptik menenjit**; geç dönemde **üveit**"
 patognomonik: null
-ilk_tetkik: Tam kan sayımı (lökopeni ya da hafif lökositoz, trombositopeni), karaciğer-böbrek fonksiyon
-  testleri, kreatin kinaz, idrar tetkiki (steril lökositüri, proteinüri) ve göğüs görüntülemesi
-kesin_tani: Kan, idrar ya da beyin omurilik sıvısında moleküler yöntem ya da karanlık alan (dark-field)
-  mikroskobuyla spiroketin gösterilmesi; mikroaglutinasyon testinde iki örnek arasında dört kat ve üzeri
-  titre artışı
-ilk_tedavi: Erken ve hafif olguda doksisiklin ya da amoksisilin; ağır olguda (Weil hastalığı) damar içi
-  penisilin G ya da seftriakson; akut böbrek yetmezliğinde diyaliz, miyokardit ve şokta yoğun destek;
-  sel bölgesi, tarla ve kanalizasyon işi gibi yüksek riskli gruplara haftalık doksisiklin kemoprofilaksisi
-klasik_komplikasyon: Weil hastalığı (sarılık, akut böbrek yetmezliği, kanamalı akciğer tutulumu, miyokardit);
-  geç dönemde üveit ve aseptik menenjit
+ilk_tetkik: "**Tam kan sayımı** (lökopeni ya da hafif lökositoz, **trombositopeni**), **karaciğer-böbrek fonksiyon testleri**, **kreatin kinaz**. **İdrar tetkiki** (steril **lökositüri**, **proteinüri**) ve **göğüs görüntülemesi**"
+kesin_tani: "Kan, idrar ya da beyin omurilik sıvısında **moleküler yöntem** ya da **karanlık alan (dark-field) mikroskobu**yla **spiroket**in gösterilmesi; **mikroaglutinasyon** testinde iki örnek arasında **dört kat ve üzeri** titre artışı"
+ilk_tedavi: "Erken ve hafif olguda **doksisiklin** ya da **amoksisilin**; ağır olguda (Weil hastalığı) damar içi **penisilin G** ya da **seftriakson**. **Akut böbrek yetmezliği**nde **diyaliz**, **miyokardit** ve şokta yoğun destek. Sel bölgesi, tarla ve kanalizasyon işi gibi yüksek riskli gruplara **haftalık doksisiklin kemoprofilaksisi**"
+klasik_komplikasyon: "**Weil hastalığı** (sarılık, **akut böbrek yetmezliği**, **kanamalı akciğer tutulumu**, **miyokardit**); geç dönemde **üveit** ve **aseptik menenjit**"
 tus_gecmisi:
 - tus-2016-ilkbahar-ttbt-56
 - tus-2016-sonbahar-ttbt-62

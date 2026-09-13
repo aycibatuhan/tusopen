@@ -11,35 +11,19 @@ taksonomi:
   - genel_cerrahi
   - gc_travma
   - gc_tr_toraks
-tipik_hasta: Trafik kazası, yüksekten düşme veya delici-bıcak yaralanması sonrası göğüs ağrısı ve nefes
-  darlığıyla gelen hasta; solunum sıkıntısı, şok, göğüs duvarında morarma veya giriş yarası eşlik edebilir;
-  tension pnömotoraks ve massif hemotoraks dakikalar içinde müdahale gerektirir
-patofizyoloji: 'Göğüs duvarı bütünlüğü bozulunca veya akciğer parankimi yırtılınca plevral boşluğa hava
-  (pnömotoraks) ve kan (hemotoraks) girer; hava girişi kapak gibi tek yönlü çalışırsa her solukta hava
-  birikir ve tension pnömotoraks gelişir: mediasten karşıya kayar, büyük venler bükülür, venöz dönüş ve
-  kardiyak doluş bozulur. Künt travmada ayrıca kaburga kırıkları, akciğer kontüzyonu ve mediastinal organ
-  (aort, kalp) yaralanmaları; delici travmada pat yolu boyunca akciğer, kalp ve damar hasarı'
+tipik_hasta: "Trafik kazası, yüksekten düşme veya **delici-bıcak** yaralanması sonrası göğüs ağrısı ve **nefes darlığı**yla gelen hasta; **solunum sıkıntısı**, şok, göğüs duvarında morarma veya giriş yarası eşlik edebilir; **Tension pnömotoraks** ve **massif hemotoraks** dakikalar içinde müdahale gerektirir"
+patofizyoloji: "Göğüs duvarı bütünlüğü bozulunca veya akciğer parankimi yırtılınca plevral boşluğa hava (**pnömotoraks**) ve kan (**hemotoraks**) girer. Hava girişi **kapak gibi tek yönlü** çalışırsa her solukta hava birikir ve **tension pnömotoraks** gelişir; **mediasten** karşıya kayar, büyük venler bükülür, **venöz dönüş** ve kardiyak doluş bozulur. Künt travmada ayrıca **kaburga kırıkları**, **akciğer kontüzyonu** ve mediastinal organ (**aort**, kalp) yaralanmaları; delici travmada pat yolu boyunca akciğer, kalp ve damar hasarı"
 anahtar_bulgular:
-- 'Tension pnömotoraks: ilerleyici nefes darlığı, tek tarafta solunum sesi yokluğu, boyun venlerinde dolgunluk,
-  trakeanın karşıya kayması, hipotansiyon'
-- 'Massif hemotoraks: tek tarafta solunum seslerinin silinmesi ve kanama şoku; tüp torakostomide hemen
-  1500 mL kan veya saatte 200-300 mL sürekli kan'
-- 'Flail göğüs: en az üç bitişik kaburgada çift kırık (ATLS 10. baskıda en az iki kabul edilir); kırık segmentin ters yönde (paradoksal) hareketi
-  ve altında akciğer kontüzyonu'
-- 'Kardiyak tamponat: Beck üçlüsü (hipotansiyon, boyun venlerinde dolgunluk, kalp seslerinin uzaklaşması)'
-- Göğüs duvarında giriş yarası, morarma ve subkütan amfizem; hemoptizi akciğer parenkim yaralanmasını
-  düşündürür
+- "**Tension pnömotoraks**: ilerleyici nefes darlığı, tek tarafta **solunum sesi yokluğu**, boyun venlerinde dolgunluk, **trakeanın karşıya kayması**, hipotansiyon"
+- "**Massif hemotoraks**: tek tarafta solunum seslerinin silinmesi ve kanama şoku; tüp torakostomide hemen **1500 mL** kan veya saatte **200-300 mL** sürekli kan"
+- "**Flail göğüs**: en az üç bitişik kaburgada çift kırık (**ATLS 10. baskıda en az iki** kabul edilir); kırık segmentin ters yönde (**paradoksal**) hareketi ve altında akciğer kontüzyonu"
+- "**Kardiyak tamponat**: **Beck üçlüsü** (hipotansiyon, boyun venlerinde dolgunluk, kalp seslerinin uzaklaşması)"
+- "Göğüs duvarında giriş yarası, morarma ve **subkütan amfizem**; **hemoptizi** akciğer parenkim yaralanmasını düşündürür"
 patognomonik: null
-ilk_tetkik: ABCDE yaklaşımı ve göğüs grafisi; tension pnömotoraks klinik tanıdır, grafide zaman kaybı
-  yapılmaz; stabil hastada BT ile aort ve iç organ yaralanmaları değerlendirilir
-kesin_tani: 'Klinik ve görüntüleme birlikteliği: tension pnömotoraks yalnızca klinik tanı; hemotoraks
-  tüp torakostomiyle kanın dışarı alınması; eFAST ile perikard sıvısı ve serbest sıvı; BT aort yaralanması
-  ve iç organ hasarını gösterir'
-ilk_tedavi: Tension pnömotoraksta derhal iğne dekompresyonu (ATLS 10. baskıya göre erişkinde 5. kaburga arası, ön koltuk altı hattından)
-  ve ardından tüp torakostomi; massif hemotoraksta geniş çaplı tüp torakostomi, kan ve sıvı desteği, kanama
-  sürüyorsa acil torakotomi; oksijen, ağrı kontrolü ve gerektiğinde solunum desteği temel
-klasik_komplikasyon: Tension pnömotoraksta kardiyak arrest; massif hemotoraksta kanama şoku; geç dönemde
-  empiyem ve kilitli akciğer
+ilk_tetkik: "**ABCDE** yaklaşımı ve **göğüs grafisi**; **tension pnömotoraks klinik tanıdır**, grafide zaman kaybı yapılmaz. Stabil hastada **BT** ile aort ve iç organ yaralanmaları değerlendirilir"
+kesin_tani: "Klinik ve görüntüleme birlikteliği: **tension pnömotoraks yalnızca klinik tanı**; hemotoraks **tüp torakostomi**yle kanın dışarı alınması; **eFAST** ile perikard sıvısı ve serbest sıvı; **BT** aort yaralanması ve iç organ hasarını gösterir"
+ilk_tedavi: "**Tension pnömotoraksta derhal iğne dekompresyonu** (ATLS 10. baskıya göre erişkinde **5. kaburga arası**, **ön koltuk altı hattından**) ve ardından **tüp torakostomi**; **Massif hemotoraksta** geniş çaplı **tüp torakostomi**, kan ve sıvı desteği, kanama sürüyorsa **acil torakotomi**; oksijen, ağrı kontrolü ve gerektiğinde solunum desteği temel"
+klasik_komplikasyon: "Tension pnömotoraksta **kardiyak arrest**; massif hemotoraksta **kanama şoku**; geç dönemde **empiyem** ve **kilitli akciğer**"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-84
 - tus-2014-sonbahar-ktbt-82

@@ -8,18 +8,18 @@ sources:
 ad: COVID-19
 taksonomi:
   - [ktbt, enfeksiyon_hastaliklari, enf_solunum, enf_sol_covid]
-tipik_hasta: "Kış aylarında ateş, öksürük ve yorgunlukla başvuran hasta; ileri yaş, kronik akciğer-kalp hastalığı, diyabet, obezite ve bağışıklık yetersizliği olanlarda ağır seyir riski öne çıkar"
-patofizyoloji: "SARS-CoV-2, solunum yolu epitelinde ACE2 reseptörü aracılığıyla hücreye girer; enfeksiyon çoğu kez üst solunum yoluyla sınırlı kalır, alt solunum yoluna indiğinde diffüz alveoler hasar, sistemik inflamasyon ve damar iç pıhtılaşma eğilimiyle ağır tablo oluşur. Aşılama ve geçirilmiş enfeksiyon hastalığın ağırlığını azaltır"
+tipik_hasta: "Kış aylarında **ateş, öksürük ve yorgunluk**la başvuran hasta. **İleri yaş**, **kronik akciğer-kalp hastalığı**, **diyabet**, **obezite** ve **bağışıklık yetersizliği** olanlarda **ağır seyir** riski öne çıkar"
+patofizyoloji: "**SARS-CoV-2**, solunum yolu epitelinde **ACE2 reseptörü** aracılığıyla hücreye girer; enfeksiyon çoğu kez **üst solunum yoluyla** sınırlı kalır. **Alt solunum yoluna** indiğinde **diffüz alveoler hasar**, **sistemik inflamasyon** ve **damar iç pıhtılaşma** eğilimiyle ağır tablo oluşur. **Aşılama** ve **geçirilmiş enfeksiyon** hastalığın ağırlığını azaltır"
 anahtar_bulgular:
-  - "Ateş, kuru öksürük, yaygın kas ağrısı, yorgunluk; koku ve tat kaybı tanıyı destekleyen çarpıcı bir bulgudur"
-  - "Sessiz hipoksemi: satürasyonun düşük olmasına karşın hastanın az bozuk görünmesi"
-  - "Risk grubunda saatlerle hızla kötüleşen solunum yetmezliği"
-  - "Antijen hızlı test veya nükleik asit testinin pozitifliği"
-  - "Görüntülemede iki taraflı, periferik yerleşimli buzlu cam görünümler"
+- "Ateş, **kuru öksürük**, yaygın kas ağrısı, yorgunluk; **koku ve tat kaybı** tanıyı destekleyen çarpıcı bir bulgudur"
+- "**Sessiz hipoksemi**: **satürasyon**un düşük olmasına karşın hastanın az bozuk görünmesi"
+- "Risk grubunda saatlerle hızla kötüleşen **solunum yetmezliği**"
+- "**Antijen hızlı test** veya **nükleik asit testi**nin pozitifliği"
+- "Görüntülemede iki taraflı, periferik yerleşimli **buzlu cam görünümler**"
 patognomonik: null
-ilk_tetkik: "Antijen hızlı test veya nükleik asit testi; her hastada oksijen satürasyonu ölçülür (hafif görünenlerde bile); risk grubunda tam kan sayımı, kreatinin, karaciğer enzimleri, D-dimer ve toraks görüntüleme"
-kesin_tani: "Nükleik asit amplifikasyon (PCR) testinin pozitifliği; antijen testi semptomatik hastada klinik tanıyı destekler"
-ilk_tedavi: "Hafif hastalıkta destekleyici tedavi; ağır seyir riski olan hastada antiviral, belirtilerin başlangıcından itibaren sayılı günle sınırlı etkili pencere içinde başlanır (nirmatrelvir-ritonavir, pencere genellikle beş gün). Oksijen gereksinimi doğan hastada deksametazon ve hastane yönetimi uygulanır"
-klasik_komplikasyon: "Akut solunum sıkıntısı sendromuna ilerleyen hipoksemik solunum yetmezliği; venöz tromboembolizm; haftalar-aylar süren yorgunluk ve bilişsel yakınmalar (uzun COVID)"
+ilk_tetkik: "**Antijen hızlı test** veya **nükleik asit testi**; her hastada **oksijen satürasyonu** ölçülür (**hafif görünenlerde bile**). Risk grubunda **tam kan sayımı**, **kreatinin**, **karaciğer enzimleri**, **D-dimer** ve **toraks görüntüleme**"
+kesin_tani: "**Nükleik asit amplifikasyon (PCR)** testinin pozitifliği; **antijen testi** semptomatik hastada klinik tanıyı destekler"
+ilk_tedavi: "Hafif hastalıkta **destekleyici tedavi**; ağır seyir riski olan hastada **antiviral**, sayılı günle sınırlı pencerede başlanır (**nirmatrelvir-ritonavir**, pencere genellikle **beş gün**). **Oksijen gereksinimi** doğan hastada **deksametazon** ve hastane yönetimi uygulanır"
+klasik_komplikasyon: "**Akut solunum sıkıntısı sendromu**na ilerleyen **hipoksemik solunum yetmezliği**; **venöz tromboembolizm**; haftalar-aylar süren yorgunluk ve bilişsel yakınmalar (**uzun COVID**)"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

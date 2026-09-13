@@ -8,19 +8,19 @@ ad: Polifarmasi
 taksonomi:
   - [ktbt, aile_hekimligi, ah_akilci_ilac_evde_bakim, ah_ai_polifarmasi]
   - [ktbt, dahiliye, dah_geriatri, dah_ger_polifarmasi]
-tipik_hasta: "Çoklu kronik hastalığı nedeniyle birkaç uzmandan ayrı ayrı reçete alan 65 yaş ve üzeri hasta; her uzman kendi alanındaki ilacı yazar, bir hekim diğerinin listesinden habersizdir, hastanın kendisi de ne içtiğini tam bilmez. Yorgunluk, iştahsızlık, unutkanlık ya da düşme gibi belirsiz şikayetlerle aile hekimine veya acile getirilir"
-patofizyoloji: "Yaşlanmayla farmakokinetik değişir: glomerüler filtrasyon ve karaciğer kan akımı azalır, vücutta yağ oranı artıp su hacmi azalır; lipofilik ilaçlar uzun süre vücutta kalır, yarı ömürler uzar ve doz birikimi başlar. Farmakodinamik duyarlılık da artar: yaşlı sinir sistemi ve baroreseptör yanıtı ilaca karşı kırılgandır. Çok sayıda ilaç etkileşim kapısını açar; ayrıca bir yan etki yeni hastalık sanılıp üstüne yeni ilaç yazılırsa reçete kendi kendine büyür (reçeteleme şelalesi). Beş ve üzeri düzenli ilaç eşiği, düşme, deliryum ve etkileşim riskinde belirgin artışla ilişkilidir"
+tipik_hasta: "Çoklu kronik hastalığı nedeniyle birkaç uzmandan ayrı ayrı reçete alan **65 yaş ve üzeri** hasta; her hekim diğerinin listesinden habersizdir. Hasta ne içtiğini tam bilmez; **yorgunluk**, iştahsızlık, unutkanlık ya da **düşme** gibi belirsiz şikayetlerle başvurur"
+patofizyoloji: "Yaşlanmayla **farmakokinetik** değişir: **glomerüler filtrasyon** ve karaciğer kan akımı azalır; lipofilik ilaçlar uzun kalır, **yarı ömürler** uzar. Farmakodinamik duyarlılık da artar: yaşlı **sinir sistemi** ve **baroreseptör** yanıtı kırılgandır, çok sayıda ilaç **etkileşim** kapısı açar. Bir yan etki yeni hastalık sanılıp üstüne ilaç yazılırsa reçete kendi kendine büyür (**reçeteleme şelalesi**). **Beş ve üzeri** düzenli ilaç eşiği, **düşme**, **deliryum** ve etkileşim riskinde belirgin artışla ilişkilidir"
 anahtar_bulgular:
-  - "Beş ve üzeri düzenli ilaç kullanımı (polifarmasiyi tanımlayan eşik)"
-  - "Birden fazla hekimden gelen, birbirinden habersiz reçeteler; hasta listeyi eksik anlatır"
-  - "Belirsiz şikayetler: yorgunluk, iştahsızlık, kilo kaybı, kafa karışıklığı, halsizlik"
-  - "Düşme, ortostatik hipotansiyon, deliryum; yeni ilaç eklenince şikayetlerin artması"
-  - "Reçetede yaşlıda uygunsuz ilaçlar: uzun etkili benzodiyazepin, antikolinerjikler, birinci nesil antihistaminikler, NSAİİ (glikokortikoidler her zaman kaçınılacak PIM değildir, duruma özgüdür)"
-  - "Şikayetin yeni hastalık sanılıp onun üstüne yeni ilaç yazılması (reçeteleme şelalesi)"
+  - "**Beş ve üzeri** düzenli ilaç kullanımı (polifarmasiyi tanımlayan **eşik**)"
+  - "Birden fazla hekimden gelen, birbirinden habersiz **reçeteler**; hasta listeyi eksik anlatır"
+  - "Belirsiz şikayetler: **yorgunluk**, iştahsızlık, kilo kaybı, **kafa karışıklığı**, halsizlik"
+  - "**Düşme**, **ortostatik hipotansiyon**, **deliryum**; yeni ilaç eklenince şikayetlerin artması"
+  - "Yaşlıda uygunsuz ilaçlar (PIM): **uzun etkili benzodiyazepin**, **antikolinerjikler**, **birinci nesil antihistaminikler**, **NSAİİ**"
+  - "**Reçeteleme şelalesi**: şikayetin yeni hastalık sanılıp üstüne yeni ilaç yazılması"
 patognomonik: null
-ilk_tetkik: "İlaç envanteri ilk adımdır: hastadan tüm ilaçlarını (reçeteli ve reçetesiz olanlar, bitkisel ürünler, damlalar ve deri yamaları dahil) yanında getirmesi istenir; etkileşimler kontrol edilir, böbrek ve karaciğer fonksiyonlarına göre doz uygunluğu gözden geçirilir; temel laboratuvar (tam kan sayımı, böbrek, elektrolit) istenir"
-kesin_tani: "Kesin laboratuvar tanısı yoktur; ilaç sayımı ile uygunluk kriterleri birlikte kullanılır. Beş ve üzeri düzenli ilaç polifarmasiyi tanımlar; uygunsuz ilaçları saptamak için Beers Kriterleri ve STOPP-START listeleri kullanılır ve hastanın reçetesi bu ölçütlere göre faydası zararından fazla olan, gerek duymadığı ya da yanlış dozlarda kullanılan ilaçlar açısından değerlendirilir"
-ilk_tedavi: "Deprescribing, yani planlı ilaç azaltma temel yaklaşımdır: önce yüksek riskli ve faydası belirsiz ilaçlar (uzun etkili benzodiyazepinler, antikolinerjikler, birinci nesil antihistaminikler) hedeflenir. Her seferinde tek ilaç azaltılır veya kesilir ve hasta yakın izlenir; sıra öncelik listesiyle belirlenir, hasta, bakıcı ve reçete yazan hekimlerle iş birliği yapılır. İlaç öğrenimi, tek cinsten hazırlanmış ilaç listesi, hatırlatıcı düzenekler ve düzenli gözden geçirme uyumu artırır; ilaç eklemek yerine nedeni ortadan kaldırmak ikinci hekim muayenesinde bile akılda tutulmalıdır"
-klasik_komplikasyon: "İlaç etkileşimleri, düşme ve kırıklar, deliryum; gereksiz tedavi zincirinin uzaması ve hastaneye yatış"
+ilk_tetkik: "**İlaç envanteri** ilk adım: tüm ilaçların (reçeteli-reçetesiz, **bitkisel ürünler**, damlalar, deri yamaları) yanında getirtilmesi. **Etkileşim** kontrolü, böbrek-karaciğer fonksiyonuna göre **doz uygunluğu** gözden geçirilir; temel laboratuvar (tam kan sayımı, böbrek, **elektrolitler**)"
+kesin_tani: "Kesin laboratuvar tanısı yoktur; **ilaç sayımı** ile uygunluk kriterleri birlikte kullanılır. **Beş ve üzeri** düzenli ilaç polifarmasiyi tanımlar; uygunsuz ilaçlar için **Beers Kriterleri** ve **STOPP-START** listeleri kullanılır"
+ilk_tedavi: "**Deprescribing** (planlı ilaç azaltma) temel yaklaşımdır: önce yüksek riskli ve faydası belirsiz ilaçlar (**uzun etkili benzodiyazepinler**, **antikolinerjikler**, **birinci nesil antihistaminikler**) hedeflenir. Her seferinde **tek ilaç** azaltılır veya kesilir, hasta yakın izlenir; hasta, bakıcı ve reçete yazan hekimle iş birliği. **İlaç listesi**, hatırlatıcı düzenekler ve düzenli gözden geçirme uyumu artırır; ilaç eklemek yerine **nedeni ortadan kaldırmak**"
+klasik_komplikasyon: "**İlaç etkileşimleri**, **düşme** ve **kırıklar**, **deliryum**; gereksiz tedavi zincirinin uzaması ve **hastaneye yatış**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

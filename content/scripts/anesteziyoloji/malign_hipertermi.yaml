@@ -12,36 +12,35 @@ taksonomi:
   - anesteziyoloji
   - anes_komplikasyonlar
   - anes_kp_malign_hipertermi
-tipik_hasta: Genç hastada volatil anestezik (halotan, izofluran, sevofluran) veya suksinilkolin verilmesini
-  izleyen dakika-saat içinde gelişen tablo; maske devri boyunca kasların sertleşmesi, hızla yükselen soluk
-  sonu karbondioksit düzeyi, taşikardi ve ileri evrede aşırı ateşle seyreden hipermetabolik kriz
-patofizyoloji: 'RYR1 gen mutasyonu (bazı olgularda CACNA1S) iskelet kasında kalsiyum salınım kanalını
-  tetikleyici ajanlara aşırı duyarlı kılar; volatil anestezikler ve suksinilkolin sarkoplazmik retikulumdan
-  kalsiyumun kontrolsüz çıkışını başlatır. Kas kendini gevşetemez, sürekli kasılır; ATP tükendikçe mitokondriyal
-  oksidatif metabolizma yetmez ve anaerobik glikoliz laktik asidoza yol açar; hücre zarı bozulup potasyum
-  dışarı çıkar, hiperkalemi gelişir. Isının büyük bölümü bu kontrolsüz kasılma ve metabolik ateşlemeden
-  gelir; bu nedenle ateş geç bulgudur. Ayırt edilecek yanlış mantık: düzeltilmesi gereken bozukluk hiperkalsemi
-  değil, hiperkalemi ve asidozdur.'
+tipik_hasta: 'Genç hastada **volatil anestezik** (halotan, izofluran, sevofluran) veya **suksinilkolin**
+  verilmesini izleyen dakika-saat içinde gelişen tablo; **maske devrinde** kas sertleşmesi, hızla yükselen
+  **soluk sonu karbondioksit**, taşikardi ve ileri evrede **aşırı ateş**'
+patofizyoloji: '**RYR1** mutasyonu (bazı olgularda **CACNA1S**) kas kalsiyum salınım kanalını tetikleyici ajanlara
+  aşırı duyarlı kılar; **volatil anestezikler** ve **suksinilkolin** sarkoplazmik retikulumdan **kalsiyumun**
+  kontrolsüz çıkışını başlatır. Kas gevşeyemez, sürekli kasılır; **ATP** tükendikçe **anaerobik glikoliz**
+  laktik asidoza yol açar, hücre zarı bozulup **potasyum** dışarı çıkar (**hiperkalemi**). Isının büyük bölümü
+  kontrolsüz kasılma ve metabolik ateşlemeden gelir; **ateş geç bulgudur**. Düzeltilmesi gereken bozukluk
+  **hiperkalsemi değil**, **hiperkalemi ve asidozdur**'
 anahtar_bulgular:
-- İndüksiyonu veya maske devrini izleyen dakikalarda kasların sertleşmesi (önce masseter) ve gevşememesi
-- Hiperventilasyona rağmen hızla yükselen soluk sonu karbondioksit (ETCO2) düzeyi
-- Taşikardi ve aritmiler
-- 'Geç bulgu: hızla yükselen vücut ısısı (fulminan tabloda her 5 dakikada 1-2 derece yükselebilir, 42 dereceyi aşabilir)'
-- Kan gazında karışık (respiratuvar artı metabolik) asidoz, laktat yüksekliği, serum potasyum artışı
-- Koyu kahverengi idrar (miyoglobinüri) ve kreatin kinazda belirgin artış
-patognomonik: Volatil anestezik veya suksinilkolini izleyen genelleşmiş kas rijiditesi ile birlikte beklenmedik
-  hiperkapni
-ilk_tetkik: Arteriyel kan gazı ve elektrolitler (öncelikle potasyum), ETCO2 ve vücut ısısı izlemi; kreatin
-  kinaz ve idrar miyoglobin kontrolü
-kesin_tani: Akut dönemde klinik tablo ve dantrolene yanıt; kesinleştirme için kas biyopsisinde in vitro
-  kafein-halotan kontraktür testi veya moleküler genetik test (RYR1)
-ilk_tedavi: Tetikleyici ajanları derhal kesilir, yüzde yüz oksijenle yüksek dakika hacmi ile hiperkapni
-  düzeltilir; dantrolen 2,5 mg/kg IV bolus başlanır ve bulgular gerileyene kadar tekrarlanır (gerekiyorsa
-  10 mg/kg ve üzeri); hastaya soğutma uygulanır; hiperkalemi insülin-glikoz, asidoz gerekiyorsa bikarbonat
-  ile düzeltilir; idrar çıkışını korumak için sıvı verilir (miyoglobinürik böbrek hasarına karşı) ve idrar
-  çıkışı izlenir
-klasik_komplikasyon: Hiperkalemik aritmi ve kalp durması; miyoglobinürik akut böbrek hasarı; tedavisiz
-  seyrinde yüksek mortalite
+- 'İndüksiyon veya **maske devrini** izleyen dakikalarda kasların sertleşmesi (önce **masseter**) ve gevşememesi'
+- '**Hiperventilasyona** rağmen hızla yükselen **soluk sonu karbondioksit (ETCO2)** düzeyi'
+- '**Taşikardi** ve aritmiler'
+- 'Geç bulgu: hızla yükselen **vücut ısısı** (fulminan tabloda **5 dakikada 1-2 derece**, **42 dereceyi**
+  aşabilir)'
+- 'Kan gazında **karışık asidoz** (respiratuvar + metabolik), **laktat** yüksekliği, serum **potasyum** artışı'
+- '**Koyu kahverengi idrar** (**miyoglobinüri**) ve **kreatin kinaz**da belirgin artış'
+patognomonik: '**Volatil anestezik** veya **suksinilkolini** izleyen genelleşmiş **kas rijiditesi** ile birlikte
+  beklenmedik **hiperkapni**'
+ilk_tetkik: '**Arteryel kan gazı** ve elektrolitler (öncelikle **potasyum**), **ETCO2** ve vücut ısısı izlemi;
+  **kreatin kinaz** ve idrar **miyoglobin** kontrolü'
+kesin_tani: 'Akut dönemde klinik tablo ve **dantrolene yanıt**; kesinleştirme için kas biyopsisinde **in vitro
+  kafein-halotan kontraktür testi** veya **moleküler genetik test (RYR1)**'
+ilk_tedavi: 'Tetikleyici ajanlar **derhal kesilir**, yüzde yüz oksijenle yüksek dakika hacmiyle hiperkapni
+  düzeltilir. **Dantrolen 2,5 mg/kg IV** bulgular gerileyene kadar tekrarlanır (gerekiyorsa **10 mg/kg** ve
+  üzeri), hastaya **soğutma** uygulanır. **Hiperkalemi** **insülin-glikoz** ile, asidoz gerekirse **bikarbonat**
+  ile düzeltilir; **miyoglobinürik böbrek hasarına** karşı sıvı verilir ve idrar çıkışı izlenir'
+klasik_komplikasyon: '**Hiperkalemik aritmi** ve **kalp durması**; **miyoglobinürik akut böbrek hasarı**; tedavisiz
+  seyrinde **yüksek mortalite**'
 tus_gecmisi:
 - tus-2017-sonbahar-ktbt-103
 kart_uret:

@@ -7,19 +7,19 @@ sources:
 ad: Vokal Kord Paralizisi
 taksonomi:
   - [ktbt, kbb, kbb_larinks, kbb_lr_vokal_kord_paralizisi]
-tipik_hasta: "Klasik hasta, tiroid veya boyun cerrahisinden hemen sonra sesi boğuklaşan ve yutarken öksüren hastadır. İdiopatik tip orta yaşta, viral üst solunum yolu enfeksiyonu sonrası ani başlar. Diğer nedenler: boyun ve göğüs cerrahileri, malignite, travma, nörolojik hastalıklar"
-patofizyoloji: "Nervus laryngeus recurrens vokal kord kaslarının neredeyse tamamını besler; göğüs boşluğundan boyuna uzun yol izlediği için cerrahi ve tümör açısından savunmasızdır. Sol kord aort kavisini dolandığı için yolu daha uzundur ve sol paraliziler daha sıktır. Tek taraflı paralizide kord paramedyan konumda kalır, glottiste boşluk oluşur; sonuç sesin boğuk-çifte çıkması ve glottisin kapanamaması nedeniyle aspirasyondur. İki taraflı paralizide glottik açıklık ciddi derecede daralır; ses görece korunur ama hava yolu ön plandadır (ses iyi, solunum kötü paradoksu). Nervus laryngeus superior dış dalının hasarı ayrıca krikotiroid kasını devreden çıkarıp ses tonu-gerilme kaybı yapar"
+tipik_hasta: "Klasik hasta, **tiroid veya boyun cerrahisi**nden hemen sonra sesi **boğuklaşan** ve yutarken **öksüren** hastadır. **İdiopatik** tip **orta yaş**ta, **viral üst solunum yolu enfeksiyonu** sonrası **ani** başlar. Diğer nedenler: **boyun ve göğüs cerrahileri**, **malignite**, **travma**, **nörolojik hastalıklar**"
+patofizyoloji: "**Nervus laryngeus recurrens** vokal kord kaslarının neredeyse tamamını besler; **göğüs boşluğundan boyuna uzun yol** izlediği için cerrahi ve tümör açısından **savunmasızdır**. **Sol kord** **aort kavisini** dolandığı için yolu daha uzundur ve **sol paraliziler daha sıktır**. **Tek taraflı** paralizide kord **paramedyan** konumda kalır, glottiste boşluk oluşur; sonuç sesin **boğuk-çifte** çıkması ve glottisin kapanamaması nedeniyle **aspirasyon**dur. **İki taraflı** paralizide glottik açıklık ciddi derecede daralır; ses **görece korunur** ama **hava yolu** ön plandadır (**ses iyi, solunum kötü** paradoksu). **Nervus laryngeus superior** dış dalının hasarı ayrıca **krikotiroid** kasını devreden çıkarıp **ses tonu-gerilme kaybı** yapar"
 anahtar_bulgular:
-  - "Boğuk, çifte (havalı) ses; konuşurken hızla yorulan hasta"
-  - "Yutarken öksürme ve aspirasyon; sıvı yutmada zorlanma"
-  - "Tiroid, özofagus, kardiyotorasik veya boyun cerrahisi öyküsü"
-  - "Endoskopide vokal kordun paramedyan konumda hareketsizliği"
-  - "İki taraflı hastada stridor ve egzersizle solunum sıkıntısı, sesin görece iyi kalması"
-  - "İdiopatik olgularda soğuk algınlığı sonrası ani ses kaybı"
-patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — Endoskopik laringoskopide tek vokal kordun paramedyan konumda tamamen hareketsiz kalması"
-ilk_tetkik: "Fiberoptik (endoskopik) laringoskopi ile kordların konumu ve mobilitesinin değerlendirilmesi; ses kaydının alınması"
-kesin_tani: "Laringoskopik muayene ile kord hareket kaybının gösterilmesi; neden için boyun ve toraks BT, tiroid ultrasonu, gerektiğinde sistemik-nörolojik hastalık araştırması yapılır"
-ilk_tedavi: "Tek taraflı olgularda altı-on iki aya kadar spontan iyileşme bekleme penceresi; bu arada ses terapisi ve sıvı içiminde dikkat; kalıcı paralizide enjeksiyon veya implantla kord medializasyonu. İki taraflı olgularda hava yolu önceliklidir; erken dönemde trakeostomi gerekebilir, sonrasında posterior glottik genişletme veya aritenoidektomi ile hava yolu açılır"
-klasik_komplikasyon: "Tek taraflı paralizide aspirasyon ve tekrarlayan pnömoni; iki taraflı paralizide kalıcı hava yolu darlığı ve trakeostomi ihtiyacı; kronik ses yorgunluğu"
+- "**Boğuk, çifte (havalı) ses**; konuşurken hızla **yorulan** hasta"
+- "**Yutarken öksürme** ve **aspirasyon**; **sıvı** yutmada zorlanma"
+- "**Tiroid**, **özofagus**, **kardiyotorasik** veya **boyun cerrahisi** öyküsü"
+- "**Endoskopi**de vokal kordun **paramedyan** konumda **hareketsizliği**"
+- "**İki taraflı** hastada **stridor** ve egzersizle **solunum sıkıntısı**, sesin görece **iyi** kalması"
+- "**İdiopatik** olgularda **soğuk algınlığı** sonrası **ani ses kaybı**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — endoskopik laringoskopide tek vokal kordun **paramedyan konumda tamamen hareketsiz** kalması"
+ilk_tetkik: "**Fiberoptik (endoskopik) laringoskopi** ile kordların **konum**u ve **mobilite**sinin değerlendirilmesi; **ses kaydının** alınması"
+kesin_tani: "**Laringoskopik muayene** ile **kord hareket kaybı**nın gösterilmesi; neden için **boyun ve toraks BT**, **tiroid ultrasonu**, gerektiğinde **sistemik-nörolojik hastalık** araştırması yapılır"
+ilk_tedavi: "**Tek taraflı** olgularda **altı-on iki aya** kadar **spontan iyileşme** bekleme penceresi; bu arada **ses terapisi** ve **sıvı içiminde** dikkat, kalıcı paralizide **enjeksiyon veya implantla kord medializasyonu**. **İki taraflı** olgularda **hava yolu** önceliklidir; erken dönemde **trakeostomi** gerekebilir, sonrasında **posterior glottik genişletme** veya **aritenoidektomi** ile hava yolu açılır"
+klasik_komplikasyon: "**Tek taraflı** paralizide **aspirasyon** ve **tekrarlayan pnömoni**; **iki taraflı** paralizide kalıcı **hava yolu darlığı** ve **trakeostomi** ihtiyacı; **kronik ses yorgunluğu**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

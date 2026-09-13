@@ -11,34 +11,38 @@ taksonomi:
   - dahiliye
   - dah_hematoloji
   - dah_hem_ttp_hus
-tipik_hasta: Klasik form orta yaş kadında; konfüzyon, baş ağrısı, nöbet ya da fokal nörolojik bulgu, hâlsizlik
-  ve ekimozla birlikte gelen; gebelik, HIV, bazı ilaçlar (tiklopidin/klopidogrel) ya da metastatik kanser
-  bağlamında gelişebilir; laboratuvarda Coombs negatif hemoliz ve trombositopeni saptanan acil hasta
-patofizyoloji: ADAMTS13 proteazının (ultra-büyük von Willebrand multimerlerini kesen enzim) otoantikorla
-  bloke olması (edinilmiş tip; konjenital tipte Upshaw-Schulman sendromu). Dev vWF multimerleri endotel
-  yüzeyinde trombosit agregasyonunu başlatır; mikrovasküler trombüsler beyin, kalp ve böbrekte iskemi
-  yapar. Trombositler trombüslerde tükenir (trombositopeni); eritrositler dar mikroanjiyoda sürtünerek
-  parçalanır (şistosit, mekanik hemoliz, LDH yüksekliği, haptoglobin düşüklüğü, Coombs negatif)
+tipik_hasta: 'Klasik form orta yaş **kadında**; konfüzyon, baş ağrısı, **nöbet** ya da fokal nörolojik bulgu,
+  hâlsizlik ve ekimozla gelen. **Gebelik**, **HIV**, bazı ilaçlar (**tiklopidin/klopidogrel**) veya metastatik
+  kanser bağlamında gelişebilir. **Coombs negatif hemoliz** + **trombositopeni** saptanan acil hasta'
+patofizyoloji: '**ADAMTS13** proteazının (ultra-büyük **von Willebrand** multimerlerini kesen enzim) **otoantikor**la
+  bloke olması (edinilmiş tip; konjenital tipte **Upshaw-Schulman** sendromu). Dev **vWF** multimerleri
+  endotel yüzeyinde trombosit agregasyonunu başlatır; **mikrovasküler trombüs**ler beyin, kalp ve böbrekte
+  iskemi yapar. Trombositler trombüslerde tükenir (**trombositopeni**); eritrositler dar mikroanjiyoda
+  parçalanır (**şistosit**, mekanik hemoliz, **LDH** yüksekliği, **haptoglobin** düşüklüğü, Coombs negatif)'
 anahtar_bulgular:
-- 'Mikroanjiopatik hemolitik anemi: periferik yaymada şistosit, LDH belirgin yüksek, haptoglobin düşük,
-  Coombs testi negatif'
-- Trombositopeni (genellikle 50 bin altı) ve kanama bulguları
-- 'Nörolojik bulgular: konfüzyon, baş ağrısı, jeneralize nöbet, fokal defisit, bilinç bulanıklığı'
-- Böbrek tutulumu hafif (kreatinin yalnızca hafif yüksek; ağır böbrek yetmezliği HUS lehine işarettir)
-- ADAMTS13 aktivitesinde ciddi düşüklük (yüzde 10 altı) ve inhibitör pozitifliği (edinilmiş tip)
-- Ateş; tam beşli (hemoliz, trombositopeni, nörolojik bulgu, böbrek tutulumu, ateş) her hastada yoktur
+- '**Mikroanjiopatik hemolitik anemi**: periferik yaymada **şistosit**, **LDH** belirgin yüksek, **haptoglobin**
+  düşük, **Coombs** testi negatif'
+- '**Trombositopeni** (genellikle **50 bin** altı) ve kanama bulguları'
+- 'Nörolojik bulgular: konfüzyon, baş ağrısı, **jeneralize nöbet**, **fokal defisit**, bilinç bulanıklığı'
+- 'Böbrek tutulumu **hafif** (kreatinin yalnızca hafif yüksek; ağır böbrek yetmezliği **HUS** lehine işarettir)'
+- '**ADAMTS13** aktivitesinde ciddi düşüklük (**yüzde 10** altı) ve **inhibitör** pozitifliği (edinilmiş
+  tip)'
+- '**Ateş**; tam **beşli** (hemoliz, trombositopeni, nörolojik bulgu, böbrek tutulumu, ateş) her hastada
+  yoktur'
 patognomonik: null
-ilk_tetkik: Tam kan sayımı, retikülosit, LDH, haptoglobin, direkt Coombs testi, periferik yayma, kreatinin
-  ve pıhtılaşma testleri (PT/aPTT normal kalır; bu, yaygın damar içi pıhtılaşmadan ayırt edici noktadır);
-  şüpheli olguda ADAMTS13 aktivitesi ve inhibitörü
-kesin_tani: 'Klinik örüntü: mikroanjiopatik hemoliz (şistosit + LDH yüksek + Coombs negatif) + trombositopeni
-  + hafif böbrek tutulumu + pıhtılaşma testlerinin normali; kesinleştirme ADAMTS13 aktivitesinin yüzde
-  10 altına inmesiyle konur; plazmaferez gecikmeden başlanacağı için tanı çoğu hastada klinik olarak konur'
-ilk_tedavi: Tanı düşünülür düşünülmez, ADAMTS13 sonucu beklenmeksizin günlük plazmaferez (plazma değişimi)
-  acil olarak başlanır; inhibitöre karşı yüksek doz kortikosteroid (metilprednizolon) eklenir. Refrakter
-  ya da nüks olgularda rituksimab; trombosit transfüzyonu kontrendikedir (trombozu alevlendirir), yalnızca
-  yaşamı tehdit eden kanamada göze alınır
-klasik_komplikasyon: Tedavi gecikirse yüksek ölüm; mikrovasküler trombozla beyin, kalp ve böbrek iskemisi
+ilk_tetkik: 'Tam kan sayımı, **retikülosit**, **LDH**, **haptoglobin**, **direkt Coombs**, **periferik yayma**,
+  kreatinin ve pıhtılaşma testleri (**PT/aPTT normal** kalır); şüpheli olguda **ADAMTS13 aktivitesi** ve
+  inhibitörü'
+kesin_tani: '**Klinik örüntü**: **mikroanjiopatik hemoliz** (şistosit + LDH yüksek + Coombs negatif) + **trombositopeni**
+  + hafif böbrek tutulumu + **pıhtılaşma testlerinin normali**. Kesinleştirme **ADAMTS13** aktivitesinin
+  **yüzde 10** altına inmesiyle konur; **plazmaferez** gecikmeden başlanacağından tanı çoğu hastada klinik
+  olarak konur'
+ilk_tedavi: 'Tanı düşünülür düşünülmez, **ADAMTS13** sonucu beklenmeksizin günlük **plazmaferez** (plazma
+  değişimi) acil başlanır; inhibitöre karşı **yüksek doz kortikosteroid (metilprednizolon)** eklenir. Refrakter
+  ya da nüks olgularda **rituksimab**; **trombosit transfüzyonu kontrendikedir** (trombozu alevlendirir),
+  yalnızca yaşamı tehdit eden kanamada göze alınır'
+klasik_komplikasyon: 'Tedavi gecikirse **yüksek ölüm**; **mikrovasküler tromboz**la beyin, kalp ve böbrek
+  **iskemisi**'
 tus_gecmisi:
 - tus-2016-ilkbahar-ktbt-20
 - tus-2021-sonbahar-ktbt-19

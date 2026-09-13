@@ -11,32 +11,35 @@ taksonomi:
   - kardiyoloji
   - kard_endokardit_miyokard_perikard
   - kard_em_perikardiyal_efuzyon_tamponad
-tipik_hasta: Göğüs travması ya da kalp girişimi (koroner kateterizasyon, kalp pili tel takılması, endomyokard
-  biyopsisi, kalp cerrahisi) sonrasında ani tansiyon düşüşü ve nefes darlığıyla gelen hasta; ya da malignite,
-  tüberküloz, perikardit gibi perikard sıvısı nedeni olan hastada giderek derinleşen konjesyon tablosu
-patofizyoloji: Perikard kesesi belirli bir hacme kadar genişler; hızla biriken sıvı ya da kan bu kapasiteyi
-  aşınca kesenin içindeki basınç yükselir. Dıştan artan basınç, kalp boşluklarının diastolde açılıp dolmasını
-  engeller; dolum azaldıkça atım hacmi ve tansiyon düşer, kalp hızını ve damar direncini artıran telafi
-  mekanizmaları devreye girer. Atrium ve ventrikül dolum basınçları birbirine yaklaşır, nefes alırken
-  sağ kalbe dönen kan artıp sol tarafın dolumunu daha da kısıtlar; bu esneklik, pulsus paradoxus'un temelidir
+tipik_hasta: "**Göğüs travması** ya da kalp girişimi (**koroner kateterizasyon**, kalp pili tel takılması,
+  **endomyokard biyopsisi**, kalp cerrahisi) sonrasında ani **tansiyon düşüşü** ve **nefes darlığı**yla
+  gelen hasta. Ya da malignite, **tüberküloz**, **perikardit** gibi perikard sıvısı nedeni olan hastada
+  giderek derinleşen **konjesyon** tablosu"
+patofizyoloji: "Hızla biriken sıvı ya da kan perikard kapasitesini aşınca kesenin içindeki basınç yükselir;
+  dıştan artan basınç, kalp boşluklarının **diastolde açılıp dolmasını** engeller. Dolum azaldıkça **atım
+  hacmi** ve tansiyon düşer; kalp hızını ve damar direncini artıran telafi mekanizmaları devreye girer.
+  Atrium ve ventrikül dolum basınçları birbirine yaklaşır; nefes alırken sağ kalbe dönen kan artıp **sol
+  tarafın dolumunu** daha da kısıtlar — bu esneklik **pulsus paradoxus**'un temelidir"
 anahtar_bulgular:
-- 'Beck üçlüsü: damar içi basınç düşüklüğü, boyun venlerinde dolgunluk ve kalp seslerinin boğuklaşması'
-- 'Pulsus paradoxus: nefes alırken sistolik tansiyonda on mmHg''den büyük bariz düşme'
-- Elektrokardiyogramda düşük voltaj ve elektrik alternansı
-- Telede kalp gölgesinin su sürahi biçiminde genişlemesi (hızlı gelişen olgularda olmayabilir)
-- Ekokardiyografide geniş perikardiyal efüzyon, diyastolde sağ atrium ve sağ ventrikül çökmesi, alt kava
-  venin dolgun ve çökmemesi
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Ekokardiyografide diyastolik sağ ventrikül çökmesi (tamponad fizyolojisinin doğrudan kanıtı)
-ilk_tetkik: Yatak başında ekokardiyografi; girişimsel ya da egzersizli bir test gerekmez, tanı aracı ekokardiyografinin
-  kendisidir
-kesin_tani: Klinik tablo (Beck bulguları, pulsus paradoxus) ile ekokardiyografik kanıtın (geniş efüzyon,
-  diyastolde sağ boşluk çökmesi, alt kava dolgunluğu) birlikte olması; tamponad klinik ve hemodinamik
-  tanıdır, sıvı görülmesi tek başına yetmez
-ilk_tedavi: Acil perikardiyosentez (ekokardiyografi eşliğinde iğne aspirasyonu, gerektiğinde cerrahi pencere);
-  aspirasyon beklenirken damar içi sıvı verip ön yükü desteklemek; negatif inotropik ve damar gevşetici
-  ilaçlardan kaçınmak
-klasik_komplikasyon: Tedavi edilmediğinde ilerleyen kardiyojenik şok ve kalp durması; perikardiyosentez
-  sırasında ventrikül delinmesi gibi girişim kaynaklı kanama
+- "**Beck üçlüsü**: damar içi basınç düşüklüğü, **boyun venlerinde dolgunluk** ve **kalp seslerinin
+  boğuklaşması**"
+- "**Pulsus paradoxus**: nefes alırken sistolik tansiyonda **10 mmHg'den büyük** bariz düşme"
+- "EKG'de **düşük voltaj** ve **elektrik alternansı**"
+- "Telede kalp gölgesinin **su sürahi** biçiminde genişlemesi (hızlı gelişen olgularda olmayabilir)"
+- "Ekokardiyografide **geniş perikardiyal efüzyon**, **diyastolde sağ atrium ve sağ ventrikül çökmesi**,
+  **alt kava venin** dolgun ve çökmemesi"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — ekokardiyografide **diyastolik sağ
+  ventrikül çökmesi** (tamponad fizyolojisinin doğrudan kanıtı)"
+ilk_tetkik: "Yatak başında **ekokardiyografi**; girişimsel ya da egzersizli bir test gerekmez, tanı
+  aracı **ekokardiyografi**nin kendisidir"
+kesin_tani: "**Klinik tablo** (**Beck bulguları**, **pulsus paradoxus**) ile **ekokardiyografik kanıt**ın
+  birlikte olması: **geniş efüzyon**, **diyastolde sağ boşluk çökmesi**, **alt kava dolgunluğu**.
+  Tamponad **klinik ve hemodinamik tanı**dır; sıvı görülmesi tek başına yetmez"
+ilk_tedavi: "**Acil perikardiyosentez** (ekokardiyografi eşliğinde **iğne aspirasyonu**, gerektiğinde
+  **cerrahi pencere**). Aspirasyon beklenirken damar içi **sıvı** verip **ön yükü** desteklemek.
+  **Negatif inotropik** ve **damar gevşetici** ilaçlardan kaçınmak"
+klasik_komplikasyon: "Tedavi edilmediğinde ilerleyen **kardiyojenik şok** ve **kalp durması**.
+  Perikardiyosentez sırasında **ventrikül delinmesi** gibi girişim kaynaklı **kanama**"
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-41
 - tus-2018-ilkbahar-ktbt-10

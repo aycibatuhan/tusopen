@@ -12,35 +12,19 @@ taksonomi:
   - kbb
   - kbb_larinks
   - kbb_lr_yabanci_cisim
-tipik_hasta: 'Klasik hasta 6 ay-3 yaş arası çocuk: oyun sırasında fındık, çekirdek veya mısır lokmasını
-  ağzına alır ve ani öksürük-boğulma nöbetiyle başvurur (çocukta çiğneme olgunlaşmamış, öksürük refleksi
-  zayıftır). Yetişkinde konuşurken-gülerken yemek yerken aspirasyon klasiktir; nörolojik hastalığı olan
-  ve bilinci açık olmayan hasta da risklidir'
-patofizyoloji: 'Cisim en sık sağ ana bronşa girer; sağ bronş sol bronştan daha geniş ve daha dikey seyrelidir.
-  Kısmi tıkanmada valf etkisi oluşur: hava girişi kolay, çıkışı zordur; hava periferik alveollerde hapsolup
-  obstrüktif amfizem yapar ve iki akciğer arasında aeraj farkı doğar. Tam tıkanmada distal havasızlıkla
-  atelektazi gelişir. Organik cisimler (fındık, fıstık) mukozada şişer ve güçlü iltihabi tepki yapar;
-  metal-plastik cisimler daha yavaş tahriş eder. Laringeal yerleşim ani stridor ve hava yolu tehlikesi
-  yapar; bronşik yerleşim ise aylarca sessiz kalıp tekrarlayan pnömoni kaynağı olur'
+tipik_hasta: "Klasik hasta **6 ay-3 yaş** arası **çocuk**: oyun sırasında **fındık**, **çekirdek** veya mısır lokmasını ağzına alır; **ani öksürük-boğulma nöbeti**yle başvurur (çocukta çiğneme olgunlaşmamış, **öksürük refleksi** zayıftır). Yetişkinde **konuşurken-gülerken yemek yerken** aspirasyon klasiktir; **nörolojik hastalığı** olan ve **bilinci açık olmayan** hasta da risklidir"
+patofizyoloji: "Cisim en sık **sağ ana bronşa** girer; sağ bronş sol bronştan daha **geniş ve dikey** seyrelidir. **Kısmi tıkanmada valf etkisi** oluşur: hava girişi kolay, çıkışı zordur; hava periferik alveollerde hapsolup **obstrüktif amfizem** yapar ve iki akciğer arasında **aeraj farkı** doğar. **Tam tıkanmada** distal havasızlıkla **atelektazi** gelişir. **Organik cisimler** (fındık, fıstık) mukozada şişer ve güçlü **iltihabi tepki** yapar; **metal-plastik** cisimler daha yavaş tahriş eder. **Laringeal** yerleşim ani **stridor** ve hava yolu tehlikesi yapar; **bronşik** yerleşim ise aylarca sessiz kalıp **tekrarlayan pnömoni** kaynağı olur"
 anahtar_bulgular:
-- Sağlıklı çocukta ani başlayan öksürük nöbeti ve Boğulma anı öyküsü
-- Tek taraflı hışırtı (wheezing) veya iki akciğer arasında aeraj farkı
-- Nefes alırken cırlama-stridor (laringeal yerleşim)
-- Sebebi açıklanamayan, tekrarlayan tek akciğer pnömonisi (unutulmuş cisim)
-- Ekspiratuar grafide belirginleşen tek taraflı hava hapsi
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Ani başlayan öksürük-Boğulma öyküsüyle birlikte dinleme bulgularının iki tarafta aynı olmaması
-  (tek taraflı hışırtı veya aeraj farkı)
-ilk_tetkik: PA ve yan akciğer grafisi; şüpheli olguda ekspiratuar grafide hava hapsi aranır; organik cisim
-  grafide görünmez, bu yüzden grafide normal olması cismi dışlatmaz
-kesin_tani: Rijid bronkoskopi ile cismin görülmesi ve çıkarılması; şüphe sürdükçe tanısal amaçla da endoskopi
-  uygulanır
-ilk_tedavi: 'Tam tıkanma ve bilinci açık hastada acil manevra: 1 yaş üstü çocuğun ve yetişkinde
-  Heimlich, 1 yaş altında sırt vurma-göğüs basısı (1 yaş altında Heimlich uygulanmaz); hasta bilincini
-  yitirirse Heimlich terk edilir ve göğüs kompresyonlarıyla temel yaşam desteği başlanır. Rijid bronkoskopi
-  ile cismin çıkarılması esas tedavidir; çıkarma sırasında cismi daha derine sürmemeye dikkat; sonrasında
-  gözlem ve gerektiğinde iltihap için antibiyotik'
-klasik_komplikasyon: Valf etkisiyle obstrüktif amfizem; atelektazi; tekrarlayan pnömoni ve bronşektazi;
-  laringeal cisimde ani hava yolu tıkanması ve hipoksi; çıkarma sırasında cismin daha derine kayması
+- "Sağlıklı çocukta **ani başlayan öksürük nöbeti** ve **boğulma anı** öyküsü"
+- "**Tek taraflı hışırtı (wheezing)** veya iki akciğer arasında **aeraj farkı**"
+- "Nefes alırken **cırlama-stridor** (**laringeal** yerleşim)"
+- "Sebebi açıklanamayan, **tekrarlayan tek akciğer pnömonisi** (**unutulmuş cisim**)"
+- "**Ekspiratuar grafide** belirginleşen **tek taraflı hava hapsi**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **ani öksürük-boğulma öyküsü**yle dinleme bulgularının iki tarafta **aynı olmaması** (**tek taraflı hışırtı** veya **aeraj farkı**)"
+ilk_tetkik: "**PA ve yan akciğer grafisi**; şüpheli olguda **ekspiratuar grafide hava hapsi** aranır. **Organik cisim** grafide görünmez, bu yüzden grafide **normal olması** cismi dışlatmaz"
+kesin_tani: "**Rijid bronkoskopi** ile cismin görülmesi ve çıkarılması; şüphe sürdükçe **tanısal amaçla** da **endoskopi** uygulanır"
+ilk_tedavi: "**Tam tıkanma** ve bilinci açık hastada acil manevra: **1 yaş üstü** çocuğun ve yetişkinde **Heimlich**; **1 yaş altında** **sırt vurma-göğüs basısı** (1 yaş altında **Heimlich** uygulanmaz). Hasta **bilincini yitirirse** Heimlich terk edilir ve **göğüs kompresyonlarıyla temel yaşam desteği** başlanır. **Rijid bronkoskopi** ile cismin çıkarılması **esas tedavidir**; çıkarma sırasında cismi **daha derine sürmemeye** dikkat; sonrasında gözlem ve gerektiğinde iltihap için **antibiyotik**"
+klasik_komplikasyon: "**Valf etkisiyle obstrüktif amfizem**; **atelektazi**; **tekrarlayan pnömoni** ve **bronşektazi**; **laringeal cisimde ani hava yolu tıkanması** ve **hipoksi**; çıkarma sırasında cismin **daha derine kayması**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-67
 - tus-2018-sonbahar-ktbt-55

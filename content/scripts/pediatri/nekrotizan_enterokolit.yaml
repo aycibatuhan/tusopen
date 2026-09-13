@@ -12,44 +12,20 @@ taksonomi:
   - pediatri
   - ped_neonatoloji
   - ped_neo_nek
-tipik_hasta: 32 haftanın altındaki prematüre bebek (en sık 29-32 hafta) veya düşük doğum ağırlıklı yenidoğan;
-  enteral besleme başladıktan sonraki ilk 2-3 hafta içinde, çoğu kez yatışın stabil döneminde aniden beslenme
-  toleransının bozulması, karnın şişmesi ve gaitada kanla başvurur. Prematüritelik en önemli risk faktörüdür;
-  formülle beslenen bebeklerde anne sütü alanlara göre risk belirgin yüksektir
-patofizyoloji: 'Olgunlaşmamış bağırsak bariyeri (yetersiz mukus bariyeri, sıkı bağlantıların gelişmemişliği,
-  mukozal bağışıklığın olgunlaşmamışlığı) ile formülle gelen patojen bakteriyel kolonizasyon ve dolaşım dalgalanmalarına
-  bağlı mukozal iskemi bir araya gelir; Toll-benzeri reseptör-4 aracılı aşırı inflamasyon mukozal nekroza
-  yol açar. Bakteriler bağırsak duvarında gaz üretince radyolojik olarak pnömatosis intestinalis görülür;
-  süreç transmural nekroza ve bağırsak perforasyonuna ilerleyebilir. Risk faktörleri: prematüritelik,
-  formül besleme, hızlı hacim artışı, perinatal asfiksya, anemi veya polisitemi, yoğun bakım ünitesi
-  girişimleri'
+tipik_hasta: "**32 haftanın altındaki prematüre** bebek (en sık **29-32 hafta**) veya **düşük doğum ağırlıklı** yenidoğan; **Enteral besleme** başladıktan sonraki ilk **2-3 hafta** içinde aniden **beslenme toleransının bozulması**, karnın şişmesi ve **gaitada kan**la başvurur; **Prematüritelik** en önemli risk faktörü; **formülle beslenen** bebekte risk, anne sütü alanlara göre belirgin yüksek"
+patofizyoloji: "**Olgunlaşmamış bağırsak bariyeri** + formülle gelen **patojen bakteriyel kolonizasyon** + dolaşım dalgalanmalarına bağlı **mukozal iskemi**; **Toll-benzeri reseptör-4** aracılı **aşırı inflamasyon mukozal nekroza** yol açar. Bakteriler duvarda gaz üretince grafide **pnömatosis intestinalis** görünür; süreç **transmural nekroza** ve **perforasyona** ilerleyebilir"
 anahtar_bulgular:
-- 'Beslenme toleransının bozulması: mide kalıntısının artması, kusma, abdominal distansiyon'
-- Gaitada görünür kan veya gizli kan
-- 'Sistemik bulgular: apne atakları, bradikardi, letarji, sıcaklık instabilitesi, solukluk, kan şekeri
-  dengesizliği'
-- Radyolojide pnömatosis intestinalis — bağırsak duvarı içinde gaz; ayrıca portal venöz gaz; perforasyonda
-  karın boşluğunda serbest hava
-- Karın duvarında kızarıklık-morarma (ileri evre, nekroza işaret)
-- 'Laboratuvar: trombositopeni, CRP artışı, metabolik asidoz, elektrolit bozuklukları'
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Abdominal grafide pnömatosis intestinalis — bağırsak duvarı içinde gaz görünümü (Bell evre
-  2 tanısını kesinleştirir)
-ilk_tetkik: Abdominal grafisi (yatar ve ayakta/yandan pozisyonlarda) — pnömatosis intestinalis, portal
-  ven gazı ve serbest hava araştırılır; tam kan sayımı, CRP, kan gazı, elektrolitler ve kan kültürü
-kesin_tani: 'Klinik bulgular ve abdominal grafideki pnömatosis intestinalis ile konur; Bell evreleme kullanılır:
-  Evre 1 (şüpheli) nonspesifik bulgular, Evre 2 (kesin) klinik bulgulara eklenmiş pnömatosis intestinalis,
-  Evre 3 (ileri) şok, asidoz, yaygın damar içi pıhtılaşma bozukluğu ve belirgin hastalık (IIIA perforasyonsuz ilerleme, IIIB perforasyonlu)
-  hastalık'
-ilk_tedavi: 'Enteral besleme hemen durdurulur, nazogastrik dekompresyon yapılır; damar yolu sıvıları ve
-  parenteral besleme başlanır; geniş spektrumlu damar içi antibiyotik (ampicillin + gentamisin veya üçüncü
-  kuşak sefalosporin, anaerobik örtü için metronidazol eklenir) 7-14 gün sürdürülür; şokta sıvı resüsitasyonu
-  ve gerekirse inotrop verilir. Cerrahi endikasyonlar: karın boşluğunda serbest hava (perforasyon), evre
-  3 tablo ve antibiyotiğe rağmen klinik kötüleşmedir; hastalıklı bağırsak rezeksiyonu ile stoma veya primer
-  anastomoz yapılır. Önleme kendi annesinin sütüyle beslemeyi ve kademeli (yavaş) besleme artışını içerir;
-  probiyotik kullanımı tartışmalıdır'
-klasik_komplikasyon: Bağırsak perforasyonu ve peritonit; geniş rezeksiyon sonrası kısa bağırsak sendromu;
-  iyileşenlerde geç dönem intestinal darlık (stenoz); yenidoğan döneminin en ağır cerrahi tablolarından
-  biri olarak ölüm riski
+- "**Beslenme toleransının bozulması**: mide kalıntısının artması, kusma, **abdominal distansiyon**"
+- "**Gaitada görünür kan** veya **gizli kan**"
+- "Sistemik bulgular: **apne atakları**, **bradikardi**, **letarji**, **sıcaklık instabilitesi**, solukluk, **kan şekeri dengesizliği**"
+- "Radyolojide **pnömatosis intestinalis** (bağırsak duvarı içinde gaz); ayrıca **portal venöz gaz**; perforasyonda **serbest hava**"
+- "Karın duvarında **kızarıklık-morarma** (ileri evre, **nekroza** işaret)"
+- "Laboratuvar: **trombositopeni**, **CRP artışı**, **metabolik asidoz**, elektrolit bozuklukları"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **abdominal grafide pnömatosis intestinalis** (bağırsak duvarı içinde gaz) — **Bell evre 2**'yi kesinleştirir"
+ilk_tetkik: "**Abdominal grafisi** (yatar ve ayakta/yandan): **pnömatosis intestinalis**, **portal ven gazı** ve **serbest hava** araştırılır; **Tam kan sayımı**, **CRP**, **kan gazı**, elektrolitler ve **kan kültürü**"
+kesin_tani: "**Klinik bulgular** + abdominal grafideki **pnömatosis intestinalis** ile konur; **Bell evreleme** kullanılır; **Evre 1** (şüpheli) nonspesifik bulgular; **evre 2** (kesin) klinik bulgulara eklenmiş **pnömatosis intestinalis**; **Evre 3** (ileri): şok, asidoz, **yaygın damar içi pıhtılaşma bozukluğu**; **IIIA** perforasyonsuz, **IIIB** perforasyonlu"
+ilk_tedavi: "**Enteral besleme hemen durdurulur**, **nazogastrik dekompresyon**; damar yolu sıvıları ve **parenteral besleme**; **Geniş spektrumlu IV antibiyotik** (**ampisilin + gentamisin** veya üçüncü kuşak **sefalosporin**, anaerob örtü **metronidazol**) **7-14 gün**; **Şokta** sıvı resüsitasyonu, gerekirse **inotrop**; **Cerrahi endikasyonlar**: karın boşluğunda **serbest hava** (perforasyon), **evre 3**, antibiyotiğe rağmen **klinik kötüleşme**; **rezeksiyon** ile stoma veya primer anastomoz"
+klasik_komplikasyon: "**Bağırsak perforasyonu** ve **peritonit**; geniş rezeksiyon sonrası **kısa bağırsak sendromu**. İyileşenlerde geç dönem **intestinal darlık (stenoz)**; **ölüm riski** (yenidoğan döneminin en ağır cerrahi tablolarından)"
 tus_gecmisi:
 - tus-2021-sonbahar-ktbt-72
 kart_uret:

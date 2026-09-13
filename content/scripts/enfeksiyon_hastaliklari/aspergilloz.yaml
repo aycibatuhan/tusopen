@@ -11,37 +11,20 @@ taksonomi:
   - enfeksiyon_hastaliklari
   - enf_mantar
   - enf_mn_aspergilloz
-tipik_hasta: Uzun süreli (on günden uzun) nötropenik hasta — akut lösemi kemoterapisi alan ya da hematopoietik
-  kök hücre nakli alıcısı —; yüksek doz kortikosteroid ya da T hücre baskılayıcı alan hasta; kronik granülomatöz
-  hastalığı olan çocuk; geniş spektrumlu antibiyotiğe yanıt vermeyen ateşle birlikte göğüs ağrısı, hemoptizi,
-  burun sinüslerinde ağrı-şişlik ve öksürükle başvuran baskılanmış bağışıklıklı hasta
-patofizyoloji: Aspergillus türleri (en sık Aspergillus fumigatus) havada dolaşan küçük sporlarla yayılır;
-  bağışıklık baskılanmış konakta sporlar filizlenip septalı hif dokusuna girer. Hifler damar duvarını
-  deler (damar invazyonu); sonuç tromboz, enfarkt ve kanamalı nekrozdur — invaziv aspergillozun özü budur.
-  Nötrofil yetersizliğinde hastalık hızlanır; damar yoluyla yayılım beyin (abse), deri, göz (endoftalmi),
-  kemik ve kalp de olabilir. Bağışıklığı normal konakta (astım, eski kavernöz tüberküloz) alerjik bronkopulmoner
-  aspergillozis ve aspergilloma (mantar topu) görülür; bunlar invaziv doku penetrasyonu yapmadığı için
-  bu betimleme invaziv formu anlatır
+tipik_hasta: "Uzun süreli (**on günden uzun**) **nötropenik** hasta — akut lösemi kemoterapisi ya da **kök hücre nakli** alıcısı. **Yüksek doz kortikosteroid** ya da **T hücre baskılayıcı** alan hasta; **kronik granülomatöz hastalığı** olan çocuk. Geniş spektrumlu **antibiyotiğe yanıt vermeyen ateş**, **hemoptizi**, sinüslerde ağrı-şişlik ve öksürükle gelen baskılanmış konak"
+patofizyoloji: "Havada dolaşan küçük **sporlar** baskılanmış konakta filizlenip **septalı hif** dokusuna girer; en sık etken **Aspergillus fumigatus**. Hifler damar duvarını deler (**damar invazyonu**); sonuç tromboz, **enfarkt** ve kanamalı **nekrozdur**. Damar yoluyla yayılım beyin (**abse**), deri, göz (**endoftalmi**), kemik ve kalp de olabilir. Bağışıklığı normal konakta **alerjik bronkopulmoner aspergilloz** ve **aspergilloma** (mantar topu) görülür; bunlar invaziv değildir"
 anahtar_bulgular:
-- Nötropenik hastada geniş spektrumlu antibiyotiğe rağmen süren (yanıt vermeyen) ateş
-- Göğüs bilgisayarlı tomografide nodül çevresinde bulutlu gölge (halo işareti); nötropeni toparlarken
-  nodül içinde hava yarım ay (air crescent) görüntüsü
-- Hemoptizi — damar invazyonuna bağlı, ağırlaşma işareti
-- Galaktomannan antijeninin serumda ve bronkoalveolar lavaj sıvısında pozitifliği; beta-D glukan da artar
-- Boya ve kültürde septalı, dar (akut) açıyla dallanan hiflerin gösterimi — klasik mikroskop resmi
-- 'Yayılım bulguları: merkezi sinir sistemi (abses, odak nörolojik defisit), göz tutulumu, deride ağrılı
-  nodüller'
-patognomonik: Tipik bulgu (patognomonik değildir) — Dokuda septalı hiflerin dar (akut) açıyla dallanması — invaziv aspergillozun ayırt edici
-  histolojik görünümü
-ilk_tetkik: Göğüs bilgisayarlı tomografisi (halo ve hava yarım ay işaretleri), serum ve bronkoalveolar
-  lavaj sıvısında galaktomannan antijeni; tam kan sayımıyla nötrofil düzeyi ve burun-sinüs değerlendirmesi
-kesin_tani: Steril dokuda biyopsiyle histopatolojik gösterim artı kültürde üreme; doku alınamayan baskılanmış
-  konakta EORTC-MSG ölçütleri (konak faktörü artı klinik görüntüleme artı mikoloji) ile olası tanı
-ilk_tedavi: Vorikonazol birinci seçenek (damar içiyle başlanır, sonrasında oral devam); alternatifler
-  izavukonazol, pozakonazol ve lipidal amfoterisin B; kurtarma tedavisinde ekokandin (kaspofungin). Nötropenin
-  düzeltilmesi (koloni uyarıcı faktör) tedavinin parçasıdır; kontrol edilemeyen kanamada cerrahi
-klasik_komplikasyon: Akciğer enfarktı ve masif hemoptizi; damar yoluyla santral sinir sistemi yayılımı
-  ve beyin absesi; invaziv rinosinüzit içinde göz çevresi-yüz damar tutulumu
+- "**Nötropenik** hastada geniş spektrumlu **antibiyotiğe yanıt vermeyen ateş**"
+- "Göğüs **bilgisayarlı tomografi**sinde nodül çevresinde **halo işareti**; nötropeni toparlarken nodül içinde **air crescent** (hava yarım ay)"
+- "**Hemoptizi** — damar invazyonuna bağlı, ağırlaşma işareti"
+- "**Galaktomannan** antijeni serumda ve **BAL** sıvısında pozitif; **beta-D glukan** da artar"
+- "Boya-kültürde **septalı, dar (akut) açıyla dallanan hifler** — klasik mikroskop resmi"
+- "Yayılım bulguları: **santral sinir sistemi** abse ve odak defisit, **göz tutulumu**, deride ağrılı nodüller"
+patognomonik: "Patognomonik değil; tipik bulgu — dokuda **septalı hiflerin dar (akut) açıyla dallanması** — invaziv aspergillozun ayırt edici histolojik görünümü"
+ilk_tetkik: "Göğüs **bilgisayarlı tomografisi** (**halo** ve **air crescent** işaretleri); serum ve **bronkoalveolar lavaj** sıvısında **galaktomannan**; **tam kan sayımı**yla nötrofil düzeyi, burun-sinüs değerlendirmesi"
+kesin_tani: "Steril dokuda **histopatolojik gösterim** artı **kültür**de üreme; doku alınamayan baskılanmış konakta **EORTC-MSG** ölçütleri (konak faktörü artı klinik görüntüleme artı mikoloji) ile olası tanı"
+ilk_tedavi: "Birinci seçenek **vorikonazol** (damar içiyle başlanır, sonrasında oral devam). Alternatifler **izavukonazol**, **pozakonazol**, **lipidal amfoterisin B**; kurtarmada **ekokandin** (kaspofungin). **Nötropeninin düzeltilmesi** (koloni uyarıcı faktör) tedavinin parçası; kontrol edilemeyen kanamada **cerrahi**"
+klasik_komplikasyon: "**Akciğer enfarktı** ve **masif hemoptizi**; damar yoluyla **santral sinir sistemi** yayılımı ve **beyin absesi**; invaziv rinosinüzitte göz çevresi-yüz **damar tutulumu**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ttbt-61
 - tus-2018-ilkbahar-ttbt-68

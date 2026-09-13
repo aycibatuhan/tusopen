@@ -8,17 +8,17 @@ sources:
 ad: Postoperatif Bulantı ve Kusma
 taksonomi:
   - [ktbt, anesteziyoloji, anes_komplikasyonlar, anes_kp_bulanti_kusma]
-tipik_hasta: "Kadın, sigara içmeyen, geçmişte PONV ya da araç tutması öyküsü olan, volatil anestezik ve postoperatif opioid alan hasta; bu risk faktörlerinin her biri riski kabaca yüzde 20'ye yakın artırır ve toplamda kısa bir skora (Apfel) dayanarak profilaksi planlanır"
-patofizyoloji: "Volatil anestezikler, opioidler ve cerrahi stres beyindeki bulantı-kusma merkezini çok kanaldan tetikler: area postrema (kemoreseptör tetik bölge), vestibüler sistem, gastrointestinal afferentler ve yüksek merkezlerden gelen sinyaller dopamin, serotonin, asetilkolin (muskarinik) ve histamin yolları üzerinden bütünleşir. 5HT3 reseptörleri hem tetik bölgede hem de vagal afferentlerde yoğundur; cerrahi ve opioid bağırsaktan serotonin salınımını artırdığı için bu yol özellikle önemli hale gelir ve 5HT3 antagonistlerinin hedefi olur"
+tipik_hasta: "**Kadın**, **sigara içmeyen**, geçmişte **PONV** ya da **araç tutması** öyküsü olan, **volatil anestezik** ve **postoperatif opioid** alan hasta. Her faktör riski kabaca **yüzde 20**ye yakın artırır; **Apfel** skoruna göre profilaksi planlanır"
+patofizyoloji: "Volatil anestezikler, opioidler ve cerrahi stres bulantı-kusma merkezini çok kanaldan tetikler. Girdiler: **area postrema** (kemoreseptör tetik bölge), **vestibüler sistem**, **Gİ afferentler**; yollar: **dopamin**, **serotonin**, **asetilkolin**, **histamin**. **5HT3** tetik bölgede ve **vagal afferent**lerde yoğundur; cerrahi-opioid bağırsak serotoninini artırınca **5HT3 antagonisti** hedef olur"
 anahtar_bulgular:
-  - "Anestezi sonrası ilk 24-48 saatte bulantı, kusma ve öğürme (retching)"
-  - "Apfel skoru dört faktörlüdür: kadın cinsiyet, sigara içmemek, PONV öyküsü, postoperatif opioid kullanımı; her biri yaklaşık yüzde 20'ye yakın risk ekler (volatil anestezik de risk faktörüdür ama skora girmez)"
-  - "Tekrarlayan kusmada dehidratasyon ve elektrolit kaybı"
-  - "Şiddetli kusmada cerrahi dikiş hattının zorlanması, özofagus mukozasında yırtılma (Mallory-Weiss tipi)"
+  - "Anestezi sonrası ilk **24-48 saatte** bulantı, kusma ve **öğürme (retching)**"
+  - "**Apfel** skoru dört faktör: **kadın**, **sigara içmemek**, **PONV öyküsü**, **postoperatif opioid**; her biri **yüzde 20**ye yakın risk ekler (volatil anestezik skora girmez)"
+  - "Tekrarlayan kusmada **dehidratasyon** ve **elektrolit kaybı**"
+  - "Şiddetli kusmada **dikiş hattının** zorlanması, özofagus mukozasında yırtılma (**Mallory-Weiss**)"
 patognomonik: null
-ilk_tetkik: "Klinik tanıdır; preoperatifte Apfel skorlamasıyla risk saptanır ve risk ne kadar yüksekse profilaksi o kadar erken planlanır"
-kesin_tani: "Anestezi ve cerrahiyle zamansal ilişkili bulantı-kusma klinik olarak tanınır; opioid, intraabdominal gerginlik veya tümör gibi benzer tablo yapabilecek başka nedenler öykü ve muayeneyle dışlanır"
-ilk_tedavi: "Risk sayısına göre profilaksi: tek risk faktöründe tek ajan, iki ve üzeri faktörde farklı sınıflardan kombinasyon (tipik olarak 5HT3 antagonisti ve deksametazon; gerekirse droperidol eklenir). Tedavi gerektiğinde profilakside kullanılandan farklı bir sınıftan ajan seçilir; ilk basamak 5HT3 antagonisti (ondansetron) mantığı, tetik bölgedeki ve vagal afferentlerdeki serotonin reseptörlerini bloke etmektir"
-klasik_komplikasyon: "Dehidratasyon ve elektrolit bozukluğu; aspirasyon riski; cerrahi dikişte açılma; ambulatuvar hastada beklenmedik hastaneye yatış"
+ilk_tetkik: "**Klinik tanı**; preoperatifte **Apfel** skorlamasıyla risk saptanır, risk yüksekse profilaksi erken planlanır"
+kesin_tani: "Anestezi ve cerrahiyle **zamansal ilişkili** bulantı-kusma klinik olarak tanınır; **opioid**, intraabdominal gerginlik veya **tümör** gibi benzer tablo yapabilecek nedenler dışlanır"
+ilk_tedavi: "Risk sayısına göre profilaksi: tek faktörde **tek ajan**, iki ve üzeri faktörde farklı sınıflardan **kombinasyon** (**5HT3 antagonisti** artı **deksametazon**; gerekirse **droperidol**). Tedavide profilaksideki sınıftan **farklı sınıf** seçilir; ilk basamak **5HT3 antagonisti (ondansetron)** — tetik bölge ve **vagal afferent** serotonin reseptörlerinin bloğu"
+klasik_komplikasyon: "**Dehidratasyon** ve **elektrolit bozukluğu**; **aspirasyon** riski; **dikişte açılma**; ambulatuvar hastada beklenmedik **hastaneye yatış**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

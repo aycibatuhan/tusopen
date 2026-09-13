@@ -16,51 +16,20 @@ taksonomi:
   - aile_hekimligi
   - ah_ruh_sagligi
   - ah_rs_depresyon_anksiyete
-tipik_hasta: Her yaşta görülebilen, en sık 20-40 yaşlarında başlayan ve tanı sıklığı kadınlarda yaklaşık
-  iki kat olan hasta; 'çöktüğümü hissediyorum' demek yerine yorgunluk, yaygın ağrı, uykusuzluk gibi somatik
-  yakınmalarla aile hekimliğine ya da genel polikliniğe başvurur. Kronik hastalık (diyabet, miyokard infarktüsü
-  sonrası, kanser), hipotiroidi, ağır yaşam olayları veya ailede duygudurum bozukluğu öyküsü bu hastayı
-  hatırlatır
-patofizyoloji: 'Tek bir mekanizmaya indirgenemez: Monoamin hipotezi, sinaptik aralıkta serotonin, noradrenalin
-  ve dopamin işlev yetersizliğini öne sürer ve SSRI/SNRI etkinliği bunu destekler; ancak antidepresan
-  klinik faydasının haftalarca gecikmesi bu hipotezi tek başına yetersiz kılar. Bugünkü anlayış, sinaptik
-  adaptasyona dayalı nöroplastisite bozukluğunu (BDNF azalması, hipokampal nörogenesiste gerileme), HPA
-  aksı aşırı aktivasyonunu (hiperkortizolemi, deksametazon baskılanamaması) ve amigdala-prefrontal ağ
-  işlev bozukluğunu birlikte ele alır; kalıtsal yatkınlık ile tetikleyici yaşam olayları etkileşir'
+tipik_hasta: "Her yaşta görülebilen, en sık **20-40 yaşlarında** başlayan ve tanı sıklığı kadınlarda **yaklaşık iki kat** olan hasta; 'çöktüğümü hissediyorum' demek yerine **yorgunluk, yaygın ağrı, uykusuzluk** gibi somatik yakınmalarla başvurur. **Kronik hastalık (diyabet, miyokard infarktüsü sonrası, kanser), hipotiroidi**, ağır yaşam olayları ve **ailede duygudurum bozukluğu** bu hastayı hatırlatır"
+patofizyoloji: "Tek bir mekanizmaya indirgenemez: **Monoamin hipotezi** — sinaptik aralıkta **serotonin, noradrenalin ve dopamin** yetersizliği; **SSRI/SNRI** etkinliği destekler ancak **klinik faydanın haftalarca gecikmesi** hipotezi tek başına yetersiz kılar. Bugünkü anlayış **nöroplastisite bozukluğunu** (**BDNF azalması**, hipokampal nörogenesiste gerileme), **HPA aksı aşırı aktivasyonunu** (**hiperkortizolemi**) ve **amigdala-prefrontal ağ** bozukluğunu birlikte ele alır"
 anahtar_bulgular:
-- En az 2 haftadır çoğu gün, günün büyük bölümünde süren çökkün duygudurum veya ilgi-zevk kaybı (anhedoni)
-  ile birlikte iş/okul/sosyal işlevsellikte kayıp — tanının temel eşiği
-- 'Bilişsel küme: değersizlik ve orantısız suçluluk düşünceleri, dikkat-konsantrasyon azalması, kararsızlık,
-  ölüm ya da intihar düşünceleri'
-- 'Vejetatif küme: uykusuzluk (özellikle sabaha karşı erken uyanma), iştah azalması-kilo kaybı, enerji
-  düşüklüğü, psikomotor yavaşlama; yakınmalar sabah saatlerinde en ağırdır'
-- 'Melankolik özellikler: sabahları kötüleşme, erken uyanma, belirgin anhedoni, iştahsızlık-kilo
-  kaybı ve psikomotor retardasyon önde — ''endojen'' kalitede tablo'
-- 'Atipik özellikler: duygudurumun güzel olaylara tepkiyle düzelmesi, hipersomni, iştah artışı-kilo alımı,
-  kol ve bacaklarda kurşun ağırlığı hissi; genç yaşta başlayıp kronikleşme eğilimindedir'
-- 'İntihar riskinin doğrudan sorgulanması: pasif-aktif düşünceler, plan, niyet ve geçmiş girişim — her
-  depresif hastada rutin olarak değerlendirilir'
+- "**En az 2 haftadır çoğu gün** süren **çökkün duygudurum veya ilgi-zevk kaybı (anhedoni)** ile birlikte iş/okul/sosyal işlevsellikte kayıp — **tanının temel eşiği**"
+- "**Bilişsel küme**: değersizlik ve orantısız **suçluluk**, dikkat-konsantrasyon azalması, **ölüm ya da intihar düşünceleri**"
+- "**Vejetatif küme**: uykusuzluk (özellikle **sabaha karşı erken uyanma**), iştah azalması-kilo kaybı, enerji düşüklüğü, **psikomotor yavaşlama**; yakınmalar **sabah saatlerinde en ağırdır**"
+- "**Melankolik özellikler**: **sabahları kötüleşme, erken uyanma**, belirgin anhedoni, iştahsızlık-kilo kaybı — **'endojen'** kalitede tablo"
+- "**Atipik özellikler**: duygudurumun **güzel olaylara tepkiyle düzelmesi**, **hipersomni**, **iştah artışı-kilo alımı**, kol-bacaklarda **kurşun ağırlığı hissi**"
+- "**İntihar riskinin doğrudan sorgulanması** — pasif-aktif düşünceler, plan, geçmiş girişim — **her depresif hastada rutin** yapılır"
 patognomonik: null
-ilk_tetkik: Tanı klinik psikiyatrik görüşmeye dayanır; laboratuvar tanıyı koymaz. PHQ-9 veya Beck Depresyon
-  Envanteri ile şiddet derecelendirilir; organik taklitleri (hipotiroidi, B12 eksikliği, anemi) dışlamak
-  için TSH, tam kan sayımı, B12 ve temel biyokimya istenir; steroid gibi ilaç etkileri ve madde kullanımı
-  sorgulanır. İntihar riski ayrıntılı değerlendirilir, yüksekse hastaneye yatış planlanır
-kesin_tani: DSM-5-TR ölçütlerine göre 9 belirtiden (çökkün duygudurum, anhedoni, iştah/kilo değişimi,
-  uyku bozukluğu, psikomotor aktivite değişimi, enerji azlığı, değersizlik-suçluluk, konsantrasyon bozukluğu,
-  ölüm/intihar düşünceleri) en az 5'inin — birinin çökkün duygudurum ya da anhedoni olması zorunlu — 2
-  hafta boyunca sürmesi ve belirgin sıkıntı ya da işlev kaybına yol açması; tablo bir maddeye/ilaca veya
-  başka bir tıbbi duruma bağlanamamalı ve hastada hiç manik/hipomanik dönem öyküsü olmamalı (öykü varsa
-  bipolar bozukluk tanısı öne geçer)
-ilk_tedavi: Hafif şiddette psikoterapi (özellikle bilişsel davranışçı terapi) tek başına ilk adım olabilir;
-  orta ve ağır tabloda SSRI ile psikoterapi birlikte verilir. SSRI seçiminde sertralin ve eskitalopram;
-  kardiyovasküler güvenlik ve az ilaç etkileşimi nedeniyle ilk seçenektir. Paroksetin antikolinerjik etkisi
-  ve kesilme sendromu riski nedeniyle yaşlılarda kaçınılır; fluoksetin aktivasyon yapar ama uzun yarı
-  ömrü sayesinde kesilme belirtisi çıkarmaz; sitalopram yüksek dozda QT uzatır. Yanıt 4-6. haftada değerlendirilir,
-  doz artışına yanıt yetmezse geçilir; ilk atakta iyileşme sonrası tedavi en az 6-9 ay sürdürülür. Psikotik
-  özellikli depresyon, katatoni, yüksek intihar riski, beslenmeyi tehlikeye atan gebelik depresyonu ve
-  ilaca dirençli tablolarda EKT en hızlı ve en etkili seçenektir
-klasik_komplikasyon: İntihar (en önemli ölümcül komplikasyon); tedavisiz bırakıldığında atakların kronikleşmesi,
-  tekrarlama sıklığının artması ve işlevsellikte kalıcı kayıp
+ilk_tetkik: "Tanı **klinik psikiyatrik görüşmeye** dayanır; laboratuvar tanıyı koymaz. **PHQ-9 veya Beck Depresyon Envanteri** ile şiddet derecelendirilir; organik taklitler dışlanır: **TSH, tam kan sayımı, B12**, temel biyokimya; **steroid** gibi ilaç etkileri ve madde kullanımı sorgulanır. **İntihar riski ayrıntılı değerlendirilir**, yüksekse **hastaneye yatış** planlanır"
+kesin_tani: "**DSM-5-TR ölçütlerine göre 9 belirtiden en az 5'i** — biri **çökkün duygudurum ya da anhedoni** olmak zorunlu — **2 hafta** boyunca. Belirgin **sıkıntı ya da işlev kaybına** yol açar; tablo **bir maddeye/ilaca veya başka bir tıbbi duruma** bağlanamamalı; hastada **hiç manik/hipomanik dönem olmamalı** — öykü varsa **bipolar bozukluk** tanısı öne geçer"
+ilk_tedavi: "Hafif şiddette **psikoterapi** (özellikle **bilişsel davranışçı**) tek başına ilk adım olabilir; orta-ağır tabloda **SSRI ile psikoterapi** birlikte verilir. SSRI seçiminde **sertralin ve eskitalopram** ilk seçenektir (kardiyovasküler güvenlik, az etkileşim); **paroksetin yaşlılarda kaçınılır** (antikolinerjik, kesilme sendromu); **sitalopram yüksek dozda QT uzatır**. Yanıt **4-6. haftada** değerlendirilir; ilk atakta iyileşme sonrası tedavi **en az 6-9 ay** sürdürülür. **Psikotik özellikli depresyon, katatoni, yüksek intihar riski ve dirençli tablolarda EKT** en hızlı ve en etkili seçenektir"
+klasik_komplikasyon: "**İntihar** — en önemli ölümcül komplikasyon; tedavisiz bırakıldığında **atakların kronikleşmesi**, tekrarlama sıklığının artması ve **işlevsellikte kalıcı kayıp**"
 tus_gecmisi:
 - tus-2015-ilkbahar-ttbt-104
 kart_uret:

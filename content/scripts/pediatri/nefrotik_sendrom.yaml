@@ -16,41 +16,20 @@ taksonomi:
   - dahiliye
   - dah_nefroloji
   - dah_nef_nefrotik
-tipik_hasta: En sık 2-4 yaşlarındaki (genel olarak 1-10 yaş) çocuğun sabahları belirgin periorbital şişlikle
-  — önce alerji sanılarak — başvurması; şişlik giderek ayak bileklerine, bacaklara, genital bölgeye ve
-  karna yayılır, idrar köpüklüdür. Bu yaş grubunda nefrotik sendromun en sık nedeni idiyopatik minimal
-  değişiklik hastalığıdır (çocuk olgularının yaklaşık yüzde 80-90'ı)
-patofizyoloji: Glomerüler süzme bariyerinde (podosit ve süzme slit diyafrağı) bozulma, selektif olarak
-  albumini içeren büyük moleküllerin idrara geçmesine yol açar. Hipoalbuminemi plazma onkotik basıncı
-  düşürür; sıvı damar dışına çıkarak periorbital ve bacak ödemi, asit ve plöral efüzyon yapar. Karaciğer
-  lipoprotein üretimi arttığı için hiperlipidemi gelişir. İdrarla antitrombin III ve immünglobülin kaybı
-  tromboz ve enfeksiyon eğilimini açıklar; hipovolemi eğilimi de vardır. Minimal değişiklik hastalığında
-  ışık mikroskobu ve immünofloresan normaldir, elektron mikroskobunda podosit ayak süreçlerinde füzyon
-  görülür; T hücre kaynaklı sirkülan permeabilite faktörü hipotezi ileri sürülür
+tipik_hasta: "En sık **2-4 yaşlarındaki** (genel olarak **1-10 yaş**) çocuğun **sabahları belirgin periorbital şişlikle** — önce alerji sanılarak — başvurması. Şişlik ayak bileklerine, bacaklara, genital bölgeye ve karna yayılır; **idrar köpüklüdür**. Bu yaş grubunda en sık neden **idiyopatik minimal değişiklik hastalığı** (çocuk olgularının yaklaşık **yüzde 80-90'ı**)"
+patofizyoloji: "**Glomerüler süzme bariyerinde** (podosit ve slit diyafrağında) bozulma, **albumini** içeren büyük moleküllerin idrara geçmesine yol açar; **Hipoalbuminemi** plazma **onkotik basıncı** düşürür; sıvı damar dışına çıkarak periorbital-bacak ödemi, **asit** ve **plöral efüzyon** yapar. Karaciğer **lipoprotein üretimi** arttığı için **hiperlipidemi** gelişir; idrarla **antitrombin III** ve immünglobülin kaybı **tromboz ve enfeksiyon** eğilimini açıklar; **Minimal değişiklik**te ışık mikroskobu ve immünofloresan normal; elektron mikroskobunda **podosit ayak süreçlerinde füzyon**"
 anahtar_bulgular:
-- Periorbital ödemle başlayıp jeneralize hale gelen ödem, asit, skrotal veya vulvar ödem
-- İdrarda ++++ protein; 24 saatlik idrar proteinüri günde 50 mg/kg üzeri veya 40 mg/m2/saat üzeri
-- Serum albumin düşüklüğü (2.5 g/dL altı)
-- Kolesterol ve trigliserid yüksekliği (hiperlipidemi)
-- Böbrek fonksiyonları çoğu kez korunur; mikrohematüri olabilir ama belirgin hematüri ve hipertansiyon
-  minimal değişiklik dışı nedenleri düşündürür
-- Hipoalbuminemiye bağlı halsizlik, iştahsızlık ve enfeksiyonlara yatkınlık
+- "Periorbital ödemle başlayıp **jeneralize** hale gelen ödem, **asit**, skrotal veya vulvar ödem"
+- "İdrarda **++++ protein**; 24 saatlik idrar proteinüri **günde 50 mg/kg üzeri** veya **40 mg/m2/saat üzeri**"
+- "**Serum albumin düşüklüğü** (**2.5 g/dL altı**)"
+- "**Kolesterol** ve **trigliserid** yüksekliği (**hiperlipidemi**)"
+- "**Böbrek fonksiyonları** çoğu kez korunur; mikrohematüri olabilir ama **belirgin hematüri ve hipertansiyon** minimal değişiklik dışı nedenleri düşündürür"
+- "**Hipoalbuminemi**ye bağlı halsizlik, iştahsızlık ve **enfeksiyonlara yatkınlık**"
 patognomonik: null
-ilk_tetkik: İdrar tetkiki ve spot idrar protein/kreatinin oranı; serum albumin, kolesterol, kreatinin
-  ve elektrolitler; tam kan sayımı; tedavi yanıtı için başlangıç ağırlığın kaydı
-kesin_tani: 'Dörtlü bulgu tanıyı kurar: belirgin proteinüri (günde 50 mg/kg üstü veya 40 mg/m2/saat üstü)
-  + hipoalbuminemi (2.5 g/dL altı) + ödem + hiperlipidemi. Çocukta böbrek biyopsisi rutin değildir; endikasyonlar:
-  steroid direnci, 10 yaşından büyük yaşta başlangıç, makroskopik hematüri, belirgin hipertansiyon veya
-  böbrek yetmezliği ve sistemik hastalık bulgularıdır'
-ilk_tedavi: Prednizon/prednizolon 60 mg/m2/gün (maksimum 60-80 mg/gün) 4-6 hafta, ardından gün aşırı 40
-  mg/m2 ile 4 hafta sürdürme standart başlangıçtır; steroid yanıtın alınması hem tanısal hem tedavisel
-  önemi taşır (minimal değişiklik neredeyse her zaman yanıt verir). Ödemde tuz kısıtlaması, gerekirse
-  furosemid; belirgin hipoalbuminemide albümin infüzyonu düşünüldüğünde sıvı yüklemesine ve hipovolemik
-  şok riskine dikkat edilir. Enfeksiyon bulgusu olan her ateşli dönem hızla değerlendirilir; remisyon
-  sonrası relapslar izlenir
-klasik_komplikasyon: Asit içinde pnömokokal (ve diğer kapsüllü etkenlerin) peritoniti; renal ven trombozu
-  dahil trombozlar (antitrombin III kaybı); hipovolemik şok; steroid dirençli olgularda fokal segmenter
-  glomerüloskleroza geçişle kronik böbrek yetmezliği riski
+ilk_tetkik: "**İdrar tetkiki** ve **spot idrar protein/kreatinin oranı**; **Serum albumin**, **kolesterol**, kreatinin ve elektrolitler; tam kan sayımı; **başlangıç ağırlığının kaydı** (tedavi yanıtı için)"
+kesin_tani: "**Dörtlü bulgu**: belirgin **proteinüri** (günde **50 mg/kg** üstü veya **40 mg/m2/saat** üstü) + **hipoalbuminemi** (**2.5 g/dL altı**) + **ödem** + **hiperlipidemi**. Çocukta **böbrek biyopsisi rutin değildir**; endikasyonlar: **steroid direnci**, **10 yaşından büyük** yaşta başlangıç, **makroskopik hematüri**, belirgin **hipertansiyon** veya böbrek yetmezliği, **sistemik hastalık** bulguları"
+ilk_tedavi: "**Prednizon/prednizolon 60 mg/m2/gün** (maksimum **60-80 mg/gün**) **4-6 hafta**; ardından **gün aşırı 40 mg/m2** ile **4 hafta** sürdürme; **Steroid yanıtı** hem tanısal hem tedavisel — minimal değişiklik neredeyse her zaman yanıt verir; **Ödemde tuz kısıtlaması**, gerekirse **furosemid**; **albümin infüzyonu**nda sıvı yüklemesine ve **hipovolemik şok** riskine dikkat; **Enfeksiyon bulgusu olan her ateşli dönem hızla değerlendirilir**; remisyon sonrası **relaps**lar izlenir"
+klasik_komplikasyon: "Asit içinde **pnömokokal peritonit** (kapsüllü etkenler); **renal ven trombozu** dahil trombozlar (**antitrombin III kaybı**); **Hipovolemik şok**; **steroid dirençli** olgularda **fokal segmenter glomerüloskleroz**a geçişle **kronik böbrek yetmezliği** riski"
 tus_gecmisi:
 - tus-2015-ilkbahar-ttbt-25
 - tus-2015-sonbahar-ktbt-66

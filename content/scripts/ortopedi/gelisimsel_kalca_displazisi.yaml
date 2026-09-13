@@ -8,18 +8,34 @@ sources:
 ad: Gelişimsel Kalça Displazisi
 taksonomi:
   - [ktbt, ortopedi, orto_pediatrik, orto_ped_gkd]
-tipik_hasta: "Kız bebek, ilk doğum, makat gelişi, oligohidramniyoz veya aile öyküsü olan yenidoğan; en sık sol kalça; sıkı kundaklama (bacakların düz zorlanması) riski artırır; tanımlanamayan topallığı olan yürüme çağı çocuğunda geriye dönük de düşünülmeli"
-patofizyoloji: "Asetabulum femur başını yeterince örtemez: çukur sığ kaldığı için baş yarı çıkar (subluksasyon) ya da tam çıkar (luksasyon); yenidoğan dönemindeki gevşek bağlar (anne hormonu etkisi) çıkık eğilimine katkı verir. Baş ile asetabulum arasında kalıcı uyumsuz temas kalırsa yürüyüşe geçen çocukta Trendelenburg topallığı ve erken yaşta koksartroz gelişir; bu yüzden erken tanı, asetabulumun başla birlikte olgunlaşmasını sağlar"
+tipik_hasta: "**Kız bebek**, ilk doğum, **makat gelişi**, **oligohidramniyoz** veya **aile öyküsü** olan
+  yenidoğan; en sık sol kalça. **Sıkı kundaklama** (bacakların düz zorlanması) riski artırır;
+  tanımlanamayan topallığı olan yürüme çağı çocuğunda geriye dönük de düşünülmeli"
+patofizyoloji: "Asetabulum femur başını yeterince örtemez; çukur sığ olduğundan baş yarı çıkar
+  (**subluksasyon**) ya da tam çıkar (**luksasyon**). Yenidoğan dönemindeki gevşek bağlar (**anne
+  hormonu** etkisi) çıkık eğilimine katkı verir. Baş ile asetabulum arasında kalıcı uyumsuzluk
+  yürüyüşe geçen çocukta **Trendelenburg topallığı** ve erken **koksartroz** yapar; erken tanı,
+  asetabulumun başla birlikte olgunlaşmasını sağlar"
 anahtar_bulgular:
-  - "Barlow testi (çıkarma provokasyonu): kalça ve diz 90 derece bükülü iken bacak orta hatta toplanıp geriye bastırıldığında başın çıkma duygusu"
-  - "Ortolani testi (yerine koyma): çıkık kalçada bacak yumuşak biçimde dışa açılırken başın asetabuluma kaydını ele veren takılma hissi"
-  - "Kısalık ve asimetri: dizler bükülü iken diz yükseklik farkı (Galeazzi işareti), asimetrik uyluk kıvrımları; yürüme çağında Trendelenburg topallığı"
-  - "Üç aydan büyük süt çocukta kalça dışa açılmasında (abduksiyon) kısıtlılık"
-  - "Görüntüleme mantığı: ilk 4-6 ayda kemikleşme çekirdeği henüz olmadığından ultrason (Graf sınıflaması, alfa açısı normalde 60 derecenin üzerinde); sonrasında direkt grafide Hilgenreiner ve Perkin çizgileri ile Shenton yayının süreksizliği (kırılması) taranır"
-patognomonik: "Ortolani ve Barlow provokasyonlarında ele gelen çıkarma-yerine koyma hissi (klunk)"
-ilk_tetkik: "Doğumdan itibaren düzenli fizik muayene (Barlow/Ortolani ve abduksiyon açısı); risk faktörü varsa veya muayenede şüphe varsa kalça ultrasonu"
-kesin_tani: "İlk 4-6 ayda kalça ultrasonu (Graf sınıflaması); 4-6 aydan sonra kalça grafisi (asetabular indeks, Perkin çizgisi, Shenton yayı)"
-ilk_tedavi: "6 aydan küçüklerde Pavlik kemeri (kalçayı fleksiyon-abduksiyonda tutan dinamik cihaz, yaklaşık 90 oranında başarılı); başarısızlıkta kapalı redüksiyon ve alçı, yürüme çağında veya geç tanıda açık redüksiyon ve gerektiğinde asetabulum/femur osteotomileri"
-klasik_komplikasyon: "Pavlik kemerinde aşırı abduksiyona bağlı femur başı avasküler nekrozu; tedavisiz kalmış olguda erken koksartroz ve kalıcı topallık"
+  - "**Barlow testi** (çıkarma provokasyonu): kalça ve diz 90 derece bükülü iken bacak orta hatta
+    toplanıp geriye bastırıldığında başın çıkma duygusu"
+  - "**Ortolani testi** (yerine koyma): bacak yumuşak biçimde dışa açılırken başın asetabuluma kaydını
+    ele veren **takılma hissi**"
+  - "**Galeazzi işareti** (dizler bükülü iken yükseklik farkı), asimetrik uyluk kıvrımları; yürüme çağında
+    **Trendelenburg topallığı**"
+  - "Üç aydan büyük süt çocukta kalça **dışa açılma (abduksiyon)** kısıtlılığı"
+  - "İlk 4-6 ayda **ultrason** (**Graf** sınıflaması, alfa açısı normalde **60 derecenin üsti**);
+    sonrasında direkt grafide **Hilgenreiner** ve **Perkin** çizgileri ile **Shenton** yayının kırılması"
+patognomonik: "**Ortolani** ve **Barlow** provokasyonlarında ele gelen çıkarma-yerine koyma hissi
+  (**klunk**)"
+ilk_tetkik: "Doğumdan itibaren düzenli **fizik muayene** (**Barlow/Ortolani** ve abduksiyon açısı); risk
+  faktörü veya muayene şüphesinde **kalça ultrasonu**"
+kesin_tani: "İlk 4-6 ayda **kalça ultrasonu** (**Graf** sınıflaması); 4-6 aydan sonra **kalça grafisi**
+  (**asetabular indeks**, **Perkin** çizgisi, **Shenton** yayı)"
+ilk_tedavi: "6 aydan küçüklerde **Pavlik kemeri** (kalçayı fleksiyon-abduksiyonda tutan dinamik cihaz,
+  yaklaşık **90** oranında başarılı). Başarısızlıkta **kapalı redüksiyon** ve alçı; yürüme çağında veya
+  geç tanıda **açık redüksiyon** ve gerektiğinde **asetabulum-femur osteotomileri**"
+klasik_komplikasyon: "**Pavlik** kemerinde aşırı abduksiyona bağlı **femur başı avasküler nekrozu**.
+  Tedavisiz kalmış olguda erken **koksartroz** ve kalıcı topallık"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

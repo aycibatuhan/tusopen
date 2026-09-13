@@ -15,33 +15,20 @@ taksonomi:
   - dermatoloji
   - derm_kil_tirnak_ter
   - derm_ktt_tirnak
-tipik_hasta: 'Diz, dirsek, sakral bölge ve saçlı deride simetrik pullu plaklarla başvuran 15-40 yaş arası
-  hasta; aile öyküsü sıktır (HLA-Cw6/PSORS1 ilişkisi). Tetikleyici sorgusu şarttır: cilt travması, streptokokal
-  farenjit, stres, beta bloker-lityum-antimalaryal ilaçlar ve sistemik steroid kesilmesi'
-patofizyoloji: Genetik yatkınlıklı kişide tetikleyiciler, dendritik hücreler üzerinden Th17 yanıtını (IL-23
-  → IL-17, IL-22) ateşler; keratinositler kontrolden çıkar ve epidermal yenilenme yaklaşık 28 günden 3-4
-  güne iner. Olgunlaşamadan yüzeye yığılan keratinositler kalın parakeratotik pulları, dermiste uzayan
-  papillalara oturan dilate kapillerler ise kazınma sonrası noktasal kanamayı açıklar
+tipik_hasta: "**15-40 yaş** arası, **diz, dirsek, sakral bölge ve saçlı deride simetrik pullu plaklar**la başvuran hasta; **aile öyküsü** sıktır (**HLA-Cw6/PSORS1** ilişkisi). Tetikleyici sorgusu şarttır: **cilt travması**, **streptokokal farenjit**, stres, **beta bloker-lityum-antimalaryal** ilaçlar ve **sistemik steroid kesilmesi**"
+patofizyoloji: "Genetik yatkınlıklı kişide tetikleyiciler dendritik hücreler üzerinden **Th17** yanıtını (**IL-23** → **IL-17**, **IL-22**) ateşler; keratinositler kontrolden çıkar ve epidermal yenilenme yaklaşık **28 günden 3-4 güne** iner. Olgunlaşamadan yüzeye yığılan keratinositler **kalın parakeratotik pulları**, dermiste uzayan papillalara oturan **dilate kapillerler** ise kazınma sonrası **noktasal kanamayı** açıklar"
 anahtar_bulgular:
-- Silajlı (gümüşümsü) pullarla örtülü kalın kırmızı plaklar; diz, dirsek, saçlı deri, sakral bölgede simetrik
-  yerleşim
-- 'Grattaj testi dizisi: kazındıkça mum lekesi belirtisi → gümüşümsü pulların kalkması → noktasal kanamalar
-  (Auspitz belirtisi)'
-- 'Koebner fenomeni: sıyrık, kesi, dövme gibi travma bölgelerinde tipik lezyonların belirmesi'
-- 'Tırnak tutulumu: çukurlaşma (pitting), yağ damlası görüntüsü, onikoliz; cilt bulgusu olmadan da olabilir'
-- 'Gütat (damla) tipi: çocukta streptokokal farenjit sonrası gövde üzerinde sayısız küçük pullu papül'
-- 'Eklem tutulumu: DIP eklemleri önde, daktilit ve entezit eşlik eder; cilt hastalığının ağırlığıyla korele
-  olmayabilir'
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Grattaj testi dizisi: mum lekesi belirtisi → silajlı pulların kaldırılması → Auspitz noktasal
-  kanaması'
-ilk_tetkik: Klinik muayene (yerleşim + grattaj testi); atipik görünümde cilt biyopsisi
-kesin_tani: Klinik görünümle konur; biyopsi gerekirse parakeratoz içinde nötrofil yığınları (Munro mikroabseleri),
-  akantoz, uzayan rete uzantıları ve papiller dermiste kapiller dilatasyon
-ilk_tedavi: Lokalize hastalıkta topikal kortikosteroid + vitamin D3 analogu (kalsipotriol); geniş tutulumda
-  (%10 üzeri vücut yüzeyi) NB-UVB fototerapi, ardından sistemik ajanlar (metotreksat, siklosporin, asitretin);
-  dirençli veya artritli olguda biyolojik ajanlar (IL-17, IL-23, TNF-α inhibitörleri)
-klasik_komplikasyon: Psoriatik artrit (seronegatif spondiloartropati; radyolojide kalem-kupa görüntüsü);
-  sistemik steroid kesilmesi sonrası püstüler psoriasis veya eritrodermi alevlenmesi
+- "**Silajlı (gümüşümsü) pullarla** örtülü kalın kırmızı plaklar; **diz, dirsek, saçlı deri, sakral bölgede** simetrik yerleşim"
+- "**Grattaj testi** dizisi: kazındıkça **mum lekesi** belirtisi → gümüşümsü pulların kalkması → **noktasal kanama** (**Auspitz belirtisi**)"
+- "**Koebner fenomeni**: **sıyrık, kesi, dövme** gibi travma bölgelerinde tipik lezyonların belirmesi"
+- "**Tırnak tutulumu**: **çukurlaşma (pitting)**, **yağ damlası** görüntüsü, **onikoliz**; cilt bulgusu olmadan da olabilir"
+- "**Gütat (damla) tipi**: çocukta **streptokokal farenjit** sonrası gövde üzerinde sayısız küçük pullu papül"
+- "**Eklem tutulumu**: **DIP** eklemleri önde, **daktilit** ve **entezit** eşlik eder; cilt hastalığının ağırlığıyla **korele olmayabilir**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **Grattaj testi** dizisi: **mum lekesi** belirtisi → silajlı pulların kaldırılması → **Auspitz** noktasal kanaması"
+ilk_tetkik: "**Klinik muayene** (yerleşim + **grattaj testi**); atipik görünümde **cilt biyopsisi**"
+kesin_tani: "Klinik görünümle konur; biyopsi gerekirse **parakeratoz** içinde nötrofil yığınları (**Munro mikroabseleri**), **akantoz**, uzayan **rete** uzantıları ve papiller dermiste **kapiller dilatasyon**"
+ilk_tedavi: "Lokalize hastalıkta **topikal kortikosteroid** + **vitamin D3 analogu (kalsipotriol)**; geniş tutulumda (**%10 üzeri vücut yüzeyi**) **NB-UVB** fototerapi. Ardından sistemik ajanlar (**metotreksat**, **siklosporin**, **asitretin**); dirençli veya artritli olguda **biyolojik ajanlar** (**IL-17**, **IL-23**, **TNF-α** inhibitörleri)"
+klasik_komplikasyon: "**Psoriatik artrit** (seronegatif spondiloartropati; radyolojide **kalem-kupa** görüntüsü); **sistemik steroid kesilmesi** sonrası **püstüler psoriasis** veya **eritrodermi** alevlenmesi"
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-30
 - tus-2015-sonbahar-ttbt-95

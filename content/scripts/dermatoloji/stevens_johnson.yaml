@@ -11,40 +11,19 @@ taksonomi:
   - dermatoloji
   - derm_urtiker_ilac
   - derm_ui_sjs_ten
-tipik_hasta: 'Yüksek riskli ilaç (sülfonamid antibiyotikler, karbamazepin-fenitoin-lamotrijin gibi antikonvülzanlar,
-  alloprünol, oksikam grubu NSAİİ) başlanmış ve 1-3 hafta sonra ateş, halsizlik, üst solunum yolu benzeri
-  şikâyetlerle prodrom geçiren hasta; yüz ve gövdede düz, atipik hedefli mor maküller hızla birleşip bülleşir,
-  Nikolsky pozitifleşir ve en az iki mukoza bölgesinde (ağız, göz, genital) ağrılı erozyonlar belirir.
-  Hasta belirgin şekilde hasta görünümündedir; şiddet ayrılan epidermal alanın vücut yüzeyi oranına göre
-  derecelenir: yüzeyin %10''undan azı SJS, %10-30 örtüşme (overlap), %30''dan fazlası TEN'
-patofizyoloji: İlaç antijenine özgü sitotoksik T hücreler ve NK hücreleri granulizin başta olmak üzere
-  öldürücü moleküller salgılayarak keratinositlerde programlı hücre ölümünü (apoptoz) tetikler; tüm epidermis
-  nekroze olur ve dermoepidermal bileşkeden ayrılır, buna mukoza erozyonları ve sistemik toksisite eklenir.
-  Bazı ilaç-HLA birliktelikleri (karbamazepin-HLA-B*1502, alloprünol-HLA-B*5801) riski belirgin artırır;
-  prognoz yedi parametreli SCORTEN skoruyla değerlendirilir
+tipik_hasta: "**Yüksek riskli ilaç** (**sülfonamid antibiyotikler**, **karbamazepin-fenitoin-lamotrijin** gibi antikonvülzanlar, **allopürinol**, **oksikam** grubu NSAİİ) başlanmış; **1-3 hafta** sonra ateş, halsizlik, üst solunum yolu benzeri şikâyetlerle **prodrom** geçiren hasta. Yüz ve gövdede **düz, atipik hedefli mor maküller** hızla birleşip bülleşir, **Nikolsky pozitifleşir** ve **en az iki mukoza bölgesinde** (ağız, göz, genital) ağrılı erozyonlar belirir. Şiddet ayrılan epidermal alanın vücut yüzeyi oranına göre derecelenir: yüzeyin **%10**'undan azı **SJS**, **%10-30** örtüşme (**overlap**), **%30**'dan fazlası **TEN**"
+patofizyoloji: "İlaç antijenine özgü **sitotoksik T hücreler** ve **NK hücreleri** **granulizin** başta olmak üzere öldürücü moleküller salgılayarak keratinositlerde programlı hücre ölümünü (**apoptoz**) tetikler; tüm epidermis nekroze olur ve **dermoepidermal bileşkeden** ayrılır, buna mukoza erozyonları ve **sistemik toksisite** eklenir. Bazı ilaç-HLA birliktelikleri (**karbamazepin-HLA-B*1502**, **allopürinol-HLA-B*5801**) riski belirgin artırır; prognoz yedi parametreli **SCORTEN** skoruyla değerlendirilir"
 anahtar_bulgular:
-- İlaçtan 1-3 hafta sonra ateş ve grip benzeri prodromla başlangıç
-- Yüz ve gövdede düz, atipik hedefli mor maküllerin hızla birleşmesi; Nikolsky pozitifliği, gevşek bülleler
-  ve kolayca ayrılan epidermis
-- En az iki mukoza bölgesinde ağrılı erozyon; dudakta kanlı kabuk, konjonktival kızarıklık, genital erozyon
-- 'Belirgin sistemik toksisite: yüksek CRP, elektrolit bozukluğu, azotemi, ağrı'
-- Birinci gün ayrılan vücut yüzeyi oranı şiddeti ve prognozu belirler (%10 eşiği)
-patognomonik: En az iki mukoza bölgesinde erozyon eşliğinde Nikolsky pozitifliği ve tam kalınlıkta epidermal
-  ayrılma
-ilk_tetkik: 'Şüpheli ilacın öyküsü çıkarılıp o gün kesilmesi; ayrılma kenarından (bül tabanından değil)
-  biyopsi: tam kalınlıkta epidermal nekroz ve subepidermal ayrılma. SCORTEN için yedi parametre, her biri
-  1 puan: 40 yaş üstü, kalp atımı 120''nin üstü, aktif kanser, birinci günde ayrılma yüzeyinin %10''u
-  geçmesi, kan üre düzeyinin 10 mmol/L üstü, glukozun 14 mmol/L üstü ve bikarbonatın 20 mmol/L altı; puan
-  arttıkça ölüm oranı %3''ten %90''ın üstüne tırmanır'
-kesin_tani: Klinik (atipik hedef + çoklu mukozal erozyon + epidermal ayrılma) artı biyopside tümden epidermal
-  nekroz; DRESS ve AGEP'den morfoloji, zaman ilişkisi ve biyopsiyle ayrılır
-ilk_tedavi: 'Önce etken ilacın kesilmesi, tüm müdahalenin en önemli adımıdır. Ardından yanık ünitesi koşullarında
-  destek tedavi esastır: sıvı-elektrolit ve ısı dengesi, erken enteral beslenme, ağrı kontrolü, yapışmayan
-  örtülerle deri bakımı, enfeksiyon izlemi ve erken oftalmoloji konsültasyonu. Sistemik steroid tartışmalıdır
-  (enfeksiyon riski ve gecikmiş iyileşme); yüksek doz IVIG ve siklosporin önerileri vardır ama kanıt düzeyi
-  düşüktür. Sülfonamid bazlı topikal ajanlar (örneğin gümüş sülfadiazin) kullanılmamalıdır'
-klasik_komplikasyon: Sepsis ve ARDS en sık ölüm nedenleri; kalıcı oküler komplikasyonlar (kuru göz, simblefaron,
-  görme kaybı), mukoza darlıkları ve skar
+- "İlaçtan **1-3 hafta** sonra **ateş** ve grip benzeri **prodrom**la başlangıç"
+- "Yüz ve gövdede düz, **atipik hedefli mor maküllerin** hızla birleşmesi; **Nikolsky pozitifliği**, gevşek büller ve kolayca ayrılan epidermis"
+- "**En az iki mukoza bölgesinde** ağrılı erozyon; dudakta **kanlı kabuk**, konjonktival kızarıklık, genital erozyon"
+- "Belirgin **sistemik toksisite**: yüksek **CRP**, elektrolit bozukluğu, **azotemi**, ağrı"
+- "Birinci gün ayrılan **vücut yüzeyi oranı** şiddeti ve prognozu belirler (**%10 eşiği**)"
+patognomonik: "**En az iki mukoza bölgesinde erozyon** eşliğinde **Nikolsky pozitifliği** ve **tam kalınlıkta epidermal ayrılma**"
+ilk_tetkik: "Şüpheli ilacın öyküsü çıkarılıp **o gün kesilmesi**; ayrılma kenarından (**bül tabanından değil**) **biyopsi**: **tam kalınlıkta epidermal nekroz** ve **subepidermal ayrılma**; **SCORTEN** için yedi parametre, her biri **1 puan**: **40 yaş üstü**, kalp atımı **120'nin üstü**, aktif kanser, birinci günde ayrılma yüzeyinin **%10**'u geçmesi. Kan üre düzeyinin **10 mmol/L** üstü, glukozun **14 mmol/L** üstü ve bikarbonatın **20 mmol/L** altı; puan arttıkça ölüm oranı **%3**'ten **%90**'ın üstüne tırmanır"
+kesin_tani: "**Klinik** (atipik hedef + çoklu **mukozal erozyon** + **epidermal ayrılma**) artı biyopside **tümden epidermal nekroz**; **DRESS** ve **AGEP**'den morfoloji, zaman ilişkisi ve biyopsiyle ayrılır"
+ilk_tedavi: "Önce **etken ilacın kesilmesi**, tüm müdahalenin en önemli adımıdır. Ardından **yanık ünitesi** koşullarında destek tedavi esastır: sıvı-elektrolit ve ısı dengesi, **erken enteral beslenme**; ağrı kontrolü, yapışmayan örtülerle deri bakımı, enfeksiyon izlemi ve erken **oftalmoloji konsültasyonu**; **Sistemik steroid** tartışmalıdır (enfeksiyon riski ve gecikmiş iyileşme); yüksek doz **IVIG** ve **siklosporin** önerileri vardır ama kanıt düzeyi düşüktür; **Sülfonamid bazlı topikal ajanlar** (örneğin **gümüş sülfadiazin**) kullanılmamalıdır"
+klasik_komplikasyon: "**Sepsis** ve **ARDS** en sık ölüm nedenleri; kalıcı oküler komplikasyonlar (**kuru göz**, **simblefaron**, görme kaybı), mukoza darlıkları ve skar"
 tus_gecmisi:
 - tus-2019-ilkbahar-ktbt-60
 kart_uret:

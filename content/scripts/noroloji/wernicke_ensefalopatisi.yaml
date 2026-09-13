@@ -8,19 +8,19 @@ sources:
 ad: Wernicke Ensefalopatisi
 taksonomi:
   - [ktbt, noroloji, noro_ozel_konular, noro_oz_wernicke]
-tipik_hasta: "Alkol kullanım bozukluğu, uzun süreli açlık, barsak emilim bozukluğu, mide cerrahisi sonrası veya kanser kaşeksisinden dolayı tiamin depoları boşalmış hasta; günlük ya da haftalık birkaç gün içinde ilerleyen bilinç bulanıklığı, çift görme ve dengesiz yürüyüş ile acile getirilir. Beslenmesi kötü olup damar içi sıvı ve glukoz almaya başlanmış her yatık hasta bu risk grubundadır"
-patofizyoloji: "Tiamin (B1 vitamini) eksikliği, tiamin bağımlı enzim sistemlerinin yoğun olduğu beyin bölgelerinde seçici hasara yol açar: mamiller cisimcikler, talamusun medio-dorsal çekirdekleri, serebral akuedukt çevresi gri madde, okülomotor ve abdusens çekirdekleri ile serebellar verm en çok tutulan alanlardır. Metabolik durgunluk damar geçirgenliğini bozarak nokta tarzda kanamalara ve bu bölgelerde ödeme neden olur; akut fazda ödem geri dönebilir, geç fazda kavitasyon ve kalıcı amnestik hasar kalır"
+tipik_hasta: "**Alkol kullanım bozukluğu**, uzun **açlık**, **barsak emilim bozukluğu**, **mide cerrahisi**, **kanser kaşeksisinden** dolayı **tiamin depoları boşalmış** hasta. Günlük ya da haftalık birkaç gün içinde ilerleyen **bilinç bulanıklığı**, **çift görme** ve **dengesiz yürüyüş**le acile getirilir; **Beslenmesi kötü olup IV sıvı ve glukoz** almaya başlanmış her yatık hasta risk grubundadır"
+patofizyoloji: "**Tiamin (B1) eksikliği** tiamin bağımlı enzimlerin yoğun olduğu bölgelerde **seçici hasar** yapar; **Mamiller cisimcikler**, talamusun **medio-dorsal çekirdekleri**, **akuedukt çevresi gri madde**, **okülomotor-abdusens çekirdekleri**, **serebellar verm** en çok tutulanlar. Metabolik durgunluk **damar geçirgenliğini** bozarak **noktasal kanamalar** ve **ödem** yapar; akut fazda **ödem geri dönebilir**, geç fazda **kavitasyon ve kalıcı amnestik hasar**"
 anahtar_bulgular:
-  - "Kognitif değişiklik: dikkat ve oryantasyon bozukluğu, ilgisizlik, uykuya meyil; hastaların büyük bölümünde başvuru bulgusu tek başına budur, klasik üçlünün tamamı yalnızca az bir kısımda aynı anda görülür"
-  - "Oftalmopleji: çift görme, yatay nistagmus, konjuge bakış parezileri; tiamin verilmesinden sonraki saatlerde göz bulguları hızla düzelir, bu yanıt tanının en pratik doğrulamasıdır"
-  - "Serebellar ataksi: geniş tabanlı, adımları değişken yürüyüş; verm tutulumuna bağlı olup istemli hareketlerde dizartri beklentisi yoktur"
-  - "Otonom bulgular: hipotermi, ortostatik hipotansiyon, solunum düzeni bozukluğu; beyin sapı retiküler formasyonun tutulduğunu düşündürür"
-  - "MRG'de mamiller cisimcikler, talamusun simetrik alanları ve akuedukt çevresinde akut dönemde hiperintens sinyal; mamiller bölgede noktasal kanama görülebilir"
-  - "Tiamin verilmeyen hastada damar içi glukoz yüklemesi enerji yollarını çalıştırmaya çalışır ama tiamin olmadan kofaktör yoktur; bilinç bulanıklığı ve göz bulguları ağırlaşabilir"
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — "Mamiller cisimcikler ve akuedukt çevresi gri maddede simetrik MRG hiperintensliği"
-ilk_tetkik: "Tanı klinik olarak kuşkulanılarak konur; serum tiamin pirofosfat düzeyi, plazma laktat, elektrolitler ve karaciğer fonksiyon testleri istenir; beyin MRG destekleyici bulunur ancak normal MRG tanıyı dışlamaz"
-kesin_tani: "Tiamin eksikliği riski olan hastada konfüzyon, ataksi ve oftalmopleji bulgularının birlikteliği; damar içi tiamin sonrası göz bulgularının saatler içinde düzelmesi tanıyı kesinleştirir. Tanı laboratuvardan önce klinik olarak konmalı ve tedavi bekletilmemelidir"
-ilk_tedavi: "Tanıdan önce beklemeden damar içi yüksek doz tiamin; damar içi glukoz verilmesi gerekiyorsa tiamin glukozdan önce ya da eş zamanlı uygulanır. Ardından damar içi dozlar sürdürülür (RCP 2020: 500 mg üç kez günlük 3-5 gün, sonra 250 mg/gün), sonra ağızdan tiamin ve B kompleks uzun süre devam eder"
-klasik_komplikasyon: "Tedavi edilmeyen ya da geç tedavi edilen vakalarda Korsakoff sendromu: yeni bilgiyi öğrenememe (anterograde amnezi) ve boşlukları uydurma ile doldurma (konfabülasyon). Geç başvuruda serebellar ataksi ve amnezik hasar kalıcıdır"
+- "**Kognitif değişiklik**: **dikkat ve oryantasyon bozukluğu**, ilgisizlik, **uykuya meyil**; başvuru bulgusu çoğu hastada **yalnız budur**, klasik üçlü az bir kısımda birlikte"
+- "**Oftalmopleji**: **çift görme**, **yatay nistagmus**, **konjuge bakış parezileri**; **tiamin sonrası saatler içinde göz bulguları hızla düzelir** — en pratik doğrulama"
+- "**Serebellar ataksi**: **geniş tabanlı, değişken adımlı yürüyüş**; **verm** tutulumuna bağlı"
+- "**Otonom bulgular**: **hipotermi**, **ortostatik hipotansiyon**, **solunum düzeni bozukluğu** — **beyin sapı retiküler formasyon**"
+- "**MRG**: **mamiller cisimcikler**, talamus **simetrik** alanları, **akuedukt çevresi**nde akut **hiperintens** sinyal; **mamiller bölgede noktasal kanama**"
+- "**Tiamin verilmeden IV glukoz** yüklemesi bilinç bulanıklığını ve **göz bulgularını ağırlaştırabilir**"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **mamiller cisimcikler** ve **akuedukt çevresi gri maddede simetrik MRG hiperintensliği**"
+ilk_tetkik: "Tanı **klinik** olarak kuşkulanılarak konur; **serum tiamin pirofosfat**, **plazma laktat**, elektrolitler, **karaciğer fonksiyon testleri**; **Beyin MRG** destekleyici; **normal MRG tanıyı dışlamaz**"
+kesin_tani: "**Tiamin eksikliği riski** olan hastada **konfüzyon, ataksi ve oftalmopleji** birlikteliği; **IV tiamin sonrası göz bulgularının saatler içinde düzelmesi** tanıyı kesinleştirir; tanı **laboratuvardan önce klinik** konmalı, **tedavi bekletilmemelidir**"
+ilk_tedavi: "Tanıdan önce beklemeden **IV yüksek doz tiamin**; **IV glukoz** gerekiyorsa **tiamin glukozdan önce ya da eş zamanlı**. Ardından IV dozlar sürer (**RCP 2020: 500 mg üç kez günlük 3-5 gün**, sonra **250 mg/gün**). Sonra ağızdan **tiamin ve B kompleks** uzun süre devam eder"
+klasik_komplikasyon: "Tedavi edilmeyen ya da **geç tedavi** edilen vakalarda **Korsakoff sendromu**: **anterograde amnezi** (yeni bilgiyi öğrenememe) ve **konfabülasyon** (boşlukları uydurma). Geç başvuruda **serebellar ataksi** ve **amnezik hasar** kalıcıdır"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

@@ -10,31 +10,35 @@ taksonomi:
   - kardiyoloji
   - kard_aort_periferik
   - kard_ap_aort_diseksiyonu
-tipik_hasta: Uzun süredir kötü kontrollü hipertansiyonu olan 50-70 yaş hasta; ya da Marfan sendromu, Ehlers-Danlos
-  sendromu veya bikuspid aort kapağı bulunan genç hasta; gebelikle ilişkili de olabilir; ani yırtılma
-  anlatımlı göğüs-sırt ağrısıyla gelen hipertansif hasta klasik tablodur
-patofizyoloji: Aort intima'sında yırtık olur, kan medial tabakaya girip gerçek lümenle yalancı lümen oluşturur;
-  zeminde kronik hipertansiyona bağlı medial dejenerasyon veya bağ dokusu hastalıkları (Marfan, Ehlers-Danlos)
-  vardır. Yalancı lümen aort dallarını kapatıp organ iskemisi yapar; kanam perikarda veya plevraya yayılırsa
-  kardiyak tamponat ve hemotoraks, aort dışına yırtılırsa ani ölümle sonuçlanır
+tipik_hasta: "**Uzun süredir kötü kontrollü hipertansiyonu** olan **50-70 yaş** hasta; **ani yırtılma
+  anlatımlı göğüs-sırt ağrısı**yla gelen hipertansif hasta klasik tablodur. **Marfan sendromu**,
+  **Ehlers-Danlos sendromu** veya **bikuspid aort kapağı** bulunan genç hastada da olur; **gebelik**le
+  ilişkili olabilir"
+patofizyoloji: "Aort **intima**'sında yırtık olur, kan medial tabakaya girip **gerçek lümen**le
+  **yalancı lümen** oluşturur. Zeminde **kronik hipertansiyona bağlı medial dejenerasyon** veya bağ
+  dokusu hastalıkları (**Marfan**, **Ehlers-Danlos**) vardır. **Yalancı lümen** aort dallarını kapatıp
+  **organ iskemisi** yapar; **perikarda** veya **plevraya** yayılım **kardiyak tamponat** ve
+  **hemotoraks**, aort dışına yırtılma **ani ölüm**le sonuçlanır"
 anahtar_bulgular:
-- Aniden başlayan, ilk dakikalarda en şiddetli olan yırtılma anlatımlı göğüs-sırt (interkapüler) ağrısı
-- İki kolda ölçülen kan basıncı arasında belirgin fark veya bir ekstremitede nabız alınamaması
-- Yeni başlayan aort yetersizliği diyastolik üfürümü
-- 'Dal tutulumu bulguları: koroner tutulumuyla akut infarkt, karotis tutulumuyla inme, spinal arter iskemisiyle
-  parapleji, renal tutulumla anüri, mezenterik iskemi'
-- Göğüs grafisinde genişlemiş mediastinum
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — İki kolda kan basıncı farkı veya tek taraflı nabız kaybı
-ilk_tetkik: İki koldan kan basıncı ölçümü ve EKG; stabil hastada kontrastlı BT anjiyografi, instabil hastada
-  yatak başında transözofageal ekokardiyografi
-kesin_tani: 'Kontrastlı BT anjiyografi: intimal flap ile gerçek ve yalancı lümenin gösterilmesi, tutulumun
-  yükselen aortta mı inen aortta mı olduğunun belirlenmesi (tip A veya tip B)'
-ilk_tedavi: Önce intravenöz beta bloker (esmolol veya labetalol) ile kalp hızı ve kan basıncı düşürülür,
-  gerektiğinde nitroprussid eklenir; hedef sistolik basınç yaklaşık 100-120 mmHg ve kalp hızı 60 altı;
-  ağrı için opioid. Tip A (yükselen aort tutulumu) acil cerrahi endikasyonudur; komplikasyonsuz tip B
-  (inen aort) medikal yönetim, komplikasyon gelişen tip B'de endovasküler stent veya cerrahi
-klasik_komplikasyon: Kardiyak tamponat; koroner ostium tutulumu (çoğunlukla sağ koroner) ile akut infarkt;
-  inme, akut böbrek yetmezliği, aort yırtılması ve ani ölüm
+- "**Aniden başlayan, ilk dakikalarda en şiddetli yırtılma anlatımlı göğüs-sırt (interkapüler) ağrısı**"
+- "**İki kolda ölçülen kan basıncı arasında belirgin fark** veya bir ekstremitede **nabız alınamaması**"
+- "Yeni başlayan **aort yetersizliği diyastolik üfürümü**"
+- "**Dal tutulumu bulguları**: koronerle **akut infarkt**, karotisle **inme**, spinal arterle
+  **parapleji**, renalle **anüri**, **mezenterik iskemi**"
+- "Göğüs grafisinde **genişlemiş mediastinum**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **iki kolda kan basıncı farkı** veya
+  **tek taraflı nabız kaybı**"
+ilk_tetkik: "**İki koldan kan basıncı ölçümü** ve **EKG**. Stabil hastada **kontrastlı BT anjiyografi**,
+  instabil hastada yatak başında **transözofageal ekokardiyografi**"
+kesin_tani: "**Kontrastlı BT anjiyografi**: **intimal flap** ile gerçek ve yalancı lümenin gösterilmesi.
+  Tutulumun **yükselen aort**ta mı **inen aort**ta mı olduğunun belirlenmesi (**tip A veya tip B**)"
+ilk_tedavi: "Önce intravenöz **beta bloker** (**esmolol** veya **labetalol**) ile kalp hızı ve kan
+  basıncı düşürülür; gerektiğinde **nitroprussid** eklenir. Hedef **sistolik basınç yaklaşık 100-120
+  mmHg** ve kalp hızı **60 altı**; **ağrı** için opioid. **Tip A** (yükselen aort tutulumu) **acil
+  cerrahi** endikasyonudur; komplikasyonsuz **tip B** (inen aort) **medikal** yönetim, komplikasyon
+  gelişen tip B'de **endovasküler stent** veya cerrahi"
+klasik_komplikasyon: "**Kardiyak tamponat**; **koroner ostium** tutulumu (çoğunlukla **sağ koroner**) ile
+  **akut infarkt**. **İnme**, **akut böbrek yetmezliği**, **aort yırtılması** ve **ani ölüm**"
 tus_gecmisi:
 - tus-2015-sonbahar-ktbt-41
 - tus-2018-ilkbahar-ktbt-99

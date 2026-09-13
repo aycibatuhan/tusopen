@@ -11,35 +11,34 @@ taksonomi:
   - dahiliye
   - dah_endokrinoloji
   - dah_end_diyabet_akut_komplikasyon
-tipik_hasta: Tip 1 diyabetli genç hasta; insülin dozunun atlanması, enfeksiyon (en sık tetikleyici), kalp
-  krizi veya yeni tanı almış diyabet sonrası polüri-polidipsinin kötüleşmesi, bulantı-kusma, yaygın karın
-  ağrısı ve derin hızlı solunumla acile gelir
-patofizyoloji: Mutlak insülin yokluğu ve glukagon-kortizol-adrenalin gibi karşı düzenleyici hormonların
-  aşırı salınımı; karaciğer glukoz üretimini artırırken çevre dokuların glukoz alımı durur, sonuç hiperglisemi.
-  İnsülinin lipolizi frenleyememesi serbest yağ asitlerini açığa çıkarır; bunlar karaciğerde asetoasetat
-  ve beta-hidroksibütirat gibi keton cisimciklerine dönüşür ve metabolik asidoz doğar. Glukozüri ozmotik
-  diürezle ağır dehidratasyon ve potasyum kaybı yaratır; serum potasyumu normal ya da yüksek görünse de
-  total vücut potasyumu azalmıştır
+tipik_hasta: '**Tip 1 diyabetli** genç hasta; **insülin atlanması**, **enfeksiyon** (en sık tetikleyici),
+  kalp krizi veya yeni tanı diyabet. Polüri-polidipsinin kötüleşmesi, bulantı-kusma, yaygın karın ağrısı
+  ve derin hızlı solunumla acile gelir'
+patofizyoloji: 'Mutlak **insülin** yokluğu ve karşı düzenleyici hormon aşırılığı; karaciğer glukoz üretimi
+  artar, çevre dokuların glukoz alımı durur. İnsülinin **lipolizi** frenleyememesi serbest yağ asitlerini
+  açığa çıkarır; karaciğerde **asetoasetat** ve **beta-hidroksibütirat** gibi keton cisimciklerine dönüşür.
+  **Glukozüri** ozmotik diürezle ağır dehidratasyon ve potasyum kaybı yaratır; serum potasyumu normal görünse
+  de **total vücut potasyumu** azalmıştır'
 anahtar_bulgular:
-- Kan glukozu genellikle 250 mg/dL üzerinde; idrar veya kan ketonları pozitif
-- Arteriyel pH 7,30 altında ve bikarbonat 18 mEq/L altında; aniyon açığı artmış
-- Kussmaul tipi derin solunum ve aseton (meyve) kokulu nefes
-- Bulantı, kusma, karın ağrısı (cerrahi karını taklit edebilen)
-- 'Serum sodyumun sanal düşüklüğü: hiperglisemi kanı seyrelttiği için sodyum düşük görünür, düzeltme formülüyle
-  gerçek değer hesaplanır'
-- Serum potasyumunun başta normal veya yüksek görünmesi ama total vücut potasyumunun eksik olması
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Aseton kokulu nefesle birlikte Kussmaul solunumu (ağır metabolik asidozlarda da görülür)
-ilk_tetkik: Kan glukozu, venöz kan gazı, serum elektrolitleri (özellikle potasyum), aniyon açık hesabı,
-  serum ve idrar ketonları, üre-kreatinin; tetikleyici araştırması (enfeksiyon odağı, EKG)
-kesin_tani: 'Üçlü kriter: kan glukozunda belirgin artış (genellikle 250 mg/dL üzeri), ketonemi/ketonüri,
-  ve pH 7,30 altı veya bikarbonat 18 mEq/L altı asidoz; artmış aniyon açık tabloyu doğrular'
-ilk_tedavi: 'Sıralama mantığı esastır: önce 0,9 salinle intravenöz sıvı resusitasyonu, sonra insülin (intravenöz
-  regular insülin 0,1 ünite/kg/saat). Potasyum 3,3 mEq/L altındaysa insülin başlanmadan önce potasyum
-  düzeltilir; insülin hücrelere potasyumu çekeceği için tedavi boyunca potasyum izlenir ve replase edilir.
-  Glukoz 200-250 mg/dL''ye inince dekstroz içeren sıvıya geçilir; bikarbonat yalnızca pH 6,9 altındayken
-  düşünülür'
-klasik_komplikasyon: Hızlı serum osmolalitesi düşüşüne bağlı serebral ödem (çocuklarda klasik ölüm nedeni);
-  tedavi kaynaklı hipopotasemiye bağlı kalp ritim bozuklukları
+- 'Kan glukozu genellikle **250 mg/dL** üzerinde; idrar veya kan **ketonları** pozitif'
+- '**pH 7,30** altında ve **bikarbonat 18 mEq/L** altında; **aniyon açığı** artmış'
+- '**Kussmaul** tipi derin solunum ve **aseton (meyve) kokulu** nefes'
+- 'Bulantı, kusma, **karın ağrısı** (cerrahi karını taklit edebilen)'
+- 'Serum sodyumun **sanal düşüklüğü**: hiperglisemi kanı seyrelttiği için sodyum düşük görünür, **düzeltme
+  formülü**yle gerçek değer hesaplanır'
+- 'Serum potasyumu başta normal veya yüksek görünür ama **total vücut potasyumu** eksiktir'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — **aseton kokulu nefes**le birlikte **Kussmaul
+  solunumu** (ağır metabolik asidozlarda da görülür)
+ilk_tetkik: 'Kan glukozu, **venöz kan gazı**, elektrolitler (özellikle **potasyum**), **aniyon açığı**
+  hesabı, serum ve idrar **ketonları**, üre-kreatinin; tetikleyici araştırması (enfeksiyon odağı, EKG)'
+kesin_tani: '**Üçlü kriter**: kan glukozunda belirgin artış (genellikle **250 mg/dL** üzeri), **ketonemi/ketonüri**,
+  **pH 7,30** altı veya **bikarbonat 18 mEq/L** altı asidoz; artmış **aniyon açığı** tabloyu doğrular'
+ilk_tedavi: 'Sıralama esastır: önce **0,9 salin**le intravenöz sıvı resusitasyonu, sonra **insülin**
+  (**regular insülin 0,1 ünite/kg/saat** IV). **Potasyum 3,3 mEq/L** altındaysa insülin başlamadan önce
+  potasyum düzeltilir; tedavi boyunca potasyum izlenir. Glukoz **200-250 mg/dL**ye inince **dekstroz**
+  içeren sıvıya geçilir; **bikarbonat** yalnızca **pH 6,9** altında düşünülür'
+klasik_komplikasyon: 'Hızlı serum **osmolalite** düşüşüne bağlı **serebral ödem** (çocuklarda klasik ölüm
+  nedeni); tedavi kaynaklı **hipopotasemiye** bağlı kalp ritim bozuklukları'
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-40
 - tus-2016-ilkbahar-ktbt-17

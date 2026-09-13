@@ -11,31 +11,19 @@ taksonomi:
   - genel_cerrahi
   - gc_travma
   - gc_tr_karin
-tipik_hasta: Trafik kazası, yüksekten düşme, yumruk veya delici-bıcak yaralanması sonrası karın ağrısıyla
-  gelen hasta; künt travmada karın duvarı kontüzyonu, hipotansiyon ve eşlik eden göğüs-pelvis yaralanmaları,
-  delici travmada yara giriş-çıkış noktaları ve peritoneal tahriş öne çıkar
-patofizyoloji: 'Künt travmada ani basınç ve makas etkisi parenkimal organları (dalak en sık, sonra karaciğer)
-  yırtar; hava dolu organların ani basınç artışıyla duvarı delinir ve peritonit götürür. Delici travmada
-  pat yolu boyunca organlar doğrudan zarar görür. Değerlendirme sırasını hemodinami belirler: şoktaki
-  hasta doğrudan ameliyathaneye, stabil hastaya FAST ve BT ile yönlendirilir'
+tipik_hasta: "Trafik kazası, yüksekten düşme, yumruk veya **delici-bıcak** yaralanması sonrası karın ağrısıyla gelen hasta. Künt travmada karın duvarı **kontüzyonu**, **hipotansiyon** ve eşlik eden göğüs-pelvis yaralanmaları öne çıkar; delici travmada yara giriş-çıkış noktaları ve **peritoneal tahriş** öne çıkar"
+patofizyoloji: "Künt travmada ani basınç ve makas etkisi parenkimal organları yırtar (**dalak** en sık, sonra **karaciğer**); hava dolu organların ani basınç artışıyla duvarı delinir ve peritonit yapar. Delici travmada pat yolu boyunca organlar doğrudan zarar görür. Değerlendirme sırasını **hemodinami** belirler: şoktaki hasta doğrudan **ameliyathaneye**, stabil hastaya **FAST** ve **BT** ile yönlendirilir"
 anahtar_bulgular:
-- 'FAST ultrasonda serbest sıvı (kan): perikard, hepatorenal (Morison) aralık, splenorenal aralık ve pelvis'
-- 'Peritoneal tahriş: defans, rijitlik ve rebound; bağırsak seslerinin azalması'
-- Dalak yaralanmasında sol üst kadran ağrısı, sol omuza vuran ağrı (Kehr belirtisi) ve hipotansiyon
-- Ayakta direkt grafide serbest hava (pneumoperitoneum); retroperitoneal duodenum yaralanmasında hava
-  görülmeyebilir
-- 'Emniyet kemeri izi (karın duvarında kontüzyon bandı): bağırsak-mezenter ve lomber vertebra yaralanması
-  düşündürür'
+- "**FAST** ultrasonda serbest sıvı (kan): perikard, **hepatorenal (Morison)** aralık, **splenorenal** aralık ve pelvis"
+- "**Peritoneal tahriş**: defans, rijitlik ve **rebound**; bağırsak seslerinin azalması"
+- "**Dalak** yaralanmasında sol üst kadran ağrısı, sol omuza vuran ağrı (**Kehr belirtisi**) ve hipotansiyon"
+- "Ayakta direkt grafide **serbest hava** (pneumoperitoneum); retroperitoneal **duodenum** yaralanmasında hava görülmeyebilir"
+- "**Emniyet kemeri izi** (karın duvarında kontüzyon bandı): bağırsak-mezenter ve lomber vertebra yaralanması düşündürür"
 patognomonik: null
-ilk_tetkik: ABCDE yaklaşımıyla ilk değerlendirme ve FAST; hemodinamik olarak stabil hastada kontrastlı
-  BT, şokta veya belirgin peritonitte BT zaman kaybı sayılır ve doğrudan ameliyathaneye gidilir
-kesin_tani: Stabil hastada BT ile organ yaralanması ve serbest sıvı; operasyonda doğrudan görülen organ
-  lezyonu. Devam eden kanama, peritonit ve delici travmada eviserasyon cerrahi endikasyonlardır
-ilk_tedavi: 'Hemodinamik olarak stabil olmayan hastada acil laparotomi (gerektiğinde kontrollü hasarlı
-  cerrahi mantığı: kanamayı durdur, kontaminasyonu kontrol et, geçici kapama); stabil dalak ve karaciğer
-  yaralanmalarında dereceye göre nonoperatif izlem; boşluk organ yaralanmasında onarım veya rezeksiyon'
-klasik_komplikasyon: Künt travmada gecikmiş dalak rüptürü ve ikinci kez kanama; boşluk organ yaralanmasında
-  geç fark edilen peritonit-sepsis; büyük karaciğer-damar yaralanmasında masif kanama ve koagulopati
+ilk_tetkik: "**ABCDE** yaklaşımıyla ilk değerlendirme ve **FAST**; hemodinamik olarak stabil hastada kontrastlı **BT**. Şokta veya belirgin peritonitte BT zaman kaybı sayılır, doğrudan ameliyathaneye gidilir"
+kesin_tani: "Stabil hastada **BT** ile organ yaralanması ve serbest sıvı; operasyonda doğrudan görülen organ lezyonu. Devam eden kanama, **peritonit** ve delici travmada **eviserasyon** cerrahi endikasyonlardır"
+ilk_tedavi: "Hemodinamik olarak stabil olmayan hastada **acil laparotomi**; gerektiğinde **kontrollü hasarlı cerrahi** mantığı (kanamayı durdur, kontaminasyonu kontrol et, geçici kapama). Stabil dalak ve karaciğer yaralanmalarında dereceye göre **nonoperatif izlem**; boşluk organ yaralanmasında onarım veya rezeksiyon"
+klasik_komplikasyon: "Künt travmada **gecikmiş dalak rüptürü** ve ikinci kez kanama; boşluk organ yaralanmasında geç fark edilen **peritonit-sepsis**; büyük karaciğer-damar yaralanmasında masif kanama ve **koagulopati**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-42
 - tus-2014-sonbahar-ktbt-84

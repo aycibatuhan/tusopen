@@ -11,33 +11,19 @@ taksonomi:
   - kadin_dogum
   - kd_amenore_bozukluklar
   - kd_am_anormal_uterin_kanama
-tipik_hasta: 'İki uç öne çıkar: menarhtan hemen sonra düzensiz ve anovulatuar kanamalarla başvuran adölesan
-  ile perimenopozal dönemde sık/ağır kanamayla gelen 45 yaş üstü kadın; 7 günden uzun süren, hacim olarak
-  yaşam kalitesini bozan veya adet dışı zamanda başlayan her kanama bu çerçeveye girer'
-patofizyoloji: 'FIGO PALM-COEIN mantığı: PALM yapısal (organik) nedenler — Polip, Adenomiyozis, Leiomyom,
-  Malinite; COEIN fonksiyonel nedenler — Koagülopati (en sık adölesanda von Willebrand), Ovülatuar disfonksiyon
-  (PCOS, tiroid hastalığı, hiperprolaktinemi), Endometrial bozukluklar (döşeme onarım mekanizmalarının
-  bozulması), İatrojenik (kontraseptifler, antikoagülanlar), Nohod (sınıflanamayan). Ovülatuar tipte progesteron
-  koruması olmadan östrojenle sürekli şişen endometriyum dengesiz ve parça parça dökülür'
+tipik_hasta: "Menarhtan hemen sonra düzensiz **anovulatuar** kanamalarla gelen adölesan ile perimenopozal **45 yaş üstü** kadın sık ve ağır kanamayla başvurur; **7 günden uzun** ya da yaşam kalitesini bozan veya adet dışı zamanla başlayan kanama AUK çerçevesine girer"
+patofizyoloji: "**FIGO PALM-COEIN** mantığı: **PALM** yapısal nedenler — **Polip, Adenomiyozis, Leiomyom, Malinite**. **COEIN** fonksiyonel nedenler: **Koagülopati, Ovülatuar disfonksiyon, Endometrial, İatrojenik, Nohod**. Adölesanda koagülopatinin en sık nedeni **von Willebrand**; ovülatuar disfonksiyonda **PCOS**, tiroid hastalığı ve **hiperprolaktinemi** aranır. Ovülatuar tipte **progesteron** koruması olmadan **östrojenle** sürekli şişen endometriyum dengesiz ve parça parça dökülür"
 anahtar_bulgular:
-- 7 günden uzun süren veya hacmi yaşam kalitesini bozan adet kanamaları (ağır menstrüel kanama)
-- Adet dışı zamanlarda başlayan kanama (intermenstrüel)
-- Demir eksikliği anemisi
-- Ultrasonda polip, miyom, adenomiyozis veya endometriyum kalınlık artışı
-- 'Adölesanda anovulatuar patern: seyrek ardından uzun ve bol kanamalar'
+- "**7 günden uzun** ya da hacmi yaşam kalitesini bozan adet kanamaları (ağır menstrüel kanama)"
+- "Adet dışı zamanlarda başlayan kanama (**intermenstrüel**)"
+- "**Demir eksikliği anemisi**"
+- "USG'de **polip, miyom, adenomiyozis** veya endometriyum kalınlık artışı"
+- "Adölesanda **anovulatuar** patern: seyrek adet ardından uzun ve bol kanama"
 patognomonik: null
-ilk_tetkik: İlk adım gebelik testi (βhCG); ardından hemogram, TSH ve prolaktin; adölesan veya kanama öyküsüyle
-  gelen hastada koagülasyon paneli ve von Willebrand taraması; transvajinal ultrason; 45 yaş üstü veya
-  obezite/PCOS/tamoksifen gibi endometrial kanser riski taşıyanda endometrial biyopsi
-kesin_tani: 'Tanı nedenin sınıflanmasıyla konur: PALM bileşenleri ultrason ve histopatoloji ile gösterilir;
-  ovülatuar disfonksiyon PCOS, tiroid veya hiperprolaktinemi kanıtına bağlanır; koagülopati tipinde ağır
-  kanama öyküsü ve vW testi; endometrial biyopsi maligniteyi dışlar'
-ilk_tedavi: 'Akut ağır kanamada önce stabilizasyon: IV konjuge östrojen veya yüksek doz oral progestojen/kombine
-  kontraseptif, eşlik eden traneksamik asit, gerektiğinde demir replasmanı; kronik kanamada ilk seçenek
-  levonorgestrel salgılayan IUS; yapısal neden saptanan hastada neden odaklı tedavi (polipektomi, miyomektomi,
-  adenomiyozis yönetimi)'
-klasik_komplikasyon: Demir eksikliği anemisi; perimenopozal dönemde gözden kaçan endometrial hiperplazi/kanser;
-  koagülopatisi olan adölesanda gereksiz tanı gecikmesi
+ilk_tetkik: "İlk adım **gebelik testi (βhCG)**; ardından **hemogram, TSH ve prolaktin**. Adölesanda **koagülasyon paneli** ve **von Willebrand** taraması; **transvajinal USG**. **45 yaş üstü** ya da **obezite/PCOS/tamoksifen** endometrial kanser riski taşıyanda **endometrial biyopsi**"
+kesin_tani: "Tanı nedenin sınıflanmasıyla konur: **PALM** bileşenleri **USG** ve **histopatoloji** ile gösterilir. Ovülatuar disfonksiyon **PCOS, tiroid veya hiperprolaktinemi** kanıtına bağlanır; koagülopati tipinde ağır kanama öyküsü ve **vW testi**. **Endometrial biyopsi** maligniteyi dışlar"
+ilk_tedavi: "Akut ağır kanamada önce stabilizasyon: **IV konjuge östrojen** ya da yüksek doz **oral progestojen/kombine kontraseptif**; eşlik eden **traneksamik asit**, gerektiğinde **demir** replasmanı. Kronik kanamada ilk seçenek **levonorgestrel salgılayan IUS**. Yapısal neden saptanan hastada neden odaklı tedavi (**polipektomi, miyomektomi**, adenomiyozis yönetimi)"
+klasik_komplikasyon: "**Demir eksikliği anemisi**. Perimenopozal dönemde gözden kaçan **endometrial hiperplazi/kanser**. **Koagülopatili** adölesanda gereksiz tanı gecikmesi"
 tus_gecmisi:
 - tus-2015-ilkbahar-ktbt-114
 - tus-2016-ilkbahar-ktbt-115

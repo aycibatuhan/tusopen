@@ -13,65 +13,20 @@ taksonomi:
   - psikiyatri
   - psik_psikotik
   - psik_ps_sizofreni
-tipik_hasta: 'Genç erişkinde başlar: erkeklerde tipik başlama 18-25 yaş, kadınlarda 25-35 yaş; kadınlarda
-  menopoz çevresinde ikinci bir zirve görülür ve erkeklerde tablo genellikle daha erken, daha ağır seyreder.
-  Hastaya çoğunlukla sosyal geri çekilme, okul ya da işte düşüş, kişisel bakımda bozulma gibi prodrom
-  belirtileri öncülük eder; aile ''odasına çekildi, garip şeyler söylüyor, arkadaşlarından kopuyor'' diyerek
-  getirir. Başvuru genellikle ilk psikotik atakladır: kendisine zarar verileceği inancı, televizyonun
-  kendisiyle konuştuğu sanısı ya da kimse yokken sesler duyma. Genç hastada yeni başlayan psikozda esrar
-  ve diğer madde kullanımı ile ailede psikoz öyküsü mutlaka sorgulanır'
-patofizyoloji: 'Dopamin hipotezi ana çerçevedir: mezolimbik yolda dopamin aşırı etkinliği pozitif belirtileri
-  (sanrılar, halüsinasyonlar) açıklar; bu yüzden D2 reseptör blokajı bu belirtileri düzeltir. Mesokortikal
-  yoldaki dopamin yetersizliği negatif belirtileri (istek ve itki kaybı, düz duygulanım) ve bilişsel belirtileri
-  açıklar. NMDA glutamat hipotezi, nörogelişimsel kuram (doğum komplikasyonları, hafif ventriküler genişleme,
-  kortikal gri madde kaybı) ve bağışıklık-iltihabi katkılar tabloya eklenir. Belirtiler şizofreniye özgü
-  değildir: amfetamin ve kokain intoksikasyonu, steroid, temporal lob epilepsisi ve başka nörolojik-tıbbi
-  hastalıklar aynı tabloyu yapabilir — bu nedenle organik dışlama zorunludur'
+tipik_hasta: "Genç erişkinde başlar: erkeklerde tipik başlama **18-25 yaş**, kadınlarda **25-35 yaş**; kadınlarda **menopoz çevresinde ikinci zirve** görülür, erkeklerde tablo **daha erken ve ağır** seyreder. Prodrom: **sosyal geri çekilme, okul ya da işte düşüş, kişisel bakımda bozulma**; başvuru çoğunlukla **ilk psikotik atakla** — zarar görme inancı, sesler duyma. Genç hastada yeni psikozda **esrar ve madde kullanımı** ile **ailede psikoz öyküsü** mutlaka sorgulanır"
+patofizyoloji: "**Dopamin hipotezi ana çerçevedir**: **mezolimbik yolda dopamin aşırı etkinliği pozitif belirtileri** (sanrı, halüsinasyon) açıklar; **D2 reseptör blokajı** bunları düzeltir. **Mesokortikal yoldaki dopamin yetersizliği negatif belirtileri** (istek-itki kaybı, düz duygulanım) ve bilişsel belirtileri açıklar. **NMDA glutamat hipotezi**, nörogelişimsel kuram ve bağışıklık-iltihabi katkılar eklenir; **amfetamin-kokain intoksikasyonu, steroid, temporal lob epilepsisi** aynı tabloyu yapabilir — **organik dışlama zorunludur**"
 anahtar_bulgular:
-- 'İşitsel halüsinasyonlar en sık bulgudur: kimse yokken sesler duyma, seslerin hastayla konuşması ya
-  da buyruk verici sesler; içgörü değişkendir'
-- 'Sanrılar: takip edilme ve zarar görme sanrıları en sık; referans sanrıları (sokaktaki insanlar, haberler
-  kendisiyle ilgili), büyüklük, kıskançlık ve buyruk sanrıları; inanç sarsılmaz ve duygudurumdan bağımsızdır'
-- 'Negatif belirtiler: duygulanım düzleşmesi, alogi (konuşma fakirliği), avolition (amaçlı etkinlik başlatıp
-  sürdürememe), anhedoni ve asosyallik; işlev kaybının asıl belirleyicileri bunlardır ve ilaca yanıtları
-  pozitif belirtilerden zayıftır'
-- '6 ay süre kuralı: bozukluk toplam en az 6 ay sürmeli ve bu sürede en az 1 aylık aktif faz bulunmalı;
-  aktif fazda sanrılar, halüsinasyonlar, dağınık konuşma, belirgin dağınık-katatonik davranış ve negatif
-  belirtilerden en az ikisi (biri ilk üçten) olmalı; kalan süre prodromal ya da rezidüel belirtilerle
-  geçebilir'
-- 'İşlevsel düşüş iş, öğrenim, ilişkiler ve öz bakımda belirgindir; süre farklılıkları tanıyı değiştirir:
-  toplam 1-6 ay ise şizofreniform bozukluk, 1 günden 1 aya kadar sürüyorsa kısa psikotik bozukluk tanımlanır'
-- Aktif fazda ajitasyon, katatoni (mutizm, postür tutma, negatiflik), beslenmeyi bozan davranışlar ve
-  intihar riski olabilir; hastane yatışı çoğu ilk atakta gereklidir
+- "**İşitsel halüsinasyonlar en sık bulgudur**: kimse yokken sesler duyma, **buyruk verici sesler**; içgörü değişkendir"
+- "**Sanrılar**: **takip edilme ve zarar görme** en sık; **referans, büyüklük, kıskançlık ve buyruk** sanrıları; inanç **sarsılmaz** ve duygudurumdan bağımsızdır"
+- "**Negatif belirtiler**: duygulanım düzleşmesi, **alogi, avolition**, anhedoni, asosyallik; **işlev kaybının asıl belirleyicileri** bunlardır ve **ilaca yanıtları zayıftır**"
+- "**6 ay süre kuralı**: bozukluk toplam **en az 6 ay**, bu sürede **en az 1 aylık aktif faz**; aktif fazda sanrı, halüsinasyon, dağınık konuşma ve negatif belirtilerden **en az ikisi (biri ilk üçten)**"
+- "İşlevsel düşüş belirgindir; süre tanıyı değiştirir: toplam **1-6 ay ise şizofreniform**, **1 günden 1 aya kadar sürüyorsa kısa psikotik bozukluk**"
+- "Aktif fazda **katatoni** (mutizm, postür tutma, negatiflik) ve **intihar riski** olabilir; ilk atakta çoğunlukla **yatış** gereklidir"
 patognomonik: null
-ilk_tetkik: 'Tanı klinik psikiyatrik değerlendirmeye dayanır; laboratuvar şizofreni tanısını koymaz. İlk
-  psikozda organik ve madde kökenli taklitler dışlanır: tam kan sayımı, biyokimya, TSH, B12, idrar toksikolojisi;
-  gerektiğinde kafa MR/BT ve otoimmün ensefalit şüphesinde NMDA reseptör antikorları düşünülür. İntihar
-  ve başkasına zarar verme riski ayrıntılı değerlendirilir; tedavi planı için bazal kilo, açlık kan şekeri
-  ve lipid profili kaydedilir (metabolik izlem için başlangıç çizgisi)'
-kesin_tani: 'DSM-5-TR ölçütlerine göre: 1 ay boyunca (etkin tedaviyle daha kısa olabilir) sanrılar, halüsinasyonlar,
-  dağınık konuşma, belirgin dağınık ya da katatonik davranış ve negatif belirtilerden en az ikisinin —
-  en az biri sanrı, halüsinasyon ya da dağınık konuşma olmak koşuluyla — varlığı; bozukluk belirtilerinin
-  toplam 6 ay sürmesi; iş, öğrenim ya da öz bakımda belirgin işlev kaybı; şizoaffektif bozukluk ve psikotik
-  özellikli duygudurum bozukluklarının dışlanması (duygudurum epizodları aktif fazın yalnızca azınlık
-  bir bölümünde bulunmalı — psikoz duygudurumdan bağımsız ve sürekliyse şizofreni tanısı öne geçer); tablonun
-  bir maddenin fizyolojik etkisine ya da başka bir tıbbi duruma bağlanamaması'
-ilk_tedavi: 'Antipsikotik tedavi temeldir; ilk atakta 2. kuşak ilaçlar (aripiprazol, risperidon, olanzapin)
-  tercih edilir, akut ajitasyonda intramusküler olanzapin ya da haloperidole lorazepam eklenir. Seçim
-  yan etki profiline göre yapılır: yüksek potentli 1. kuşak ilaçlar (haloperidol) akut distoni (genç hastada
-  göz yukarı kayması, tortikollis — antikolinerjik biperiden), parkinsonizm, akatizi (yerinde duramama
-  huzursuzluğu — beta bloker) ve uzun kullanımda geç diskinezi (ağız-dil-çene istemsiz hareketleri) yapar;
-  düşük potentli klorpromazin antikolinerjik etkiler ve ortostatik hipotansiyonla oturur. 2. kuşak ilaçlarda
-  kilo alımı ve metabolik sendrom (diyabet, dislipidemi) öndedir; risperidon yüksek dozda ekstrapiramidal
-  belirti ve hiperprolaktinemi (amenore, galaktore) yapar. Tedaviye dirençli şizofreni (uygun doz ve sürede
-  en az iki antipsikotiğe yanıt yokluğu) ve süregiden intihar düşüncelerinde klozapin seçenektir; agranülositoz
-  riski nedeniyle düzenli nötrofil sayımı zorunludur, erken haftalarda miyokardit izlenir. Psikososyal
-  tedavi (bilişsel davranışçı terapi, aile eğitimi, sosyal beceri ve iş rehabilitasyonu) ilaçla birlikte
-  verilir; ilk atak sonrası idame en az 1-2 yıl, tekrarlayan tablolarda sürekli sürdürülür; tedaviyi bırakma
-  nüksün en sık nedenidir'
-klasik_komplikasyon: İntihar (yaşam boyu belirgin risk; klozapin bu riski azaltan tek ilaç) ve madde kötüye
-  kullanımı eş tanısı; ilaç kaynaklı geç diskinezi, metabolik sendrom ve nöroleptik malign sendrom (kas
-  rijiditesi, hipertermi, bilinç değişikliği, yüksek kreatin kinaz — dantrolen ve bromokriptin)
+ilk_tetkik: "Tanı **klinik psikiyatrik değerlendirmeye** dayanır; laboratuvar şizofreni tanısını koymaz. İlk psikozda organik-madde kökenli taklitler dışlanır: **tam kan sayımı, biyokimya, TSH, B12, idrar toksikolojisi**; gerektiğinde **kafa MR/BT** ve otoimmün ensefalit şüphesinde **NMDA reseptör antikorları**. **İntihar ve başkasına zarar verme riski** ayrıntılı değerlendirilir; metabolik izlem için **bazal kilo, açlık kan şekeri ve lipid profili** kaydedilir"
+kesin_tani: "**DSM-5-TR ölçütlerine göre**: **1 ay boyunca** (etkin tedaviyle kısalabilir) sanrılar, halüsinasyonlar, dağınık konuşma, dağınık-katatonik davranış; negatif belirtilerden **en az ikisi** — en az biri **sanrı, halüsinasyon ya da dağınık konuşma**. Belirtiler **toplam 6 ay** sürer; iş-öğrenim-öz bakımda **belirgin işlev kaybı** olur. **Şizoaffektif ve psikotik özellikli duygudurum bozuklukları dışlanır** — duygudurum epizodları aktif fazın **yalnızca azınlığında** bulunmalı; tablo **maddenin ya da tıbbi durumun** etkisine bağlanamaz"
+ilk_tedavi: "Antipsikotik tedavi temeldir; ilk atakta **2. kuşak ilaçlar (aripiprazol, risperidon, olanzapin)** tercih edilir, akut ajitasyonda **intramusküler olanzapin** ya da **haloperidole lorazepam** eklenir. **Yüksek potentli 1. kuşak (haloperidol)**: **akut distoni** (genç hastada — **antikolinerjik biperiden**), **parkinsonizm**, **akatizi (beta bloker)**, uzun kullanımda **geç diskinezi**. **2. kuşaklarda kilo alımı ve metabolik sendrom** önde; **risperidon yüksek dozda hiperprolaktinemi** (**amenore, galaktore**) yapar. **Tedaviye dirençli şizofreni** (uygun doz-sürede **iki antipsikotiğe yanıt yokluğu**) ve **süregiden intihar düşüncelerinde klozapin** seçenektir; **agranülositoz riski nedeniyle düzenli nötrofil sayımı zorunlu**, erken haftalarda **miyokardit** izlenir. Psikososyal tedavi (**bilişsel davranışçı terapi, aile eğitimi, rehabilitasyon**) birlikte verilir; ilk atak sonrası idame **en az 1-2 yıl**; **tedaviyi bırakma nüksün en sık nedenidir**"
+klasik_komplikasyon: "**İntihar** (yaşam boyu belirgin risk; **klozapin bu riski azaltan tek ilaç**) ve **madde kötüye kullanımı** eş tanısı; ilaç kaynaklı **geç diskinezi, metabolik sendrom** ve **nöroleptik malign sendrom** (kas rijiditesi, hipertermi, yüksek kreatin kinaz — **dantrolen ve bromokriptin**)"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-39
 - tus-2015-ilkbahar-ttbt-105

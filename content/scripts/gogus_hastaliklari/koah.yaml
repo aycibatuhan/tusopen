@@ -11,38 +11,43 @@ taksonomi:
   - gogus_hastaliklari
   - gog_obstruktif
   - gog_ob_koah
-tipik_hasta: Yıllardır sigara içen orta ve ileri yaş hastası; kışları artan balgamlı öksürük ve yıllar
-  içinde sinsi ilerleyen nefes darlığıyla gelir; tekrarlayan alevlenme ve yatış öyküsü olur; muayenede
-  uzayan ekspiryum, hırıltı, ileri olguda fıçı göğüs ve sağ kalp yetmezliği bulguları saptanır
-patofizyoloji: Sigara dumanı ve zararlı gazlara karşı gelişen kronik iltihap; küçük havayollarında daralma
-  ve peribronkiyolar fibrozis (kronik bronşit bileşeni) ile alveol duvarı yıkımı ve elastik geri çekilmenin
-  kaybı (amfizem bileşeni) birlikte ilerler. Ekspiryumda havayolları çöker, hava hapsi gelişir; obstruksiyonun
-  büyük bölümü geri dönüşümsüzdür, bronkodilatörle yalnızca sınırlı düzelme görülür
+tipik_hasta: "Yıllardır **sigara** içen orta ve ileri yaş hastası; **kışları artan balgamlı öksürük** ve
+  yıllar içinde **sinsi ilerleyen nefes darlığı**yla gelir. **Tekrarlayan alevlenme** ve yatış öyküsü
+  olur; muayenede **uzayan ekspiryum**, **hırıltı**, ileri olguda **fıçı göğüs** ve **sağ kalp
+  yetmezliği** bulguları saptanır"
+patofizyoloji: "**Sigara dumanı** ve zararlı gazlara karşı gelişen **kronik iltihap**; **küçük
+  havayollarında daralma** ve **peribronkiyolar fibrozis** (kronik bronşit bileşeni) ile **alveol duvarı
+  yıkımı** ve **elastik geri çekilme kaybı** (amfizem bileşeni) birlikte ilerler. **Ekspiryumda
+  havayolları çöker**, **hava hapsi** gelişir; obstruksiyonun büyük bölümü **geri dönüşümsüz**dür,
+  bronkodilatörle yalnızca **sınırlı** düzelme görülür"
 anahtar_bulgular:
-- Bronkodilatör sonrası bile bir saniyelik soluk hacmin zorlu vital kapasiteye oranının yüzde yetmişin
-  altında kalması (tanının eşiği)
-- Astımdan farklı olarak bronkodilatör yanıtın sınırlı ve geçici kalması; GOLD 2024 tek ölçümde geri
-  dönüşüm derecesinin ölçülmesini tedavi kararları ya da astım ayırımı için önermez
-- Yıllar içinde ilerleyen efor nefes darlığı, kronik balgam üretimi ve kış alevlenmeleri
-- İleri olguda fıçı göğüs, uzayan ekspiryum, büzülmüş dudakla nefes verme; kan gazında karbondioksit birikimi
-- 'Sağ kalp yetmezliği bulguları: boyun venlerinde dolgunluk, hepatomegali, bacak ödemi (kor pulmonale)'
+- "**Bronkodilatör sonrası bile FEV1/FVC oranının yüzde 70'in altında** kalması (tanının eşiği)"
+- "Astımdan farklı olarak **bronkodilatör yanıtın sınırlı ve geçici** kalması; **GOLD 2024** tek ölçümde
+  geri dönüşüm derecesinin ölçülmesini tedavi kararları ya da **astım ayırımı** için önermez"
+- "Yıllar içinde ilerleyen **efor nefes darlığı**, **kronik balgam üretimi** ve **kış alevlenmeleri**"
+- "İleri olguda **fıçı göğüs**, **uzayan ekspiryum**, **büzülmüş dudakla nefes verme**; kan gazında
+  **karbondioksit birikimi**"
+- "**Sağ kalp yetmezliği** bulguları: **boyun venlerinde dolgunluk**, **hepatomegali**, **bacak
+  ödemi** (**kor pulmonale**)"
 patognomonik: null
-ilk_tetkik: Bronkodilatör sonrası spirometri; toraks grafisi, oksijen satürasyonu ve gerekiyorsa arter
-  kan gazı
-kesin_tani: Bronkodilatör sonrası bir saniyelik soluk hacmin zorlu vital kapasiteye oranının yüzde yetmişin
-  altında olması, kronik nefes darlığı, öksürük ve balgam öyküsüyle birleşince tanı konur. Şiddet bir
-  saniyelik hacmin tahmin edilen değere yüzdesine göre derecelendirilir; semptom skoru (mMRC ya da CAT) ve
-  bir yıllık alevlenme öyküsü GOLD 2024 A, B, E gruplamasını belirler — yılda 2 ve üzeri orta alevlenme ya
-  da yatış gerektiren 1 alevlenme hastayı semptom düzeyinden bağımsız olarak E grubuna taşır
-ilk_tedavi: Sigaranın bıraktırılması en etkili tekil müdahaledir. GOLD 2024 başlangıç ilaç seçimi A, B, E
-  gruplamasına göre yapılır — A grubunda uzun etkili bronkodilatör; B ve E gruplarında başlangıçta uzun
-  etkili muskarin antagonisti ile uzun etkili beta-2 agonistin kombinasyonu; E grubunda kan eozinofilisi
-  mikrolitrede 300 ve üzerindeyse başlangıçta inhale kortikosteroid içeren üçlü tedavi düşünülür, izlemde
-  ise eozinofilisi 100 üzerinde olan ve LABA-LAMA tedavisine karşın alevlenmeye devam eden hastaya inhale
-  kortikosteroid eklenir. Alevlenmede kısa etkili bronkodilatör, sistemik steroid ve pürülan balgamda
-  antibiyotik; uzun dönemde pulmoner rehabilitasyon ve grip, pnömokok, COVID-19 aşıları
-klasik_komplikasyon: Tekrarlayan akut alevlenmeler ve tip iki solunum yetmezliği (karbondioksit retansiyonu);
-  uzun dönemde polisitemi, pulmoner hipertansiyon ve kor pulmonale
+ilk_tetkik: "**Bronkodilatör sonrası spirometri**; **toraks grafisi**, **oksijen satürasyonu** ve
+  gerekiyorsa **arter kan gazı**"
+kesin_tani: "**Bronkodilatör sonrası FEV1/FVC oranının yüzde 70 altı** olması, **kronik nefes darlığı**,
+  **öksürük-balgam** öyküsüyle birleşince tanı konur. Şiddet **FEV1**'in tahmin edilen değere yüzdesine
+  göre derecelendirilir; **mMRC ya da CAT** semptom skoru ve **yıllık alevlenme** öyküsü **GOLD 2024 A,
+  B, E gruplaması**nı belirler. **Yılda 2 ve üzeri orta alevlenme** ya da **yatış gerektiren 1
+  alevlenme** hastayı semptom düzeyinden bağımsız olarak **E grubuna** taşır"
+ilk_tedavi: "**Sigaranın bıraktırılması** en etkili tekil müdahaledir. **GOLD 2024** başlangıç ilaç
+  seçimi gruplamaya göre yapılır: **A grubunda uzun etkili bronkodilatör**; **B ve E gruplarında**
+  başlangıçta **LAMA ile LABA** kombinasyonu. **E grubunda kan eozinofilisi mikrolitrede 300 ve
+  üzerindeyse** başlangıçta **inhale kortikosteroid** içeren **üçlü tedavi** düşünülür; izlemde
+  **eozinofili 100 üsti**nde olan ve **LABA-LAMA**'ya karşın **alevlenmeye devam eden** hastaya **inhale
+  kortikosteroid** eklenir. Alevlenmede **kısa etkili bronkodilatör**, **sistemik steroid** ve
+  **pürülan balgam**da **antibiyotik**; uzun dönemde **pulmoner rehabilitasyon** ve **grip**,
+  **pnömokok**, **COVID-19** aşıları"
+klasik_komplikasyon: "Tekrarlayan **akut alevlenmeler** ve **tip iki solunum yetmezliği**
+  (**karbondioksit retansiyonu**). Uzun dönemde **polisitemi**, **pulmoner hipertansiyon** ve **cor
+  pulmonale**"
 ayirici:
 - hastalik: astim
   ayirt_edici: Astımda çocuklukta başlayan değişken şikâyetler, atopi ve belirgin bronkodilatör yanıtı

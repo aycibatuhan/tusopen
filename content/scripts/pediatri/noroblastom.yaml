@@ -12,40 +12,20 @@ taksonomi:
   - pediatri
   - ped_onkoloji
   - ped_onk_noroblastom
-tipik_hasta: İki yaşından küçük (tepe bir-iki yaş) bebek ve çocuk; annenin banyo ya da giydirme sırasında
-  fark ettiği karın kitlesi, iştahsızlık ve kilo kaybıyla gelen; göz çevresinde morluklar, tek taraflı
-  göz küresi çıkması ya da göz kapağı düşüklüğü, istemsiz göz ve uzuv hareketleri, açıklanamayan ishal
-  (bazı tümörlerde hormon salgısı) de başvuru biçimidir
-patofizyoloji: Sempatik sinir sisteminin nöroblastlarından (nöral krest kaynaklı) gelişen embriyonel tümör;
-  en sık böbreküstü bezinde, onun ardından paravertebral sempatik zincir boyunca yerleşir. Tümör katekolamin
-  üretir ve metabolitleri (vanililmandelik asit, homovanilik asit) idrara çıkar; kemik, kemik iliği, karaciğer,
-  lenf düğümü ve cilde geniş çaplı metastaz eğilimi vardır. MYCN amplifikasyonu ve kromozom 1p kaybı yüksek
-  risk işaretleridir; bebeklerde uzak metastaz olsa bile kendiliğinden gerileyebilen özel örüntü (evre
-  4S) tanımlanmıştır
+tipik_hasta: "**İki yaşından küçük** (tepe **bir-iki yaş**) bebek ve çocuk; annenin banyo/giydirme sırasında fark ettiği **karın kitlesi**, iştahsızlık ve kilo kaybı; **Göz çevresinde morluklar**, tek taraflı **göz küresi çıkması** veya göz kapağı düşüklüğü, **istemsiz göz-uzuv hareketleri**, açıklanamayan **ishal** (hormon salgısı) başka başvuru biçimleri"
+patofizyoloji: "**Sempatik sinir sisteminin nöroblastlarından** (nöral krest kaynaklı) gelişen **embriyonel tümör**; en sık **böbreküstü bezinde**, sonra **paravertebral sempatik zincir** boyunca. Tümör **katekolamin** üretir; metabolitleri (**vanililmandelik asit**, **homovanilik asit**) **idrara** çıkar; **Kemik, kemik iliği, karaciğer, lenf düğümü ve cilt**e geniş çaplı **metastaz** eğilimi; **MYCN amplifikasyonu** ve **kromozom 1p kaybı** yüksek risk işareti; bebeklerde uzak metastazla bile **kendiliğinden gerileyen özel örüntü (evre 4S)**"
 anahtar_bulgular:
-- Karnın ortasında ya da yanında sert, düzensiz, orta hattı aşabilen kitle; sıklıkla karaciğer büyümesi
-  eşlik eder
-- İdrarda katekolamin metabolitlerinin (vanililmandelik asit ve homovanilik asit) artışı; kanda laktat
-  dehidrojenaz ve nöron özgül enolaz yüksekliği
-- 'Orbita metastazı: iki göz çevresinde morluklar (rakun göz görünümü) ve göz küresinin öne çıkması'
-- 'Boyun ve üst göğüs tutulumunda Horner sendromu: göz kapağı düşüklüğü, göz bebeği küçüklüğü, yüzde terlemesizlik'
-- 'Paraneoplastik opsoklonus-miyoklonus-ataksi: gözlerin ve uzuvların istemsiz, hızlı, ritimsiz hareketleri;
-  çocuk dengesini yitirir'
-- Bebeklerde ciltte mavi-mor nodüller (metastaz); bazı tümörlerde vazoaktif bağırsak peptidi salgısına
-  bağlı uzun süren ishal
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — İdrarda katekolamin metabolitlerinin (vanililmandelik asit, homovanilik asit) artışı
-ilk_tetkik: İdrarda vanililmandelik asit ve homovanilik asit ölçümü; karın ultrasonografisi ve bilgisayarlı
-  tomografide dokulu, içinde kalsifikasyon görülen tümör; metastaz araştırmasında MIBG sintigrafi ve kemik
-  iliği aspirasyonu
-kesin_tani: Tümör dokusunun biyopsisi (histopatoloji, MYCN amplifikasyonu ve kromozom incelemeleri dahil);
-  klinik görüntüyle birlikte idrar katekolamin metabolitlerinin yüksekliği tümörün sempatik nöral kaynaklı
-  olduğunu gösterir
-ilk_tedavi: 'Risk grubuna göre belirlenir: düşük riskli ve evre 4S bebeklerde gözlem ve bekleyiş (kendiliğinden
-  gerileme beklentisi); yüksek riskte önce kemoterapi, sonra cerrahi rezeksiyon, ardından yüksek doz kemoterapi
-  ve kök hücre desteği, radyoterapi ve diferansiasyon tedavisi (retinoik asit)'
-klasik_komplikasyon: 'Uzak metastazlarla ilerleyen tablo: kemik iliği yetmezliği, karaciğerin hızla büyümesi,
-  kemik ağrıları; paraneoplastik sendromlar (opsoklonus-miyoklonus, kronik ishal); yüksek risk olgularda
-  relaps; yoğun tedavinin uzun dönem toksisitesi'
+- "Karnın ortasında ya da yanında **sert, düzensiz, orta hattı aşabilen kitle**; sıklıkla **karaciğer büyümesi** eşlik eder"
+- "İdrarda **katekolamin metabolitleri** (**vanililmandelik asit**, **homovanilik asit**) artışı; kanda **laktat dehidrojenaz** ve **nöron özgül enolaz** yüksekliği"
+- "**Orbita metastazı**: iki göz çevresinde morluklar (**rakun göz**) ve **göz küresinin öne çıkması**"
+- "Boyun-üst göğüs tutulumunda **Horner sendromu**: göz kapağı düşüklüğü, göz bebeği küçüklüğü, yüzde **terlemesizlik**"
+- "**Paraneoplastik opsoklonus-miyoklonus-ataksi**: gözlerin ve uzuvların istemsiz, hızlı, ritimsiz hareketleri; çocuk **dengesini yitirir**"
+- "Bebeklerde ciltte **mavi-mor nodüller** (metastaz); bazı tümörlerde **vazoaktif bağırsak peptidi** salgısına bağlı uzun süren **ishal**"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **idrarda katekolamin metabolitlerinin** (**vanililmandelik asit**, **homovanilik asit**) artışı"
+ilk_tetkik: "İdrarda **vanililmandelik asit** ve **homovanilik asit** ölçümü; **Karın ultrasonografisi** ve **bilgisayarlı tomografi**: dokulu, içinde **kalsifikasyon** görülen tümör. Metastaz araştırmasında **MIBG sintigrafi** ve **kemik iliği aspirasyonu**"
+kesin_tani: "**Tümör dokusunun biyopsisi** (histopatoloji, **MYCN amplifikasyonu**, kromozom incelemeleri). İdrar **katekolamin metabolitlerinin** yüksekliği tümörün **sempatik nöral kaynaklı** olduğunu gösterir"
+ilk_tedavi: "**Risk grubuna göre**: düşük riskli ve **evre 4S** bebeklerde **gözlem ve bekleyiş** (**kendiliğinden gerileme** beklentisi); **Yüksek riskte** önce **kemoterapi**, sonra **cerrahi rezeksiyon**, ardından **yüksek doz kemoterapi ve kök hücre desteği**, **radyoterapi** ve **diferansiasyon tedavisi (retinoik asit)**"
+klasik_komplikasyon: "Uzak **metastaz**larla ilerleyen tablo: **kemik iliği yetmezliği**, karaciğerin hızla büyümesi, **kemik ağrıları**; **Paraneoplastik sendromlar** (opsoklonus-miyoklonus, kronik ishal); yüksek risk olgularda **relaps**; yoğun tedavinin **uzun dönem toksisitesi**"
 tus_gecmisi:
 - tus-2015-ilkbahar-ktbt-61
 - tus-2017-ilkbahar-ktbt-60

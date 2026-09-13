@@ -10,28 +10,19 @@ taksonomi:
   - enfeksiyon_hastaliklari
   - enf_deri_yumusak_doku
   - enf_dy_isirik_yaralari
-tipik_hasta: Aşısı eksik veya on yıldan eski, derin-kirli-kontamine yara öyküsü olan hasta (tarım ve bahçe
-  işi kazaları, ısırma, çivi batması); ülkemizde çoğunlukla yaşlı ve kırsalda yaşayan kişilerde görülür
-patofizyoloji: Clostridium tetani toprak ve dışkıda spor halinde bekler; oksijensiz, derin yarada çoğalır
-  ve tetanospazmin toksinini salgılar. Toksin nöromüsküler uçtan geriye sinir boyunca omuriliğe taşınır
-  ve inhibe edici ara nöronların salgıladığı glisin ile GABA'nın etkinliğini bloke eder; sonuç, kasların
-  sürekli kasılması ve ağrılı spazmlardır. Toksin sinir dokusuna bağlandıktan sonra antitoksin artık işe
-  yaramaz; bu nedenle korunma yaraya yönelik kademeli profilaksiyle sağlanır
+tipik_hasta: "Aşısı eksik veya **on yıldan eski**; **derin-kirli-kontamine yara** öyküsü olan hasta (tarım ve bahçe işi kazaları, **ısırma**, **çivi batması**). Ülkemizde çoğunlukla **yaşlı** ve **kırsalda** yaşayan kişilerde görülür"
+patofizyoloji: "**Clostridium tetani** toprak ve dışkıda **spor** halinde bekler; **oksijensiz, derin yara**da çoğalır ve **tetanospazmin** toksinini salgılar. Toksin nöromüsküler uçtan geriye sinir boyunca omuriliğe taşınır; inhibe edici ara nöronların salgıladığı **glisin** ile **GABA**'nın etkinliğini bloke eder. Sonuç, kasların sürekli kasılması ve ağrılı **spazm**lardır. Toksin sinir dokusuna bağlandıktan sonra **antitoksin** artık işe yaramaz; bu nedenle korunma **kademeli yara profilaksisi**yle sağlanır"
 anahtar_bulgular:
-- Çene kilitlenmesi (trismus) ve risus sardonicus (gülümseme taklidi yüz çizgisi)
-- Karın duvarı ve sırt kaslarının sürekli kasılması; opistotonus (yay biçimi gerilme)
-- Küçük uyarılarla (ışık, ses, dokunma) tetiklenen ağrılı, aralıklı genel kas spazmları
-- Bilincin tamamen açık kalması; ateşsiz seyir
-- Yaradan belirtilere kadar günlerce aylarca uzayabilen kuluçka süresi
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Trismusla başlayıp gövdeye yayılan, bilincin açık kaldığı ağrılı kas spazmları
-ilk_tetkik: Tamamen klinik; tanıyı doğrulayan laboratuvar testi yoktur, yaradan kültür güvenilir değildir;
-  solunum fonksiyonu ve otonom bulguların izlenmesi için yakın takip yeterlidir
-kesin_tani: 'Klinik tablo: trismus, geneli tutan sertlik ve aralıklı spazmların, bilincin açık kaldığı
-  seyirle birlikte görülmesi'
-ilk_tedavi: İnsan tetanoz immünglobülini (TIG); yaranın cerrahi temizliği (debridman); metronidazol; diazepam
-  gibi kas gevşeticiler, sessiz ve loş bir ortam; solunum yolu güvenliği için gerektiğinde entübasyon
-klasik_komplikasyon: Solunum kaslarının spazmıyla solunum yetmezliği; otonom sinir sistemi dengesizliği
-  (hipertansiyon-hipotansiyon, aritmi); yatışa bağlı ikincil enfeksiyonlar
+- "**Çene kilitlenmesi (trismus)** ve **risus sardonicus** (gülümseme taklidi yüz çizgisi)"
+- "Karın duvarı ve sırt kaslarının sürekli kasılması; **opistotonus** (yay biçimi gerilme)"
+- "Küçük uyarılarla (**ışık**, **ses**, **dokunma**) tetiklenen ağrılı, aralıklı genel **kas spazm**ları"
+- "**Bilincin tamamen açık** kalması; **ateşsiz** seyir"
+- "Yaradan belirtilere kadar **günlerce aylarca** uzayabilen **kuluçka süresi**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **trismus**la başlayıp gövdeye yayılan, **bilincin açık kaldığı** ağrılı kas spazmları"
+ilk_tetkik: "Tamamen **klinik**; tanıyı doğrulayan **laboratuvar testi yoktur**, yaradan **kültür güvenilir değildir**; **solunum fonksiyonu** ve **otonom bulgular**ın izlenmesi için yakın takip yeterlidir"
+kesin_tani: "**Klinik tablo**: **trismus**, geneli tutan **sertlik** ve **aralıklı spazm**ların, **bilincin açık kaldığı** seyirle birlikte görülmesi"
+ilk_tedavi: "**İnsan tetanoz immünglobülini (TIG)**; yaranın **cerrahi temizliği (debridman)**; **metronidazol**. **Diazepam** gibi **kas gevşeticiler**, sessiz ve **loş** bir ortam; solunum yolu güvenliği için gerektiğinde **entübasyon**"
+klasik_komplikasyon: "Solunum kaslarının spazmıyla **solunum yetmezliği**; **otonom sinir sistemi dengesizliği** (**hipertansiyon-hipotansiyon**, **aritmi**); yatışa bağlı **ikincil enfeksiyonlar**"
 tus_gecmisi:
 - tus-2015-ilkbahar-ktbt-38
 - tus-2020-ilkbahar-ktbt-44

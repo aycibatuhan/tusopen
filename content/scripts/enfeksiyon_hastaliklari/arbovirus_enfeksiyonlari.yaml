@@ -11,32 +11,20 @@ taksonomi:
   - enfeksiyon_hastaliklari
   - enf_zoonoz
   - enf_zo_arbovirus
-tipik_hasta: Sivrisinek mevsiminde vektörle temas etmiş veya endemik bölgeye seyahat etmiş hasta; Batı
-  Nili özellikle elli yaş üzerindeki ve bağışıklık baskılanması olan kişilerde ağır seyreder, Dang ise
-  tropik bölgeden ateşle dönen hastada akla gelir
-patofizyoloji: Flavivirus grubu bu virüsler Aedes ve Culex sivrisineklerinin ısırmasıyla insana geçer.
-  Batı Nil virüsü insanların çoğunda sessiz kalır; viremiyi aşıp santral sinir sistemine girdiğinde menenjit,
-  ensefalit veya akut flakid paraliz yapar. Dang virüsü damar iç duvarını etkileyip geçirgenliği artırır
-  ve trombositopeniye yol açar; farklı serotipte ikinci enfeksiyon immün şiddetlenmeyle ağır tabloya kayabilir
+tipik_hasta: "Sivrisinek mevsiminde **vektörle temas** etmiş veya **endemik bölge** seyahati olan hasta. Batı Nili **elli yaş üstünde** ve **bağışıklık baskılanması** olanlarda ağır seyreder; Dang, **tropik bölgeden** ateşle dönen hastada akla gelir"
+patofizyoloji: "**Flavivirus** grubu bu virüsler **Aedes** ve **Culex** sivrisineklerinin ısırmasıyla insana geçer. Batı Nil çoğunlukla sessiz kalır; **santral sinir sistemine** ulaştığında menenjit, **ensefalit** veya akut **flakid paraliz** yapar. Dang virüsü **damar geçirgenliğini** artırır ve **trombositopeni**ye yol açar; farklı serotipte ikinci enfeksiyon **immün şiddetlenme**yle ağır tabloya kayabilir"
 anahtar_bulgular:
-- Ateş, baş ağrısı, kas-eklem ağrısı, döküntü; Dangda retro-orbital ağrı ve bel ağrısı öne çıkar
-- 'Batı Nili: olguların çoğu asemptomatik, bir bölümünde hafif ateşli hastalık; kuluçka süresi iki günden
-  iki haftaya'
-- 'Batı Nil nöroinvasif hastalık: ensefalit veya menenjit, bilinç değişikliği, akut flakid paraliz; ileri
-  yaş ve bağışıklık baskılanması en önemli risk'
-- Dangda trombositopeni ve hematokritte yükselme (plazma kaybının erken habercisi); karın ağrısı, kusma,
-  huzursuzluk alarm bulgusudur
-- 'Şiddetli dang: damar geçirgenliğinin artmasına bağlı plazma sızıntısı ve dolaşım şoku'
-- 'Tanı testleri: erken dönemde PCR veya NS1 antijen, ardından IgM serolojisi'
+- "Ateş, baş ağrısı, kas-eklem ağrısı, döküntü; Dangda **retro-orbital ağrı** ve bel ağrısı öne çıkar"
+- "Batı Nilli olguların çoğu **asemptomatik**, bir kısmı hafif ateşli; kuluçka **iki günden iki haftaya**"
+- "**Nöroinvasif Batı Nil**: ensefalit, menenjit, bilinç değişikliği, akut flakid paraliz; risk **ileri yaş** ve **bağışıklık baskılanması**"
+- "Dangda **trombositopeni** ve **hematokrit yükselmesi** (plazma kaybının habercisi); **karın ağrısı, kusma, huzursuzluk** alarm bulgusudur"
+- "Şiddetli dang: **plazma sızıntısı** ve **dolaşım şoku**"
+- "Erken dönemde **PCR** veya **NS1 antijen**, ardından **IgM** serolojisi"
 patognomonik: null
-ilk_tetkik: Serum IgM ELISA ve erken dönemde PCR; Dangda trombosit, hematokrit ve albümin takibi; nöroinvasif
-  Batı Nil şüphesinde beyin omurilik sıvısı incelemesi (özellikle lenfositer sitoz)
-kesin_tani: Batı Nilde IgM pozitifliği (gerektiğinde plak azaltılmış nötralizasyon testi); Dangda NS1
-  antijen veya PCR pozitifliği, ikinci haftada IgM dönüşümü
-ilk_tedavi: Özgül antiviral yok; destekleyici tedavi esastır. Dangda aspirin ve steroidal olmayan antiinflamatuvarlardan
-  kaçınılır (kanama riski); şok bulgularında dikkatli ve erken damar içi sıvı verilir, aşırı yükten sakınılır
-klasik_komplikasyon: Şiddetli dangda plazma sızıntısına bağlı hipovolemik şok; Batı Nilde uzun süren nörolojik
-  sekeller
+ilk_tetkik: "Serum **IgM ELISA** ve erken dönemde **PCR**; Dangda **trombosit, hematokrit ve albümin** takibi; nöroinvasif Batı Nil şüphesinde **beyin omurilik sıvısı** incelemesi (lenfositer sitoz)"
+kesin_tani: "Batı Nilde **IgM** pozitifliği (gerektiğinde **plak azaltılmış nötralizasyon** testi); Dangda **NS1 antijen** veya **PCR** pozitifliği, ikinci haftada **IgM dönüşümü**"
+ilk_tedavi: "**Özgül antiviral** yok; tedavi **destekleyicidir**. Dangda **aspirin** ve **steroidal olmayan antiinflamatuvar**lardan kaçınılır (kanama riski); şokta erken ve dikkatli **damar içi sıvı**, aşırı yükten sakınılır"
+klasik_komplikasyon: "Şiddetli dangda **hipovolemik şok** (plazma sızıntısına bağlı); Batı Nilde uzun süren **nörolojik sekeller**"
 tus_gecmisi:
 - tus-2017-ilkbahar-ttbt-66
 kart_uret:

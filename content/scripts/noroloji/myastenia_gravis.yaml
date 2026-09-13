@@ -12,35 +12,19 @@ taksonomi:
   - noroloji
   - noro_noromuskuler
   - noro_nm_miyastenia
-tipik_hasta: Genç kadın veya 50 yaş üstü erkek; çift görmeye veya göz kapağı düşmesine eşlik eden, çiğneme-yutma
-  güçlüğü ve gün içinde artan yorgunlukla gelen hasta; sabah ilk saatlerde iyi olan, gün ilerledikçe ve
-  aktiviteyle kötüleşen güçsüzlük tanıya yakın ipucudur
-patofizyoloji: 'Nöromusküler kavşağın postsinaptik tarafına karşı gelişen otoimmün hastalıktır: asetilkolin
-  reseptörüne karşı IgG antikorlar reseptörü bloke eder, içselleştirip yıkar ve komplement aracılı zar
-  hasarına yol açar; böylece sinir uyarısıyla açığa çıkan asetilkolin, küçülmüş kavşak plakasında yeterli
-  reseptör bulamaz ve kas yeterince kasılamaz; genç hastalarda timik hiperplazi, 50 yaş üstünde ise timom
-  sık bulunur'
+tipik_hasta: "**Genç kadın** veya **50 yaş üstü erkek**; **çift görme** veya **göz kapağı düşmesi**yle, **çiğneme-yutma güçlüğü** ve gün içinde artan yorgunlukla gelen hasta; **Sabah iyi, gün ilerledikçe ve aktiviteyle kötüleşen** güçsüzlük tanıya yakın ipucudur"
+patofizyoloji: "**Nöromusküler kavşağın postsinaptik** tarafına karşı **otoimmün** hastalık: **asetilkolin reseptörüne karşı IgG antikorlar** reseptörü bloke eder, **içselleştirip yıkar** ve **komplement aracılı zar hasarı** yapar. Sinir uyarısıyla açığa çıkan asetilkolin **küçülmüş kavşak plakasında yeterli reseptör bulamaz**, kas yeterince kasılamaz. Genç hastalarda **timik hiperplazi**, **50 yaş üstünde timom** sık"
 anahtar_bulgular:
-- 'Yorulabilen ve dalgalanan (fluktuantan) kas güçsüzlüğü: sabah iyi, akşam kötü'
-- 'Oftalmoparezi ve pitoz: çoğu hastada ilk bulgu; göz küresinin hareket kısıtlılığı çift görme yaratır'
-- 'Bulbar tutulum: çiğneme, yutma ve konuşma güçlüğü; mimik kaslarının zayıflığı'
-- Anti-asetilkolin reseptör antikor (anti-AChR) pozitifliği; antikor negatifse anti-MuSK araştırılır
-- Toraks BT'de timoma veya timik hiperplazi
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Edrofoniyum (kısa etkili antikolinesteraz) testindeki geçici belirgin düzelme: ilaç asetilkolinesterazı
-  baskılayarak kavşaktaki asetilkolini artırır ve yorulmuş kas anında gücünü kazanır; benzer mantıkla
-  soğuk paket testi pitozda geçici düzelme sağlar'
-ilk_tetkik: Serum anti-AChR antikoru ve negatifse anti-MuSK; toraks BT (timom araştırması); tiroid fonksiyon
-  testleri (eşlik eden otoimmün hastalık sıklığı); muayenede yorulma provokasyonu (uzun süre yukarı bakış)
-  ve soğuk paket testi
-kesin_tani: 'Elektrodiagnostik doğrulama: sinire tekrarlı düşük frekanslı uyarıda bileşik kas aksiyon
-  potansiyeli amplitüdünde azalma (dekrement); en duyarlı yöntem tek lif EMG''de jitter artışıdır; klinik
-  yorulabilen güçsüzlük + antikor veya dekrement kanıtı tanıyı tamamlar'
-ilk_tedavi: Piridostigmin (asetilkolinesteraz inhibitörü) semptomatik başlangıçtır; kronik kontrol için
-  prednizon ve steroidten bağımsız ajanlar (azatioprin, mikofenolat) eklenir; timom saptanırsa timektomi;
-  miyastenik krizde solunum desteği ve hızlı immünoterapi (plazmaferez veya IVIg)
-klasik_komplikasyon: 'Miyastenik kriz: solunum kaslarının tutulumuyla gelen solunum yetmezliği, yoğun
-  bakım gerektirir; kolinerjik kriz: aşırı antikolinesteraz dozunun kendisinin yarattığı güçsüzlük, muskarinik
-  bulgular (salivasyon, diyare, miosis) ile miyastenik krizden ayrılır'
+- "**Yorulabilen, dalgalanan (fluktuantan) kas güçsüzlüğü**: **sabah iyi, akşam kötü**"
+- "**Oftalmoparezi ve pitoz**: çoğu hastada **ilk bulgu**; göz hareket kısıtlılığı **çift görme** yaratır"
+- "**Bulbar tutulum**: **çiğneme, yutma, konuşma güçlüğü**; **mimik kaslarının zayıflığı**"
+- "**Anti-asetilkolin reseptör (anti-AChR) antikor** pozitifliği; negatifse **anti-MuSK** araştırılır"
+- "**Toraks BT**'de **timoma** veya **timik hiperplazi**"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **edrofoniyum (kısa etkili antikolinesteraz) testinde geçici belirgin düzelme** — benzer mantıkla **soğuk paket testi** pitozda geçici düzelme sağlar"
+ilk_tetkik: "**Serum anti-AChR antikoru**; negatifse **anti-MuSK**; **Toraks BT** (**timoma** araştırması); **tiroid fonksiyon testleri** (eşlik eden **otoimmün hastalık** sıklığı). Muayenede **yorulma provokasyonu** (uzun süre yukarı bakış) ve **soğuk paket testi**"
+kesin_tani: "**Sinire tekrarlı düşük frekanslı uyarıda bileşik kas aksiyon potansiyeli amplitüdünde azalma (dekrement)**. En duyarlı yöntem **tek lif EMG'de jitter artışı**dır; **klinik yorulabilen güçsüzlük** + **antikor veya dekrement** kanıtı tanıyı tamamlar"
+ilk_tedavi: "**Piridostigmin** (asetilkolinesteraz inhibitörü) **semptomatik başlangıçtır**. Kronik kontrol: **prednizon** ve steroidten bağımsız **azatioprin**, **mikofenolat**; **timom** saptanırsa **timektomi**; **Miyastenik krizde** **solunum desteği** ve hızlı immünoterapi (**plazmaferez** veya **IVIg**)"
+klasik_komplikasyon: "**Miyastenik kriz**: **solunum kaslarının tutulumuyla gelen solunum yetmezliği**, yoğun bakım gerektirir; **Kolinerjik kriz**: **aşırı antikolinesteraz** dozunun yarattığı güçsüzlük; **muskarinik bulgular** (**salivasyon, diyare, miosis**) ile ayrılır"
 tus_gecmisi:
 - tus-2013-sonbahar-ttbt-109
 - tus-2014-ilkbahar-ktbt-31

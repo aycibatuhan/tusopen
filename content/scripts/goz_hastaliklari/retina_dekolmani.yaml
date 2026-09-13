@@ -8,19 +8,19 @@ sources:
 ad: Retina Dekolmanı
 taksonomi:
   - [ktbt, goz_hastaliklari, goz_retina_vitreus, goz_rv_retina_dekolmani]
-tipik_hasta: "İleri miyoplu, katarakt ameliyatı geçirmiş ya da yakın zamanda göz travması yaşamış hastada; önceki günlerde ani çoğalan uçan cisimcikler ve ışık çakmalarından sonra, görüş alanının bir kenarından başlayıp merkez doğru genişleyen koyu bir perde ya da gölge tarif eden hasta; ağrının hiç olmaması ve gözün dışarıdan bambaşka sakin görünmesi tanıyı geciktiren klasik durumdur"
-patofizyoloji: "Dekolman çoğu kez retinal yırtıkla başlar: yaşla gevşeyen vitreus arka ayrılma (arka vitreus dekolmanı) sırasında periferik retinayı çeker ve yerinde bir yırtık açar; sıvı vitreus bu yırtıktan retinanın pigment epiteliyle duyu katmanı arasına sızar ve retinayı yerinden kaldırır. Ayrılan bölgedeki fotoreseptörler iş göremez; hastanın gördüğü perde, gözün içindeki gerçek anatomik perdedir. Yırtık üst retinadaysa sıvı yerçekimiyle aşağıya iner ve perde hızla genişler; ayrılma makulaya ulaşınca merkezi görme tehdit altındadır"
+tipik_hasta: "**İleri miyop**lu, **katarakt ameliyatı** geçirmiş ya da yakın zamanda **göz travması** yaşamış hastada; önceki günlerde **ani çoğalan uçan cisimcikler** ve **ışık çakmaları**ndan sonra. Görüş alanının bir kenarından başlayıp merkez doğru genişleyen **koyu perde ya da gölge** tarif eden hasta; **ağrının hiç olmaması** ve gözün dışarıdan **bambaşka sakin** görünmesi tanıyı geciktiren klasik durumdur"
+patofizyoloji: "Dekolman çoğu kez **retinal yırtık**la başlar: yaşla gevşeyen vitreus **arka vitreus dekolmanı** sırasında periferik retinayı çeker ve **yırtık** açar. **Sıvı vitreus** bu yırtıktan retinanın **pigment epiteli**yle **duyu katmanı** arasına sızar ve retinayı yerinden kaldırır. **Yırtık üst retinadaysa** sıvı yerçekimiyle aşağıya iner ve perde **hızla genişler**; ayrılma **makulaya** ulaşınca **merkezi görme** tehdit altındadır"
 anahtar_bulgular:
-  - "Ağrısız, giderek genişleyen görme kaybı: hastanın görüşüne bir perde iniyor ya da gölge kaplıyor tarifesi"
-  - "Öncü belirtiler: dekolmandan günler-haftalar önce ani artan uçan cisimcikler ve ışık çakmaları"
-  - "Fundoskopide dalgasını andıran buruşuk, gri-beyaz renkte, altındaki dokuyla birlikte oynayan yükselmiş retina"
-  - "İleri miyopi, periferik retina dejenerasyonu (lattice), katarakt cerrahisi öyküsü, travma ve ailede dekolman gibi risk etkenleri"
-  - "Göz dışarıdan sakin: kızarıklık, ağrı, göz içi basınç değişikliği bekleme; tablo tamamen fundus içinde gelişir"
-  - "Makula bağlıyken merkezi görme korunur; makula ayrıldığında keskinlik birden çöker"
-patognomonik: "Ağrısız gözde görüşe inen perde tarifesiyle fundoskopide buruşuk, yükselmiş gri retinanın görülmesi"
-ilk_tetkik: "Gecikmeksizin pupil genişletilerek (midriatik) indirekt oftalmoskopiyle periferik retinanın bütün kadranlarının incelenmesi ve yırtığın yeri ile dekolmanın sınırlarının haritalanması; medya bulanıksa B ultrason ile retinal yükselmenin gösterilmesi"
-kesin_tani: "Fundoskopide retinal yırtığın ve altında sıvı birikimiyle yükselmiş retinanın doğrudan görülmesi tanıyı koyar; tanı klinik muayeneye dayanır, görmenin sonucu açısından makulanın bağlı olup olmadığının ayrımı planlamayı belirler"
-ilk_tedavi: "Dekolman cerrahi bir acildir; amaç yırtığı kapatmak ve vitreusun retinaya sızmasını durdurmaktır: sınırlı, üst yerleşimli ve makula dışı dekolmanda pnömatik retinopeksi (göze gaz enjeksiyonu) ya da dıştan serkl bandı; geniş, alt yerleşimli, makulayı tehdit eden veya vitreus çekintisinin sürdüğü olgularda vitrektomi. Yırtık saptanmış ama dekolman henüz gelişmemişse lazerle bariyer çizimi yeterli. Makula bağlıyken ameliyat bekletilmez; makula ayrılmışsa bile saatler-günler içinde müdahale görme sonucunu belirler"
-klasik_komplikasyon: "Tedavisiz ayrılmanın tüm retinaya yayılması ve körlük; cerrahi sonrası proliferatif vitreoretinopatiyle dekolmanın tekrarı; makula uzun süre ayrı kalırsa kalıcı merkezi görme kaybı"
+- "**Ağrısız, giderek genişleyen görme kaybı**: hastanın görüşüne bir **perde iniyor** ya da **gölge** kaplıyor tarifesi"
+- "**Öncü belirtiler**: dekolmandan günler-haftalar önce **ani artan uçan cisimcikler** ve **ışık çakmaları**"
+- "**Fundoskopide** dalgasını andıran buruşuk, gri-beyaz renkte, altındaki dokuyla birlikte oynayan **yükselmiş retina**"
+- "**İleri miyopi**, periferik **retinal dejenerasyon** (lattice), **katarakt cerrahisi** öyküsü, **travma** ve aile öyküsü dekolman riskini artırır"
+- "**Ağrısızlık**: **göz içi basınç** normal, göz dışarıdan sakin; tablo tamamen **fundus içinde** gelişir"
+- "**Makula bağlı**yken merkezi görme korunur; makula ayrıldığında **keskinlik birden çöker**"
+patognomonik: "**Ağrısız** gözde görüşe **inen perde** tarifesiyle fundoskopide **buruşuk, yükselmiş gri retina**nın görülmesi"
+ilk_tetkik: "Gecikmeksizin pupil genişletilerek (**midriatik**) **indirekt oftalmoskopi**yle periferik retinanın **bütün kadranları**nın incelenmesi ve **yırtığın yeri** ile dekolmanın **sınırları**nın haritalanması; **medya bulanıksa** **B ultrason** ile **retinal yükselmenin** gösterilmesi"
+kesin_tani: "**Fundoskopide retinal yırtığın** ve altında **sıvı birikimiyle yükselmiş** retinanın doğrudan görülmesi tanıyı koyar; tanı **klinik muayeneye** dayanır, görmenin sonucu açısından **makulanın bağlı** olup olmadığının ayrımı planlamayı belirler"
+ilk_tedavi: "Dekolman **cerrahi bir acildir**; amaç **yırtığı kapatmak** ve vitreusun retinaya sızmasını durdurmaktır. **Sınırlı, üst yerleşimli ve makula dışı** dekolmanda **pnömatik retinopeksi** (göze gaz enjeksiyonu) ya da **dıştan serkl bandı**; **geniş, alt yerleşimli**, makulayı tehdit eden veya **vitreus çekintisi**nin sürdüğü olgularda **vitrektomi**. **Yırtık** saptanmış ama dekolman henüz gelişmemişse **lazerle bariyer çizimi** yeterli. **Makula bağlı**yken ameliyat **bekletilmez**; makula ayrılmışsa bile **saatler-günler içinde** müdahale görme sonucunu belirler"
+klasik_komplikasyon: "Tedavisiz ayrılmanın **tüm retinaya yayılması** ve **körlük**; cerrahi sonrası **proliferatif vitreoretinopati**yle dekolmanın **tekrarı**; **makula** uzun süre ayrı kalırsa kalıcı **merkezi görme kaybı**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

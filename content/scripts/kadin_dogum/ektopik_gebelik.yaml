@@ -11,32 +11,19 @@ taksonomi:
   - kadin_dogum
   - kd_erken_gebelik
   - kd_eg_ektopik
-tipik_hasta: Pozitif gebelik testiyle gelen ve tek taraflı pelvik ağrı ile anormal vajinal kanamayı tarif
-  eden kadın; riski artıran özellikler pelvik inflamatuar hastalık veya tüp cerrahisi öyküsü, önceki dış
-  gebelik hikayesi, spiralli iken gebe kalmak ve yardımcı üreme teknikleri ile gebeliktir
-patofizyoloji: Tüpte hasar, yapışıklık veya hareket bozukluğu zigotun uterusa ulaşmadan tüp içinde implantasyonuna
-  izin verir; trofoblast tüp duvarını invaze ederek hematosalpinks ve giderek genişleyen kanamaya yol
-  açar. Tüpün gerilmesi klasik ağrıyı, dökülme kanamasını ve sonuçta rüptürü yaratır; rüptürde kan karın
-  boşluğuna akarak hemoperitoneum ve şok tablosunu oluşturur
+tipik_hasta: "Pozitif gebelik testiyle gelen, **tek taraflı pelvik ağrı** ve anormal vajinal kanamayı tarif eden kadın; riski artıran özellikler **pelvik inflamatuar hastalık** veya **tüp cerrahisi** öyküsü, önceki dış gebelik, **spiralli** iken gebe kalmak ve **yardımcı üreme teknikleri** ile gebeliktir"
+patofizyoloji: "Tüpte **hasar, yapışıklık veya hareket bozukluğu** zigotun uterusa ulaşmadan tüp içinde implantasyonuna izin verir. Trofoblast tüp duvarını invaze ederek **hematosalpinks** ve giderek genişleyen kanamaya yol açar; tüpün gerilmesi klasik ağrıyı, dökülme kanamasını ve sonuçta **rüptürü** yaratır. Rüptürde kan karın boşluğuna akarak **hemoperitoneum** ve şok tablosunu oluşturur"
 anahtar_bulgular:
-- Amenore ile birlikte pozitif gebelik testi, tek taraflı pelvik ağrı ve anormal vajinal kanama üçlüsü
-- Transvajinal USG'de uterus içinde gebelik kesesi görülmezken adneksiyal bölgede ayrık kitle, yumurta
-  kesesi veya embriyo görünümü
-- Seri beta hCG ölçümünde beklenen 48 saatte iki katına çıkma eğrisinin karşılanmaması
-- Beta hCG diskriminasyon bölgesini (yaklaşık 2000 mIU/mL ve üzerinde) aştığı halde intrauterin kesenin
-  görülmemesi
-- Rüptürde peritoneal iritasyon, omuz üstüne vuran ağrı, hipotansiyon ve taşikardi
+- "**Amenore** ile birlikte **pozitif gebelik testi, tek taraflı pelvik ağrı ve anormal vajinal kanama** üçlüsü"
+- "Transvajinal USG'de uterus içinde gebelik kesesi görülmezken **adneksiyal bölgede ayrık kitle**, yumurta kesesi veya embriyo görünümü"
+- "Seri **beta hCG** ölçümünde beklenen **48 saatte iki katına çıkma** eğrisinin karşılanmaması"
+- "**beta hCG** **2000 mIU/mL** diskriminasyon bölgesini aştığı halde **intrauterin kesenin görülmemesi**"
+- "Rüptürde peritoneal iritasyon, **omuz üstüne vuran ağrı**, **hipotansiyon ve taşikardi**"
 patognomonik: null
-ilk_tetkik: Transvajinal USG ile intrauterin ve adneksiyal değerlendirme ile birlikte beta hCG ölçümü;
-  stabil hastada 48 saat sonra beta hCG tekrarı
-kesin_tani: USG'de gebelik yapılarının uterus dışında, çoğunlukla adneksiyal kitle içinde görülmesi; görüntüleme
-  ile ayrım edilemeyen olgularda laparoskopi ile tüp üzerindeki gebeliğin görülmesi
-ilk_tedavi: Hemodinamik stabil ve rüptür bulgusu olmayan uygun kandidatta tek doz metotreksat (beta hCG 5.000 mIU/mL altı tercih edilir, üzerine çıkışı göreli kısıttır;
-  düşük, fetus kalp hareketi yok, kitle küçük); stabil hastada cerrahi gerekiyorsa laparoskopik salpingostomi
-  veya salpingektomi; rüptür ve şok tablosunda acil sıvı resüsitasyonu ile laparotomi; RhD negatif hastada
-  anti-D immünglobulin
-klasik_komplikasyon: Tüp rüptürü ve hemoperitoneum ile gelen hemorajik şok; tedavi sonrası persistan trofoblast
-  dokusu ve tekrarlayan dış gebelik riski
+ilk_tetkik: "**Transvajinal USG** ile intrauterin-adneksiyal değerlendirme ve **beta hCG** ölçümü; stabil hastada **48 saat sonra beta hCG tekrarı**"
+kesin_tani: "USG'de gebelik yapılarının **uterus dışında**, çoğunlukla adneksiyal kitle içinde görülmesi; görüntüleme ile ayrım edilemeyen olgularda **laparoskopi** ile tüp üzerindeki gebeliğin görülmesi"
+ilk_tedavi: "Hemodinamik stabil ve rüptür bulgusu olmayan uygun kandidatta **tek doz metotreksat** (**beta hCG 5.000 mIU/mL altı** tercih edilir; düşük, kalp hareketi yok, kitle küçük). Stabil hastada cerrahi gerekiyorsa **laparoskopik salpingostomi** veya **salpingektomi**. Rüptür ve şok tablosunda acil **sıvı resüsitasyonu ile laparotomi**; **RhD negatif** hastada **anti-D immünglobulin**"
+klasik_komplikasyon: "**Tüp rüptürü** ve **hemoperitoneum** ile gelen **hemorajik şok**; tedavi sonrası **persistan trofoblast** dokusu ve **tekrarlayan dış gebelik** riski"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-114
 - tus-2015-sonbahar-ktbt-115

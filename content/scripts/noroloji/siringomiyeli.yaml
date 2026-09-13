@@ -11,36 +11,20 @@ taksonomi:
   - noroloji
   - noro_omurilik
   - noro_om_siringomiyeli
-tipik_hasta: Genç-orta yaşlı hastada yıllardır süren boyun-omuz-kol ağrıları, ellerde kuvvet kaybı ve
-  incelme; ağrı duyusu kaybı nedeniyle fark etmeden elini yakmasını, kesmesini anlatır; çoğunda beyin MRG'sinde
-  Arnold-Chiari tip 1 malformasyonu; travma sonrası veya omurilik tümörü çevresinde de oluşabilir; ailede
-  skolyoz öyküsü sık
-patofizyoloji: 'Omurilik içinde uzayan, sıvı dolu kist (siringiks). En sık mekanizma posterior fossa anomalisi:
-  Chiari tip 1''de küçük arka kafatası boşluğu tonsilleri foramen magnumdan aşağı iter, santral kanal
-  çevresindeki beyin-omurilik sıvısı akışı bozulur ve kist genişler. Kist önce merkezde, ağrı-ısı liflerinin
-  omurilik seviyesinde çaprazlandığı yerde başlar; dorsal kolonlar (ağırlık ve pozisyon duyusu) en dışta
-  ve en geç tutulur — bu tutulum sırası duyusal dissosiasyonu yaratır'
+tipik_hasta: "Genç-orta yaşlı hastada yıllardır süren **boyun-omuz-kol ağrıları**, **ellerde kuvvet kaybı ve incelme**; **Ağrı duyusu kaybı** nedeniyle fark etmeden **elini yakma-kesme**; çoğunda MR'da **Arnold-Chiari tip 1 malformasyonu**; **Travma** sonrası veya **omurilik tümörü** çevresinde de oluşabilir; ailede **skolyoz** öyküsü sık"
+patofizyoloji: "Omurilik içinde uzayan, sıvı dolu **kist (siringiks)**; en sık mekanizma **posterior fossa anomalisi**: **Chiari tip 1**'de küçük arka kafatası boşluğu **tonsilleri foramen magnumdan** aşağı iter; **Santral kanal çevresindeki BOS akışı bozulur** ve kist genişler. Kist önce merkezde, **ağrı-ısı liflerinin çaprazlandığı** yerde başlar; **dorsal kolonlar (ağırlık-pozisyon duyusu)** en dışta ve en geç — **duyusal dissosiasyon**"
 anahtar_bulgular:
-- 'Duyusal dissosiasyon: omuz ve kollarda ağrı-ısı duyusu kayıp; vibrasyon, pozisyon (ağırlık) ve dokunma
-  duyusu korunmuş'
-- Ellerin iç kaslarında (interossei, tenar-hipotenar) atrofi ve kuvvet kaybı
-- Fark edilmeyen yanık, kesik ve eklem hasarı; ileri dönemde nöroartropatik (Charcot) eklem
-- Boyun ve omuz bölgesinde bant tarzı ağrı; öksürük-eforla artan arka kafa ağrısı (Chiari işareti)
-- 'Kistin genişlemesiyle spastik paraparezi, Horner sendromu; yukarı uzanırsa siringobulbi: nistagmus,
-  disartri, dil atrofisi'
-- Genç yaşta başlayan ilerleyici skolyoz
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Duyusal dissosiasyon: ağrı ve ısı duyusunun kaybolmasına karşın vibrasyon, pozisyon ve
-  dokunma duyusunun korunması'
-ilk_tetkik: 'Beyin ve omurilik MRG: kistin düzeyi ve uzunluğu, kord genişlemesi tek tetkikte gösterilir;
-  posterior fossa değerlendirmesi (Chiari) aynı incelemede yapılır; muayenede duyu haritası tanıyı yöneltir'
-kesin_tani: MRG'de omurilik içinde sıvı dansiteli kavitenin gösterilmesi artı tipik duyusal dissosiasyon
-  tablosu; altta yatan neden (Chiari malformasyonu, omurilik tümörü, eski travma, araknoid adherans) ayrıca
-  sınıflandırılır
-ilk_tedavi: 'Kist sabit ve bulgular hafifse izlem ve düzenli MRG; ilerleyici veya ağır bulgularda cerrahi:
-  Chiari varsa posterior fossa dekompresyonu, tümör varsa rezeksiyon, basınç boşaltımı için siringosubaraknoid
-  drenaj; nöropatik ağrıda gabapentinoidler; solunum kasları etkilenirse destekleyici bakım'
-klasik_komplikasyon: Kalıcı el kuvvet kaybı (iç kas atrofisi geri dönmez), tekrarlayan yanık ve yara infeksiyonları,
-  ilerleyen skolyoz; cerrahiye geç kalınan hastada kalıcı miyelopati
+- "**Duyusal dissosiasyon**: omuz-kollarda **ağrı-ısı duyusu kayıp**; **vibrasyon**, **pozisyon**, **dokunma korunmuş**"
+- "**Ellerin iç kaslarında (interossei, tenar-hipotenar) atrofi** ve kuvvet kaybı"
+- "Fark edilmeyen **yanık, kesik, eklem hasarı**; ileri dönemde **nöroartropatik (Charcot) eklem**"
+- "**Boyun-omuzda bant tarzı ağrı**; **öksürük-eforla artan arka kafa ağrısı** (**Chiari işareti**)"
+- "Kistin genişlemesiyle **spastik paraparezi**, **Horner sendromu**; yukarı uzanırsa **siringobulbi**: **nistagmus**, **disartri**, **dil atrofisi**"
+- "Genç yaşta başlayan **ilerleyici skolyoz**"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **duyusal dissosiasyon** — **ağrı ve ısı duyusunun kaybolması**, **vibrasyon-pozisyon-dokunmanın korunması**"
+ilk_tetkik: "**Beyin ve omurilik MRG**: **kistin düzeyi ve uzunluğu**, **kord genişlemesi** tek tetkikte gösterilir; **Posterior fossa (Chiari)** değerlendirmesi aynı incelemede; muayenede **duyu haritası** tanıyı yöneltir"
+kesin_tani: "**MRG'de omurilik içinde sıvı dansiteli kavite** + **tipik duyusal dissosiasyon**. Altta yatan neden sınıflanır: **Chiari malformasyonu**, **omurilik tümörü**, **eski travma**, **araknoid adherans**"
+ilk_tedavi: "**Kist sabit ve bulgular hafifse** izlem ve **düzenli MRG**; **İlerleyici veya ağır** bulgularda cerrahi: **Chiari** varsa **posterior fossa dekompresyonu**, **tümör** varsa **rezeksiyon**, basınç boşaltımı için **siringosubaraknoid drenaj**; **Nöropatik ağrı**da **gabapentinoidler**; **solunum kasları** etkilenirse destekleyici bakım"
+klasik_komplikasyon: "**Kalıcı el kuvvet kaybı** (iç kas atrofisi **geri dönmez**); **tekrarlayan yanık** ve **yara infeksiyonları**. İlerleyen **skolyoz**; cerrahiye geç kalınan hastada **kalıcı miyelopati**"
 tus_gecmisi:
 - tus-2017-sonbahar-ktbt-34
 kart_uret:

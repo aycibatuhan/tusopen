@@ -12,37 +12,20 @@ taksonomi:
   - pediatri
   - ped_genetik
   - ped_gen_down
-tipik_hasta: Doğumda hipotonik, kupuzon kafalı, makroglosili ve yassı yüz profilli bebek; ileri maternal
-  yaş (35 ve üzeri) riski artırır; prenatal taramada artmış ense saydamlığı ve anormal üçlü tarama (düşük
-  AFP ve estriol, yüksek hCG) ile önceden bilinmiş olabilir
-patofizyoloji: '21. kromozomun tam ya da kısmi fazlalığı: en sık mayoz sırasında kromozom ayrılma hatası
-  (nondisjunksiyon, olguların büyük bölümü); Robertsonian translokasyonu (14;21 ya da 21;21) ailesel olabilir
-  ve tekrar riski taşır; mozaik form daha hafif seyreder. Fazla gen dozları organ gelişimini etkiler:
-  kalp (AV kanal defekti), GİS (duodenal obstrüksiyon), beyin gelişimi ve hematopoez (geçici miyeloproliferatif
-  bozukluk) önde etkilenir'
+tipik_hasta: "Doğumda **hipotonik**, **kupuzon kafalı**, **makroglosili** ve yassı yüz profilli bebek; **ileri maternal yaş** (**35 ve üzeri**) riski artırır. Prenatal taramada artmış **ense saydamlığı** ve anormal üçlü tarama (düşük **AFP** ve **estriol**, yüksek **hCG**) ile önceden bilinebilir"
+patofizyoloji: "**21. kromozomun** tam ya da kısmi fazlalığı: en sık mayoz sırasında **nondisjunksiyon**; **Robertsonian translokasyonu** (**14;21** ya da **21;21**) ailesel olabilir ve **tekrar riski** taşır, **mozaik form** daha hafif seyreder. Fazla gen dozları organ gelişimini etkiler: **kalp (AV kanal defekti)**, **GİS (duodenal obstrüksiyon)**, beyin gelişimi ve hematopoez (**geçici miyeloproliferatif bozukluk**)"
 anahtar_bulgular:
-- 'Yüz: kupuzon kafatası ve brakisefali, epikantik kıvrım, palpebral çatlağın dışa ve yukarı eğimi, yassı
-  yüz profili, makroglosi, düşük yerleşimli küçük kulak; iriste Brusfield lekeleri'
-- 'Ekstremite: hipotoni ve gevşek ligamentler, tek palmar krease, 5. parmakta klinoaktililik ve tek krease,
-  sandal biçimli ayak açıklığı (sandal gap), kısa boyun'
-- 'Doğuştan kalp hastalığı: AV kanal defekti (endokardiyal yastık defekti) en sık, sonra VSD; yeni tanılı
-  her bebeğe ekokardiyografi'
-- 'GİS: duodenal atrezi (grafide çift kabarcık görüntüsü), Hirschsprung hastalığı; kronik kabızlık sıklığı'
-- 'Hematoloji: yenidoğanda geçici miyeloproliferatif bozukluk (trombositopeni ve blastlar, kendiliğinden
-  geriler); çocuklukta akut megakaryoblastik lösemi (AML M7) ve ALL riski'
-- 'Endokrin, iskelet ve duyular: doğuştan ya da edinsel hipotiroidi; atlantoaksiyel instabilite (spor
-  öncesi değerlendirme); otitis media ile iletken tip işitme kaybı; hafif-orta düzey zeka geriliği'
-patognomonik: 'Kromozom analizinde trizomi 21: 47 kromozomlu karyotip (+21); translokasyon ve mozaik formu
-  da karyotiple kesinleştirilir'
-ilk_tetkik: Kromozom analizi (karyotip; translokasyon şüphesinde ebeveyne de karyotip); doğumda ekokardiyografi,
-  tiroid fonksiyon testleri, işitme taraması ve göz değerlendirmesi
-kesin_tani: Kromozom analizinde trizomi 21, Robertsonian translokasyonu ya da mozaik formunun gösterilmesi;
-  klinik bulgular yalnızca şüphe oluşturur, kesin tanı karyotiptir
-ilk_tedavi: 'Hastalığın kendisine tedavi yok; yönetim: kalp defektinin cerrahi onarımı, hipotiroidide
-  levotiroksin, işitme ve görme takipleri, erken gelişimsel uyaran programı, atlantoaksiyel instabilite
-  için spor öncesi görüntüleme, aileye genetik danışmanlık; AAP sağlık bakım takvimine göre düzenli taramalar'
-klasik_komplikasyon: AV kanal defekti ve majör doğumsal kalp hastalığı; akut megakaryoblastik lösemi;
-  atlantoaksiyel instabilite; erken başlayan Alzheimer demansı; tekrarlayan otitis media ile işitme kaybı
+- "Yüz: kupuzon kafatası-brakisefali, **epikantik kıvrım**, palpebral çatlağın dışa-yukarı eğimi, yassı yüz profili, **makroglosi**, düşük yerleşimli küçük kulak; iriste **Brusfield lekeleri**"
+- "Ekstremite: **hipotoni** ve gevşek ligamentler, **tek palmar krease**, 5. parmakta **klinoaktililik**, **sandal gap** (sandal biçimli ayak açıklığı), kısa boyun"
+- "Doğuştan kalp hastalığı: **AV kanal defekti** (endokardiyal yastık) en sık, sonra **VSD**; yeni tanılı her bebeğe **ekokardiyografi**"
+- "**Duodenal atrezi** (grafide **çift kabarcık** görüntüsü), **Hirschsprung** hastalığı; kronik kabızlık sıklığı"
+- "Yenidoğanda **geçici miyeloproliferatif bozukluk** (trombositopeni ve blastlar, kendiliğinden geriler); çocuklukta **akut megakaryoblastik lösemi (AML M7)** ve **ALL** riski"
+- "Doğuştan ya da edinsel **hipotiroidi**; **atlantoaksiyel instabilite** (spor öncesi değerlendirme); **otitis media** ile iletken tip işitme kaybı; hafif-orta **zeka geriliği**"
+patognomonik: "Kromozom analizinde **trizomi 21**: **47 kromozomlu karyotip** (+21); translokasyon ve mozaik formlar da **karyotiple** kesinleştirilir"
+ilk_tetkik: "**Kromozom analizi** (karyotip, translokasyon şüphesinde **ebeveyne de** karyotip); doğumda **ekokardiyografi**, **tiroid fonksiyon testleri**, **işitme taraması** ve göz değerlendirmesi"
+kesin_tani: "Kromozom analizinde **trizomi 21**, **Robertsonian translokasyonu** ya da **mozaik formunun** gösterilmesi; kesin tanı **karyotiptir**, klinik bulgular yalnızca şüphe oluşturur"
+ilk_tedavi: "Hastalığın kendisine **tedavi yok**; yönetim: kalp defektinin **cerrahi onarımı**, hipotiroidide **levotiroksin**, işitme-görme takipleri; **erken gelişimsel uyaran programı**, atlantoaksiyel instabilite için **spor öncesi görüntüleme**, aileye **genetik danışmanlık**"
+klasik_komplikasyon: "**AV kanal defekti** ve majör doğumsal kalp hastalığı; **akut megakaryoblastik lösemi**; **atlantoaksiyel instabilite**, erken başlayan **Alzheimer demansı**, tekrarlayan **otitis media** ile işitme kaybı"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-120
 - tus-2016-ilkbahar-ktbt-110

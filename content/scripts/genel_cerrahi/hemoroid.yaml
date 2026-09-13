@@ -11,31 +11,19 @@ taksonomi:
   - genel_cerrahi
   - gc_kolon_rektum_anus
   - gc_kol_hemoroid
-tipik_hasta: Kronik kabızlık, uzun süreli ıkınma, sürekli oturma ya da gebelik öyküsü olan hastadır; makattan
-  ağrısız, parlak kırmızı kanamayla gelir — kan dışkıya karışmadan, damla ya da püskürme tarzında dışkı
-  üzerine bulaşar. Kaşıntı ve akıntı eşlik edebilir; ağrı ancak dış hemoroid trombozunda ön plandadır
-patofizyoloji: Anal kanalın üst bölümündeki normal yastık benzeri kavernöz kümeler (sağ önde, sağ arkada
-  ve solda; 3, 7 ve 11 saat yönleri) bağ dokusu desteğini ve venöz dönüşü kaybettiğinde aşağı kayar ve
-  kanar; ıkınma ve kabızlık venöz konjesyonu artırır. Ağrı reseptörleri anal kanalın alt bölümünde yoğundur;
-  bu yüzden iç (internal) hemoroid kanamaya rağmen ağrısızdır, dış (external) hemoroid ve trombozu ağrılıdır
+tipik_hasta: "Kronik **kabızlık**, uzun süreli **ıkınma**, sürekli oturma ya da gebelik öyküsü olan hastadır; makattan ağrısız, **parlak kırmızı kanama**yla gelir — kan dışkıya karışmadan damla ya da püskürme tarzında dışkıya bulaşır. Kaşıntı ve akıntı eşlik edebilir; ağrı yalnızca **dış hemoroid trombozunda** ön plandadır"
+patofizyoloji: "Anal kanalın üst bölümündeki normal **yastık benzeri kavernöz kümeler** (**3, 7 ve 11 saat** yönleri); bağ dokusu desteğini ve venöz dönüşü kaybettiğinde aşağı kayar ve kanar; ıkınma ve kabızlık venöz konjesyonu artırır. Ağrı reseptörleri anal kanalın alt bölümünde yoğundur; bu yüzden **iç hemoroid** kanamaya rağmen ağrısızdır, **dış hemoroid** ve trombozu ağrılıdır"
 anahtar_bulgular:
-- Ağrısız, parlak kırmızı makat kanaması — damla ya da püskürme tarzında dışkı üzerine
-- 'Derecelendirme: 1. derecede kanama var, prolapsus yok; 2. derecede ıkınmayla sarkar ve kendiliğinden
-  geri girer; 3. derecede elle yerine itilir; 4. derecede geri gelmez (irredüksibl)'
-- 'Dış hemoroidin trombozu: anal kenarda mor, sert, son derece ağrılı nodül — ilk 72 saat en ağrılı dönemdir'
-- Proktoskopide 3, 7 ve 11 saat yönlerinde iç hemoroid görülmesi
-- Akıntı ve kaşıntı; uzun süreli prolapsusta mukozal iritasyon
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Ağrısız parlak kanama ve ıkınmayla sarkıp geri itilebilen prolapsus
-ilk_tetkik: Dijital rektal muayene ve anoskopi; 45-50 yaş üstü ya da risk faktörü olan hastada kolonoskopiyle
-  polip ve kanser dışlanır — kanamayı hemoroide bağlamadan önce asıl tehlikeli nedenlerin dışlanması esastır
-kesin_tani: Anoskopide 3-7-11 yerleşimli iç hemoroidin ve derecesinin görülmesi; tromboze dış hemoroid
-  göz muayenesiyle tanınır
-ilk_tedavi: 'Önce koruyucu: lifli beslenme, bol su, dışkıyı yumuşatan ilaçlar, ıkınmanın önlenmesi, sıcak
-  oturma banyosu — çoğu hasta bu önlemlerle rahatlar. Dirençli 2-3. derecede lastik bant ligasyonu ya
-  da skleroterapi; 4. derece ve trombozda cerrahi (hemoroidektomi). Tromboze dış hemoroidde ilk 72 saat
-  içinde eksizyon ağrıyı en hızlı çözer; geç başvuruda koruyucu tedaviyle trombusun emilimi beklenir'
-klasik_komplikasyon: Dış hemoroid trombozu (şiddetli ağrı); büyük prolapsusun inkarserasyonu; kronik kanamayla
-  anemi — asıl neden olarak kanserin dışlanması zorunludur
+- "**Ağrısız, parlak kırmızı makat kanaması** — damla ya da püskürme tarzında dışkı üzerine"
+- "Derecelendirme: **1. derecede** kanama var, prolapsus yok; **2. derecede** ıkınmayla sarkar ve kendiliğinden girer; **3. derecede** elle yerine itilir; **4. derecede** geri gelmez (irredüksibl)"
+- "**Dış hemoroid trombozu**: anal kenarda mor, sert, son derece ağrılı nodül; ilk **72 saat** en ağrılı dönemdir"
+- "Proktoskopide **3, 7 ve 11** saat yönlerinde iç hemoroid görülmesi"
+- "**Akıntı ve kaşıntı**; uzun süreli **prolapsusta** mukozal iritasyon"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **ağrısız parlak kanama** ve ıkınmayla sarkıp geri itilebilen **prolapsus**"
+ilk_tetkik: "**Dijital rektal muayene** ve **anoskopi**; **45-50 yaş üstü** ya da risk faktörü olan hastada **kolonoskopi**yle polip ve kanser dışlanır — kanamayı hemoroide bağlamadan asıl tehlikeli nedenler dışlanır"
+kesin_tani: "Anoskopide **3-7-11 yerleşimli** iç hemoroidin ve derecesinin görülmesi; **tromboze dış hemoroid** göz muayenesiyle tanınır"
+ilk_tedavi: "Önce koruyucu: lifli beslenme, bol su, dışkı yumuşatıcı, ıkınmanın önlenmesi, **sıcak oturma banyosu**. Dirençli **2-3. derecede** **lastik bant ligasyonu** ya da skleroterapi, **4. derece** ve trombozda cerrahi (**hemoroidektomi**). Tromboze dış hemoroidde ilk **72 saat** içinde **eksizyon** ağrıyı en hızlı çözer; geç başvuruda koruyucu tedaviyle trombusun emilimi beklenir"
+klasik_komplikasyon: "**Dış hemoroid trombozu** (şiddetli ağrı); büyük prolapsusun **inkarserasyonu**; kronik kanamayla **anemi** — asıl neden olarak kanserin dışlanması zorunludur"
 tus_gecmisi:
 - tus-2017-sonbahar-ktbt-92
 - tus-2019-ilkbahar-ktbt-87

@@ -5,53 +5,27 @@ author: ai-drafts/psikiyatri-4
 sources:
 - DSM-5-TR — Yaygın Anksiyete Bozukluğu tanı ölçütleri (referans olarak listelendi, metin projesi özgün
   yazımdır)
-- 'Klinik rehberler: NICE Anksiyete Bozuklukları Kılavuzu (referans olarak listelendi, metin projesi özgün
-  yazımdır)'
+- 'Klinik rehberler: NICE Anksiyete Bozuklukları Kılavuzu (referans olarak listelendi, metin projesi
+  özgün yazımdır)'
 ad: Yaygın Anksiyete Bozukluğu
 taksonomi:
 - - ktbt
   - psikiyatri
   - psik_anksiyete
   - psik_an_yaygin
-tipik_hasta: En sık 20-40 yaşlarında başlayan, kadınlarda yaklaşık iki kat sık görülen hasta; 'her şeyden
-  endişe ediyorum' der ama asıl başvuru nedeni çoğu zaman gerginlik, baş ağrısı, kas ağrıları, çarpıntı
-  ve uykusuzluk gibi fiziksel yakınmalardır — hasta kendine anksiyete tanısı koymaz, genel poliklinikte
-  aylarca dolanabilir. Ailede anksiyete öyküsü, kronik dalgalanan seyir ve eşlik eden depresyon bu hastayı
-  hatırlatır
-patofizyoloji: 'Tek bir devre sorununa indirgenemez: Tehlike sinyalini işleyen amigdala aşırı duyarlı,
-  bu sinyali bastıran prefrontal düzenleyici kontrol yetersizdir; noradrenerjik sistem aşırı aktiftir,
-  GABA-benzodiazepin sisteminde işlev yetersizliği öne sürülür ve HPA aksı sürekli hafif-orta düzeyde
-  aktivasyonla çalışır. Bu tablo ''sürekli bekleyiş modunu'' açıklar: endişe ve kısa süreli kaçınma kısa
-  vadede rahatlatsa da uzun vadede anksiyeteyi pekiştirir. Kalıtsal yatkınlık, erken dönem yaşantıları
-  ve güncel stres yükü etkileşir; bu nedenle hastalık genellikle dalgalı ama kronik seyreder'
+tipik_hasta: "En sık **20-40 yaşlarında** başlayan, kadınlarda **yaklaşık iki kat** sık görülen hasta; '**her şeyden endişe ediyorum**' der ama asıl başvuru nedeni **gerginlik, baş ağrısı, kas ağrıları, çarpıntı ve uykusuzluk** gibi fiziksel yakınmalardır — **aylarca genel poliklinikte** dolanabilir. **Ailede anksiyete öyküsü**, kronik dalgalanan seyir ve eşlik eden **depresyon** bu hastayı hatırlatır"
+patofizyoloji: "Tek bir devre sorununa indirgenemez: **amigdala aşırı duyarlı**, **prefrontal düzenleyici kontrol yetersizdir**; **noradrenerjik sistem aşırı aktif**, **GABA-benzodiazepin sisteminde yetersizlik** öne sürülür ve **HPA aksı** sürekli hafif-orta aktivasyonla çalışır — bu '**sürekli bekleyiş modunu**' açıklar. **Endişe ve kısa süreli kaçınma** uzun vadede anksiyeteyi **pekiştirir**; hastalık genellikle **dalgalı ama kronik** seyreder"
 anahtar_bulgular:
-- En az 6 aydır çoğu gün süren, denetlenmesi güç, birden fazla konuya yayılan (iş, para, sağlık, aile)
-  orantısız endişe — tanının temel eşiği
-- 'Endişeye eşlik eden küme: huzursuzluk, kolay yorulma, konsantrasyon güçlüğü, irritabilite, kas gerginliği
-  ve uyku bozukluğu; bu altı belirtiden en az üçü bulunmalıdır'
-- 'Fiziksel belirtiler önde: baş ağrısı, çarpıntı, el titremesi, göğüs sıkışması, gastrointestinal yakınmalar;
-  tetkikler normal çıkar'
-- 'Endişenin niteliği: tek bir konuya kilitlenmiş fobik korku değil, günlük hayat konuları arasında gezinen
-  sürekli bekleyiş hali'
-- 'Komorbidite sık: depresyon, panik ataklar ve fobiler eklenir; yatıştırıcı ve analjezik kullanım öyküsü
-  sorgulamada çıkar'
+- "**En az 6 aydır çoğu gün** süren, denetlenmesi güç, **birden fazla konuya yayılan orantısız endişe** — **tanının temel eşiği**"
+- "**Endişeye eşlik eden küme**: huzursuzluk, kolay yorulma, konsantrasyon güçlüğü, irritabilite, **kas gerginliği**, uyku bozukluğu — **altı belirtiden en az üçü**"
+- "**Fiziksel belirtiler önde**: baş ağrısı, çarpıntı, el titremesi, göğüs sıkışması, gastrointestinal yakınmalar; **tetkikler normal** çıkar"
+- "**Endişenin niteliği**: tek konuya kilitlenmiş fobik korku değil, günlük hayat konuları arasında gezinen **sürekli bekleyiş hali**"
+- "**Komorbidite sık**: depresyon, panik ataklar ve fobiler; **yatıştırıcı ve analjezik kullanım öyküsü** sorgulamada çıkar"
 patognomonik: null
-ilk_tetkik: 'Tanı klinik psikiyatrik görüşmeye dayanır; GAD-7 ile şiddet derecelendirilir. Hipertiroidi,
-  kafein-stimülan etkisi ve madde kullanımı dışlanır: TSH, tam kan sayımı, temel biyokimya ve idrar toksikoloji
-  taraması istenir; komorbid depresyon varsa intihar riski ayrıntılı değerlendirilir'
-kesin_tani: DSM-5-TR ölçütlerine göre en az 6 aydır çoğu gün süren, denetlenmesi güç, birden fazla etkinlik
-  ve olaya yayılan orantısız endişenin varlığı; altı belirtiden oluşan kümeden (huzursuzluk, kolay yorulma, konsantrasyon
-  güçlüğü, irritabilite, kas gerginliği, uyku bozukluğu) en az üçünün eşlik etmesi; belirgin sıkıntı ya
-  da işlev kaybı yaratması; tablonun bir maddeye, ilaca ya da başka bir tıbbi duruma ve başka bir psikiyatrik
-  bozukluğa bağlanamaması
-ilk_tedavi: İlk seçenek SSRI (sertralin, eskitalopram, paroksetin) ya da SNRI (venlafaksin, duloksetin);
-  etki 4-6 haftada değerlendirilir, ilk haftalardaki geçici aktivasyon ve mide bulantısı hakkında hasta bilgilendirilir.
-  Benzodiazepin yalnızca bu geçiş döneminde kısa süreli köprü olarak kullanılır; bağımlılık riski nedeniyle
-  uzun süreli verilmez. Buspiron ek ya da alternatif tedavi olarak düşünülebilir. Bilişsel davranışçı
-  terapi (endişe yönetimi, gevşeme eğitimi, bilişsel yeniden yapılandırma) ilaçla birlikte verilir; yanıt
-  yetmezse doz artırılır, sonra sınıf değişir
-klasik_komplikasyon: Kronik dalgalanan seyir; depresyon eklenmesi, yatıştırıcı ve alkol kötüye kullanımı,
-  işlevsellikte düşüş ve komorbid depresyonla artan intihar riski
+ilk_tetkik: "Tanı **klinik psikiyatrik görüşmeye** dayanır; **GAD-7** ile şiddet derecelendirilir. **Hipertiroidi, kafein-stimülan etkisi ve madde kullanımı** dışlanır: **TSH, tam kan sayımı, temel biyokimya ve idrar toksikoloji** taraması; **komorbid depresyon** varsa **intihar riski** ayrıntılı değerlendirilir"
+kesin_tani: "**DSM-5-TR ölçütlerine göre en az 6 aydır çoğu gün süren, denetlenmesi güç, birden fazla etkinlik ve olaya yayılan orantısız endişenin** varlığı; **altı belirtiden en az üçünün** eşlik etmesi (huzursuzluk, kolay yorulma, konsantrasyon güçlüğü, irritabilite, **kas gerginliği**, uyku bozukluğu). **Belirgin sıkıntı ya da işlev kaybı** yaratır; tablo **bir maddeye, ilaca, tıbbi duruma ya da başka bir psikiyatrik bozukluğa** bağlanamaz"
+ilk_tedavi: "İlk seçenek **SSRI (sertralin, eskitalopram, paroksetin) ya da SNRI (venlafaksin, duloksetin)**; etki **4-6 haftada** değerlendirilir, **ilk haftalardaki geçici aktivasyon** hakkında hasta bilgilendirilir. **Benzodiazepin yalnız bu geçiş döneminde kısa süreli köprü** olarak kullanılır — **bağımlılık** nedeniyle uzun süreli verilmez; **buspiron** ek ya da alternatif seçenek. **Bilişsel davranışçı terapi** (endişe yönetimi, gevşeme eğitimi, bilişsel yeniden yapılandırma) ilaçla birlikte verilir"
+klasik_komplikasyon: "**Kronik dalgalanan seyir**; **depresyon eklenmesi**, **yatıştırıcı ve alkol kötüye kullanımı**; işlevsellikte düşüş ve **komorbid depresyonla artan intihar riski**"
 tus_gecmisi:
 - tus-2015-sonbahar-ktbt-36
 kart_uret:

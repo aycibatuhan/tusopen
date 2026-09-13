@@ -12,31 +12,32 @@ taksonomi:
   - ortopedi
   - orto_kemik_tumorleri
   - orto_kt_osteosarkom
-tipik_hasta: 10-20 yaş arasındaki çocuk ve genç, erkeklerde biraz daha sık; diz çevresinde (distal femur,
-  proksimal tibia) derin, geceye doğru artan, giderek sertleşen ağrı, şişlik ve topallama ile başvuran
-  hasta; ikinci dalga olarak Paget hastalığı veya radyasyon öyküsü olan yaşlılarda sekonder osteosarkom
-  akılda tutulur
-patofizyoloji: Tümör hücrelerinin osteoid üretmesiyle tanımlanan, kemik yapıcı ve eritici davranışın karıştığı
-  primer malign kemik tümörü. Hızlı büyüyen tümör periyostu kaldırır; periyostun altında üçgen biçimli
-  yeni kemik kabuğu (Codman üçgeni) birikir, tümör dokusuna dik açıyla uzanan yeni kemik ışınları güneş
-  ışığı görüntüsünü oluşturur. Hematojen yolla en erken akciğere metastaz yapar
+tipik_hasta: "**10-20 yaş** arası çocuk ve genç, erkeklerde biraz daha sık; diz çevresinde (**distal
+  femur**, **proksimal tibia**) derin, geceye doğru artan, giderek sertleşen ağrı, şişlik ve topallamayla
+  gelir. İkinci dalga olarak **Paget hastalığı** veya **radyasyon öyküsü** olan yaşlılarda **sekonder
+  osteosarkom** akılda tutulur"
+patofizyoloji: "Tümör hücrelerinin **osteoid** üretmesiyle tanımlanan, kemik yapıcı ve eritici davranışın
+  karıştığı **primer malign kemik tümörü**. Hızlı büyüyen tümör periyostu kaldırır; altında üçgen biçimli
+  kemik kabuğu (**Codman üçgeni**) birikir, dokuya dik açıyla uzanan kemik ışınları **güneş ışığı**
+  görüntüsü oluşturur. Hematojen yolla en erken **akciğere** metastaz yapar"
 anahtar_bulgular:
-- Metafiz merkezli, kemik yapıcı ve eritici karışım lezyon; korteksten dışarı uzanan sert, artıda kitle
-- 'Radyografide güneş ışığı görüntüsü: periyosttan dik açıyla uzanan kemik ışınları'
-- Kaldırılan periyostun ucunda üçgen biçimli yeni kemik kabuğu (Codman üçgeni)
-- Serum ALP yüksekliği (kemik yapım hızını yansıtır)
-- Sürekli, gece artan ağrı ve çevre şişliği; zamanla patolojik fraktür
-- İleri olgularda göğüs görüntülemesinde akciğer metastaz odakları
-patognomonik: Biyopside malign tümör hücrelerinin osteoid üretmesinin gösterilmesi; kesin tanının ayırt
-  edici histolojik özelliği
-ilk_tetkik: Şüpheli bölgenin (distal femur veya proksimal tibia) direkt radyografisi ve serum ALP; tanıdan
-  şüphe edildiğinde göğüs BT ile akciğer metastaz araştırması
-kesin_tani: 'Tümörden biyopsi: malign hücrelerin osteoid ürettiğinin histolojik gösterimi; MRG ile kemik
-  içi ve yumuşak doku yayılımının haritası'
-ilk_tedavi: Neoadjuvan kemoterapi (yüksek doz metotreksat, doksorubisin, sisplatin, ifosfamid) ardından
-  geniş cerrahi rezeksiyon ve ekstremite koruma; ameliyat sonrası kemoterapiye devam
-klasik_komplikasyon: Patolojik fraktür ve hematojen akciğer metastazı; tedavi edilmediğinde hızla büyüyen
-  lokal kitle
+- "**Metafiz merkezli**, kemik yapıcı ve eritici karışım lezyon; korteksten dışarı uzanan sert kitle"
+- "Radyografide **güneş ışığı görüntüsü**: periyosttan dik açıyla uzanan kemik ışınları"
+- "Kaldırılan periyostun ucunda üçgen biçimli yeni kemik kabuğu (**Codman üçgeni**)"
+- "Serum **ALP** yüksekliği (kemik yapım hızını yansıtır)"
+- "Sürekli, gece artan ağrı ve çevre şişliği; zamanla **patolojik fraktür**"
+- "İleri olgularda göğüs görüntülemesinde **akciğer metastaz** odakları"
+patognomonik: "Biyopside malign tümör hücrelerinin **osteoid** üretmesinin gösterilmesi; kesin tanının
+  ayırt edici histolojik özelliği"
+ilk_tetkik: "Şüpheli bölgenin (distal femur veya proksimal tibia) **direkt radyografisi** ve **serum ALP**;
+  şüphe edildiğinde **göğüs BT** ile akciğer metastaz araştırması"
+kesin_tani: "**Biyopsi**: malign hücrelerin **osteoid** ürettiğinin histolojik gösterimi. **MRG** ile
+  kemik içi ve yumuşak doku yayılımının haritası"
+ilk_tedavi: "**Neoadjuvan kemoterapi** (yüksek doz **metotreksat**, **doksorubisin**, **sisplatin**,
+  **ifosfamid**). Ardından **geniş cerrahi rezeksiyon** ve ekstremite koruma; ameliyat sonrası
+  **kemoterapi**ye devam"
+klasik_komplikasyon: "**Patolojik fraktür** ve hematojen **akciğer metastazı**. Tedavi edilmediğinde
+  hızla büyüyen **lokal kitle**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ttbt-88
 - tus-2015-ilkbahar-ttbt-96

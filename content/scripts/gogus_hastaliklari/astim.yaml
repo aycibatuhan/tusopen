@@ -15,41 +15,48 @@ taksonomi:
   - pediatri
   - ped_gogus
   - ped_gog_astim
-tipik_hasta: Çocuklukta ya da genç erişkinde başlayan; gece ve sabaha karşı kötüleşen hışıltı, öksürük,
-  göğüs sıkışması ve nefes darlığıyla gelen; alerjen maruziyeti, solunum yolu enfeksiyonu, egzersiz, soğuk
-  hava ve stresin şikâyetleri tetiklediği; ailesinde astım veya atopi öyküsü bulunan hasta
-patofizyoloji: Havayollarının kronik eozinofilik iltihabı havayolu hiperreaktivitesine yol açar; tetikleyiciyle
-  birlikte düz kas spazmı, mukoza ödemi ve mükus salgısı eklenince değişken ve geri dönüşümlü obstruksiyon
-  ortaya çıkar. Kontrolsüz seyirde bazal membran kalınlaşması, düz kas kitlesinin artması ve mükus bezlerinin
-  büyümesiyle havayolu yeniden şekillenir ve geri dönüşümlülük kısmen kaybolur
+tipik_hasta: "**Çocuklukta ya da genç erişkinde** başlayan; **gece ve sabaha** karşı kötüleşen **hışıltı**,
+  öksürük, **göğüs sıkışması** ve **nefes darlığı**yla gelen hasta. **Alerjen maruziyeti**, **solunum
+  yolu enfeksiyonu**, **egzersiz**, **soğuk hava** ve stres şikâyetleri tetikler; ailesinde **astım veya
+  atopi** öyküsü bulunur"
+patofizyoloji: "Havayollarının **kronik eozinofilik iltihabı** **havayolu hiperreaktivitesine** yol açar;
+  tetikleyiciyle **düz kas spazmı**, **mukoza ödemi** ve **mükus salgısı** eklenince **değişken ve geri
+  dönüşümlü obstruksiyon** ortaya çıkar. Kontrolsüz seyirde **bazal membran** kalınlaşması, **düz kas
+  kitlesi**nin artması ve **mükus bezleri**nin büyümesiyle havayolu **yeniden şekillenir** ve geri
+  dönüşümlülük kısmen kaybolur"
 anahtar_bulgular:
-- Değişken sesli ronküs ve ekspiryum uzaması; ataklar arasında akciğer muayenesi tamamen normal olabilir
-- Bronkodilatör sonrasında bir saniyelik zorlu ekspiryum hacminin başlangıç değerinin yüzde on ikisinden
-  ve mutlak iki yüz mililitreden fazla artması (geri dönüşümlülüğün belgesi)
-- Gece, sabah, egzersiz ve soğuk havada artan öksürük ve nefes darlığı; mevsimsel, alerjik başlangıç
-- Atakta yardımcı solunum kaslarının devreye girmesi, konuşmanın cümlelere bölünmesi; ağır atakta pulsus
-  paradoksus
-- 'Atopi bulguları: eozinofili, alerjen duyarlılığı, alerjik rinit eşliği'
-patognomonik: Değişken nefes darlığı öyküsüyle birlikte değişken ve geri dönüşümlü havayolu obstruksiyonunun
-  belgelenmesi; şikâyetlerin gece, sabah, egzersiz, soğuk hava ve alerjenle kötüleşip zaman içinde düzelmesi
-  ve obstruksiyonun bronkodilatörle gösterilebilir biçimde açılması, büyük ölçüde geri dönüşümsüz
-  obstruksiyonu olan KOAH ayırımında tanımlayıcı desendir
-ilk_tetkik: Bronkodilatör öncesi ve sonrası spirometri ile geri dönüşümlülük ölçümü; spirometri yapılamıyorsa
-  iki hafta süreyle tepe ekspiryum akımı günlüğü; akut atakta oksijen satürasyonu ve tepe ekspiryum akımı
-kesin_tani: GINA 2024 tanı kriterleri tipik değişken solunum yolu şikâyetleri öyküsüyle değişken ekspiryum
-  akım sınırının birleşmesini arar. Bronkodilatör yanıt erişkinde FEV1 ya da FVC artışının yüzde 12 ve 200
-  mililitrenin üzerinde olmasıyla belgelenir; bazal spirometri normal saptanırsa iki haftalık ortalama günlük
-  tepe akım değişkenliğinin yüzde 10 üzerinde olması, ziyaretler arası FEV1 değişkenliği, dört haftalık
-  tedaviyle akım artışı ya da metakolin ve egzersiz provokasyon testleri obstruksiyonun değişkenliğini kanıtlar
-ilk_tedavi: GINA 2024 tercih edilen yolda her basamakta kurtarıcı ICS-formoteroldür. Basamak 1 ve 2 gereksinime
-  bağlı düşük doz ICS-formoterol; basamak 3 düşük doz, basamak 4 orta doz ICS-formoterol MART (hem koruyucu
-  hem kurtarıcı) ile yürütülür; basamak 5 LAMA eklenmesi, uzman değerlendirmesi ve ağır eozinofilik ya da
-  alerjik uçta biyolojik ajanlar (anti-IgE, anti-IL5 ve anti-IL5R, anti-IL4R, anti-TSLP) gündeme gelir.
-  SABA tek başına kurtarıcı olarak önerilmez, çünkü aşırı SABA kullanımı alevlenme ve ölüm riskini artırır;
-  kontrol sağlanınca en düşük basamağa inilir
-klasik_komplikasyon: Status astmatikus — oksijen, tekrarlayan nebulize beta-2 agonist ve sistemik steroidle
-  yönetilen, beta bloker ve sedasyondan kaçınılan ağır alevlenme; uzun süren kontrolsüz hastalıkta havayolu
-  yeniden şekillenmesiyle sabit obstruksiyon ve işlev kaybı
+- "**Değişken sesli ronküs** ve **ekspiryum uzaması**; ataklar arasında akciğer muayenesi tamamen normal
+  olabilir"
+- "**Bronkodilatör** sonrasında **FEV1**'in başlangıç değerinin **yüzde 12'sinden** ve mutlak **200
+  mililitreden** fazla artması (geri dönüşümlülük belgesi)"
+- "**Gece, sabah, egzersiz ve soğuk havada** artan öksürük ve nefes darlığı; **mevsimsel, alerjik**
+  başlangıç"
+- "Atakta **yardımcı solunum kaslarının** devreye girmesi, konuşmanın **cümlelere bölünmesi**; ağır
+  atakta **pulsus paradoksus**"
+- "**Atopi** bulguları: **eozinofili**, **alerjen duyarlılığı**, **alerjik rinit** eşliği"
+patognomonik: "**Değişken nefes darlığı** öyküsüyle birlikte **değişken ve geri dönüşümlü havayolu
+  obstruksiyonu**nun belgelenmesi. Şikâyetlerin **gece, sabah, egzersiz, soğuk hava ve alerjen**le
+  kötüleşip zaman içinde düzelmesi; obstruksiyonun **bronkodilatörle açılabilir** olması, büyük ölçüde
+  geri dönüşümsüz obstruksiyonu olan **KOAH** ayırımında tanımlayıcı desendir"
+ilk_tetkik: "**Bronkodilatör öncesi ve sonrası spirometri** ile geri dönüşümlülük ölçümü. Spirometri
+  yapılamıyorsa **iki haftalık tepe ekspiryum akımı günlüğü**; akut atakta **oksijen satürasyonu** ve
+  **tepe ekspiryum akımı**"
+kesin_tani: "**GINA 2024** tanı kriterleri tipik **değişken solunum yolu şikâyetleri** öyküsüyle
+  **değişken ekspiryum akım sınırı**nın birleşmesini arar. **Bronkodilatör yanıt** erişkinde **FEV1 ya
+  da FVC artışının yüzde 12 ve 200 mililitre üsti** olmasıyla belgelenir. Bazal spirometri normalse **iki
+  haftalık ortalama günlük tepe akım değişkenliğinin yüzde 10 üsti**; ziyaretler arası **FEV1**
+  değişkenliği, **dört haftalık tedaviyle akım artışı** ya da **metakolin ve egzersiz provokasyon**
+  testleri obstruksiyonun değişkenliğini kanıtlar"
+ilk_tedavi: "**GINA 2024** tercih edilen yolda her basamakta kurtarıcı **ICS-formoterol**. **Basamak 1
+  ve 2** gereksinime bağlı **düşük doz ICS-formoterol**; **basamak 3** düşük doz, **basamak 4** orta doz
+  **ICS-formoterol MART** (hem koruyucu hem kurtarıcı) ile yürütülür. **Basamak 5** **LAMA** eklenmesi,
+  uzman değerlendirmesi ve ağır **eozinofilik ya da alerjik** uçta **biyolojik ajanlar** (**anti-IgE**,
+  **anti-IL5 ve anti-IL5R**, **anti-IL4R**, **anti-TSLP**). **SABA tek başına kurtarıcı önerilmez**;
+  aşırı **SABA** kullanımı alevlenme ve **ölüm riskini** artırır; kontrol sağlanınca **en düşük
+  basamağa** inilir"
+klasik_komplikasyon: "**Status astmatikus** — **oksijen**, tekrarlayan **nebulize beta-2 agonist** ve
+  **sistemik steroid**le yönetilen, **beta bloker** ve **sedasyondan kaçınılan** ağır alevlenme. Uzun
+  süren kontrolsüz hastalıkta **havayolu yeniden şekillenmesi**yle **sabit obstruksiyon** ve işlev kaybı"
 ayirici:
 - hastalik: koah
   ayirt_edici: Orta ve ileri yaş sigara içicisinde sinsi ilerleyen, büyük ölçüde geri dönüşümsüz obstruksiyon

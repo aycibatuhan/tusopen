@@ -13,69 +13,18 @@ taksonomi:
   - psikiyatri
   - psik_madde
   - psik_md_alkol
-tipik_hasta: 'Orta yaşta, çoğunlukla erkek hasta (kadınlarda hastalık daha hızlı ilerler ve organ komplikasyonları
-  daha kısa sürede çıkar — teleskoplaşma). Sabah içme ihtiyacı, tolerans artışı, kesememe ve içmeyi yoksunluk
-  belirtisi çıkarmamak için daha erken saatlere kaydırma öyküsü tanıyı çağrıştırır. Laboratuvar imzası
-  yol göstericidir: GGT yüksekliği, AST''nin ALT''den yüksek olması ve yüksek MCV (makrositoz). Depresyon,
-  anksiyete, uykusuzluk, travma ve hipertansiyon sık eşlik eder; ailede alkol kullanım bozukluğu öyküsü
-  riski belirgin artırır. Hasta genellikle karaciğer enzim yükselmesi, pankreatit ya da travmayla genel
-  kliniklere düşer — alkol sorgusu eksik bırakılmamalıdır'
-patofizyoloji: 'Alkol GABA-A resektörünü güçlendirir (klor kanalı açılımını artırır) ve NMDA glutamat
-  resektörünü baskılar: sedasyon, gevşeme ve ataksinin mekanizması budur. Kronik kullanımda nöroadaptasyon
-  gelişir: GABA-A resektör sayısı azalır, NMDA resektörleri çoğalır. Kesilince denge tersine döner — GABA
-  yetersizliği ve glutamat fazlalığı merkezî aşırı uyarılmaya yol açar: tremor, ajitasyon, konvülsiyon
-  ve deliryum tremens yoksunluğun eksitotoksik görünümüdür; bu yüzden yoksunluk tedavisi kesilen alkolün
-  GABA tonusunu benzodiyazepinle yerine koymaktır. Ödül devresinde alkol endojen opioid ve dopamin salınımını
-  artırır; naltreksonun mantığı μ reseptör blokajıdır. Tiamin gereksinimi alkolle artarken alımı azalır:
-  piruvat dehidrogenaz ve alfa-ketoglutarat dehidrojenaz gibi enzimlerin koenzimidir; eksikliğinde mamillar
-  cisimlerde gelişen nekroz Wernicke ensefalopatisini, gecikirse kalıcı Korsakoff sendromunu doğurur'
+tipik_hasta: "Orta yaşta, çoğunlukla erkek (kadında hastalık **daha hızlı ilerler**, organ komplikasyonları kısa sürede çıkar — **teleskoplaşma**); **sabah içme ihtiyacı**, tolerans artışı, kesememe ve içmeyi yoksunluk çıkarmamak için erkene kaydırma öyküsü tanıyı çağrıştırır; laboratuvar imzası: **GGT yüksekliği**, **AST'nin ALT'den yüksek olması**, **yüksek MCV (makrositoz)**; **aile öyküsü** riski belirgin artırır, hasta çoğu kez karaciğer enzim yükselmesi, **pankreatit** ya da travmayla kliniklere düşer — **alkol sorgusu eksik kalmasın**"
+patofizyoloji: "Alkol **GABA-A** resektörünü güçlendirip **NMDA** glutamat resektörünü baskılar (sedasyon, gevşeme, ataksi), kronik kullanımda **GABA-A resektör sayısı azalır, NMDA resektörleri çoğalır**; kesilince **GABA yetersizliği ve glutamat fazlalığı** merkezî aşırı uyarılma yapar, yoksunluk tedavisi **benzodiyazepinle GABA tonusunu** yerine koymaktır; ödül devresinde **endojen opioid ve dopamin** salınımını artırır, **naltreksonun** mantığı **μ reseptör blokajı**dır; **tiamin** piruvat dehidrogenaz ve alfa-ketoglutarat dehidrojenazın koenzimidir, eksikliğinde **mamillar cisim nekrozu Wernicke ensefalopatisini**, gecikirse kalıcı **Korsakoff sendromunu** doğurur"
 anahtar_bulgular:
-- 'Yoksunluk zaman çizelgesi: içmeyi kestikten 6-12 saat sonra ince tremor, ajitasyon, terleme, bulantı,
-  insomni; 12-48 saatte canlı halüsinasyonlar (böcek ve hayvan görmeleri, hakaret eden sesler — içgörü
-  korunur); 24-48 saatte jeneralize tonik-klonik konvülsiyonlar; 48-72 saatte başlayıp haftayı bulabilen
-  deliryum tremens: konfüzyon, canlı halüsinasyonlar, otonom hiperaktivite (taşikardi, hipertansiyon,
-  hipertermi, terleme) — tedavisiz ölümcüldür'
-- Tolerans ve kesememe; içme zamanının yoksunluğu önlemek için sabaha kayması; 'kestim ama bir kereden
-  fazlasına dayanamıyorum' ifadesi
-- 'Karaciğer spektrumu: yağlı karaciğer, alkol ilişkili hepatit (AST/ALT oranı 2''nin üstünde ama her
-  ikisi de 500''ü geçmez, GGT belirgin yüksek), siroz ve komplikasyonları (asit, varis kanaması, ensefalopati)'
-- 'Wernicke ensefalopatisi üçlüsü: konfüzyon, yürüme ataksisi, oftalmopleji-nistagmus; tanı klinikte konur,
-  MR''da mamillar cisimlerde sinyal değişimi görülebilir; tedavi gecikirse kalıcı Korsakoff sendromu (anterograd
-  amnezi, konfabülasyon) kalır'
-- 'Biyobelirteçler: GGT ve karbonhidrattan yoksun transferrin (CDT) yakın içmeyi gösterir; MCV yüksekliği
-  kronikliği yansıtır; trombositopeni ve anemi sık eşlik eder'
-- 'Diğer organ etkileri: alkolik dilate kardiyomiyopati, pankreatit, serebellar dejenerasyon ve hızlı
-  düzeltilen hiponatremide santral pontin miyelinoliz'
+- "**Yoksunluk zaman çizelgesi**: **6-12 saatte** ince tremor, ajitasyon, terleme, bulantı, insomni; **12-48 saatte** canlı halüsinasyonlar (böcek ve hayvan görme, hakaret eden sesler — içgörü korunur); **24-48 saatte** jeneralize tonik-klonik konvülsiyonlar"
+- "**48-72 saatte** başlayıp haftayı bulabilen **deliryum tremens**: konfüzyon, canlı halüsinasyonlar, otonom hiperaktivite (taşikardi, hipertansiyon, hipertermi, terleme) — **tedavisiz ölümcüldür**"
+- "Tolerans ve kesememe, içmenin sabaha kayması; **karaciğer spektrumu**: **yağlı karaciğer**, **alkol ilişkili hepatit — AST/ALT 2'nin üstünde ama her ikisi de 500'ü geçmez**, **GGT belirgin yüksek**; siroz komplikasyonları (asit, varis kanaması, ensefalopati)"
+- "**Wernicke ensefalopatisi üçlüsü**: konfüzyon, **yürüme ataksisi**, **oftalmopleji-nistagmus**; tanı klinikte konur, MR'da **mamillar cisimlerde sinyal değişimi**; gecikirse kalıcı **Korsakoff sendromu** (anterograd amnezi, konfabülasyon)"
 patognomonik: null
-ilk_tetkik: Yoksunluk hastasında ilk iş CIWA-Ar ölçeğiyle şiddetlendirme ve vital bulguların izlenmesidir;
-  kan şekeri (alkolik hastada hipoglisemi riski belirgindir), elektrolitler (hipokalemi, hipomagnezemi,
-  hipofosfatemi), tam kan sayımı, karaciğer fonksiyonları, pıhtılaşma (INR), amilaz-lipaz ve EKG istenir.
-  Konfüzyon, ataksi ya da göz hareket bozukluğu olan her hastada Wernicke düşünülür ve tanı doğrulaması
-  beklenmeden tiamin başlanır. Yoksunluğun şiddetini öngörmede geçmiş konvülsiyon ve deliryum tremens
-  öyküsü ile eşlik eden tıbbi hastalıklar belirleyicidir
-kesin_tani: 'DSM-5-TR ölçütlerine göre: aynı 12 ay içinde 11 ölçütten en az ikisi — içmeyi planlanandan
-  daha uzun süre ve daha çok miktarla sürdürme, kesme ya da azaltmada tekrarlayan başarısızlık, içmeye
-  çok zaman harcama, güçlü istek (craving), içmenin iş ve ilişkileri bozması, etkinliklerden vazgeçme, tehlikeli
-  durumlarda içme, bilinen sorunlara rağmen sürdürme, tolerans ve yoksunluk; 2-3 belirti hafif, 4-5 orta,
-  6 ve üzeri ağır şiddet sayılır. Yoksunluk ayrı tanı olarak kodlanır: alkol yoksunluğu, deliryumla ya
-  da deliryumsuz'
-ilk_tedavi: 'Yoksunluk yönetiminin temeli benzodiyazepindir: mantığı, kesilen alkolün GABA tonusunu ilaçla
-  yerine koyarak tremor, konvülsiyon ve deliryum tremensi önlemektir. Doz CIWA-Ar skoruna ve belirtilere
-  göre ayarlanır; karaciğer fonksiyonu bozuk hastada glukuronidasyonla metabolize olan lorazepam ya da
-  oksazepam güvenlidir (diazepamın uzun etkisi ve aktif metabolit birikimi karaciğer hastalığında risklidir),
-  ağır tabloda intravenöz benzodiyazepin gerekir. Yatış göstergeleri: geçmiş konvülsiyon ya da deliryum
-  tremens öyküsü, eşlik eden ağır tıbbi hastalık, ileri yaş ve dış destek yokluğu. Tiamin önceliği yadsınamaz:
-  tiamin, beslenme desteği ve özellikle glukoz infüzyonundan ÖNCE verilir — glukoz metabolizması kalan
-  tiamini tüketerek latent Wernicke''yi tetikleyebilir; magnezyum da düzeltilir (konvülsiyon eşiği). İdame:
-  naltrekson (mu reseptör antagonisti — içmenin haz ve isteğini azaltır; ağır karaciğer yetmezliğinde
-  kullanılmaz, opioid analjeziyi bloke eder), akamprozat (glutamaterjik dengeyi destekler, idamede etkin;
-  ağır böbrek yetmezliğinde kontrendike) ve disülfirm (asetaldehit dehidrojenaz inhibitörü — alkolle birlikte
-  kızarma, bulantı, taşikardi ve hipotansiyon yaparak caydırır; hastanın uyumu şarttır). Psikososyal tedavi:
-  motivasyonel görüşme, bilişsel davranışçı terapi ve özyardım grupları; Wernicke tanısında yüksek doz
-  intravenöz tiamin günlerce sürdürülür, tablo Korsakoff''a dönüşmüşse tiaminin işlevi sınırlı kalır'
-klasik_komplikasyon: Deliryum tremens (yoksunluğun ölümcül komplikasyonu) ve Wernicke-Korsakoff sendromu
-  (kalıcı bellek kaybı); alkolik karaciğer hastalığı evreleri, pankreatit ve dilate kardiyomiyopati; gebelikte
-  fetal alkol sendromu
+ilk_tetkik: "Yoksunluk hastasında ilk iş **CIWA-Ar** ölçeğiyle şiddetlendirme ve vital bulguların izlenmesidir; **kan şekeri** (hipoglisemi riski), elektrolitler (**hipokalemi**, **hipomagnezemi**, **hipofosfatemi**), tam kan sayımı, karaciğer fonksiyonları, pıhtılaşma (INR), amilaz-lipaz ve EKG istenir; konfüzyon, ataksi ya da göz hareket bozukluğu olan her hastada **Wernicke** düşünülür ve tanı doğrulaması beklenmeden **tiamin** başlanır; yoksunluğun şiddetini öngörmede **geçmiş konvülsiyon ve deliryum tremens öyküsü** ile eşlik eden tıbbi hastalıklar belirleyicidir"
+kesin_tani: "**DSM-5-TR**: aynı **12 ay** içinde **11 ölçütten en az ikisi** — kesme-azaltmada tekrarlayan başarısızlık, **güçlü istek (craving)**, tehlikeli durumlarda içme, **tolerans** ve **yoksunluk** dahil; **2-3 belirti hafif, 4-5 orta, 6 ve üzeri ağır** şiddet sayılır; yoksunluk ayrı tanı olarak kodlanır: **alkol yoksunluğu**, **deliryumla ya da deliryumsuz**"
+ilk_tedavi: "Yoksunluğun temeli **benzodiyazepindir** (kesilen alkolün **GABA tonusunu** yerine koyar), doz **CIWA-Ar** skoruna göre ayarlanır; karaciğer fonksiyonu bozuk hastada **glukuronidasyonla metabolize olan lorazepam ya da oksazepam** güvenlidir (diazepamın uzun etkisi ve aktif metaboliti risklidir), ağır tabloda **intravenöz** gerekir; **tiamin** ve beslenme desteği özellikle **glukoz infüzyonundan ÖNCE** verilir — glukoz kalan tiamini tüketip latent **Wernicke'yi** tetikleyebilir, magnezyum da düzeltilir; idame: **naltrekson** (**μ reseptör antagonisti**, ağır karaciğer yetmezliğinde kullanılmaz), **akamprozat** (böbrek yetmezliğinde kontrendike), **disülfirm** (**asetaldehit dehidrojenaz inhibitörü**, alkolle kızarma-bulantı-taşikardi yapar); **Wernicke**de yüksek doz **intravenöz tiamin** günlerce sürdürülür"
+klasik_komplikasyon: "**Deliryum tremens** (yoksunluğun ölümcül komplikasyonu); **Wernicke-Korsakoff sendromu** (kalıcı bellek kaybı); **alkolik karaciğer hastalığı** evreleri, **pankreatit** ve **dilate kardiyomiyopati**; gebelikte **fetal alkol sendromu**"
 tus_gecmisi:
 - tus-2016-ilkbahar-ttbt-120
 - tus-2016-sonbahar-ttbt-106

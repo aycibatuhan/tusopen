@@ -11,34 +11,33 @@ taksonomi:
   - dahiliye
   - dah_gastroenteroloji
   - dah_gis_colyak
-tipik_hasta: Glutenli beslenme (buğday, arpa, çavdar) sırasında ishal, karın şişkinliği ve kilo kaybıyla
-  gelen erişkin; atipik sunumda demir eksikliği anemisi, osteoporoz, kısa boy ya da infertilite nedeniyle
-  araştırılan hasta; tip 1 diyabet, otoimmün tiroidit ve Down sendromlu kişilerde risk artar; birinci
-  derece akrabada çölyak öyküsü
-patofizyoloji: 'HLA-DQ2 (en sık) ya da HLA-DQ8 taşıyan kişide gluten peptitleri ince bağırsakta doku transglutaminaz
-  tarafından deamidasyonu yapılır; bu peptitler HLA-DQ2/DQ8 üzerinden T hücrelerine sunulur ve mukozada
-  immün yanıtı tetikler: villöz atrofi, kript hiperplazisi ve intraepitelyal lenfosit artışı gelişir,
-  absorptif yüzey daralır ve malabsorpsiyon başlar'
+tipik_hasta: 'Glutenli beslenme (**buğday, arpa, çavdar**) sırasında ishal, karın şişkinliği, kilo kaybıyla
+  gelen erişkin. Atipik sunumda **demir eksikliği anemisi**, osteoporoz, kısa boy ya da **infertilite**
+  araştırması. Risk artışı: **tip 1 diyabet**, otoimmün tiroidit, **Down sendromu**, birinci derece akrabada
+  çölyak öyküsü'
+patofizyoloji: '**HLA-DQ2** (en sık) ya da **HLA-DQ8** taşıyanda gluten peptitleri **doku transglutaminaz**la
+  deamide edilip T hücrelerine sunulur; mukozada immün yanıt tetiklenir. **Villöz atrofi**, kript hiperplazisi
+  ve intraepitelyal lenfosit artışı; absorptif yüzey daralır, **malabsorpsiyon** başlar'
 anahtar_bulgular:
-- Anti-tTG (doku transglutaminaz) IgA antikorlarında yükseklik (toplam IgA düzeyiyle birlikte bakılır;
-  IgA eksikliğinde anti-tTG IgG kullanılır)
-- Distal duodenal mukozada villöz atrofi, kript hiperplazisi, intraepitelyal lenfosit artışı (Marsh sınıflaması)
-- 'Klasik tablo: kronik ishal, karın şişkinliği, kilo kaybı; çocuklarda büyüme geriliği'
-- 'Malabsorpsiyon izleri: demir eksikliği anemisi, folat ve D vitamini eksikliği, hipokalsemi, hipoalbuminemi'
-- 'Dermatitis herpetiformis: dirsek-diz gibi ekstansör yüzeylerde kaşıntılı vezikülobüllöz döküntü'
-- HLA-DQ2/DQ8 pozitifliği; bu haplotiplerin ikisinin de yokluğu çölyakı pratikte dışlar
-patognomonik: Dermatitis herpetiformis biyopsisinde dermal papillerde granüler IgA birikimi
-ilk_tetkik: Anti-tTG IgA serolojisi (toplam IgA ile birlikte); tam kan sayımı, demir, folat, D vitamini
-  ve kalsiyum düzeyleriyle eksiklik taraması
-kesin_tani: Pozitif seroloji eşliğinde distal duodenumdan alınan çok sayıda biyopside villöz atrofinin
-  gösterilmesi; tTG IgA titresi çok yüksek ve anti-endomisyum antikorları da pozitifse biyopsisiz tanı
-  olanaklıdır (özellikle çocuklarda). Biyopsi öncesi glutensiz diyet başlanmaması gerekir, çünkü iyileşen
-  mukoza tanıyı gizler; glutensiz diyetle klinik ve serolojik düzelme tanıyı destekler
-ilk_tedavi: 'Hayat boyu glutensiz diyet: buğday, arpa ve çavdar dışlanır; pirinç, mısır ve patates serbesttir.
-  Demir, folat ve D vitamini eksiklikleri tamamlanır; dermatitis herpetiformiste dapson eklenir; diyet
-  uyumuna rağmen hastalık sürüyorsa refrakter çölyak araştırılır'
-klasik_komplikasyon: Refrakter çölyak hastalığı ve intestinal T hücreli lenfoma; tedavisiz osteoporoz
-  ve malabsorpsiyon
+- '**Anti-tTG IgA** yüksekliği (toplam IgA ile birlikte bakılır; IgA eksikliğinde **anti-tTG IgG** kullanılır)'
+- 'Distal duodenal mukozada **villöz atrofi**, kript hiperplazisi, intraepitelyal lenfosit artışı (**Marsh**
+  sınıflaması)'
+- 'Klasik tablo: kronik ishal, karın şişkinliği, kilo kaybı; çocuklarda **büyüme geriliği**'
+- 'Malabsorpsiyon izleri: **demir eksikliği anemisi**, folat ve **D vitamini** eksikliği, hipokalsemi,
+  hipoalbuminemi'
+- '**Dermatitis herpetiformis**: dirsek-diz gibi ekstansör yüzeylerde kaşıntılı vezikülobüllöz döküntü'
+- '**HLA-DQ2/DQ8** pozitifliği; ikisinin de yokluğu çölyakı pratikte dışlar'
+patognomonik: '**Dermatitis herpetiformis** biyopsisinde dermal papillerde **granüler IgA** birikimi'
+ilk_tetkik: '**Anti-tTG IgA** serolojisi (toplam IgA ile birlikte); tam kan sayımı, demir, folat, **D
+  vitamini** ve kalsiyum düzeyleriyle eksiklik taraması'
+kesin_tani: 'Pozitif seroloji eşliğinde distal duodenal biyopsilerde **villöz atrofi** gösterilmesi.
+  **tTG IgA** titresi çok yüksek ve **anti-endomisyum** pozitifse biyopsisiz tanı olanaklıdır (özellikle
+  çocuklarda). Biyopsi öncesi **glutensiz diyet** başlanmaz; iyileşen mukoza tanıyı gizler'
+ilk_tedavi: 'Hayat boyu **glutensiz diyet**: **buğday, arpa ve çavdar** dışlanır; pirinç, mısır ve patates
+  serbesttir. Demir, folat ve D vitamini eksiklikleri tamamlanır; dermatitis herpetiformiste **dapson**
+  eklenir. Diyet uyumuna rağmen hastalık sürüyorsa **refrakter çölyak** araştırılır'
+klasik_komplikasyon: '**Refrakter çölyak hastalığı** ve intestinal **T hücreli lenfoma**; tedavisiz **osteoporoz**
+  ve malabsorpsiyon'
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-65
 - tus-2015-sonbahar-ktbt-64

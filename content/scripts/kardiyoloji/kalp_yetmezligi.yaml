@@ -18,55 +18,64 @@ taksonomi:
   - dahiliye
   - dah_kardiyovaskuler
   - dah_kv_kalp_yetmezligi
-tipik_hasta: Klasik HFrEF hastası 65 yaş üstü, hipertansiyon ve iskemik kalp hastalığı veya önceki miyokard
-  enfarktüsü öykülü erkektir; eforla nefes darlığı, gece yastıktan kalkmayı gerektiren nefes darlığı, uykuda
-  boğulma atağı, ayak bileği şişmesi ve çabuk yorulma ile başvurur. HFpEF tablosunda ise yaşlı, hipertansiyonlu,
-  diyabetik, obez ve kadın hasta, aynı konjesyon yakınmalarını korunmuş kasılma oranıyla yaşar
-patofizyoloji: 'Ana ekseni nörohümoral aktivasyondur: pompa gücü düşen kalbe karşı vücut renin-anjiyotensin-aldosteron
-  sistemini ve sempatik sinir sistemini devreye sokar; vazokonstriksiyon, hacim yüklenmesi ve artan kalp hızı
-  kısa vadede debiyi korur ama kronik evrede miyokard remodellingine, apoptoz ve fibroza, giderek dilate ve
-  işlevsiz ventriküle yol açar; kısır döngü tedavinin mantığını da kurar, çünkü dört sütunlu temel tedavi bu
-  sistemleri bloke eder. HFrEF tipinde EF yüzde 40 ve altıdır ve sistolik fonksiyon bozuktur; HFpEF tipinde
-  EF yüzde 50 ve üstü kalır ama gevşeme-doluş bozukluğu nedeniyle doluş basınçları yükselir ve konjesyon olur;
-  aradaki yüzde 41-49 bandı HFmrEF olarak ayrı sınıftır'
+tipik_hasta: "Klasik **HFrEF** hastası **65 yaş üstü**, **hipertansiyon** ve **iskemik kalp hastalığı** veya
+  önceki **miyokard enfarktüsü** öykülü erkektir. **Eforla nefes darlığı**, **gece yastıktan kalkmayı
+  gerektiren dispne**, **uykuda boğulma atağı**, **ayak bileği şişmesi** ve çabuk yorulmayla başvurur.
+  **HFpEF** tablosunda ise yaşlı, **hipertansiyonlu**, **diyabetik**, **obez** ve kadın hasta, aynı
+  konjesyon yakınmalarını **korunmuş kasılma oranı**yla yaşar"
+patofizyoloji: "Ana ekseni **nörohümoral aktivasyon**dur: pompa gücü düşen kalbe karşı vücut
+  **renin-anjiyotensin-aldosteron sistemi**ni ve **sempatik sinir sistemi**ni devreye sokar.
+  Vazokonstriksiyon, hacim yüklenmesi ve hız artışı kısa vadede debiyi korur; kronik evrede miyokard
+  **remodelling**ine, apoptoz-fibroza ve **dilate, işlevsiz ventrikül**e yol açar. Kısır döngü
+  tedavinin mantığını da kurar: **dört sütunlu temel tedavi** bu sistemleri bloke eder. **HFrEF** tipinde
+  **EF yüzde 40 ve altı**dır ve sistolik fonksiyon bozuktur; **HFpEF** tipinde **EF yüzde 50 ve üsti**
+  kalır ama gevşeme-doluş bozukluğu nedeniyle doluş basınçları yükselir; aradaki **yüzde 41-49** bandı
+  **HFmrEF** olarak ayrı sınıftır"
 anahtar_bulgular:
-- Efor dispnesi, ortopne ve paroksismal noktürnal dispne; ileri olguda istirahat dispnesi
-- Juguler venöz dolgunluk, hepatoyuguler reflü, periferik pit ödem, hepatomegali, asit (sağ kalp yetmezliği)
-- Bazalde ince kreptan raller, S3 gallop ritmi, çabuk yorulma ve egzersiz kapasitesinde düşme
-- 'Telegrafide kardiyomegali (kardiyotorasik oran artışı), Kerley B çizgileri, plevral efüzyon, pulmoner
-  venöz konjesyon'
-- BNP veya NT-proBNP yükselmesi; şikayet şiddeti NYHA fonksiyonel sınıflaması ile belirtilir (I-IV)
-- 'Ekokardiyografide EF sınıflaması: HFrEF yüzde 40 ve altı, HFmrEF yüzde 41-49, HFpEF yüzde 50 ve üstü;
-  HFmrEF ve HFpEF tablolarında doluş basınç artışı bulguları (sol atriyal genişleme, E/e yüksekliği, LV
-  hipertrofisi)'
-- 'Altta yatan nedenin izleri: önceki infarkt bölgesinde akinezi (iskemik), kapak hastalığı, LV hipertrofisi'
-- 'Dekompanzasyonda hızlı kilo artışı, ödem artışı ve solunum sıkıntısı; akut tabloda siyanoz, soğuk
-  ekstremite, hipotansiyon'
-patognomonik: Ortopne ve paroksismal noktürnal dispne + telegrafide kardiyomegali + yükselmiş BNP/NT-proBNP
-  üçlüsü; ekokardiyografide düşük EF bu üçlüyü tamamlayarak tanıyı kesinleştirir
-ilk_tetkik: Ekokardiyografi ilk ve en önemli tetkiktir; EF ölçer, nedeni (iskemi, kapak, hipertansiyon) işaret
-  eder. BNP/NT-proBNP de istenir; EKG, tele kardiyotorasik oran ve konjesyon bulguları, kreatinin-elektrolitler,
-  hemogram, karaciğer fonksiyon testleri, açlık glukozu ve lipid profili tamamlar. İskemi şüphesinde koroner
-  anjiyografi planlanır
-kesin_tani: 'Semptom ve belirtiler (dispne, konjesyon, çabuk yorulma) artı natriüretik peptit yükselmesi artı
-  ekokardiyografik işlev bozukluğu bir arada bulunur; EF sınıflaması tanıyı tamamlar: HFrEF EF yüzde 40 ve
-  altı, HFmrEF yüzde 41-49, HFpEF yüzde 50 ve üstü. HFmrEF ve HFpEF tablolarında doluş basınç artışının
-  dolay bulguları
-  (sol atriyal genişleme, LV hipertrofisi, E/e yüksekliği) aranır. Akut tabloda sıcak-soğuk-ıslak-kuru profili
-  bedside sınıflama sağlar'
-ilk_tedavi: 'Kronik HFrEF temelinde dört sütun birlikte kurulur, her biri mortaliteyi azalttığı için sırada
-  bekletilmez ve düşük dozda başlanıp hedefe titrenir: (1) ARNI (sakubitril-valsartan) veya ACE inhibitörü-ARB,
-  (2) kanıtlı beta bloker (bisoprolol, karvedilol, metoprolol süksinat, nebivolol), (3) MRA (spironolakton,
-  eplerenon), (4) SGLT2 inhibitörü (dapagliflozin veya empagliflozin). Konjesyon varsa loop diüretik (fürosemid)
-  eklenir; diüretik konjesyonu çözer ama mortaliteyi değiştirmez. 2022 ACC/AHA ve 2023 ESC güncellemesi SGLT2
-  inhibitörünü dört sütuna yükseltti; dört sütun uyumlu hastada EF yüzde 35 ve altı, sinüs ritmi ve beta blokere
-  rağmen nabız 70 üstü sürerse ivabradin (Sınıf IIa), hâlâ belirtili sinüs ritmi hastada digoksin yatış azaltımı
-  için (Sınıf IIb) düşünülür. Akut dekompanzasyonda oturarak pozisyon, oksijen, intravenöz loop diüretik;
-   tansiyon uygunsa vasodilatör, hipotansiyon ve şokta inotrop-vazopresör. HFmrEF ve HFpEF gruplarında SGLT2
-   inhibitörü temel öneridir (HFmrEF Sınıf I); beta bloker ve ACE inhibitörünün HFpEF grubunda mortalite
-   faydası gösterilememiştir, konjesyonda diüretik kullanılır'
-klasik_komplikasyon: Ventriküler aritmiler ve ani kardiyak ölüm (ICD endikasyonu), kardiyorenal sendrom ve
-  ilerleyici böbrek yetmezliği, kardiyak kaşeksi; akut pulmoner ödem ve tekrarlayan hastaneye yatışlar
+- "**Efor dispnesi**, **ortopne** ve **paroksismal noktürnal dispne**; ileri olguda istirahat dispnesi"
+- "**Juguler venöz dolgunluk**, **hepatoyuguler reflü**, **periferik pit ödem**, **hepatomegali**, asit
+  (**sağ kalp yetmezliği**)"
+- "Bazalde ince **kreptan raller**, **S3 gallop ritmi**, çabuk yorulma ve egzersiz kapasitesinde düşme"
+- "Telegrafide **kardiyomegali** (kardiyotorasik oran artışı), **Kerley B çizgileri**, **plevral
+  efüzyon**, pulmoner venöz konjesyon"
+- "**BNP veya NT-proBNP** yükselmesi; şikayet şiddeti **NYHA** fonksiyonel sınıflaması ile belirtilir
+  (**I-IV**)"
+- "Ekokardiyografide EF sınıflaması: **HFrEF yüzde 40 ve altı**, **HFmrEF yüzde 41-49**, **HFpEF yüzde
+  50 ve üsti**"
+- "HFmrEF ve HFpEF tablolarında **doluş basınç artışı** bulguları: **sol atriyal genişleme**, **E/e
+  yüksekliği**, **LV hipertrofisi**"
+- "Altta yatan nedenin izleri: önceki infarkt bölgesinde **akinezi** (iskemik), **kapak hastalığı**, **LV
+  hipertrofisi**"
+- "Dekompanzasyonda hızlı **kilo artışı**, ödem artışı ve solunum sıkıntısı; akut tabloda **siyanoz**,
+  **soğuk ekstremite**, **hipotansiyon**"
+patognomonik: "**Ortopne** ve **paroksismal noktürnal dispne** + telegrafide **kardiyomegali** +
+  yükselmiş **BNP-NT-proBNP** üçlüsü; ekokardiyografide **düşük EF** bu üçlüyü tamamlayarak tanıyı
+  kesinleştirir"
+ilk_tetkik: "**Ekokardiyografi** ilk ve en önemli tetkiktir; **EF** ölçer, nedeni (iskemi, kapak,
+  hipertansiyon) işaret eder. **BNP-NT-proBNP** de istenir; **EKG**, **tele** (kardiyotorasik oran,
+  konjesyon), **kreatinin-elektrolitler**, hemogram, karaciğer fonksiyon testleri, açlık glukozu ve lipid
+  profili tamamlar. İskemi şüphesinde **koroner anjiyografi** planlanır"
+kesin_tani: "**Semptom ve belirtiler** (dispne, konjesyon, çabuk yorulma) + **natriüretik peptit**
+  yükselmesi + **ekokardiyografik işlev bozukluğu** bir arada bulunur; **EF sınıflaması** tanıyı
+  tamamlar: **HFrEF yüzde 40 ve altı**, **HFmrEF yüzde 41-49**, **HFpEF yüzde 50 ve üsti**. HFmrEF ve
+  HFpEF tablolarında **doluş basınç artışı**nın dolay bulguları (**sol atriyal genişleme**, **LV
+  hipertrofisi**, **E/e yüksekliği**) aranır. Akut tabloda **sıcak-soğuk-ıslak-kuru** profili yatak
+  başında sınıflama sağlar"
+ilk_tedavi: "Kronik HFrEF'de **dört sütun** birlikte kurulur (her biri **mortaliteyi azaltır**), düşük
+  dozda başlanıp hedefe titrenir: (1) **ARNI (sakubitril-valsartan)** veya
+  **ACE inhibitörü-ARB**. (2) Kanıtlı **beta bloker** (**bisoprolol**, **karvedilol**, **metoprolol
+  süksinat**, **nebivolol**), (3) **MRA (spironolakton, eplerenon)**, (4) **SGLT2 inhibitörü
+  (dapagliflozin veya empagliflozin)**. Konjesyon varsa **loop diüretik (fürosemid)** eklenir,
+  diüretik konjesyonu çözer ama **mortaliteyi değiştirmez**. Dört sütun uyumlu hastada **EF yüzde 35 ve
+  altı**, sinüs ritmi ve beta blokere rağmen **nabız 70 üsti** sürerse **ivabradin** (Sınıf IIa); hâlâ
+  belirtili sinüs ritmi hastada **digoksin** yatış azaltımı için (Sınıf IIb) düşünülür. Akut
+  dekompanzasyonda oturarak pozisyon, **oksijen**, **intravenöz loop diüretik**; tansiyon uygunsa
+  **vazodilatör**, hipotansiyon ve şokta **inotrop-vazopresör**. HFmrEF ve HFpEF gruplarında temel öneri
+  **SGLT2 inhibitörü** (HFmrEF Sınıf I), **beta bloker ve ACE inhibitörünün HFpEF grubunda mortalite
+  faydası gösterilememiştir**, konjesyonda **diüretik** kullanılır"
+klasik_komplikasyon: "**Ventriküler aritmiler** ve **ani kardiyak ölüm** (**ICD** endikasyonu);
+  **kardiyorenal sendrom** ve ilerleyici böbrek yetmezliği, **kardiyak kaşeksi**; **akut pulmoner ödem**
+  ve tekrarlayan hastaneye yatışlar"
 ayirici:
 - hastalik: koah
   ayirt_edici: KOAH dispnesi öksürük-balgam öyküsü ve uzayan ekspiryumla, havayolu obstruksiyonu (spirografi

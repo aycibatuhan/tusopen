@@ -13,56 +13,19 @@ taksonomi:
   - psikiyatri
   - psik_madde
   - psik_md_opioid
-tipik_hasta: Her yaşta ama genç erişkinlerde öne çıkan hasta; başlangıç çoğu kez reçeteli opioid (ameliyat,
-  sırt-kas ağrısı, diş çekimi sonrası) ile olur, ilaca erişim zorlaşınca sokak maddelerine (heroin, sentetik
-  fentanil) geçilir. Kronik ağrı hastaları, ilaca kolay erişimi olan sağlık personeli ve enjeksiyon yoluyla
-  kullananlar risk gruplarıdır; kliniğe doğrudan değil, yoksunluk atağı, doz aşımı sonrası acile getirilme
-  ya da ailenin gözlemleriyle (göz bebeklerinin daralması, yatışkınlık, ekonomik-iş sorunları) taşınır
-patofizyoloji: 'Mu-opioid reseptör agonizması: adenilat siklaz baskılanır, cAMP azalır, K kanalları açılarak
-  hücre hiperpolarize olur; presinaptik kalsiyum girişi azalınca nörotransmitter salınımı düşer. Analjezi,
-  öfori (ventral tegmental alan-çekirdek accumbens dopamin yolu), sedasyon ve solunum baskılanması bu
-  mekanizmanın klinik yüzleridir. Kronik kullanım reseptör desensitizasyonu ile tolerans üretir; adenilat
-  siklaz-cAMP üst düzenlenmesi (özellikle locus coeruleus) yoksunluk sendromunun biyolojik temelidir;
-  yaygın ağrı eşiği düşer (hiperaljezi), fentanil gibi güçlü sentetikler doz aşımı riskini büyütür'
+tipik_hasta: "Genç erişkinlerde öne çıkan hasta; başlangıç çoğu kez **reçeteli opioid** (ameliyat, sırt-kas ağrısı, diş çekimi) ile olur, ilaca erişim zorlaşınca **heroin, sentetik fentanil**'e geçilir. Kronik ağrı hastaları, **ilaça kolay erişimi olan sağlık personeli** ve **enjeksiyon** kullananlar risk gruplarıdır; kliniğe çoğu kez **yoksunluk atağı, doz aşımı sonrası acil** ya da ailenin gözlemleriyle (**dar göz bebekleri, yatışkınlık**) taşınır"
+patofizyoloji: "**Mu-opioid reseptör agonizması**: adenilat siklaz baskılanır, **cAMP azalır**, K kanalları açılarak hücre hiperpolarize olur; analjezi, **öfori (ventral tegmental alan-çekirdek accumbens dopamin yolu)**, sedasyon ve **solunum baskılanması** klinik yüzleridir. Kronik kullanım **reseptör desensitizasyonu ile tolerans** üretir; **adenilat siklaz-cAMP üst düzenlenmesi (özellikle locus coeruleus)** yoksunluk sendromunun biyolojik temelidir; **fentanil gibi güçlü sentetikler** doz aşımı riskini büyütür"
 anahtar_bulgular:
-- Tolerans (aynı etki için artan doz) ve kullanımı kesme-kontrol girişimlerinde başarısızlık; güçlü istek
-  (craving)
-- 'Klasik yoksunluk sendromu: son dozdan 6-12 saat sonra başlar, 1-3. günde zirve yapar, 5-7 günde düzelir;
-  midriyazis, gözyaşı-salya akışı, esneme, miyalji-kramplar, ishal-kusma, terleme, ürperme-tüylerin dikilmesi
-  (piloereksiyon), huzursuzluk, insomni; tablo ölümle sonuçlanmaz (alkol-benzodiazepin yoksunluğundan
-  temel fark)'
-- 'Akut kullanım bulguları: miyozis, yatışkınlık, konuşmanın yavaşlaması; doz aşımında bilinç bulanıklığı
-  ve solunum baskılanması (ölümcül)'
-- 'Davranışsal örüntü: planlanandan çok-daha uzun kullanma, rol yükümlülüklerini aksatma, önemli etkinliklerden
-  vazgeçme, zararına rağmen sürdürme, tehlikeli koşullarda kullanma; şiddet: 11 ölçütten 2-3 hafif, 4-5
-  orta, 6 ve üzeri ağır'
-- 'Enjeksiyon kullanım izleri: iğne izleri, tromboflebit, cilt apseleri; hepatit B-C, HIV ve endokardit
-  riskinin taranması'
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Opioid yoksunluk sendromu örüntüsü: midriyazis, gözyaşı-salya akması, miyalji, ishal ve
-  piloereksiyonla seyreden tablo'
-ilk_tetkik: Öykü ve DSM-5-TR ölçüt değerlendirmesi, idrar toksikoloji (sentetik opioid-fentanil taraması
-  dahil); enjeksiyon kullanımı varsa tam kan sayımı, karaciğer fonksiyonları, hepatit B-C ve HIV serolojisi,
-  endokardit şüphesinde ekokardiyografi; gebelik testi (yoksunluğun fetüse etkisi ve tedavi planlaması
-  için); daha önce doz aşımı öyküsü, hastanın ve ailesinin naloksona erişimi sorgulanır
-kesin_tani: 'DSM-5-TR ölçütleri: opioid kullanımının zarar verici örüntüsü; 12 ay içinde 11 ölçütten en
-  az 2''si: tolerans; karakteristik yoksunluk ya da yoksunluğu önlemek için kullanım; planlanandan daha
-  çok-daha uzun kullanma; azaltma-kesme çabasında başarısızlık; madde edinme-kullanma-iyileşme için çok
-  zaman harcama; güçlü istek; rol yükümlülüklerini aksatma; sağlık sonuçlarına rağmen sürdürme; sosyal-kişilerarası
-  sorunlara rağmen sürdürme; önemli etkinliklerden vazgeçme; tehlikeli koşullarda kullanma. Tıbbi gözetim
-  altındaki uygun kullanımda tolerans-yoksunluk ölçüt sayılmaz; şiddet derecesi ölçüt sayısına göredir'
-ilk_tedavi: 'Standart yaklaşım opioid agonist bakım tedavisidir; tek başına detoksifikasyonun nüks oranı
-  çok yüksektir: metadon (yalnızca yetkilendirilmiş programlarda, günde tek doz) ya da buprenorfin (kısmi
-  agonist; doz tavanı sayesinde solunum baskılaması görece güvenli, nalokson kombinasyonu enjeksiyonla
-  kötüye kullanımı caydırır, ayaktan yazılabilir). Klinik detoksifikasyon yapılacaksa buprenorfin-klonidin
-  artı semptomatik destek (antiemetik-antidiyareik, ağrı kesici). Nalokson (mu antagonisti) bakım ilacı
-  değil doz aşımı acilidir: solunumu düzeltir; yarı ömrü kısa olduğundan, özellikle fentanilde yeniden
-  baskılanma riskine karşı yinelenen doz ve izlem gerekir. Tam yoksunluğa girmiş istekli hastalarda uzun
-  etkili depo naltrekson bakım seçeneğidir; psikososyal destek ve zarar azaltım (iğne değişim programları,
-  nalokson eğitimi) tedavinin ayrılmaz parçasıdır'
-klasik_komplikasyon: 'Doz aşımı ölümü (solunum depresyonu; sentetik fentanil çağında hızla artmaktadır);
-  enjeksiyon yoluyla bulaş: HIV, hepatit B-C, S. aureus endokarditi, cilt-yumuşak doku enfeksiyonları,
-  tromboflebit; gebe kullanıcının bebeğinde doğumda yoksunluk sendromu; tedavisiz bırakılmada iş-işlev
-  kaybı ve ekonomik-toplumsal çöküş'
+- "**Tolerans** (aynı etki için artan doz) ve kesme-kontrol girişimlerinde başarısızlık; **güçlü istek (craving)**"
+- "**Klasik yoksunluk sendromu: son dozdan 6-12 saat sonra başlar, 1-3. günde zirve yapar, 5-7 günde düzelir**; **midriyazis, gözyaşı-salya akışı, esneme, miyalji, ishal-kusma, piloereksiyon**; tablo **ölümle sonuçlanmaz** — **alkol-benzodiazepin yoksunluğundan temel fark**"
+- "**Akut kullanım bulguları**: **miyozis, yatışkınlık**, konuşmanın yavaşlaması; doz aşımında bilinç bulanıklığı ve **solunum baskılanması (ölümcül)**"
+- "**Davranışsal örüntü** ve şiddet: **11 ölçütten 2-3 hafif, 4-5 orta, 6 ve üzeri ağır**"
+- "**Enjeksiyon kullanım izleri**: iğne izleri, tromboflebit, cilt apseleri; **hepatit B-C, HIV ve endokardit** riskinin taranması"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **Opioid yoksunluk sendromu örüntüsü**: **midriyazis, gözyaşı-salya akması, miyalji, ishal ve piloereksiyonla** seyreden tablo"
+ilk_tetkik: "Öykü ve **DSM-5-TR ölçüt** değerlendirmesi; **idrar toksikoloji** (sentetik opioid-fentanil taraması dahil). Enjeksiyon kullanımında **hepatit B-C ve HIV serolojisi**, karaciğer fonksiyonları; **endokardit** şüphesinde **ekokardiyografi**; **gebelik testi**. Önceki **doz aşımı öyküsü** ve hastanın-ailesinin **naloksona erişimi** sorgulanır"
+kesin_tani: "**DSM-5-TR ölçütleri**: 12 ay içinde **11 ölçütten en az 2'si** — tolerans; karakteristik yoksunluk ya da yoksunluğu önlemek için kullanım; bırakamama; güçlü istek; rol yükümlülüklerini aksatma; zararına rağmen sürdürme; tehlikeli koşullarda kullanma. **Tıbbi gözetim altındaki uygun kullanımda tolerans-yoksunluk ölçüt sayılmaz**; şiddet **ölçüt sayısına** göredir"
+ilk_tedavi: "Standart yaklaşım **opioid agonist bakım tedavisidir**; tek başına detoksifikasyonun **nüks oranı çok yüksektir**: **metadon** (yalnızca yetkilendirilmiş programlarda, günde tek doz) ya da **buprenorfin** (kısmi agonist; **doz tavanı** sayesinde görece güvenli, **nalokson kombinasyonu** kötüye kullanımı caydırır, ayaktan yazılabilir). Detoksifikasyon yapılacaksa **buprenorfin-klonidin** artı semptomatik destek. **Nalokson** bakım ilacı değil **doz aşımı acilidir**; **yarı ömrü kısa** olduğundan özellikle **fentanilde** yeniden baskılanma riskine karşı **yinelenen doz ve izlem** gerekir. Tam yoksunluğa girmiş istekli hastada **uzun etkili depo naltrekson**; **psikososyal destek ve zarar azaltım** (iğne değişim, **nalokson eğitimi**) ayrılmaz parçadır"
+klasik_komplikasyon: "**Doz aşımı ölümü** (solunum depresyonu; **sentetik fentanil** çağında hızla artmaktadır); enjeksiyon yoluyla bulaş: **HIV, hepatit B-C, S. aureus endokarditi**, cilt-yumuşak doku enfeksiyonları; gebe kullanıcının bebeğinde **doğumda yoksunluk sendromu**"
 tus_gecmisi:
 - tus-2019-ilkbahar-ttbt-103
 - tus-2020-ilkbahar-ktbt-35

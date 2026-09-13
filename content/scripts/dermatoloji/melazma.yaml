@@ -8,18 +8,18 @@ sources:
 ad: Melazma
 taksonomi:
   - [ktbt, dermatoloji, derm_pigmentasyon, derm_pg_melazma_hiperpigmentasyon]
-tipik_hasta: "Fitzpatrick III-IV tenli (akdeniz tipi) orta yaş kadın; alın-yanak-çene üzerinde sınırları belirsiz, simetrik gri-kahve lekelerle gelir. Gebelik, doğum kontrol hapı veya östrojen içeren tedaviyle başlayan ya da ağırlaşan; yazın koyulaşıp kışın açılan seyir öyküsü klasiktir"
-patofizyoloji: "Östrojen ve gebelik, keratinositler üzerinden melanositleri etkinleştiren sinyalleri (kit ligand, endotelin-1, Wnt yolu) artırır; UV, özellikle görünür ışık ve ısı tetiklemeyi sürdürür. Tablo hiperaktif melanositlerin aşırı melanin üretimidir (sayıca artış da vardır); melanositte yıkım veya kanser dönüşümü yoktur. Epidermal tipte bazal tabakada melanin artar, dermal tipte dermisin üstünde melanofajlar birikir ve bu ayrım tedavi yanıtını belirler"
+tipik_hasta: "**Fitzpatrick III-IV** tenli (akdeniz tipi) orta yaş **kadın**; alın-yanak-çene üzerinde sınırları belirsiz, **simetrik gri-kahve lekeler**le gelir; **Gebelik**, **doğum kontrol hapı** veya **östrojen** içeren tedaviyle başlayan ya da ağırlaşan; yazın koyulaşıp kışın açılan seyir öyküsü klasiktir"
+patofizyoloji: "**Östrojen** ve **gebelik**, keratinositler üzerinden melanositleri etkinleştiren sinyalleri (**kit ligand**, **endotelin-1**, **Wnt** yolu) artırır; **UV**, özellikle **görünür ışık** ve **ısı** tetiklemeyi sürdürür. Tablo **hiperaktif melanosit**lerin aşırı **melanin** üretimidir (sayıca artış da vardır); melanositte yıkım veya kanser dönüşümü yoktur; **Epidermal tipte** bazal tabakada melanin artar, **dermal tipte** dermisin üstünde **melanofajlar** birikir ve bu ayrım **tedavi yanıtını** belirler"
 anahtar_bulgular:
-  - "Yüz orta bölgesi (alın, çene, yanak), mandibular veya üst dudak yerleşimli simetrik düz grid-kahve lekeler"
-  - "Wood lambasında epidermal tipte kontrast belirgin derinleşir; dermal tip silik kalır (bu ayrım tedavi yanıtını da öngörür)"
-  - "Gebelikte başlayıp doğumda açılan hamilelik maskesi (klazma); oral kontraseptif veya östrojen tedavisiyle de başlayabilir"
-  - "Yaz alevlenme-kış hafiflemesi; güneş koruması kesilince hızlı nüks"
-  - "Tiroid fonksiyon bozukluğu, fototoksik parfüm-kozmetik ve antikonvülsanlarla ilişki bildirilmiştir"
+  - "Yüz orta bölgesi (alın, çene, yanak), mandibular veya üst dudak yerleşimli **simetrik düz gri-kahve lekeler**"
+  - "**Wood lambasında** epidermal tipte kontrast belirgin **derinleşir**; dermal tip **silik** kalır (bu ayrım tedavi yanıtını da öngörür)"
+  - "Gebelikte başlayıp doğumda açılan **hamilelik maskesi (klazma)**; **oral kontraseptif** veya östrojen tedavisiyle de başlayabilir"
+  - "**Yaz alevlenme-kış hafiflemesi**; **güneş koruması kesilince** hızlı nüks"
+  - "**Tiroid fonksiyon bozukluğu**, **fototoksik parfüm-kozmetik** ve **antikonvülsan**larla ilişki bildirilmiştir"
 patognomonik: null
-ilk_tetkik: "Klinik muayene + Wood lambası (derinlik ayırımı) ve dermoskopi; tetikleyici sorgusu (östrojen, güneş, kozmetik); seçilmiş olguda tiroid fonksiyon testleri"
-kesin_tani: "Klinik görünüm ve Wood lambası-dermoskopiyle konur; kronik seyir ve tetikleyici öykü tanıyı pekiştirir; biyopsi nadiren gerekir (epidermiste bazal katman melanin artışı, dermal tipde melanofajlar)"
-ilk_tedavi: "Temel tedavi sıkı güneş korumasıdır: geniş spektrum yüksek SPF kremler artı demir oksitli (görünür ışığa karşı) pigmentli koruyucular, şapka ve gölge. Başlangıç ilaç hidrokinon (4) veya üçlü kombinasyon krem (hidrokinon + tretinoin + mild kortikosteroid) üç-altı ay; azelaik asit alternatiftir; dirençte glikolik asit peeling; lazer ve IPL son çaredir çünkü postinflamatuvar hiperpigmentasyon riski taşır — idame koruma yapılmazsa kesin nüks olur"
-klasik_komplikasyon: "Tedaviye bağlı postinflamatuvar hiperpigmentasyon ve uzun süreli hidrokinonda ekzojen okronoz; koruma-tedavi kesilince hızla tekrar — melazma kronik bir hastalıktır"
+ilk_tetkik: "**Klinik muayene** + **Wood lambası** (derinlik ayırımı) ve **dermoskopi**; tetikleyici sorgusu (**östrojen**, güneş, kozmetik). Seçilmiş olguda **tiroid fonksiyon testleri**"
+kesin_tani: "Klinik görünüm ve **Wood lambası-dermoskopi**yle konur; **kronik seyir** ve **tetikleyici öyküsü** tanıyı pekiştirir. Biyopsi nadiren gerekir (epidermiste **bazal katman melanin artışı**, dermal tipde **melanofajlar**)"
+ilk_tedavi: "Temel tedavi **sıkı güneş koruması**dır: **geniş spektrum yüksek SPF** kremler artı **demir oksitli** (görünür ışığa karşı) pigmentli koruyucular, şapka ve gölge. Başlangıç ilaç **hidrokinon (%4)** veya **üçlü kombinasyon krem** (**hidrokinon + tretinoin + mild kortikosteroid**) **üç-altı ay**, **azelaik asit** alternatiftir; dirençte **glikolik asit peeling**; **Lazer ve IPL** son çaredir çünkü **postinflamatuvar hiperpigmentasyon** riski taşır — **idame koruma** yapılmazsa kesin nüks olur"
+klasik_komplikasyon: "Tedaviye bağlı **postinflamatuvar hiperpigmentasyon** ve uzun süreli hidrokinonda **ekzojen okronoz**; koruma-tedavi kesilince **hızla tekrar** — melazma **kronik** bir hastalıktır"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

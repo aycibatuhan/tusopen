@@ -13,53 +13,20 @@ taksonomi:
   - psikiyatri
   - psik_yeme_uyku_cinsel
   - psik_yu_anoreksiya
-tipik_hasta: Genellikle ergenlik ya da erken erişkinlik döneminde başlayan, kadınlarda erkeklerden çok
-  daha sık görülen hasta; mükemmeliyetçi, kaygılı-itaatkâr ve başarı odaklı kişilik özellikleri öne çıkar.
-  Bale, modellik, jimnastik gibi kilo-şekil odaklı uğraşlar, tip 1 diyabet gibi kiloyu etkileyen kronik
-  hastalıklar ve ailede yeme ya da duygudurum bozukluğu öyküsü bu hastayı hatırlatır. Hasta kilo kaybını
-  çoğu kez inkâr eder ve kendisi değil aile, 'aşırı zayıfladı', 'adetleri kesildi', 'büyüme geriliği'
-  gibi şikâyetlerle getirir
-patofizyoloji: 'Tek bir nedene indirgenemez: genetik yatkınlık güçlüdür (ikiz çalışmalarında yüksek uyum),
-  serotonin-dopamin düzeni ile kaygı ve mükemmeliyetçilik özellikleri arasında bağ tanımlanmıştır; toplumsal
-  zayıflık estetiği ve aile etkileşimi tetikleyici rollerdedir. Açlık tablosunun kendisi de klinik bulguları
-  üretir: hipotalamik GnRH salınımının baskılanması hipogonadotropik hipogonadizm ve amenoreye, HPA aksının
-  aşırı aktivasyonu kortizol yüksekliğine, ötiroid hastalık sendromu T3 düşüklüğüne yol açar; kemik yapımı
-  bozulur, lökopeni ve trombositopeni gelişir; kalp kası kütlesi azalır'
+tipik_hasta: "Ergenlik ya da erken erişkinlikte başlar, kadınlarda erkeklerden çok daha sık; **mükemmeliyetçi, kaygılı-itaatkâr ve başarı odaklı** kişilik öne çıkar. **Bale, modellik, jimnastik**, **tip 1 diyabet** gibi kiloyu etkileyen kronik hastalıklar ve **ailede yeme ya da duygudurum bozukluğu** bu hastayı hatırlatır. Hasta kilo kaybını inkâr eder; aile '**aşırı zayıfladı**, **adetleri kesildi**, **büyüme geriliği**' gibi şikâyetlerle getirir"
+patofizyoloji: "Tek bir nedene indirgenemez: **genetik yatkınlık** güçlüdür (ikiz çalışmalarında yüksek uyum); **serotonin-dopamin** düzeni kaygı ve mükemmeliyetçilikle bağlanır. Açlık tablosu klinik bulguları üretir: **hipotalamik GnRH baskılanması → hipogonadotropik hipogonadizm ve amenore**; **HPA aksının aşırı aktivasyonu → kortizol yüksekliği**; **ötiroid hastalık sendromu → T3 düşüklüğü**. Kemik yapımı bozulur, **lökopeni ve trombositopeni** gelişir; kalp kası kütlesi azalır"
 anahtar_bulgular:
-- 'Beklenen minimum vücut ağırlığının belirgin altına inme: BMI 17,5 eşiği ICD-10''a aittir; DSM-5''te tanı için BMI eşiği yoktur, şiddet derecelendirmesi
-  BMI''ye göredir (17 ve üzeri hafif, 16-16,9 orta, 15-15,9 ağır, 15''in altı çok ağır)'
-- 'Zayıflığına rağmen kilo almaya yoğun korku ve kilo artışını önleyici davranışlar: kısıtlama, aşırı
-  egzersiz, kusma, laksatif-diüretik kullanımı'
-- 'Vücut imajı bozukluğu: kendini şişman algılama, ince olmanın kendini değerlendirme üzerinde aşırı önemi,
-  hastalığın ciddiyetini inkâr'
-- 'İki alt tip: kısıtlayıcı tip (tabloda tıkınırcasına yeme-kusma epizodu yok) ve tıkınırcasına yeme/kusma
-  tipi; bulimia''dan en önemli ayrım, hastanın ağırlığının düşük kalmasıdır'
-- Amenore (DSM-5-TR'de zorunlu ölçüt olmaktan çıktı ama klasik bulgu), lanugo, kuru deri-saç dökülmesi,
-  hipotansiyon-bradikardi-hipotermi, soğuk-mor ekstremiteler, ödem
-- 'Laboratuar-EKG: hipokalemi (kusma-laksatifte), QT uzaması, sinus bradikardisi; kusmada hipokloremik
-  metabolik alkaloz, laksatifte metabolik asidoz'
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Lanugo: yüz ve gövdede ince-yumuşak tüylenme, uzun süren açlığa özgün koruyucu yanıt'
-ilk_tetkik: 'Ağırlık-BMI ve büyüme eğrisi, vital bulgular (bradikardi, hipotansiyon, hipotermi); tam kan
-  sayımı (lökopeni, trombositopeni), elektrolitler, karaciğer enzimleri, fosfor-magnezyum-kalsiyum, EKG
-  (QT uzaması, bradikardi); endokrin değerlendirme: FSH-LH düşük, estradiol düşük (hipogonadotropik hipogonadizm),
-  TSH normalken T3 düşük (ötiroid hastalık sendromu), kortizol yüksek; uzun süren tablolarda kemik yoğunluğu
-  ölçümü'
-kesin_tani: 'DSM-5-TR ölçütleri: enerji alımının kısıtlanmasıyla vücudun yaş, cinsiyet, gelişim ve fiziksel
-  sağlığa göre beklenen minimum ağırlığının belirgin altına inme; kilo almaktan yoğun korku ya da kilo
-  alımını önleyen davranışlar; vücut ağırlığı-şeklini bozuk algılama, ağırlığın kendini değerlendirmede
-  aşırı etkisi ya da hastalığın ciddiyetinin inkârı. Amenore artık zorunlu ölçüt değildir; tablo başka
-  bir tıbbi durum ya da ruhsal bozuklukla daha iyi açıklanamaz'
-ilk_tedavi: 'Öncelik beslenme rehabilitasyonu ve yeniden beslenme sendromunun önlenmesidir: kalori kademeli
-  başlatılır (ergenlerde yaklaşık günde 1000-1200 kcal''den), fosfor-potasyum-magnezyum izlemi yapılır;
-  haftada yaklaşık 0,5 kg gibi yavaş kilo artışı hedeflenir. Yeniden beslenme sendromunun ilk işareti
-  hipofosfatemidir; kalp ritim bozukluğu ve bilinç değişikliğine ilerleyebilir, fosfor IV destekle düzeltilir.
-  Ergenlerde birinci basamak psikoterapi aile temelli tedavidir (Maudsley modeli), erişkinlerde bilişsel
-  davranışçı terapi öne çıkar; SSRI''lar düşük ağırlık döneminde etkin değildir, ağırlık düzeldikten sonra
-  eşlik eden kaygı-depresyon için düşünülebilir. Yatış endikasyonları: BMI çok düşük ya da kilo kaybı
-  hızlı, bradikardi-hipotansiyon-hipotermi, elektrolit bozukluğu, QT uzaması, intihar riski'
-klasik_komplikasyon: Osteoporoz (amenore döneminde kemik kaybı, geri dönüşsüz olabilir); yeniden beslenme
-  sendromu (hipofosfatemi); kardiyak aritmi ve ani ölüm; infertilite; ergenlerde boy uzama geriliği; psikiyatri
-  bozuklukları arasında en yüksek mortalite oranlarından birine sahiptir
+- "Beklenen minimum ağırlığın belirgin altına inme; **BMI 17,5 eşiği ICD-10'a aittir**, DSM-5'te tanı eşiği yoktur; **DSM-5 şiddeti BMI'ye göre**: **17 ve üzeri hafif**, **16-16,9 orta**, **15-15,9 ağır**, **15'in altı çok ağır**"
+- "Zayıflığına rağmen **kilo almaya yoğun korku** ve önleyici davranışlar: **kısıtlama, aşırı egzersiz, kusma, laksatif-diüretik kullanımı**"
+- "**Vücut imajı bozukluğu**: kendini şişman algılama, ince olmanın kendini değerlendirmede aşırı önemi, hastalığın ciddiyetini **inkâr**"
+- "İki alt tip: **kısıtlayıcı** (tıkınırcasına yeme-kusma epizodu yok) ve **tıkınırcasına yeme/kusma**; **bulimia'dan en önemli ayrım ağırlığın düşük kalmasıdır**"
+- "**Amenore** (DSM-5-TR'de zorunlu ölçüt değil ama klasik), **lanugo**, kuru deri-saç dökülmesi, **hipotansiyon-bradikardi-hipotermi**"
+- "Laboratuar-EKG: **hipokalemi** (kusma-laksatifte), **QT uzaması**, **sinus bradikardisi**; kusmada **hipokloremik metabolik alkaloz**, laksatifte **metabolik asidoz**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **Lanugo**: yüz ve gövdede ince-yumuşak tüylenme, uzun süren açlığa özgün koruyucu yanıt"
+ilk_tetkik: "**Ağırlık-BMI** ve büyüme eğrisi; vital bulgular (**bradikardi, hipotansiyon, hipotermi**). **Tam kan sayımı** (lökopeni, trombositopeni), **elektrolitler**, **fosfor-magnezyum-kalsiyum**, **EKG (QT uzaması)**. Endokrin: **FSH-LH düşük**, **estradiol düşük** (hipogonadotropik hipogonadizm), **TSH normalken T3 düşük**, **kortizol yüksek**; uzun süren tablolarda **kemik yoğunluğu** ölçümü"
+kesin_tani: "**DSM-5-TR ölçütleri**: **kısıtlamayla beklenen minimum ağırlığın belirgin altına inme**; **kilo almaya yoğun korku** ya da kilo alımını önleyen davranışlar; **vücut ağırlığı-şeklini bozuk algılama**, ağırlığın kendini değerlendirmede aşırı etkisi ya da ciddiyeti **inkâr**. **Amenore artık zorunlu ölçüt değildir**; tablo başka bir tıbbi durum ya da ruhsal bozuklukla daha iyi açıklanamaz"
+ilk_tedavi: "Öncelik **beslenme rehabilitasyonu** ve **yeniden beslenme sendromunun önlenmesidir**: kalori kademeli başlatılır (ergenlerde yaklaşık **günde 1000-1200 kcal**'den), **fosfor-potasyum-magnezyum** izlemi yapılır; hedef **haftada yaklaşık 0,5 kg**. İlk işaret **hipofosfatemidir**; **fosfor IV** destekle düzeltilir. Ergenlerde birinci basamak **aile temelli tedavi (Maudsley)**, erişkinlerde **bilişsel davranışçı terapi**; **SSRI'lar** düşük ağırlık döneminde **etkin değildir**. Yatış: BMI çok düşük ya da kilo kaybı hızlı, **bradikardi-hipotansiyon-hipotermi**, elektrolit bozukluğu, **QT uzaması**, intihar riski"
+klasik_komplikasyon: "**Osteoporoz** (amenore döneminde kemik kaybı, geri dönüşsüz olabilir); **yeniden beslenme sendromu (hipofosfatemi)**; **kardiyak aritmi ve ani ölüm**; **infertilite**; psikiyatri bozuklukları arasında **en yüksek mortalite oranlarından birine** sahiptir"
 tus_gecmisi:
 - tus-2018-ilkbahar-ktbt-16
 - tus-2018-ilkbahar-ktbt-47

@@ -11,35 +11,35 @@ taksonomi:
   - dahiliye
   - dah_endokrinoloji
   - dah_end_dislipidemi
-tipik_hasta: Rutin tetkikte lipit bozukluğu saptanan, sedanter ve fazla kilolu orta yaş hasta; ailesinde
-  erken koroner arter hastalığı ya da ani ölüm olan kişi; göz kapağında ksantelazma ya da Aşil tendonunda
-  ksantom saptanan hasta; diyabet, hipotiroidi, nefrotik sendrom gibi sekonder neden taraması gereken
-  olgu
-patofizyoloji: 'Aterosklerozun ana itici gücü LDL partiküllerinin arter duvarına geçip oksitlenmesi ve
-  makrofajların köpük hücresine dönüşmesidir; HDL düşüklüğü ters kolesterol taşınımını azaltarak, trigliserid
-  fazlalığı VLDL artışıyla riski büyütür. Primer nedenler genetiktir: ailesel hiperkolesterolemi (LDL
-  reseptörü, ApoB ya da PCSK9 genetik bozukluğu) ve ailesel hipertrigliseridemi. Sekonder nedenler: diyabet,
-  hipotiroidi, kronik böbrek hastalığı, nefrotik sendrom, alkol; tiazid diüretikler, beta blokerler, kortikosteroidler,
-  atipik antipsikotikler ve oral östrojen'
+tipik_hasta: 'Rutin tetkikte lipit bozukluğu saptanan, sedanter orta yaş hasta; ailesinde **erken koroner
+  arter hastalığı** ya da ani ölüm. Göz kapağında **ksantelazma** ya da Aşil tendonunda **ksantom**; **diyabet**,
+  hipotiroidi, nefrotik sendrom gibi sekonder neden taraması gereken olgu'
+patofizyoloji: 'Aterosklerozun itici gücü: **LDL** partiküllerinin arter duvarına geçip oksitlenmesi ve
+  makrofajın **köpük hücresi**ne dönüşmesi. **HDL** düşüklüğü ters kolesterol taşınımını azaltır; **trigliserid**
+  fazlalığı VLDL artışıyla riski büyütür. Primer: ailesel hiperkolesterolemi (**LDL reseptörü**, **ApoB**,
+  **PCSK9**), ailesel hipertrigliseridemi. Sekonder: diyabet, hipotiroidi, kronik böbrek hastalığı, nefrotik
+  sendrom, alkol; **tiazid**, beta bloker, kortikosteroid, atipik antipsikotik, oral östrojen'
 anahtar_bulgular:
-- LDL kolesterol yüksekliği; hedef değer toplam kardiyovasküler riske göre saptanır (çok yüksek riskte
-  55, yüksek riskte 70, orta riskte 100 mg/dL altı)
-- Trigliserid yüksekliği; 500 mg/dL üzerine çıktığında pankreatit riski öne çıkar
-- HDL kolesterol düşüklüğü (erkekte 40, kadında 50 mg/dL altı)
-- Ksantelazma, tendon ksantomu, erken yaşta korneal arkus; belirgin hipertrigliseridemide eruptif ksantom
-- Aile öyküsünde erken kalp-damar hastalığı
+- '**LDL** yüksekliği; hedef toplam riske göre: çok yüksek riskte **55**, yüksek riskte **70**, orta riskte
+  **100 mg/dL** altı'
+- '**Trigliserid** yüksekliği; **500 mg/dL** üzerine çıktığında **pankreatit** riski öne çıkar'
+- '**HDL** düşüklüğü (erkekte **40**, kadında **50 mg/dL** altı)'
+- '**Ksantelazma**, tendon **ksantomu**, erken yaşta **korneal arkus**; belirgin hipertrigliseridemide
+  **eruptif ksantom**'
+- 'Aile öyküsünde **erken kalp-damar hastalığı**'
 patognomonik: null
-ilk_tetkik: Açlık lipit paneli; eş zamanlı TSH, açlık glukozu/HbA1c, karaciğer ve böbrek fonksiyon testleriyle
-  sekonder neden taraması; ailesel hiperkolesterolemi şüphesinde kriter skoru (Dutch Lipid Clinic Network)
-kesin_tani: Lipit panelindeki bozukluğun iki ayrı ölçümle doğrulanması; LDL değeri Friedewald formülüyle
-  hesaplanır (total kolesterolden HDL ve trigliseridin beşte biri çıkarılır) ve trigliserid 400 mg/dL
-  üzerine çıktığında güvenilirliği bozulur
-ilk_tedavi: 'Yaşam tarzı değişikliği her hastada temel adımdır: doymuş ve trans yağ kısıtlaması, Akdeniz
-  tipi beslenme, kilo kaybı, düzenli egzersiz, sigaranın bırakılması. İlaç gerektiğinde yüksek yoğunluklu statin ilk seçimdir (hedef LDL 55 veya 70 değerlerinin altı için); miyalji, karaciğer enzim yükselmesi, nadir rabdomiyoliz ve hafif glukoz artışı
-  izlenir. Hedefe ulaşılamazsa ezetimib, gerekirse PCSK9 inhibitörü eklenir; belirgin hipertrigliseridemide
-  fibrat'
-klasik_komplikasyon: Erken ateroskleroz (koroner arter hastalığı, inme, periferik arter hastalığı); 500
-  mg/dL üstü trigliseridde akut pankreatit
+ilk_tetkik: '**Açlık lipit paneli**; eş zamanlı **TSH**, açlık glukozu/**HbA1c**, karaciğer ve böbrek
+  fonksiyon testleriyle sekonder neden taraması. Ailesel hiperkolesterolemi şüphesinde **Dutch Lipid
+  Clinic Network** kriter skoru'
+kesin_tani: 'Lipit bozukluğunun **iki ayrı ölçümle** doğrulanması. **LDL** **Friedewald** formülüyle hesaplanır
+  (total kolesterolden HDL ve trigliseridin beşte biri çıkarılır); trigliserid **400 mg/dL** üzerinde
+  formülün güvenilirliği bozulur'
+ilk_tedavi: 'Yaşam tarzı değişikliği her hastada temel: doymuş ve trans yağ kısıtlaması, Akdeniz tipi
+  beslenme, kilo kaybı, egzersiz, sigaranın bırakılması. İlaç gerektiğinde **yüksek yoğunluklu statin**
+  ilk seçim; miyalji, karaciğer enzim yükselmesi, nadir **rabdomiyoliz** izlenir. Hedefe ulaşılamazsa
+  **ezetimib**, gerekirse **PCSK9 inhibitörü** eklenir; belirgin hipertrigliseridemide **fibrat**'
+klasik_komplikasyon: 'Erken **ateroskleroz** (koroner arter hastalığı, inme, periferik arter hastalığı);
+  **500 mg/dL** üstü trigliseridde **akut pankreatit**'
 tus_gecmisi:
 - tus-2013-sonbahar-ttbt-120
 - tus-2014-ilkbahar-ttbt-112

@@ -11,32 +11,19 @@ taksonomi:
   - genel_cerrahi
   - gc_pediatrik_cerrahi
   - gc_pc_inmemis_testis_hidrosel
-tipik_hasta: Prematüre doğan erkek bebek (prematürlerde yaklaşık %30, zamanında doğanlarda %3-5); bir
-  veya iki taraflı boş skrotum; testislerin büyük çoğunluğu ilk yıl içinde kendiliğinden iner, bu nedenle
-  karar 6-12 ay muayenesinde verilir
-patofizyoloji: Testis embriyonik gelişimde retroperitonda başlar, gebeliğin 7-9. ayında inguinal kanaldan
-  geçerek skrotuma iner; bu inişi gonadotropinler ve Leydig hücrelerinin salgıladığı INSL3 hormonu yönetir.
-  Hormonal veya mekanik bir nedenle iniş durursa testis karın içinde, inguinal kanalda veya ektopik bir
-  yerde kalır; skrotal ısıdan daha sıcak bir ortamda kalan germ hücreleri zarar görür. Bu ısı hasarı,
-  ileri yaşta infertilite ve malign dönüşüm riskinin temelidir
+tipik_hasta: "Prematüre doğan erkek bebek (prematürlerde yaklaşık **%30**, zamanında doğanlarda **%3-5**); bir veya iki taraflı **boş skrotum**. Testislerin büyük çoğunluğu ilk yıl içinde kendiliğinden iner, bu nedenle karar **6-12 ay** muayenesinde verilir"
+patofizyoloji: "Testis embriyonik gelişimde retroperitonda başlar, gebeliğin **7-9. ayında** inguinal kanaldan geçerek skrotuma iner; bu inişi gonadotropinler ve Leydig hücrelerinin salgıladığı **INSL3** hormonu yönetir. Hormonal veya mekanik bir nedenle iniş durursa testis karın içinde, inguinal kanalda veya ektopik bir yerde kalır; skrotal ısıdan sıcak ortam germ hücrelerini zarara uğratır — ileri yaşta **infertilite** ve **malign dönüşüm** riskinin temelidir"
 anahtar_bulgular:
-- Boş skrotum (bir veya iki taraflı), skrotumun küçük ve gelişmemiş olması
-- İnguinal kanal bölgesinde palpe edilebilen testis
-- Sıcak odada ve çömelmeyle bile skrotuma indirilememe (retraktıl testisten ayırt)
-- Eşlik eden kasık fıtığı
-- İki taraflı olguda infertilite laboratuvarı (FSH ve LH yüksek, inhibin B düşük)
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Hiçbir manevrayla skrotuma indirilemeyen boş skrotum
-ilk_tetkik: Sıcak odada, bacaklar açıkken nazik iki elle muayene; karın ve kasık ultrasonografisi yer
-  bildirir ama testisi görememesi yokluğunu kanıtlamaz
-kesin_tani: Klinik muayene (indirilemeyen testis); palpe edilemeyen olgularda laparoskopi hem testisin
-  yerini gösterir hem tedaviyi başlatır
-ilk_tedavi: 6-12 ay arasındaki pencerede orkiopeksi (testisin skrotuma indirilip fikse edilmesi); en geç
-  1 yaşta tamamlanır, çünkü geç operasyon testis dokusunda kalıcı hasar bırakır; karın içinde yüksek yerleşimli
-  testiste bir veya iki aşamalı (Fowler-Stephens) orkiopeksi; puberteye kalmış ve atrofik abdominal testiste
-  malignite riski nedeniyle orkiektomi tartışılır; hormonal tedavi (hCG) düşük başarı nedeniyle günümüzde
-  yeri kalmamıştır
-klasik_komplikasyon: İnfertilite (iki taraflı olguda belirgin), germ hücreli tümör riski artışı (karın
-  içinde kalan testiste en yüksek), torsiyon, eşlik eden fıtık
+- "**Boş skrotum** (bir veya iki taraflı), skrotumun küçük ve gelişmemiş olması"
+- "**İnguinal kanal** bölgesinde palpe edilebilen testis"
+- "Sıcak odada ve çömelmeyle bile skrotuma indirilememe (**retraktıl testisten ayırt**)"
+- "Eşlik eden **kasık fıtığı**"
+- "İki taraflı olguda infertilite laboratuvarı: **FSH ve LH yüksek**, **inhibin B düşük**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — hiçbir manevrayla skrotuma **indirilemeyen boş skrotum**"
+ilk_tetkik: "Sıcak odada, bacaklar açıkken nazik iki elle **muayene**; karın ve kasık **ultrasonografisi** yer bildirir ama testisi görememesi yokluğunu kanıtlamaz"
+kesin_tani: "**Klinik muayene** (indirilemeyen testis); palpe edilemeyen olgularda **laparoskopi** hem testisin yerini gösterir hem tedaviyi başlatır"
+ilk_tedavi: "**6-12 ay** arasındaki pencerede **orkiopeksi** (testisin skrotuma indirilip fikse edilmesi), en geç **1 yaş**ta tamamlanır, geç operasyon testiste kalıcı hasar bırakır. Karın içinde yüksek yerleşimli testiste bir veya iki aşamalı **(Fowler-Stephens)** orkiopeksi; puberteye kalmış ve atrofik abdominal testiste malignite riski nedeniyle **orkiektomi** tartışılır. Hormonal tedavi (**hCG**) düşük başarı nedeniyle günümüzde yeri kalmamıştır"
+klasik_komplikasyon: "**İnfertilite** (iki taraflı olguda belirgin), **germ hücreli tümör** riski artışı (karın içinde kalan testiste en yüksek), **torsiyon**, eşlik eden fıtık"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-99
 - tus-2017-ilkbahar-ttbt-22

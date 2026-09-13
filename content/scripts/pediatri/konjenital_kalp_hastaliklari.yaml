@@ -21,62 +21,22 @@ taksonomi:
   - pediatri
   - ped_kardiyoloji
   - ped_kar_siyanotik
-tipik_hasta: Yenidoğan döneminde oksijene dirençli siyanoz, solunum sıkıntısı ya da duktus kapanmasıyla
-  gelen şok tablosu; ilk haftalarda beslenirken terleme, emememe ve kilo alamayan, solunumu hızlanan
-  süt çocuğu; rutin muayenede üfürüm saptanan ya da kalp taraması için getirilen çocuk; Down sendromu
-  tanılı bebek ve gebeliğinde kızamıkçık geçiren anne çocukları yüksek riskli grup
-patofizyoloji: 'Temel fizyoloji şunt ve obstrüksiyondur. Fetal dolaşımda akciğerler gaz değişimine
-  katılmadığından kan iki kestirme yol kullanır: plasentadan gelen oksijenli kan yüksek sağ atriyum
-  basıncı nedeniyle foramen ovaleden sol atriyuma geçer; sağ ventrikül çıkışının büyük bölümü yüksek
-  pulmoner vasküler direnç nedeniyle duktus arteriosustan aortaya yönelir. Duktusun açık kalması
-  düşük doğum öncesi PaO2 ve prostaglandin etkisiyle sağlanır. Doğumla birlikte akciğerler havayla
-  açılınca pulmoner vasküler direnç hızla düşer, akciğerlerden sol atriyuma venöz dönüş artar ve
-  yükselen sol atriyum basıncı septum primumu septum secunduma bastırarak foramen ovaleyi fonksiyonel
-  olarak kapatır; artan PaO2 ve plasentanın ayrılmasıyla prostaglandin düzeyinin düşmesi duktus
-  arteriosusu sağlıklı term bebekte 24-48 saatte fonksiyonel, 2-3 haftada anatomik olarak kapatır.
-  Sol-sağ şuntlu lezyonlarda (VSD, ASD, PDA) oksijenlenmiş kan akciğerlere geri döner; pulmoner akım
-  artar, kalp yetmezliği ve büyüme geriliği yapar ancak siyanoz yoktur. Sağ-sol şuntlu lezyonlarda
-  (Fallot tetralojisi, d-transpozisyon, TAPVR) oksijensiz kan sistemik dolaşıma karışır ve siyanoz
-  tabloyu belirler. Koarktasyon ve kritik aort darlığı gibi sol kalp obstrüksiyonlarında duktus
-  kapandığında sistemik akım bozulur ve bebek şokla başvurur; transpozisyonda iki dolaşım paralel
-  çalıştığından yaşam, atriyal düzey ya da duktus üzerinden kan karışmasına bağlıdır'
+tipik_hasta: "Yenidoğan döneminde **oksijene dirençli siyanoz**, solunum sıkıntısı ya da **duktus kapanmasıyla gelen şok** tablosu. İlk haftalarda **beslenirken terleme**, emememe ve kilo alamayan, solunumu hızlanan süt çocuğu; rutin muayenede **üfürüm** saptanan çocuk; **Down sendromu** tanılı bebek ve gebeliğinde **kızamıkçık** geçiren annenin çocuğu yüksek riskli"
+patofizyoloji: "Temel fizyoloji **şunt ve obstrüksiyondur**; fetal kestirmeler **foramen ovale** ve **duktus arteriosus**tur, doğumla **pulmoner direnç düşer** ve duktus term bebekte **24-48 saatte** kapanır; **Sol-sağ şunt** (VSD, ASD, PDA): oksijenlenmiş kan akciğerlere döner, **pulmoner akım artar** — kalp yetmezliği ve büyüme geriliği, **siyanoz yok**; **Sağ-sol şunt** (Fallot tetralojisi, d-transpozisyon, TAPVR): oksijensiz kan sistemik dolaşıma karışır, **siyanoz** belirleyicidir; **Sol kalp obstrüksiyonları** (koarktasyon, kritik aort darlığı): **duktus kapanınca** sistemik akım bozulur, bebek **şokla** başvurur; transpozisyonda yaşam **kan karışmasına** bağlıdır"
 anahtar_bulgular:
-- 'VSD en sık konjenital kalp hastalığıdır: sol alt sternal bordürde holosistolik üfürüm; küçük
-  defektler ilk yıl içinde çoğunlukla kendiliğinden kapanır, büyük defektler kalp yetmezliği yapar'
-- 'ASD ostium secundum en sık tipidir: sabit bölünen ikinci ses, sol ikinci aralıkta pulmoner akım
-  üfürümü; çoğu asemptomatik, bulguları erişkinlikte aritmi ve pulmoner hipertansiyonla çıkar'
-- 'PDA: sol üst sternal bordür ve klavikula altında sürekli makine sesi, geniş nabız basıncı ve
-  bounding nabızlar; term bebekte erken kapanırken preterm bebekte kapanmaz'
-- 'Koarktasyon: üst ekstremitede hipertansiyon, femoral nabızlarda gecikme ve zayıflık, üst-alt
-  ekstremite sistolik basınç farkı; büyük çocukta rib notching ve figure 3 görünümü'
-- 'Fallot tetralojisi en sık siyanotik lezyondur: büyük VSD, sağ ventrikül çıkış darlığı, overriding
-  aorta ve sağ ventrikül hipertrofisi; hipersiyanozik ataklar ve çömelme davranışı'
-- 'd-transpozisyon: doğumdan saatler içinde şiddetli siyanoz, akciğer grafisinde dar üst mediastenle
-  egg on a string görünümü; kan karışması duktus ve atriyal iletişime bağımlıdır'
-- 'TAPVR: pulmoner venlerin sol atriyuma bağlanmaması; obstrükte tipte küçük kalp gölgesi, şiddetli
-  pulmoner ödem ve oksijene dirençli siyanoz, suprakardiyak tipte kar adamı görünümü'
-- 'Down sendromunda en sık kalp lezyonu AV kanal (endokardiyal yastık) defektidir; konjenital
-  kızamıkçık sendromunda klasik kardiyak bulgular PDA ve dal pulmoner arter darlığıdır'
-patognomonik: 'Patognomonik değil; kategorik klasikler — PDA sürekli makine sesi yapar; Fallot
-  tetralojisinde hipersiyanozik atak ve çömelme, d-transpozisyonda dar üst mediastenli egg on a
-  string görünümü, koarktasyonda üst-alt ekstremite basınç farkı grubun imza bulgularıdır'
-ilk_tetkik: Şüpheli her olguda ekokardiyografi; doğum sonrası pulse oksimetre taraması siyanotik
-  lezyonları erken yakalar, şok ya da şiddetli siyanozda duktus bağımlılık düşünülerek prostaglandin
-  bekletilmeden başlanır
-kesin_tani: 'Ekokardiyografiyle anatomik tanı: defektin yeri, şunt yönü, basınçlar ve duktus durumu;
-  tanı siyanotik-asiyanotik ve şunt-obstrüksiyon kategorileriyle birlikte kategorik olarak konur,
-  nadir karmaşık olgularda kalp kateterizasyonu ve BT anjiyografi gerekebilir'
-ilk_tedavi: 'Duktus bağımlı lezyonlarda (d-transpozisyon, kritik koarktasyon, pulmoner atrezi, kesilmiş
-  aort arku) intravenöz prostaglandin E1 ile duktus açık tutulur; küçük VSD ve ASD çoğunlukla
-  kendiliğinden kapandığından izlem yeterlidir, kalp yetmezliği yapan büyük VSDlerde önce kalp
-  yetmezliği tedavisi sonra cerrahi ya da kateterle kapatma; ostium secundum ASD perkütan kapatmaya
-  uygundur; semptomatik preterm PDA olgusunda indometazin ya da ibuprofen, koarktasyonda prostaglandinle
-  stabilizasyon sonrası cerrahi; transpozisyonda septostomi gerekebilir ve kesin tedavi arteriyel
-  switch cerrahisidir'
-klasik_komplikasyon: 'Uzun sürmüş geniş sol-sağ şuntta pulmoner vasküler hastalık ve Eisenmenger
-  sendromu: şuntın sağ-sola dönmesiyle ortaya çıkan siyanoz, polisitemi ve clubbing; bu evrede defekt
-  kapatmak kontrendikedir. Ayrıca enfektif endokardit, kalp yetmezliği, büyüme-gelişme geriliği;
-  siyanotik olgularda eritrositoz, beyin absesi ve inme riski'
+- "**VSD en sık konjenital kalp hastalığı**: sol alt sternal bordürde **holosistolik üfürüm**; küçük defektler ilk yıl **kendiliğinden kapanır**, büyükler **kalp yetmezliği** yapar"
+- "**ASD ostium secundum** en sık tip: **sabit bölünen ikinci ses**, sol ikinci aralıkta pulmoner akım üfürümü; bulgular erişkinlikte **aritmi** ve **pulmoner hipertansiyon**la çıkar"
+- "**PDA**: sol üst sternal bordür ve klavikula altında **sürekli makine sesi**, **geniş nabız basıncı** ve **bounding nabızlar**; term bebekte erken kapanır, **preterm**de kapanmaz"
+- "**Koarktasyon**: üst ekstremitede **hipertansiyon**, **femoral nabızlarda gecikme-zayıflık**, üst-alt ekstremite **sistolik basınç farkı**; büyük çocukta **rib notching** ve **figure 3** görünümü"
+- "**Fallot tetralojisi** en sık **siyanotik** lezyon: **büyük VSD**, **sağ ventrikül çıkış darlığı**, **overriding aorta**, **sağ ventrikül hipertrofisi**; **hipersiyanozik atak** ve **çömelme davranışı**"
+- "**d-transpozisyon**: doğumdan **saatler içinde şiddetli siyanoz**; grafide dar üst mediastenle **egg on a string** görünümü; kan karışması **duktus ve atriyal iletişime** bağımlı"
+- "**TAPVR**: pulmoner venlerin **sol atriyuma bağlanmaması**; obstrükte tipte **küçük kalp gölgesi**, şiddetli **pulmoner ödem** ve oksijene dirençli siyanoz; suprakardiyak tipte **kar adamı** görünümü"
+- "**Down sendromunda** en sık lezyon **AV kanal (endokardiyal yastık) defekti**; **konjenital kızamıkçık** sendromunda klasik bulgular **PDA** ve **dal pulmoner arter darlığı**"
+patognomonik: "Tam patognomonik değil; kategorik klasikler: **PDA** sürekli **makine sesi**, Fallot'ta **hipersiyanozik atak** ve **çömelme**, d-transpozisyonda **egg on a string**, koarktasyonda **üst-alt basınç farkı**"
+ilk_tetkik: "Şüpheli her olguda **ekokardiyografi**; doğum sonrası **pulse oksimetre taraması** siyanotik lezyonları erken yakalar; **Şok** ya da şiddetli siyanozda **duktus bağımlılık** düşünülerek **prostaglandin** bekletilmeden başlanır"
+kesin_tani: "**Ekokardiyografiyle anatomik tanı**: defektin yeri, şunt yönü, basınçlar ve **duktus durumu**; tanı **siyanotik-asiyanotik**, **şunt-obstrüksiyon** kategorileriyle konur. Nadir karmaşık olgularda **kalp kateterizasyonu** ve **BT anjiyografi** gerekebilir"
+ilk_tedavi: "**Duktus bağımlı** lezyonlarda (d-transpozisyon, kritik koarktasyon, pulmoner atrezi, kesilmiş aort arku) **IV prostaglandin E1** ile duktus açık tutulur. Küçük **VSD** ve **ASD** çoğunlukla **kendiliğinden kapanır**, izlem yeterli; kalp yetmezliği yapan büyük **VSD**'de önce **kalp yetmezliği tedavisi**, sonra **cerrahi ya da kateterle kapatma**; **Ostium secundum ASD** **perkütan** kapatmaya uygundur; semptomatik **preterm PDA**'da **indometazin** ya da **ibuprofen**; **Koarktasyonda prostaglandinle** stabilizasyon sonrası **cerrahi**; **transpozisyonda septostomi** gerekebilir, kesin tedavi **arteriyel switch**"
+klasik_komplikasyon: "Uzun sürmüş geniş **sol-sağ şunt**ta **pulmoner vasküler hastalık** ve **Eisenmenger sendromu**: şunt sağ-sola dönünce **siyanoz, polisitemi ve clubbing**; bu evrede **defekt kapatmak kontrendikedir**; **Enfektif endokardit**, **kalp yetmezliği**, büyüme-gelişme geriliği; siyanotik olgularda **eritrositoz**, **beyin absesi** ve **inme** riski"
 ayirici:
 - hastalik: down_sendromu
   ayirt_edici: Down sendromunda en sık lezyon AV kanal defektidir ve dismorfik bulgularla birlikte

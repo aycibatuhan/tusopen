@@ -13,53 +13,20 @@ taksonomi:
   - psikiyatri
   - psik_okb_travma
   - psik_ot_tssb
-tipik_hasta: Gerçek ya da tehdit edilmiş ölüm, ağır yaralanma ya da cinsel şiddet (trafik kazası, deprem,
-  savaş, taciz, yoğun bakım deneyimi) sonrasında başvuran hasta; sık yakınmalar 'uykuya dalamıyorum',
-  'kâbuslarım var', 'çarpıntı-sinirlilik', 'işe/okula gidemiyorum' biçimindedir ve hasta travmayı kendiliğinden
-  anlatmayabilir; öyküde travmanın ayrıntılı sorgulanması tanıyı açar. Çocuklarda tablo oyunla travmayı
-  yeniden canlandırma ve önceden kazanılmış becerilerin gerilemesi (tuvalet eğitimi, konuşma) ile görülebilir;
-  travmaya maruz kalan meslek grupları (sağlık personeli, kurtarıcılar) risk altındadır
-patofizyoloji: 'Korku devresinin kalıcı dengesizliği: amigdala aşırı yanıt verirken medial prefrontal
-  korteks ve anterior singulat bu yanıtı baskılayamamaktadır; hipokampal hacim küçülür, anının bağlama
-  ve zamana yerleştirilmesi bozulur, travma anısı ''şimdi ve burada'' gibi yaşanır. HPA aksında ters örüntü
-  göze çarpar: travma anında ve tablo boyunca kortizol görece düşük, CRH yüksek bulunur (negatif geri
-  bildirim aşırı duyarlıdır); noradrenalin hiperaktivitesi uyarılmışlık ve artmış başlama (startle) refleksini,
-  endojen opioid düzeni bozukluğu duygusal uyuşukluk ve disosiyasyonu açıklar'
+tipik_hasta: "Gerçek ya da tehdit edilmiş **ölüm, ağır yaralanma ya da cinsel şiddet** (trafik kazası, deprem, savaş, taciz, yoğun bakım deneyimi) sonrasında başvuran hasta; sık yakınmalar '**uykuya dalamıyorum**, **kâbuslarım var**, **çarpıntı-sinirlilik**' biçimindedir ve hasta travmayı **kendiliğinden anlatmayabilir** — **öyküde travmanın ayrıntılı sorgulanması** tanıyı açar. Çocuklarda **oyunla travmayı yeniden canlandırma** ve **önceden kazanılmış becerilerin gerilemesi**; **travmaya maruz kalan meslek grupları** risk altındadır"
+patofizyoloji: "**Korku devresinin kalıcı dengesizliği**: **amigdala aşırı yanıt verirken medial prefrontal korteks ve anterior singulat baskılayamamaktadır**; **hipokampal hacim küçülür**, travma anı '**şimdi ve burada**' gibi yaşanır. **HPA aksında ters örüntü**: **kortizol görece düşük, CRH yüksek** (negatif geri bildirim aşırı duyarlı); **noradrenalin hiperaktivitesi** uyarılmışlık ve **artmış başlama (startle) refleksini**, **endojen opioid düzeni bozukluğu** duygusal uyuşukluk ve **disosiyasyonu** açıklar"
 anahtar_bulgular:
-- 'Girinti (yeniden yaşantılama) kümesi: istemsiz anı girişleri, travmayla ilgili kâbuslar, flaşbek (disosiyatif
-  yeniden yaşantılama) atakları, travmayı anımsatan iç-dış uyaranlarda yoğun sıkıntı ve fizyolojik tepki'
-- 'Kaçınma kümesi: travmayla ilgili düşünce ve duygulardan, kişiler-yerler-sohbetler gibi dış uyaranlardan
-  ısrarla uzak durma'
-- 'Biliş-duygudurum kümesi: travmaya bağlanan olumsuz inançlar (''hep güvensizim''), kendini ya da başkalarını
-  suçlama, olumsuz duygudurum, ilgi-zevk azalması, insanlardan kopukluk, olumlu duyguları hissedememe'
-- 'Uyarılmışlık kümesi: sinirlilik-öfke patlamaları, pervasız-kendine zarar veren davranış, aşırı tetikte
-  olma, artmış başlama refleksi, konsantrasyon bozukluğu, uyku bozukluğu'
-- 'Süre penceresi: belirtiler travmadan sonra başlamış ve 1 aydan uzun sürmeli; 1 aydan kısa tablo akut
-  stres bozukluğu, 3 aydan uzun sürme kronik kabul edilir, 6 aydan sonra belirginleşen tablo gecikmeli
-  ifadeli TSSB'
-- 'Disosiyatif özellikler: depersonalizasyon (kendinden kopmuş hissetme), derealizasyon (çevrenin gerçek
-  dışı görünmesi)'
+- "**Girinti (yeniden yaşantılama) kümesi**: istemsiz anı girişleri, **kâbuslar**, **flaşbek (disosiyatif yeniden yaşantılama)** atakları, travmayı anımsatan uyaranlarda **yoğun sıkıntı ve fizyolojik tepki**"
+- "**Kaçınma kümesi**: travmayla ilgili düşünce-duygulardan ve kişiler-yerler-sohbetler gibi **dış uyaranlardan ısrarla uzak durma**"
+- "**Biliş-duygudurum kümesi**: olumsuz inançlar ('hep güvensizim'), kendini ya da başkalarını **suçlama**, ilgi-zevk azalması, insanlardan **kopukluk**"
+- "**Uyarılmışlık kümesi**: sinirlilik-öfke, **aşırı tetikte olma**, **artmış başlama refleksi**, konsantrasyon ve **uyku bozukluğu**"
+- "**Süre penceresi**: belirtiler travmadan sonra başlayıp **1 aydan uzun** sürmeli; **1 aydan kısa akut stres bozukluğu**, **3 aydan uzun kronik**, **6 aydan sonra başlayan gecikmeli ifadeli**"
+- "**Disosiyatif özellikler**: **depersonalizasyon** (kendinden kopmuş hissetme), **derealizasyon** (çevrenin gerçek dışı görünmesi)"
 patognomonik: null
-ilk_tetkik: Ayrıntılı psikiyatrik görüşme; derecelendirmede altın standart yapılandırılmış görüşme (CAPS-5),
-  taramada kısa araçlar (PC-PTSD-5) kullanılır. Madde kullanımı ve yoksunluk tabloları dışlanır; eşlik
-  eden depresyon, diğer anksiyete bozuklukları ve intihar riski değerlendirilir; kafa travması varsa nörolojik
-  değerlendirme ve gerektiğinde görüntüleme; travmanın türüne göre güvenlik ve yeniden mağduriyet riski
-  planlanır
-kesin_tani: 'DSM-5-TR ölçütleri: ölüm, ağır yaralanma ya da cinsel şiddete (bizzat yaşama, bizzat tanık
-  olma, yakın akraba-arkadaşa olduğunu öğrenme, mesleki olarak yinelenen maruziyet) gerçek maruziyet;
-  ardından girinti kümesinde en az 1, kaçınma kümesinde en az 1, biliş-duygudurum kümesinde en az 2 ve
-  uyarılmışlık kümesinde en az 2 belirtinin 1 aydan uzun sürmesi ve belirgin sıkıntı ya da işlev kaybına
-  yol açması; tablo bir maddeye ya da başka tıbbi duruma bağlanamamalı; disosiyatif özellik belirtici
-  ayrıca işaretlenir'
-ilk_tedavi: 'Birinci basamak travmaya odaklı psikoterapilerdir: uzun süreli maruz bırakma, bilişsel işleme
-  terapisi ve EMDR en iyi kanıtlanmış seçeneklerdir; gerekirse ilaç eklenir. SSRI''lardan sertralin ve
-  paroksetin TSSB endikasyonuyla onaylıdır, venlafaksin de seçenek sayılır; kâbuslarda prazosin yardımcıdır.
-  Benzodiazepinler önerilmez: bağımlılık riski taşır ve iyileşmeyi kötüleştirebilir. Tek oturumlu travma
-  debrifingi yarar sağlamaz, uygulanmaz; eşlik eden depresyon ve madde kullanım bozukluğu birlikte tedavi
-  edilir, intihar riski yüksekse hastaneye yatış planlanır'
-klasik_komplikasyon: Depresyon (eş tanı çok sık), madde kullanım bozukluğu, intihar girişimi; kronikleşme
-  ile iş-işlev kaybı ve ilişki kopmaları; tanınmadığında belirsiz somatik yakınmalarla tekrarlanan poliklinik
-  başvuruları
+ilk_tetkik: "Ayrıntılı psikiyatrik görüşme; derecelendirmede **altın standart yapılandırılmış görüşme (CAPS-5)**, taramada **PC-PTSD-5**. **Madde kullanımı ve yoksunluk** tabloları dışlanır; **depresyon, diğer anksiyete bozuklukları ve intihar riski** değerlendirilir; **kafa travması** varsa nörolojik değerlendirme; travmanın türüne göre **güvenlik ve yeniden mağduriyet riski** planlanır"
+kesin_tani: "**DSM-5-TR ölçütleri**: ölüm, ağır yaralanma ya da cinsel şiddete **gerçek maruziyet** — bizzat yaşama, bizzat tanık olma, yakın birine olduğunu öğrenme, **mesleki olarak yinelenen maruziyet**. Ardından **girintide en az 1, kaçınmada en az 1, biliş-duygudurumda en az 2, uyarılmışlıkta en az 2** belirtinin **1 aydan uzun** sürmesi; **sıkıntı ya da işlev kaybına** yol açması. Tablo **bir maddeye ya da başka tıbbi duruma** bağlanamamalı; **disosiyatif özellik belirtici** ayrıca işaretlenir"
+ilk_tedavi: "Birinci basamak **travmaya odaklı psikoterapilerdir**: **uzun süreli maruz bırakma, bilişsel işleme terapisi ve EMDR**. **SSRI'lardan sertralin ve paroksetin** TSSB endikasyonuyla onaylıdır, **venlafaksin** de seçenek; **kâbuslarda prazosin** yardımcıdır. **Benzodiazepinler önerilmez**: bağımlılık riski taşır ve iyileşmeyi kötüleştirebilir. **Tek oturumlu travma debrifingi yarar sağlamaz, uygulanmaz**; eşlik eden **depresyon ve madde kullanım bozukluğu** birlikte tedavi edilir"
+klasik_komplikasyon: "**Depresyon** (eş tanı çok sık), **madde kullanım bozukluğu**, **intihar girişimi**; **kronikleşme** ile iş-işlev kaybı ve ilişki kopmaları; tanınmadığında belirsiz **somatik yakınmalarla** tekrarlanan poliklinik başvuruları"
 tus_gecmisi:
 - tus-2017-sonbahar-ktbt-36
 kart_uret:

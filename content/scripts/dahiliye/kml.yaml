@@ -11,30 +11,29 @@ taksonomi:
   - dahiliye
   - dah_hematoloji
   - dah_hem_kml
-tipik_hasta: Orta yaşlı hasta; rutin kan sayımında rastlantısal lökositozla yakalanır ya da yorgunluk,
-  gece terlemesi, kilo kaybı ve sol üst kadranda dolgunluk hissi (splenomegali) ile başvurur. Genelde
-  kaba ve tablosuz seyir, sırıtan lökositozun altından KML çıkması TUS'un sevdiği örüntüdür
-patofizyoloji: 'Dokuz ve yirmi iki numaralı kromozomlar arasında karşılıklı yeniden düzenlenme, yirmi ikinci
-  kromozomun kısalmasıyla Filadelfiya kromozomunu yaratır; BCR-ABL füzyon geni sürekli açık kalan tirozin
-  kinaz sinyalini verir ve granülosit hattındaki kök hücreler kontrolsüz çoğalır. Hastalık üç fazlıdır:
-  uzun süren kronik faz, hızlanma fazı ve blast krizi; tedavisiz doğal seyir blast krizine (akut lösemiye
-  dönüş) yönelir'
+tipik_hasta: 'Orta yaşlı hasta; rutin kan sayımında **rastlantısal lökositoz**la yakalanır ya da yorgunluk,
+  gece terlemesi, kilo kaybı ve sol üst kadranda dolgunluk hissi (**splenomegali**) ile başvurur'
+patofizyoloji: 'Dokuz ve yirmi iki numaralı kromozomlar arası karşılıklı yeniden düzenlenme **Filadelfiya
+  kromozom**unu yaratır. **BCR-ABL** füzyon geni sürekli açık kalan **tirozin kinaz** sinyali verir; granülosit
+  hattındaki kök hücreler kontrolsüz çoğalır. Hastalık üç fazlıdır: uzun **kronik faz**, **hızlanma fazı**
+  ve **blast krizi**'
 anahtar_bulgular:
-- 'Kanda belirgin lökositoz: olgun ve olgunlaşmamış miyeloid hücrelerin bir arada görülmesi (yayma)'
-- Bazofil sayısında artış (KML'nin işaretçisi)
-- Belirgin splenomegali
-- Filadelfiya kromozomu veya BCR-ABL füzyon geni pozitifliği
-- Trombositoz; ilerlemiş fazda anemi ve blastların artması
-- Kanda laktat dehidrojenaz ve ürik asit yüksekliği (hücre devinimi hızlanmıştır)
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Filadelfiya kromozomu (BCR-ABL füzyon geni)
-ilk_tetkik: Tam kan sayımı ve periferik yayma; BCR-ABL için PCR (ve FISH), kemik iliği incelemesi ve karyotip
-kesin_tani: Periferik kan veya kemik iliğinde BCR-ABL füzyon geninin saptanması (PCR veya FISH) ve karyotipte
-  Filadelfiya kromozomunun görülmesi; tablo, lökositoz-splenomegali-bazofili ile birleşince tanı kesinleşir
-ilk_tedavi: 'Tirozin kinaz inhibitörü: imatinib birinci basamaktır (dasatinib, nilotinib gibi daha güçlü
-  seçenekler de vardır); tedaviyle ortalama yaşam beklentisi normal yaşama yaklaşmıştır. Yanıt, BCR-ABL
-  transkript düzeylerinin takibiyle (majör moleküler yanıt hedefi) izlenir; direnç veya blast krizde ileri
-  TKI ve allojeneik kemik iliği nakli değerlendirilir'
-klasik_komplikasyon: 'Tedavisiz ilerleme: kronik fandan hızlanma fazına ve blast krizine geçiş (blast
+- 'Kanda belirgin **lökositoz**: olgun ve olgunlaşmamış **miyeloid hücrelerin** bir arada görülmesi (yayma)'
+- '**Bazofil** sayısında artış (KML''nin işaretçisi)'
+- 'Belirgin **splenomegali**'
+- '**Filadelfiya kromozomu** veya **BCR-ABL** füzyon geni pozitifliği'
+- '**Trombositoz**; ilerlemiş fazda **anemi** ve blastların artması'
+- 'Kanda **LDH** ve **ürik asit** yüksekliği (hücre devinimi hızlanmıştır)'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — **Filadelfiya kromozomu** (**BCR-ABL**
+  füzyon geni)
+ilk_tetkik: 'Tam kan sayımı ve **periferik yayma**; **BCR-ABL** için **PCR** (ve **FISH**), kemik iliği
+  incelemesi ve **karyotip**'
+kesin_tani: 'Periferik kan veya kemik iliğinde **BCR-ABL** saptanması (**PCR** veya **FISH**) ve karyotipte
+  **Filadelfiya kromozomu**; **lökositoz-splenomegali-bazofili** ile birleşince tanı kesinleşir'
+ilk_tedavi: '**Tirozin kinaz inhibitörü**: **imatinib** birinci basamak (**dasatinib**, **nilotinib** gibi
+  daha güçlü seçenekler de vardır). Yanıt **BCR-ABL transkript** düzeylerinin takibiyle (**majör moleküler
+  yanıt** hedefi) izlenir. Direnç veya blast krizde ileri TKI ve **allojeneik kemik iliği nakli** değerlendirilir'
+klasik_komplikasyon: 'Tedavisiz ilerleme: kronik fandan **hızlanma fazı**na ve **blast krizi**ne geçiş (blast
   krizi çoğunlukla ölümcüldür)'
 tus_gecmisi:
 - tus-2016-ilkbahar-ttbt-115

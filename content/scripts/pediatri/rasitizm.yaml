@@ -12,37 +12,20 @@ taksonomi:
   - pediatri
   - ped_beslenme
   - ped_bes_rasitizm
-tipik_hasta: Güneş görmeyen, D vitamini takviyesi almamış ve ağırlıkla yalnız anne sütüyle beslenen bebek
-  ve küçük çocuk; koyu tenli, kent içi ya da kış aylarında güneşten yoksun; yürüyüşün gecikmesi, bacaklarda
-  eğrilik, gece kemik ağrıları ve başın (özellikle kafanın) aşırı terlemesiyle getirilen; emziren annenin
-  D vitamini yetersizliği çocuk riskini büyütür
-patofizyoloji: 'D vitamini eksikliği bağırsaktan kalsiyum ve fosfor emilimini düşürür; kan kalsiyumu azalınca
-  paratiroid hormonu artar ve böbrekten fosfor atılır. Sonuçta büyüme plaklarındaki ve osteoid dokudaki
-  mineralizasyon bozulur: epifiz plaklarında kıkırdak birikimi, metafizlerin genişlemesi ve kemiklerin
-  yumuşaması tespih dizisi, geniş bilekler ve bacak eğriliği gibi deformiteleri yapar; erişkin karşılığı
-  osteomalasidir'
+tipik_hasta: "**Güneş görmeyen**, **D vitamini takviyesi almamış**, ağırlıkla **yalnız anne sütüyle beslenen** bebek ve küçük çocuk; **Koyu tenli**, kent içi ya da **kış aylarında** güneşten yoksun; emziren annenin **D vitamini yetersizliği** çocuk riskini büyütür; **Yürüyüşün gecikmesi**, **bacaklarda eğrilik**, gece **kemik ağrıları** ve başın (özellikle kafanın) **aşırı terlemesi**yle getirilir"
+patofizyoloji: "**D vitamini eksikliği** bağırsaktan **kalsiyum ve fosfor** emilimini düşürür; kan kalsiyumu azalınca **paratiroid hormonu** artar, **böbrekten fosfor** atılır. Büyüme plaklarındaki ve osteoid dokudaki **mineralizasyon bozulur**: epifiz plaklarında **kıkırdak birikimi**, **metafizlerin genişlemesi** ve **kemiklerin yumuşaması**. Sonuç **tespih dizisi**, **geniş bilekler** ve **bacak eğriliği** gibi deformiteler; erişkin karşılığı **osteomalasidir**"
 anahtar_bulgular:
-- 'Tespih dizisi (raşitik kolye): kaburgaların kemik-kıkırdak birleşimlerinde boncuk gibi dizilmiş şişlikler'
-- Bilek ve ayak bileklerinde genişleme (uzun kemik uçlarının kaşık gibi genişlemesi); yürüme başladıktan
-  sonra bacaklarda O harfi gibi eğrilik (genu varum, parantez bacak) ve yalpalayarak yürüyüş
-- Kafatasında craniotabes (parmakla bastırınca ping pong topu gibi geri yaylanan yumuşaklık), büyük fontanelin
-  geç kapanması, gecikmiş diş çıkışı
-- Göğüste Harrison oluku (diyafram yapışma hizasında kaburga çöküntüsü) ve göğüs önden daralması; ağır
-  olguda solunum güçlüğü
-- 'Laboratuvar: kalsiyum normal-düşük, fosfor düşük, alkalin fosfataz yüksek (en erken işaret), paratiroid
-  hormonu yüksek, D vitamini düşük; bebekte hipokalsemik kramp ya da tetani'
-- 'Kemik grafileri: metafizlerde genişleme ve çanaklaşma (cupping), pötrükleme (fraying) görünümü'
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Tespih dizisi ve bileklerdeki genişleme
-ilk_tetkik: Uzun kemik grafileri (metafiz genişlemesi, çanaklaşma ve pötrükleme); kanda kalsiyum, fosfor,
-  alkalin fosfataz, paratiroid hormonu ve D vitamini düzeyi ölçümü
-kesin_tani: Klinik ve radyolojik bulguların, kanda D vitamininin düşük, alkalin fosfatazın yüksek ve paratiroid
-  hormonunun yüksek bulgularıyla birleşmesi; tedaviyle bulguların hızla düzelmesi tanıyı doğrular
-ilk_tedavi: D vitamini tedavisi (günlük doz ya da tek seferlik yüksek şok dozu) ve kalsiyum desteği; güneşlenme
-  ve diyetin düzenlenmesi; hipokalsemik kramp varsa damardan kalsiyum; deformitelerin çoğu büyümeyle düzelir,
-  kalıcı olanlarda ortopedik müdahale
-klasik_komplikasyon: Hipokalsemik konvülsiyonlar ve larengeal spazm; kalıcı iskelet deformiteleri (bacak
-  eğriliği, pelvis darlığı); göğüs duvarı zayıflığına bağlı solunum infeksiyonlarına yatkınlık; büyüme
-  geriliği
+- "**Tespih dizisi (raşitik kolye)**: kaburgaların kemik-kıkırdak birleşimlerinde **boncuk gibi dizilmiş şişlikler**"
+- "**Bilek ve ayak bileklerinde genişleme** (uzun kemik uçlarının kaşık gibi genişlemesi); yürüme sonrası **O bacak** (**genu varum**) ve **yalpalayarak yürüyüş**"
+- "Kafatasında **craniotabes** (bastırınca **ping pong topu** gibi geri yaylanan yumuşaklık), **büyük fontanelin geç kapanması**, **gecikmiş diş çıkışı**"
+- "Göğüste **Harrison oluku** (diyafram yapışma hizasında kaburga çöküntüsü) ve göğüs önden daralması; ağır olguda **solunum güçlüğü**"
+- "**Kalsiyum** normal-düşük, **fosfor düşük**, **alkalin fosfataz yüksek** (en erken işaret), **paratiroid hormonu yüksek**, **D vitamini düşük**; bebekte **hipokalsemik kramp-tetani**"
+- "Kemik grafileri: **metafizlerde genişleme ve çanaklaşma (cupping)**, **pötrükleme (fraying)** görünümü"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **tespih dizisi** ve **bileklerdeki genişleme**"
+ilk_tetkik: "**Uzun kemik grafileri** (metafiz genişlemesi, **çanaklaşma** ve **pötrükleme**). Kanda **kalsiyum**, **fosfor**, **alkalin fosfataz**, **paratiroid hormonu** ve **D vitamini** düzeyi"
+kesin_tani: "**Klinik ve radyolojik bulgular**ın, kanda **D vitamininin düşük**, **alkalin fosfatazın yüksek** ve **paratiroid hormonunun yüksek** bulgularıyla birleşmesi; **Tedaviyle bulguların hızla düzelmesi** tanıyı doğrular"
+ilk_tedavi: "**D vitamini tedavisi** (günlük doz ya da **tek seferlik yüksek şok dozu**) ve **kalsiyum desteği**; **Güneşlenme** ve **diyetin düzenlenmesi**; **hipokalsemik kramp** varsa **IV kalsiyum**; **Deformitelerin çoğu büyümeyle düzelir**; kalıcı olanlarda **ortopedik müdahale**"
+klasik_komplikasyon: "**Hipokalsemik konvülsiyonlar** ve **larengeal spazm**; kalıcı **iskelet deformiteleri** (**bacak eğriliği**, **pelvis darlığı**); **Göğüs duvarı zayıflığı**na bağlı **solunum infeksiyonlarına yatkınlık**; **büyüme geriliği**"
 tus_gecmisi:
 - tus-2016-sonbahar-ktbt-46
 - tus-2020-ilkbahar-ktbt-49

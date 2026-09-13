@@ -7,17 +7,17 @@ sources:
 ad: Servikal Yetmezlik
 taksonomi:
   - [ktbt, kadin_dogum, kd_erken_gebelik, kd_eg_servikal_yetmezlik]
-tipik_hasta: "Ağrısız ve kontraksiyonsuz rahim ağzı açılmasıyla ikinci üç aylık dönemde gebelik kaybı yaşamış kadın; bu gebelikte rutin ultrasonda rahim ağzı kısalan veya konizasyon öyküsü olan gebe"
-patofizyoloji: "Rahim ağzı gebeliği mekanik olarak tutan kapıdır; doğuştan bağ dokusu zayıflığı veya konizasyon, dilatasyon gibi girişimlerin bıraktığı yapısal hasar bu kapının erken açılmasına yol açar. Açılma ağrısız ve kontraksiyonsuzdur; kese aşağı inip zarlar açılınca gebelik kaybı gelir. Bu nedenle sorun kasılmanın gücü değil, rahim ağzı dokusunun dayanma direncidir"
+tipik_hasta: "**Ağrısız ve kontraksiyonsuz rahim ağzı açılmasıyla ikinci üç aylık dönemde gebelik kaybı** yaşamış kadın; bu gebelikte rutin ultrasonda **rahim ağzı kısalan** veya **konizasyon öyküsü** olan gebe"
+patofizyoloji: "Rahim ağzı gebeliği mekanik olarak tutan kapıdır; **doğuştan bağ dokusu zayıflığı** veya **konizasyon, dilatasyon** gibi girişimlerin bıraktığı yapısal hasar bu kapının erken açılmasına yol açar. Açılma **ağrısız ve kontraksiyonsuzdur**; kese aşağı inip zarlar açılınca gebelik kaybı gelir. Sorun **kasılmanın gücü değil, rahim ağzı dokusunun dayanma direncidir**"
 anahtar_bulgular:
-  - "Ağrısız, kontraksiyonsuz rahim ağzı açılmasıyla ikinci üç aylık gebelik kaybı öyküsü"
-  - "Transvajinal ultrasonda rahim ağzı uzunluğu 25 mm'nin altı veya iç ağızda hunileşme"
-  - "Muayenede rahim ağzının sessizce açık olması ve zarların görünmesi"
-  - "Önceki konizasyon veya zorlayıcı dilatasyon girişimi öyküsü"
+  - "**Ağrısız, kontraksiyonsuz rahim ağzı açılmasıyla ikinci üç aylık gebelik kaybı** öyküsü"
+  - "Transvajinal ultrasonda **rahim ağzı uzunluğu 25 mm'nin altı** veya **iç ağızda hunileşme**"
+  - "Muayenede rahim ağzının **sessizce açık olması** ve **zarların görünmesi**"
+  - "Önceki **konizasyon** veya **zorlayıcı dilatasyon** girişimi öyküsü"
 patognomonik: null
-ilk_tetkik: "16-24 haftalar arasında transvajinal ultrasonla rahim ağzı uzunluğu ölçümü; riskli olgularda iki haftada bir"
-kesin_tani: "Tarihsel göstergeli tanı: ağrısız ikinci üç aylık kayıp öyküsü; ultrason göstergeli tanı: 24 haftadan önce 25 mm'nin altındaki rahim ağzı"
-ilk_tedavi: "Tarihsel göstergeli olgularda 12-14 haftalarda profilaktik serclaj; ultrason göstergeli kısalıkta vajinal progesteron ile serclaj karşılaştırılır; serclaj penceresi 24. haftaya kadardır, bunun sonrasındaki acil serclaj tartışmalıdır"
-klasik_komplikasyon: "Tekrarlayan ikinci üç aylık gebelik kaybı; zarların erken açılması ve doğum kanalı enfeksiyonu; serclaj varsa dikiş iltihabı"
+ilk_tetkik: "**16-24 haftalar arasında transvajinal ultrasonla rahim ağzı uzunluğu** ölçümü; riskli olgularda **iki haftada bir**"
+kesin_tani: "**Tarihsel göstergeli tanı**: ağrısız **ikinci üç aylık kayıp** öyküsü; **ultrason göstergeli tanı**: **24 haftadan önce 25 mm'nin altındaki** rahim ağzı"
+ilk_tedavi: "Tarihsel göstergeli olgularda **12-14 haftalarda profilaktik serclaj**; ultrason göstergeli kısalıkta **vajinal progesteron** ile **serclaj** karşılaştırılır. **Serclaj penceresi 24. haftaya kadardır**; bunun sonrasındaki **acil serclaj tartışmalıdır**"
+klasik_komplikasyon: "**Tekrarlayan ikinci üç aylık gebelik kaybı**; **zarların erken açılması** ve doğum kanalı enfeksiyonu; serclaj varsa **dikiş iltihabı**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

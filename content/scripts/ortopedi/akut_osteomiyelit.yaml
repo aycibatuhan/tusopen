@@ -9,17 +9,17 @@ ad: Akut Hematojen Osteomiyelit
 taksonomi:
   - [ktbt, ortopedi, orto_kemik_enfeksiyon, orto_ke_akut_osteomiyelit]
   - [ktbt, pediatri, ped_enfeksiyon, ped_enf_osteomiyelit_septik_artrit]
-tipik_hasta: "5 yaş altı çocuk, erkeklerde daha sık; ateş ve uzuv ağrısıyla, yürüme reddi veya topallıkla başvurur; travma öyküsü genellikle belirgin değildir; en sık uzun kemiklerin metafizleri (distal femur, proksimal tibia) tutulur"
-patofizyoloji: "Geçici bakteremi sırasında dolaşımdaki mikroorganizmalar metafizdeki yavaş akan, geniş damar yatağına yerleşir; büyüme plağı hemen altında fagosit yoğunluğunun düşük olması bu bölgeyi enfeksiyona yatkın kılar. Etken yaşa göre değişir: her yaşta en sık Staphylococcus aureus; yenidoğanda grup B streptokok ve gram negatif basiller; orak hücreli anemide non-tifoid Salmonella; ayakkabıyı delip geçen batma sonrası Pseudomonas; küçük çocuklarda ayrıca Kingella kingae anımsanır. 12-18 aydan küçük bebeklerde metafizeal damarlar büyüme plağını geçtiğinden enfeksiyon epi fize atlayıp eklem içine (septik artrit) yayılabilir"
+tipik_hasta: "**5 yaş altı** çocuk, erkeklerde daha sık; ateş ve uzuv ağrısıyla, **yürüme reddi** veya topallıkla başvurur; travma öyküsü genellikle belirgin değildir. En sık uzun kemiklerin **metafizleri** (**distal femur**, **proksimal tibia**) tutulur"
+patofizyoloji: "Geçici **bakteremi** sırasında mikroorganizmalar metafizdeki yavaş akan, geniş damar yatağına yerleşir; büyüme plağı hemen altında **fagosit yoğunluğunun düşük** olması bu bölgeyi enfeksiyona yatkın kılar; **12-18 aydan küçük** bebeklerde metafizeal damarlar büyüme plağını geçtiğinden enfeksiyon **epi fize** atlayıp eklem içine (**septik artrit**) yayılabilir"
 anahtar_bulgular:
-  - "Ateş ve metafiz üzerinde noktasal kemik hassasiyeti"
-  - "Uzuv kullanmayı reddetme, topallık; geç dönemde ısı artışı, şişlik ve kızarıklık eklenir"
-  - "Laboratuvar: CRP 24-48 saatte yükselir, ESR 3-5 günde doruğa ulaşır; lökositoz olabilir"
-  - "Direk grafi erken dönemde normaldir: osteoliz ancak 10-14 günde görünür, önceden yalnız yumuşak doku şişliği seçilir — şikayet ile grafik bulgusu arasındaki bu gecikme klasiktir"
-patognomonik: "Tek bir patognomonik bulgu yok; ateş + metafiz üzerinde noktasal hassasiyet + yük vermeyi reddetme kümesi tabloyu tarif eder"
-ilk_tetkik: "Kan kültürü ve MRG (erken tanıda en duyarlı görüntüleme); direk grafi erken dönemde yardımcı değildir, ultrason subperiosteal apse araştırmasında yararlıdır"
-kesin_tani: "Kan kültürü ya da kemik/eklem aspiratında etkenin üremesi; MRG bulguları ve klinik tabloyla birlikte"
-ilk_tedavi: "Hemen damar içi ampirik antistafilokokal antibiyotik başlanır; toplam süre 4-6 haftadır (uzun tedavinin mantığı: kemik dokusuna ilaç geçişinin güçlüğü ve rezidiv riski; klinik düzelme ve CRP düşüşüyle ağızdan devam edilebilir); apse saptanırsa cerrahi drenaj eklenir"
-klasik_komplikasyon: "Kronik osteomiyelit (Brodie apsesi), büyüme plak hasarına bağlı uzuv kısalığı veya açı bozukluğu, patolojik kırık ve sepsis"
+  - "Ateş ve **metafiz üzerinde noktasal kemik hassasiyeti**; uzuv kullanmayı reddetme, topallık; geç dönemde ısı artışı, şişlik ve kızarıklık eklenir"
+  - "Etken: her yaşta en sık **Staphylococcus aureus**; yenidoğanda **grup B streptokok** ve gram negatif basiller; **orak hücreli anemide non-tifoid Salmonella**"
+  - "Ayakkabıyı delip geçen **batma sonrası Pseudomonas**; küçük çocuklarda ayrıca **Kingella kingae** anımsanır"
+  - "Laboratuvar: **CRP 24-48 saatte** yükselir, **ESR 3-5 günde** doruğa ulaşır, lökositoz olabilir; direk grafi erken dönemde normaldir — **osteoliz ancak 10-14 günde** görünür, önceden yalnız yumuşak doku şişliği, bu gecikme klasiktir"
+patognomonik: "Tek bir patognomonik bulgu yok; ateş + **metafiz üzerinde noktasal hassasiyet** + yük vermeyi reddetme kümesi tabloyu tarif eder"
+ilk_tetkik: "**Kan kültürü** ve **MRG** (erken tanıda en duyarlı görüntüleme); direk grafi erken dönemde yardımcı değildir, **ultrason** **subperiosteal apse** araştırmasında yararlıdır"
+kesin_tani: "**Kan kültürü** ya da **kemik/eklem aspiratında etkenin üremesi**; MRG bulguları ve klinik tabloyla birlikte"
+ilk_tedavi: "Hemen damar içi **ampirik antistafilokokal antibiyotik** başlanır; toplam süre **4-6 hafta**dır (kemiğe ilaç geçişinin güçlüğü, rezidiv riski, klinik düzelme ve **CRP düşüşü** ile ağızdan devam edilebilir); **apse** saptanırsa **cerrahi drenaj** eklenir"
+klasik_komplikasyon: "**Kronik osteomiyelit** (**Brodie apsesi**); büyüme plak hasarına bağlı **uzuv kısalığı veya açı bozukluğu**; **patolojik kırık** ve **sepsis**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

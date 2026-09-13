@@ -7,18 +7,18 @@ sources:
 ad: Meniere Hastalığı
 taksonomi:
   - [ktbt, kbb, kbb_ic_kulak, kbb_ik_meniere]
-tipik_hasta: "40-60 yaş bandında; aniden oturan ve saatlerce süren dönme hissi nöbetleriyle acile taşınan, nöbetler arasında iyileşen ama zamanla işitmesi giderek azalan orta yaş hasta"
-patofizyoloji: "Endolenf kesesindeki emilim yetersizliği nedeniyle iç kulakta endolenf birikimi (endolenfatik hidrops); artan basınç reseptör organları gerer ve potasyumca zengin endolenfin nöroepitele temas etmesiyle akut vertigo nöbeti başlatır"
+tipik_hasta: "**40-60 yaş** bandında; aniden oturan ve **saatlerce süren dönme hissi** nöbetleriyle acile taşınan; nöbetler arasında **iyileşen** ama zamanla **işitmesi giderek azalan** orta yaş hasta"
+patofizyoloji: "**Endolenf kesesi**ndeki emilim yetersizliği nedeniyle iç kulakta **endolenf birikimi** (**endolenfatik hidrops**); artan basınç **reseptör organları** gerer ve **potasyumca zengin endolenf**in nöroepitele temas etmesiyle **akut vertigo nöbeti** başlatır"
 anahtar_bulgular:
-  - "Dakikalar-saatler süren (tipik 20 dakika-12 saat) şiddetli rotatuar vertigo nöbetleri; bilinç açıktır, bulantı kusma eşlik eder, nöbet sonrası günlerce dengesizlik kalabilir"
-  - "Aynı kulağı ilgilendiren, başta düşük frekanslarda olan ve nöbetlerle fluktüan seyreden sensörinöral işitme kaybı; yıllar içinde kalıcı ve ilerleyici hale gelir"
-  - "Uğultu karakterli (düşük frekanslı) tinnitus; nöbetin habercisi olarak artabilir"
-  - "Kulakta dolgunluk ve basınç hissi"
-  - "Nöbetlerin kümeler halinde gelmesi; nöbetler dışında nörolojik muayenenin normal olması"
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — "Vertigo, fluktüan işitme kaybı ve tinnitusun aynı kulakta bir arada göstermesi (klasik üçlü)"
-ilk_tetkik: "Saf ton odyometri (düşük frekanslı sensörinöral kayıp) ve timpanometri; kalorik testte kanal parezisi görülebilir"
-kesin_tani: "Klinik kriterlerle konur: en az iki kez, 20 dakika-12 saat süren spontan vertigo atağı, odyometrik olarak belgelenmiş düşük-orta frekans sensörinöral kayıp ve aynı kulakta fluktüan işitsel semptomlar (tinnitus, dolgunluk); diğer nedenler dışlanır"
-ilk_tedavi: "Atak sırasında yatak istirahati, antiemetik ve vestibüler depresanlar (dimenhidrinat, prometazin); ataklar arasında düşük tuzlu diyet, betahistin ve gerektiğinde diüretik; inatçı olgularda intratimpanik gentamisin ya da cerrahi"
-klasik_komplikasyon: "İlerleyici kalıcı işitme kaybı; Tumarkin otolitik krizi (uyarı vermeyen, yere düşmeyle sonuçlanan ani nöbet)"
+- "**Dakikalar-saatler** süren (tipik **20 dakika-12 saat**) şiddetli **rotatuar vertigo** nöbetleri; bilinç açıktır, **bulantı kusma** eşlik eder, nöbet sonrası **günlerce dengesizlik** kalabilir"
+- "Aynı kulağı ilgilendiren, başta **düşük frekans**larda olan ve nöbetlerle **fluktüan** seyreden **sensörinöral işitme kaybı**; yıllar içinde kalıcı ve **ilerleyici** hale gelir"
+- "**Uğultu karakterli (düşük frekanslı) tinnitus**; nöbetin **habercisi** olarak artabilir"
+- "**Kulakta dolgunluk** ve **basınç hissi**"
+- "Nöbetlerin **kümeler** halinde gelmesi; nöbetler dışında **nörolojik muayenenin normal** olması"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **vertigo**, **fluktüan işitme kaybı** ve **tinnitus**un aynı kulakta bir arada göstermesi (**klasik üçlü**)"
+ilk_tetkik: "**Saf ton odyometri** (**düşük frekanslı sensörinöral kayıp**) ve **timpanometri**; kalorik testte **kanal parezisi** görülebilir"
+kesin_tani: "**Klinik kriterlerle** konur: en az **iki kez**, **20 dakika-12 saat** süren **spontan vertigo atağı**; odyometrik olarak belgelenmiş **düşük-orta frekans sensörinöral kayıp** ve aynı kulakta **fluktüan işitsel semptomlar** (**tinnitus**, **dolgunluk**); **diğer nedenler dışlanır**"
+ilk_tedavi: "Atak sırasında yatak istirahati, **antiemetik** ve **vestibüler depresan**lar (**dimenhidrinat**, **prometazin**); ataklar arasında **düşük tuzlu diyet**, **betahistin** ve gerektiğinde **diüretik**. İnatçı olgularda **intratimpanik gentamisin** ya da **cerrahi**"
+klasik_komplikasyon: "**İlerleyici kalıcı işitme kaybı**; **Tumarkin otolitik krizi** (uyarı vermeyen, **yere düşme**yle sonuçlanan ani nöbet)"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

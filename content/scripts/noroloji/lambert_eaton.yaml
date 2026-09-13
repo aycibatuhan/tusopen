@@ -11,41 +11,20 @@ taksonomi:
   - noroloji
   - noro_noromuskuler
   - noro_nm_lambert_eaton_botulizm
-tipik_hasta: Kırk yaş üstü, sigara içen, kilo kaybeden hasta; bacaklarda başlayan merdiven çıkmakta zorlanma
-  ve kalkarken yorgunluk şikayeti ile başvurur. Ağzın kuru olduğunu belirtmesi tipik ipucudur. Küçük hücreli
-  akciğer kanserinin paraneoplastik ilk bulgusu olabilir; tümör tanısından yıllar önce nörolojik tablo
-  ortaya çıkabilir, bu yüzden her olguda kanser taraması yapılmalıdır
-patofizyoloji: 'Presinaptik patoloji: küçük hücreli akciğer kanseri hücreleri sinir uçlarıyla aynı voltaj
-  bağımlı kalsiyum kanallarını (P/Q tipi) taşıdığından vücut bu kanallara karşı antikor üretir. Antikorlar
-  sinir ucuna kalsiyum girişini kısıtlar; her sinir uyarımında salınan asetilkolin miktarı azalır ve kavşak
-  sonrası zar az uyarılır. Uzun süreli depolarizasyon (egzersiz, tekrarlı uyarım) kalsiyum kanallarının
-  kısmi toparlanmasına yol açtığından efor sonrası güç artar; bu miyasteninin tersine çevrilmiş bir özellik
-  olarak kavşağın presinaptik hastalığını işaret eder'
+tipik_hasta: "**Kırk yaş üstü**, **sigara içen**, **kilo kaybeden** hasta; bacaklarda başlayan **merdiven çıkmakta zorlanma** ve kalkarken yorgunluk; **Ağzın kuru** olduğunu belirtmesi tipik ipucudur; **Küçük hücreli akciğer kanseri**nin **paraneoplastik ilk bulgusu** olabilir; tümör tanısından **yıllar önce** nörolojik tablo başlayabilir — her olguda **kanser taraması**"
+patofizyoloji: "**Presinaptik** patoloji: **küçük hücreli akciğer kanseri** hücreleri sinir uçlarıyla aynı **P/Q tipi voltaj bağımlı kalsiyum kanallarını** taşıdığından vücut bu kanallara **antikor** üretir. Antikorlar sinir ucuna **kalsiyum girişini kısıtlar**; her uyarımda salınan **asetilkolin** azalır, kavşak sonrası zar **az uyarılır**; **Uzun süreli depolarizasyon (egzersiz, tekrarlı uyarım)** kanalların **kısmi toparlanmasına** yol açtığından **efor sonrası güç artar** — miyastenin tersi, **presinaptik** hastalığın işareti"
 anahtar_bulgular:
-- Proksimal kaslarda güçsüzlük, özellikle pelvik kuşakta; göz ve yutak kasları miyasteniden farklı olarak
-  genellikle korunur ya da hafif tutulur
-- Egzersiz ya da kısa süreli maksimal efor sonrasında güçte ölçülebilir artış; bu özelliği ayırt edici
-  bulgulardan biridir
-- Derin tendon reflekslerinde azalma ya da yokluk; güçsüzlüğün derecesiyle uyumsuz refleks kaybı (hiporefleksili
-  güçsüzlük) tipiktir
-- 'Otonom tutulum: ağız ve gözde kuruluk, impotans, terleme azalması, pupillada ışık yanıtta yavaşlama'
-- Tekrarlı sinir uyarım testinde düşük amplitüdlü bileşik kas aksiyon potansiyeli; yüksek frekanslı (10
-  Hz üstü) uyarımda amplitüdün belirgin artması (inkrement)
-- Serum P/Q tipi voltaj bağımlı kalsiyum kanal antikorları pozitif; toraks BT ya da PET ile küçük hücreli
-  akciğer kanseri araştırılır
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Tekrarlı sinir uyarımında düşük amplitüdlü yanıtların yüksek frekanslı uyarımla belirgin
-  artması (inkrement)
-ilk_tetkik: Tekrarlı sinir uyarım testi ve serum VGCC antikor düzeyi; antikor pozitif ya da şüpheli her
-  hastada toraks görüntülemesi (BT ya da PET) ile küçük hücreli akciğer kanseri taraması
-kesin_tani: Klinik tablo (proksimal güçsüzlük, hiporefleksi, otonom bulgular, eforla güçlenme), elektrofizyolojik
-  inkrement ve VGCC antikor pozitifliği birlikteliği; kanser bulunursa tanı paraneoplastik olarak kesinleşir
-ilk_tedavi: 'Öncelik altta yatan küçük hücreli akciğer kanserinin tedavisidir; kemoterapiyle birlikte
-  nörolojik bulgular çoğunlukla düzelir. Belirgin bulgularda 3,4-diaminopiridin (amifampridin) kullanılır:
-  potasyum kanallarını bloke ederek sinir ucundaki depolarizasyonu uzatır, kalsiyum girişini ve asetilkolin
-  salınımını artırır. Ağır olgularda damar içi immünglobulin ya da plazma değişimi köprü tedavi olarak
-  eklenebilir'
-klasik_komplikasyon: Solunum kaslarının tutulması durumunda solunum yetersizliği; asıl uzun dönem risk
-  altta yatan küçük hücreli akciğer kanserinin yayılmasıdır, nörolojik sendromun varlığı prognozu kötüleştirir
+- "**Proksimal kaslarda güçsüzlük**, özellikle **pelvik kuşak**ta; **göz ve yutak kasları** miyasteniden farklı **genellikle korunur**"
+- "**Egzersiz ya da kısa süreli maksimal efor sonrasında** **güçte ölçülebilir artış** — ayırt edici bulgulardan"
+- "**Derin tendon reflekslerinde azalma-yokluk**; **güçsüzlüğün derecesiyle uyumsuz refleks kaybı** (**hiporefleksili güçsüzlük**) tipiktir"
+- "**Otonom tutulum**: **ağız ve gözde kuruluk**, **impotans**, **terleme azalması**, **pupillada ışık yanıtta yavaşlama**"
+- "**Tekrarlı sinir uyarım testi**: **düşük amplitüdlü bileşik kas aksiyon potansiyeli**; **yüksek frekanslı (10 Hz üstü)** uyarımda amplitüdün belirgin artması (**inkrement**)"
+- "**Serum P/Q tipi voltaj bağımlı kalsiyum kanal antikorları** pozitif; **toraks BT ya da PET** ile **küçük hücreli akciğer kanseri** araştırılır"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **tekrarlı sinir uyarımında düşük amplitüdlü yanıtların yüksek frekanslı uyarımla belirgin artması (inkrement)**"
+ilk_tetkik: "**Tekrarlı sinir uyarım testi** ve serum **VGCC antikor** düzeyi. Antikor pozitif ya da şüpheli her hastada **toraks görüntülemesi (BT ya da PET)** ile **küçük hücreli akciğer kanseri** taraması"
+kesin_tani: "**Klinik tablo** (proksimal güçsüzlük, **hiporefleksi**, **otonom bulgular**, **eforla güçlenme**) + **elektrofizyolojik inkrement** + **VGCC antikor** pozitifliği; **Kanser** bulunursa tanı **paraneoplastik** olarak kesinleşir"
+ilk_tedavi: "Öncelik altta yatan **küçük hücreli akciğer kanserinin tedavisi**; **kemoterapi**yle nörolojik bulgular çoğunlukla düzelir. Belirgin bulgularda **3,4-diaminopiridin (amifampridin)**: **potasyum kanallarını bloke ederek** sinir ucundaki **depolarizasyonu uzatır**, **kalsiyum girişi ve asetilkolin salınımını artırır**. Ağır olgularda **IV immünglobulin** ya da **plazma değişimi** **köprü tedavi** olarak eklenebilir"
+klasik_komplikasyon: "**Solunum kasları** tutulursa **solunum yetersizliği**. Asıl uzun dönem risk altta yatan **küçük hücreli akciğer kanserinin yayılması**; nörolojik sendrom **prognozu kötüleştirir**"
 tus_gecmisi:
 - tus-2020-ilkbahar-ktbt-36
 - tus-2021-sonbahar-ktbt-32

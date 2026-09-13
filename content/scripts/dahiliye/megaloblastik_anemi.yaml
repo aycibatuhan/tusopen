@@ -10,33 +10,34 @@ taksonomi:
   - dahiliye
   - dah_hematoloji
   - dah_hem_megaloblastik
-tipik_hasta: Yaşlı, iştahsız ya da alkol kullanan; vejetaryen-vegan diyet uygulayan; gastrektomi, bariatrik
-  cerrahi ya da ileum hastalığı geçirmiş; pernisiyöz anemili hasta; parestezi ve denge bozukluğuyla gelen
-  makrositik anemili
-patofizyoloji: B12 ya da folat eksikliği DNA sentezini yavaşlatır; timidin üretimi bozulunca nükleus olgunlaşırken
-  sitoplazma büyümeye devam eder (nükleo-sitoplazmik asenkroni) ve megaloblast oluşur. B12'nin nörolojik
-  rolü metilmalonik asit metabolizmasındadır; folat bu yola girmediği için folat eksikliğinde nörolojik
-  bulgu çıkmaz. B12 eksikliğinde homosistein ve metilmalonik asit birlikte yükselir, folat eksikliğinde
-  yalnızca homosistein yükselir
+tipik_hasta: 'Yaşlı, iştahsız ya da **alkol** kullanan; **vejetaryen-vegan** diyet uygulayan; **gastrektomi**,
+  bariatrik cerrahi ya da **ileum hastalığı** geçirmiş; **pernisiyöz anemi**li. **Parestezi** ve **denge
+  bozukluğu**yla gelen makrositik anemili'
+patofizyoloji: '**B12** ya da **folat** eksikliği **DNA sentezini** yavaşlatır; nükleus olgunlaşırken sitoplazma
+  büyümeye devam eder (**nükleo-sitoplazmik asenkroni**), megaloblast oluşur. B12''nin nörolojik rolü **metilmalonik
+  asit** metabolizmasındadır; folat bu yola girmez. B12 eksikliğinde **homosistein ve metilmalonik asit**
+  birlikte yükselir; folat eksikliğinde yalnızca **homosistein**'
 anahtar_bulgular:
-- MCV yüksekliği; kan yaymasında makro-ovalositoz ve hipersegmente nötrofiller
-- Retikülositopenili anemi; etkili eritropoez bozukluğuna bağlı hafif sarılık, LDH ve indirekt bilirubin
-  yüksekliği
-- B12 eksikliğinde el ve ayaklarda parestezi, pozisyon-vibrasyon duyusu kaybı, Romberg pozitifliği (subakut
-  birleşik dejenerasyon); folat eksikliğinde bu bulguların yokluğu
-- Kırmızı, ağrılı, parlak dil (glossit); iştahsızlık ve kilo kaybı
-- Pernisiyöz anemide pariyetal hücre ve intrinsik faktör antikorlarının pozitifliği
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Hipersegmente nötrofillerle makro-ovalositozun birlikte görülmesi
-ilk_tetkik: Tam kan sayımı, retikülosit, LDH, indirekt bilirubin; serum B12 ve folat düzeyleri; sınırda
-  değerlerde homosistein ve metilmalonik asit
-kesin_tani: B12 ya da folat düzeyinin düşük bulunması; kemik iliğinde megaloblastik değişiklikler; pernisiyöz
-  anemi şüphesinde intrinsik faktör antikorları ve atrofik gastrit değerlendirmesi için endoskopi
-ilk_tedavi: 'B12 eksikliğinde kas içi siyanokobalamin (nörolojik bulgu varsa önce yoğun doz); folat eksikliğinde
-  oral folik asit. Kritik kural: B12 eksikliği dışlanmadan folat tek başına verilmez, aksi halde nörolojik
-  tablo ağırlaşır; tedavi yanıtının ilk işareti 3-5 gündeki retikülosit artışıdır, hızlı hücre üretimi
-  sırasında potasyum izlenir'
-klasik_komplikasyon: Tedavi edilmemiş B12 eksikliğinde kalıcı nörolojik sekel (subakut birleşik dejenerasyon,
-  geriye dönmeyen demans bulguları); ağır anemide yüksek debili kalp yetmezliği
+- '**MCV** yüksekliği; kan yaymasında **makro-ovalositoz** ve **hipersegmente nötrofiller**'
+- '**Retikülositopenili anemi**; etkili eritropoez bozukluğuna bağlı hafif **sarılık**, **LDH** ve **indirekt
+  bilirubin** yüksekliği'
+- 'B12 eksikliğinde el ve ayaklarda **parestezi**, **pozisyon-vibrasyon duyusu kaybı**, **Romberg** pozitifliği
+  (**subakut birleşik dejenerasyon**); folat eksikliğinde bu bulguların yokluğu'
+- 'Kırmızı, ağrılı, parlak **dil (glossit)**; iştahsızlık ve kilo kaybı'
+- 'Pernisiyöz anemide **pariyetal hücre** ve **intrinsik faktör antikorlarının** pozitifliği'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — **hipersegmente nötrofiller**le **makro-ovalositoz**un
+  birlikte görülmesi
+ilk_tetkik: 'Tam kan sayımı, **retikülosit**, **LDH**, **indirekt bilirubin**; serum **B12** ve **folat**
+  düzeyleri; sınırda değerlerde **homosistein** ve **metilmalonik asit**'
+kesin_tani: '**B12** ya da **folat** düzeyinin düşük bulunması; kemik iliğinde **megaloblastik** değişiklikler.
+  Pernisiyöz anemi şüphesinde **intrinsik faktör antikorları** ve atrofik gastrit değerlendirmesi için
+  **endoskopi**'
+ilk_tedavi: 'B12 eksikliğinde kas içi **siyanokobalamin** (nörolojik bulgu varsa önce **yoğun doz**); folat
+  eksikliğinde oral **folik asit**. Kritik kural: B12 eksikliği dışlanmadan folat tek başına verilmez, aksi
+  halde **nörolojik tablo ağırlaşır**. Tedavi yanıtının ilk işareti **3-5 gündeki retikülosit** artışıdır;
+  hızlı hücre üretiminde **potasyum** izlenir'
+klasik_komplikasyon: 'Tedavi edilmemiş B12 eksikliğinde kalıcı **nörolojik sekel** (**subakut birleşik dejenerasyon**,
+  geriye dönmeyen demans bulguları); ağır anemide **yüksek debili kalp yetmezliği**'
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-10
 - tus-2014-ilkbahar-ktbt-55

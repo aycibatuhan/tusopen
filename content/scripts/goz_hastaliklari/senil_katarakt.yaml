@@ -8,19 +8,19 @@ sources:
 ad: Senil Katarakt
 taksonomi:
   - [ktbt, goz_hastaliklari, goz_lens, goz_ln_senil_katarakt]
-tipik_hasta: "60 yaş üstü, ağrısız ve aylar içinde ilerleyen görme bulanıklığıyla başvuran hasta; parlak ışıkta ya da gece araç kullanırken görüşünün daha çok bozulduğunu, gözlük numarasının sık sık değiştiğini, yakın görüşünün bir dönem garip biçimde düzeldiğini anlatır"
-patofizyoloji: "Yaşla birlikte lens liflerinde kristalin proteinlerin agregasyonu, oksidatif hasar ve lensin su-elektrolit dengesinin bozulması saydam yapıyı yitirir. Yerleşime göre üç tip önde gelir: nükleer skleroz (merkez sertleşip sararır, kırma indeksi artar), kortikal tip (periferde kama biçimli opasiteler, ışık saçılmasına yol açar) ve posterior subkapsüler tip (görme eksenine yakın plak, ışıklı ortamda ve okumada erken bozulur; diyabet ve uzun süreli steroid kullanımında erken yaşta görülür)"
+tipik_hasta: "**60 yaş üstü**, **ağrısız** ve **aylar içinde** ilerleyen **görme bulanıklığı**yla başvuran hasta; **parlak ışıkta** ya da **gece araç kullanırken** görüşünün daha çok bozulduğunu. **Gözlük numarası**nın sık sık değiştiğini, yakın görüşünün bir dönem **garip biçimde düzeldiğini** anlatır"
+patofizyoloji: "Yaşla birlikte lens liflerinde **kristalin** proteinlerin **agregasyonu**, **oksidatif hasar** ve lensin su-elektrolit dengesinin bozulması saydam yapıyı yitirir. Yerleşime göre üç tip önde gelir: **nükleer skleroz** (merkez sertleşip **sararır**, **kırma indeksi** artar); **kortikal** tip (periferde **kama biçimli opasiteler**, **ışık saçılması**na yol açar); **posterior subkapsüler** tip (görme eksenine yakın **plak**, ışıklı ortamda ve okumada **erken bozulur**; **diyabet** ve uzun süreli **steroid** kullanımında erken yaşta görülür)"
 anahtar_bulgular:
-  - "Ağrısız, yavaş ilerleyen, genellikle çift taraflı görme bulanıklığı"
-  - "Parlak ışıkta görüşün bozulması, gece karşı ışıkta hale görme"
-  - "Myopik kayma: nükleer sertleşme kırma indeksini artırır, yakın görüş geçici düzelir (ikinci görüş) ama uzak görüş bozulur"
-  - "Kortikal tipin parlak ışıkta tek gözde çift görme (monoküler diplopi) yapması"
-  - "Yarık lambada lens opasitesi: sararmış sert nüve, kortikal kama, arka kapsül altı plak"
-  - "Görme keskinliği ölçümünde kırma kusuru düzeltilse bile tam düzelme olmaması"
+- "**Ağrısız, yavaş ilerleyen**, genellikle **çift taraflı** görme bulanıklığı"
+- "**Parlak ışıkta** görüşün bozulması, gece **karşı ışıkta hale** görme"
+- "**Myopik kayma**: nükleer sertleşme **kırma indeksi**ni artırır, yakın görüş geçici düzelir (**ikinci görüş**) ama **uzak görüş** bozulur"
+- "**Kortikal** tipin parlak ışıkta tek gözde çift görme (**monoküler diplopi**) yapması"
+- "**Yarık lambada** lens opasitesi: sararmış **sert nüve**, kortikal **kama**, arka kapsül altı **plak**"
+- "**Görme keskinliği** ölçümünde kırma kusuru düzeltilse bile **tam düzelme olmaması**"
 patognomonik: null
-ilk_tetkik: "Görme keskinliği ölçümü ve pupil dilatasyonu ile yarık lamba biyomikroskopide lens değerlendirmesi; görme kaybının retinadan kaynaklanmadığını göstermek için dilate fundus muayenesi"
-kesin_tani: "Yarık lamba biyomikroskopide lens opasitesinin doğrudan görülmesi (tip ve yerleşim kaydıyla) ve görme kaybının retina ya da optik sinir kaynaklı bir nedenle açıklanamadığının gösterilmesi"
-ilk_tedavi: "Görme günlük yaşamı kısıtlamaya başladığında cerrahi: fakoiülsifikasyon (ultrasonik emülsifikasyon) artı intraoküler lens implantasyonu. Opasite görmeyi henüz engellemiyorsa gözlük numarası güncellenerek izlem yeterli. Olgunlaşmasını beklemek eski ve yanlış bir yaklaşım; hipermatür katarakta cerrahi hem zor hem risklidir"
-klasik_komplikasyon: "Hipermatür katarakttan (olgun kataraktın ileri evresi; Morgagnian katarakta gider) fazomorfik glokom (şişen lens ön kamara açısını kapar) ve fazolitik glokom (sızan lens materyali makrofajlarla drenajı tıkar)"
+ilk_tetkik: "**Görme keskinliği** ölçümü ve pupil **dilatasyonu** ile **yarık lamba biyomikroskopide** lens değerlendirmesi; görme kaybının **retinadan** kaynaklanmadığını göstermek için **dilate fundus muayenesi**"
+kesin_tani: "**Yarık lamba biyomikroskopide lens opasitesinin** doğrudan görülmesi (**tip ve yerleşim** kaydıyla); görme kaybının **retina** ya da **optik sinir** kaynaklı bir nedenle **açıklanamadığının** gösterilmesi"
+ilk_tedavi: "Görme günlük yaşamı **kısıtlamaya** başladığında **cerrahi**: **fakoiülsifikasyon** (ultrasonik emülsifikasyon) artı **intraoküler lens** implantasyonu. Opasite görmeyi henüz engellemiyorsa **gözlük numarası** güncellenerek **izlem** yeterli. **Olgunlaşmasını beklemek** eski ve **yanlış** bir yaklaşım; **hipermatür** katarakta cerrahi hem **zor** hem **risklidir**"
+klasik_komplikasyon: "**Hipermatür** katarakttan (olgun kataraktın ileri evresi; **Morgagnian** katarakta gider) **fazomorfik glokom** (şişen lens **ön kamara açısını** kapar) ve **fazolitik glokom** (sızan lens materyali **makrofajlarla** drenajı tıkar)"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

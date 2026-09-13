@@ -16,28 +16,29 @@ taksonomi:
   - dahiliye
   - dah_hepatoloji
   - dah_hep_varis_kanama
-tipik_hasta: Yıllardır alkol kullanan ya da kronik hepatit B/C, yağlı karaciğer hastalığı olan hasta;
-  karın şişmesi, bacak ödemi, sarılık, kanama veya dikkat-bilinç bozukluğu ile başvurur
-patofizyoloji: 'Kronik hepatik yaralanma fibroz doku birikimi ve rejenerasyon nodülleriyle sonuçlanır;
-  lobüler mimari bozulup portal basınç yükselir (varis, asit, splenomegali) ve karaciğerin sentez-detoksifikasyon
-  işlevi kaybolur: albümin ve pıhtılaşma faktörleri düşer, amonyak beyne birikir'
+tipik_hasta: 'Yıllardır **alkol** kullanan ya da **kronik hepatit B/C**, **yağlı karaciğer** hastalığı olan
+  hasta. **Karın şişmesi**, bacak **ödemi**, **sarılık**, kanama veya **bilinç bozukluğu** ile başvurur'
+patofizyoloji: 'Kronik hepatik yaralanma **fibroz** doku birikimi ve **rejenerasyon nodülleri**yle sonuçlanır;
+  lobüler mimari bozulup **portal basınç** yükselir (varis, asit, splenomegali). Sentez-detoksifikasyon
+  işlevi kaybolur: **albümin** ve pıhtılaşma faktörleri düşer, **amonyak** beyne birikir'
 anahtar_bulgular:
-- 'Asit: SAAG 1,1 g/dL''nin üzerinde ve seröz sıvıda albümin düşük (portal hipertansif asit imzası)'
-- Spider anjiom, palmar eritem, kaput medusae, ginekomasti, testis atrofisi
-- Splenomegali ve trombositopeni (hipersplenizm)
-- Albümin düşük, INR uzamış; alkol kökenli olguda AST/ALT oranı 2'nin üzerinde
-- Endoskopide özofageal varis veya gastropati
+- 'Asit: **SAAG 1,1 g/dL**nin üzerinde ve seröz sıvıda **albümin** düşük (portal hipertansif asit imzası)'
+- '**Spider anjiom**, **palmar eritem**, **kaput medusae**, ginekomasti, testis atrofisi'
+- '**Splenomegali** ve **trombositopeni** (**hipersplenizm**)'
+- '**Albümin** düşük, **INR** uzamış; alkol kökenli olguda **AST/ALT oranı 2**nin üzerinde'
+- 'Endoskopide **özofageal varis** veya **gastropati**'
 patognomonik: null
-ilk_tetkik: Karaciğer fonksiyon testleri, tam kan sayımı ve INR; karın ultrasonu (nodüler kontür, portal
-  ven genişliği, splenomegali, asit); asit saptanırsa tanısal parasentez
-kesin_tani: Klinik, laboratuvar ve görüntüleme bulgularının bütünü; etiyoloji belirsiz olgularda karaciğer
-  biyopsisi altın standarttır. Asitte SAAG 1,1 g/dL üstü ve düşük asit albümini siroz kökenli sıvıyı doğrular
-ilk_tedavi: 'Etiyolojiye yönelik tedavi (alkol kesilmesi, hepatit B/C antiviralleri) ve komplikasyon yönetimi:
-  asitte düşük sodyumlu diyet artı spironolakton ve furosemid; varis kanamasında endoskopik band ligasyonu,
-  vazopressor (terlipressin/oktreotid) ve seftriakson; spontan bakteriyel peritonitte üçüncü kuşak sefalosporin;
-  ensefalopatide laktüloz'
-klasik_komplikasyon: Özofageal varis kanaması (hematemez, melena), spontan bakteriyel peritonit, hepatik
-  ensefalopati (asteriksili bilinç bozukluğu) ve hepatorenal sendrom
+ilk_tetkik: 'Karaciğer fonksiyon testleri, tam kan sayımı ve **INR**; **karın ultrasonu** (nodüler kontür,
+  portal ven genişliği, splenomegali, asit); asit saptanırsa **tanısal parasentez**'
+kesin_tani: 'Klinik, laboratuvar ve görüntüleme bulgularının bütünü; etiyoloji belirsiz olgularda **karaciğer
+  biyopsisi** altın standarttır. Asitte **SAAG 1,1 g/dL** üstü ve düşük **asit albümini** siroz kökenli sıvıyı
+  doğrular'
+ilk_tedavi: 'Etiyolojiye yönelik tedavi: **alkol kesilmesi**, hepatit B/C **antiviralleri**. Asitte **düşük
+  sodyumlu diyet** artı **spironolakton** ve **furosemid**. Varis kanamasında **endoskopik band ligasyonu**,
+  vazopressor (**terlipressin/oktreotid**) ve **seftriakson**. **Spontan bakteriyel peritonitte üçüncü
+  kuşak sefalosporin**; **ensefalopatide laktüloz**'
+klasik_komplikasyon: '**Özofageal varis kanaması** (hematemez, melena), **spontan bakteriyel peritonit**,
+  **hepatik ensefalopati** (asteriksili bilinç bozukluğu) ve **hepatorenal sendrom**'
 tus_gecmisi:
 - tus-2015-sonbahar-ktbt-14
 - tus-2016-ilkbahar-ktbt-100

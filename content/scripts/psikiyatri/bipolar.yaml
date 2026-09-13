@@ -13,65 +13,19 @@ taksonomi:
   - psikiyatri
   - psik_duygudurum
   - psik_dd_bipolar
-tipik_hasta: 'Başlangıç çoğunlukla 20''li yaşlarda; bipolar I''de kadın-erkek sıklığı eşittir. Hastaların
-  çoğu depresif atakla başvurur ve yıllarca ''tek kutuplu depresyon'' sanılır: erken yaş başlangıcı, atipik
-  özellikli depresyon (hipersomni, iştah artışı), psikotik özellikler, doğum sonrası başlangıç, ailede
-  bipolar öyküsü ve antidepresana mani yanıtı bipoları düşündürür. Manik dönemde içgörü kaybolur: aşırı
-  harcama, işten ani istifa, cinsel taşkınlık ve madde kullanımıyla hastayı çoğunlukla yakınları getirir;
-  doğum sonrası dönem ve uyku düzenini bozan gece vardiyası klasik tetikleyicilerdir'
-patofizyoloji: 'Monoamin dengesizliği (noradrenalin, dopamin ve serotonin dalgalanmaları) temel çerçeveyi
-  verir; ötesinde hücre içi sinyal yolağı bozuklukları (protein kinaz C aşırı etkinliği ve GSK-3beta baskılanamaması
-  — lityum GSK-3beta''yı inhibe eder), HPA aksı aşırı aktivasyonu ve sirkadiyen ritim düzeni bozukluğu
-  öne çıkar: azalmış uyku ihtiyacı hem maninin hem tetikleyicisidir hem de hastalığın biyolojik imzası
-  sayılır. Kalıtsallığı psikiyatride en güçlü bozukluklardan biridir: tek yumurta ikizlerinde konkordans
-  yaklaşık yüzde 40-70'
+tipik_hasta: "Başlangıç çoğunlukla **20'li yaşlarda**; **bipolar I'de kadın-erkek sıklığı eşittir**. Hastaların çoğu **depresif atakla** başvurur ve yıllarca '**tek kutuplu depresyon**' sanılır; bipoları düşündürenler: **erken başlangıç, atipik depresyon (hipersomni, iştah artışı), psikotik özellikler, doğum sonrası başlangıç, ailede bipolar öyküsü, antidepresana mani yanıtı**. Manide **içgörü kaybolur**; **aşırı harcama, işten ani istifa, cinsel taşkınlık** ile çoğunlukla yakınları getirir"
+patofizyoloji: "**Monoamin dengesizliği** (noradrenalin, dopamin, serotonin dalgalanmaları) temel çerçeveyi verir; **GSK-3beta baskılanamaması** öne çıkar — **lityum GSK-3beta'yı inhibe eder**. **HPA aksı** aşırı aktivasyonu ve **sirkadiyen ritim** bozukluğu; **azalmış uyku ihtiyacı** hem maninin hem tetikleyicisidir hem de biyolojik imzası sayılır. Kalıtsallığı psikiyatride en güçlü bozukluklardan biridir: **tek yumurta ikizlerinde konkordans yaklaşık yüzde 40-70**"
 anahtar_bulgular:
-- 'Mani: en az 1 hafta süren (ya da hastaneye yatış gerektiren) yükselmiş, genişlemiş ya da sinirli duygudurum
-  ve artmış enerji; artmış özgüven-grandiyözite, uyku ihtiyacında azalma (3 saat uyuyup dinlenmiş kalkma),
-  konuşkanlık, düşünce uçuşması, dağınıklık, dikkat dağınıklığı, artmış amaçlı etkinlik ve sonuçlarını
-  düşünmeden riskli etkinlikler (harcama, cinsel taşkınlık, iş kararları)'
-- 'Manide psikotik özellikler eklenebilir: büyüklük sanrıları gibi duygudurumla uyumlu sanrılar; bu dönemde
-  tablo şizofreniden ayırt edilemez — ataklar arası tam düzelme öyküsü ayırt edici anahtardır'
-- 'Hipomani: en az 4 gün süren, gözle görülür işlev değişikliği yapan ama hospitalizasyon gerektirmeyen
-  ve psikotik belirti içermeyen dönem; bipolar II tanısı için en az bir hipomani artı en az bir majör
-  depresif atak gerekir ve hastada hiç manik atak olmamalıdır'
-- 'Karışık özellikler: aynı dönemde manik enerji ile depresif değersizlik düşüncelerinin birleşmesi; hızlı
-  döngü 12 ayda 4 ya da daha çok ataktır ve tedavi direnciyle ilişkilidir'
-- 'Bipolar depresyonun ipuçları: erken başlangıç, hipersomni ve iştah artışı, psikotik özellikler, doğum
-  sonrası başlangıç, ani ve yoğun intihar düşünceleri, ailede bipolar öyküsü'
-- 'Manik hastanın muayenesi tanıyı taşır: parlak-taşkın kıyafet, bastırılamayan hızlı ve yüksek sesle
-  konuşma, geleni gideni söyleme, kolayca uyarılabilen duygudurum; yorgunluk hissetmeme etkinlikleri geceye
-  kaydırır'
+- "**Mani: en az 1 hafta** süren (ya da hastaneye yatış gerektiren) yükselmiş-genişlemiş ya da sinirli duygudurum + artmış enerji; **grandiyözite, uyku ihtiyacında azalma (3 saat uyuyup dinlenmiş kalkma), düşünce uçuşması**, sonuçlarını düşünmeden **riskli etkinlikler** (harcama, cinsel taşkınlık)"
+- "Manide **psikotik özellikler** eklenebilir: **duygudurumla uyumlu sanrılar**; bu dönemde şizofreniden ayırt edilemez — **ataklar arası tam düzelme öyküsü** ayırt edici anahtardır"
+- "**Hipomani: en az 4 gün**, gözle görülür işlev değişikliği yapan ama hospitalizasyon gerektirmeyen ve **psikotik belirti içermeyen** dönem; **bipolar II için en az bir hipomani + en az bir majör depresif atak**, hiç **manik atak olmamalıdır**"
+- "**Karışık özellikler**: aynı dönemde manik enerji + depresif değersizlik; **hızlı döngü 12 ayda 4 ya da daha çok ataktır** ve **tedavi direnciyle** ilişkilidir"
+- "**Bipolar depresyonun ipuçları**: erken başlangıç, **hipersomni ve iştah artışı**, **psikotik özellikler**, **doğum sonrası başlangıç**, ani-yoğun **intihar düşünceleri**, **ailede bipolar öyküsü**"
 patognomonik: null
-ilk_tetkik: 'Klinik görüşme ve yakınlarından alınan öykü temeldir, çünkü manide içgörü kaybı hastayı tanıyı
-  inkâr ettirir; Young Mani Ölçeği şiddeti derecelendirir. Maniyi taklit edenler dışlanır: TSH (hipertiroidi),
-  tam kan sayımı, biyokimya, idrar toksikolojisi (amfetamin ve kokain kaynaklı mani) ve steroid kullanımı
-  sorgulanır; ilk manik atakta nörogörüntüleme düşünülür. Lityum planlanıyorsa başlangıç öncesi bazal
-  değerlendirme şarttır: kreatinin ve eGFR, TSH, kalsiyum, tam kan sayımı, gebelik testi ve kardiyak risk
-  varsa EKG'
-kesin_tani: 'Bipolar I: yaşam boyu en az bir manik atak (en az 1 hafta süren, hospitalizasyon gerektiren
-  ya da psikotik özellikli duygudurum yükselmesi) varlığı yeterlidir, depresif atak şart değildir. Bipolar
-  II: en az bir hipomanik atak (en az 4 gün) ve en az bir majör depresif atak birlikte bulunmalı, hiç
-  manik ya da karışık atak öyküsü olmamalıdır. Duygudurum epizodu bir maddenin (amfetamin, kokain) fizyolojik
-  etkisine ya da başka bir tıbbi duruma (hipertiroidi) bağlanamamalıdır; şizoaffektif bozukluktan farkı,
-  bipolar bozuklukta psikozun yalnızca duygudurum epizodları içinde kalmasıdır'
-ilk_tedavi: 'Akut manide ilk basamak lityum, valproat ya da 2. kuşak antipsikotiktir (kuetiapin, olanzapin,
-  risperidon, aripiprazol); şiddetli ve psikotik manide duygudurum düzenleyiciyle antipsikotik kombinasyonu
-  verilir. Antidepresan monoterapiden kaçınılır: maniyi tetikler ve hızlı döngüye yol açabilir; bipolar
-  depresyonda güvenli seçenekler kuetiapin, lurasidon (lityum ya da valproatla birlikte) ve lamotrijindir
-  (özellikle idamede depresif ataklara koruma sağlar). Lityum intihar eğilimini azalttığı gösterilen tek
-  duygudurum düzenleyicidir ve dar terapötik aralığı vardır: akut manide 0,8-1,2, idamede 0,6-1,0 mmol/L
-  hedeflenir, kan düzeyi doz değişikliğinden 5-7 gün sonra ölçülür. Toksisite (yaklaşık 1,5 üstünde) ince
-  tremorun kaba tremora dönüşü, ishal-kusma, konfüzyon ve ataksiyle başlar; NSAID, tiazid diüretikler
-  ve ACE inhibitörleri böbrek klirensini azaltarak düzeyi yükseltir — birlikte kullanımda izlem sıklaştırılır,
-  ağır zehirlenmede hemodiyaliz gerekir. Kronik etkiler: nefrojenik diabetes insipidus (poliüri — amilorid),
-  hipotiroidi ve guatr (düzenli TSH ve kreatinin), akne. Gebelikte Ebstein anomalisi (trikuspid kapak)
-  riski nedeniyle tercih edilmez. Valproat hepatotoksisite, trombositopeni, polikistik over sendromu ve
-  nöral tüp defekti teratojenitesi taşır; karbamazepin HLA-B*1502 taşıyıcılığında Stevens-Johnson sendromu
-  riski taşır ve lamotrijin yavaş titrasyon ister. Psikososyal tedavide sosyal ritim terapisi ve uyku
-  düzeninin korunması atak önlemede etkilidir; gebelikte ve dirençli ağır tablolarda EKT seçenektir'
-klasik_komplikasyon: İntihar riski (bozukluğun en ölümcül sonucu; lityum bu riski azaltır) ve madde kötüye
-  kullanımı eş tanısı; atak sayısı arttıkça işlev kaybı derinleşir ve tablo kronikleşir
+ilk_tetkik: "**Klinik görüşme ve yakınlarından öykü** temeldir, çünkü manide **içgörü kaybı** tanıyı inkâr ettirir; **Young Mani Ölçeği** şiddeti derecelendirir. Maniyi taklit edenler dışlanır: **TSH (hipertiroidi), tam kan sayımı, idrar toksikolojisi (amfetamin ve kokain)** ve **steroid** kullanımı. **Lityum** planlanıyorsa bazal değerlendirme şart: **kreatinin ve eGFR, TSH, kalsiyum, tam kan sayımı, gebelik testi**, kardiyak risk varsa **EKG**"
+kesin_tani: "**Bipolar I**: yaşam boyu **en az bir manik atak** (en az **1 hafta**, hospitalizasyon gerektiren ya da psikotik özellikli) yeterlidir — **depresif atak şart değildir**. **Bipolar II**: **en az bir hipomani (en az 4 gün)** + **en az bir majör depresif atak**; **hiç manik ya da karışık atak öyküsü olmamalıdır**. Epizod **maddenin (amfetamin, kokain)** ya da **hipertiroidinin** fizyolojik etkisine bağlanamamalı; **şizoaffektiften farkı, bipolarde psikozun yalnızca duygudurum epizodları içinde kalmasıdır**"
+ilk_tedavi: "Akut manide ilk basamak **lityum, valproat ya da 2. kuşak antipsikotiktir** (**kuetiapin, olanzapin, risperidon, aripiprazol**); şiddetli-psikotik manide **kombinasyon**. **Antidepresan monoterapiden kaçınılır** (maniyi tetikler); bipolar depresyonda güvenli seçenekler **kuetiapin, lurasidon (lityum/valproatla), lamotrijin**. **Lityum** intihar eğilimini azaltan tek düzenleyicidir; **dar terapötik aralık: akut manide 0,8-1,2, idamede 0,6-1,0 mmol/L**, düzey **5-7 gün** sonra ölçülür. **Toksisite (yaklaşık 1,5 üstü)**: kaba tremor, ishal-kusma, konfüzyon, ataksi; **NSAID, tiazidler, ACE inhibitörleri** düzeyi yükseltir; ağır zehirlenmede **hemodiyaliz**. Kronik: **nefrojenik diabetes insipidus (poliüri — amilorid)**, **hipotiroidi ve guatr**; gebelikte **Ebstein anomalisi** nedeniyle tercih edilmez. **Valproat** hepatotoksisite, trombositopeni, PCOS ve **nöral tüp defekti** taşır; **karbamazepin HLA-B*1502** taşıyıcılığında **Stevens-Johnson** riski; **lamotrijin yavaş titrasyon** ister. Gebelikte ve dirençli ağır tablolarda **EKT** seçenektir; **sosyal ritim terapisi** atak önlemede etkilidir"
+klasik_komplikasyon: "**İntihar riski** (bozukluğun en ölümcül sonucu; **lityum** bu riski azaltır) ve **madde kötüye kullanımı** eş tanısı; atak sayısı arttıkça **işlev kaybı** derinleşir ve tablo **kronikleşir**"
 tus_gecmisi:
 - tus-2015-ilkbahar-ktbt-35
 - tus-2017-ilkbahar-ktbt-35

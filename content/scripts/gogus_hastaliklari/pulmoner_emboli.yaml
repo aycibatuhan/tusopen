@@ -15,35 +15,39 @@ taksonomi:
   - kardiyoloji
   - kard_aort_periferik
   - kard_ap_venoz_tromboembolizm
-tipik_hasta: Ameliyat sonrası yatakta immobilize kalmış, malignitesi olan, uzun araba veya uçak yolculuğu
-  yapmış, gebelik ya da östrojen tedavisi gören hastada ani başlayan nefes darlığı; bacakta şişlik-kızarıklık
-  öyküsü de eklenir. Açıklanamayan takikardi ve hipoksemiyle birlikte akciğer muayenesinin sessiz kalması
-  klasik izlenimdir
-patofizyoloji: Virchow üçgeninin üç kolu — venöz staz, endotel hasarı, hiperkoagülabilite — derin ven
-  trombozunu oluşturur; kopan trombus parçası pulmoner arter ağacını tıkar. Ölü hacim artar, ventilasyon-perfüzyon
-  eşleşmesi bozulur ve hipoksemi gelişir. Geniş embolilerde pulmoner vasküler direnç yükselir, sağ ventrikül
-  yetmezliği ve kardiyovasküler çökme tablosu eklenir
+tipik_hasta: "**Ameliyat sonrası immobilize** kalmış, **malignitesi** olan, **uzun araba veya uçak
+  yolculuğu** yapmış, **gebelik** ya da **östrojen tedavisi** gören hastada **ani başlayan nefes
+  darlığı**; **bacakta şişlik-kızarıklık** öyküsü eklenir. **Açıklanamayan takikardi** ve **hipoksemi**yle
+  birlikte akciğer muayenesinin **sessiz** kalması klasik izlenimdir"
+patofizyoloji: "**Virchow üçgeni**nin üç kolu — **venöz staz**, **endotel hasarı**, **hiperkoagülabilite**
+  — **derin ven trombozunu** oluşturur; kopan trombus parçası **pulmoner arter ağacını** tıkar. **Ölü
+  hacim** artar, **ventilasyon-perfüzyon eşleşmesi** bozulur ve **hipoksemi** gelişir. Geniş
+  embolilerde **pulmoner vasküler direnç** yükselir; **sağ ventrikül yetmezliği** ve **kardiyovasküler
+  çökme** tablosu eklenir"
 anahtar_bulgular:
-- Ani başlayan dispne, plöretik göğüs ağrısı ve takikardi; oskültasyon çoğunlukla normaldir (sıkıntılı
-  ama sessiz akciğer)
-- Proksimal bacakta tek taraflı şişlik ve hassasiyet (kaynak DVT kanıtı)
-- EKG en sık sinüs takikardisi; büyük embolide S1Q3T3 deseni, yeni sağ dal bloğu veya aVR yüksekliği
-- Wells skoru ile ön test olasılığı düşük veya orta olan hastada negatif D-dimer görüntülemeye gerek bırakmaz;
-  yüksek klinik olasılıkta D-dimer araştırılmaz, doğrudan görüntüleme yapılır
-- Troponin ve proBNP yükselmesi sağ ventrikül stresini dolaylı yansıtır; prognozu katmanlamada yardımcıdır
+- "**Ani başlayan dispne**, **plöretik göğüs ağrısı** ve **takikardi**; oskültasyon çoğunlukla normaldir
+  (**sıkıntılı ama sessiz akciğer**)"
+- "Proksimal bacakta **tek taraflı şişlik ve hassasiyet** (kaynak **DVT** kanıtı)"
+- "EKG en sık **sinüs takikardisi**; büyük embolide **S1Q3T3** deseni, **yeni sağ dal bloğu** veya **aVR
+  yüksekliği**"
+- "**Wells skoru** ile ön test olasılığı düşük-orta olan hastada **negatif D-dimer** görüntülemeye gerek
+  bırakmaz; **yüksek klinik olasılıkta D-dimer araştırılmaz**, doğrudan görüntüleme yapılır"
+- "**Troponin** ve **proBNP** yükselmesi **sağ ventrikül stresi**ni dolaylı yansıtır; prognozu
+  katmanlamada yardımcıdır"
 patognomonik: null
-ilk_tetkik: Önce Wells veya Cenevre skoru ile ön test olasılığı hesaplanır; düşük-orta olasılıkta kuantitatif
-  D-dimer istenir, yüksek olasılıkta görüntülemeye geçilir. Gebelikte fetal doz kaygısıyla V/Q sintigrafisi
-  tercih edilebilir
-kesin_tani: 'BT pulmoner anjiyografi altın standarttır: kesit içinde dolum defekti gösterilir. Hemodinamik
-  olarak kararsız, BT''ye taşınamayan hastada ekokardiyografi sağ ventrikül disfonksiyonu ve basınç yüklenmesini
-  gösterir'
-ilk_tedavi: 'Hemodinamik stabil hastada erken tam doz antikoagülasyon: doğrudan oral antikoagülan veya
-  düşük molekül ağırlıklı heparin. Hipotansiyonlu masif embolide sistemik tromboliz; kontrainde ise kateter
-  veya cerrahi embolektomi. Süre mantığı: geçici, çözülen bir risk faktörü saptanan hastada 3 ay; tetikleyici
-  bulunamayan veya kalıcı risk faktörlü hastada süresiz antikoagülasyon; malignitede LMWH temel seçenek'
-klasik_komplikasyon: Masif embolide akut sağ kalp yetmezliği ve kardiyak arrest; tedavi görmeyen veya
-  tekrarlayan embolide kronik tromboembolik pulmoner hipertansiyon
+ilk_tetkik: "Önce **Wells veya Cenevre skoru** ile ön test olasılığı hesaplanır; **düşük-orta
+  olasılıkta kuantitatif D-dimer** istenir, **yüksek olasılıkta** görüntülemeye geçilir. **Gebelikte**
+  fetal doz kaygısıyla **V/Q sintigrafisi** tercih edilebilir"
+kesin_tani: "**BT pulmoner anjiyografi altın standart**tır: kesit içinde **dolum defekti** gösterilir.
+  Hemodinamik olarak kararsız, **BT'ye taşınamayan** hastada **ekokardiyografi** **sağ ventrikül
+  disfonksiyonu** ve **basınç yüklenmesi**ni gösterir"
+ilk_tedavi: "Hemodinamik stabil hastada **erken tam doz antikoagülasyon**: **doğrudan oral antikoagülan**
+  veya **düşük molekül ağırlıklı heparin**. **Hipotansiyonlu masif embolide sistemik tromboliz**;
+  kontrainde ise **kateter veya cerrahi embolektomi**. Süre mantığı: **geçici, çözülen bir risk
+  faktörü**nde **3 ay**; **tetikleyici bulunamayan veya kalıcı risk faktörlü** hastada **süresiz**
+  antikoagülasyon; **malignitede LMWH** temel seçenek"
+klasik_komplikasyon: "Masif embolide **akut sağ kalp yetmezliği** ve **kardiyak arrest**. Tedavi görmeyen
+  veya tekrarlayan embolide **kronik tromboembolik pulmoner hipertansiyon**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-5
 - tus-2015-ilkbahar-ktbt-7

@@ -11,30 +11,19 @@ taksonomi:
   - enfeksiyon_hastaliklari
   - enf_mantar
   - enf_mn_kandidiyaz
-tipik_hasta: Ateşi geniş spektrumlu antibiyotiğe rağmen süren yoğun bakım hastası (uzun süreli santral
-  kateter, parenteral beslenme, geniş batın cerrahisi öyküsü) veya nötropenik kemoterapi ve kök hücre
-  nakli hastası
-patofizyoloji: Candida türleri ağız-sindirim yolu ve derinin sakin florasında yaşar; mukoza bariyeri bozulduğunda
-  (kemoterapiye bağlı mukozit) veya kateter yoluyla kan dolaşımına geçer ve organ düzeyinde yayılır. Göz,
-  kalp kapakçıkları, karaciğer-dalak ve böbreklerde mikroapseler oluşturur; nötropenik hastada karaciğer-dalak
-  tutulumuyla karakterli kronik dissemine tablo görülür
+tipik_hasta: "Ateşi geniş spektrumlu **antibiyotiğe rağmen süren** yoğun bakım hastası; **uzun süreli santral kateter**, **parenteral beslenme**, **geniş batın cerrahisi** öyküsü. Ya da **nötropenik** kemoterapi ve **kök hücre nakli** hastası"
+patofizyoloji: "**Candida** türleri ağız-sindirim yolu ve derinin **sakin florasında** yaşar; **mukoza bariyeri** bozulduğunda (kemoterapiye bağlı mukozit) ya da **kateter** yoluyla kan dolaşımına geçer. Organ düzeyinde yayılır; göz, **kalp kapakçıkları**, **karaciğer-dalak** ve böbreklerde **mikroabse**ler oluşturur. Nötropenik hastada karaciğer-dalak tutulumuyla karakteristik **kronik dissemine** tablo görülür"
 anahtar_bulgular:
-- Geniş spektrumlu antibiyotiğe rağmen süren ateş (nötropenik ateşin altında gizlenir)
-- Birden fazla set kan kültüründe Candida üremesi
-- Serum beta-D-glukanın pozitifliği (mantar hücre zar bileşeni; kandın erken habercisi)
-- Göz dibi muayenesinde kandida endoftalmi (sarı-beyaz lezyonlar)
-- 'Nötropenik hastada karaciğer-dalak tutulumu: sağ üst kadran ağrısı, alkali fosfataz yükselmesi'
+- "Geniş spektrumlu **antibiyotiğe rağmen süren ateş** (nötropenik ateşin altında gizlenir)"
+- "**Birden fazla set kan kültürü**nde **Candida** üremesi"
+- "Serum **beta-D-glukan** pozitifliği (mantar hücre zar bileşeni; kandın erken habercisi)"
+- "**Göz dibi** muayenesinde **kandida endoftalmi** (sarı-beyaz lezyonlar)"
+- "Nötropenik hastada **karaciğer-dalak tutulumu**: sağ üst kadran ağrısı, **alkali fosfataz** yükselmesi"
 patognomonik: null
-ilk_tetkik: Birden fazla set kan kültürü; serum beta-D-glukan; göz dibi muayenesi (endoftalmi taraması);
-  santral kateterin değerlendirilmesi ve uç kültürü
-kesin_tani: Kan kültüründe Candida üremesi ve tür tanımlaması (C. albicans, C. glabrata, C. parapsilosis
-  ayrımı tedaviyi yönlendirir); beta-D-glukan, kan kültürünün negatif kaldığı bağışıklık baskılanmış hastada
-  tanıyı destekler
-ilk_tedavi: Ekinkandin (kaspofungin, mikafungin veya anidulafungin) gecikmeden başlanır; santral kateter
-  çıkarılır; kültür sonuçlarına göre flukonazole adım aşırma yapılır ve ilk negatif kan kültüründen sonra
-  iki hafta devam edilir
-klasik_komplikasyon: Kandida endoftalmi ve görme kaybı; kandida endokardit; nötropenik hastada kronik
-  dissemine (karaciğer-dalak) kandidiyaz
+ilk_tetkik: "**Birden fazla set kan kültürü**; serum **beta-D-glukan**. **Göz dibi** muayenesi (**endoftalmi** taraması); **santral kateter**in değerlendirilmesi ve uç kültürü"
+kesin_tani: "**Kan kültürü**nde Candida üremesi ve **tür tanımlaması** (**C. albicans**, **C. glabrata**, **C. parapsilosis** ayrımı tedaviyi yönlendirir); **beta-D-glukan**, kan kültürünün negatif kaldığı baskılanmış hastada tanıyı destekler"
+ilk_tedavi: "**Ekinokandin** (**kaspofungin**, **mikafungin** veya **anidulafungin**) gecikmeden başlanır; **santral kateter** çıkarılır. Kültür sonuçlarına göre **flukonazol**e adım aşırma yapılır ve ilk negatif kan kültüründen sonra **iki hafta** devam edilir"
+klasik_komplikasyon: "**Kandida endoftalmi** ve görme kaybı; **kandida endokardit**; nötropenik hastada **kronik dissemine (karaciğer-dalak) kandidiyaz**"
 tus_gecmisi:
 - tus-2016-sonbahar-ttbt-70
 - tus-2017-ilkbahar-ttbt-68

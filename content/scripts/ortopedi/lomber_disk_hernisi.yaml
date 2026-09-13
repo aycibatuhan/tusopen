@@ -15,35 +15,36 @@ taksonomi:
   - ftr
   - ftr_omurga_agrisi
   - ftr_oa_lomber_disk_radikulopati
-tipik_hasta: 30-50 yaş arası, eğilerek ağır bir şey kaldırdıktan sonra bel ağrısının bacağa yayıldığı
-  (siyatalji) hasta; ağrı kalçadan diz altına iner, oturma, öksürme ve hapşırmayla artar; herniler neredeyse
-  her zaman L4-L5 ve L5-S1 aralıklarındadır
-patofizyoloji: Nükleus pulposus, anülus fibrosustaki yırtıktan geçerek bir alt seviyeye geçen (travers)
-  sinir köküne baskı yapar; yani L4-L5 seviyesindeki herni L5 kökünü, L5-S1 seviyesindeki herni S1 kökünü
-  sıkıştırır. Ayrıca kök çevresine sızan iltihabi aracılar mekanik basıdan bağımsız radiküler ağrıyı büyütür;
-  nadiren ekstrude parça yukarı çıkıp aynı seviyenin çıkış (foraminal) kökünü de vurabilir
+tipik_hasta: "**30-50 yaş**; eğilerek ağır bir şey kaldırdıktan sonra bel ağrısının bacağa yayıldığı
+  (**siyatalji**) hasta. Ağrı kalçadan **diz altına** iner; oturma, öksürme ve hapşırmayla artar;
+  herniler neredeyse her zaman **L4-L5** ve **L5-S1** aralıklarındadır"
+patofizyoloji: "**Nükleus pulposus**, anülus fibrosustaki yırtıktan geçerek bir alt seviyeye geçen
+  (travers) köke basar: **L4-L5** herni **L5** kökünü, **L5-S1** herni **S1** kökünü sıkıştırır. Kök
+  çevresine sızan **iltihabi aracılar** mekanik basıdan bağımsız radiküler ağrıyı büyütür. Nadiren
+  ekstrude parça yukarı çıkıp aynı seviyenin çıkış (**foraminal**) kökünü de vurabilir"
 anahtar_bulgular:
-- 'L5 kökü (L4-L5 herni): ağrı bacağın dış yanından sırt-ayak üstüne yayılır; ayak parmağını yukarı kaldırmada
-  güçsüzlük (ekstensor halüsis longus)'
-- 'S1 kökü (L5-S1 herni): ağrı bacağın arka yanından aşık kemiği üstüne yayılır; parmak ucuna basmada
-  (plantar fleksiyon) güçsüzlük ve Akiles refleksinde azalma'
-- 'L3-L4 herni (L4 kökü): femoral radikülopati tablosu — kalçadan öne bacağa yayılan ağrı, patella refleksinde
-  azalma; düz bacak kaldırma negatifken femoral germe testi pozitiftir'
-- 'Lasègue (düz bacak kaldırma) testi pozitif: bacak 30-70 derece arası kaldırılırken diz altına yayılan
-  ağrı; ağrı sağlam bacak kaldırılınca da uyarırsa (çapraz Lasègue) özgünlük artar'
-- 'Kök bulguları dermatomal uyumludur: duyu bozukluğu ve güçsüzlük, sıkışan kökün segmentiyle eşleşir'
-patognomonik: Tek bir patognomonik bulgu yok; bel ağrısı + dermatomal dağılımlı bacak ağrısı + kök güçsüzlüğü/refleks
-  kaybı kümesi tabloyu tanımlar
-ilk_tetkik: Tehlike işareti (kırmızı bayrak) yoksa görüntülemeye gerek yok — ilk 4-6 hafta konservatif
-  tedavi; tehlike işareti varsa veya tanı kuşkuluysa MRG
-kesin_tani: MRG — herni seviyesini ve kök sıkışmasını gösteren görüntülemenin altın standardı; gereken
-  hastada EMG kök tutulumunu destekler
-ilk_tedavi: 'Konservatif: kısa süreli (1-3 gün) istirahat dışında tolere edilebilir aktivite, analjezi;
-  hastaların çoğu 4-6 hafta içinde belirgin düzelir. Cerrahi (mikrodiskektomi) kauda ekina sendromunda
-  (acil dekompresyon), ilerleyici motor kayıpta veya 6-12 haftalık uygun konservatif tedavi başarısızlığında'
-klasik_komplikasyon: 'Kauda ekina sendromu: eyer biçimli perine duyusuzluğu, mesane boşaltamama ve dışkı
-  inkontinansı, iki taraflı bacak güçsüzlüğü, Akiles reflekslerinin kaybı — 24-48 saat içinde acil cerrahi
-  gerektirir'
+- "**L5 kökü** (L4-L5 herni): ağrı bacağın dış yanından sırt-ayak üstüne yayılır; ayak parmağını yukarı
+  kaldırmada güçsüzlük (**ekstensor halüsis longus**)"
+- "**S1 kökü** (L5-S1 herni): ağrı bacağın arka yanından aşık kemiği üstüne; parmak ucuna basmada
+  (**plantar fleksiyon**) güçsüzlük ve **Akiles** refleksinde azalma"
+- "**L3-L4** herni (L4 kökü): **femoral radikülopati** — kalçadan öne bacağa yayılan ağrı, **patella
+  refleksi**nde azalma; düz bacak kaldırma negatifken **femoral germe testi** pozitif"
+- "**Lasègue (düz bacak kaldırma)** pozitif: bacak **30-70 derece** arası kaldırılırken diz altına yayılan
+  ağrı; sağlam bacak kaldırılınca da ağrı uyarırsa (**çapraz Lasègue**) özgünlük artar"
+- "Kök bulguları **dermatomal** uyumludur: duyu bozukluğu ve güçsüzlük, sıkışan kökün segmentiyle eşleşir"
+patognomonik: "Tek bir patognomonik bulgu yok; **bel ağrısı + dermatomal dağılımlı bacak ağrısı + kök
+  güçsüzlüğü-refleks kaybı** kümesi tabloyu tanımlar"
+ilk_tetkik: "Tehlike işareti (**kırmızı bayrak**) yoksa görüntülemeye gerek yok — **ilk 4-6 hafta**
+  konservatif tedavi; tehlike işareti varsa veya tanı kuşkuluysa **MRG**"
+kesin_tani: "**MRG** — herni seviyesini ve kök sıkışmasını gösteren görüntülemenin **altın standardı**;
+  gereken hastada **EMG** kök tutulumunu destekler"
+ilk_tedavi: "Konservatif: kısa süreli (**1-3 gün**) istirahat dışında tolere edilebilir aktivite ve
+  analjezi; hastaların çoğu **4-6 hafta** içinde belirgin düzelir. **Mikrodiskektomi**: **kauda ekina
+  sendromu**nda (acil dekompresyon), **ilerleyici motor kayıpta** veya **6-12 haftalık** uygun konservatif
+  tedavi başarısızlığında"
+klasik_komplikasyon: "**Kauda ekina sendromu**: **eyer biçimli perine duyusuzluğu**, **mesane
+  boşaltamama** ve dışkı inkontinansı. İki taraflı bacak güçsüzlüğü ve **Akiles reflekslerinin kaybı** —
+  **24-48 saat** içinde acil cerrahi gerektirir"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-105
 - tus-2014-sonbahar-ktbt-107

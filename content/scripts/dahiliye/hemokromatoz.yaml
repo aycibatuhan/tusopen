@@ -15,21 +15,22 @@ taksonomi:
   - dahiliye
   - dah_metabolik_beslenme
   - dah_met_hemokromatoz_wilson
-tipik_hasta: Orta yaşta (çoğunlukla erkek) diyabet, artralji, cilt koyulaşması, impotans/hipogonadizm
-  veya kardiyomiyopati ile gelen erişkin; ailede HFE mutasyonu taşıyıcılığı
-patofizyoloji: HFE gen mutasyonu (en sık C282Y homozigotluğu) hepcidin üretimini azaltır; bağırsaktan
-  demir emilimi düzenlenemez hale gelir ve demir hepatosit, pankreas adacıkları, eklem kıkırdağı, miyokard
-  ve hipofizde birikir
+tipik_hasta: 'Orta yaşta (çoğunlukla **erkek**) **diyabet**, **artralji**, **cilt koyulaşması**, impotans/**hipogonadizm**
+  veya **kardiyomiyopati** ile gelen erişkin; ailede **HFE mutasyonu** taşıyıcılığı'
+patofizyoloji: '**HFE** gen mutasyonu (en sık **C282Y** homozigotluğu) **hepcidin** üretimini azaltır;
+  bağırsaktan demir emilimi düzenlenemez. Demir **hepatosit**, pankreas adacıkları, eklem kıkırdağı, **miyokard**
+  ve **hipofiz**de birikir'
 anahtar_bulgular:
-- Serum ferritin ve transferrin satürasyonu yüksek
-- Diabetes mellitus + artralji + cilt koyulaşması
-- Dilate kardiyomiyopati, aritmiler
-- Hipogonadotropik hipogonadizm
-patognomonik: HFE C282Y homozigotluğu ile yüksek transferrin satürasyonu
-ilk_tetkik: Serum ferritin ve transferrin satürasyonu
-kesin_tani: HFE genetik testi; karaciğer biyopsisinde Perls boyası ile demir birikimi ve miktar ölçümü
-ilk_tedavi: Düzenli terapötik flebotomi (ferritin hedefe inene kadar)
-klasik_komplikasyon: Siroz geliştikçe hepatosellüler karsinom riskinde kalıcı artış
+- 'Serum **ferritin** ve **transferrin satürasyonu** yüksek'
+- '**Diabetes mellitus** + **artralji** + **cilt koyulaşması**'
+- '**Dilate kardiyomiyopati**, aritmiler'
+- '**Hipogonadotropik hipogonadizm**'
+patognomonik: '**HFE C282Y** homozigotluğu ile yüksek **transferrin satürasyonu**'
+ilk_tetkik: 'Serum **ferritin** ve **transferrin satürasyonu**'
+kesin_tani: '**HFE genetik testi**; karaciğer biyopsisinde **Perls boyası** ile demir birikimi ve miktar
+  ölçümü'
+ilk_tedavi: 'Düzenli **terapötik flebotomi** (ferritin hedefe inene kadar)'
+klasik_komplikasyon: 'Siroz geliştikçe **hepatosellüler karsinom** riskinde kalıcı artış'
 tus_gecmisi:
 - tus-2018-ilkbahar-ktbt-15
 - tus-2021-sonbahar-ktbt-14

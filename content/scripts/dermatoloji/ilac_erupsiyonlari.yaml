@@ -11,45 +11,20 @@ taksonomi:
   - dermatoloji
   - derm_urtiker_ilac
   - derm_ui_ilac_erupsiyonu
-tipik_hasta: Yeni başlanmış ya da yakın zamanda değiştirilmiş ilaç öyküsü olan, gövdeden yayılan kaşıntılı
-  döküntüyle gelen hasta; dudak veya genital bölgede aynı yerde tekrarlayan lezyon sabit ilaç erüpsiyonunu,
-  uzun süredir antibiyotik-antiepileptik-alloprünol kullanan ve ateş-yüz ödemi-organ bulguları eklenen
-  hasta DRESS'i düşündürür. Viral enfeksiyon geçirmiş (EBV, HHV-6) hastalarda gecikmeli reaksiyon riski
-  artar; bazı ilaç-HLA birliktelikleri (alloprünol-HLA-B*5801, karbamazepin-HLA-B*1502) ağır tabloların
-  yatkınlığını belirler
-patofizyoloji: 'İki büyük mekanizma vardır. Anlık reaksiyon IgE aracılıdır: maruziyetten dakikalar-saatler
-  sonra ürtiker ve anafilaksi yapar. Gecikmeli reaksiyonlar T hücresi aracılıdır ve tabloya göre gecikme
-  süresi değişir: morbiliform erüpsiyon genelde ilaçtan 4-7 gün sonra belirir, sabit ilaç erüpsiyonu bölgeye
-  spesifik bellek T hücreleri sayesinde her maruziyette aynı yerde saatler içinde tekrarlar, DRESS ise
-  ilaçtan 2-6 hafta sonra viral reaktivasyon (HHV-6) ve yavaş toksik metabolit birikimiyle ortaya çıkar,
-  AGEP antibiyotikten 1-4 gün içinde nötrofil ağırlıklı püstüler yanıt verir'
+tipik_hasta: "**Yeni başlanmış** ya da yakın zamanda **değiştirilmiş ilaç** öyküsü olan, gövdeden yayılan kaşıntılı döküntüyle gelen hasta; dudak veya genital bölgede **aynı yerde tekrarlayan** lezyon **sabit ilaç erüpsiyonu**nu, uzun süredir **antibiyotik-antiepileptik-allopürinol** kullanan ve **ateş-yüz ödemi-organ bulguları** eklenen hasta **DRESS**'i düşündürür. Viral enfeksiyon geçirmiş (**EBV**, **HHV-6**) hastalarda gecikmeli reaksiyon riski artar; **allopürinol-HLA-B*5801**, **karbamazepin-HLA-B*1502** birliktelikleri ağır tabloların yatkınlığını belirler"
+patofizyoloji: "İki büyük mekanizma vardır: **anlık reaksiyon IgE** aracılıdır, maruziyetten **dakikalar-saatler** sonra **ürtiker** ve **anafilaksi** yapar; **Gecikmeli reaksiyonlar T hücresi** aracılıdır; **morbiliform** erüpsiyon ilaçtan **4-7 gün** sonra, **sabit ilaç erüpsiyonu** bölgeye spesifik bellek T hücreleri sayesinde her maruziyette **aynı yerde saatler** içinde tekrarlar; **DRESS** ilaçtan **2-6 hafta** sonra **viral reaktivasyon (HHV-6)** ve yavaş toksik metabolit birikimiyle ortaya çıkar, **AGEP** antibiyotikten **1-4 gün** içinde **nötrofil ağırlıklı** püstüler yanıt verir"
 anahtar_bulgular:
-- 'Morbiliform (eksantematöz) erüpsiyon: gövdeden ekstremitelere yayılan simetrik, makülopapüler, kaşıntılı
-  döküntü; en sık kütanöz ilaç reaksiyonu'
-- 'Zaman ilişkisi tanıyı taşır: IgE aracılı ürtiker dakikalar-saatler sonra, morbiliform tablo 4-7 gün
-  sonra, DRESS 2-6 hafta sonra, AGEP 1-4 gün sonra'
-- 'Sabit ilaç erüpsiyonu: dudak, genital bölge, el üstünde keskin sınırı yuvarlak, mor-eritemli plak;
-  merkezinde bül olabilir; düzelince koyu pigment kalır ve her maruziyette aynı yerde tekrarlar'
-- 'DRESS üçlüsü: ateş ve döküntü, eozinofili-atipik lenfositler, karaciğer enzim yükselmesi; yüz ve periorbital
-  ödemi tipik'
-- 'AGEP: eritematöz zemin üzerinde sayısız küçük steril püstül, ateş ve kan bulgusunda nötrofili'
-- İlaç kesildikten sonra düzelme (dechallenge) tanıyı güçlendirir; yeniden verilme tanıyı kesinleştirir
-  ama risk nedeniyle yapılmaz
-patognomonik: 'Sabit ilaç erüpsiyonu: her maruziyette aynı anatomik yerde yeniden beliren ve düzelince
-  hiperpigmentasyon bırakan plak'
-ilk_tetkik: İlaç öyküsü ve başlangıç-döküntü zaman çizelgesinin çıkarılması; DRESS şüphesinde tam kan
-  sayımı (eozinofili, atipik lenfositler), karaciğer enzimleri, böbrek fonksiyonları ve HHV-6 serolojisi;
-  tablo morfolojik olarak ayırt edilemiyorsa cilt biyopsisi
-kesin_tani: Klinik morfoloji artı zaman ilişkisi; ilacın kesilmesiyle klinik düzelme (dechallenge) tanıyı
-  destekler. Kesin kanıt ancak ilacı yeniden vermekle (rechallenge) sağlanır ama ölümcül tablolar riski
-  nedeniyle pratikte yapılmaz
-ilk_tedavi: Her tablonun ortak ilk adımı şüpheli ilacı kesmektir. Hafif morbiliform tabloda antihistaminik
-  ve topikal kortikosteroid yeterlidir; geniş, ateşli, organ tutulumlu tablolarda (DRESS, AGEP) sistemik
-  kortikosteroid verilir. Dördüncü dereceye (SJS/TEN) ilerleme göstergeleri (mukozal erozyon, bül, dermal
-  ağrı, laboratuvar bozuklukları) olursa hasta yanık ünitesi düzeyinde izlemeye alınır. İlaç bir daha
-  yazılmamalı ve hastanın kaydına alerji olarak işlenmelidir
-klasik_komplikasyon: DRESS'te karaciğer yetmezliği (en sık ölüm nedeni); tablonun SJS/TEN'e ilerlemesi;
-  anlık reaksiyonlarda anafilaksi
+- "**Morbiliform (eksantematöz) erüpsiyon**: gövdeden ekstremitelere yayılan simetrik, makülopapüler, kaşıntılı döküntü; **en sık kütanöz ilaç reaksiyonu**"
+- "**Zaman ilişkisi** tanıyı taşır: **IgE aracılı ürtiker** dakikalar-saatler sonra, **morbiliform** **4-7 gün** sonra, **DRESS** **2-6 hafta** sonra, **AGEP** **1-4 gün** sonra"
+- "**Sabit ilaç erüpsiyonu**: dudak, genital bölge, el üstünde keskin sınırı **yuvarlak, mor-eritemli plak**; merkezinde bül olabilir; düzelince **koyu pigment** kalır ve her maruziyette **aynı yerde** tekrarlar"
+- "**DRESS üçlüsü**: **ateş** ve döküntü, **eozinofili-atipik lenfositler**, **karaciğer enzim yükselmesi**; yüz ve periorbital ödemi tipiktir"
+- "**AGEP**: eritematöz zemin üzerinde sayısız küçük **steril püstül**, ateş ve kan bulgusunda **nötrofili**"
+- "İlaç kesildikten sonra düzelme (**dechallenge**) tanıyı güçlendirir; yeniden verilme (**rechallenge**) tanıyı kesinleştirir ama risk nedeniyle **yapılmaz**"
+patognomonik: "**Sabit ilaç erüpsiyonu**: her maruziyette **aynı anatomik yerde** yeniden beliren ve düzelince **hiperpigmentasyon** bırakan plak"
+ilk_tetkik: "**İlaç öyküsü** ve **başlangıç-döküntü zaman çizelgesi**nin çıkarılması; DRESS şüphesinde **tam kan sayımı** (**eozinofili**, **atipik lenfositler**), **karaciğer enzimleri**, böbrek fonksiyonları ve **HHV-6 serolojisi**. Morfolojik olarak ayırt edilemiyorsa **cilt biyopsisi**"
+kesin_tani: "Klinik **morfoloji** artı **zaman ilişkisi**; ilacın kesilmesiyle klinik düzelme (**dechallenge**) tanıyı destekler. Kesin kanıt ancak ilacı yeniden vermekle (**rechallenge**) sağlanır ama ölümcül tablolar riski nedeniyle pratikte **yapılmaz**"
+ilk_tedavi: "Her tablonun ortak ilk adımı **şüpheli ilacı kesmektir**. Hafif morbiliform tabloda **antihistaminik** ve **topikal kortikosteroid** yeterlidir; geniş, ateşli, organ tutulumlu tablolarda (**DRESS**, **AGEP**) **sistemik kortikosteroid** verilir; **SJS/TEN**'e ilerleme göstergeleri (**mukozal erozyon**, **bül**, **dermal ağrı**, laboratuvar bozuklukları) olursa hasta **yanık ünitesi** düzeyinde izlemeye alınır. İlaç **bir daha yazılmamalı**, hastanın kaydına **alerji** olarak işlenmelidir"
+klasik_komplikasyon: "**DRESS**'te **karaciğer yetmezliği** (en sık ölüm nedeni); tablonun **SJS/TEN**'e ilerlemesi; anlık reaksiyonlarda **anafilaksi**"
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-31
 kart_uret:

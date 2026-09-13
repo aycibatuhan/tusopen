@@ -11,33 +11,20 @@ taksonomi:
   - kbb
   - kbb_oral_kavite_farinks
   - kbb_of_nazofarinks_kanseri
-tipik_hasta: Kırk-altmış yaş bandında erkek ağırlıklı hasta; en sık ilk başvuru nedeni üst boyun bölgesinde
-  (üst juguler zincir veya posterior üçgen) ağrısız kitledir; burun tıkanıklığı, tekrarlayan burun kanaması
-  ve açıklanamayan tek taraflı seröz orta kulak iltihabı öyküsü ayrıntılı sorgulanmalıdır
-patofizyoloji: Nazofarinks mukozasından kaynaklanan yassı hücreli karsinom; Epstein-Barr virüsü bağlantısı
-  güçlüdür, özellikle undiferansiye nonkeratinizan tip; virüse karşı IgA sınıfı VCA ve EBNA antikorları
-  tarama ve izlemede tümör markörü gibi kullanılır; genetik yatkınlık ve tuzlanmış balık gibi nitrozaminli
-  gıdalar riski artırır; tümör Östaki borusu ağzına ve üst juguler lenf düğümlerine erken yayılır
+tipik_hasta: "**Kırk-altmış yaş** bandında **erkek** ağırlıklı hasta; en sık ilk başvuru nedeni **üst boyun bölgesinde** (üst **juguler zincir** veya **posterior üçgen**) **ağrısız kitle**dir. **Burun tıkanıklığı**, **tekrarlayan burun kanaması** ve açıklanamayan **tek taraflı seröz orta kulak iltihabı** öyküsü ayrıntılı sorgulanmalıdır"
+patofizyoloji: "Nazofarinks mukozasından kaynaklanan **yassı hücreli karsinom**; **Epstein-Barr virüsü** bağlantısı güçlüdür, özellikle **undiferansiye nonkeratinizan** tip. Virüse karşı **IgA sınıfı VCA** ve **EBNA** antikorları **tarama ve izleme**de tümör markörü gibi kullanılır. **Genetik yatkınlık** ve **tuzlanmış balık** gibi **nitrozaminli** gıdalar riski artırır; tümör **Östaki borusu** ağzına ve **üst juguler lenf düğümleri**ne **erken** yayılır"
 anahtar_bulgular:
-- İlk bulgu çoğu hastada ağrısız boyun kitlesi; metastatik lenf nodu çoğu zaman primer tümörden önce fark
-  edilir
-- 'Tek taraflı seröz (transüdatif) orta kulak iltihabı ve iletim tipi işitme kaybı: Östaki borusu ağzının
-  tümörle kapatılması'
-- Burun tıkanıklığı, tekrarlayan burun kanamaları ve genizden kanlı akıntı
-- 'Kafa tabanına doğru yayılımla kranial sinir felçleri: çift görme (VI sinir), yüzde uyuşma (V sinir)
-  ve kronik baş ağrısı'
-- EBV serolojisi (IgA VCA ve IgA EBNA) yükselir; endoskopik incelemede nazofarinkste kitlesel lezyon
-- 'Geç dönemde uzak metastaz: kemik, karaciğer ve akciğer'
+- "İlk bulgu çoğu hastada **ağrısız boyun kitlesi**; metastatik lenf nodu çoğu zaman **primer tümörden önce** fark edilir"
+- "**Tek taraflı seröz (transüdatif) orta kulak iltihabı** ve **iletim tipi işitme kaybı**: **Östaki borusu** ağzının tümörle kapatılması"
+- "**Burun tıkanıklığı**, **tekrarlayan burun kanamaları** ve genizden **kanlı akıntı**"
+- "**Kafa tabanına** doğru yayılımla **kranial sinir felçleri**: **çift görme (VI sinir)**, yüzde uyuşma (**V sinir**) ve kronik **baş ağrısı**"
+- "**EBV serolojisi (IgA VCA ve IgA EBNA)** yükselir; **endoskopik** incelemede nazofarinkste **kitlesel lezyon**"
+- "Geç dönemde **uzak metastaz**: **kemik**, **karaciğer** ve **akciğer**"
 patognomonik: null
-ilk_tetkik: Nazal endoskopiyle nazofarinks incelemesi ve EBV serolojisi; boyun kitlesinde ultrason ve
-  gerektiğinde boyun BT veya MRG
-kesin_tani: Endoskopik nazofarinks biyopsisiyle histopatoloji; boyun kitlesi primer odak doğrulanmadan
-  eksize edilmez, boyun diseksiyonu öncesi nazofarinks biyopsisi zorunludur
-ilk_tedavi: Radyoterapi primer tedavidir (IMRT ile nazofarinks ve boyun bölgesi); lokal ileri evrede eş
-  zamanlı kemoradyoterapi (sisplatin bazlı); dirençli boyun hastalığında boyun diseksiyonu; tümör radyoterapiye
-  olağanüstü duyarlıdır
-klasik_komplikasyon: Kranial sinir felçleri (diplopi, yüzde duyusuzluk); radyoterapi sonrası seröz otitis,
-  kserostomi ve hipotiroidi; uzak metastaz (kemik, karaciğer, akciğer)
+ilk_tetkik: "**Nazal endoskopi**yle nazofarinks incelemesi ve **EBV serolojisi**; **boyun kitlesi**nde **ultrason** ve gerektiğinde **boyun BT** veya **MRG**"
+kesin_tani: "**Endoskopik nazofarinks biyopsisi**yle **histopatoloji**; **boyun kitlesi** primer odak doğrulanmadan **eksize edilmez**, **boyun diseksiyonu** öncesi **nazofarinks biyopsisi** zorunludur"
+ilk_tedavi: "**Radyoterapi** primer tedavidir (**IMRT** ile nazofarinks ve boyun bölgesi); lokal ileri evrede eşzamanlı **kemoradyoterapi** (**sisplatin** bazlı). Dirençli boyun hastalığında **boyun diseksiyonu**; tümör radyoterapiye **olağanüstü duyarlıdır**"
+klasik_komplikasyon: "**Kranial sinir felçleri** (**diplopi**, yüzde **duyusuzluk**); radyoterapi sonrası **seröz otitis**, **kserostomi** ve **hipotiroidi**; **uzak metastaz** (**kemik**, **karaciğer**, **akciğer**)"
 tus_gecmisi:
 - tus-2021-ilkbahar-ktbt-107
 kart_uret:

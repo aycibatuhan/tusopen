@@ -17,58 +17,20 @@ taksonomi:
   - pediatri
   - ped_gelisimsel_davranis
   - ped_gd_dehb
-tipik_hasta: Okul çağındaki çocuk; erkeklerde kadınlardan daha sık başvurur (toplumda yaklaşık 2-3 kat)
-  ve öğretmenin 'dersine odaklanamıyor, yerinde duramıyor, başkalarını bölüyor' şikâyetiyle gelir. Kız
-  çocuklarında ve erişkinlerde hiperaktivite göze batmaz, dikkat eksikliği (dağınıklık, işe başlayamama,
-  eşyaları kaybetme) öndedir ve tanı çoğu zaman gecikir; anne-babada benzer öykü, erken doğum-düşük doğum
-  ağırlığı ve gebelikte sigara maruziyeti riski artırır. Erişkinde sunum 'rahat oturamama' değil, içsel
-  huzursuzluk, planlama-zaman yönetimi güçlüğü ve sık iş değiştirmedir
-patofizyoloji: Kalıtsallığı yüksek bir nörogelişimsel bozukluktur (birinci derece akrabalarda risk belirgin
-  artar); kortikal olgunlaşma, özellikle prefrontal bölgede yaşıtlara göre yaklaşık 2-3 yıl geridedir
-  ve yürütücü işlev ağları (dikkat sürdürme, frenleme, planlama) gecikir. Öne çıkan nörokimyasal bulgu
-  prefrontal-striatal devrelerde dopamin-noradrenalin işlev yetersizliğidir; stimülanların (dopamin-noradrenalin
-  artışı) ve atomoksetinin (noradrenalin geri alım bloğu) etkinliği bu modeli destekler. Dopamin reseptör
-  (DRD4) ve taşıyıcı (DAT1) gen varyantları ile gebelikte sigara, prematürite ve düşük doğum ağırlığı
-  çevresel katkılar tanımlanmıştır
+tipik_hasta: "Okul çağındaki çocuk; erkeklerde kadınlardan **2-3 kat** sık; öğretmenin '**dersine odaklanamıyor, yerinde duramıyor, başkalarını bölüyor**' şikâyetiyle gelir. Kız çocuklarında ve erişkinlerde **hiperaktivite göze batmaz, dikkat eksikliği** öndedir ve tanı çoğu zaman **gecikir**; **anne-babada benzer öykü, erken doğum-düşük doğum ağırlığı, gebelikte sigara** riski artırır. Erişkin sunumu **içsel huzursuzluk, planlama-zaman yönetimi güçlüğü ve sık iş değiştirmedir**"
+patofizyoloji: "Kalıtsallığı yüksek **nörogelişimsel** bozukluktur; **kortikal olgunlaşma, özellikle prefrontal bölgede 2-3 yıl geridedir** ve yürütücü işlev ağları (dikkat sürdürme, frenleme, planlama) gecikir. Öne çıkan bulgu **prefrontal-striatal devrelerde dopamin-noradrenalin yetersizliğidir**; **stimülanların** ve **atomoksetinin** etkinliği bu modeli destekler. **DRD4 ve DAT1** gen varyantları ile **gebelikte sigara, prematürite, düşük doğum ağırlığı** çevresel katkılardır"
 anahtar_bulgular:
-- 'İki belirti kümesi: dikkatsizlik (dikkatini sürdürememe, görevi bitirememe, eşya kaybetme, kolayca
-  dağılma, unutkanlık, zihinsel çabayla süren işlerden kaçma) ve hiperaktivite-dürtüsellik (kıpırdanma,
-  yerinden kalkma, sessiz oynayamama, aşırı konuşma, soru bitmeden cevaplama, sıra bekleme güçlüğü, başkalarının
-  işine karışma)'
-- 'Süre eşiği: belirtiler 6 aydan uzun sürmeli ve gelişimsel düzeye uymamalı'
-- 'Başlangıç yaşı: DSM-5-TR''de belirtilerin 12 yaşından önce başlamış olması gerekir (DSM-IV''teki 7
-  yaş eşiği gevşetildi)'
-- 'Bağlam sayısı: belirtiler en az iki ortamda (ev, okul, iş) bulunmalı; tek ortamdaki belirtiler başka
-  açıklamayı düşündürür'
-- 'Ölçüt sayısı ve alt tipler: 17 yaş altında ilgili kümenin en az 6, 17 yaş ve üzerinde en az 5 belirtisi;
-  öncelikle dikkat eksikliği, öncelikle hiperaktivite-dürtüsellik ve birleşik tip'
-- 'Erişkin sunum: hiperaktivitenin yerini içsel huzursuzluk alır; yürütücü işlev bozukluğu (planlama,
-  önceliklendirme, zaman yönetimi), ilişki-iş sorunları ve araç kullanımında riskli davranış öne çıkar'
+- "İki belirti kümesi: **dikkatsizlik** (sürdürememe, eşya kaybetme, kolayca dağılma, unutkanlık) ve **hiperaktivite-dürtüsellik** (kıpırdanma, soru bitmeden cevaplama, sıra bekleme güçlüğü)"
+- "**Süre eşiği**: belirtiler **6 aydan uzun** sürmeli ve gelişimsel düzeye uymamalı"
+- "**Başlangıç yaşı**: DSM-5-TR'de belirtilerin **12 yaşından önce** başlamış olması gerekir (DSM-IV'teki **7 yaş eşiği** gevşetildi)"
+- "**Bağlam sayısı**: belirtiler **en az iki ortamda** (ev, okul, iş) bulunmalı; tek ortamdaki belirtiler başka açıklamayı düşündürür"
+- "**Ölçüt sayısı**: **17 yaş altında en az 6, 17 yaş ve üzerinde en az 5** belirti; tipler: **dikkat eksikliği öncelikli, hiperaktivite-dürtüsellik öncelikli, birleşik**"
+- "**Erişkin sunum**: hiperaktivitenin yerini **içsel huzursuzluk** alır; **yürütücü işlev bozukluğu** (planlama, önceliklendirme, zaman yönetimi) ve **araç kullanımında riskli davranış** öne çıkar"
 patognomonik: null
-ilk_tetkik: Tanı klinik değerlendirmeyle konur; laboratuvar tanıyı koymaz. Ayrıntılı gelişimsel öykü,
-  veli-öğretmen derecelendirme ölçekleri (Vanderbilt, Conners) ve okul performans raporları toplanır;
-  işitme-görme muayenesi, uyku bozuklukları, tiroid fonksiyon bozuklukları ve kurşun maruziyeti gibi taklitler
-  dışlanır; eşlik eden bozukluklar (muhalif inatçı bozukluk, öğrenme bozuklukları, kaygı, tik bozuklukları)
-  taranır; stimülan öncesi kardiyak öykü-muayene yapılır, bayılma-kalp hastalığı öyküsünde EKG istenir
-kesin_tani: 'DSM-5-TR ölçütleri: gelişimsel düzeye uymayan, 6 aydan uzun süren dikkat eksikliği ve/veya
-  hiperaktivite-dürtüsellik belirtileri; 17 yaş altında ilgili kümenin en az 6, 17 yaş ve üzerinde en
-  az 5 belirtisi; başlangıcın 12 yaşından önce olması; belirtilerin en az iki ortamda bulunması; okul-iş-sosyal
-  işlev kaybının kanıtlanması; tablonun duygudurum, anksiyete, kişilik bozukluğu ya da madde etkisiyle
-  daha iyi açıklanamaması'
-ilk_tedavi: '6 yaş ve üzeri okul çocuğunda ilk seçenek stimülanlardır: metilfenidat (dopamin-noradrenalin
-  geri alım inhibitörü) genellikle önce denenir, amfetamin türevleri alternatiftir; paradoks, uyarıcı
-  etken maddelerin hiperaktiviteyi ve dürtüselliği azaltmasıdır. Yan etkiler ve izlem: iştah azalması,
-  uyku bozukluğu, baş ağrısı, kalp hızı-tansiyon artışı, büyüme hızında geçici gerileme (boy-ağırlık izlenir);
-  tik öyküsü kesin kontrendikasyon değildir, yapısal kalp hastalığı öncelikli dikkat ister; kötüye kullanım
-  riskine karşı uzun etkili formlar öne alınır. Okul öncesi dönemde ilaç öncesinde velilere uygulanan
-  davranış terapisi ilk adımdır; okul içi düzenlemeler (görev parçalama, oturma düzeni) ve bilişsel davranışçı
-  teknikler eklenir. Stimülan uygun değilse atomoksetin (etkisi haftalarca gecikir) ya da alfa-2 agonistler
-  guanfasin-klonidin (tik eşlik ettiğinde önceliklenir) seçilir; erişkinlerde ilaç artı bilişsel davranışçı
-  terapi birlikte planlanır'
-klasik_komplikasyon: Akademik başarısızlık ve özgüven düşüklüğü; muhalif inatçı bozukluk-davranış bozukluğu
-  eşlik riski; tedavi edilmeyen olgularda artan madde kullanım riski (uygun tedavi bu riski azaltır);
-  kaza-yaralanma ve riskli araç kullanımında artış; ergenlik ve erişkinlikte iş-işlev kaybı ile ilişki
-  sorunları
+ilk_tetkik: "Tanı **klinik değerlendirmeyle** konur; laboratuvar tanıyı koymaz. **Vanderbilt ve Conners** veli-öğretmen ölçekleri ve okul raporları toplanır; taklitler dışlanır: **işitme-görme muayenesi, uyku bozuklukları, tiroid fonksiyon bozuklukları, kurşun maruziyeti**; eşlik eden **muhalif inatçı bozukluk, öğrenme bozuklukları, kaygı, tik bozuklukları** taranır. **Stimülan öncesi kardiyak öykü-muayene** yapılır; bayılma-kalp hastalığı öyküsünde **EKG** istenir"
+kesin_tani: "**DSM-5-TR ölçütleri**: gelişimsel düzeye uymayan, **6 aydan uzun süren** dikkat eksikliği ve/veya hiperaktivite-dürtüsellik; **17 yaş altında en az 6, 17 yaş ve üzerinde en az 5** belirti; başlangıcın **12 yaşından önce** olması; **en az iki ortamda** bulunma; **okul-iş-sosyal işlev kaybının** kanıtlanması; tablonun duygudurum, anksiyete, kişilik bozukluğu ya da **madde etkisiyle** daha iyi açıklanamaması"
+ilk_tedavi: "**6 yaş ve üzeri okul çocuğunda ilk seçenek stimülanlardır**: **metilfenidat** (dopamin-noradrenalin geri alım inhibitörü) genellikle önce denenir, **amfetamin türevleri** alternatiftir. Yan etkiler ve izlem: **iştah azalması, uyku bozukluğu, kalp hızı-tansiyon artışı, büyüme hızında geçici gerileme** (boy-ağırlık izlenir); **tik öyküsü kesin kontrendikasyon değildir**, **yapısal kalp hastalığı** öncelikli dikkat ister; kötüye kullanım riskine karşı **uzun etkili formlar** öne alınır. **Okul öncesi dönemde ilaç öncesinde davranış terapisi** ilk adımdır; okul içi düzenlemeler ve **bilişsel davranışçı** teknikler eklenir. Stimülan uygun değilse **atomoksetin** (etkisi haftalarca gecikir) ya da **alfa-2 agonistler guanfasin-klonidin** (**tik eşlik ettiğinde** önceliklenir) seçilir"
+klasik_komplikasyon: "**Akademik başarısızlık** ve özgüven düşüklüğü; **muhalif inatçı bozukluk-davranış bozukluğu** eşlik riski; tedavi edilmeyen olgularda artan **madde kullanım riski** (uygun tedavi bu riski azaltır); **kaza-yaralanma ve riskli araç kullanımında** artış"
 tus_gecmisi:
 - tus-2016-ilkbahar-ktbt-45
 - tus-2021-ilkbahar-ktbt-45

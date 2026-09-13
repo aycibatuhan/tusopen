@@ -15,33 +15,19 @@ taksonomi:
   - kbb
   - kbb_larinks
   - kbb_lr_akut_larenjit_krup
-tipik_hasta: 6 ay ile 3 yaş arası çocuk (zirve 2 yaş civarı), sonbahar-kış döneminde; birkaç gündür nezleyen
-  çocuğun gece yarısı havlar gibi öksürük ve nefes alma güçlüğüyle uyanması klasik öyküdür
-patofizyoloji: En sık etken Parainfluenza virüsüdür (influenza, RSV ve adenovirüs de benzer tablo yapabilir);
-  virüs subglottik bölgede ödem ve mukus üretimine yol açar. Subglottik lümen çocukluk çağı havayolunun
-  en dar ve kartilajla çevrili, yani genişleyemeyen segmentidir — buradaki ödem küçük çaplı havayolda
-  ciddi direnç artışı ve inspiratuar stridor yaratır. Aynı ödem erişkinde yalnızca ses kısıklığı yaparken
-  küçük çocukta obstrüksiyona dönüşür; bu fark yaştan gelir
+tipik_hasta: "**6 ay ile 3 yaş arası** çocuk (zirve **2 yaş** civarı), **sonbahar-kış** dönemi. Birkaç gündür nezleyen çocuğun **gece yarısı havlar gibi öksürük** ve nefes alma güçlüğüyle uyanması klasik öyküdür"
+patofizyoloji: "En sık etken **Parainfluenza virüsü** (influenza, RSV, adenovirüs de yapabilir); **subglottik** bölgede **ödem ve mukus** üretimi; **Subglottik lümen** havayolunun en dar ve kartilajla çevrili, genişleyemeyen segmentidir; buradaki ödem küçük çaplı havayolda **ciddi direnç artışı** ve **inspiratuar stridor** yaratır. Aynı ödem erişkinde yalnızca **ses kısıklığı** yaparken küçük çocukta **obstrüksiyona** dönüşür; fark yaştan gelir"
 anahtar_bulgular:
-- Havlama tarzı (köpek havlamasına benzeyen) öksürüğü
-- İnspiratuar stridor; ağlama ve ajitasyonla artar, ileri tabloda istirahatte de vardır
-- Ses kısıklığı; ateş genelde düşük-orta düzeyde
-- Suprasternal ve interkostal çekilmeler; bulgular gece belirginleşir
-- İlerlemiş vakada taşikardi, siyanoz, hava girişinin azalması ve letarji (obstrüksiyonun kötüleşme işaretleri)
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Havlama öksürüğü + inspiratuar stridor + ses kısıklığı üçlüsü
-ilk_tetkik: Klinik tanıdır; rutin laboratuvar veya görüntüleme gerekmez. Röntgen çekilirse boyun ön-arka
-  grafinde subglottik daralma (steeple, kilise kulesi işareti) seçilebilir ama tanıyı kesinleştirmez veya
-  dışlamaz
-kesin_tani: 'Öykü ve muayene ile klinik tanı; ciddiyet istirahatteki stridor, çekilmeler ve hava girişine
-  göre değerlendirilir. Kritik ayırım: epiglottitte (yüksek ateş, toksik ve salyalı çocuk, yutkunamama;
-  havlama öksürüğü ve ses kısıklığı yoktur) boğaza bakılmaz; yabancı cisim ani başlangıçlıdır ve ateş
-  genelde yoktur; bakteriyel trakeitte toksik görünüm ve purulan salgı öne çıkar'
-ilk_tedavi: Hafif tablo dahil her hastaya tek doz deksametazon (oral veya intramusküler, 0.15-0.6 mg/kg);
-  orta-ağır olgularda nebulize epinefrin eklenir ve 2-3 saat gözlem yapılır. Çocuk mümkün olduğunca annesinin
-  kucağında, huzursuzlaştırılmadan değerlendirilir; hipoksemide oksijen verilir. Gözlem süresince düzelen
-  hasta taburcu edilebilir; tekrarlayan veya dirençli tabloda yatış gereklidir
-klasik_komplikasyon: İlerleyen obstrüksiyona bağlı solunum yetmezliği; stridorun sustuğu ve tükenmiş görünümlü
-  çocuğun ciddi daralmanın işareti olabilir ve entübasyon gerektirebilir
+- "**Havlama tarzı** (köpek havlamasına benzeyen) öksürük"
+- "**İnspiratuar stridor**; ağlama ve ajitasyonla artar, ileri tabloda **istirahatte de**"
+- "**Ses kısıklığı**; ateş genelde düşük-orta düzeyde"
+- "**Suprasternal ve interkostal çekilmeler**; bulgular gece belirginleşir"
+- "İlerlemiş vakada **taşikardi**, **siyanoz**, **hava girişinin azalması** ve **letarji** (obstrüksiyonun kötüleşme işaretleri)"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **havlama öksürüğü** + **inspiratuar stridor** + **ses kısıklığı** üçlüsü"
+ilk_tetkik: "**Klinik tanıdır**; rutin laboratuvar veya görüntüleme gerekmez. Röntgen çekilirse boyun ön-arka grafide **subglottik daralma (steeple işareti)** seçilebilir ama tanıyı kesinleştirmez"
+kesin_tani: "**Öykü ve muayene ile klinik tanı**; ciddiyet **istirahatteki stridor**, çekilmeler ve hava girişine göre değerlendirilir; **Epiglottit** (yüksek ateş, toksik-salyalı çocuk, yutkunamama; **havlama öksürüğü ve ses kısıklığı yok**) — boğaza bakılmaz; **Yabancı cisim** ani başlangıçlı, ateş genelde yok; **bakteriyel trakeitte** toksik görünüm ve purulan salgı öne çıkar"
+ilk_tedavi: "Hafif tablo dahil her hastaya **tek doz deksametazon** (oral/IM, **0.15-0.6 mg/kg**). Orta-ağır olgularda **nebulize epinefrin** eklenir, **2-3 saat** gözlem yapılır. Çocuk **annesinin kucağında**, huzursuzlaştırılmadan değerlendirilir; hipoksemide **oksijen**. Gözlemde düzelen hasta **taburcu edilebilir**; tekrarlayan veya dirençli tabloda **yatış**"
+klasik_komplikasyon: "İlerleyen obstrüksiyona bağlı **solunum yetmezliği**; **Stridorun sustuğu** ve **tükenmiş görünümlü** çocuk ciddi daralmanın işareti olabilir, **entübasyon** gerektirebilir"
 tus_gecmisi:
 - tus-2015-ilkbahar-ktbt-55
 - tus-2017-sonbahar-ttbt-67

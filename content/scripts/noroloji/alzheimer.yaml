@@ -12,33 +12,17 @@ taksonomi:
   - noroloji
   - noro_demans
   - noro_dm_alzheimer
-tipik_hasta: 65 yaş üzeri, sinsi başlayan ve yıllar içinde ilerleyen unutkanlıkla gelen hasta; şikayeti
-  çoğu zaman hasta değil yakınları anlatır ve hastanın kendi eksikliğinin farkında olmaması bize tanıya
-  yakın bir ipucudur; aynı soruları kısa aralıklarla tekrar eden, eşyalarını kaybeden, adları hatırlamakta
-  zorlanan hasta profili
-patofizyoloji: Amiloid beta plaklarının ekstraselüler birikimi ve hiperfosforile tau proteininden oluşan
-  nörofibriler tangleların intrasitoplazmik birikimi nöron ve sinaptik kayba yol açar; atrofi önce medial
-  temporal yapıları (hipokamp ve entorinal korteks) tutar, bu yüzden en erken kayıp yakın bellektedir;
-  ilerleyen dönemde temporoparietal kortekse yayılır ve asetilkolin eksikliği belirginleşir
+tipik_hasta: "**65 yaş üzeri**, sinsi başlayan ve yıllar içinde ilerleyen unutkanlıkla gelen hasta; şikâyeti çoğu zaman hasta değil yakınları anlatır, **kendi eksikliğinin farkında olmaması** tanıya yakın ipucudur; aynı soruları kısa aralıklarla tekrar eden, eşyalarını kaybeden, adları hatırlamakta zorlanan hasta profili"
+patofizyoloji: "**Amiloid beta plaklarının** ekstraselüler birikimi ve **hiperfosforile tau** proteininden oluşan **nörofibriler tangle**ların intrasitoplazmik birikimi nöron ve sinaptik kayba yol açar; atrofi önce **medial temporal** yapıları (hipokamp, **entorinal korteks**) tutar, en erken kayıp **yakın bellek**tedir; ilerleyen dönemde temporoparietal kortekse yayılır ve **asetilkolin eksikliği** belirginleşir"
 anahtar_bulgular:
-- 'Yakın bellek kaybı: yeni öğrenilen bilginin dakikalar içinde kaybolması, aynı soruların tekrarı'
-- Sözcük bulma güçlüğü ve adlandırma bozukluğu; konuşma içeriği ilerleyen dönemde zenginliğini yitirir
-- Yer ve zaman oryantasyonunda bozulma; tanıdık yolları bulamama
-- 'Davranışsal değişiklikler: isteksizlik, gezinme, şüpheci ve saldırgan davranış'
-- MMSE veya MoCA'da ilerleyici düşüş; MRG'de belirgin medial temporal atrofi
+- "**Yakın bellek kaybı**: yeni öğrenilen bilginin dakikalar içinde kaybolması, aynı soruların tekrarı; sözcük bulma güçlüğü ve adlandırma bozukluğu"
+- "Yer ve zaman **oryantasyon bozulması**, tanıdık yolları bulamama; davranışsal değişiklikler: isteksizlik, gezinme, şüpheci ve saldırgan davranış"
+- "**MMSE** veya **MoCA**'da ilerleyici düşüş; MRG'de belirgin **medial temporal atrofi**"
 patognomonik: null
-ilk_tetkik: 'Bilişsel tarama testi (MMSE veya MoCA) ile temel laboratuvar (B12, TSH, böbrek-karaciğer)
-  birlikte yapılır: amacı düzeltilebilir bir unutkanlık nedenini elemektir; kranyal MRG hem medial temporal
-  atrofiyi gösterir hem de kitlesel, vasküler ve normal basınçlı hidrosefali gibi taklitleri dışlar'
-kesin_tani: 'Klinik tanı: ilerleyici bilişsel kayıp öyküsü, nöropsikometrik test düşüşü ve MRG bulgularıyla
-  konur; gerektiğinde amiloid PET ve BOS biomarkerları (düşük amiloid beta, yüksek tau) destekler, kesin
-  tanı ise ancak histopatolojiktir. Vasküler demanstan ayrım: Alzheimer''da ilerleme sinsi ve sürekliyken
-  vasküler demansta basamaklı (ani kötüleşme ardından kısmi düzelme) gidiş, fokal nörolojik bulgular ve
-  MRG''de yaygın iskemik lezyonlar ön plandadır'
-ilk_tedavi: Asetilkolinesteraz inhibitörleri (donepezil, rivastigmin, galantamin); orta-ileri evrede memantin
-  eklenir; davranışsal belirtiler önce non-farmakolojik yaklaşımla, gerektiğinde düşük doz ilaçla yönetilir
-klasik_komplikasyon: İleri evrede günlük yaşam aktivitelerinde tam bağımlılık, gece-gündüz düzeninin bozulması,
-  gezinme ve aspirasyon pnömonisi; bakım verenin tükenmesi
+ilk_tetkik: "**Bilişsel tarama testi (MMSE veya MoCA)** + temel laboratuvar (**B12**, **TSH**, böbrek-karaciğer): amaç **düzeltilebilir unutkanlık nedenini** elemektir; **kranyal MRG** hem **medial temporal atrofi**yi gösterir; kitlesel, vasküler ve **normal basınçlı hidrosefali** gibi taklitleri dışlar"
+kesin_tani: "**Klinik tanı**: ilerleyici bilişsel kayıp öyküsü, **nöropsikometrik test düşüşü** ve MRG bulgularıyla konur; gerektiğinde **amiloid PET** ve **BOS biomarkerları** (düşük amiloid beta, yüksek tau) destekler, kesin tanı **histopatolojiktir**; vasküler demanstan ayrım: Alzheimer **sinsi ve sürekli** ilerlerken vasküler demansta **basamaklı gidiş**, **fokal nörolojik bulgular** ve MRG'de yaygın **iskemik lezyonlar** ön plandadır"
+ilk_tedavi: "**Asetilkolinesteraz inhibitörleri**: **donepezil**, **rivastigmin**, **galantamin**; orta-ileri evrede **memantin** eklenir. Davranışsal belirtiler önce **non-farmakolojik** yaklaşımla, gerektiğinde düşük doz ilaçla yönetilir"
+klasik_komplikasyon: "İleri evrede günlük yaşam aktivitelerinde **tam bağımlılık**, gece-gündüz düzeninin bozulması, gezinme; **aspirasyon pnömonisi**; **bakım verenin tükenmesi**"
 tus_gecmisi:
 - tus-2016-sonbahar-ttbt-39
 - tus-2018-sonbahar-ttbt-100

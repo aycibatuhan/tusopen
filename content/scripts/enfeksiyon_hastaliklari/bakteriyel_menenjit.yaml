@@ -15,42 +15,18 @@ taksonomi:
   - noroloji
   - noro_enfeksiyon
   - noro_en_bakteriyel_menenjit
-tipik_hasta: Ateş, şiddetli baş ağrısı ve ense sertliğiyle saatler-günler içinde hızla gelen; fotofobi,
-  kusma ve bilinç değişikliği eklenen; kafa travması, sinüzit-otitis komplikasyonu, nöroşirürjik operasyon
-  ya da şant, immün baskılanma veya meningokok teması öyküsü olan hasta; küçük çocukta klasik üçlü eksik
-  kalır, huzursuzluk, beslenememe ve bombeli fontanel öne çıkar
-patofizyoloji: Etkenler nazofarenks mukozasında kolonize olduktan sonra kan dolaşımına geçer ve subaraknoid
-  aralığa ulaşır; buraya ya hematojen yolla ya da komşu odaklardan (sinüzit, otitis, baziller kafa kırığı,
-  operasyon, şant) doğrudan geçer. Subaraknoid aralıkta artan inflamatuvar yanıt beyin zarı hasarı, artmış
-  intrakraniyal basınç ve serebral damarların vazospazmı-trombozuyla iskemi yapar; bölgenin konak savunması
-  zayıf olduğundan bakteri BOS içinde hızla çoğalır
+tipik_hasta: "Ateş, şiddetli baş ağrısı ve ense sertliğiyle saatler-günler içinde hızla gelen; fotofobi, kusma ve bilinç değişikliği eklenen hasta; kafa travması, sinüzit-otitis komplikasyonu, nöroşirürjik operasyon ya da şant, immün baskılanma veya meningokok teması öyküsü riski artırır; küçük çocukta üçlü eksik kalır, huzursuzluk, beslenememe ve **bombeli fontanel** öne çıkar"
+patofizyoloji: "Etken **nazofarenks** mukozasında kolonize olup kan dolaşımıyla **subaraknoid aralığa** ulaşır; komşu odaklardan (sinüzit, otitis, **baziller kafa kırığı**, operasyon, şant) doğrudan da geçer; inflamatuvar yanıt beyin zarı hasarı ve **intrakraniyal basınç artışı** yapar; konak savunması zayıf olduğundan bakteri BOS'ta hızla çoğalır"
 anahtar_bulgular:
-- Ateş, baş ağrısı, ense sertliği üçlüsü; Kernig ve Brudzinski işaretleri, fotofobi, kusma
-- Bilinç değişikliği ve konvulsiyon; peteşik-purpurik döküntü meningokoksemiyi düşündürür
-- 'BOS: bulanık görünüm, yüksek açılış basıncı, nötrofil ağırlıklı belirgin pleositoz (çoğunlukla hücre
-  sayısı binin üstünde), protein yüksekliği, glukozun düşük olması (BOS-plazma oranı 0.4''ün altı)'
-- 'Yaşa ve duruma göre etkenler: yenidoğan ve ilk aylarda Grup B streptokok ve E. coli; 1 ay-6 yaş arasında
-  H. influenzae tip b (aşıyla azaldı); okul çağı ve genç erişkinde N. meningitidis; erişkinde en sık S.
-  pneumoniae; kafa travması ya da BOS fistülünde S. pneumoniae; şant sonrası Staphylococcus epidermidis;
-  immün baskılanma ve 50 yaş üstünde Listeria monocytogenes'
-- Kan kültürü pozitifliği (vakaların bir bölümünde); PCR hızlı etken tayini sağlar
-- Kanda lökositoz ve CRP yüksekliği; erken komplikasyon belirtileri olarak tekrarlayan kusma, artan uyku
-  hali ve baş çevresi büyümesi (subdural efüzyonu düşündürür)
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Peteşik-purpurik döküntüyle birlikte seyreden menenjit tablosu (meningokok); kesin tanı
-  her zaman BOS'ta etkenin gösterilmesiyle konur
-ilk_tetkik: Kan kültürü alındıktan sonra hiç gecikmeden ampirik antibiyotik başlanır; lomber ponksiyonla
-  BOS analizi yapılır. Fokal nörolojik bulgu, papilödem, belirgin bilinç bozukluğu, konvulsiyon ya da
-  nötropenide ponksiyon öncesi BT gereklidir
-kesin_tani: BOS'ta nötrofil ağırlıklı püy tipi pleositoz, yüksek protein ve düşük glukozla uyumlu klinik
-  tablo; Gram boyama, kültür veya PCR ile etkenin saptanması
-ilk_tedavi: 'Kültür sonrası gecikmeden ampirik tedavi: seftriakson veya sefotaksim ve vankomisin; Listeria
-  olasılığı olanlarda (50 yaş üstü, immün baskılanma, yenidoğan) ampisilin eklenir. Deksametazon lomber
-  ponksiyondan hemen önce ya da birlikte başlanır (10 mg, altı saatte bir, dört gün) ve özellikle pnömokok
-  menenjitinde işitme kaybı gibi sekelleri azaltır; antibiyotik başlandıktan sonra başlanırsa yararı kalmaz.
-  Yenidoğanda seftriakon yerine sefotaksim tercih edilir (ampisilinle birlikte)'
-klasik_komplikasyon: İşitme kaybı (en sık sekel; pnömokokta öne çıkar), hidrosefalus, serebral venöz tromboz
-  ve infarkt, subdural efüzyon-ampiyem, epilepsi; meningokoksemide adrenal kanamayla giden Waterhouse-Friderichsen
-  sendromu
+- "Ateş, baş ağrısı, ense sertliği üçlüsü; **Kernig** ve **Brudzinski** işaretleri; bilinç değişikliği; **peteşik-purpurik döküntü** meningokoksemiyi düşündürür"
+- "BOS: bulanık görünüm, yüksek açılış basıncı, **nötrofil ağırlıklı pleositoz** (çoğunlukla **1000'in üstü**), protein yüksekliği, glukoz düşük (**BOS-plazma oranı 0,4'ün altı**)"
+- "Yenidoğan ve ilk aylar: **Grup B streptokok** ve **E. coli**; 1 ay-6 yaş: **H. influenzae tip b** (aşıyla azaldı); okul çağı ve genç erişkin: **N. meningitidis**"
+- "Erişkinde en sık **S. pneumoniae** (kafa travması ve BOS fistülünde de); şant sonrası **S. epidermidis**; immün baskılanma ve **50 yaş üstünde Listeria monocytogenes**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **peteşik-purpurik döküntü**yle seyreden menenjit tablosu (meningokok); kesin tanı her zaman BOS'ta etkenin gösterilmesiyle konur"
+ilk_tetkik: "**Kan kültürü** alındıktan sonra hiç gecikmeden ampirik antibiyotik başlanır; **lomber ponksiyon**la BOS analizi yapılır. Fokal nörolojik bulgu, papilödem, belirgin bilinç bozukluğu, konvülsiyon ya da nötropenide ponksiyon öncesi **BT** gereklidir"
+kesin_tani: "BOS'ta **nötrofil ağırlıklı püy tipi pleositoz**, yüksek protein ve düşük glukozla uyumlu klinik tablo; **Gram boyama**, kültür veya **PCR** ile etkenin saptanması"
+ilk_tedavi: "Kültür sonrası gecikmeden ampirik tedavi: **seftriakson** veya **sefotaksim** ve **vankomisin**; **Listeria** olasılığı olanlarda (**50 yaş üstü**, immün baskılanma, yenidoğan) **ampisilin** eklenir; **Deksametazon** **lomber ponksiyondan hemen önce** başlanır (**10 mg**, altı saatte bir, dört gün), antibiyotikten sonra yararı kalmaz, **pnömokok sekellerini** azaltır; yenidoğanda **sefotaksim** tercih edilir (seftriakson yerine, ampisilinle birlikte)"
+klasik_komplikasyon: "**İşitme kaybı** (en sık sekel, pnömokokta öne çıkar); hidrosefalus, **serebral venöz tromboz** ve infarkt, subdural efüzyon-ampiyem, epilepsi. Meningokoksemide adrenal kanamayla **Waterhouse-Friderichsen sendromu**"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-24
 - tus-2014-ilkbahar-ktbt-2

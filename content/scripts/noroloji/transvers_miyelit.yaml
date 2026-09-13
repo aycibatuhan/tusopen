@@ -12,44 +12,20 @@ taksonomi:
   - noroloji
   - noro_omurilik
   - noro_om_miyelit
-tipik_hasta: Genç erişkinde, birkaç gün ile birkaç hafta içinde bacaklarda ilerleyen kuvvet kaybı, göğüs
-  veya bel çevresinde bant tarzı sarıcı ağrı ve idrar tutulması ile başvuran hasta; öyküde 2-4 hafta önce
-  solunum veya sindirim yolu infeksiyonu, aşı ya da gebelik olabilir; çok odaklı veya tekrarlayıcı tablolarda
-  nöromiyelitis optika ve sistemik hastalıklar akılda tutulur
-patofizyoloji: Omuriliğin belirli bir segmentinde (en sık torakal) immün aracılı inflamasyon; miyelin
-  ve giderek akson kaybıyla lokalize hasar alanı oluşur ve bu düzeyin altındaki tüm yollar işlevini yitirir.
-  Postinfeksiyöz moleküler benzetme klasik açıklamadır; Aquaporin-4 veya miyelin oligodendrosit glikoprotein
-  antikorları pozitif hastalarda lezyon daha uzun ve gri madde ağırlıklıdır, multipl sklerozun kısa periferik
-  yerleşimli lezyonlarından bu özelliklerle ayrılır
+tipik_hasta: "Genç erişkinde **birkaç gün-birkaç hafta** içinde bacaklarda ilerleyen **kuvvet kaybı**, göğüs-bel çevresinde **bant tarzı sarıcı ağrı** ve **idrar tutulması**. Öyküde **2-4 hafta önce** **solunum veya sindirim yolu infeksiyonu**, **aşı** ya da **gebelik** olabilir; **Çok odaklı veya tekrarlayıcı** tablolarda **nöromiyelitis optika** ve **sistemik hastalıklar** akılda tutulur"
+patofizyoloji: "Omuriliğin belirli bir segmentinde (en sık **torakal**) **immün aracılı inflamasyon**; **miyelin ve giderek akson kaybıyla** lokalize hasar, düzeyin **altındaki tüm yollar** işlevini yitirir; **Postinfeksiyöz moleküler benzetme** klasik açıklama; **Aquaporin-4** veya **MOG** antikor pozitiflerinde lezyon **daha uzun ve gri madde ağırlıklı** — **multipl skleroz**un **kısa periferik** lezyonlarından ayrılır"
 anahtar_bulgular:
-- 'Duyu düzeyi: gövde çevresinde kesin bir sınır çizgisi; sınırın altında dokunma, ağrı, ısı ve pozisyon
-  duyusunun tümü kayıp, üstünde normal'
-- 'Bacaklarda kuvvet kaybı: ilk saatlerde flasid görünebilir, günler içinde spastik üst motor nöron görünümüne
-  döner; pozitif Babinski'
-- 'Sfinkter tutulumu: idrar retansiyonu ve kabızlık; hastanın ilk şikayeti bazen hiç idrar yapamamaktır'
-- Düzeye denk gelen bant tarzı ağrı ve sırt-bel ağrısıyla ağrılı başlangıç
-- Servikal tutulumda dört ekstremite kuvvet kaybı ve diyafram riskiyle solunum yetmezliği
-- Lomber ponksiyonda hafif pleositoz ve protein artışı; oligoklonal bantlar genelde yoktur (multipl sklerozun
-  tersine)
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Kesin duyu düzeyi: gövdede belirgin bir hizada altındaki tüm duyu modalitelerinin kaybı;
-  MRG''de aynı düzeye denk gelen iki vertebra segmentinden uzun, santral yerleşimli, kontrastlanan omurilik
-  lezyonu'
-ilk_tetkik: 'Kontrastlı omurilik MRG (torakal ve servikal): T2''de iki vertebra segmentinden uzun, santral
-  yerleşimli, kontrastlanan lezyon. Aynı gün beyin MRG (multipl skleroz lezyonlarını araştırmak için),
-  lomber ponksiyon ve serum Aquaporin-4 ile MOG antikorları; idrar retansiyonunda rezidü üriner volüm
-  ölçümü'
-kesin_tani: Akut-subakut başlangıçlı çift taraflı motor, duyusal ve sfinkter bozukluğu artı duyu düzeyi;
-  MRG'de inflamatuvar omurilik lezyonu ve CSF'de pleositoz-protein artışı; infeksiyöz (herpes virüsleri,
-  nörosifiliz, borreliyoz), kompresif (epidural abse, ekstramedüller tümör) ve sistemik (lupus, sarkoidoz,
-  Behçet) nedenler dışlanır. Aquaporin-4 antikoru pozitifse tablo nöromiyelitis optika spektrumuna ait
-  kabul edilir
-ilk_tedavi: 'Yüksek doz intravenöz metilprednizolon (günde 1 g, 3-5 gün): mantığı immün aracılı ödemi
-  ve inflamasyonu hızla bastırıp ikincil akson kaybını azaltmaktır; yanıt yoksa veya tablo ağır seyrediyorsa
-  plazmaferez (özellikle Aquaporin-4 pozitiflerde) veya intravenöz immünglobulin. Nöromiyelitis optika
-  spektrumu tanımlanmışsa uzun dönemde rituksimab veya azatioprin ile immünosupresyon; idrar retansiyonunda
-  aralıklı kateterizasyon, tromboz profilaksisi ve erken rehabilitasyon'
-klasik_komplikasyon: Kalıcı parapleji ve spastisite, nöropatik ağrı, nörojenik mesane ve tekrarlayan üriner
-  infeksiyonlar; nöromiyelitis optika spektrumunda tekrarlayan optik nörit ve miyelit atakları
+- "**Duyu düzeyi**: gövde çevresinde **kesin sınır çizgisi**; sınırın altında **dokunma, ağrı, ısı, pozisyon** tümü kayıp, üstünde normal"
+- "**Bacaklarda kuvvet kaybı**: ilk saatlerde **flasid**, günler içinde **spastik üst motor nöron** görünümüne döner; **pozitif Babinski**"
+- "**Sfinkter tutulumu**: **idrar retansiyonu** ve **kabızlık**; ilk şikâyet bazen **hiç idrar yapamamak**tır"
+- "**Düzeye denk gelen bant tarzı ağrı** ve **sırt-bel ağrısı**yla ağrılı başlangıç"
+- "**Servikal tutulum**da **dört ekstremite** kuvvet kaybı ve **diyafram** riskiyle **solunum yetmezliği**"
+- "**LP**'de hafif **pleositoz** ve **protein artışı**; **oligoklonal bantlar genelde yoktur** (multipl sklerozun tersine)"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **kesin duyu düzeyi** — gövdede belirgin bir hizada altındaki tüm modalitelerin kaybı; **MRG'de aynı düzeye denk gelen iki vertebra segmentinden uzun, santral, kontrastlanan lezyon**"
+ilk_tetkik: "**Kontrastlı omurilik MRG** (torakal-servikal): **T2'de iki vertebra segmentinden uzun, santral, kontrastlanan lezyon**. Aynı gün **beyin MRG** (MS lezyonları için), **LP** ve serum **Aquaporin-4** ile **MOG antikorları**; **idrar retansiyonunda rezidü üriner volüm**"
+kesin_tani: "**Akut-subakut çift taraflı motor, duyusal ve sfinkter bozukluğu** + **duyu düzeyi**; MR'da **inflamatuvar omurilik lezyonu**, **BOS'ta pleositoz-protein**; **İnfeksiyöz** (**herpes virüsleri**, **nörosifiliz**, **borreliyoz**), **kompresif** (**epidural abse**, **ekstramedüller tümör**), **sistemik** (**lupus**, **sarkoidoz**, **Behçet**) dışlanır; **Aquaporin-4 pozitifse** tablo **nöromiyelitis optika spektrumuna** ait kabul edilir"
+ilk_tedavi: "**Yüksek doz IV metilprednizolon (günde 1 g, 3-5 gün)** — immün ödemi ve inflamasyonu bastırıp **ikincil akson kaybını** azaltır; **Yanıt yoksa veya ağır** seyirde **plazmaferez** (özellikle **Aquaporin-4 pozitiflerde**) veya **IV immünglobulin**; **NMS tanımlıysa** uzun dönemde **rituksimab** veya **azatioprin** ile **immünosupresyon**; **İdrar retansiyonunda aralıklı kateterizasyon**, **tromboz profilaksisi**, **erken rehabilitasyon**"
+klasik_komplikasyon: "**Kalıcı parapleji** ve **spastisite**, **nöropatik ağrı**, **nörojenik mesane** ve **tekrarlayan üriner infeksiyonlar**; **NMS**de **tekrarlayan optik nörit** ve **miyelit** atakları"
 tus_gecmisi:
 - tus-2019-sonbahar-ktbt-34
 kart_uret:

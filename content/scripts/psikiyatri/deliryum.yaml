@@ -12,54 +12,19 @@ taksonomi:
   - psikiyatri
   - psik_norokognitif
   - psik_nk_deliryum
-tipik_hasta: 'Hastanede yatan, özellikle yoğun bakım ve ameliyat sonrası dönemde izlenen yaşlı hasta;
-  altta yatan demans, duyusal kusur (görme-işitme kaybı), polifarmasi, kontrolsüz ağrı, dehidratasyon,
-  malnütrisyon ve kateter-kanül gibi girişimsel gerginlik kaynakları bu hastayı hatırlatır. Toplumdan
-  da başvurabilir: ani başlayan konfüzyonlu hastada enfeksiyon, metabolik bozukluk, ilaç-madde etkisi
-  ya da kesilmesi öncelikle aranır. Akşam saatlerinde kötüleşme (günbatımı) ve görsel halüsinasyonlar
-  tanıyı yaklaştırır'
-patofizyoloji: 'Akut ve çoğunlukla geri dönen bir genel tıbbi nedenin beyin işlevlerini doğrudan bozmasıdır:
-  asetilkolin azalması ve dopaminin görece artışı, sirkadiyen ritmin bozulması, inflamatuvar sitokinler,
-  hipoksi, elektrolit ve glukoz bozuklukları bilinç-dikkat ağlarını kapatır. Kan-beyin bariyerinin yaşla
-  geçirgenleşmesi ve azalmış nöronal yedek kapasite, yaşlıyı ve demanslı hastayı özellikle savunmasız
-  kılar; antikolinerjikler, opioidler ve benzodiazepinler başlıca ilaç suçlularıdır'
+tipik_hasta: "Hastanede yatan, özellikle **yoğun bakım ve ameliyat sonrası** dönemde izlenen yaşlı hasta; **altta yatan demans, duyusal kusur, polifarmasi, kontrolsüz ağrı, dehidratasyon** ve kateter-kanül bu hastayı hatırlatır. Toplumdan da başvurabilir: ani konfüzyonlu hastada **enfeksiyon, metabolik bozukluk, ilaç-madde etkisi ya da kesilmesi** öncelikle aranır. **Akşam kötüleşme (günbatımı)** ve **görsel halüsinasyonlar** tanıyı yaklaştırır"
+patofizyoloji: "Akut ve çoğunlukla geri dönen **genel tıbbi nedenin** beyin işlevlerini doğrudan bozmasıdır; **asetilkolin azalması ve dopaminin görece artışı**, **sirkadiyen ritmin bozulması**, inflamatuvar sitokinler, hipoksi, elektrolit-glukoz bozuklukları bilinç-dikkat ağlarını kapatır. **Kan-beyin bariyerinin yaşla geçirgenleşmesi** ve **azalmış nöronal yedek** yaşlıyı-demanslıyı savunmasız kılar; **antikolinerjikler, opioidler ve benzodiazepinler** başlıca ilaç suçlularıdır"
 anahtar_bulgular:
-- 'Akut başlangıç ve gün içinde dalgalanan seyir: belirtiler saatler-günler içinde gelişir, saat saat
-  açılıp kapanır, akşam saatlerinde kötüleşir'
-- 'Dikkat bozukluğu tanının omurgasıdır: hastanın dikkati toplaması, soruları izlemesi, basit dikkat testlerini
-  yapması güçleşir'
-- 'Çevre bilincinde azalma: yer-yön-zaman-kişi oryantasyonunda bozulma, hayalci görünüm, görsel halüsinasyonlar
-  ve geçici sanrılar; uyku-uyanıklık ritmi bozulur'
-- 'İki psikomotor yüz: ajite-hiperaktif tip çabuk fark edilir; durgun-hipoaktif tip en tehlikeli ve en
-  sık gözden kaçandır'
-- Duygusal labilite, korku-ajitasyon, davranış bozukluğu; altta yatan nedenin işaretleri (ateş, enfeksiyon
-  odağı, ilaç değişikliği, kalp yetmezliği) aranır
+- "**Akut başlangıç ve gün içinde dalgalanan seyir**: saatler-günler içinde gelişir, saat saat açılıp kapanır, **akşam saatlerinde kötüleşir**"
+- "**Dikkat bozukluğu tanının omurgasıdır**: dikkati toplama, soruları izleme, basit dikkat testleri güçleşir"
+- "**Çevre bilincinde azalma**: yer-yön-zaman-kişi **oryantasyon bozulması**, **görsel halüsinasyonlar** ve geçici sanrılar; **uyku-uyanıklık ritmi** bozulur"
+- "İki psikomotor yüz: **ajite-hiperaktif** tip çabuk fark edilir; **durgun-hipoaktif tip en tehlikeli ve en sık gözden kaçandır**"
+- "Duygusal labilite, korku-ajitasyon; altta yatan nedenin işaretleri (**ateş, enfeksiyon odağı, ilaç değişikliği**) aranır"
 patognomonik: null
-ilk_tetkik: 'İlk iş nedeni bulmaktır; deliryum bir tanı değil, bir kriz halidir. Yatak başında: yaşamsal
-  bulgular, oksijen satürasyonu, kan şekeri, ağrı ve idrar retansiyonu kontrolü; ilaç listesinin baştan
-  gözden geçirilmesi (yeni eklenenler, antikolinerjikler, opioidler, benzodiazepinler). Tetkik paketi:
-  tam kan sayımı, elektrolitler (sodyum, kalsiyum), glukoz, böbrek-karaciğer fonksiyonları, TSH, B12,
-  idrar analizi-kültürü, kan kültürleri, EKG; kuşku varsa kan gazı, toksikolojik tarama ve beyin görüntülemesi
-  eklenir. Demans üzerine binen deliryum, akut-dalgalı niteliği ve dikkat bozukluğuyla demansın kronik
-  gidişinden ayrışır'
-kesin_tani: 'DSM-5-TR ölçütleri: A) dikkati yönlendirme-odaklama-sürdürmede bozulma ve çevre bilincinde
-  azalma; B) tablonun saatler-günler içinde gelişmesi, hastanın taban çizgisinden ayrışması ve gün içinde
-  dalgalanması; C) dikkat dışında bellek, oryantasyon, dil, algı ya da görsel-mekânsal bilişte ek bozulma;
-  D) bozukluk, önceden var olan demansın kendi gidişi ya da ağır bilinç kapısı (koma) gibi başka bir nedenle açıklanamaz (madde kesilmesi/intoksikasyonu dahil tıbbi nedenler deliryumun etyolojisidir); E) bir genel tıbbi durumun, maddenin ya da ikisinin birleşiminin doğrudan fizyolojik
-  sonucu. Alkol kesilmesi kaynaklı deliryum tremens ayrı bir acil tablodur: otonomik hiperaktivite ve
-  halüsinasyonlarla seyreder ve tedavisi benzodiazepinle yapılır'
-ilk_tedavi: 'Önce neden tedavi edilir: enfeksiyon, metabolik bozukluk, ilaç etkisi, retansiyon, ağrı ve
-  hipoksi hızla düzeltilir. Çevre yönetimi ilaçtan önce gelir: oda ışığının gündüz-gece ritmine uyarlanması,
-  saat-takvim-yön bilgilerinin görünür yerde tutulması, gözlük-işitme cihazının takılması, aile yakınının bulundurulması,
-  gereksiz kateter-monitörlerin çıkarılması, erken mobilizasyon ve ağrı kontrolü; bağlama (restriksiyon)
-  son çare ve tabloyu ağırlaştırır. Ajitasyon hastayı ya da ekibi tehlikeye attığında düşük doz antipsikotik
-  kısa süre düşünülür — buradaki mantık deliryumu iyileştirmek değil güvenliği sağlamaktır; haloperidol
-  klasik seçenektir, ekstrapiramidal riski düşük olan; istenirse kuetiapin gibi atipikler kullanılır; QT uzaması
-  ve yaşlı-demans hastada inme-mortalite uyarısı dikkate alınır, Parkinson-Lewy cisimcikli hastada antipsikotikten
-  kaçınılır. Alkol kesilmesi kaynaklı tabloda ilk seçenek antipsikotik değil benzodiazepindir'
-klasik_komplikasyon: Tedavisiz uzayan deliryumda düşme, aspirasyon, dekübit ve beslenme bozukluğu; yoğun
-  bakımda mortalite ve mekanik ventilasyon süresinde artış, hastanede kalışın uzaması; altta yatan ölümcül
-  nedenin (sepsis, miyokard infarktüsü) gecikmesi; deliryum sonrası demans ve kalıcı bilişsel kayıp
+ilk_tetkik: "İlk iş **nedeni bulmaktır**; deliryum bir tanı değil, **bir kriz halidir**. Yatak başında: yaşamsal bulgular, **oksijen satürasyonu, kan şekeri, ağrı, idrar retansiyonu** kontrolü; **ilaç listesinin baştan gözden geçirilmesi** (**antikolinerjikler, opioidler, benzodiazepinler**). Tetkik paketi: **tam kan sayımı, elektrolitler (sodyum, kalsiyum), glukoz, böbrek-karaciğer, TSH, B12, idrar analizi-kültürü, EKG**; kuşkuda **toksikolojik tarama ve beyin görüntülemesi**. Demans üzerine binen deliryum **akut-dalgalı niteliği ve dikkat bozukluğuyla** demansın kronik gidişinden ayrışır"
+kesin_tani: "**DSM-5-TR ölçütleri**: **dikkati yönlendirme-odaklama-sürdürmede bozulma + çevre bilincinde azalma**; tablonun **saatler-günler içinde** gelişip **gün içinde dalgalanması**. **Bellek, oryantasyon, dil, algı ya da görsel-mekânsal bilişte ek bozulma**; önceden var olan demansın kendi gidişi ya da **koma** ile açıklanamaz. Bir **genel tıbbi durumun, maddenin** ya da ikisinin birleşiminin doğrudan fizyolojik sonucu. **Alkol kesilmesi kaynaklı deliryum tremens** ayrı bir acil tablodur: **otonomik hiperaktivite + halüsinasyon**; tedavisi **benzodiazepinle** yapılır"
+ilk_tedavi: "Önce **neden tedavi edilir**: enfeksiyon, metabolik bozukluk, ilaç etkisi, retansiyon, ağrı ve hipoksi hızla düzeltilir. **Çevre yönetimi ilaçtan önce gelir**: ışığın gündüz-gece ritmi, **saat-takvim-yön bilgileri**, **gözlük-işitme cihazı**, aile yakını, gereksiz kateter-monitörlerin çıkarılması; **bağlama son çaredir ve tabloyu ağırlaştırır**. Ajitasyon tehlikeye dönüşünce **düşük doz antipsikotik** kısa süre düşünülür — **haloperidol** klasik seçenek, **kuetiapin** alternatif; **QT uzaması** ve **Parkinson-Lewy cisimcikli** hastada antipsikotikten kaçınılır. **Alkol kesilmesi kaynaklı** tabloda ilk seçenek antipsikotik değil **benzodiazepindir**"
+klasik_komplikasyon: "Tedavisiz uzayan deliryumda **düşme, aspirasyon, dekübit ve beslenme bozukluğu**; **yoğun bakımda mortalite ve mekanik ventilasyon süresinde artış**; **deliryum sonrası demans** ve kalıcı bilişsel kayıp"
 tus_gecmisi:
 - tus-2015-ilkbahar-ktbt-29
 - tus-2016-ilkbahar-ktbt-29

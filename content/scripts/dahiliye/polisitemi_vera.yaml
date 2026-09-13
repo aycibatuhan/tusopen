@@ -11,37 +11,35 @@ taksonomi:
   - dahiliye
   - dah_hematoloji
   - dah_hem_polisitemi
-tipik_hasta: Orta-ileri yaş hasta; yüzde kızarık görünüm (plethora), su teması sonrası kaşıntı (akuajenik
-  pruritus), el-ayak yanması ve kızarması (eritromelalji) şikâyetleri; açıklanamayan tromboz (özellikle
-  hepatik ve portal ven, serebral venöz sinüs, derin ven trombozu) ya da dalak büyümesi olan; gut atağıyla
-  gelen hasta
-patofizyoloji: JAK2 V617F mutasyonu (hastaların yüzde 95'inden fazlasında; kalanlarda JAK2 ekson 12 mutasyonu)
-  eritropoietin reseptörü dâhil sitokin reseptörlerini bağımsız olarak devamlı aktive eder; kemik iliğinde
-  eritroid, granülositer ve megakaryositik dizilerde proliferasyon. Artan eritrosit kütlesi kan viskozitesini
-  yükseltir; trombosit fonksiyon bozukluğu hem tromboza hem kanamaya katkı verir. İlerleyen yıllarda post-polisitemik
-  miyelofibrozis ve nadiren akut miyeloid lösemeye dönüşüm
+tipik_hasta: 'Orta-ileri yaş hasta; yüzde kızarık görünüm (**plethora**), su teması sonrası **kaşıntı
+  (akuajenik pruritus)**, el-ayak yanması ve kızarması (**eritromelalji**). Açıklanamayan **tromboz** (hepatik
+  ve portal ven, serebral venöz sinüs) ya da **dalak büyümesi**; **gut** atağıyla gelen'
+patofizyoloji: '**JAK2 V617F** mutasyonu (yüzde 95in üstünde; kalanlarda **JAK2 ekson 12**), **eritropoietin
+  reseptörü** dahil sitokin reseptörlerini bağımsız aktive eder. Kemik iliğinde **eritroid, granülositer
+  ve megakaryositik** proliferasyon. Artan **eritrosit kütlesi** kan viskozitesini yükseltir; **trombosit
+  fonksiyon bozukluğu** hem tromboza hem kanamaya katkı verir. İlerleyen yıllarda **post-polisitemik miyelofibrozis**,
+  nadiren **akut miyeloid lösemi**ye dönüşüm'
 anahtar_bulgular:
-- 'Hemoglobin ve hematokrit yüksekliği (WHO 2016 majör ölçüt: erkekte hemoglobin 16,5, kadında 16,0 g/dL
-  üzeri ya da hematokrit yüzde 49/48 üzeri)'
-- JAK2 V617F (ya da ekson 12) mutasyonu pozitifliği
-- Serum eritropoietin düzeyi düşük (sekonder polisitemide normal ya da yüksek; ayırıcı anahtar)
-- Splenomegali
-- Akuajenik kaşıntı, eritromelalji, yüzde plethora; yüksek ürik asit ve gut atakları
-- 'Tromboz eğilimi: hepatik ven (Budd-Chiari), portal ven, serebral venöz sinüs trombozu'
+- '**Hemoglobin/hematokrit** yüksekliği (WHO 2016 majör ölçüt: erkekte **16,5**, kadında **16,0 g/dL** üzeri
+  ya da hematokrit **yüzde 49/48** üzeri)'
+- '**JAK2 V617F** (ya da **ekson 12**) mutasyonu pozitifliği'
+- 'Serum **eritropoietin** düzeyi düşük (sekonder polisitemide normal ya da yüksek; **ayırıcı anahtar**)'
+- '**Splenomegali**'
+- '**Akuajenik kaşıntı**, **eritromelalji**, yüzde **plethora**; yüksek **ürik asit** ve **gut** atakları'
+- '**Tromboz** eğilimi: **hepatik ven (Budd-Chiari)**, portal ven, **serebral venöz sinüs** trombozu'
 patognomonik: null
-ilk_tetkik: Tam kan sayımı (hemoglobin/hematokrit) ve serum eritropoietin düzeyi; abdominal ultrasonografide
-  dalak boyutu; JAK2 mutasyon araştırması; gerçek polisitemiyi sekonder nedenlerden (kronik hipoksi, uyku
-  apnesi, karbon monoksit, renal kist/tümör) ayırt etmek için sigara ve hipoksi öyküsü
-kesin_tani: WHO 2016 ölçütlerine göre üç majörün (hemoglobin/hematokrit yükselmesi, kemik iliğinde
-  panmiyeloziyle hiperellülarite, JAK2 mutasyonu) birlikte bulunması ya da ilk iki majörle birlikte tek
-  minör ölçütün (serum eritropoietin düzeyinin subnormal olması) tanıyı koyar; endojen eritroid koloni
-  testi artık ölçüt değildir
-ilk_tedavi: 'Hematokritin yüzde 45 altında tutulması amaçlanır: flebotomi temel tedavidir (350-500 mL, 1-2 haftada bir; hedef hematokrit yüzde 45 altı).
-  Düşük doz aspirin tromboz ve mikrovasküler semptomları azaltır; yüksek tromboz riski ya da flebotomiyle
-  kontrol edilemeyen hastada sitoreduktif tedavi: hidroksiüre ilk seçim, 60 yaş altında ve gebelik planında
-  interferon-alfa; dirençte ruxolitinib (JAK2 inhibitörü). Hiperürisemide allopurinol'
-klasik_komplikasyon: Hepatik ve serebral venöz tromboz; post-polisitemik miyelofibrozis; nadiren akut
-  miyeloid lösemeye dönüşüm
+ilk_tetkik: 'Tam kan sayımı (**hemoglobin/hematokrit**) ve serum **eritropoietin** düzeyi; abdominal ultrasonda
+  **dalak boyutu**; **JAK2** mutasyon araştırması. Sekonder nedenlerden ayırım: **sigara ve hipoksi öyküsü**
+  (kronik hipoksi, uyku apnesi, karbon monoksit, renal kist/tümör)'
+kesin_tani: 'WHO 2016: üç **majör**ün birlikteliği ya da ilk iki majörle tek **minör** tanıyı koyar. Majörler:
+  **hemoglobin/hematokrit** yükselmesi, kemik iliğinde **panmiyeloziyle hiperellülarite**, **JAK2** mutasyonu;
+  minör: **serum eritropoietin** subnormal. **Endojen eritroid koloni** testi artık ölçüt değil'
+ilk_tedavi: 'Hematokrit **yüzde 45** altında tutulur: **flebotomi** temel tedavidir (**350-500 mL**, 1-2
+  haftada bir). **Düşük doz aspirin** tromboz ve mikrovasküler semptomları azaltır. Yüksek tromboz riskli
+  ya da flebotomiyle kontrolsüz hastada **sitoreduktif**: **hidroksiüre** ilk seçim, **60 yaş altında**
+  ve gebelik planında **interferon-alfa**, dirençte **ruxolitinib**. Hiperürisemide **allopurinol**'
+klasik_komplikasyon: '**Hepatik ve serebral venöz tromboz**; **post-polisitemik miyelofibrozis**; nadiren
+  **akut miyeloid lösemi**ye dönüşüm'
 tus_gecmisi:
 - tus-2019-ilkbahar-ttbt-94
 - tus-2022-ilkbahar-ttbt-82

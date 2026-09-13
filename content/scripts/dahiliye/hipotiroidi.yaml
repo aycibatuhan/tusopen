@@ -7,19 +7,19 @@ sources:
 ad: Hipotiroidi
 taksonomi:
   - [ktbt, dahiliye, dah_endokrinoloji, dah_end_hipotiroidi]
-tipik_hasta: "Orta yaşlı kadın; haftalarca süren yorgunluk, soğuğa katlanamama, kilo alma, kabızlık ve adet kanamalarında artışla başvurur; geçmiş tiroid cerrahisi, radyoaktif iyot tedavisi veya lityum/amiodaron kullanımı öyküsü de bu işlev bozukluğunun zeminini hazırlar"
-patofizyoloji: "En sık neden Hashimoto tiroiditidir: hücre aracılı otoimmün yıkımla foliküller yok olur, anti-TPO ve anti-tiroglobülin antikorları işaretçidir. Yıkılan doku hormon üretemez; kanda serbest T4 düşer, hipofiz geri beslemesini kaldırıp TSH yükseltir. TSH yüksek ama serbest T4 normal ise tablo subklinik hipotiroididir; hipofiz/hipotalamus kaynaklı santral tiplerde ise TSH düşük veya normaldir — bu ayrım tedaviyi de değiştirir"
+tipik_hasta: "Orta yaşlı **kadın**; haftalarca süren **yorgunluk**, **soğuğa katlanamama**, **kilo alma**, **kabızlık** ve adet kanamalarında artışla başvurur. Geçmiş **tiroid cerrahisi**, **radyoaktif iyot** tedavisi veya **lityum/amiodaron** kullanımı öyküsü zemin hazırlar"
+patofizyoloji: "En sık neden **Hashimoto tiroiditi**: hücre aracılı otoimmün yıkım; **anti-TPO** ve **anti-tiroglobülin** antikorları işaretçidir. Yıkılan doku hormon üretemez; serbest **T4** düşer, hipofiz geri beslemeyi kaldırıp **TSH**yi yükseltir. **TSH** yüksek ama serbest T4 normal: **subklinik hipotiroidi**; hipofiz/hipotalamus kaynaklı **santral** tiplerde TSH düşük veya normaldir"
 anahtar_bulgular:
-  - "Serum TSH yüksekliği ile serbest T4 düşüklüğü (birincil hipotiroidi mantığı)"
-  - "Anti-TPO antikor pozitifliği (Hashimoto'da)"
-  - "Soğuğa intolerans, kilo alma, kabızlık, cilt kuruluğu, saç dökülmesi"
-  - "Nabız yavaşlaması (bradikardi), kaba ses, reflekslerin gevşeme evresinin uzaması"
-  - "Göz çevresinde ve el üstünde bası izi bırakmayan (nonpitting) miksödem; göz kaşlarının dış kısmında seyrelme"
-  - "LDL kolesterol yüksekliği ve hafif anemi (laborda çıkan ipuçları)"
+  - "**TSH** yüksekliği ile **serbest T4** düşüklüğü (birincil hipotiroidi mantığı)"
+  - "**Anti-TPO** antikor pozitifliği (Hashimoto'da)"
+  - "**Soğuğa intolerans**, kilo alma, **kabızlık**, cilt kuruluğu, saç dökülmesi"
+  - "**Bradikardi**, **kaba ses**, reflekslerin gevşeme evresinin uzaması"
+  - "Göz çevresinde ve el üstünde bası izi bırakmayan (**nonpitting**) **miksödem**; göz kaşlarının dış kısmında seyrelme"
+  - "**LDL kolesterol** yüksekliği ve hafif **anemi** (laborda çıkan ipuçları)"
 patognomonik: null
-ilk_tetkik: "Serum TSH ve serbest T4; Hashimoto şüphesinde anti-TPO antikoru"
-kesin_tani: "Yüksek TSH ile düşük serbest T4 birlikteliği açık hipotiroidiyi kesinleştirir; subklinik tipte yalnız TSH yüksektir ve üç ay arayla tekrar ölçüm ister. Hashimoto'da anti-TPO pozitifliği ve ultrasonda hipoekoik heterojen görünüm ek değer taşır"
-ilk_tedavi: "Levotiroksin; yetişkinde yaklaşık 1,6 mikrogram/kg/gün başlangıç dozu, yaşlılarda ve kalp hastalarında çok düşük dozla (yaklaşık 25 mikrogram) yavaş artırılır. Doz 6-8 hafta sonra TSH ile ayarlanır, hedef TSH'nin normal aralıkta olmasıdır; tedavi genellikle ömür boyu sürer"
-klasik_komplikasyon: "Miksödem koması: ilerlemiş hipotiroidide hipotermi, bradikardi, bilinç bulanıklığı ve solunum depresyonu; tedavi intravenöz levotiroksin ve destekleyici bakımdır"
+ilk_tetkik: "**TSH** ve **serbest T4**; Hashimoto şüphesinde **anti-TPO** antikoru"
+kesin_tani: "Yüksek **TSH** ile düşük **serbest T4** açık hipotiroidiyi kesinleştirir; subklinik tipte yalnız TSH yüksektir, **üç ay** arayla tekrar ölçüm ister. Hashimoto'da **anti-TPO** pozitifliği ve ultrasonda **hipoekoik heterojen** görünüm ek değer taşır"
+ilk_tedavi: "**Levotiroksin**; yetişkinde yaklaşık **1,6 mikrogram/kg/gün** başlangıç dozu, yaşlı ve kalp hastasında **25 mikrogram** gibi çok düşük dozla yavaş artırılır. Doz **6-8 hafta** sonra TSH ile ayarlanır; hedef TSH'nin normal aralıkta olması. Tedavi genellikle **ömür boyu**"
+klasik_komplikasyon: "**Miksödem koması**: ilerlemiş hipotiroidide **hipotermi**, **bradikardi**, bilinç bulanıklığı ve solunum depresyonu; tedavi **intravenöz levotiroksin** ve destekleyici bakımdır"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

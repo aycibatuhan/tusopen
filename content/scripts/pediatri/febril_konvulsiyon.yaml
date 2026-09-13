@@ -15,34 +15,18 @@ taksonomi:
   - pediatri
   - ped_enfeksiyon
   - ped_enf_ates_yaklasim
-tipik_hasta: 6 ay-5 yaş arasında (tepe 12-18 ay), nörolojik olarak önceden sağlam, üst solunum yolu enfeksiyonu,
-  roseola veya gastroenterit gibi ateşli bir viral hastalığın ilk 24 saatinde jeneralize tonik-klonik
-  nöbetle acile getirilen çocuk; ailede febril konvülsiyon öyküsü sık rastlanır
-patofizyoloji: Genç beynin nöronal ateş eşiği düşüktür; ateşin hızlı yükselişi, genetik yatkınlıkla (aile
-  öyküsü, iyon kanalı polimorfizmleri) birleşip kortikal nöronları tetikler. Sorun enfeksiyonun merkezi
-  sinir sistemine yayılması değildir; konvülsiyon ısınmanın hızına ve bireysel eşiğe bağlıdır
+tipik_hasta: "**6 ay-5 yaş** arasında (tepe **12-18 ay**), nörolojik olarak önceden sağlam çocuk. Ateşli viral hastalıkta (üst solunum yolu, **roseola**, gastroenterit) **ilk 24 saatinde** jeneralize tonik-klonik nöbetle gelir, ailede febril konvülsiyon öyküsü sık"
+patofizyoloji: "Genç beynin nöronal **ateş eşiği düşüktür**; ateşin hızlı yükselişi, genetik yatkınlık (**aile öyküsü**, **iyon kanalı** polimorfizmleri) nöronları tetikler. Sorun enfeksiyonun **merkezi sinir sistemine yayılması değildir**; konvülsiyon ısınmanın hızına ve bireysel eşiğe bağlıdır"
 anahtar_bulgular:
-- Yaş penceresi 6 ay-5 yaş; ateş ≥38°C'lik hastalık sırasında, genellikle ateşin ilk 24 saati içinde
-- 'Basit tip (olguların ~%80''i): jeneralize, 15 dakikadan kısa (çoğu <5 dk), 24 saat içinde tekrar etmeyen,
-  postiktal dönem kısa'
-- 'Kompleks tip: fokal/lateralize özellik, 15 dakikadan uzun süre veya 24 saat içinde tekrarlama'
-- Nöbet sonrası kısa süreli uyku/huzursuzluk dışında nörolojik muayene normal
-- Ateş odağı çoğunlukla viral üst solunum yolu enfeksiyonu, roseola, otit veya gastroenterittir
+- "Yaş penceresi **6 ay-5 yaş**; **38°C ve üzeri** ateşli hastalıkta, çoğunlukla ateşin **ilk 24 saati** içinde"
+- "**Basit tip** (olguların yaklaşık **%80'i**): jeneralize, **15 dakikadan kısa** (çoğu 5 dakikanın altı), **24 saat içinde tekrar etmeyen**; postiktal dönem kısa"
+- "**Kompleks tip**: **fokal/lateralize** özellik, **15 dakikadan uzun** süre veya **24 saat içinde tekrarlama**"
+- "Nöbet sonrası kısa uyku/huzursuzluk dışında **nörolojik muayene normal**; ateş odağı çoğunlukla viral ÜSY, roseola, otit veya gastroenterit"
 patognomonik: null
-ilk_tetkik: 'Ateşin odağını ve menenjit olasılığını araştırmak: kapsamlı fizik muayene (fontanel, ense
-  sertliği, piyojenik odak), gerektiğinde kan sayımı, CRP ve idrar tetkiki. Lomber ponksiyon menenjit
-  şüphesinde, önceden antibiyotik almışsa veya muayene şüpheliyse düşünülür ve küçük bebeklerde eşiği
-  düşündürür; basit tip ve hızla normale dönen muayenede rutin LP, EEG ve beyin görüntülemesi gerekmez'
-kesin_tani: 'Dışlama tanısıdır: 6 ay-5 yaş aralığında ateşli bir hastalık eşliğinde nöbet; merkezi sinir
-  sistemi enfeksiyonu, metabolik bozukluk (özellikle hipoglisemi ve elektrolit bozuklukları) ve öyküde
-  afebril nöbet/epilepsi dışlandıktan sonra konur. Ateşsiz dönemde nöbet geçirmesi tanıyı ortadan kaldırır'
-ilk_tedavi: Aktif nöbette yan yatış pozisyonu ve havayolunu açık tutma; 5 dakikayı geçen nöbette midazolam
-  (bukkal/nazal) veya IV diazepam, gerekirse tekrar. Ateş antipiretiple (parasetamol/ibuprofen) düşürülür
-  — konfor sağlar ama nöbeti önlemez veya tekrarı azaltmaz; sürekli antiepileptik proflaksi verilmez,
-  tekrar riski yüksek seçili olgularda ateşli hastalık boyunca kısa süreli diazepam düşünülebilir
-klasik_komplikasyon: Tekrarlama (~%30, en sık ilk yıl içinde; <12 ay yaş, aile öyküsü, düşük ateşte nöbet
-  ve ateş başladıktan çok kısa süre sonra nöbet riski artırır) ve geç epilepsi (basit tip ~%1-2; kompleks
-  tip ve risk faktörlerinin birikimiyle artar)
+ilk_tetkik: "Amaç **ateşin odağını** ve **menenjit** olasılığını araştırmak: kapsamlı fizik muayene (fontanel, ense sertliği, piyojenik odak); **lomber ponksiyon** menenjit şüphesinde, **önceden antibiyotik almışsa** veya muayene şüpheliyse, küçük bebeklerde eşiği düşük. Basit tip ve hızla normale dönen muayenede **rutin LP, EEG ve beyin görüntülemesi gerekmez**"
+kesin_tani: "**Dışlama tanısıdır**: **6 ay-5 yaş** aralığında ateşli hastalık eşliğinde nöbet; **merkezi sinir sistemi enfeksiyonu**, metabolik bozukluk (**hipoglisemi**, elektrolit bozuklukları) ve öyküde **afebril nöbet** dışlanır; **ateşsiz dönemde nöbet** geçirmesi tanıyı ortadan kaldırır"
+ilk_tedavi: "Aktif nöbette yan yatış, havayolu açık; **5 dakikayı geçen** nöbette **midazolam** (bukkal/nazal) veya **IV diazepam**, gerekirse tekrarlanır. Ateş **antipiretiple** (**parasetamol/ibuprofen**) düşürülür — konfor sağlar ama **nöbeti önlemez veya tekrarı azaltmaz**; **sürekli antiepileptik proflaksi verilmez**, tekrar riski yüksek seçili olgularda ateşli hastalık boyunca **kısa süreli diazepam** düşünülebilir"
+klasik_komplikasyon: "**Tekrarlama** yaklaşık **%30**, en sık ilk yıl içinde; riski **12 aydan küçük** yaş, aile öyküsü, düşük ateşte nöbet artırır; **geç epilepsi**: basit tip **%1-2**, kompleks tip ve risk faktörlerinin birikimiyle artar"
 tus_gecmisi:
 - tus-2018-ilkbahar-ktbt-70
 - tus-2021-sonbahar-ktbt-69

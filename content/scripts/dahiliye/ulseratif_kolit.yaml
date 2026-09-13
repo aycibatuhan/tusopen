@@ -10,31 +10,33 @@ taksonomi:
   - dahiliye
   - dah_gastroenteroloji
   - dah_gis_ulseratif_kolit
-tipik_hasta: Yirmili-otuzlu yaşlardaki genç yetişkin; kanlı ishal, mukus, tenesmus ve acil dışkılama hissiyle
-  gelen; gece dahi dışkılama zorunluluğu olan; sigara içmeyen ya da içmeyi bırakmış; ailesinde inflamatuar
-  bağırsak hastalığı olan
-patofizyoloji: Rektumdan proksimale sürekli (kesintisiz) yayılan, mukoza ve submukozayla sınırlı iltihap;
-  rektum her zaman tutulur. Kript apseleri, goblet hücre azalması, yüzey epitel dökülmesi ve pseudopolip
-  oluşur. Sigara tabloyu hafifletir, bırakmak alevlenme tetikleyebilir (Crohn ile ters ilişki); primer
-  sklerozan kolanjit birlikteliği artar; uzun süreli toplam kolon tutulumu kolorektal kanser riskini yükseltir
+tipik_hasta: 'Yirmili-otuzlu yaşlardaki genç yetişkin; **kanlı ishal**, mukus, **tenesmus** ve acil dışkılama
+  hissiyle gelen; **gece dahi dışkılama** zorunluluğu olan. **Sigara içmeyen** ya da içmeyi bırakmış;
+  ailesinde **inflamatuar bağırsak hastalığı**'
+patofizyoloji: '**Rektum**dan proksimale **sürekli (kesintisiz)** yayılan, **mukoza ve submukozayla** sınırlı
+  iltihap; rektum her zaman tutulur. **Kript apseleri**, goblet hücre azalması, yüzey epitel dökülmesi,
+  **pseudopolip** oluşur. **Sigara** tabloyu hafifletir, bırakmak alevlenme tetikleyebilir (Crohn ile ters
+  ilişki). **Primer sklerozan kolanjit** birlikteliği artar; uzun süreli total kolon tutulumunda **kolorektal
+  kanser** riski yükselir'
 anahtar_bulgular:
-- Sürekli kanlı diyare ve mukus; tenesmus, acil dışkılama, gece dışkısı
-- Sigmoidoskopide eritem, granülarite, yüzey dökülmesi ve kolay kanama (mukoza kağıt gibi kanar)
-- 'Biyopsi: kript apseleri, mukozal iltihap, granulom yokluğu; rektumun daima tutulumu'
-- Sigara içen hastada tablonun hafiflemesi, bırakınca alevlenme
-- Primer sklerozan kolanjit birlikteliği (bu hastada kolon kanser riski daha da yüksek)
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kript apseleri, rektumun daima tutulumu ve granulom yokluğunun birlikte görülmesi
-ilk_tetkik: Dışkı kültürü ve Clostridioides difficile toksin araması (enfeksiyonu dışlamak için), tam
-  kan sayımı ve CRP; rektosigmoidoskopi ve biyopsi (akut ağır atakta tam kolonoskopi yapılmaz, perforasyon
-  riski)
-kesin_tani: 'Kolonoskopi ve biyopsi: rektumdan başlayıp sürekli yayılan yüzeyel mukozal iltihap, kript
-  apseleri, granulom yokluğu'
-ilk_tedavi: 'Hafif/orta: 5-ASA (mesalazin; yalnız rektal tutulumda supozituvar, daha proksimalde lavman
-  ya da oral); ağır atakta sistemik steroid; steroid dirençli durumda infliksimab, vedolizumab ya da kalsinörin
-  inhibitörü; toksik megakolon ya da dirençli ağır atakta kolektomi'
-klasik_komplikasyon: Toksik megakolon (kolon çapının 6 cm değerini aşması artı sistemik toksisite), masif
-  kanama; sekiz yıldan uzun toplam kolon tutulumunda kolorektal kanser (ACG 2019 — tarama 8. yıldan itibaren düzenli kolonoskopi); primer
-  sklerozan kolanjit
+- '**Sürekli kanlı diyare** ve mukus; **tenesmus**, acil dışkılama, **gece dışkısı**'
+- 'Sigmoidoskopide eritem, granülarite, yüzey dökülmesi ve kolay kanama (mukoza **kağıt gibi kanar**)'
+- 'Biyopsi: **kript apseleri**, mukozal iltihap, **granulom yokluğu**; rektumun daima tutulumu'
+- '**Sigara** içen hastada tablonun hafiflemesi, bırakınca **alevlenme**'
+- '**Primer sklerozan kolanjit** birlikteliği (bu hastada kolon kanser riski daha da yüksek)'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — **kript apseleri**, **rektumun daima tutulumu**
+  ve **granulom yokluğu**nun birlikte görülmesi
+ilk_tetkik: '**Dışkı kültürü** ve **Clostridioides difficile** toksin araması (enfeksiyonu dışlamak için),
+  tam kan sayımı ve **CRP**; **rektosigmoidoskopi** ve biyopsi (akut ağır atakta tam kolonoskopi yapılmaz,
+  **perforasyon** riski)'
+kesin_tani: '**Kolonoskopi** ve biyopsi: **rektumdan** başlayıp **sürekli** yayılan yüzeyel mukozal iltihap,
+  **kript apseleri**, **granulom yokluğu**'
+ilk_tedavi: 'Hafif/orta: **5-ASA (mesalazin)** (yalnız rektal tutulumda **supozituvar**, daha proksimalde
+  **lavman** ya da oral). Ağır atakta **sistemik steroid**; steroid dirençli durumda **infliksimab**, **vedolizumab**
+  ya da **kalsinörin inhibitörü**. **Toksik megakolon** ya da dirençli ağır atakta **kolektomi**'
+klasik_komplikasyon: '**Toksik megakolon** (kolon çapının **6 cm**yi aşması artı sistemik toksisite), masif
+  **kanama**; **sekiz yıldan** uzun total kolon tutulumunda **kolorektal kanser** (tarama **8. yıldan**
+  itibaren düzenli kolonoskopi); **primer sklerozan kolanjit**'
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-102
 - tus-2015-sonbahar-ktbt-101

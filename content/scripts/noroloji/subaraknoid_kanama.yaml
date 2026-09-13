@@ -12,38 +12,19 @@ taksonomi:
   - noroloji
   - noro_serebrovaskuler
   - noro_sv_sak
-tipik_hasta: 40-60 yaş arası, hipertansiyon, sigara kullanımı, ailede anevrizma öyküsü veya polikistik
-  böbrek hastalığı olan hasta; daha çok efor, ıkınma, cinsel birliktelik veya uyanma anında başlayan,
-  hiç yaşamadığı şiddette bir baş ağrısıyla gelen hasta; bazen günler önce aynı ağrının hafif bir versiyonu
-  (sentinel kanama) sinyal olur
-patofizyoloji: En sık neden serebral anevrizmanın (öncelikle konjenital berry tipi; Willis poligonu dallanma
-  noktalarında, ön ve posterior iletişim arterlerde) yırtılmasıdır; kan subaraknoid aralığa boşalır, meninks
-  iritasyonu menenjizme, intrakraniyal basınç artışı bilinç bozukluğuna, kanın ve yıkım ürünlerinin damar
-  duvarına teması ise vazospazma zemin hazırlar; az bir bölümde travma veya vasküler malformasyon söz
-  konusudur
+tipik_hasta: "**40-60 yaş**; **hipertansiyon**, **sigara**, **ailede anevrizma** veya **polikistik böbrek** öyküsü olan hasta. Daha çok **efor, ıkınma, cinsel birliktelik veya uyanma** anında başlayan, **hiç yaşamadığı şiddette baş ağrısı**yla gelir. Bazen günler önce aynı ağrının hafif versiyonu (**sentinel kanama**) sinyal olur"
+patofizyoloji: "En sık neden **serebral anevrizma**nın (öncelikle konjenital **berry** tipi; **Willis poligonu** dallanma noktaları, **ön ve posterior iletişim arterler**) yırtılmasıdır. Kan **subaraknoid aralığa** boşalır; **meninks iritasyonu menenjizm**, **İKB artışı bilinç bozukluğu**, kanın damar duvarına teması **vazospazm** zemin hazırlar. Az bölümde **travma** veya **vasküler malformasyon**"
 anahtar_bulgular:
-- Ani, saniyeler içinde zirveye ulaşan, hayatın en şiddetli başağrısı; hastalar 'hiç böyle bir ağrı yaşamadım'
-  der
-- Bulantı-kusma, ense sertliği (Kernig ve Brudzinski pozitif), fotofobi
-- Bilinç düzeyinde azalma veya senkop; huzursuzluk ve ajitasyon
-- Göz dibi muayenesinde papilla üzerinde kanama (subhialoid); Terson sendromu
-- 'İzole okulomotor sinir felci: pitoz ve genişlemiş pupillayla birlikte gözün içe bakamaması (göz aşağı-dışa
-  dönüktür); posterior iletişim arter anevrizmasının
-  ipucudur'
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Hayatın en kötü başağrısı: saniyeler içinde maksimuma ulaşan, hastanın hiç yaşamadığını
-  söylediği şiddette ani başlangıçlı ağrı (gök gürültüsü tarzı)'
-ilk_tetkik: 'Kontrastsız kranyal BT ilk tetkiktir: hızlı ve yatak başında yapılır, ilk 6 saatte duyarlılığı
-  çok yüksektir; BT negatif ama klinik şüphe güçlüyse kanama başlangıcından en az 12 saat sonra (bilirübin
-  ancak o zaman görülür) lumbar ponksiyon yapılır ve açılış basıncı yüksek, sarımsı renkte BOS (ksanatokromi)
-  aranır'
-kesin_tani: BT anjiyografi veya altın standart olan dijital substraksiyon anjiyografi (DSA) ile anevrizmanın
-  gösterilmesi; BT ve LP negatif olsa bile klinik şüphe sürerse hasta anjiyografiye alınır; klinik şiddet
-  Hunt-Hess, BT'de kanama miktarı Fisher skalasıyla derecelendirilir
-ilk_tedavi: 'Oral nimodipin (gecikmiş iskemiyi azaltır), kan basıncının dikkatli kontrolü ve efordan kaçınma;
-  anevrizmanın kapatılması: endovasküler koil (çoğu merkezde ilk seçenek) veya cerrahi klipleme; hidrosefali
-  gelişirse ventriküler drenaj'
-klasik_komplikasyon: Serebral vazospazm ve gecikmiş iskemik defisitler (4-14. günler arasında zirve),
-  yeniden kanama, akut hidrosefali, hiponatremi (SIADH veya serebral tuz kaybı)
+- "**Ani, saniyeler içinde zirveye ulaşan, hayatın en şiddetli başağrısı**; hasta 'hiç böyle bir ağrı yaşamadım' der"
+- "**Bulantı-kusma**, **ense sertliği** (**Kernig** ve **Brudzinski** pozitif), **fotofobi**"
+- "**Bilinç düzeyinde azalma** veya **senkop**; **huzursuzluk ve ajitasyon**"
+- "**Göz dibi**: papilla üzerinde kanama (**subhialoid**); **Terson sendromu**"
+- "**İzole okulomotor sinir felci**: **pitoz** ve **genişlemiş pupilla**yla gözün içe bakamaması (göz **aşağı-dışa** dönük); **posterior iletişim arter anevrizması** ipucu"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **hayatın en kötü başağrısı** — saniyeler içinde maksimuma ulaşan, hastanın hiç yaşamadığını söylediği şiddette **ani (gök gürültüsü tarzı)** ağrı"
+ilk_tetkik: "**Kontrastsız kranyal BT** ilk tetkiktir: hızlı ve yatak başında yapılır, **ilk 6 saatte duyarlılığı çok yüksek**; **BT negatif** ama şüphe güçlüyse **12 saat sonra LP**: **açılış basıncı yüksek**, sarımsı **BOS (ksanatokromi)**"
+kesin_tani: "**BT anjiyografi** veya altın standart **DSA** ile **anevrizmanın** gösterilmesi; **BT ve LP negatif** olsa bile şüphe sürerse **anjiyografiye alınır**; klinik şiddet **Hunt-Hess**, BT'de kan miktarı **Fisher skalası**yla derecelendirilir"
+ilk_tedavi: "**Oral nimodipin** (**gecikmiş iskemiyi azaltır**), kan basıncının **dikkatli kontrolü**, **efordan kaçınma**; **Anevrizmanın kapatılması**: **endovasküler koil** (çoğu merkezde ilk seçenek) veya **cerrahi klipleme**; **Hidrosefali** gelişirse **ventriküler drenaj**"
+klasik_komplikasyon: "**Serebral vazospazm** ve **gecikmiş iskemik defisitler** (**4-14. günler** arasında zirve); **yeniden kanama**; **Akut hidrosefali**; **hiponatremi** (**SIADH** veya **serebral tuz kaybı**)"
 tus_gecmisi:
 - tus-2018-sonbahar-ttbt-11
 - tus-2019-sonbahar-ktbt-103

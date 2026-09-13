@@ -10,30 +10,32 @@ taksonomi:
   - dahiliye
   - dah_gastroenteroloji
   - dah_gis_crohn
-tipik_hasta: Yirmili-otuzlu yaşlardaki genç yetişkin; kronik sağ alt kadranda ağrı, çoğunlukla kansız
-  ishal, kilo kaybı ve ağızda aftlarla gelen; sigara içen; perianal fisür, fistül ya da absesi olan
-patofizyoloji: Ağızdan anüse her bölümü tutabilen, en sık terminal ileumda görülen iltihap; atlama (skip)
-  lezyonlarıyla sağlıklı ve iltihaplı bölgeler aralanır. Transmural (duvarın tüm katlarını tutan) iltihap
-  fistül, abses ve darlık yapar; hastaların bir bölümünde non-kazeifiye granulom bulunur. Sigara hastalığı
-  şiddetlendirir; terminal ileum tutulumu B12 ve safra asidi emilimini bozar
+tipik_hasta: 'Yirmili-otuzlu yaşlardaki genç yetişkin; kronik **sağ alt kadran** ağrısı, çoğunlukla
+  **kansız ishal**, kilo kaybı ve ağızda aftlar. **Sigara** içen; perianal **fisür, fistül ya da absesi**
+  olan'
+patofizyoloji: Ağızdan anüse her bölümü tutabilen, en sık **terminal ileum**da iltihap; **atlama (skip)
+  lezyonları**yla sağlıklı ve iltihaplı bölgeler aralanır. **Transmural** iltihap fistül, abses ve darlık
+  yapar; hastaların bir bölümünde **non-kazeifiye granulom**. Sigara hastalığı şiddetlendirir; terminal
+  ileum tutulumu **B12** ve safra asidi emilimini bozar
 anahtar_bulgular:
-- Kronik sağ alt kadranda ağrı, kansız ya da az kanlı ishal, kilo kaybı; alevlenmelerde ateş ve halsizlik
-- Perianal fisür, fistül ya da abses; oral aftlar
-- Endoskopide atlama lezyonları, aftöz ülserler, parke taşı (cobblestone) görünümü
-- 'Biyopsi: transmural iltihap; bir bölümde non-kazeifiye granulom'
-- MR enterografi ya da kapsül endoskopide ince bağırsak lezyonları; sigara ile alevlenme
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Non-kazeifiye granulom (sarkoidozda da klasiktir); fistüller ve atlama lezyonlarıyla birlikte perianal tutulum
-ilk_tetkik: CRP, fekal kalprotektin, tam kan sayımı; ileokoloskopi ve biyopsi; ince bağırsak için MR enterografi
-  ya da kapsül endoskopi (darlık varsa kapsül kontrendike)
-kesin_tani: Endoskopi ve histopatoloji (transmural iltihap, non-kazeifiye granulom) ile görüntüleme bulgularının
-  (atlama lezyonları, fistül, darlık) birlikte değerlendirilmesi
-ilk_tedavi: Alevlenmede steroid (ileal hastalıkta sistemik emilimi düşük budezonid); bakımda azatiyoprin,
-  metotreksat ya da biyolojik ajanlar (anti-TNF infliksimab/adalimumab, anti-integrin, anti-IL-12/23);
-  sigaranın bırakılması şart; perianal absede drenaj ve antibiyotik (metronidazol); fistüllerde anti-TNF
-  öne çıkar
-klasik_komplikasyon: Fistüller (entero-enterik, enterovezikal, rektovajinal, perianal), darlık ve ince
-  bağırsak tıkanması, abseler; terminal ileum tutulumunda B12 eksikliği, safra asidi kaybına bağlı safra
-  taşı, oksalat böbrek taşı; malabsorpsiyon ve çocukta büyüme geriliği
+- 'Kronik **sağ alt kadran** ağrısı, kansız ya da az kanlı ishal, kilo kaybı; alevlenmelerde ateş ve halsizlik'
+- '**Perianal fisür, fistül ya da abses**; oral aftlar'
+- 'Endoskopide **atlama lezyonları**, aftöz ülserler, **parke taşı (cobblestone)** görünümü'
+- 'Biyopsi: **transmural iltihap**; bir bölümde **non-kazeifiye granulom**'
+- 'İnce bağırsak lezyonları: **MR enterografi** ya da **kapsül endoskopi**; sigara ile alevlenme'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — **non-kazeifiye granulom** (sarkoidozda
+  da klasiktir); fistüller ve atlama lezyonlarıyla birlikte **perianal tutulum**
+ilk_tetkik: '**CRP**, **fekal kalprotektin**, tam kan sayımı; **ileokoloskopi** ve biyopsi; ince bağırsak
+  için **MR enterografi** ya da kapsül endoskopi (darlık varsa kapsül kontrendike)'
+kesin_tani: '**Endoskopi** ve **histopatoloji** (transmural iltihap, non-kazeifiye granulom) ile görüntüleme
+  bulgularının (atlama lezyonları, fistül, darlık) birlikte değerlendirilmesi'
+ilk_tedavi: 'Alevlenmede **steroid** (ileal hastalıkta **budezonid**); bakımda **azatiyoprin**, **metotreksat**
+  ya da biyolojik ajanlar. Biyolojikler: **anti-TNF** (infliksimab/adalimumab), anti-integrin, **anti-IL-12/23**;
+  fistüllerde **anti-TNF** öne çıkar. Perianal absede drenaj ve **metronidazol**; **sigaranın bırakılması**
+  şart'
+klasik_komplikasyon: '**Fistüller** (entero-enterik, enterovezikal, rektovajinal, perianal), **darlık**
+  ve ince bağırsak tıkanması, abseler. Terminal ileum tutulumunda **B12 eksikliği**; safra asidi kaybına
+  bağlı **safra taşı**, **oksalat böbrek taşı**. Malabsorpsiyon ve çocukta büyüme geriliği'
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-13
 - tus-2014-sonbahar-ktbt-98

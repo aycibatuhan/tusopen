@@ -12,37 +12,36 @@ taksonomi:
   - dahiliye
   - dah_hematoloji
   - dah_hem_hodgkin
-tipik_hasta: 'Çift yaş tepesi olan hastalık: yirmili yaşlardaki genç erişkin ve elli beş yaş üstü hasta;
-  ağrısız, lastik sertliğinde boyun veya supraklaviküler lenfadenopatiyle gelir; ileri evrede B semptomları
-  (ateş, gece terlemesi, altı ayda yüzde ondan fazla kilo kaybı); alkol alımından sonra tutulan lenf nodu
-  bölgesinde ağrı klasik ama seyrek bir ipucudur'
-patofizyoloji: B hücre kökenli malignite; tümör kitlesi az sayıda Reed-Sternberg hücresinden ve bunları
-  saran reaktif lenfosit, eozinofil, plazma hücresi yığınından oluşur; EBV genomu olguların bir bölümünde
-  saptanır. Lenf bölgelerinden bitişik komşulara düzenli, sıralı (kontinü) yayılım davranışı Hodgkin lenfomaya
-  özgüdür
+tipik_hasta: 'Çift yaş tepesi: yirmili yaşlardaki genç erişkin ve **55 yaş üstü**; **ağrısız, lastik sertliğinde
+  boyun veya supraklaviküler lenfadenopati**. İleri evrede **B semptomları** (ateş, gece terlemesi, **altı
+  ayda yüzde ondan fazla** kilo kaybı). **Alkol** alımını izleyen lenf nodu bölgesi ağrısı klasik ama seyrek'
+patofizyoloji: '**B hücre** kökenli malignite; tümör kitlesi az sayıda **Reed-Sternberg** hücresi ve bunları
+  saran reaktif lenfosit, eozinofil, plazma hücresi yığını. **EBV** genomu olguların bir bölümünde saptanır.
+  Lenf bölgelerinden bitişik komşulara düzenli, sıralı (**kontinü**) yayılım Hodgkin''e özgüdür'
 anahtar_bulgular:
-- 'Reed-Sternberg hücresi: çift loblu çekirdek, belirgin nükleolus, baykuş-göz görünümü; CD15 ve CD30
-  pozitif, çoğunda CD20 negatif'
-- Ağrısız, lastik sertliğinde servikal veya supraklaviküler lenfadenopati; bitişik lenf bölgelerine sıralı
-  yayılım
-- 'B semptomları: ateş, bol gece terlemesi, altı ayda yüzde ondan çok kilo kaybı (evreleme harfini ve
-  prognozu belirler)'
-- Nodüler skleroz en sık alt tip; genç erişkinlerde üst mediasten kitlesi sık
-- Alkol alımını izleyen lenfadenopati bölgesi ağrısı (klasik ama duyarlığı düşük)
-patognomonik: Kesin tanı eksizyonel biyopsiyle konur — RS hücresinin CD15 ve CD30 pozitifliği (primer mediastinal B-hücreli ve gray-zone lenfomalarda benzer fenotip olabilir) tümöral mikroçevresi ve mimarisiyle birlikte değerlendirilir
-ilk_tetkik: Tutulan lenf nodunun tam eksizyonel biyopsisi; ince iğne aspirasyonu alt tip ve yaygınlık
-  değerlendirmesi için yetersiz kalır; kan sedimentasyonu ve LDH eklenir
-kesin_tani: 'Eksizyonel biyopside Reed-Sternberg hücrelerinin CD15 ve CD30 pozitif immünfenotiple gösterilmesi;
-  evreleme Ann Arbor (Lugano güncellemesi) sınıflamasıyla PET-BT yapılır: evre I tek lenf bölgesi, evre
-  II diyaframın aynı yanında birden çok bölge, evre III diyaframın iki yanı, evre IV yaygın ekstranodal
-  organ tutulumu; B semptomları harfle eklenir'
-ilk_tedavi: 'Erken evre: kısa ABVD kürleri (adriamisin, bleomisin, vinblastin, dakarbazin) ve tutulan
-  alana radyoterapi; ileri evre: ABVD veya doz artırılmış BEACOPP; tedavi yanıtını erken yedekleme PET''i
-  izleyerek radyoterapi gereksinimi belirlenir; nüks veya dirençte kurtarma kemoterapisi ardından otolog
-  kök hücre transplantasyonu'
-klasik_komplikasyon: 'Tedavinin geç dönem yan etkileri: bleomisin akciğer fibrozisi, antrasiklin kalp
-  kası hasarı, ikinci kanserler; tedavisiz ilerlemede kemik iliği tutulumu ve bağışıklık yetersizliği;
-  büyük mediastinal kitlede üst vena kava basısı'
+- '**Reed-Sternberg hücresi**: çift loblu çekirdek, belirgin nükleolus, **baykuş-göz** görünümü; **CD15
+  ve CD30** pozitif, çoğunda **CD20** negatif'
+- '**Ağrısız, lastik sertliğinde servikal veya supraklaviküler lenfadenopati**; bitişik lenf bölgelerine
+  sıralı yayılım'
+- '**B semptomları: ateş, bol gece terlemesi, altı ayda yüzde ondan çok kilo kaybı** (evreleme harfini
+  ve prognozu belirler)'
+- '**Nodüler skleroz** en sık alt tip; genç erişkinlerde **üst mediasten** kitlesi sık'
+- 'Alkol alımını izleyen **lenfadenopati bölgesi ağrısı** (klasik ama duyarlığı düşük)'
+patognomonik: 'Kesin tanı **eksizyonel biyopsiyle** konur — **RS hücresinin CD15 ve CD30 pozitifliği**; primer
+  mediastinal B-hücreli ve gray-zone lenfomalarda benzer fenotip olabilir, tümöral mikroçevre ve mimariyle
+  birlikte değerlendirilir'
+ilk_tetkik: 'Tutulan lenf nodunun tam **eksizyonel biyopsisi**; ince iğne aspirasyonu alt tip ve yaygınlık
+  değerlendirmesi için yetersiz kalır. **Sedimentasyon** ve **LDH** eklenir'
+kesin_tani: '**Eksizyonel biyopside Reed-Sternberg hücrelerinin CD15 ve CD30 pozitif** gösterilmesi; evreleme
+  **Ann Arbor (Lugano)** sınıflamasıyla **PET-BT** yapılır. Evre I tek lenf bölgesi; evre II diyaframın
+  aynı yanında birden çok bölge; evre III diyaframın iki yanı; evre IV yaygın ekstranodal organ tutulumu.
+  **B semptomları** harfle eklenir'
+ilk_tedavi: 'Erken evre: kısa **ABVD** kürleri (adriamisin, bleomisin, vinblastin, dakarbazin) ve tutulan
+  alana **radyoterapi**. İleri evre: **ABVD** veya doz artırılmış **BEACOPP**; yanıt **erken yedekleme PET**iyle
+  izlenir. Nüks veya dirençte kurtarma kemoterapisi ardından **otolog kök hücre transplantasyonu**'
+klasik_komplikasyon: 'Geç dönem yan etkiler: **bleomisin** akciğer fibrozisi, **antrasiklin** kalp kası
+  hasarı, **ikinci kanserler**. Tedavisiz ilerlemede kemik iliği tutulumu ve bağışıklık yetersizliği. Büyük
+  mediastinal kitlede **üst vena kava basısı**'
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-22
 - tus-2014-sonbahar-ttbt-86

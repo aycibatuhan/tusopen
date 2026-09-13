@@ -15,33 +15,34 @@ taksonomi:
   - pediatri
   - ped_hematoloji
   - ped_hem_talasemi
-tipik_hasta: Akdeniz kökenli, çocuklukta başlayan sarılık ve dalak büyümesiyle gelen hasta; rutin tetkikte
-  saptanan hafif mikrositik anemili gençte demir eksikliği düşünülür ama düzelmeyen anemi ve normal demir
-  düzeyleri taşıyıcılığı düşündürür; ağır tip ise düzenli transfüzyona bağımlı kronik hastadır
-patofizyoloji: Globin zincir üretimindeki kalıtsal bozukluk. Beta-talasemide nokta mutasyonları beta zincir
-  üretimini azaltır; birikmeyi sürdüren alfa zincirleri eritrosit içinde çöker, etkili eritropoez bozulur
-  ve hemoliz gelişir. Alfa-talasemide alfa genleri silinir; üç gen silindiğinde beta dörtlüleri (HbH)
-  birikir, dört gen silindiğinde gama dörtlüsü (Bart hemoglobini) hidrops fetalis yapar
+tipik_hasta: '**Akdeniz kökenli**, çocuklukta başlayan **sarılık** ve **dalak büyümesi**yle gelen hasta;
+  rutin tetkikte hafif **mikrositik anemi**li gençte demir eksikliği düşünülür ama düzelmeyen anemi ve
+  normal demir düzeyleri **taşıyıcılığı** düşündürür. Ağır tip düzenli **transfüzyona bağımlı** kronik hastadır'
+patofizyoloji: '**Globin zincir** üretimindeki kalıtsal bozukluk. **Beta-talasemi**de nokta mutasyonları beta
+  zincir üretimini azaltır; birikmeye devam eden **alfa zincirleri** eritrosit içinde çöker, **etkili eritropoez**
+  bozulur, **hemoliz** gelişir. **Alfa-talasemi**de alfa genleri silinir; üç gen silindiğinde beta dörtlüleri
+  (**HbH**), dört gen silindiğinde gama dörtlüsü (**Bart hemoglobini**) **hidrops fetalis** yapar'
 anahtar_bulgular:
-- Mikroktik hipokrom anemi; Mentzer indeksinin (MCV'nin eritrosit sayısına bölümü) 13'ün altında kalması,
-  RDW'nin az ya da hafif artması, demir düzeylerinin normal
-- Beta-talasemi taşıyıcılığında elektroforezde HbA2'nin yüzde 3,5 ve üzerinde olması ve HbF'nin hafif artışı
-- Periferik yaymada hedef hücreler, bazofilik beneklenme, boyut-şekil çeşitliliği
-- Cooley anemisinde çocuklukta ciddi anemi, hepatosplenomegali, kafa ve yüz kemiklerinde genişleme, büyüme
-  geriliği
-- Düzenli transfüzyon alan hastada ferritin yüksekliği, ciltte bronz pigmentasyon, endokrin yetmezlik
-  bulguları
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Beta-talasemi taşıyıcılığında HbA2'nin belirgin artması; ileri hastada kafatası grafinde
-  fırça uçları görünümü
-ilk_tetkik: Tam kan sayımı ve periferik yayma, demir düzeyleri (eksikliği dışlamak için), hemoglobin elektroforezi
-  ya da HPLC
-kesin_tani: Elektroforezde HbA2 ve HbF oranlarının ölçümü; gerektiğinde globin gen analizi (alfa silinme
-  sayısı, beta mutasyonları)
-ilk_tedavi: 'Major tip: düzenli eritrosit transfüzyonu (hedef hemoglobin 9-10) ve demir kelasyonu (deferasiroks,
-  deferoksin, deferipron); aşırı dalak çalışmasında splenektomi; kür sağlayan seçenek hematopojetik kök
-  hücre nakli. Minor tip: yalnızca bilgilendirme ve genetik danışmanlık, demir tedavisi verilmez'
-klasik_komplikasyon: 'Transfüzyona bağlı ikincil hemokromatoz: dilate kardiyomiyopati, diyabet, hipofiz
-  yetmezliği, karaciğer fibrozu; ekstramedüller hematopoez'
+- '**Mikrositik hipokrom anemi**; **Mentzer indeksi** (MCVnin eritrosit sayısına bölümü) **13ün altında**,
+  **RDW** az ya da hafif artmış, demir düzeyleri normal'
+- 'Beta-talasemi taşıyıcılığında elektroforezde **HbA2 yüzde 3,5** ve üzerinde; **HbF** hafif artışı'
+- 'Periferik yaymada **hedef hücreler**, **bazofilik beneklenme**, boyut-şekil çeşitliliği'
+- '**Cooley anemisinde** çocuklukta ciddi anemi, **hepatosplenomegali**, kafa ve yüz kemiklerinde genişleme,
+  **büyüme geriliği**'
+- 'Düzenli transfüzyon alan hastada **ferritin** yüksekliği, ciltte **bronz pigmentasyon**, **endokrin
+  yetmezlik** bulguları'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — beta-talasemi taşıyıcılığında **HbA2**nin
+  belirgin artması; ileri hastada kafatası grafinde **fırça uçları** görünümü
+ilk_tetkik: 'Tam kan sayımı ve **periferik yayma**, **demir düzeyleri** (eksikliği dışlamak için), **hemoglobin
+  elektroforezi** ya da **HPLC**'
+kesin_tani: 'Elektroforezde **HbA2** ve **HbF** oranlarının ölçümü; gerektiğinde **globin gen analizi** (alfa
+  silinme sayısı, beta mutasyonları)'
+ilk_tedavi: 'Major tip: düzenli **eritrosit transfüzyonu** (hedef hemoglobin **9-10**) ve **demir kelasyonu**
+  (**deferasiroks**, **deferoksin**, **deferipron**). Aşırı dalak çalışmasında **splenektomi**; kür sağlayan
+  seçenek **hematopojetik kök hücre nakli**. Minor tip: yalnızca bilgilendirme ve **genetik danışmanlık**,
+  demir tedavisi verilmez'
+klasik_komplikasyon: 'Transfüzyona bağlı **ikincil hemokromatoz**: **dilate kardiyomiyopati**, **diyabet**,
+  **hipofiz yetmezliği**, **karaciğer fibrozu**; **ekstramedüller hematopoez**'
 tus_gecmisi:
 - tus-2014-ilkbahar-ttbt-81
 - tus-2015-ilkbahar-ktbt-59

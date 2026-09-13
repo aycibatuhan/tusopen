@@ -15,39 +15,20 @@ taksonomi:
   - dahiliye
   - dah_romatoloji
   - dah_rom_behcet
-tipik_hasta: 20-40 yaş arasında, aylık tekrarlayan ağrılı ağız yaralarıyla gelen genç hasta; Türkiye dahil
-  İpek Yolu coğrafyasından gelen olgularda akılda tutulur. Tekrarlayan genital yara, ağrılı-kızarıklı
-  göz atakları ve bacaklarda eritema nodoz benzeri nodüller öyküsü ipucudur; erkeklerde göz ve damar tutulumu
-  daha ağır seyreder
-patofizyoloji: Genetik yatkınlık (HLA-B51 en güçlü bağlantı) ve muhtemelen bir mikrobik tetikle nötrofillerin
-  aşırı etkinleştiği, her boyuttaki damarı tutabilen multisistemik vaskülit. Nötrofil göçü ve damar duvarı
-  inflamasyonu aftarın, eritema nodoz benzeri lezyonların ve paterji yanıtının (minör iğne travmasına
-  sterill püstül) altında yatar; bu yönüyle Sweet, pyoderma gangrenosum ve hidradenit süpürativa ile aynı
-  nötrofilik dermatoz ailesindedir
+tipik_hasta: "**20-40 yaş** arasında, aylık tekrarlayan **ağrılı ağız yaraları**yla gelen genç hasta; Türkiye dahil **İpek Yolu coğrafyasından** gelen olgularda akılda tutulur. Tekrarlayan **genital yara**, ağrılı-kızarıklı **göz atakları** ve bacaklarda **eritema nodoz** benzeri nodüller öyküsü ipucudur; erkeklerde **göz ve damar tutulumu** daha ağır seyreder"
+patofizyoloji: "Genetik yatkınlık (**HLA-B51** en güçlü bağlantı) ve muhtemelen bir mikrobik tetikle **nötrofil**lerin aşırı etkinleştiği, her boyuttaki damarı tutabilen **multisistemik vaskülit**. Nötrofil göçü ve damar duvarı inflamasyonu aftların, eritema nodoz benzeri lezyonların ve **paterji** yanıtının (minör iğne travmasına steril püstül) altında yatar; bu yönüyle **Sweet**, **piyoderma gangrenozum** ve **hidradenit süpürativa** ile aynı **nötrofilik dermatoz** ailesindedir"
 anahtar_bulgular:
-- 'Tekrarlayan ağrılı oral aftlar: yuvarlak, yüzeyel, sarımsı zeminli; sık nükseder (yılda en az üç kez)
-  ve hastaların hemen hepsinde ilk ve sürekli bulgudur'
-- 'Genital aftlar: vulva, skrotum ve peniste daha derin, daha ağrılı ve iz bırakan skarlarla iyileşir'
-- 'Göz tutulumu: iki taraflı, tekrarlayıcı panuveit ve retinal vaskülit; ağrı, kızarıklık ve sisli görme
-  ataklarıyla ilerleyici görme kaybına gider'
-- 'Cilt: eritema nodoz benzeri ağrılı nodüller, damar boyu kızarık şeritle seyreden süperfisyal tromboflebit,
-  papülopüstüler lezyonlar'
-- 'Paterji testi pozitifliği: sterill iğne batırılan deride 24-48 saat içinde papülopüstül yanıt'
-- 'Eklem, sinir ve damar: diz-ayak bileğinde nonerozif oligoartrit, beyin sapı-bazal ganglion tutulumlu
-  nöro-Behçet, derin ven trombozu ve arter anevrizması'
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Paterji testi pozitifliği: steril iğne batırma sonrası 48 saat içinde papülopüstül yanıt'
-ilk_tetkik: Klinik değerlendirme ve paterji testi; yarık lambayla göz muayenesi (subklinik uveit araması);
-  aft kültürü tanı için gerekmez
-kesin_tani: 'Uluslararası kriterler: ISG 1990 tekrarlayan oral aftı zorunlu şart sayar ve genital aft, göz tutulumu,
-  cilt bulguları ile paterji pozitifliğinden ikisinin eklenmesini ister; ICBD 2014 puanlama sistemidir
-  (oral aft 2, genital aft 2, göz tutulumu 2, cilt bulguları 1, vasküler 1, nörolojik 1, paterji 1; dört puan ve üzerindeki toplam
-  skor Behçet tanısını destekler, oral aft zorunlu değildir)'
-ilk_tedavi: Aftlarda topikal kortikosteroid (ağız yıkaması veya jel); mukokutanöz ve eklem bulgularında
-  kolşisin; göz tutulumunda sistemik steroid + azatioprin, dirençte anti-TNF ajan veya interferon; derin
-  ven trombozunda immunosupresyon öndedir, antikoagülanın tek başına verilmesi damar duvarı kırılganlığına
-  bağlı kanama riski taşır
-klasik_komplikasyon: Nöro-Behçet (beyin sapı sendromu, venöz sinüs trombozu) ve pulmoner arter anevrizması
-  kanaması; tekrarlayıcı panuveitte kalıcı görme kaybı
+- "Tekrarlayan **ağrılı oral aft**: yuvarlak, yüzeyel, sarımsı zeminli; sık nükseder (**yılda en az üç kez**) ve hastaların hemen hepsinde ilk ve sürekli bulgudur"
+- "**Genital aftlar**: vulva, skrotum ve peniste daha derin, daha ağrılı ve **iz bırakan skarlarla** iyileşir"
+- "**Göz tutulumu**: iki taraflı, tekrarlayıcı **panuveit** ve retinal vaskülit; ağrı, kızarıklık ve sisli görme ataklarıyla **ilerleyici görme kaybına** gider"
+- "Cilt: **eritema nodoz** benzeri ağrılı nodüller, damar boyu kızarık şeritle seyreden **süperfisyal tromboflebit**, papülopüstüler lezyonlar"
+- "**Paterji testi** pozitifliği: steril iğne batırılan deride **24-48 saat** içinde papülopüstül yanıt"
+- "Eklem, sinir ve damar: diz-ayak bileğinde nonerozif **oligoartrit**, beyin sapı-bazal ganglion tutulumlu **nöro-Behçet**, **derin ven trombozu** ve **arter anevrizması**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **paterji testi pozitifliği**: steril iğne batırma sonrası **48 saat** içinde papülopüstül yanıt"
+ilk_tetkik: "**Klinik değerlendirme** ve **paterji testi**; yarık lambayla **göz muayenesi** (subklinik uveit araması); aft kültürü tanı için gerekmez"
+kesin_tani: "**ISG 1990** kriterleri tekrarlayan oral aftı **zorunlu şart** sayar ve genital aft, göz tutulumu, cilt bulguları ile paterji pozitifliğinden **ikisinin** eklenmesini ister; **ICBD 2014** puanlama sistemidir: oral aft **2**, genital aft **2**, göz tutulumu **2**, cilt bulguları **1**, vasküler **1**, nörolojik **1**, paterji **1**; **Dört puan** ve üzerindeki toplam skor Behçet tanısını destekler, oral aft zorunlu değildir"
+ilk_tedavi: "Aftlarda **topikal kortikosteroid** (ağız yıkaması veya jel); mukokutanöz ve eklem bulgularında **kolşisin**; **Göz tutulumunda** sistemik **steroid + azatioprin**, dirençte **anti-TNF** ajan veya **interferon**; **Derin ven trombozunda** immunosupresyon öndedir; **antikoagülanın** tek başına verilmesi damar duvarı kırılganlığına bağlı kanama riski taşır"
+klasik_komplikasyon: "**Nöro-Behçet** (beyin sapı sendromu, venöz sinüs trombozu) ve **pulmoner arter anevrizması** kanaması; tekrarlayıcı panuveitte **kalıcı görme kaybı**"
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-26
 - tus-2015-ilkbahar-ktbt-105

@@ -15,34 +15,19 @@ taksonomi:
   - pediatri
   - ped_immunoloji_alerji
   - ped_imm_atopik_dermatit
-tipik_hasta: Vakaların çoğu 5 yaşından önce başlayan, dalgalı alevlenmeli ve gece artan kaşıntıyla başvuran
-  çocuk; kişisel veya aile öyküsünde astım, alerjik rinit, gıda alerjisi. Bebekte yanak ve ekstansör yüzeyler,
-  çocukluk ve erişkinlikte antekubital-popliteal kıvrımlar öne çıkar; kaşıntı uyku bozulmasına yol açar
-patofizyoloji: Filagrin geni (FLG) mutasyonları ve seramid eksikliği epidermal bariyeri bozar; transanepidermal
-  su kaybı kserozis yapar, alerjenler ve mikroorganizmalar bariyerden geçerek Th2 ağırlıklı yanıtı (IL-4,
-  IL-13, IL-31; yüksek IgE ve eozinofili) besler. Kaşıntı bariyeri daha da zedeler ve kısır döngü kurar.
-  Hijyen hipotezi, erken çocuklukta mikrobiyal maruziyetin azalmasının bu atopik eğilimi artırdığını öne
-  sürer
+tipik_hasta: "Vakaların çoğu **5 yaşından önce** başlayan, dalgalı alevlenmeli ve **gece artan kaşıntı**yla başvuran çocuk; kişisel veya aile öyküsünde **astım**, **alerjik rinit**, **gıda alerjisi**. Bebekte **yanak ve ekstansör yüzeyler**, çocukluk ve erişkinlikte **antekubital-popliteal kıvrımlar** öne çıkar; kaşıntı **uyku bozulmasına** yol açar"
+patofizyoloji: "**Filagrin (FLG)** mutasyonları ve **seramid** eksikliği epidermal **bariyeri** bozar; transanepidermal su kaybı **kserozis** yapar, alerjenler ve mikroorganizmalar bariyerden geçerek **Th2 ağırlıklı** yanıtı (**IL-4, IL-13, IL-31**; yüksek **IgE** ve eozinofili) besler; **Kaşıntı** bariyeri daha da zedeler ve kısır döngü kurar; **Hijyen hipotezi**, erken çocuklukta mikrobiyal maruziyetin azalmasının bu atopik eğilimi artırdığını öne sürer"
 anahtar_bulgular:
-- Kronik, tekrarlayan, gece artan kaşıntı — hastalığı tanımlayan temel özellik
-- 'Yaşa göre değişen dağılım: bebekte yüz ve ekstansör yüzeylerde egzamatöz lezyonlar; çocukta ve erişkinde
-  fleksiyon kıvrımlarında likenifiye plaklar'
-- Kserozis (kuru cilt), hiperlineer avuç içi, folliküler vurgu
-- 'Atopik eşlik ve laboratuvar: astım, alerjik rinit, gıda alerjisi; serum total IgE ve periferik eozinofil
-  yüksekliği'
-- 'Küçük bulgular: Dennie-Morgan alt göz kapağı katlanması, pitiryazis alba, lökonitri (beyaz dermografizm),
-  lateral kaş seyrelmesi (Hertoghe belirtisi)'
+- "Kronik, tekrarlayan, gece artan **kaşıntı** — hastalığı tanımlayan temel özellik"
+- "Yaşa göre değişen dağılım: bebekte **yüz ve ekstansör yüzeylerde** egzamatöz lezyonlar; çocukta ve erişkinde **fleksiyon kıvrımlarında likenifiye** plaklar"
+- "**Kserozis** (kuru cilt), hiperlineer avuç içi, folliküler vurgu"
+- "Atopik eşlik ve laboratuvar: **astım**, **alerjik rinit**, **gıda alerjisi**; serum **total IgE** ve periferik **eozinofil** yüksekliği"
+- "Küçük bulgular: **Dennie-Morgan** alt göz kapağı katlanması, **pitiryazis alba**, **lökonitri** (beyaz dermografizm), lateral kaş seyrelmesi (**Hertoghe belirtisi**)"
 patognomonik: null
-ilk_tetkik: Klinik muayene; destekleyici olarak serum total IgE ve eozinofil sayımı, süperinfeksiyon şüphesinde
-  lezyon kültürü
-kesin_tani: 'Klinik kriterler: zorunlu olarak kronik kaşıntı + tipik morfoloji ve yerleşim + gidiş-gelişli
-  seyir; destekleyici olarak erken başlangıç, atopik kişisel/aile öyküsü ve kserozis (Hanifin-Rajka /
-  İngiliz Çalışma Grubu kriterleri); rutin biyopsi gerekmez'
-ilk_tedavi: 'Temel: vazelin bazlı yoğun nemlendirici (emoliyan) günde en az iki kez, banyo sonrası. Alevlenmede
-  uygun güçte topikal kortikosteroid; yüz, göz çevresi ve kıvrım bölgelerinde topikal kalsinörin inhibitörü
-  (takrolimus, pimekrolimus). Kaşıntıya antihistaminik; dirençli olguda NB-UVB fototerapi veya dupilumab'
-klasik_komplikasyon: Staphylococcus aureus süperinfeksiyonu ve herpetik egzama (Kaposi variselliform eruksiyonu)
-  — ateşle hızla yayılan veziküller acil sistemik asiklovir gerektirir
+ilk_tetkik: "**Klinik muayene**; destekleyici olarak serum **total IgE** ve **eozinofil** sayımı, süperinfeksiyon şüphesinde **lezyon kültürü**"
+kesin_tani: "Klinik kriterler: zorunlu olarak **kronik kaşıntı** + tipik morfoloji ve yerleşim + gidiş-gelişli seyir; destekleyici olarak erken başlangıç, atopik kişisel/aile öyküsü ve **kserozis** (**Hanifin-Rajka** / İngiliz Çalışma Grubu kriterleri); rutin biyopsi gerekmez"
+ilk_tedavi: "Temel: **vazelin bazlı yoğun nemlendirici (emoliyan)** günde **en az iki kez**, banyo sonrası. Alevlenmede uygun güçte **topikal kortikosteroid**; yüz, göz çevresi ve kıvrım bölgelerinde topikal **kalsinörin inhibitörü** (**takrolimus**, **pimekrolimus**). Kaşıntıya **antihistaminik**; dirençli olguda **NB-UVB** fototerapi veya **dupilumab**"
+klasik_komplikasyon: "**Staphylococcus aureus** süperinfeksiyonu ve **herpetik egzama** (Kaposi variselliform eruksiyonu) — ateşle hızla yayılan veziküller acil sistemik **asiklovir** gerektirir"
 tus_gecmisi:
 - tus-2016-ilkbahar-ktbt-57
 - tus-2017-sonbahar-ktbt-56

@@ -8,18 +8,18 @@ sources:
 ad: Plasenta Previa
 taksonomi:
   - [ktbt, kadin_dogum, kd_fetal_komplikasyonlar, kd_fk_plasenta_previa]
-tipik_hasta: "Önceki sezaryen veya rahim içi girişim öyküsü olan, sigara içen ya da çoğul gebelik taşıyan; üçüncü üç aylık dönemde ağrısız, parlak kırmızı vajinal kanamayla acile gelen gebe"
-patofizyoloji: "Plasenta rahim iç ağzını örttüğünde rahim alt bölümü gebelik ilerledikçe incelip açılır; bu esnada plasentanın alt kısmı yerinden ayrılır ve kanama başlar. Kanama tamamen anne damarlarındandır ve eylem ağrısı olmadan olur; doğum kanalına elle muayene plasentayı doğrudan zorladığı için kanamayı alevlendirir ve yasaktır. Önceki sezaryen yeri olan alt segmentte onarım dokusu implantasyonu oraya çektiği için en büyük risk budur"
+tipik_hasta: "Önceki **sezaryen** veya rahim içi girişim öyküsü olan, **sigara** içen ya da **çoğul gebelik** taşıyan; üçüncü üç aylık dönemde **ağrısız, parlak kırmızı vajinal kanama** ile acile gelen gebe"
+patofizyoloji: "Plasenta **rahim iç ağzını örttüğünde** rahim alt bölümü gebelik ilerledikçe incelip açılır; bu esnada plasentanın alt kısmı yerinden ayrılır ve **kanama** başlar. Kanama tamamen **anne damarlarındandır** ve **eylem ağrısı olmadan** olur; doğum kanalına **elle muayene** kanamayı alevlendirir ve **yasaktır**. Önceki **sezaryen yeri** onarım dokusu implantasyonu oraya çektiği için en büyük risk budur"
 anahtar_bulgular:
-  - "Üçüncü üç aylık dönemde ağrısız, parlak kırmızı vajinal kanama"
-  - "Rahim tabanında hassasiyet ve sertlik yok; rahim kontraksiyonlar arasında gevşek"
-  - "Önceki sezaryen veya rahim içi işlem öyküsü"
-  - "20. haftada previa görülen çoğu gebelikte plasenta yukarı göç eder; 32. haftada tekrar değerlendirilir"
-  - "Kanamanın miktarı fetal durumdan bağımsız; fetus genellikle sağlıklı görünür"
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — "Üçüncü üç aylık dönemde ağrısız ve parlak kırmızı vajinal kanama"
-ilk_tetkik: "Önce transabdominal, gerektiğinde transvajinal ultrason; plasenta yeri belirlenmeden vajinal muayene yapılmaz"
-kesin_tani: "Ultrasonda plasentanın rahim iç ağzını örtmesi (total) veya kıyısına yapışması (marjinal) saptanması"
-ilk_tedavi: "Anne ve fetus stabilse bekleyen yönetim: istirahat, kan grubu tayini ve kan hazırlığı, kanama tekrarına hazır olunması; doğum yöntemi daima sezaryendir, 36-37 haftadan sonra ağır kanama veya durumsal bozulma doğum gerekçesidir"
-klasik_komplikasyon: "Ağır annesel kanama; önceki sezaryenli olguda plasenta akkreata (plasentanın rahim duvarına girmesi) ve buna bağlı rahim korunamama; fetus gelişme geriliği"
+  - "Üçüncü üç aylık dönemde **ağrısız, parlak kırmızı vajinal kanama**"
+  - "Rahim tabanında **hassasiyet ve sertlik yok**; kontraksiyonlar arasında **gevşek**"
+  - "Önceki **sezaryen** veya rahim içi işlem öyküsü"
+  - "**20. haftada** previa görülen çoğu gebelikte plasenta **yukarı göç eder**; **32. haftada** tekrar değerlendirilir"
+  - "Kanamanın miktarı **fetal durumdan bağımsız**; fetus genellikle sağlıklı görünür"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — **Üçüncü üç aylık dönemde ağrısız ve parlak kırmızı vajinal kanama**"
+ilk_tetkik: "Önce **transabdominal**, gerektiğinde **transvajinal ultrason**; plasenta yeri belirlenmeden **vajinal muayene yapılmaz**"
+kesin_tani: "Ultrasonda plasentanın **rahim iç ağzını örtmesi (total)** veya kıyısına yapışması (**marjinal**) saptanması"
+ilk_tedavi: "Anne ve fetus stabilse **bekleyen yönetim**: istirahat, **kan grubu tayini ve kan hazırlığı**, kanama tekrarına hazır olunması. Doğum yöntemi **daima sezaryendir**; **36-37 haftadan sonra** ağır kanama veya durumsal bozulma doğum gerekçesidir"
+klasik_komplikasyon: "Ağır **annesel kanama**; önceki sezaryenli olguda **plasenta akkreata** (plasentanın rahim duvarına girmesi) ve buna bağlı **rahim korunamama**; fetus **gelişme geriliği**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

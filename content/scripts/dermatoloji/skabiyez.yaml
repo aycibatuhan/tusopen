@@ -11,34 +11,19 @@ taksonomi:
   - dermatoloji
   - derm_fungal_parazit
   - derm_fp_skabiyez_pedikuloz
-tipik_hasta: Gece uykudan uyandıran şiddetli kaşıntıyla gelen hasta; muayenede parmak araları, bilekler,
-  bel hattı, koltuk altı kıvrımları, areola ve genital bölgede kaşıntılı papüller görülür. Anamnezin kilit
-  noktası aynı evde yaşayan aile bireylerinde ya da yakın temaslılarda benzer kaşıntının olmasıdır; kalabalık
-  konut, yatılı kurum ve bağışıklık baskılanması (kabuklu/norveç tipi) riski artırır
-patofizyoloji: Sarcoptes scabiei var. hominis dişi akarı stratum korneum içine tünel kazıp yumurtlar.
-  Kaşıntı akarın, yumurtalarının ve dışkısının (skibala) yol açtığı gecikmeli tip IV hipersensivite yanıtına
-  bağlıdır; bu yüzden ilk enfestasyonda kaşıntı 3-6 hafta sonra başlar, yeniden enfestasyonda duyarlılık
-  hazır olduğu için 1-3 gün içinde belirir. Yüz ve saçlı deri erişkinlerde korunur, süt çocuklarında tutulabilir
+tipik_hasta: "Gece uykudan uyandıran **şiddetli kaşıntı**yla gelen hasta; muayenede **parmak araları**, **bilekler**, **bel hattı**, koltuk altı kıvrımları, areola ve **genital bölge**de kaşıntılı papüller görülür. Anamnezin kilit noktası **aynı evde yaşayan** aile bireylerinde ya da yakın temaslılarda benzer kaşıntının olmasıdır; **kalabalık konut**, yatılı kurum ve **bağışıklık baskılanması** (**kabuklu/norveç tipi**) riski artırır"
+patofizyoloji: "**Sarcoptes scabiei var. hominis** dişi akarı **stratum korneum** içine **tünel** kazıp yumurtlar. Kaşıntı akarın, yumurtalarının ve dışkısının (**skibala**) yol açtığı **gecikmeli tip IV hipersensivite** yanıtına bağlıdır; bu yüzden ilk enfestasyonda kaşıntı **3-6 hafta** sonra başlar, yeniden enfestasyonda duyarlılık hazır olduğu için **1-3 gün** içinde belirir; **Yüz ve saçlı deri** erişkinlerde korunur, **süt çocuklarında** tutulabilir"
 anahtar_bulgular:
-- Gece belirginleşen, sıcakla artan inatçı kaşıntı
-- 'Tünel (yol) lezyonu: parmak araları ve bileklerde ince, gri, serpiginöz çizgiler; ucunda koyu nokta'
-- Erkek genital bölgesinde ve skrotumda sert, kaşıntılı nodüller (skabiyetik nodül)
-- Aynı evdeki birden fazla kişide benzer kaşıntı öyküsü
-- Bağışıklık baskılanmış hastada az kaşıntılı, kalın kabuklu-hiperkeratotik geniş tutulum (kabuklu/norveç
-  tipi) ve yüksek bulaşıcılık
-patognomonik: Tünel lezyonu; dermatoskopide tünelin ucunda kahverengi üçgen (delta kanat) görünümü içinde
-  akar
-ilk_tetkik: Dermatoskopik inceleme; tünel ucundan mineral yağ altında kazıma yapılıp mikroskobik inceleme
-  (akar, yumurta, skibala aranır)
-kesin_tani: Mikroskopta akar, yumurta veya dışkı partiküllerinin görülmesi; tipik klinik dağılım ve aile
-  içi bulaş öyküsüyle kesinleşir
-ilk_tedavi: 'Permetrin %5 krem boyun aşağısı tüm vücuda (parmak araları dahil) gece sürülür, 8-12 saat
-  sonra yıkanır ve 1 hafta sonra yinelenir; alternatif olarak 1. ve 8. günlerde oral ivermektin. Kritik
-  kural: belirtileri olsun olmasın tüm ev halkı ve yakın temaslılar aynı anda tedavi edilir; kıyafet,
-  çarşaf ve havlular sıcak yıkama ya da 72 saat kapalı saklama ile temizlenir. Kabuklu tipinde ivermektin
-  artı permetrin birlikte verilir'
-klasik_komplikasyon: Kaşıntıya bağlı ikincil bakteriyel enfeksiyon (streptokokal ektima, selülit; poststreptokokal
-  glomerülonefrit riski); haftalarca sürebilen post-skabiyotik kaşıntı; yatılı kurumlarda salgın
+- "Gece belirginleşen, sıcakla artan **inatçı kaşıntı**"
+- "**Tünel (yol) lezyonu**: parmak araları ve bileklerde ince, gri, **serpiginöz çizgiler**; ucunda koyu nokta"
+- "Erkek genital bölgesinde ve skrotumda sert, kaşıntılı nodüller (**skabiyetik nodül**)"
+- "**Aynı evdeki** birden fazla kişide benzer kaşıntı öyküsü"
+- "Bağışıklık baskılanmış hastada az kaşıntılı, kalın **kabuklu-hiperkeratotik** geniş tutulum (**kabuklu/norveç tipi**) ve **yüksek bulaşıcılık**"
+patognomonik: "**Tünel lezyonu**; dermatoskopide tünelin ucunda **kahverengi üçgen (delta kanat)** görünümü içinde **akar**"
+ilk_tetkik: "**Dermatoskopik** inceleme; tünel ucundan **mineral yağ** altında kazıma yapılıp mikroskobik inceleme (**akar**, **yumurta**, **skibala** aranır)"
+kesin_tani: "Mikroskopta **akar, yumurta veya dışkı partikülleri**nin görülmesi; **tipik klinik dağılım** ve **aile içi bulaş** öyküsüyle kesinleşir"
+ilk_tedavi: "**Permetrin %5 krem** boyun aşağısı tüm vücuda (parmak araları dahil) gece sürülür, **8-12 saat** sonra yıkanır ve **1 hafta** sonra yinelenir; alternatif olarak **1. ve 8. günlerde oral ivermektin**. Kritik kural: belirtileri olsun olmasın **tüm ev halkı ve yakın temaslılar aynı anda** tedavi edilir. Kıyafet, çarşaf ve havlular **sıcak yıkama** ya da **72 saat kapalı saklama** ile temizlenir, **kabuklu tipinde ivermektin artı permetrin** birlikte verilir"
+klasik_komplikasyon: "Kaşıntıya bağlı ikincil **bakteriyel enfeksiyon** (**streptokokal ektima**, selülit; **poststreptokokal glomerülonefrit** riski); haftalarca sürebilen **post-skabiyotik kaşıntı**; yatılı kurumlarda **salgın**"
 tus_gecmisi:
 - tus-2019-ilkbahar-ttbt-110
 kart_uret:

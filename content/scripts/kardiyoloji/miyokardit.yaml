@@ -11,33 +11,37 @@ taksonomi:
   - kardiyoloji
   - kard_endokardit_miyokard_perikard
   - kard_em_miyokardit
-tipik_hasta: Genç erişkin (çoğunluk genç erkek); başvurudan birkaç hafta önce nezle benzeri viral üst
-  solunum yolu enfeksiyonu geçirmiş; şimdi çarpıntı, efor dispnesi veya kesici göğüs ağrısıyla gelen hasta;
-  EKG'de yaygın ST elevasyonu ve troponin yükselmesi görülünce ilk bakışta infarkt gibi durur ama genç
-  yaş ve viral öngeçmiş miyokarditi akla getirir
-patofizyoloji: Viral etken (en sık enterovirüsler, adenovirüs, parvovirüs B19) miyokarda yerleşir; doğrudan
-  sitopatik hasar ve konak immün yanıtının kardiyomiyositlere yönlenmesi nekroz ve iltihabi ödeme yol
-  açar. Ödem ve nekroz hem pompa fonksiyonunu düşürür hem de aritmi eşiğini indirir; tablo akut koroner
-  sendromu taklit edebileceği gibi fulminan kalp yetmezliğine ve kardiyojenik şoka dek ilerleyebilir
+tipik_hasta: "Genç erişkin (çoğunluk genç erkek); başvurudan birkaç hafta önce **nezle benzeri viral üst
+  solunum yolu enfeksiyonu** geçirmiş. Şimdi **çarpıntı**, **efor dispnesi** veya **kesici göğüs
+  ağrısı**yla gelir. EKG'de **yaygın ST elevasyonu** ve **troponin** yükselmesi görülünce ilk bakışta
+  infarkt gibi durur ama genç yaş ve viral öngeçmiş **miyokarditi** akla getirir"
+patofizyoloji: "Viral etken (en sık **enterovirüsler**, **adenovirüs**, **parvovirüs B19**) miyokarda
+  yerleşir; **doğrudan sitopatik hasar** ve konak immün yanıtının kardiyomiyositlere yönlenmesi **nekroz**
+  ve iltihabi ödeme yol açar. Ödem ve nekroz hem **pompa fonksiyonunu** düşürür hem de **aritmi
+  eşiğini** indirir. Tablo **akut koroner sendromu** taklit edebileceği gibi **fulminan kalp
+  yetmezliği**ne ve **kardiyojenik şok**a dek ilerleyebilir"
 anahtar_bulgular:
-- Genç hastada viral enfeksiyonu izleyen günlerde-haftalarda başlayan çarpıntı, dispne veya göğüs ağrısı
-- Kardiyak troponin yüksekliği; CRP ve sedimentasyon artışı
-- EKG'de yaygın ST elevasyonu veya depresyonu, yeni başlayan aritmiler (ventriküler taşikardi, atrioventriküler
-  blok)
-- Ekokardiyografide yaygın veya fokal duvar hareket bozukluğu, düşük ejeksiyon fraksiyonu, perikard sıvısı
-- Koroner anjiyografide obstrüktif koroner hastalığın saptanmaması
+- "Genç hastada **viral enfeksiyon**u izleyen günlerde-haftalarda başlayan **çarpıntı**, dispne veya göğüs
+  ağrısı"
+- "**Kardiyak troponin** yüksekliği; **CRP** ve **sedimentasyon** artışı"
+- "EKG'de **yaygın ST elevasyonu veya depresyonu**, yeni başlayan **aritmiler** (**ventriküler
+  taşikardi**, **atrioventriküler blok**)"
+- "Ekokardiyografide **yaygın veya fokal duvar hareket bozukluğu**, düşük **ejeksiyon fraksiyonu**,
+  **perikard sıvısı**"
+- "**Koroner anjiyografi**de obstrüktif koroner hastalığın **saptanmaması**"
 patognomonik: null
-ilk_tetkik: EKG, troponin ve ekokardiyografi ilk adım; akut koroner sendrom şüphesiyle yapılan koroner
-  anjiyografide koronerlerin normal çıkışı tanıyı destekler; kardiyak MRG iltihabı göstermede en iyi noninvaziv
-  yöntemdir
-kesin_tani: 'Endomiyokard biyopsisi: histolojide lenfositik infiltrasyon ve miyosit nekrozu; pratikte
-  çoğu olguda biyopsiye gerek kalmadan klinik tablo, troponin, MRG bulguları ve normal koronerlerle klinik
-  tanı konur'
-ilk_tedavi: 'Destekleyici yaklaşım: aktivite kısıtlaması, kalp yetmezliği tedavisi (diüretik, anjiyotensin
-  dönüşüm enzimi inhibitörü, stabilleşince beta bloker), aritmi yönetimi; fulminan olguda inotrop ve mekanik
-  dolaşım desteği; immünosupresyon yalnızca biyopsi kanıtlı veya dev hücreli gibi özel formlarda düşünülür'
-klasik_komplikasyon: Genişlemiş (dilatatif) kardiyomiyopatiye dönüşme; yaşamı tehdit eden ventriküler
-  aritmiler ve ani ölüm
+ilk_tetkik: "**EKG**, **troponin** ve **ekokardiyografi** ilk adım; akut koroner sendrom şüphesiyle
+  yapılan **koroner anjiyografi**de koronerlerin **normal** çıkışı tanıyı destekler. **Kardiyak MRG**
+  iltihabı göstermede en iyi **noninvaziv** yöntemdir"
+kesin_tani: "**Endomiyokard biyopsisi**: histolojide **lenfositik infiltrasyon** ve **miyosit nekrozu**.
+  Pratikte çoğu olguda biyopsiye gerek kalmadan **klinik tablo**, **troponin**, **MRG** bulguları ve
+  **normal koronerler**le klinik tanı konur"
+ilk_tedavi: "Destekleyici yaklaşım: **aktivite kısıtlaması**, kalp yetmezliği tedavisi (**diüretik**,
+  **anjiyotensin dönüşüm enzimi inhibitörü**, stabilleşince **beta bloker**), **aritmi yönetimi**.
+  **Fulminan** olguda **inotrop** ve **mekanik dolaşım desteği**. **İmmünosupresyon** yalnızca biyopsi
+  kanıtlı veya **dev hücreli** gibi özel formlarda düşünülür"
+klasik_komplikasyon: "**Genişlemiş (dilatatif) kardiyomiyopati**ye dönüşme. Yaşamı tehdit eden
+  **ventriküler aritmiler** ve **ani ölüm**"
 tus_gecmisi:
 - tus-2017-sonbahar-ktbt-8
 - tus-2018-ilkbahar-ttbt-83

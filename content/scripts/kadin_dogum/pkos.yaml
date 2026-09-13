@@ -15,34 +15,19 @@ taksonomi:
   - dahiliye
   - dah_endokrinoloji
   - dah_end_pkos_hirsutizm
-tipik_hasta: Menarştan sonra adetleri hiç düzenli olmayan genç kadın; seyrek adet (oligomenore) veya amenore,
-  tüylenme artışı ve akne şikâyetiyle gelir; kilo artışı ve bel çevresi yağlanması sık eşlik eder; doğurganlık
-  değerlendirmesine anovulatuar infertilite ile de gelebilir
-patofizyoloji: 'Çekirdek bozukluk hipotalamik GnRH atım frekansının hızlanması: yüksek frekanslı puls,
-  LH öncülüğünü artırır ve overe kesintisiz androjen yapım komutu gider; folliküler seçim tamamlanamayıp
-  anovülasyon sürer. İnsülin direnci tabloyu iki yoldan derinleştirir: yüksek insülin karaciğerde seks
-  hormonu bağlayıcı globulin (SHBG) üretimini baskılayarak serbest androjen düzeyini yükseltir; LH''nin
-  teka hücreleri üzerindeki etkisini de güçlendirir. Anovülasyon nedeniyle endometriyum progesteron koruması
-  olmadan östrojen etkisinde kalır'
+tipik_hasta: "Menarştan sonra adetleri hiç düzenli olmayan genç kadın; **oligomenore veya amenore, tüylenme artışı ve akne** şikâyetiyle gelir; **kilo artışı** ve bel çevresi yağlanması sık eşlik eder; doğurganlık değerlendirmesine **anovulatuar infertilite** ile de gelebilir"
+patofizyoloji: "Çekirdek bozukluk **hipotalamik GnRH atım frekansının hızlanması**: yüksek frekanslı puls **LH öncülüğünü** artırır ve overe kesintisiz **androjen yapım komutu** gider; **folliküler seçim** tamamlanamayıp **anovülasyon** sürer. **İnsülin direnci** tabloyu derinleştirir: yüksek insülin **SHBG** üretimini baskılayarak **serbest androjeni** yükseltir ve **LH'nin teka hücreleri** üzerindeki etkisini güçlendirir. Anovülasyon nedeniyle endometriyum **progesteron koruması olmadan östrojen** etkisinde kalır"
 anahtar_bulgular:
-- 'Seyrek ve düzensiz adet: oligomenore veya amenore (oligo/anovülasyon)'
-- Hirsutizm, akne, saç çizgisinde seyrelme gibi klinik hiperandrojenizm
-- 'Biyokimyasal hiperandrojenizm: total veya serbest testosteronda hafif-orta düzey artış'
-- 'Ultrasonda polikistik over morfolojisi: tek overde çok sayıda küçük folikül'
-- 'İnsülin direnci bulguları: ense/koltuk altında kadife gibi koyu döküntü (akantozis nigrisans), bozuk
-  açlık glukozu/OGTT, dislipidemi'
+- "**Seyrek ve düzensiz adet**: oligomenore veya amenore (oligo/anovülasyon)"
+- "**Hirsutizm, akne**, saç çizgisinde seyrelme gibi klinik hiperandrojenizm"
+- "**Biyokimyasal hiperandrojenizm**: **total veya serbest testosteronda** hafif-orta düzey artış"
+- "Ultrasonda **polikistik over morfolojisi**: tek overde çok sayıda küçük folikül"
+- "**İnsülin direnci** bulguları: ense-koltuk altında **akantozis nigrisans**, bozuk açlık glukozu/**OGTT**, **dislipidemi**"
 patognomonik: null
-ilk_tetkik: 'LH/FSH oranı ve total-serbest testosteron; hiperprolaktinemi ve tiroid disfonksiyonunu dışlamak
-  için prolaktin ve TSH; konjenital adrenal hiperplaziyi dışlamak için 17-OH-progesteron; metabolik tarama:
-  açlık glukozu/OGTT ve lipid paneli'
-kesin_tani: 'Rotterdam mantığı: üç bulgudan ikisinin varlığı — oligo/anovülasyon, klinik veya biyokimyasal
-  hiperandrojenizm, ultrasonda polikistik over morfolojisi; tanıdan önce hiperprolaktinemi, tiroid hastalığı,
-  nonklasik konjenital adrenal hiperplazi ve androjen salgılayan tümör dışlanmalıdır'
-ilk_tedavi: Yaşam tarzı düzenlemesi ve kilo kaybı her hastada ilk adım; adet düzeni ve hirsutizm için
-  kombine oral kontraseptif, insülin direnci için metformin; doğurganlık isteyen hastada letrozol ile
-  ovülasyon indüksiyonu
-klasik_komplikasyon: Tip 2 diyabet ve metabolik sendrom; anovülasyona bağlı korumasız östrojen etkisiyle
-  endometriyal hiperplazi ve endometriyum kanseri riski; infertilite
+ilk_tetkik: "**LH/FSH oranı** ve **total-serbest testosteron**; hiperprolaktinemi-tiroidi dışlamak için **prolaktin ve TSH**; konjenital adrenal hiperplaziyi dışlamak için **17-OH-progesteron**; metabolik tarama: **açlık glukozu/OGTT** ve **lipid paneli**"
+kesin_tani: "**Rotterdam mantığı**: üç bulgudan **ikisinin** varlığı — **oligo/anovülasyon**, **klinik veya biyokimyasal hiperandrojenizm**, **polikistik over morfolojisi**. Tanıdan önce **hiperprolaktinemi, tiroid hastalığı, nonklasik konjenital adrenal hiperplazi** ve **androjen salgılayan tümör** dışlanmalıdır"
+ilk_tedavi: "**Yaşam tarzı düzenlemesi ve kilo kaybı** her hastada ilk adım. Adet düzeni ve hirsutizm için **kombine oral kontraseptif**; **insülin direnci** için **metformin**. Doğurganlık isteyen hastada **letrozol** ile ovülasyon indüksiyonu"
+klasik_komplikasyon: "**Tip 2 diyabet** ve **metabolik sendrom**; anovülasyona bağlı korumasız **östrojen** etkisiyle **endometriyal hiperplazi** ve **endometrium kanseri** riski; **infertilite**"
 tus_gecmisi:
 - tus-2017-sonbahar-ktbt-115
 - tus-2020-ilkbahar-ktbt-119

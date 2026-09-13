@@ -11,31 +11,19 @@ taksonomi:
   - kadin_dogum
   - kd_benign_jinekoloji
   - kd_bj_miyom
-tipik_hasta: Üreme çağında, adet kanamaları yoğunlaşmış ve uzunlaşmış kadın; karında elle hissedilen kitle,
-  sık idrara çıkma, kabızlık gibi bası şikayetleri ya da gebelik elde edememe ile başvurabilir; Afrikan
-  kökenli kadınlarda daha genç yaşta ve çoklu görülür; önemli bölümü hiçbir şikayet vermez
-patofizyoloji: 'Myometriyum düz kas hücrelerinden kaynaklanan benign, etrafı psödokapsülle çevrili tümörlerdir;
-  genetik değişiklikler ve östrojen-progesteron duyarlılığı büyümeyi belirler, menopozla küçülürler. Yerleşim
-  tabloyu çizer: submüköz ve intramural miyomlar endometriyum yüzeyini bozarak kanamayı ve infertiliteyi,
-  subseröz miyomlar komşu organları basarak belirtileri yaratır'
+tipik_hasta: "Üreme çağında, **adet kanamaları yoğunlaşmış ve uzunlaşmış** kadın; karında elle hissedilen kitle, **sık idrara çıkma, kabızlık** gibi bası şikayetleri ya da **gebelik elde edememe** ile başvurabilir; **Afrikan kökenli** kadınlarda daha genç yaşta ve çoklu görülür; önemli bölümü hiçbir şikayet vermez"
+patofizyoloji: "**Myometriyum** düz kas hücrelerinden kaynaklanan benign, etrafı **psödokapsülle** çevrili tümörlerdir; genetik değişiklikler ve **östrojen-progesteron** duyarlılığı büyümeyi belirler, **menopozla küçülürler**. Yerleşim tabloyu çizer: **submüköz ve intramural** miyomlar endometriyum yüzeyini bozarak **kanamayı ve infertiliteyi**, **subseröz** miyomlar komşu organları basarak belirtileri yaratır"
 anahtar_bulgular:
-- 'Menoraji: adet kanama miktarının ve süresinin artması, pıhtı geçirme, demir eksikliği anemisi'
-- 'Bası bulguları: sık idrara çıkma, mesane boşaltamama, kabızlık, ileri olguda hidronefrozis'
-- Pelvik muayenede ya da karında palpasyonla hissedilen düzensiz, sert, ağrısız genişlemiş uterus
-- Submüköz miyomda tekrarlayan düşük ve gebelik elde edememe
-- Gebelikte kızıl dejenerasyon, torsiyon veya malignite şüphesinde akut ağrı ve büyüme
+- "**Menoraji**: adet kanama miktarının ve süresinin artması, **pıhtı geçirme**, **demir eksikliği anemisi**"
+- "Bası bulguları: **sık idrara çıkma**, mesane boşaltamama, kabızlık, ileri olguda **hidronefrozis**"
+- "Pelvik muayenede ya da karında palpasyonla hissedilen **düzensiz, sert, ağrısız genişlemiş uterus**"
+- "**Submüköz miyomda tekrarlayan düşük ve gebelik elde edememe**"
+- "Gebelikte **kızıl dejenerasyon**, **torsiyon** veya malignite şüphesinde akut ağrı ve büyüme"
 patognomonik: null
-ilk_tetkik: Transvajinal ve suprapubik USG; miyom sayısı, boyutu, yerleşimi ve endometriyum çizgisinin
-  değerlendirilmesi; anemi araştırması için tam kan sayımı
-kesin_tani: Tipik USG görünümü (homojen, hipoekoik, düz konturlu ve myometriyumla aynı ekojenlikte kitleler)
-  ile klinik birlikteliği yeterlidir; submüköz miyomda salin infüzyon sonografi veya histeroskopi; kesin
-  tanı myomektomi ya da histerektomi örneğinin histopatolojisi ile konur (malignite şüphesinde biyopsi)
-ilk_tedavi: Asimptomatik miyom izlem gerektirmez, yıllık değerlendirme yeterlidir; kanama için traneksamik
-  asit, levonorgestrel salgılayan spiral, GnRH analoglarının kısa süreli kullanımı ve aneminin düzeltilmesi;
-  fertilitenin korunması gereken semptomatik olguda histeroskopik veya laparoskopik myomektomi, fertilitenin
-  tamamlanmış olduğu dirençli olguda histerektomi; ameliyat istemeyen hastada uterin arter embolizasyonu
-klasik_komplikasyon: Ağır kronik anemi; gebelikte kızıl dejenerasyon ağrısı ve preterm doğum riski, saplı
-  subseröz miyomda torsiyon, submüköz miyomda infertilite ve tekrarlayan gebelik kaybı
+ilk_tetkik: "**Transvajinal ve suprapubik USG**; miyom sayısı, boyutu, yerleşimi ve **endometriyum çizgisi** değerlendirilir; **anemi** araştırması için **tam kan sayımı**"
+kesin_tani: "Tipik **USG** görünümü — homojen, **hipoekoik**, düz konturlu ve myometriyumla aynı ekojenlikte kitleler — ile klinik birlikteliği yeterlidir. **Submüköz** miyomda **salin infüzyon sonografi** veya **histeroskopi**; kesin tanı **myomektomi ya da histerektomi** örneğinin histopatolojisi ile konur (malignite şüphesinde biyopsi)"
+ilk_tedavi: "Asimptomatik miyom **izlem** gerektirmez, yıllık değerlendirme yeterlidir. Kanama için **traneksamik asit**, **levonorgestrel salgılayan spiral**, **GnRH analoglarının** kısa süreli kullanımı ve **aneminin** düzeltilmesi. Fertilitenin korunacağı semptomatik olguda **histeroskopik veya laparoskopik myomektomi**; fertilitenin tamamlanmış olduğu dirençli olguda **histerektomi**; ameliyat istemeyen hastada **uterin arter embolizasyonu**"
+klasik_komplikasyon: "Ağır **kronik anemi**; gebelikte **kızıl dejenerasyon** ağrısı ve **preterm doğum** riski, saplı **subseröz** miyomda **torsiyon**, **submüköz** miyomda **infertilite ve tekrarlayan gebelik kaybı**"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-114
 - tus-2015-ilkbahar-ktbt-113

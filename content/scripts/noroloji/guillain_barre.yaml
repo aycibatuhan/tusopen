@@ -11,37 +11,20 @@ taksonomi:
   - noroloji
   - noro_noromuskuler
   - noro_nm_gbs
-tipik_hasta: Her yaşta görülür ama yetişkinlerde sıktır; öncül solunum yolu veya gastrointestinal infeksiyon
-  (özellikle Campylobacter jejuni) sonrası 1-4 hafta içinde simetrik kuvvet kaybıyla gelen hasta; ayaklardan
-  başlayıp yukarı tırmanan ilerleme anlatısı tipiktir
-patofizyoloji: 'Moleküler mimikri: infeksiyöz ajanla çapraz reaksiyon veren antikorlar periferik sinir
-  ve köklerin miyelinini hedefler (en sık akut inflamatuvar demiyelinizan polinöropati); aksonal varyantlar
-  (AMAN, AMSAN) motor aksonda doğrudan hasar yapar. Merkezi sinir sistemi korunur; sinir iletim bozukluğu
-  kuvvet kaybını, refleks arkının tutulumu arefleksiyi açıklar'
+tipik_hasta: "**Öncül solunum yolu veya gastrointestinal infeksiyon** (özellikle **Campylobacter jejuni**) sonrası **1-4 hafta** içinde **simetrik kuvvet kaybıyla** gelen hasta; her yaşta ama yetişkinlerde sık; **Ayaklardan başlayıp yukarı tırmanan** (yükselen) ilerleme anlatısı tipiktir"
+patofizyoloji: "**Moleküler mimikri**: infeksiyöz ajanla çapraz reaksiyon veren antikorlar periferik sinir ve köklerin **miyelinini** hedefler (en sık **akut inflamatuvar demiyelinizan polinöropati**); **Aksonal varyantlar (AMAN, AMSAN)** **motor aksonda** doğrudan hasar yapar; **Merkezi sinir sistemi korunur**; sinir iletim bozukluğu **kuvvet kaybını**, refleks arkının tutulumu **arefleksiyi** açıklar"
 anahtar_bulgular:
-- Simetrik, alt ekstremiteden yukarı yayılan flasid kuvvet kaybı; günler-2 hafta içinde ilerler, 2-4 haftada
-  plato yapar
-- Derin tendon reflekslerinin kaybı veya belirgin azalması; kuvvet kaybıyla uyumsuz geniş arefleksi tanıya
-  yöneltir
-- 'Duyusal belirtiler hafif kalır: parestezi ve bel-sırt ağrısı öne çıkabilir'
-- 'Otonom disfonksiyon: taşikardi-bradikardi, tansiyon dalgalanması, idrar retansiyonu'
-- Çift taraflı yüz felci olabilir; solunum kas tutulumu hastaların yüzde 20-30'unda entübasyon gerektirir
-- 'Miller Fisher varyantı: oftalmopleji, ataksi ve arefleksi üçlüsü, anti-GQ1b antikoru pozitifliği'
-patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — Simetrik yükselen flasid paralizinin belirgin arefleksiyle birlikte olması: kuvvet kaybına
-  rağmen reflekslerin silinmesi'
-ilk_tetkik: 'Lomber ponksiyon: birinci haftadan sonra protein yüksekliği, hücre sayısı normal kalır (albuminositolojik
-  dissosiasyon). Sinir iletim çalışması: F dalgası uzaması, iletim bloğu ve iletim hızının azalması demiyelinizanı
-  destekler. Solunum fonksiyon testleri (FVC ve negatif inspirasyon gücü) düzenli izlem gerektirir; anti-gangliozid
-  antikorlar varyantlarda değerlidir'
-kesin_tani: Klinik örüntü (simetrik yükselen kuvvet kaybı artı arefleksi) artı albuminositolojik dissosiasyon
-  ve uyumlu elektrofizyoloji; tanımlı kriterlere (Asbury-Cornblath) göre konur. Miller Fisher üçlüsü ve
-  anti-GQ1b pozitifliği kendi başına tanıyıcıdır
-ilk_tedavi: 'İmmün modülasyon: intravenöz immünglobulin (günde 0,4 g/kg, 5 gün) veya plazmaferez; ikisi
-  eşdeğer etkinlikte olduğundan birlikte verilmez. Kortikosteroidler etkisizdir, verilmez. Solunum fonksiyonu
-  sık izlenir; FVC 15-20 ml/kg altına düştüğünde veya hızlı düşüşte entübasyon. Tromboz profilaksisi (heparin),
-  ritim ve tansiyon izlemi, beslenme desteği ve erken rehabilitasyon bakımın temelidir'
-klasik_komplikasyon: Solunum yetmezliği ve mekanik ventilasyon ihtiyacı; ritim bozukluğu ve tansiyon instabilitesi
-  (gözlenen ölüm nedenlerinden), derin ven trombozu, uzun rehabilitasyon gerektiren rezidüel kuvvet kaybı
+- "**Simetrik, alt ekstremiteden yukarı yayılan flasid kuvvet kaybı**; günler-**2 hafta**da ilerler, **2-4 haftada plato** yapar"
+- "**Derin tendon reflekslerinin kaybı** ya da belirgin azalması; **kuvvet kaybıyla uyumsuz geniş arefleksi** tanıya yöneltir"
+- "**Duyusal belirtiler hafif** kalır: **parestezi** ve **bel-sırt ağrısı** öne çıkabilir"
+- "**Otonom disfonksiyon**: **taşikardi-bradikardi**, **tansiyon dalgalanması**, **idrar retansiyonu**"
+- "**Çift taraflı yüz felci** olabilir; **solunum kas tutulumu** hastaların **yüzde 20-30**'unda **entübasyon** gerektirir"
+- "**Miller Fisher varyantı**: **oftalmopleji, ataksi, arefleksi** üçlüsü; **anti-GQ1b antikoru** pozitif"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **simetrik yükselen flasid paralizinin belirgin arefleksiyle** birlikte olması — **kuvvet kaybına rağmen reflekslerin silinmesi**"
+ilk_tetkik: "**Lomber ponksiyon**: birinci haftadan sonra **protein yüksekliği**, **hücre sayısı normal** (**albuminositolojik dissosiasyon**); **Sinir iletim çalışması**: **F dalgası uzaması**, **iletim bloğu**, **iletim hızı azalması** demiyelinizanı destekler; **Solunum fonksiyon testleri** (**FVC**, **negatif inspirasyon gücü**) düzenli izlem gerektirir; **anti-gangliozid antikorlar** varyantlarda değerlidir"
+kesin_tani: "**Klinik örüntü** (simetrik yükselen kuvvet kaybı + arefleksi) + **albuminositolojik dissosiasyon** + uyumlu **elektrofizyoloji**; **Asbury-Cornblath** kriterlerine göre konur; **Miller Fisher** üçlüsü ve **anti-GQ1b** pozitifliği **kendi başına tanıyıcıdır**"
+ilk_tedavi: "**İmmün modülasyon**: **intravenöz immünglobulin (günde 0,4 g/kg, 5 gün)** veya **plazmaferez** — **eşdeğer etkinlik**, birlikte verilmez; **Kortikosteroidler etkisizdir, verilmez**; **Solunum fonksiyonu** sık izlenir; **FVC 15-20 ml/kg altına** düştüğünde veya hızlı düşüşte **entübasyon**; **Tromboz profilaksisi** (**heparin**), **ritim-tansiyon izlemi**, beslenme desteği ve **erken rehabilitasyon**"
+klasik_komplikasyon: "**Solunum yetmezliği** ve **mekanik ventilasyon** ihtiyacı; **ritim bozukluğu** ve **tansiyon instabilitesi** (gözlenen ölüm nedenleri); **Derin ven trombozu**; uzun rehabilitasyon gerektiren **rezidüel kuvvet kaybı**"
 tus_gecmisi:
 - tus-2015-ilkbahar-ttbt-61
 - tus-2016-sonbahar-ktbt-33

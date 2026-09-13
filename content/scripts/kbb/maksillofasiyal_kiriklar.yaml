@@ -11,37 +11,20 @@ taksonomi:
   - kbb
   - kbb_travma_plastik
   - kbb_tp_yuz_kiriklari
-tipik_hasta: Genç erkek, motorlu taşıt kazası veya yüksekten düşme sonrası yüz travmasıyla gelen hasta;
-  darp, spor ve iş kazaları diğer klasik nedenlerdir. Çoklu travma hastasında önce hava yolu düşünülür
-patofizyoloji: 'Yüz iskeleti, dayanıklı kuvvet çizgileri arasında zayıf odacıklar (sinüsler ve göz çukurları)
-  taşır; bu yüzden travma belli kırık desenlerini tekrarlatır. Le Fort I: üst çenenin diş-damak bloğu
-  gövdeden yatay bir düzlemde ayrılır, damak blok halinde itilebilir. Le Fort II: piramit biçimli kırık;
-  burun kökünden göz çukuru iç tabanına ve pterigoid bölgeye iner; burun kökü hareketli, göz çevresi belirgin
-  şiştir. Le Fort III: kraniofasiyal ayrışma; orta yüz burun kökü, zigomatik kemerler ve göz çukurundan
-  kafatasından tamamen ayrılır ve blok olarak hareket eder. Mandibula kırıkları korpus, simfiz ve kondilde
-  yoğunlaşır; kondil kırığı ağız açıklığını kısıtlar, kapanma (oklüzyon) bozulur. Orbita tabanı kırığı
-  göz içeriğini aşağı büker ve çift görme yapar'
+tipik_hasta: "**Genç erkek**, **motorlu taşıt kazası** veya **yüksekten düşme** sonrası **yüz travması**yla gelen hasta; **darp**, **spor** ve **iş kazaları** diğer klasik nedenlerdir. **Çoklu travma** hastasında önce **hava yolu** düşünülür"
+patofizyoloji: "Yüz iskeleti, dayanıklı kuvvet çizgileri arasında **zayıf odacıklar** (sinüsler ve göz çukurları) taşır; bu yüzden travma **belli kırık desenleri**ni tekrarlatır. **Le Fort I**: üst çenenin **diş-damak bloğu** gövdeden **yatay düzlem**de ayrılır, damak **blok halinde** itilebilir. **Le Fort II**: **piramit** biçimli kırık; **burun kökünden** göz çukuru iç tabanına ve **pterigoid** bölgeye iner; burun kökü hareketli, göz çevresi belirgin şiştir. **Le Fort III**: **kraniofasiyal ayrışma**; orta yüz **burun kökü**, **zigomatik kemerler** ve göz çukurundan kafatasından tamamen ayrılır ve **blok** olarak hareket eder. **Mandibula** kırıkları **korpus**, **simfiz** ve **kondil**de yoğunlaşır; **kondil kırığı** ağız açıklığını kısıtlar, **oklüzyon** bozulur. **Orbita tabanı** kırığı göz içeriğini aşağı büker ve **çift görme** yapar"
 anahtar_bulgular:
-- Çift taraflı göz çevresi ödem-morarması ve göz beyazında kanama
-- Damak bloğunun itilebilir mobilitesi (Le Fort I) veya orta yüzün kafatasıyla birlikte hareket etmesi
-  (Le Fort III)
-- Diş kapanma bozukluğu, diş hizasında basamak hissi
-- Yanakta düzleşme, göz çukuru tabanı çökmesiyle çift görme
-- Ağız açıp kapamada ağrı ve kısıtlanma (mandibula, kondil)
-- Burun kanaması ve orta yüz palpasyonunda hassasiyet
-patognomonik: Le Fort I kırığında üst diş arkı-damak bloğunun tek parça halinde itilebilir olması; Le
-  Fort III kırığında kafatası sabitlenirken orta yüzün (burun kökü ve zigomatik kemerlerin) birlikte hareket etmesi
-ilk_tetkik: Hava yolu ve genel stabilite önce gelir (travma yaklaşımı); sonra ağız açma-kapama, çene kapanması
-  ve palpasyonla hareketlilik testi; yüz BT ince kesit tanısal görüntülemede temel yöntemdir
-kesin_tani: Yüz BT ince kesit ve üç boyutlu rekonstruksiyon; direkt grafiler (FON, panoreks) sınırlı değer
-  taşır
-ilk_tedavi: 'Hava yolu sağlanması ve kanama kontrolü önce gelir; göz çukuru kırığında ve çift görmede
-  göz muayenesi yapılır. Cerrahi: plak-vida ile açık redüksiyon ve internal tespit; diş kapanmasını kurtarmak
-  için maksillomandibular tespit; sinüs mukozası açıldıysa antibiyotik; erken dönemde (genel kural ilk
-  7-10 gün) tamir fonksiyonel sonucu iyileştirir'
-klasik_komplikasyon: Kalıcı diş kapanma bozukluğu ve çene disfonksiyonu; kronik çift görme ve göz çukuru
-  deformitesi; infraorbital ve inferior alveolar-lingual sinir uyuşmazlığı; frontal sinüs tutulumunda
-  menenjit ve beyin apsesi riski; kondil kırığında kalıcı ağız açıklığı kısıtlaması
+- "Çift taraflı **göz çevresi ödem-morarması** ve göz beyazında **kanama**"
+- "**Damak bloğu**nun itilebilir **mobilitesi** (Le Fort I) veya orta yüzün kafatasıyla birlikte **hareket etmesi** (Le Fort III)"
+- "**Diş kapanma bozukluğu**, diş hizasında **basamak hissi**"
+- "Yanakta **düzleşme**, göz çukuru tabanı çökmesiyle **çift görme**"
+- "Ağız açıp kapamada ağrı ve **kısıtlanma** (mandibula, **kondil**)"
+- "**Burun kanaması** ve orta yüz palpasyonunda **hassasiyet**"
+patognomonik: "**Le Fort I** kırığında **üst diş arkı-damak bloğu**nun tek parça halinde **itilebilir** olması; **Le Fort III** kırığında kafatası sabitlenirken **orta yüzün** (burun kökü ve **zigomatik kemerler**in) birlikte hareket etmesi"
+ilk_tetkik: "**Hava yolu** ve genel stabilite önce gelir (**travma yaklaşımı**); sonra **ağız açma-kapama**, **çene kapanması** ve palpasyonla **hareketlilik** testi. **Yüz BT** ince kesit tanısal görüntülemede **temel yöntem**dir"
+kesin_tani: "**Yüz BT** ince kesit ve **üç boyutlu rekonstruksiyon**; direkt grafiler (**FON**, **panoreks**) **sınırlı değer** taşır"
+ilk_tedavi: "**Hava yolu** sağlanması ve **kanama kontrolü** önce gelir; göz çukuru kırığında ve **çift görme**de göz muayenesi yapılır. Cerrahi: **plak-vida** ile **açık redüksiyon ve internal tespit**; diş kapanmasını kurtarmak için **maksillomandibular tespit**. **Sinüs mukozası** açıldıysa **antibiyotik**; erken dönemde (genel kural **ilk 7-10 gün**) tamir fonksiyonel sonucu **iyileştirir**"
+klasik_komplikasyon: "Kalıcı **diş kapanma bozukluğu** ve **çene disfonksiyonu**; kronik **çift görme** ve göz çukuru **deformitesi**; **infraorbital** ve inferior **alveolar-lingual sinir** uyuşmazlığı; **frontal sinüs** tutulumunda **menenjit** ve **beyin apsesi** riski; **kondil kırığı**nda kalıcı **ağız açıklığı kısıtlaması**"
 tus_gecmisi:
 - tus-2014-sonbahar-ttbt-1
 - tus-2018-sonbahar-ktbt-104

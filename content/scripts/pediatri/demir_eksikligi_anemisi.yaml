@@ -16,37 +16,19 @@ taksonomi:
   - dahiliye
   - dah_hematoloji
   - dah_hem_demir_eksikligi
-tipik_hasta: '6-24 aylık hızlı büyüme dönemindeki bebek: günde 500-700 mililitreyi aşan inek sütü tüketimi
-  ve ek besinlere geç başlama öyküsü; adölesan kızda yoğun mens kanaması; erken doğum ve düşük doğum ağırlığı
-  depoların azlığıyla riski artırır'
-patofizyoloji: Doğumda sağlıklı bebeğe geçen demir 4-6 aya dek yeterlidir; dışarıdan demir alımı yetersiz
-  kalınca depolar tükenir. İnek sütü hem az demir içerir hem de bağırsakta mikrokanamaya yol açarak demir
-  kaybını artırır; depolar boşalınca önce ferritin düşer, ardından hemoglobin düşer. Demir hemoglobin,
-  miyoglobin ve mitokondriyal enzimler için zorunludur; eksikliği oksijen taşınmasını ve beyin gelişimini
-  bozar
+tipik_hasta: "**6-24 aylık** hızlı büyüme dönemindeki bebek; **günde 500-700 mililitreyi aşan inek sütü** ve ek besinlere geç başlama öyküsü. Adölesan kızda yoğun mens kanaması; **erken doğum** ve düşük doğum ağırlığı depoların azlığıyla riski artırır"
+patofizyoloji: "Doğumda geçen demir **4-6 aya** dek yeterlidir; dışarıdan demir alımı yetersiz kalınca depolar tükenir; **İnek sütü** hem az demir içerir hem bağırsakta **mikrokanamaya** yol açar; depolar boşalınca önce **ferritin**, ardından **hemoglobin** düşer. Demir **hemoglobin**, miyoglobin ve mitokondriyal enzimler için zorunludur; eksikliği oksijen taşınmasını ve **beyin gelişimini** bozar"
 anahtar_bulgular:
-- 'Mikrositik hipokromik anemi: Hb düşük, MCV yaşa göre düşük, RDW artmış; solukluk, hızlı yorulma, efor
-  intoleransı'
-- Serum ferritin düşük (depoların doğrudan aynası, en spesifik işaret); transferrin satürasyonu düşük,
-  TIBC yüksek; periferik yaymada anizositoz ve hipokromi
-- 'İnek sütü yükü: günde 500-700 mililitrenin üzerinde inek sütü içme ya da 6 aydan önce inek sütüne geçme
-  öyküsü'
-- 'Pika: toprak, kağıt, kurdele gibi yabancı maddelere yönelme; huzursuzluk, uyku düzensizliği, dikkat
-  dağınıklığı'
-- Erken çocuklukta bilişsel ve motor gelişim yavaşlığı; ağır olgularda tırnaklarda kaşık biçimi (koilonyakiya)
-  ve kırılganlık
+- "**Mikrositik hipokromik anemi**: Hb düşük, **MCV** yaşa göre düşük, **RDW** artmış; solukluk, hızlı yorulma, efor intoleransı"
+- "**Serum ferritin düşük** (depoların en spesifik aynası); **transferrin satürasyonu düşük**, **TIBC yüksek**; yaymada anizositoz ve hipokromi"
+- "**İnek sütü yükü**: günde **500-700 mililitrenin üzerinde** inek sütü ya da **6 aydan önce** inek sütüne geçme öyküsü"
+- "**Pika**: toprak, kağıt gibi yabancı maddelere yönelme; huzursuzluk, uyku düzensizliği, dikkat dağınıklığı"
+- "Erken çocuklukta **bilişsel-motor gelişim yavaşlığı**; ağır olgularda **koilonyakiya** (kaşık tırnak)"
 patognomonik: null
-ilk_tetkik: Tam kan sayımı ve retikülosit sayısı, serum ferritin, TIBC ve transferrin satürasyonu; periferik
-  yayma; diyet öyküsü ve adölesan kızda mens öyküsü
-kesin_tani: Mikrositik hipokromik anemi artı düşük ferritin artı uyumlu diyet ve klinik öykü; oral demir
-  denemesinde 1-2 hafta içinde retikülosit artışı ve Hb yükselmesi tanıyı doğrular (tedavi yanıtı tanıyı
-  kesinleştirir)
-ilk_tedavi: 'Oral elemental demir 3-6 mg/kg/gün, tek ya da ikiye bölünmüş doz, aç karnına ve C vitaminli
-  içecekle emilimin artırılması; inek sütünün günlük 500 mililitrenin altına indirilmesi ve demirden zengin
-  ek besinler; yanıt: retikülosit artışı 7-10 günde, Hb yaklaşık 1 ayda normalleşir, depoların dolması
-  için normalleşmeden sonra 2-3 ay daha devam (toplam yaklaşık 3 ay)'
-klasik_komplikasyon: Erken başlayan uzun süren eksiklikte bilişsel-motor gelişim yavaşlığının kalıcı kalması;
-  pikaya bağlı kurşun zehirlenmesi riski; ağır anemide kalp yetersizliği
+ilk_tetkik: "Tam kan sayımı ve retikülosit; **serum ferritin**, **TIBC** ve **transferrin satürasyonu**, periferik yayma; **diyet öyküsü** ve adölesan kızda mens öyküsü"
+kesin_tani: "**Mikrositik hipokromik anemi** artı **düşük ferritin** artı uyumlu diyet-klinik öykü; **oral demir denemesinde** **1-2 hafta** içinde retikülosit artışı ve Hb yükselmesi tanıyı kesinleştirir"
+ilk_tedavi: "**Oral elemental demir 3-6 mg/kg/gün**; aç karnına ve **C vitaminli** içecekle emilim artırılır. İnek sütü günlük **500 mililitrenin altına** indirilir, demirden zengin ek besinler verilir. Yanıt: retikülosit **7-10 günde**, Hb **yaklaşık 1 ayda** normalleşir; depolar için normalleşmeden sonra **2-3 ay** daha devam (toplam yaklaşık 3 ay)"
+klasik_komplikasyon: "Erken başlayan uzun süren eksiklikte **bilişsel-motor gelişim yavaşlığının kalıcı kalması**; **pikaya bağlı kurşun zehirlenmesi** riski, ağır anemide **kalp yetersizliği**"
 tus_gecmisi:
 - tus-2017-sonbahar-ktbt-60
 - tus-2020-ilkbahar-ttbt-98

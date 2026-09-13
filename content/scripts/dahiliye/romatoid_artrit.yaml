@@ -16,33 +16,35 @@ taksonomi:
   - ftr
   - ftr_romatizmal
   - ftr_rm_romatoid_artrit_rehab
-tipik_hasta: Otuz-beş yaş dolayında kadın; haftalar-aylar süren, küçük eklemlerde (el bileği, metakarpofalangeal,
-  proksimal interfalangeal) simetrik poliartrit; sabah sertliği bir saatten uzun sürer ve hareketle hafifler;
-  distal interfalangeal eklemler karakteristik biçimde korunur; sigara genetik yatkınlığı güçlendirir
-patofizyoloji: Genetik zemin (HLA-DRB1 paylaşılmış epitop) ve sigara gibi çevresel etkenlerle başlayan
-  otoimmün sinovit; sitrülline proteinlere karşı anti-CCP antikorları gelişir; sinovyada pannus dokusu
-  kıkırdak ve subkondral kemiği eritip eklem aralığını yok eder; eklem dışı kronik inflamasyon (akciğer,
-  damar duvarı, seröz zarlar) uzun dönem morbiditenin ikinci ayağıdır
+tipik_hasta: 'Otuz-beş yaş dolayında **kadın**; haftalar-aylar süren küçük eklemlerde (**el bileği, MCP, PIP**)
+  **simetrik poliartrit**; **sabah sertliği bir saatten** uzun, hareketle hafifler; **DIP** eklemleri
+  karakteristik biçimde korunur. **Sigara** genetik yatkınlığı güçlendirir'
+patofizyoloji: 'Genetik zemin (**HLA-DRB1** paylaşılmış epitop) ve **sigara** ile başlayan otoimmün **sinovit**;
+  **sitrülline** proteinlere karşı **anti-CCP** antikorları gelişir. Sinovyada **pannus** dokusu kıkırdak
+  ve subkondral kemiği eritip eklem aralığını yok eder. Eklem dışı kronik inflamasyon (akciğer, damar duvarı,
+  seröz zarlar) uzun dönem morbiditenin ikinci ayağıdır'
 anahtar_bulgular:
-- 'Simetrik, erozyonlu küçük eklem poliartriti: el bileği, MCP ve PIP eklemleri; DIP korunur'
-- Sabah sertliğin bir saati aşması; hareketle yumuşaması
-- 'Romatoid nodüller: dirsek ve parmak ekstansör yüzeyleri gibi basınç noktalarında'
-- RF ve anti-CCP pozitifliği; anti-CCP özgünlüğü yüzde 95'e yaklaşır
-- Radyografide eklem kenarına yakın osteopeni, eklem boşluğu daralması ve erozyonlar; erken dönemde USG
-  (sinovyal hipertrofi, tenosinovit) daha duyarlıdır
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Anti-CCP antikorları (özgünlüğü yüzde 95'e yakın); romatoid artritin serolojik damgası
-ilk_tetkik: RF ve anti-CCP, CRP ve sedimentasyon; tutulan eklemin radyografisi; erken evrede radyografi
-  normal kalabildiği için USG değerlidir
-kesin_tani: 'ACR-EULAR 2010 puanlaması: tutulan eklem sayısı, seroloji (RF ve anti-CCP), akut faz yanıtı
-  ve belirti süresi birlikte puanlanır; en az bir eklemde sinovit ve başka nedenle açıklanamayan artrit
-  şartıyla altı puan ve üzeri sınıflandırmayı sağlar'
-ilk_tedavi: 'Tanıdan gecikmeden DMARD: metotreksat ilk seçim (folik asit desteğiyle); hedefe yönelik tedavi
-  ilkesiyle üç ayda yeterli yanıt yoksa biyolojik (TNF inhibitörü, abatacept, rituksimab) veya hedefli
-  sentetik (janus kinaz inhibitörü) DMARD''a geçilir; köprü olarak kısa süreli düşük doz glukokortikoid
-  veya NSAİD kullanılır; erken DMARD erozyonu önlediğinden tanı sonrası ilk üç ay belirleyicidir'
-klasik_komplikasyon: 'Deformiteler: ulnar deviasyon, kuğu boynu (swan-neck) ve düğme deliği (boutonniere)
-  görünümleri; servikal omurgada atlantoaksiyel subluksasyon (intübasyonda dikkat); ekstra-artiküler:
-  interstisyel akciğer hastalığı, perikardit, vaskülit, Felty sendromu (splenomegali ile nötropeni)'
+- '**Simetrik, erozyonlu küçük eklem poliartriti**: el bileği, **MCP** ve **PIP** eklemleri; **DIP** korunur'
+- '**Sabah sertliğin bir saati aşması**; hareketle yumuşaması'
+- '**Romatoid nodüller**: dirsek ve parmak **ekstansör yüzeyleri** gibi basınç noktalarında'
+- '**RF** ve **anti-CCP** pozitifliği; anti-CCP özgünlüğü **yüzde 95**e yaklaşır'
+- 'Radyografide eklem kenarına yakın **osteopeni**, **eklem boşluğu daralması** ve **erozyonlar**; erken
+  dönemde **USG** (sinovyal hipertrofi, tenosinovit) daha duyarlıdır'
+patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — **anti-CCP** antikorları (özgünlüğü **yüzde
+  95**e yakın); romatoid artritin serolojik damgası
+ilk_tetkik: '**RF** ve **anti-CCP**, **CRP** ve **sedimentasyon**; tutulan eklemin **radyografisi**; erken
+  evrede radyografi normal kalabildiği için **USG** değerlidir'
+kesin_tani: '**ACR-EULAR 2010** puanlaması: **tutulan eklem sayısı**, **seroloji (RF ve anti-CCP)**, **akut
+  faz yanıtı** ve **belirti süresi** birlikte puanlanır. En az bir eklemde **sinovit** ve başka nedenle
+  açıklanamayan artrit şartıyla **altı puan** ve üzeri sınıflandırmayı sağlar'
+ilk_tedavi: 'Tanıdan gecikmeden **DMARD**: **metotreksat** ilk seçim (**folik asit** desteğiyle). Hedefe
+  yönelik tedavi ilkesiyle üç ayda yeterli yanıt yoksa **biyolojik** (**TNF inhibitörü**, **abatacept**,
+  **rituksimab**) veya **janus kinaz inhibitörü** DMARDa geçilir. Köprü: kısa süreli düşük doz **glukokortikoid**
+  veya **NSAİD**; erken DMARD **erozyonu önlediğinden** tanı sonrası ilk üç ay belirleyicidir'
+klasik_komplikasyon: '**Deformiteler**: **ulnar deviasyon**, **kuğu boynu (swan-neck)**, **düğme deliği
+  (boutonniere)**; servikal omurgada **atlantoaksiyel subluksasyon** (intübasyonda dikkat). Ekstra-artiküler:
+  **interstisyel akciğer hastalığı**, **perikardit**, **vaskülit**, **Felty sendromu** (splenomegali ile
+  nötropeni)'
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-33
 - tus-2013-sonbahar-ktbt-34

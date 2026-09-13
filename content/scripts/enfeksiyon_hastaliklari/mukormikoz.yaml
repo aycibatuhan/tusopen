@@ -10,31 +10,19 @@ taksonomi:
   - enfeksiyon_hastaliklari
   - enf_mantar
   - enf_mn_mukormikoz
-tipik_hasta: Diyabetik ketoasidozlu hasta (özellikle tip 1 diyabetli) veya nötropenik kemoterapi, hematopoietik
-  kök hücre nakli, uzun süreli yüksek doz kortikosteroid ya da demir kelasyonu (deferoksamin — Rhizopus ferrioksamin kompleksini ksenosiderofor olarak kullanır) gören bağışıklık
-  baskılanmış hasta
-patofizyoloji: Mukorales grubu küfler (Rhizopus, Mucor, Lichtheimia) havadan burun boşluğuna veya akciğere
-  girer; geniş hifleri damar duvarlarını istila ederek tromboz ve doku nekrozu yaratır (angioinvasion).
-  Yüksek demir ortamında hızla çoğalır; ketoasidoz demiri mantarın kullanımına açar. Sinüslerde başlayan
-  doku ölümü saatlerle ilerleyip göz ve kafatasına yayılır; akciğer formunda nötropenik hastada hızlı
-  büyüyen lezyon görülür
+tipik_hasta: "**Diyabetik ketoasidoz**lu hasta (özellikle **tip 1 diyabet**li). Ya da **nötropenik kemoterapi**, **kök hücre nakli**, uzun süreli **yüksek doz kortikosteroid** ya da **demir kelasyonu** (**deferoksamin**) gören baskılanmış hasta"
+patofizyoloji: "**Mukorales** grubu küfler (**Rhizopus**, **Mucor**, **Lichtheimia**) havadan burun boşluğuna veya akciğere girer; geniş hifleri damar duvarlarını istila ederek tromboz ve **doku nekrozu** yaratır (**angioinvasion**). **Yüksek demir** ortamında hızla çoğalır; **ketoasidoz** demiri mantarın kullanımına açar (**deferoksamin** — Rhizopus **ferrioksamin**i **ksenosiderofor** olarak kullanır). Sinüslerde başlayan doku ölümü **saatlerle** ilerleyip göz ve kafatasına yayılır; akciğer formunda nötropenik hastada **hızlı büyüyen** lezyon görülür"
 anahtar_bulgular:
-- Rinoserebral formda yüz ve sinüs ağrısı, burun tıkanıklığı, sert damak veya burun girişinde siyah eschar
-- Göz çevresinde şişlik, proptozis, çift görme; kranial sinir tutulumu
-- Saatlerle ilerleyen doku nekrozu; sınırların hızla genişlemesi
-- 'Pulmoner form: nötropenik hastada hızlı ilerleyen infiltre-nodül, göğüs ağrısı, kanlı balgam'
-- Endoskopide soluk-gri, kanamayan nekrotik mukoza; biyopsi tanıyı gösterir
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Diyabetik veya nötropenik hastada sinüs-burun çevresinde siyah eschar ve saatlerle ilerleyen
-  doku nekrozu
-ilk_tetkik: Nazofaringeal endoskopi ve nekrotik dokudan biyopsi; sinüs ve toraks BT; kan şekeri-ketone
-  değerlendirmesi (ketoasidoz), tam kan sayımı (nötropeni)
-kesin_tani: Doku örneğinde geniş, dik (sağ) açılarla dallanan, bölmeli olmayan (aseptat) hiflerin görülmesi;
-  kültürde Mukorales üremesi
-ilk_tedavi: Lipozomal amfoterisin B'nin gecikmeden başlanması ve agresif cerrahi debridman (nekrotik dokunun
-  genişçe alınması); altta yatan durumun hızla düzeltilmesi (ketoasidozun giderilmesi, nötropeninin toparlanması);
-  ilerleyen veya dirençli olguda posakonazol
-klasik_komplikasyon: Orbital yayılım ve göz kaybı; beyin apsesi-damar tıkanıklığına uzanan santral sinir
-  sistemi tutulumu; bağırsak formunda perforasyon
+- "**Rinoserebral form**da yüz ve sinüs ağrısı, burun tıkanıklığı; **sert damak** veya burun girişinde **siyah eschar**"
+- "Göz çevresinde şişlik, **proptozis**, **çift görme**; **kranial sinir** tutulumu"
+- "**Saatlerle** ilerleyen **doku nekrozu**; sınırların hızla genişlemesi"
+- "**Pulmoner form**: nötropenik hastada hızlı ilerleyen **infiltre-nodül**, göğüs ağrısı, **kanlı balgam**"
+- "Endoskopide soluk-gri, **kanamayan nekrotik mukoza**; **biyopsi** tanıyı gösterir"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — diyabetik veya nötropenik hastada sinüs-burun çevresinde **siyah eschar** ve **saatlerle ilerleyen doku nekrozu**"
+ilk_tetkik: "**Nazofaringeal endoskopi** ve nekrotik dokudan **biyopsi**; **sinüs ve toraks BT**. **Kan şekeri-ketone** değerlendirmesi (**ketoasidoz**), **tam kan sayımı** (**nötropeni**)"
+kesin_tani: "Doku örneğinde **geniş, dik (sağ) açılarla dallanan, bölmeli olmayan (aseptat) hif**lerin görülmesi; **kültür**de **Mukorales** üremesi"
+ilk_tedavi: "**Lipozomal amfoterisin B**nin gecikmeden başlanması ve agresif **cerrahi debridman** (nekrotik dokunun genişçe alınması). Altta yatan durumun hızla düzeltilmesi (**ketoasidoz**un giderilmesi, **nötropeni**nin toparlanması); ilerleyen veya dirençli olguda **posakonazol**"
+klasik_komplikasyon: "**Orbital yayılım** ve **göz kaybı**; **beyin apsesi**-damar tıkanıklığına uzanan **santral sinir sistemi** tutulumu; **bağırsak formu**nda perforasyon"
 tus_gecmisi:
 - tus-2014-sonbahar-ttbt-71
 - tus-2017-sonbahar-ktbt-1

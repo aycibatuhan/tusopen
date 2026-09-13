@@ -11,35 +11,19 @@ taksonomi:
   - genel_cerrahi
   - gc_mide_duodenum
   - gc_mide_kanser
-tipik_hasta: Elli-altmış yaş civarı erkek (kadınlardan belirgin sık); tuzlanmış ve tütsülenmiş gıdalarla
-  beslenen, sigara içen, düşük sosyoekonomik düzeydeki hasta; H. pylori enfeksiyonu ve kronik atrofik
-  gastrit çoğu hastada eşlik eder. Tanımsız dispepsi, iştahsızlık ve açıklanamayan anemisi olan erişkinde
-  endoskopi akılda tutulmalıdır
-patofizyoloji: 'Erişkinde kabul gören klasik risk etkenleri: H. pylori infeksiyonu, tuzlu-tütsülenmiş
-  ve nitrozamin içeren beslenme, kronik atrofik gastrit, pernisiyöz anemi, mide rezeksiyonu sonrası rezidüel
-  mide, adenomatöz polip, Ménétrier hastalığı, sigara ve aile öyküsüdür. İki ana biyolojik tip vardır:
-  intestinal tip mide çıkışına yakın yerleşir ve Korrea basamaklarını (kronik gastrit, atrofi, intestinal
-  metaplazi, displazi) izleyerek gelişir; diffüz tip hücre adezyonunu bozan E-kaderin (CDH1) bozukluğuyla
-  genç yaşta ve kardiyaya yakın görülür, mide duvarına diffüz yayıldığından linitis plastica görünümü
-  verir ve prognozu daha kötüdür'
+tipik_hasta: "**Elli-altmış yaş** civarı erkek (kadınlardan belirgin sık); tuzlanmış ve tütsülenmiş gıdalarla beslenen, sigara içen, düşük sosyoekonomik düzeydeki hasta; **H. pylori** enfeksiyonu ve **kronik atrofik gastrit** çoğu hastada eşlik eder. Tanımsız **dispepsi**, iştahsızlık ve açıklanamayan **anemisi** olan erişkinde **endoskopi** akılda tutulmalıdır"
+patofizyoloji: "Klasik risk etkenleri: **H. pylori** infeksiyonu, tuzlu-tütsülenmiş ve **nitrozamin** içeren beslenme, kronik atrofik gastrit, **pernisiyöz anemi**; mide rezeksiyonu sonrası rezidüel mide, adenomatöz polip, **Ménétrier hastalığı**, sigara ve aile öyküsü. İki ana biyolojik tip vardır: **intestinal tip** mide çıkışına yakın yerleşir ve **Korrea basamaklarını** (kronik gastrit, atrofi, intestinal metaplazi, displazi) izleyerek gelişir; **diffüz tip** hücre adezyonunu bozan **E-kaderin (CDH1)** bozukluğuyla genç yaşta ve **kardiyaya** yakın görülür; mide duvarına diffüz yayıldığından **linitis plastica** görünümü verir ve prognozu daha kötüdür"
 anahtar_bulgular:
-- Erken evrede belirti vermez; ileri evrede tedaviye dirençli epigastrik ağrı, iştahsızlık ve kilo kaybı
-- Endoskopide düzensiz, yükselmiş kenarlı, derin tabanlı ülser veya ekzofitik kitle; benign ülsere benzeyen
-  lezyon biyopsiyle ayırt edilir
-- Erkek veya postmenopozal kadında açıklanamayan demir eksikliği anemisi endoskopi endikasyonudur
-- 'Uzak yayılımın işaretleri: sol supraklaviküler Virchow lenf düğümü, göbek çevresinde Sister Mary Joseph
-  nodülü, overlerde Krukenberg metastazı, rektovesikal aralıkta Blumer rafı'
-- Kardia yerleşiminde yutma güçlüğü, pilorik kanal yerleşiminde erken dolgunluk ve kusma
-patognomonik: Tipik bulgu (patognomonik değildir) — Sol supraklaviküler Virchow lenf düğümü; ileri mide kanserinin klasik işareti
-ilk_tetkik: Üst gastrointestinal sistem endoskopisi; tümörün yerini ve sınırlarını belirler, ülsere yüzeyden
-  ve kenardan çok sayıda biyopsi alınır
-kesin_tani: Endoskopik biyopside adenokarsinom; duvar derinliği için endoskopik ultrasonografi, yaygınlık
-  için batın BT ile evreleme
-ilk_tedavi: 'Lokalize hastada cerrahi: subtotal veya total gastrektomi, D2 düzeyi lenf nodu diseksiyonu
-  ile; perioperatif kemoterapi sık kullanılır. Mukozayla sınırlı erken mide kanserinde endoskopik rezeksiyon
-  yeterlidir'
-klasik_komplikasyon: Pilorik kanal tutulumuna bağlı mide çıkış obstrüksiyonu, tümör kanaması ve kanser
-  anemisi; ileri evrede perforasyon ve peritoneal-karaciğer yayılımı
+- "Erken evrede belirti vermez; ileri evrede **tedaviye dirençli epigastrik ağrı**, iştahsızlık ve **kilo kaybı**"
+- "Endoskopide düzensiz, yükselmiş kenarlı, derin tabanlı ülser veya ekzofitik kitle; benign ülsere benzeyen lezyon **biyopsiyle** ayırt edilir"
+- "Erkek veya postmenopozal kadında açıklanamayan **demir eksikliği anemisi** endoskopi endikasyonudur"
+- "Uzak yayılımın işaretleri: sol supraklaviküler **Virchow lenf düğümü**, göbek çevresinde **Sister Mary Joseph** nodülü, overlerde **Krukenberg** metastazı, rektovesikal aralıkta **Blumer rafı**"
+- "**Kardia** yerleşiminde yutma güçlüğü, **pilorik kanal** yerleşiminde erken dolgunluk ve kusma"
+patognomonik: "Tipik bulgu (patognomonik değildir) — sol supraklaviküler **Virchow lenf düğümü**; ileri mide kanserinin klasik işareti"
+ilk_tetkik: "**Üst gastrointestinal sistem endoskopisi**; tümörün yerini ve sınırlarını belirler, ülsere yüzeyden ve kenardan **çok sayıda biyopsi** alınır"
+kesin_tani: "Endoskopik biyopside **adenokarsinom**; duvar derinliği için **endoskopik ultrasonografi**, yaygınlık için **batın BT** ile evreleme"
+ilk_tedavi: "Lokalize hastada cerrahi: **subtotal veya total gastrektomi**, **D2 düzeyi lenf nodu diseksiyonu** ile; **perioperatif kemoterapi** sık kullanılır; **Mukozayla sınırlı erken mide kanseri**nde **endoskopik rezeksiyon** yeterlidir"
+klasik_komplikasyon: "**Pilorik kanal** tutulumuna bağlı **mide çıkış obstrüksiyonu**, tümör **kanaması** ve kanser anemisi; ileri evrede **perforasyon** ve peritoneal-karaciğer yayılımı"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-86
 - tus-2014-ilkbahar-ktbt-104

@@ -8,19 +8,19 @@ sources:
 ad: Charcot-Marie-Tooth (Herediter Nöropatiler)
 taksonomi:
   - [ktbt, noroloji, noro_noromuskuler, noro_nm_herediter_noropati]
-tipik_hasta: "Çocukluk veya ergenlikte başlayan, yıllar içinde çok yavaş ilerleyen ayak deformitesi ve yürüyüş güçlüğü olan hasta; ailesinde benzer yüksek kemerli ayaklar ve yürüme sorunu neredeyse kuraldır; ayakkabı giymekte zorlanır, sık burkulma ve koşamama öyküsü vardır; kas ağrısı ve kramp dışında akut tablo beklenmez"
-patofizyoloji: "Herediter motor-duyusal polinöropati; en sık tip CMT1A: 17. kromozomdaki PMP22 geninin fazladan kopyası (duplikasyon) periferik miyelin yapımını bozar, segmental demiyelinizasyon ve remiyelinizasyon döngüsü sinirleri kalınlaştırır (hipertrofik). Aksonal tip (CMT2) iletim hızını korur, akson kaybı amplitüdü düşürür. Uzun sinirlerin en uzak uçları en erken etkilenir: ayak iç kasları, peroneal grup, sonra eller"
+tipik_hasta: "**Çocukluk veya ergenlikte** başlayan, yıllar içinde çok yavaş ilerleyen **ayak deformitesi** ve yürüyüş güçlüğü olan hasta. Ailesinde benzer **yüksek kemerli ayaklar** ve yürüme sorunu neredeyse kuraldır; **sık burkulma** ve koşamama öyküsü var"
+patofizyoloji: "**Herediter motor-duyusal polinöropati**; en sık tip **CMT1A**: **17. kromozomda PMP22** geninin **duplikasyonu** periferik **miyelin** yapımını bozar; **Segmental demiyelinizasyon-remiyelinizasyon** döngüsü sinirleri kalınlaştırır (**hipertrofik**); **aksonal CMT2** iletim hızını korur, **akson kaybı** amplitüdü düşürür; **Uzun sinirlerin en uzak uçları** en erken etkilenir: **ayak iç kasları**, **peroneal grup**, sonra **eller**"
 anahtar_bulgular:
-  - "Pes kavus ve pençe parmaklar: yüksek kemerli, derin-yassılaşan ayak; çocuklukta fark edilen ilk bulgu"
-  - "Baldır dış yüzü ve pretibial kaslarda incelme, bacağın alt kısmının 'leylek bacağı' görünümü; proksimal kaslar uzun süre güçlü kalır"
-  - "Ayak bileğinde dorsifleksiyon kuvvet kaybı: parmak ucu sürter, hasta dizini yükseğe kaldırarak yürür (steppage yürüyüş)"
-  - "Çorap-eldiven tarzı distal duyu kaybı: dokunma, ağrı ve vibrasyon azalması"
-  - "Derin tendon reflekslerinin distalden silinmesi (ayak bileği en erken); refleksler distalden proksimale doğru silinir"
-  - "İleri evrede el iç kaslarında atrofi ve işlev kaybı; ailede benzer ayaklar"
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — "Pes kavus ve pençe parmak deformitesinin, aile öyküsü, çorap-eldiven duyu kaybı ve steppage yürüyüşle birlikteliği; baldır dış yüzünün incelmesi"
-ilk_tetkik: "Sinir iletim çalışması (elektromiyografi/EMG): CMT1'de motor iletim hızı 38 m/s altına iner (demiyelinizan), CMT2'de hız korunur ama amplitüd düşer (aksonal); bu ayrım genetik testi yönlendirir ve edinilmiş polinöropatilerden ayırır"
-kesin_tani: "Klinik + aile soy ağacı + elektrofizyoloji; genetik test kesinleştirir (CMT1A'da PMP22 duplikasyonu en sık, sonra konneksin 32 ve diğer genler); B12 eksikliği, tiroid hastalığı, toksik-ilaç kaynaklı nöropatiler gibi edinilmiş nedenler dışlanır"
-ilk_tedavi: "Nedeni düzeltilmeyen yavaş hastalık: yaklaşım destekleyicidir — ayak-bilek ortozları (AFO) düşük ayağı düzeltip takılmayı azaltır, fizik tedavi eklemleri esnek tutar, ortopedik ayakkabı ve aile genetik danışmanlığı; ciddi deformite ve tekrarlayan burkulmalarda tendon transferi veya artronez gibi cerrahi seçenekler; ilerlemeyi yavaşlatan onaylı ilaç yoktur"
-klasik_komplikasyon: "İlerleyen yürüyüş kaybı ve eklem deformiteleri; duyu kaybına bağlı travmatik yaralar; ileri yaşta el işlevsizliği; nadir varyantlarda (CMT2C tarzı) diyafram ve vokal kord tutulumu ile solunum yetersizliği"
+- "**Pes kavus ve pençe parmaklar**: yüksek kemerli, derin-yassılaşan ayak; çocuklukta fark edilen **ilk bulgu**"
+- "**Baldır dış yüzü ve pretibial kaslarda incelme** — bacağın alt kısmı **'leylek bacağı'** görünümü; **proksimal kaslar** uzun süre güçlü kalır"
+- "**Ayak bileğinde dorsifleksiyon** kuvvet kaybı: parmak ucu sürter, **dizini yükseğe kaldırarak yürür (steppage yürüyüş)**"
+- "**Çorap-eldiven tarzı distal duyu kaybı**: dokunma, ağrı ve **vibrasyon** azalması"
+- "**Derin tendon reflekslerinin distalden silinmesi** (ayak bileği en erken)"
+- "İleri evrede **el iç kaslarında atrofi** ve işlev kaybı; **ailede benzer ayaklar**"
+patognomonik: "Tam patognomonik değil; tanıya yardımcı tipik bulgu: **pes kavus ve pençe parmak** deformitesinin **aile öyküsü**, **çorap-eldiven duyu kaybı** ve **steppage yürüyüş**le birlikteliği"
+ilk_tetkik: "**Sinir iletim çalışması (EMG)**: **CMT1**'de motor iletim hızı **38 m/s altına** iner (**demiyelinizan**); **CMT2**'de hız korunur ama **amplitüd düşer** (**aksonal**); bu ayrım **genetik testi** yönlendirir, **edinilmiş polinöropatilerden** ayırır"
+kesin_tani: "**Klinik + aile soy ağacı + elektrofizyoloji**; **genetik test** kesinleştirir (**CMT1A**'da **PMP22 duplikasyonu** en sık, sonra **konneksin 32**); **B12 eksikliği**, **tiroid hastalığı**, toksik-ilaç kaynaklı **edinilmiş nöropatiler** dışlanır"
+ilk_tedavi: "**Ayak-bilek ortozları (AFO)** düşük ayağı düzeltip takılmayı azaltır; **fizik tedavi** eklemleri esnek tutar; ortopedik ayakkabı ve **aile genetik danışmanlığı**; **Ciddi deformite** ve tekrarlayan burkulmalarda **tendon transferi** veya **artronez**; **İlerlemeyi yavaşlatan onaylı ilaç yoktur**"
+klasik_komplikasyon: "İlerleyen **yürüyüş kaybı** ve **eklem deformiteleri**; duyu kaybına bağlı **travmatik yaralar**; ileri yaşta **el işlevsizliği**. Nadir varyantlarda (**CMT2C** tarzı) **diyafram** ve **vokal kord** tutulumu ile **solunum yetersizliği**"
 tus_gecmisi: []
 kart_uret: {bilgi: true, vaka: true, celdirici: false, ayirici: false}

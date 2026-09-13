@@ -11,29 +11,19 @@ taksonomi:
   - genel_cerrahi
   - gc_mide_duodenum
   - gc_mide_gist
-tipik_hasta: 'Ellili-altmışlı yaşlarda; mide (en sık) veya ince bağırsakta saptanan submukozal çıkışlı
-  kitle ile gelen hasta: tekrarlayan siyah dışkı, karın ağrısı, erken doyma veya tesadüfi görüntüleme
-  bulgusu. Lenf bezi beklenmez, hastalar çoğunlukla başka bir gerekçeyle yapılan BT veya endoskopide yakalanır'
-patofizyoloji: Cajal interstisyel hücrelerinden köken alan mezenkimal tümör; en sık moleküler olay KIT
-  (c-kit) veya PDGFRA geninde aktivasyon mutasyonudur, bu yüzden hücreler KIT (CD117) ve DOG1 ile boyanır.
-  Yayılım lenf bezlerinden değil karaciğere ve karın zarı yüzeylerine olur; risk sınıflaması tümör boyutu
-  ve mitoz hızıyla belirlenir
+tipik_hasta: "Ellili-altmışlı yaşlarda, mide (en sık) ya da ince bağırsakta **submukozal çıkışlı** kitleyle gelen hasta; tekrarlayan **siyah dışkı**, karın ağrısı, erken doyma veya tesadüfi görüntüleme bulgusu. Lenf bezi tutulumu beklenmez; çoğu hasta başka bir gerekçeyle yapılan BT ya da endoskopide yakalanır"
+patofizyoloji: "**Cajal interstisyel hücrelerinden** köken alan mezenkimal tümör; en sık moleküler olay **KIT (c-kit)** veya **PDGFRA** geninde aktivasyon mutasyonu, bu yüzden hücreler **KIT (CD117)** ve **DOG1** ile boyanır. Yayılım lenf bezlerinden değil **karaciğere** ve karın zarı yüzeylerine olur; risk sınıflaması **boyut** ve **mitoz hızıyla** belirlenir"
 anahtar_bulgular:
-- Endoskopide mukoza sağlam görünümde, duvardan submukozal çıkış yapan kitle
-- Tümör mukozayı ülserleştirdiğinde melena veya kronik kanamaya bağlı demir eksikliği anemisi
-- BT'de ekzofitik, kontrast tutan, merkezi nekrozlu kitle
-- İmmünohistokimyasal boyamada KIT (CD117) pozitifliği; şüpheli olguda DOG1
-- 'Yayılım: karaciğer ve peritoneal yüzeyler; lenf bezi tutulumu beklenmez'
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — İmmünohistokimyasal boyamada KIT (CD117) pozitifliği; gerekirse DOG1 ile destek
-ilk_tetkik: Kontrastlı batın BT; endoskopide görülen submukozal lezyonda endosonografi eşliğinde iğne
-  biyopsi
-kesin_tani: 'Biyopsinin patolojisi: iğsi hücreli (spindle) veya epiteloid hücreler ve KIT/DOG1 pozitifliği;
-  risk sınıflaması boyut ve mitoz sayısıyla yapılır'
-ilk_tedavi: Lokalize hastalıkta negatif cerrahi kenarlı rezeksiyon; rutin geniş lenf nodu diseksiyonu
-  gerekmez. Yüksek riskli veya metastatik hastalıkta imatinib (KIT inhibitörü); imatinibe dirençli olguda
-  sunitinib
-klasik_komplikasyon: Mukozal ülserasyonla belirgin gastrointestinal kanama; karaciğer ve peritoneal yüzey
-  metastazı; büyük kitlede duodenum veya kolon basısıyla obstrüksiyon
+- "Endoskopide mukozası sağlam görünümde, duvardan **submukozal çıkış** yapan kitle"
+- "Tümör mukozayı ülserleştirdiğinde **melena** veya kronik kanamaya bağlı **demir eksikliği anemisi**"
+- "BT'de ekzofitik, kontrast tutan, merkezi **nekrozlu** kitle"
+- "İmmünohistokimyasal boyamada **KIT (CD117)** pozitifliği; şüpheli olguda **DOG1**"
+- "Yayılım: **karaciğer** ve peritoneal yüzeyler; **lenf bezi tutulumu beklenmez**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — immünohistokimyasal boyamada **KIT (CD117)** pozitifliği; gerekirse **DOG1** ile destek"
+ilk_tetkik: "Kontrastlı batın **BT**; endoskopide görülen submukozal lezyonda **endosonografi eşliğinde iğne biyopsi**"
+kesin_tani: "Biyopsinin patolojisi: **iğsi hücreli (spindle)** veya epiteloid hücreler ve **KIT/DOG1 pozitifliği**; risk sınıflaması **boyut ve mitoz sayısıyla** yapılır"
+ilk_tedavi: "Lokalize hastalıkta negatif cerrahi kenarlı **rezeksiyon**; rutin geniş lenf nodu diseksiyonu gerekmez. Yüksek riskli veya metastatik hastalıkta **imatinib** (KIT inhibitörü); imatinibe dirençli olguda **sunitinib**"
+klasik_komplikasyon: "Mukozal ülserasyonla belirgin **gastrointestinal kanama**; **karaciğer** ve peritoneal yüzey metastazı; büyük kitlede duodenum veya kolon basısıyla **obstrüksiyon**"
 tus_gecmisi:
 - tus-2013-sonbahar-ktbt-108
 - tus-2013-sonbahar-ktbt-21

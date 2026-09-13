@@ -18,61 +18,54 @@ taksonomi:
   - dahiliye
   - dah_yogun_bakim_acil
   - dah_yb_zehirlenme
-tipik_hasta: Bilinç bozukluğu, inatçı hipotansiyon, nadir kalp ritim bozukluğu ya da açıklanamayan
-  anijon boşluklu metabolik asidozla acile gelen; hangi maddeyi ne kadar aldığı belirsiz olan hasta.
-  Alım öyküsü çoğu kez yoktur ya da güvenilmezdir; tanı bu yüzden klinik toksidrom, elektrolit asit-baz
-  hesapları ve birkaç kritik ilaç düzeyiyle kurulur. Yetişkinde bilinçli alım sık olduğu için parasetamol
-  düzeyi her ciddi zehirlenmede rutin bakılır; antidot başlama kararının gecikmesi organ yetmezliğinin
-  ana belirleyicisidir
-patofizyoloji: Antidotlar dört mantıkla çalışır. Reseptör antagonizması opioidlerde naloksonla, benzodiyazepinlerde
-  (nadiren) flumazenille yapılır. Molekül nötralizasyonu demir ve ağır metalleri şelat eden defiroksamin,
-  süksimer ve EDTA ile digoksinin Fab antikor fragmentleriyle sağlanır. Substrat desteği parasetamolden
-  türeyen NAPQIyi glutatyonla bağışız hale getiren N-asetilsisteinin mantığıdır; enzim inhibisyonu ise
-  metanol ve etilen glikolü alkole çeviren alkol dehidrojenazı fomepizolle durdurarak toksik asitlerin
-  oluşumunu engeller. Glikolitik asitlerin hedef dokulara zararı, mikst asidozun derinliği ve osmolal
-  boşluğun büyüklüğü birbirine paraleldir; bikarbonat ise trisiklik antidepresanda sodyum kanal blokunu
-  kaldırarak QRSyi daraltır
+tipik_hasta: 'Bilinç bozukluğu, inatçı hipotansiyon, nadir ritim bozukluğu ya da açıklanamayan **anijon boşluklu**
+  metabolik asidozla acile gelen; alım öyküsü belirsiz hasta. Her ciddi zehirlenmede **parasetamol** düzeyi
+  rutin bakılır; antidot başlama gecikmesi organ yetmezliğinin ana belirleyicisi'
+patofizyoloji: 'Antidotlar dört mantıkla çalışır: **reseptör antagonizması**, **molekül nötralizasyonu**,
+  **substrat desteği**, **enzim inhibisyonu**. Reseptör antagonizması opioidde **nalokson**, benzodiyazepinde
+  (nadiren) **flumazenil**le; molekül nötralizasyonu şelatlayıcılarla ve digoksinda **Fab antikor fragmentleri**yle.
+  Substrat desteği **NAPQI**yi glutatyonla bağışız kılan **N-asetilsistein**in mantığı; enzim inhibisyonu
+  metanol ve etilen glikolü alkole çeviren **alkol dehidrojenaz**ı **fomepizol**le durdurur. Bikarbonat
+  trisiklik antidepresanda **sodyum kanal** blokunu kaldırarak **QRS**yi daraltır; dokusal zarar, asidozun
+  derinliği ve **osmolal boşluk** birbirine paraleldir'
 anahtar_bulgular:
-- 'Opioid triyadı: miyozis, solunum hız ve derinliğinde baskılanma, bilinç bulanıklığı — kesin antidot
-  naloksondur ve damar yolu yoksa burun içine verilir'
-- 'Parasetamol: ilk 24 saat sessiz seyreder; sağ üst kadran ağrısı, AST ve INR yükselmesi 24-72 saatte
-  belirir — tedavi çizgisi aşılmışsa N-asetilsistein'
-- 'Karbon monoksit: baş ağrısı, bulantı, konfüzyon, bilinç kaybı; oksijen saturasyonu yanıltıcı biçimde
-  normaldir, tedavi %100 oksijen ve seçili olguda hiperbarik oksijendir'
-- 'Organofosfat ve karbamat: miyozis, salya artışı, gözyaşı, bronkore, karın krampları ve kas fasikülasyonları
-  — atropin artı pralidoksim'
-- 'Metanol: görme bulanıklığı ve boyun arkasında baş ağrısı; etilen glikol: idrarda kalsiyum oksalat
-  kristalleri ve böbrek ağrısı — ikisinde de yüksek anijon boşluğu ve yüksek osmolal boşluk, antidot
-  fomepizoldür'
-- 'Digoksin: nadir aritmiler (atriyoveküler blok, sürekli sıklıkla ventriküler taşikardi), hiperkalemi ve
-  sarı görmesi; ağır olguda digoksin Fab fragmentleri'
-- 'Trisiklik antidepresan: antikolinerjik taşikardi, kuru deri, midriyazis ve EKGde aVRede terminal R
-  ile QRS genişlemesi — sodyum bikarbonat'
-- 'Metemoglobinemi: oksijen tedavisine yanıt vermeyen siyanoz, çikolata rengi kan ve arteryel kan gazında
-  normal pO2 — metilen mavisi'
+- 'Opioid triyadı: **miyozis**, solunum baskılanması, bilinç bulanıklığı; kesin antidot **nalokson** (damar
+  yolu yoksa burun içine verilir)'
+- 'Parasetamol: ilk 24 saat sessiz seyreder; sağ üst kadran ağrısı, **AST** ve **INR** yükselmesi 24-72
+  saatte belirir; tedavi çizgisi aşılmışsa **N-asetilsistein**'
+- 'Karbon monoksit: baş ağrısı, konfüzyon, bilinç kaybı; **oksijen saturasyonu** yanıltıcı biçimde normaldir;
+  tedavi **yüzde yüz oksijen**, seçili olguda **hiperbarik oksijen**'
+- 'Organofosfat ve karbamat: miyozis, salya artışı, bronkore, karın krampları, kas fasikülasyonları; antidot
+  **atropin** artı **pralidoksim**'
+- 'Metanol: görme bulanıklığı; etilen glikol: idrarda **kalsiyum oksalat** kristalleri; ikisinde de yüksek
+  **anijon boşluğu** ve **osmolal boşluk**; antidot **fomepizol**'
+- 'Digoksin: nadir aritmiler (AV blok, ventriküler taşikardi), **hiperkalemi**, sarı görme; ağır olguda
+  **digoksin Fab fragmentleri**'
+- 'Trisiklik antidepresan: antikolinerjik taşikardi, kuru deri, midriyazis, EKGde **aVRede terminal R**
+  ve **QRS** genişlemesi; antidot **sodyum bikarbonat**'
+- 'Metemoglobinemi: oksijen tedavisine yanıt vermeyen **siyanoz**, çikolata rengi kan, kan gazında normal
+  **pO2**; antidot **metilen mavisi**'
 patognomonik: null
-ilk_tetkik: Kardiyak monitör ve parmak ucunda glukoz; parasetamol ve salisilat düzeyleri; arteryel kan
-  gazı, elektrolitler, laktat, böbrek ve karaciğer fonksiyonları. Anijon boşluğu sodyumdan klor ve bikarbonat
-  çıkarılarak hesaplanır; osmolal boşluk ise ölçülen plazma ozmolalitesinin, sodyum, glukoz, üre ve etanol
-  ile hesaplanan değere farkıdır. EKG trisiklik, kalsiyum kanal blokeri, beta bloker ve digoksin yönünden
-  ilk taramadır; şüpheli maddede serum düzeyi ve toksikoloji paneli istenir
-kesin_tani: 'Tanı toksidromun laboratuvalla eşleşmesidir: yüksek anijon boşluğu asidozlu hastada normal
-  glukoz ve üremeyle görme bozukluğu metanolü, oksalat kristalleri etilen glikolü; yüksek osmolal boşluk
-  metanol, etilen glikol ve izopropil alkolü; çikolata rengi kan ve normal pO2li siyanoz metemoglobinemiyi;
-  QRS genişlemesi trisiklik antidepresanı; karboksihemoglobin düzeyi karbon monoksiti işaret eder. Kesin
-  madde saptanamazsa tedavi toksidroma göre verilir ve en ölümcül adaylar parasetamol dahil kapsanır'
-ilk_tedavi: 'Önce havayolu, solunum, dolaşım ve glukoz; damar yolu açılıp dekontaminasyon kararı verilir.
-  Spesifik antidotlar: opioidde nalokson, parasetamolda N-asetilsistein, karbon monoksitte %100 oksijen
-  ve hiperbarik oksijen, organofosfatta atropin artı pralidoksim, metanol ve etilen glikolde fomepizol,
-  digoksinde Fab fragmentleri, demirde defiroksamin, trisiklikte sodyum bikarbonat, metemoglobinemide metilen
-  mavisi, beta blokerde glukagon, kalsiyum kanal blokerinde kalsiyum glukonat artı yüksek doz insülin-glukoz
-  tedavisi, kurşunda süksimer ve ağır olguda EDTA, izoniazidde piridoksin, sempatomimetik toksidromda benzodiyazepin.
-  Benzodiyazepin antidotu flumazenil uzun süreli kullanıcılarda nöbet ve trisiklikle birlikte alımda aritmi
-  riski nedeniyle rutin kullanılmaz; koma kokteyli bugün glukoz ve naloksondan ibarettir'
-klasik_komplikasyon: Parasetamolda gecikmeli fulminan karaciğer yetmezliği; metanolde körlük ve bazal
-  ganglion nekrozu, etilen glikolde akut böbrek yetmezliği; trisiklikte inatçı nöbet ve ölümcül aritmi;
-  karbon monoksitte geç dönem nöropsikiyatrik tablo; digoksinde dirençli hiperkalemi ve kalp bloğu; demirde
-  gecikmiş şok ve karaciğer nekrozu; salisilatta beyin ödemi; kurşunda ensefalopati
+ilk_tetkik: 'Kardiyak monitör ve parmak ucu glukoz; **parasetamol** ve **salisilat** düzeyleri; arteryel
+  kan gazı, elektrolitler, laktat, böbrek-karaciğer fonksiyonları. **Anijon boşluğu** sodyumdan klor ve
+  bikarbonat çıkarılarak hesaplanır; **osmolal boşluk** ölçülen plazma ozmolalitesinin hesaplanandan farkıdır.
+  **EKG** trisiklik, kalsiyum kanal blokeri, beta bloker ve digoksin yönünden ilk taramadır'
+kesin_tani: 'Tanı toksidromun laboratuvalla eşleşmesidir. Yüksek anijon boşluklu asidozda normal glukoz
+  ve görme bozukluğu **metanolü**, oksalat kristalleri **etilen glikolü** işaret eder. Çikolata rengi
+  kan ve normal pO2li siyanoz **metemoglobinemiyi**; **QRS** genişlemesi **trisiklik antidepresanı**;
+  **karboksihemoglobin** düzeyi **karbon monoksiti** işaret eder. Madde saptanamazsa tedavi toksidroma
+  göre verilir; en ölümcül adaylar (**parasetamol** dahil) kapsanır'
+ilk_tedavi: 'Önce havayolu, solunum, dolaşım ve **glukoz**; koma kokteyli **glukoz** ve **nalokson**dur.
+  Opioidde **nalokson**, parasetamolda **N-asetilsistein**, karbon monoksitte **oksijen** (seçili olguda
+  **hiperbarik**), organofosfatta **atropin artı pralidoksim**, metanol-etilen glikolde **fomepizol**,
+  digoksinde **Fab fragmentleri**. Demirde **defiroksamin**, trisiklikte **sodyum bikarbonat**, metemoglobinemide
+  **metilen mavisi**, beta blokerde **glukagon**, sempatomimetikte **benzodiyazepin**. Kalsiyum kanal
+  blokerinde **kalsiyum glukonat** artı yüksek doz **insülin-glukoz**; kurşunda **süksimer**, izoniazidde
+  **piridoksin**; benzodiyazepin antidotu **flumazenil** kullanılmaz (nöbet, trisiklikle aritmi riski)'
+klasik_komplikasyon: 'Parasetamolda gecikmeli **fulminan karaciğer yetmezliği**. Metanolde **körlük**
+  ve bazal ganglion nekrozu; etilen glikolde **akut böbrek yetmezliği**. Trisiklikte inatçı nöbet ve ölümcül
+  **aritmi**; karbon monoksitte geç dönem **nöropsikiyatrik tablo**. Digoksinde dirençli hiperkalemi ve
+  kalp bloğu; demirde gecikmiş şok, salisilatta beyin ödemi, kurşunda **ensefalopati**'
 ayirici:
 - hastalik: iskemik_inme
   ayirt_edici: Vasküler komada fokal defisit, anizokori ve odyolojik odak bulguları öne çıkar, bilgisayarlı

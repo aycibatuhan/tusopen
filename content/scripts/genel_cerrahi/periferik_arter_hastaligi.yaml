@@ -15,35 +15,19 @@ taksonomi:
   - kardiyoloji
   - kard_aort_periferik
   - kard_ap_periferik_arter
-tipik_hasta: 'Yürüyüşün belirli bir mesafesinde baldırına vuran kramp tarzı ağrı geldiğini, durup birkaç
-  dakika bekleyince geçtiğini ve yeniden yürüyebildiğini anlatan hastadır; elli yaş üstü, sigara içen
-  ya da diyabetli kişidir. Daha ileri tablo: gece yatakta istirahatte ayak ağrısı (ayak aşağı sarkıtınca
-  rahatlayan), iyileşmeyen ayak yarası ve parmak gangrenidir'
-patofizyoloji: 'Aterosklerozun alt ekstremite damarlarındaki tablosudur; risk faktörleri koroner hastalıkla
-  örtüşür, sigara ve diyabet öndedir. En sık yerleşim yüzeysel femoral arterdir (addüktör kanal) ve baldır
-  klaudikasyonu yapar; aortoiliak tutulum Leriche sendromu olarak kalça-uyluk ağrısı, femoral nabız alınamaması
-  ve erektil disfonksiyonla gelir. Akım azaldıkça doku beslenmesi bozulur: istirahat ağrısı, ülser ve
-  gangren kritik iskemiyi gösterir'
+tipik_hasta: "Yürüyüşün belirli bir mesafesinde **baldıra vuran kramp tarzı ağrı** geldiğini, durup birkaç dakika bekleyince geçtiğini ve yeniden yürüyebildiğini anlatan hastadır; **elli yaş üstü**, sigara içen ya da **diyabetli** kişidir. Daha ileri tablo: gece yatakta istirahatte ayak ağrısı (ayak aşağı sarkıtınca rahatlayan), iyileşmeyen ayak yarası ve **parmak gangreni**dir"
+patofizyoloji: "**Ateroskleroz**un alt ekstremite damarlarındaki tablosudur; risk faktörleri koroner hastalıkla örtüşür, **sigara** ve **diyabet** öndedir. En sık yerleşim **yüzeysel femoral arter**dir (addüktör kanal) ve **baldır klaudikasyonu** yapar; aortoiliak tutulum **Leriche sendromu** olarak kalça-uyluk ağrısı, **femoral nabız alınamaması** ve **erektil disfonksiyon**la gelir. Akım azaldıkça doku beslenmesi bozulur: **istirahat ağrısı**, **ülser** ve **gangren** kritik iskemiyi gösterir"
 anahtar_bulgular:
-- 'Klatikasyon: belli yürüme mesafesinde baldırda ağrı, dinlenince dakikalar içinde geçmesi — klaudikasyon
-  mesafesi hastalığın derecesini gösterir'
-- Tutulan tarafta nabız zayıflaması ya da alınamaması, soğukluk, ciltte parlaklık ve tüy kaybı
-- 'Kritik iskemi: istirahatte gece artan ayak ağrısı, iyileşmeyen ülser, parmak gangreni'
-- 'Ayak bilek-kol indeksi (ABI) düşük: bilek basıncının kol basıncına oranıdır, mantığı şudur — daralma
-  varsa bilekte ölçülen basınç kolun altında kalır; 0.9''un altı hastalığı gösterir, 0.4''ün altı kritik
-  iskemiyi işaret eder; egzersiz sonrası ölçümde değer daha da düşer. Diyabetik ve yaşlı hastada damar
-  duvarı kalsifiye olduğundan basınç yanıltıcı biçim yüksek çıkar'
-- 'Leriche sendromu: kalça-uyluk klaudikasyonu, femoral nabız alınamaması, erektil disfonksiyon'
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Belirli yürüme mesafesinde başlayıp dinlenince dakikalar içinde geçen baldır ağrısı
-ilk_tetkik: ABI ölçümü ve ekstremite doppler ultrasonu; egzersiz öncesi-sonrası ABI erken evreyi yakalar
-kesin_tani: Klinik öykü, ABI ve doppler bulguları çoğu hastada yeterlidir; revaskülarizasyon planlanacaksa
-  BT anjiyografi ya da dijital subtraksiyon anjiyografiyle lezyonun yeri ve distal akım gösterilir
-ilk_tedavi: 'Risk faktörü kontrolü esastır: sigara bırakma (en önemli adım), diyabet ve hipertansiyon
-  kontrolü, statin, antiplatelet tedavi. Düzenli yürüme antrenmanı (ağrıya kadar yürü-dinlen döngüsü)
-  klaudikasyon mesafesini uzatır; silostazol seçilmiş hastada kullanılır. Kritik iskemide acil revaskülarizasyon:
-  kısa darlıkta balon-stent, uzun oklüzyonda baypas; revaskülarize edilemeyen doku kaybında amputasyon'
-klasik_komplikasyon: Kritik ekstremite iskemisi (istirahat ağrısı, ülser, gangren, amputasyon); tutulan
-  damarda akut trombozla ani ağırlaşma
+- "**Klaudikasyon**: belli yürüme mesafesinde baldırda ağrı, dinlenince dakikalar içinde geçer; **klaudikasyon mesafesi** hastalığın derecesini gösterir"
+- "Tutulan tarafta **nabız zayıflaması** ya da alınamaması, soğukluk, ciltte parlaklık ve tüy kaybı"
+- "**Kritik iskemi**: istirahatte gece artan **ayak ağrısı**, iyileşmeyen **ülser**, parmak **gangreni**"
+- "**Ayak bilek-kol indeksi (ABI)**: bilek basıncının kol basıncına oranı; **0.9'un altı** hastalığı gösterir, **0.4'ün altı** kritik iskemiyi işaret eder; diyabetik ve yaşlıda kalsifiye damar basıncı yanıltıcı biçim yüksek gösterir"
+- "**Leriche sendromu**: kalça-uyluk klaudikasyonu, femoral nabız alınamaması, erektil disfonksiyon"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — belirli yürüme mesafesinde başlayıp dinlenince dakikalar içinde geçen **baldır ağrısı**"
+ilk_tetkik: "**ABI** ölçümü ve ekstremite **doppler ultrasonu**; **egzersiz öncesi-sonrası ABI** erken evreyi yakalar"
+kesin_tani: "Klinik öykü, **ABI** ve **doppler** bulguları çoğu hastada yeterlidir; revaskülarizasyon planlanacaksa **BT anjiyografi** ya da **dijital subtraksiyon anjiyografisi**yle lezyonun yeri ve distal akım gösterilir"
+ilk_tedavi: "**Risk faktörü kontrolü** esastır: **sigara bırakma** (en önemli adım), diyabet ve hipertansiyon kontrolü, **statin**, **antiplatelet tedavi**; **Düzenli yürüme antrenmanı** (ağrıya kadar yürü-dinlen döngüsü) klaudikasyon mesafesini uzatır; **silostazol** seçilmiş hastada kullanılır; **Kritik iskemide** acil revaskülarizasyon: kısa darlıkta **balon-stent**, uzun oklüzyonda **baypas**, revaskülarize edilemeyen doku kaybında **amputasyon**"
+klasik_komplikasyon: "**Kritik ekstremite iskemisi** (istirahat ağrısı, ülser, gangren, amputasyon); tutulan damarda **akut tromboz**la ani ağırlaşma"
 tus_gecmisi:
 - tus-2017-ilkbahar-ktbt-102
 - tus-2018-sonbahar-ktbt-97

@@ -12,37 +12,19 @@ taksonomi:
   - kbb
   - kbb_burun
   - kbb_bn_epistaksis
-tipik_hasta: 'İki klasik profil vardır: parmağıyla burnunu karıştırmaya eğilimli çocukta önden akan, kolay
-  duran kanama; ve hipertansiyon ya da kalp hastalığı nedeniyle aspirin-antikoagülan kullanan yaşlı hastada
-  gece uykudan uyandıran, yutağa-ağıza akan, zor duran kanama. Burun kuruluğu ve mevsimsel alerji her
-  iki profilde tetikleyicidir'
-patofizyoloji: Kanamaların büyük bölümü septumun ön-alt bölümündeki Kiesselbach pleksusundan (Little alanı)
-  çıkar; burada anterior etmoidal arter, sfenopalatin arter ve dudak-damak damarlarının dalları yoğun
-  anastomoz yapar ve mukoza incedir. Kuruluk, parmak travması, inflamasyon bu bölgede yırtığa neden olur.
-  Arkaya kanama genellikle sfenopalatin arter dalından gelir; burun çatısına yakın kanama ise anterior
-  etmoidal arter alanındadır, bu yüzden yüksek-ön yerleşimli kanamada burun kökü üzerinden dıştan bası
-  ve endoskopik ligasyon mantığı gündeme gelir. Hipertansiyon tek başına neden olmaz; kanamayı şiddetlendirir
-  ve sürdürür, antikoagülan-antiagregan ilaçlar aynı etkiyi yapar
+tipik_hasta: "İki klasik profil vardır: parmağıyla **burnunu karıştırmaya** eğilimli **çocuk**ta önden akan, kolay duran kanama. Ve **hipertansiyon** ya da kalp hastalığı nedeniyle **aspirin-antikoagülan** kullanan **yaşlı** hastada gece uykudan uyandıran, **yutağa-ağıza akan**, zor duran kanama. **Burun kuruluğu** ve **mevsimsel alerji** her iki profilde tetikleyicidir"
+patofizyoloji: "Kanamaların büyük bölümü septumun ön-alt bölümündeki **Kiesselbach pleksus**undan (Little alanı) çıkar; **anterior etmoidal arter**, **sfenopalatin arter** ve dudak-damak damarlarının dalları yoğun **anastomoz** yapar, mukoza incedir. **Kuruluk**, **parmak travması**, inflamasyon bu bölgede **yırtık**a neden olur. Arkaya kanama genellikle **sfenopalatin arter** dalından gelir; burun çatısına yakın kanama ise **anterior etmoidal arter** alanındadır. **Hipertansiyon** tek başına neden olmaz; kanamayı **şiddetlendirir** ve sürdürür, **antikoagülan-antiagregan** ilaçlar aynı etkiyi yapar"
 anahtar_bulgular:
-- Septumun ön-alt bölgesinde tek noktada kanayan damar ucu (ön kaynak)
-- Ağıza-yutağa akan kan, yutulan kanla bulantı; ön burun girişinde az görünme (arka kaynak)
-- Antikoagülan kullanan yaşlı hastada tekrarlayan veya zor duran kanama
-- Tek taraflı, sürekli kanamaya burun tıkanıklığı eşlik etmesi (tümör uyarısı)
-- Uzun süren kanamada nabız yükselmesi ve tansiyon düşmesi
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Ön kanamada spekulum muayenesinde septum ön-alt bölgesinde (Kiesselbach alanı) kanayan damar
-  ucunun görünmesi
-ilk_tetkik: Burun spekulumuyla ön muayenede kanama odağı aramak; eşlik eden genel değerlendirmede hemogram,
-  pıhtılaşma paneli ve tansiyon ölçümü
-kesin_tani: Klinik tanıdır; kaynak tam saptanamarsa rijid endoskopik burun muayenesi yapılır. Tek taraflı
-  veya tekrarlayan kanamada tümör dışlamak için endoskopi ve gerektiğinde görüntüleme eklenir
-ilk_tedavi: Hastayı oturt, öne eğ; burun kanatlarına 10 dakika bası; gerektiğinde vazokonstriktif pamukla
-  hazırlayıp görülen odakta gümüş nitrat veya elektrokoter; odağı görülmeyen ön kanamada ön paketleme.
-  Ağıza akan posterior kanamada posterior paketleme veya endoskopik sfenopalatin arter koteri-ligasyonu;
-  burun çatısına yakın kanamada anterior etmoidal arter hedefli müdahale düşünülür. Antikoagülanı gözden
-  geçir; uzun süren kanamada damar yolu aç
-klasik_komplikasyon: Yutulan kan nedeniyle kanlı kusma ve hipovolemi; uzun süreli paketlemeye bağlı sinüzit
-  ve toksik şok sendromu; koter-paketleme sonrası septal perforasyon; antikoagülan hastada hızla gelişen
-  şok
+- "Septumun ön-alt bölgesinde tek noktada **kanayan damar ucu** (**ön kaynak**)"
+- "**Ağıza-yutağa akan kan**, yutulan kanla bulantı; ön burun girişinde az görünme (**arka kaynak**)"
+- "**Antikoagülan** kullanan yaşlı hastada **tekrarlayan** veya **zor duran** kanama"
+- "**Tek taraflı**, sürekli kanamaya **burun tıkanıklığı** eşlik etmesi (**tümör uyarısı**)"
+- "Uzun süren kanamada **nabız yükselmesi** ve **tansiyon düşmesi**"
+patognomonik: "Patognomonik değil; tanıya yardımcı tipik bulgu — ön kanamada spekulum muayenesinde **septum ön-alt bölgesinde (Kiesselbach alanı) kanayan damar ucu**nun görünmesi"
+ilk_tetkik: "**Burun spekulumu**yla ön muayenede **kanama odağı** aramak; eşlik eden genel değerlendirmede **hemogram**, **pıhtılaşma paneli** ve **tansiyon** ölçümü"
+kesin_tani: "**Klinik tanı**dır; kaynak tam saptanamarsa **rijid endoskopik burun muayenesi** yapılır. **Tek taraflı** veya **tekrarlayan** kanamada **tümör** dışlamak için **endoskopi** ve gerektiğinde **görüntüleme** eklenir"
+ilk_tedavi: "Hastayı **oturt, öne eğ**; burun kanatlarına **10 dakika bası**. Gerektiğinde **vazokonstriktif** pamukla hazırlayıp görülen odakta **gümüş nitrat** veya **elektrokoter**; odağı görülmeyen ön kanamada **ön paketleme**. **Ağıza akan posterior kanama**da **posterior paketleme** veya **endoskopik sfenopalatin arter koteri-ligasyonu**; burun çatısına yakın kanamada **anterior etmoidal arter** hedefli müdahale düşünülür. **Antikoagülan**ı gözden geçir; uzun süren kanamada **damar yolu** aç"
+klasik_komplikasyon: "Yutulan kan nedeniyle **kanlı kusma** ve **hipovolemi**; uzun süreli **paketleme**ye bağlı **sinüzit** ve **toksik şok sendromu**; koter-paketleme sonrası **septal perforasyon**; **antikoagülan** hastada hızla gelişen **şok**"
 tus_gecmisi:
 - tus-2014-sonbahar-ktbt-108
 - tus-2014-sonbahar-ttbt-5

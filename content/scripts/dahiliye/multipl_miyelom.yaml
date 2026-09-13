@@ -11,39 +11,39 @@ taksonomi:
   - dahiliye
   - dah_hematoloji
   - dah_hem_multipl_miyelom
-tipik_hasta: 'Altmış yaş dolayındaki hasta; klasik giriş: kemik ağrısı (omurga ve göğüs önde), yorgunluk
-  ve anemi; rutin tetkikte hızlanan eritrosit sedimentasyonu veya protein elektroforezinde tesadüfi M
-  piki sık bir giriş kapısıdır; kreatinin yükselmesi ve kalsiyum yüksekliği tabloya eşlik edebilir; CRAB
-  dörtlüsü (kalsiyum, böbrek, anemi, kemik) hastalığın iskeletini kurar'
-patofizyoloji: Kemik iliğinde klonal plazma hücrelerinin çoğalarak monoklonal immünoglobulin (M proteini)
-  ve serbest hafif zincir salgılaması; osteoblast aktivitesinin baskılanıp osteoklast uyarılmasıyla (RANKL
-  artışı) litik kemik lezyonları ve hiperkalsemi gelişir; hafif zincirler distal tubülde döküm oluşturarak
-  miyelom silindirini (döküm nefropatisi) yapar; plazma hücreleri içindeki immünoglobulin birikimi Russell
-  cisimcikleri olarak görünür; normal immünoglobulinlerin baskılanması kapsüllü bakteri (pnömokok) enfeksiyonlarına
-  zemin hazırlar
+tipik_hasta: 'Altmış yaş dolayındaki hasta; klasik giriş: **kemik ağrısı** (omurga ve göğüs önde), yorgunluk
+  ve **anemi**. Rutin tetkikte hızlanan **sedimentasyon** veya protein elektroforezinde tesadüfi **M piki**
+  sık giriş kapısı; **kreatinin** yükselmesi ve **kalsiyum** yüksekliği eşlik edebilir. **CRAB** dörtlüsü:
+  **kalsiyum**, **böbrek**, **anemi**, **kemik**'
+patofizyoloji: 'Kemik iliğinde klonal **plazma hücrelerinin** çoğalarak **monoklonal immünoglobulin (M
+  proteini)** ve serbest **hafif zincir** salgılaması. **Osteoblast** aktivitesi baskılanıp **osteoklast**
+  uyarılmasıyla (**RANKL** artışı) litik kemik lezyonları ve **hiperkalsemi** gelişir. Hafif zincirler distal
+  tubülde **miyelom silindiri**ni (döküm nefropatisi) yapar; normal immünoglobulin baskılanması kapsüllü
+  bakteri (**pnömokok**) enfeksiyonlarına zemin hazırlar'
 anahtar_bulgular:
-- Serum protein elektroforezinde dar, homojen M piki; idrarda Bence Jones proteini; serbest hafif zincir
-  oranında bozulma
-- Kan yaymasında eritrositlerin para yığını (rouleaux) dizilimi; sedimentasyon hızında çarpıcı artış
-- Kafatası, omurga ve pelviste litik lezyonlar; kompresyon kırıkları ve kemik ağrısı
-- Normositer-normokromik anemi, kreatinin yükselmesi ve kalsiyum yüksekliği (CRAB başlıkları)
-- Kemik iliğinde yüzde on ve üzerinde klonal plazma hücresi artışı; plazma hücrelerinde Russell cisimcikleri
-- Tekrarlayan pnömokok enfeksiyonları; ek olarak amiloidoz (dilde büyüme, nefrotik proteinüri) tabloya
-  karışabilir
-patognomonik: Patognomonik değil; tanıya yardımcı tipik bulgu — Kemik iliğinde klonal plazma hücresi yığını eşliğinde serum elektroforezinde M piki; kan
-  yaymasında rouleaux dizilimi tipik eşlikçidir
-ilk_tetkik: Tam kan sayımı, kreatinin, kalsiyum ve sedimentasyon; serum ve idrar protein elektroforezi-immünifikasyonu,
-  serbest hafif zincir ölçümü; iskelet değerlendirmesi düşük doz BT veya düz grafilerle (kafatası, omurga,
-  pelvis)
-kesin_tani: Kemik iliğinde yüzde on ve üstü klonal plazma hücresi artışı veya biyopsiyle doğrulanmış plazmasitom;
-  buna CRAB bulgularından en az biri veya biyomarker kriterleri (serbest hafif zincir oranının yüz katı
-  aşması, kemik iliğinde yüzde altmış ve üzeri plazma hücresi, MR'da birden fazla odak) eklenir
-ilk_tedavi: Proteazom inhibitörü (bortezomib) + immünmodülatör (lenalidomid) + glukokortikoid üçlüsü temel
-  rejimdir; uygun hastada otolog kök hücre transplantasyonu planlanır. Hiperkalsemide bol sıvı ve bisfosfonat
-  (zoledronik asit veya pamidronat); ağrılı veya kırık riskli omurga lezyonlarında radyoterapi veya perkütan
-  vertebroplasti; ağır hafif zincir yüküyle gelen böbrek yetmezliğinde hızlı tümör kitlesi düşürme önceliklidir
-klasik_komplikasyon: Miyelom silindiri (hafif zincir döküm nefropatisi), hiperkalsemik kriz, patolojik kırık
-  ve omurilik basısı; AL amiloidoz; kapsüllü bakteri tekrarlayan enfeksiyonlar
+- 'Serum protein elektroforezinde dar, homojen **M piki**; idrarda **Bence Jones proteini**; serbest **hafif
+  zincir oranı**nda bozulma'
+- 'Kan yaymasında eritrositlerin **para yığını (rouleaux)** dizilimi; **sedimentasyon**da çarpıcı artış'
+- 'Kafatası, omurga ve pelviste **litik lezyonlar**; **kompresyon kırıkları** ve kemik ağrısı'
+- '**Normositer-normokromik anemi**, **kreatinin** yükselmesi ve **kalsiyum** yüksekliği (**CRAB** başlıkları)'
+- 'Kemik iliğinde **yüzde on ve üzerinde** klonal **plazma hücresi** artışı; **Russell cisimcikleri**'
+- 'Tekrarlayan **pnömokok** enfeksiyonları; ek olarak **amiloidoz** (dilde büyüme, nefrotik proteinüri)'
+patognomonik: 'Patognomonik değil; tanıya yardımcı tipik bulgu — kemik iliğinde **klonal plazma hücresi**
+  yığını eşliğinde serum elektroforezinde **M piki**; kan yaymasında **rouleaux** dizilimi tipik eşlikçidir'
+ilk_tetkik: 'Tam kan sayımı, **kreatinin**, **kalsiyum** ve **sedimentasyon**; serum ve idrar **protein
+  elektroforezi-immünifikasyonu**, serbest **hafif zincir** ölçümü; iskelet değerlendirmesi **düşük doz
+  BT** veya düz grafilerle'
+kesin_tani: 'Kemik iliğinde **yüzde on ve üstü** klonal **plazma hücresi** artışı veya biyopsiyle doğrulanmış
+  **plazmasitom**. Buna **CRAB** bulgularından en az biri veya **biyomarker** kriterleri eklenir; serbest
+  hafif zincir oranının **yüz katı** aşması, kemik iliğinde **yüzde altmış** ve üzeri plazma hücresi, MR''da
+  birden fazla odak'
+ilk_tedavi: '**Proteazom inhibitörü** (**bortezomib**) + **immünmodülatör** (**lenalidomid**) + glukokortikoid
+  üçlüsü temel rejim; uygun hastada **otolog kök hücre transplantasyonu** planlanır. Hiperkalsemide bol
+  sıvı ve **bisfosfonat** (**zoledronik asit** veya **pamidronat**); ağrılı veya kırık riskli omurga lezyonlarında
+  **radyoterapi** veya **perkütan vertebroplasti**. Ağır hafif zincir yüküyle gelen **böbrek yetmezliğinde**
+  hızlı tümör kitlesi düşürme önceliklidir'
+klasik_komplikasyon: '**Miyelom silindiri** (hafif zincir döküm nefropatisi), **hiperkalsemik kriz**, **patolojik
+  kırık** ve omurilik basısı; **AL amiloidoz**; kapsüllü bakteri **tekrarlayan enfeksiyonlar**'
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-24
 - tus-2014-sonbahar-ktbt-21

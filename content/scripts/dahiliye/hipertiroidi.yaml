@@ -12,29 +12,30 @@ taksonomi:
   - dahiliye
   - dah_endokrinoloji
   - dah_end_hipertiroidi
-tipik_hasta: Orta yaş kadında çarpıntı, kilo vermesine rağmen iştah artışı, sıcak dayanılmazlığı, sinirlilik
-  ve el titremesi; boyunda diffüz şişlik, gözlerde belirginlik. Yaşlıda tablo sessizdir (apatetik hipertiroidi);
-  tek bulgu atrial fibrilasyon veya kilo kaybı olabilir
-patofizyoloji: Graves'te TSH reseptörüne karşı stimülan otoantikor (TRAb) folikül hücrelerini sürekli
-  uyarır; T3 ve T4 salınımı artar, hipofizer TSH geri beslemeyle baskılanır. Toksik adenom ve toksik multinodüler
-  guatrda ise otonom foliküller TSH kontrolünden bağımsız hormon üretir
+tipik_hasta: 'Orta yaş **kadın**da çarpıntı, kilo vermesine rağmen **iştah artışı**, sıcak dayanılmazlığı,
+  sinirlilik, el titremesi; boyunda **diffüz şişlik**, gözlerde belirginlik. Yaşlıda tablo sessizdir (**apatetik
+  hipertiroidi**); tek bulgu **atrial fibrilasyon** veya kilo kaybı olabilir'
+patofizyoloji: 'Graves''te **TSH reseptörüne** karşı stimülan otoantikor (**TRAb**) folikül hücrelerini
+  sürekli uyarır; **T3** ve **T4** salınımı artar, hipofizer **TSH** baskılanır. **Toksik adenom** ve toksik
+  multinodüler guatrda otonom foliküller TSH kontrolünden bağımsız hormon üretir'
 anahtar_bulgular:
-- Baskılanmış TSH ile yüksek serbest T4 (veya serbest T3)
-- TSH reseptör antikoru (TRAb) pozitifliği
-- Diffüz, hipervasküler guatr; gland üzerinde sistolik üfürüm duyulabilir
-- İnfiltratif oftalmopati (ekzoftalmus, diplopi) ve pretibial miksödem
-- İnce tremor, hiperrefleksi, sıcak-nemli cilt, taşikardi
-- Atrial fibrilasyon (özellikle yaşlı hastada ilk başvuru bulgusu olabilir)
-patognomonik: İnfiltratif oftalmopati ve pretibial miksödem — Graves için çok karakteristik (hashimatozlarda ve eutiroit TRAb-pozitif olgularda nadiren de olsa bildirilmiştir)
-ilk_tetkik: TSH; baskılanmışsa serbest T4 eklenir ve TSH-bağımsız hipertiroidi doğrulanır
-kesin_tani: 'Graves: tipik klinik tablo artı TRAb pozitifliği; antikor şüpheliyse sintigrafide diffüz
-  artmış iyot tutulumu. Toksik adenom sintigrafiyi fokal sıcak nodülle, toksik multinodüler guatr heterojen
-  tutulumla ayırt eder'
-ilk_tedavi: Semptom kontrolü için beta bloker; etkiyi kesmek için antitiroid ilaç (metimazol; gebeliğin
-  ilk üç ayında propiltiyourasil). Kalıcı çözüm için radyoaktif iyot veya tiroidektomi; radyoiyod oftalmopatiyi
-  alevlendirebilir, aktif göz tutulumunda cerrahi veya antitiroid önceliklidir
-klasik_komplikasyon: Tiroid fırtınası (ateş, taşikardi, ajitasyon, yüksek debili kalp yetmezliği); tedavi
-  edilmeyen hastada atrial fibrilasyon ve osteoporoz
+- '**Baskılanmış TSH** ile yüksek **serbest T4** (veya serbest T3)'
+- '**TSH reseptör antikoru (TRAb)** pozitifliği'
+- '**Diffüz, hipervasküler guatr**; gland üzerinde **sistolik üfürüm** duyulabilir'
+- '**İnfiltratif oftalmopati** (ekzoftalmus, diplopi) ve **pretibial miksödem**'
+- 'İnce tremor, hiperrefleksi, sıcak-nemli cilt, **taşikardi**'
+- '**Atrial fibrilasyon** (özellikle yaşlı hastada ilk başvuru bulgusu olabilir)'
+patognomonik: '**İnfiltratif oftalmopati** ve **pretibial miksödem** — Graves için çok karakteristik (hashimatozlarda
+  nadiren de olsa bildirilmiştir)'
+ilk_tetkik: '**TSH**; baskılanmışsa **serbest T4** eklenir ve TSH-bağımsız hipertiroidi doğrulanır'
+kesin_tani: 'Graves: tipik klinik tablo artı **TRAb** pozitifliği; antikor şüpheliyse sintigrafide **diffüz
+  artmış iyot tutulumu**. **Toksik adenom** sintigrafiyi **fokal sıcak nodül**le, toksik multinodüler guatr
+  **heterojen tutulum**la ayırt eder'
+ilk_tedavi: 'Semptom kontrolü için **beta bloker**; etkiyi kesmek için antitiroid ilaç: **metimazol** (gebeliğin
+  ilk üç ayında **propiltiyourasil**). Kalıcı çözüm: **radyoaktif iyot** veya **tiroidektomi**. **Radyoiyot**
+  oftalmopatiyi alevlendirebilir; aktif göz tutulumunda cerrahi veya antitiroid önceliklidir'
+klasik_komplikasyon: '**Tiroid fırtınası** (ateş, taşikardi, ajitasyon, yüksek debili kalp yetmezliği);
+  tedavisiz **atrial fibrilasyon** ve **osteoporoz**'
 tus_gecmisi:
 - tus-2014-ilkbahar-ktbt-101
 - tus-2018-ilkbahar-ktbt-17
